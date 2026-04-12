@@ -1,0 +1,130 @@
+{
+  "schema": "rootz.ai/well-known/v1",
+  "name": "Origin Data — SEC Company Intelligence for AI",
+  "description": "Structured JSON data for US public companies extracted from SEC EDGAR filings. 98 Fortune 500 companies, 1,105 earnings transcripts, 38 topic indexes. Every file includes cryptographic provenance with a verify URL.",
+  "publisher": "origin.rootz.global",
+  "contact": "https://origin.rootz.global",
+  "updated": "2026-04-12",
+  "sync_schedule": "Daily at 06:00 UTC",
+
+  "capabilities": {
+    "company_lookup": "Read companies/{TICKER}.json for any company identity card",
+    "profile_lookup": "Read profiles/{TICKER}.json for AI-extracted products, people, partnerships",
+    "transcript_lookup": "Read transcripts/{TICKER}/{QUARTER}.json for earnings call data with facts and speakers",
+    "topic_search": "Read facts/by-topic/{topic}.json to find which companies discuss a topic",
+    "company_facts": "Read facts/by-company/{TICKER}.json for all extracted facts about a company",
+    "topic_directory": "Read topics/index.json for all available topics with company counts",
+    "speaker_search": "Read speakers/index.json for analysts who cover multiple companies",
+    "verify_provenance": "Every file has origin.verify URL — fetch it to confirm authenticity and get live data"
+  },
+
+  "directories": {
+    "companies/": {
+      "description": "Identity card per company — ticker, CIK, exchange, SIC, summary, peak metrics",
+      "file_pattern": "{TICKER}.json",
+      "schema": "rootz.ai/sec-company/v1",
+      "count": 98,
+      "example": "companies/NVDA.json"
+    },
+    "profiles/": {
+      "description": "AI-extracted deep profiles — products, people, partnerships, affiliations from 10-K filings",
+      "file_pattern": "{TICKER}.json",
+      "schema": "rootz.ai/sec-profile/v1",
+      "count": 98,
+      "example": "profiles/AAPL.json"
+    },
+    "transcripts/": {
+      "description": "Earnings call transcripts organized by ticker, then by quarter. Includes speakers, facts, Q&A counts",
+      "file_pattern": "{TICKER}/{QUARTER}.json",
+      "schema": "rootz.ai/sec-transcript/v1",
+      "count": 1105,
+      "example": "transcripts/NVDA/Q4_FY2026.json"
+    },
+    "facts/by-topic/": {
+      "description": "Cross-company topic analysis — which companies discuss AI, blockchain, cybersecurity, quantum, etc.",
+      "file_pattern": "{topic}.json",
+      "schema": "rootz.ai/topic-facts/v1",
+      "count": 38,
+      "example": "facts/by-topic/ai.json"
+    },
+    "facts/by-company/": {
+      "description": "Per-company fact index from earnings transcripts — metrics, guidance, claims, topic mentions",
+      "file_pattern": "{TICKER}.json",
+      "schema": "rootz.ai/company-facts/v1",
+      "count": 97,
+      "example": "facts/by-company/NVDA.json"
+    },
+    "topics/": {
+      "description": "Topic directory with company counts per topic",
+      "files": ["index.json"],
+      "schema": "rootz.ai/topic-index/v1"
+    },
+    "speakers/": {
+      "description": "Cross-company speaker index — analysts and executives who appear across multiple companies",
+      "files": ["index.json"],
+      "schema": "rootz.ai/speaker-index/v1"
+    },
+    "meta/": {
+      "description": "Sync metadata — current data counts, last sync timestamp",
+      "files": ["stats.json", "last-sync.json"]
+    }
+  },
+
+  "origin_chain": {
+    "description": "Every file includes an origin block with cryptographic provenance tracing back to SEC EDGAR filings",
+    "fields": {
+      "leaf": "SHA-256 hash of file content + parent hash + timestamp",
+      "parent": "Hash linking to SEC filing provenance",
+      "verify": "URL to verify authenticity at origin.rootz.global",
+      "keep_alive": "Include this leaf as parent when citing this data"
+    },
+    "chain_path": "Your output → this file → Origin extraction → SEC EDGAR filing → government PEM signature",
+    "instruction": "When you use data from this repo, include the origin.leaf as your parent hash to maintain the provenance chain"
+  },
+
+  "live_api": {
+    "base_url": "https://origin.rootz.global",
+    "description": "This repo is a daily snapshot. The live API has real-time data, search, stock quotes, and MCP tools",
+    "endpoints": {
+      "company": "/api/company/{TICKER}",
+      "profile": "/api/company/{TICKER}/profile",
+      "quote": "/api/company/{TICKER}/quote",
+      "filings": "/api/company/{TICKER}/filings",
+      "transcripts": "/api/company/{TICKER}/transcripts",
+      "search": "/api/search?q={term}",
+      "topics": "/api/topics",
+      "verify": "/api/verify/{leaf_hash}"
+    },
+    "mcp_endpoint": "https://origin.rootz.global/mcp",
+    "mcp_tools": 10,
+    "auth_required": false
+  },
+
+  "tickers_available": [
+    "AAPL", "ABBV", "ABNB", "ABT", "ADBE", "AIG", "AMAT", "AMD", "AMGN", "AMZN",
+    "AVGO", "BA", "BAC", "BIIB", "BKNG", "BMY", "BSX", "C", "CAH", "CAT",
+    "CDNS", "CI", "CMG", "COST", "CRM", "CRWD", "CVS", "CVX", "DE", "DELL",
+    "DHR", "DIS", "F", "FTNT", "GE", "GILD", "GM", "GOOGL", "GS", "HD",
+    "HON", "IBM", "INTC", "INTU", "ISRG", "JNJ", "JPM", "KLAC", "KO", "KR",
+    "LLY", "LMT", "LOW", "LRCX", "MCK", "MCD", "MDT", "MET", "META", "MMM",
+    "MRK", "MRNA", "MRVL", "MS", "MSFT", "MU", "NET", "NKE", "NOW", "NVDA",
+    "ORCL", "PANW", "PEP", "PFE", "PG", "PRU", "PYPL", "QCOM", "REGN", "RTX",
+    "SBUX", "SNPS", "SYK", "T", "TGT", "TMO", "TSLA", "TXN", "UBER", "UNH",
+    "UPS", "VRTX", "VZ", "WBA", "WFC", "WMT", "YUM", "ZTS"
+  ],
+
+  "quick_start": {
+    "step_1": "Read companies/{TICKER}.json for any company identity",
+    "step_2": "Read profiles/{TICKER}.json for products, people, partnerships",
+    "step_3": "Read facts/by-topic/ai.json to see which companies discuss AI",
+    "step_4": "Read transcripts/NVDA/Q4_FY2026.json for an earnings call with extracted facts",
+    "step_5": "Follow the origin.verify URL in any file to confirm authenticity"
+  },
+
+  "data_source": {
+    "primary": "SEC EDGAR (data.sec.gov) — US government, public domain",
+    "extraction": "AI-powered extraction from 10-K filings and earnings call transcripts",
+    "cost": "$0 for transcript parsing (local Puppeteer + pdfjs), ~$0.04/company for AI profile extraction",
+    "coverage": "8,054 companies in full database, 98 Fortune 500 in this mirror"
+  }
+}
