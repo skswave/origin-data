@@ -1,0 +1,46 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GJH",
+  "name": "STRATS SM TRUST FOR U S CELL CORP SEC SERIES 2004 6",
+  "cik": "0001286405",
+  "summary": "STRATS Trust for United States Cellular Corporation Securities, Series 2004-6 is a statutory trust that holds securities related to United States Cellular Corporation. It issues Class A-1 Certificates representing investors' interests, which are listed on the NYSE and registered in the name of Cede & Co., nominee of The Depository Trust Company. The trust makes periodic distributions to certificateholders and files related reports with the SEC.",
+  "products": [
+    {
+      "name": "Class A-1 Certificates",
+      "type": "service",
+      "description": "Certificates representing investors' interest in the Trust, listed on the NYSE and registered under Cede & Co."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "The Depository Trust Company",
+      "partnership_type": "strategic",
+      "description": "Class A-1 Certificates are registered in the name of Cede & Co., nominee of The Depository Trust Company.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Synthetic Fixed-Income Securities, Inc.",
+      "partnership_type": "strategic",
+      "description": "Acts as Depositor for the Trust, signing SEC filings on behalf of the registrant.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GJH/profile",
+  "origin": {
+    "leaf": "c827fbf58c367b5e915c8f975f660519800a767497e02c2ec237db6b33d7c7c3",
+    "parent": "b50efcb4da0e42b104e2be33aba239a20cb2b0f7b3e5986a4cb54c82eacad0ad",
+    "timestamp": "2026-04-12T03:12:59.590Z",
+    "source": "profile:0001286405",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c827fbf58c367b5e915c8f975f660519800a767497e02c2ec237db6b33d7c7c3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.590Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

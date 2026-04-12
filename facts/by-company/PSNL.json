@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "PSNL",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "PSNL",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PSNL",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PSNL",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PSNL/transcripts",
+  "origin": {
+    "leaf": "b9f1ed20c2f2967b4993830033a9a19b9b0c3c5e32caad11dca6485dc00f3799",
+    "parent": "058ef0d239462d338b8a4f329b6afe897917ccb1cfd64bed9d2a0f8f244e169b",
+    "timestamp": "2026-04-12T03:14:09.779Z",
+    "source": "facts:PSNL",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b9f1ed20c2f2967b4993830033a9a19b9b0c3c5e32caad11dca6485dc00f3799",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:09.779Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "V",
+  "company": "VISA INC.",
+  "title": "V Q4 FY2017 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2017",
+  "call_date": null,
+  "word_count": 2016,
+  "speakers": [
+    {
+      "name": "Revenue",
+      "title": "Q4 2017  US$ in millions, except percentages  YOY Change   36%   14% 18%  Note: Figures may not recalculate exactly due to rounding",
+      "firm": "except percentages  YOY Change   36%   14% 18%  Note: Figures may not recalculate exactly due to rounding",
+      "speaker_type": "other",
+      "mention_count": 15
+    },
+    {
+      "name": "Operating Margin",
+      "title": "Q4 2017  US$ in millions, except percentages  1,636  2,625  1,526  2,735  1,643  3,212  Reported GAAP Fiscal 2016   Adjusted non-GAAP Fiscal 2016   Reported GAAP Fiscal 2017  62%   64%   66%  Note: Adjusted non-GAAP financial measures exclude the impact of certain significant items related to the acquisition of Visa Europe in fourth quarter of fiscal 2016",
+      "firm": "except percentages  1",
+      "speaker_type": "other",
+      "mention_count": 4
+    },
+    {
+      "name": "Revenue Detail",
+      "title": "Q4 2017  US$ in millions, except percentages  1,768   1,779  1,489  218  2,116   2,067  1,792  226  Service Revenues   Data Processing Revenues  International Transaction Revenues  Other Revenues  Fiscal 2016  Fiscal 2017  YOY Change   16%   20% 20%   3%  Note: Figures may not recalculate exactly due to rounding",
+      "firm": "except percentages  1",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "V free cash flow",
+      "predicate": "reported",
+      "object": "$2.6 billion",
+      "value": 2.6,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "V free cash flow",
+      "predicate": "reported",
+      "object": "$8.5 billion",
+      "value": 8.5,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "V",
+      "predicate": "guided",
+      "object": "outlook for fiscal full-year 2018 includes Visa Europe integration expenses of approximately $60 million",
+      "value": 60,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/V/transcripts",
+  "origin": {
+    "leaf": "05eaebb8c0e327d01c933476db59bbf22f08cf36e8e44eca578881a378900d91",
+    "parent": "f8b5a6b7757a0647b6d5a1ece2798954a8fbec4bc1e36c62f86cf5c87bb3c66cf4793bedf24ad677cd5fe67f7dd984a6",
+    "timestamp": "2026-04-12T03:13:01.277Z",
+    "source": "transcript:V_Visa-Inc.-Q4-and-FY-2017-Financial-Results-Conference-Call-Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/05eaebb8c0e327d01c933476db59bbf22f08cf36e8e44eca578881a378900d91",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.277Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

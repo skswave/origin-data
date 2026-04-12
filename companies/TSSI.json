@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TSSI",
+  "name": "TSS, Inc.",
+  "cik": "0001320760",
+  "exchange": "Nasdaq",
+  "sic": "8742",
+  "sic_description": "Services-Management Consulting Services",
+  "state_of_incorporation": "DE",
+  "headquarters": "Georgetown, Texas",
+  "founded": "2004",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "TSS, Inc. provides comprehensive services for AI technology integration, planning, design, deployment, maintenance, and refresh of end-user and enterprise systems, including mission-critical data center facilities. Services include technology consulting, systems integration of AI-enabled server racks, facilities management, IT procurement, and second-touch configuration. The company operates ISO-certified integration facilities and has integrated over 500 modular data centers (MDCs), serving enterprise customers deploying solutions in data centers, colocation facilities, and at the network edge.",
+  "tags": [
+    "data-center-integration-and-infrastructure",
+    "artificial-intelligence-and-accelerated-computing-infrastructure",
+    "modular-data-centers-(mdcs)",
+    "enterprise-it-deployment",
+    "edge-computing",
+    "colocation-facilities",
+    "mission-critical-facilities",
+    "iso-certification-(integration-facility)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TSSI",
+  "origin": {
+    "leaf": "f7cc011a6d132cf3142056702202e4317061d1df144135720255e2a1059995ac",
+    "parent": "4ea4aac118087bc1e29e8156cdb14fdf9b6db50097739198143ae0d0c87465df",
+    "timestamp": "2026-04-12T03:12:51.520Z",
+    "source": "0001654954-26-002342",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f7cc011a6d132cf3142056702202e4317061d1df144135720255e2a1059995ac",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.520Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

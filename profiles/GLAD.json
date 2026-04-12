@@ -1,0 +1,45 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GLAD",
+  "name": "GLADSTONE CAPITAL CORP",
+  "cik": "0001143513",
+  "summary": "Gladstone Capital Corp (GLAD) is a business development company (BDC) that operates as a regulated investment company (RIC) under the Internal Revenue Code. It provides debt and equity financing to small and mid-sized private companies in the United States. The company is externally managed by Gladstone Management Corporation (the Adviser) and focuses on generating income and capital gains through its investment portfolio.",
+  "products": [
+    {
+      "name": "Debt Financing",
+      "type": "service",
+      "description": "Loans and debt instruments provided to small and mid-sized private companies."
+    },
+    {
+      "name": "Equity Financing",
+      "type": "service",
+      "description": "Equity investments made in small and mid-sized private companies."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Gladstone Management Corporation",
+      "partnership_type": "strategic",
+      "description": "External investment adviser managing Gladstone Capital Corp's investment activities.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GLAD/profile",
+  "origin": {
+    "leaf": "199cd1542a8e01569a8e92d1cad12dceeba82768b6f36954e7069d4f8b98cb00",
+    "parent": "4a1e30449ed33b7bb9059ca03f9de3ac04e0e4b1107f043445caa449d99361c7",
+    "timestamp": "2026-04-12T03:12:56.527Z",
+    "source": "profile:0001143513",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/199cd1542a8e01569a8e92d1cad12dceeba82768b6f36954e7069d4f8b98cb00",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.527Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

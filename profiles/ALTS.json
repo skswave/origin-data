@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ALTS",
+  "name": "ALT5 Sigma Corp",
+  "cik": "0000862861",
+  "summary": "ALT5 Sigma Corporation (formerly JanOne Inc.) operates two segments: Fintech and Biotechnology. Through its Fintech segment, it offers blockchain-powered platforms including ALT5 Pay, a crypto payment gateway for merchants supporting fiat conversion, and ALT5 Prime, an electronic OTC trading platform for buying and selling digital assets. The company serves approximately 1,900 corporate clients in 50 countries, targeting banks, broker dealers, funds, family offices, and merchants.",
+  "products": [
+    {
+      "name": "ALT5 Pay",
+      "type": "platform",
+      "description": "Crypto payment gateway enabling merchants to accept crypto payments with optional fiat conversion to USD, CAD, EUR, GBP."
+    },
+    {
+      "name": "ALT5 Prime",
+      "type": "platform",
+      "description": "Electronic OTC trading platform for buying and selling digital assets using fiat currencies, available via browser, mobile app, and FIX API."
+    },
+    {
+      "name": "ALT5 Pro",
+      "type": "software",
+      "description": "Mobile phone application for ALT5 Prime, available on Apple App Store and Google Play."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "WooCommerce",
+      "partnership_type": "strategic",
+      "description": "ALT5 Pay integrates with WooCommerce plugin for merchant payment processing.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Broadridge Financial Solutions",
+      "partnership_type": "strategic",
+      "description": "ALT5 Prime available through Broadridge's NYFIX gateway for approved customers.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ALTS/profile",
+  "origin": {
+    "leaf": "01ca5a38ca00a2d0e07d2ce4acb457661e9ff43d30a995360580491a6ab64e59",
+    "parent": "c80f48d003e708832f26d2144b07fa105393e1ac8d5cb62ea714833d6bf7fe7f",
+    "timestamp": "2026-04-12T03:12:57.237Z",
+    "source": "profile:0000862861",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/01ca5a38ca00a2d0e07d2ce4acb457661e9ff43d30a995360580491a6ab64e59",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.237Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

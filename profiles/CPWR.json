@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CPWR",
+  "name": "Ocean Thermal Energy Corp",
+  "cik": "0000827099",
+  "summary": "Ocean Thermal Energy Corporation develops proprietary renewable energy systems using Ocean Thermal Energy Conversion (OTEC), Seawater Air Conditioning (SWAC), and Lake Source Cooling (LSC) technologies. The company designs plants that extract energy from temperature differences between warm surface ocean water and cold deep seawater (~3,000 feet depth) to produce electricity, desalinated water, and air conditioning. Target markets include tropical and subtropical regions, U.S. Department of Defense bases, and the U.S. Department of Agriculture. No commercial projects have been completed to date.",
+  "products": [
+    {
+      "name": "Ocean Thermal Energy Conversion (OTEC)",
+      "type": "hardware",
+      "description": "Power plants that generate electricity using temperature difference between warm surface ocean water and cold deep seawater, also producing desalinated water."
+    },
+    {
+      "name": "Seawater Air Conditioning (SWAC)",
+      "type": "hardware",
+      "description": "Systems using cold deep ocean water to provide air conditioning for large commercial buildings, reducing energy consumption by up to 90%."
+    },
+    {
+      "name": "Lake Source Cooling (LSC)",
+      "type": "hardware",
+      "description": "Systems using cold deep lake water for air conditioning, similar to SWAC technology applied to freshwater lake environments."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "U.S. Department of Defense",
+      "partnership_type": "development",
+      "description": "Developing an OTEC plant for a Naval Support Facility in the South Pacific under a Small Business Innovation Research contract.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ministry of Earth Sciences, Government of India",
+      "partnership_type": "development",
+      "description": "Project in planning and development stage with the Indian government ministry.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Engineering Company from France",
+      "partnership_type": "development",
+      "description": "Project in planning and development stage with an unspecified French engineering company.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CPWR/profile",
+  "origin": {
+    "leaf": "7f64b5eaddaa03dabeaf93bca92e5d536d42df34b58c5dd44815d7c047f407c1",
+    "parent": "3684298bf3dfd37d2e14cc1254ae55a9acf874a68cd429475c924afb432018ec",
+    "timestamp": "2026-04-12T03:12:59.982Z",
+    "source": "profile:0000827099",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7f64b5eaddaa03dabeaf93bca92e5d536d42df34b58c5dd44815d7c047f407c1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.982Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

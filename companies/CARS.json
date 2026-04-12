@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CARS",
+  "name": "Cars.com Inc.",
+  "cik": "0001683606",
+  "exchange": "NYSE",
+  "sic": "7374",
+  "sic_description": "Services-Computer Processing & Data Preparation",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": ". Cars.com Inc. (NYSE:CARS) is a trusted audience-powered and data-driven technology platform that simplifies buying and selling cars. The flagship Cars.com marketplace connects millions of consumers to dealerships across the U.S., powering the car buying experience with artificial intelligence (\"AI\") shopping tools and comprehensive vehicle reviews and content. Our interconnected ecosystem of products enables dealers and OEMs to sell more cars by efficiently leveraging our marketplace, dealer w...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CARS",
+  "origin": {
+    "leaf": "d06b28373fbeec42173f43546b75f077a3235ead1b0bc81cf3e4a7b51bb548db",
+    "parent": "a8392c6e989df410ed01a4a7a58254a033ebe52a3ca315b850fd1f0e17fddb40",
+    "timestamp": "2026-04-12T03:12:51.405Z",
+    "source": "0001193125-26-076546",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d06b28373fbeec42173f43546b75f077a3235ead1b0bc81cf3e4a7b51bb548db",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.405Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

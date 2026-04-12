@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CIA",
+  "name": "CITIZENS, INC.",
+  "cik": "0000024090",
+  "exchange": "NYSE",
+  "sic": "6311",
+  "sic_description": "Life Insurance",
+  "state_of_incorporation": "CO",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "CITIZENS, INC. (ticker: CIA) is an insurance holding company. Based on the 10-K filing's Item 1 Business section provided, the detailed business description content is not included in the excerpt shown. The filing indicates the company operates in insurance-related segments, as suggested by the company name and filing structure, but no specific products or services are described in the provided text.",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CIA",
+  "origin": {
+    "leaf": "c35903a2e85ab2dd53c1a6df6f123b5411612659b766d31c7b9d0cfde2b7ee2a",
+    "parent": "f2376c83ecd0a2ca0a9dbe9cd179dadf2ec328fd482b9d0b20a1269e5d461e11",
+    "timestamp": "2026-04-12T03:12:51.791Z",
+    "source": "0000024090-26-000011",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c35903a2e85ab2dd53c1a6df6f123b5411612659b766d31c7b9d0cfde2b7ee2a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.791Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

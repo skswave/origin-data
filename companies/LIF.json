@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LIF",
+  "name": "Life360, Inc.",
+  "cik": "0001581760",
+  "exchange": "Nasdaq",
+  "sic": "7374",
+  "sic_description": "Services-Computer Processing & Data Preparation",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": ", Item 1A. Risk Factors, Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations and elsewhere in this Annual Report contain forward-looking statements. They are generally identifiable by use of the words: may, might, will, could, would, should, expect, plan, anticipate, intend, seek, believe, estimate, predict, potential, continue, contemplate, possible or the negative of these terms or other comparable terminology, although not all forward-looking statement...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LIF",
+  "origin": {
+    "leaf": "f2793864728ad04eed7c44d00e2a2eaaa615a608e14834e64ef15993b702fff6",
+    "parent": "65246e72c39f80d9ccc34007d7a195cb4d4bb20e9ca42fcdb7d276b4d0eb327f",
+    "timestamp": "2026-04-12T03:12:50.746Z",
+    "source": "0001581760-26-000016",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f2793864728ad04eed7c44d00e2a2eaaa615a608e14834e64ef15993b702fff6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.746Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IBEX",
+  "name": "IBEX Ltd",
+  "cik": "0001720420",
+  "summary": "7 ITEM1A. RISK FACTORS 21 ITEM 1B. UNRESOLVED STAFF COMMENTS 40 ITEM 1 C . CYBERSECURITY 40 ITEM 2. PROPERTIES 42 ITEM3. LEGAL PROCEEDINGS 43 ITEM4. MINE SAFETY DISCLOSURES 43 PARTII 43 ITEM 5. MARKET FOR R EGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 43 ITEM6. [RESERVED] 44 ITEM 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 44 ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 61 ITEM ...",
+  "live_api": "https://origin.rootz.global/api/company/IBEX/profile",
+  "origin": {
+    "leaf": "5459b971d85dec8b0dd09d50112d4f79f675447aeaa24e473450b9e14afada6d",
+    "parent": "b022726966480efd0a0b8b023d57358dff0abcf9d792685154f49722d169363f",
+    "timestamp": "2026-04-12T03:12:56.591Z",
+    "source": "profile:0001720420",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5459b971d85dec8b0dd09d50112d4f79f675447aeaa24e473450b9e14afada6d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.592Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

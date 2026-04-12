@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IVFH",
+  "name": "INNOVATIVE FOOD HOLDINGS INC",
+  "cik": "0000312257",
+  "summary": "Innovative Food Holdings, Inc. (IVFH) distributes specialty and perishable food products including origin-specific seafood, domestic and imported meats, exotic game, artisanal cheeses, caviar, mushrooms, micro-greens, and organic ingredients. The company serves Professional Chefs at restaurants, hotels, casinos, hospitals, and national chains via direct delivery, e-commerce on Amazon and its own website, and drop-ship through broadline distributors like US Foods. Operations are supported by warehouses in Chicago and Denver.",
+  "products": [
+    {
+      "name": "Specialty Seafood",
+      "type": "service",
+      "description": "Origin-specific seafood including Alaskan wild king salmon and Gulf of Mexico day-boat snapper distributed to Professional Chefs."
+    },
+    {
+      "name": "Specialty Meats and Poultry",
+      "type": "service",
+      "description": "Exotic game, domestic and imported meats, free-range and organic poultry including buffalo tenderloin and kurobuta pork."
+    },
+    {
+      "name": "Artisanal Cheeses",
+      "type": "service",
+      "description": "Domestic and imported artisan cheeses sourced and distributed to Professional Chefs nationally."
+    },
+    {
+      "name": "Specialty Produce and Ingredients",
+      "type": "service",
+      "description": "Micro-greens, mushrooms, white asparagus, truffle oils, fennel pollen, estate-bottled olive oils, and aged vinegars."
+    },
+    {
+      "name": "Organic Bulk Ingredients",
+      "type": "service",
+      "description": "Wholesale bulk organic ingredients and related food products, operated through Golden Organics subsidiary."
+    },
+    {
+      "name": "Company-owned branded products",
+      "type": "service",
+      "description": "Products sourced, packaged, and branded by IVFH to control assortment and capture additional margin."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "US Foods, Inc.",
+      "partnership_type": "strategic",
+      "description": "IVFH drop ships specialty foods to Professional Chefs nationally through US Foods' broadline distributor websites.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Amazon.com",
+      "partnership_type": "strategic",
+      "description": "IVFH sells specialty foods to customers via its e-commerce presence on Amazon.com.",
+      "start_date": null
+    },
+    {
+      "partner_name": "igourmet, LLC",
+      "partnership_type": "strategic",
+      "description": "Transition Services Agreement for inventory and fulfillment services for 30 days post-sale of igourmet assets.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IVFH/profile",
+  "origin": {
+    "leaf": "791418762c8da759f1603182548773f600e1750fd98419e690649358319b8276",
+    "parent": "fb769238e66b4688d2e2f5c015fddb847cfdd681f7c33e10eaa53a8701419309",
+    "timestamp": "2026-04-12T03:12:58.268Z",
+    "source": "profile:0000312257",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/791418762c8da759f1603182548773f600e1750fd98419e690649358319b8276",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.268Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

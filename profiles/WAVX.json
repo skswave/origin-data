@@ -1,0 +1,265 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WAVX",
+  "name": "Wave Systems Corp.",
+  "cik": "0000919013",
+  "summary": "Hardware-based digital security company. Founding member of Trusted Computing Platform Alliance (TCPA, 1999) and its successor the Trusted Computing Group (TCG, 2003). Developed EMBASSY platform for TPM chip management. Permanent TCG board member alongside AMD, HP, IBM, Intel, Lenovo, Microsoft, Oracle. Software shipped on 500M+ PCs via Dell, Acer, HP, Lenovo. Peak market cap exceeded $1.8B in March 2000. CEO Steven Sprague served 14 years as principal industry evangelist for trusted computing.",
+  "products": [
+    {
+      "name": "EMBASSY (EMBedded Application Security SYstem)",
+      "type": "platform",
+      "description": "Core hardware/software security platform. Programmable system-within-a-system for secure storage, authentication, and transaction processing."
+    },
+    {
+      "name": "EMBASSY Trust Suite",
+      "type": "software",
+      "description": "Enterprise TPM management and deployment software. Shipped via Dell, Acer, HP, Lenovo."
+    },
+    {
+      "name": "EMBASSY Security Center",
+      "type": "software",
+      "description": "Client-side security management for end users."
+    },
+    {
+      "name": "EMBASSY Remote Administration Server (ERAS)",
+      "type": "software",
+      "description": "Enterprise-scale TPM deployment and management."
+    },
+    {
+      "name": "WaveMeter",
+      "type": "software",
+      "description": "Digital content metering/DRM system. Early product, pre-TCPA era."
+    },
+    {
+      "name": "WaveNet",
+      "type": "platform",
+      "description": "Central transaction processing network for content metering."
+    },
+    {
+      "name": "WaveXpress",
+      "type": "joint_venture",
+      "description": "Joint venture with Sarnoff Corp for secure DTV content distribution."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Compaq Computer",
+      "partnership_type": "development",
+      "description": "TCPA Trusted Client co-development. Joint announcement Aug 22, 2000.",
+      "start_date": "2000-08-22"
+    },
+    {
+      "partner_name": "Advanced Micro Devices (AMD)",
+      "partnership_type": "development",
+      "description": "First Wave/AMD TCPA-compliant Trusted Client PC reference platform. Demonstrated Nov 13, 2000.",
+      "start_date": "2000-11-13"
+    },
+    {
+      "partner_name": "National Semiconductor",
+      "partnership_type": "licensing",
+      "description": "Licensed cryptographic technology from Wave for TCPA security co-processor. Announced Aug 22, 2000.",
+      "start_date": "2000-08-22"
+    },
+    {
+      "partner_name": "Infineon Technologies",
+      "partnership_type": "development",
+      "description": "Joint TPM promotional activities. EMBASSY services on Infineon TPM.",
+      "start_date": "2002"
+    },
+    {
+      "partner_name": "Dell",
+      "partnership_type": "OEM",
+      "description": "Shipped Wave EMBASSY Trust Suite on business PCs.",
+      "start_date": "2005"
+    },
+    {
+      "partner_name": "Acer",
+      "partnership_type": "OEM",
+      "description": "License agreement. 4-5 million copies of software per quarter.",
+      "start_date": "2008"
+    },
+    {
+      "partner_name": "HP / Hewlett-Packard",
+      "partnership_type": "development",
+      "description": "Strategic alliance (1998) for HP VerSecure in EMBASSY architecture.",
+      "start_date": "1998"
+    },
+    {
+      "partner_name": "Lenovo",
+      "partnership_type": "OEM",
+      "description": "Distribution partner for EMBASSY Trust Suite.",
+      "start_date": "2008"
+    },
+    {
+      "partner_name": "Samsung Electronics",
+      "partnership_type": "component",
+      "description": "TPM chip + Wave software bundling.",
+      "start_date": "2008"
+    },
+    {
+      "partner_name": "Intel",
+      "partnership_type": "component",
+      "description": "Selected Wave to manage SSD security. Joint TPM initiatives.",
+      "start_date": "2009"
+    },
+    {
+      "partner_name": "Seagate",
+      "partnership_type": "component",
+      "description": "Self-encrypting drive management.",
+      "start_date": "2009"
+    },
+    {
+      "partner_name": "STMicroelectronics",
+      "partnership_type": "licensing",
+      "description": "TPM licensing for complete trusted computing solution.",
+      "start_date": "2004"
+    },
+    {
+      "partner_name": "Giesecke & Devrient",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership for enhanced trusted computing security solution. Announced Apr 12, 2005.",
+      "start_date": "2005-04-12"
+    },
+    {
+      "partner_name": "NEC Computers International",
+      "partnership_type": "OEM",
+      "description": "Trusted PC product bundling EMBASSY smartcard reader.",
+      "start_date": "2002"
+    },
+    {
+      "partner_name": "Sarnoff Corporation",
+      "partnership_type": "joint_venture",
+      "description": "WaveXpress joint venture for secure DTV content. 40% Sarnoff / 60% Wave.",
+      "start_date": "1999-04"
+    },
+    {
+      "partner_name": "RSA Data Security",
+      "partnership_type": "technology",
+      "description": "Security technology relationship.",
+      "start_date": "1998"
+    },
+    {
+      "partner_name": "Cyber-COMM",
+      "partnership_type": "licensing",
+      "description": "French banking consortium. Licensed EMBASSY for European smart card readers.",
+      "start_date": "1999-09"
+    }
+  ],
+  "affiliations": [
+    {
+      "organization": "Trusted Computing Platform Alliance (TCPA)",
+      "role": "founding_member",
+      "start_date": "1999-11-19",
+      "source_description": "Listed on founding conference member list, IBM press release Nov 19, 1999 (Houston, TX). 70+ companies joined."
+    },
+    {
+      "organization": "Trusted Computing Group (TCG)",
+      "role": "founding_member",
+      "start_date": "2003",
+      "source_description": "NBC/PRNewswire 2009: \"Wave is a founding member of the TCG, a consortium of more than 100 companies\""
+    },
+    {
+      "organization": "Trusted Computing Group (TCG)",
+      "role": "permanent_board_member",
+      "start_date": "2003",
+      "source_description": "TCG website + Wikipedia. Permanent board alongside AMD, Fujitsu, HP, IBM, Infineon, Intel, Lenovo, Microsoft, Oracle."
+    }
+  ],
+  "people": [
+    {
+      "name": "Steven Sprague",
+      "role": "Board of Directors",
+      "role_type": "board",
+      "period_start": "1999",
+      "period_end": "2014"
+    },
+    {
+      "name": "Nolan Bushnell",
+      "role": "Board of Directors",
+      "role_type": "board",
+      "period_start": "1999",
+      "period_end": null
+    },
+    {
+      "name": "George Gilder",
+      "role": "Board of Directors",
+      "role_type": "board",
+      "period_start": "1999",
+      "period_end": null
+    },
+    {
+      "name": "John E. Bagalay, Jr.",
+      "role": "Board of Directors",
+      "role_type": "board",
+      "period_start": "1999",
+      "period_end": null
+    },
+    {
+      "name": "Philippe Bertin",
+      "role": "Board of Directors",
+      "role_type": "board",
+      "period_start": "1999",
+      "period_end": null
+    },
+    {
+      "name": "John E. McConnaughy, Jr.",
+      "role": "Board of Directors",
+      "role_type": "board",
+      "period_start": "1999",
+      "period_end": null
+    },
+    {
+      "name": "Steven Sprague",
+      "role": "President",
+      "role_type": "executive",
+      "period_start": "1999",
+      "period_end": "2000"
+    },
+    {
+      "name": "Steven Sprague",
+      "role": "CEO",
+      "role_type": "executive",
+      "period_start": "2000",
+      "period_end": "2014"
+    },
+    {
+      "name": "William Solms",
+      "role": "CEO",
+      "role_type": "executive",
+      "period_start": "2014",
+      "period_end": null
+    },
+    {
+      "name": "Peter J. Sprague",
+      "role": "Founder & Chairman & CEO",
+      "role_type": "founder",
+      "period_start": "1988-02-12",
+      "period_end": "2000"
+    },
+    {
+      "name": "Steven Sprague",
+      "role": "CEO & Co-Founder, Rivetz Corp",
+      "role_type": "founder",
+      "period_start": "2014",
+      "period_end": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WAVX/profile",
+  "origin": {
+    "leaf": "bb1553857a149de6a26168704748a94d7623f9374bc8a66e32841a730f64870b",
+    "parent": "afff9e608089a934726aaf4956d0d22a6e15235ba3b5d360990d8af1a8ce2720",
+    "timestamp": "2026-04-12T03:12:54.655Z",
+    "source": "profile:0000919013",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bb1553857a149de6a26168704748a94d7623f9374bc8a66e32841a730f64870b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.655Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

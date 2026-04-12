@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EVR",
+  "name": "Evercore Inc.",
+  "cik": "0001360901",
+  "exchange": "NYSE",
+  "sic": "6282",
+  "sic_description": "Investment Advice",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Overview Evercore is the leading independent investment banking firm in the world based on the dollar volume of announced worldwide merger and acquisition (\"M&A\") transactions on which we have advised in the last five years (1) . When we use the term \"independent investment banking firm,\" we mean an investment banking firm that directly, or through its affiliates, does not engage in commercial banking or significant proprietary trading activities. We were founded on the belief that there is an o...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EVR",
+  "origin": {
+    "leaf": "241b0d1587e7831bc2a0adade46b5e4526484b7139306dcd5d1b783ff28abc36",
+    "parent": "3392951a51a2fd302149f980ea53507fd0356974a0de4dc9d2416a2493934af3",
+    "timestamp": "2026-04-12T03:12:50.480Z",
+    "source": "0001628280-26-010273",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/241b0d1587e7831bc2a0adade46b5e4526484b7139306dcd5d1b783ff28abc36",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.480Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

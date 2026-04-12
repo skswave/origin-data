@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "COF",
+  "name": "CAPITAL ONE FINANCIAL CORP",
+  "cik": "0000927628",
+  "exchange": "NYSE",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Capital One Financial Corporation is a Delaware corporation that operates under the 2004 Stock Incentive Plan, granting performance unit awards to executives. The provided filing excerpt is an equity compensation agreement for CEO Richard D. Fairbank, detailing performance unit vesting tied to Total Shareholder Return (TSR) relative to a peer group over a three-year performance period from January 1, 2026 to December 31, 2028.",
+  "tags": [
+    "financial-services",
+    "executive-compensation"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/COF",
+  "origin": {
+    "leaf": "a8f66e6f47b7712b6fc9f797bd9733ef6ad7fc67614de138d630d3fcc4b785b8",
+    "parent": "070c41a8fff8c8d07114e273132cb0073d944a96e42249b48745d19d37f8a29d",
+    "timestamp": "2026-04-12T03:12:50.310Z",
+    "source": "0000927628-26-000024",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a8f66e6f47b7712b6fc9f797bd9733ef6ad7fc67614de138d630d3fcc4b785b8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.310Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "enterprise",
   "label": "Enterprise",
-  "companies": 63,
-  "total_mentions": 577,
+  "companies": 1076,
+  "total_mentions": 3652,
   "results": [
     {
       "ticker": "AMD",
@@ -92,6 +92,12 @@
       ]
     },
     {
+      "ticker": "CSCO",
+      "company": "CISCO SYSTEMS, INC.",
+      "mentions": 30,
+      "quarters": []
+    },
+    {
       "ticker": "QCOM",
       "company": "QUALCOMM INC/DE",
       "mentions": 30,
@@ -120,6 +126,40 @@
         "Q4_FY2017",
         "Q1_FY2018",
         "Q2_FY2018"
+      ]
+    },
+    {
+      "ticker": "SMCI",
+      "company": "Super Micro Computer, Inc.",
+      "mentions": 19,
+      "quarters": [
+        "Q1_FY2023"
+      ]
+    },
+    {
+      "ticker": "SPGI",
+      "company": "S&P Global Inc.",
+      "mentions": 18,
+      "quarters": [
+        "Q2_FY2012"
+      ]
+    },
+    {
+      "ticker": "DAL",
+      "company": "DELTA AIR LINES, INC.",
+      "mentions": 15,
+      "quarters": [
+        "Q3_FY2025",
+        "Q4_FY2025",
+        "Q1_FY2022",
+        "Q3_FY2022",
+        "Q1_FY2023",
+        "Q1_FY2024",
+        "Q2_FY2023",
+        "Q2_FY2025",
+        "Q3_FY2023",
+        "Q3_FY2024",
+        "Q4_FY2023"
       ]
     },
     {
@@ -208,6 +248,15 @@
       ]
     },
     {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "mentions": 9,
+      "quarters": [
+        "Q1_FY2026",
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "KO",
       "company": "COCA COLA CO",
       "mentions": 9,
@@ -219,10 +268,38 @@
       ]
     },
     {
+      "ticker": "MCO",
+      "company": "MOODYS CORP /DE/",
+      "mentions": 9,
+      "quarters": []
+    },
+    {
+      "ticker": "MSI",
+      "company": "Motorola Solutions, Inc.",
+      "mentions": 9,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "company": "Arista Networks, Inc.",
+      "mentions": 8,
+      "quarters": []
+    },
+    {
       "ticker": "DIS",
       "company": "Walt Disney Co",
       "mentions": 8,
       "quarters": []
+    },
+    {
+      "ticker": "EQIX",
+      "company": "EQUINIX INC",
+      "mentions": 8,
+      "quarters": [
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "LOW",
@@ -266,6 +343,39 @@
       ]
     },
     {
+      "ticker": "NTAP",
+      "company": "NetApp, Inc.",
+      "mentions": 7,
+      "quarters": []
+    },
+    {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies Inc.",
+      "mentions": 7,
+      "quarters": [
+        "Q1_FY2025",
+        "Q3_FY2025",
+        "Q4_FY2025",
+        "Q2_FY2025"
+      ]
+    },
+    {
+      "ticker": "GPN",
+      "company": "GLOBAL PAYMENTS INC",
+      "mentions": 6,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "ITW",
+      "company": "ILLINOIS TOOL WORKS INC",
+      "mentions": 5,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "AAPL",
       "company": "Apple Inc.",
       "mentions": 4,
@@ -291,6 +401,18 @@
       "quarters": []
     },
     {
+      "ticker": "HII",
+      "company": "HUNTINGTON INGALLS INDUSTRIES, INC.",
+      "mentions": 4,
+      "quarters": []
+    },
+    {
+      "ticker": "INOD",
+      "company": "INNODATA INC",
+      "mentions": 4,
+      "quarters": []
+    },
+    {
       "ticker": "MDT",
       "company": "Medtronic plc",
       "mentions": 4,
@@ -305,8 +427,960 @@
       ]
     },
     {
+      "ticker": "STX",
+      "company": "Seagate Technology Holdings plc",
+      "mentions": 4,
+      "quarters": [
+        "Q2_FY2026"
+      ]
+    },
+    {
+      "ticker": "W",
+      "company": "Wayfair Inc.",
+      "mentions": 4,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "AASP",
+      "company": "Agassi Sports Entertainment Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AAT",
+      "company": "American Assets Trust, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AATC",
+      "company": "AUTOSCOPE TECHNOLOGIES CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ABM",
+      "company": "ABM INDUSTRIES INC /DE/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ACAT",
+      "company": "NP Life Sciences Health Industry Group Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ACIW",
+      "company": "ACI WORLDWIDE, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ACN",
+      "company": "Accenture plc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ACRG",
+      "company": "American Clean Resources Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ACT",
+      "company": "Enact Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AD",
+      "company": "ARRAY DIGITAL INFRASTRUCTURE, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ADCT",
+      "company": "ADC Therapeutics SA",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ADMQ",
+      "company": "ADM ENDEAVORS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ADP",
+      "company": "AUTOMATIC DATA PROCESSING INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ADT",
+      "company": "ADT Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AEHR",
+      "company": "AEHR TEST SYSTEMS",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AEIS",
+      "company": "ADVANCED ENERGY INDUSTRIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AENT",
+      "company": "ALLIANCE ENTERTAINMENT HOLDING CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AERA",
+      "company": "AI Era Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AERT",
+      "company": "Aeries Technology, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AETN",
+      "company": "SHOREPOWER TECHNOLOGIES INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AEYE",
+      "company": "AUDIOEYE INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AGAE",
+      "company": "Allied Gaming & Entertainment Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AGLY",
+      "company": "Atlantis Glory Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AGPU",
+      "company": "Axe Compute Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AGSS",
+      "company": "AMERIGUARD SECURITY SERVICES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AGTX",
+      "company": "Agentix Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AI",
+      "company": "C3.ai, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AIBT",
+      "company": "AIBOTICS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AIHS",
+      "company": "Senmiao Technology Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AIOT",
+      "company": "Powerfleet, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AIP",
+      "company": "Arteris, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AIRE",
+      "company": "reAlpha Tech Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AISP",
+      "company": "Airship AI Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AJG",
+      "company": "Arthur J. Gallagher & Co.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AKAM",
+      "company": "AKAMAI TECHNOLOGIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ALCO",
+      "company": "ALICO, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ALDS",
+      "company": "APPlife Digital Solutions Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ALHC",
+      "company": "Alignment Healthcare, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ALIT",
+      "company": "Alight, Inc. / Delaware",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ALLE",
+      "company": "Allegion plc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ALMU",
+      "company": "Aeluma, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ALOV",
+      "company": "Aldabra 4 Liquidity Opportunity Vehicle, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ALOY",
+      "company": "REALLOYS INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ALTB",
+      "company": "Alpine Auto Brokers Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AMBO",
+      "company": "Ambow Education Holding Ltd.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AMCX",
+      "company": "AMC Networks Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AMOD",
+      "company": "ALPHA MODUS HOLDINGS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AMST",
+      "company": "Amesite Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AMT",
+      "company": "AMERICAN TOWER CORP /MA/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AMWD",
+      "company": "AMERICAN WOODMARK CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ANDE",
+      "company": "Andersons, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ANF",
+      "company": "ABERCROMBIE & FITCH CO /DE/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ANKM",
+      "company": "Ankam, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ANNA",
+      "company": "AleAnna, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ANVI",
+      "company": "ANVI GLOBAL HOLDINGS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AOXY",
+      "company": "ADVANCED OXYGEN TECHNOLOGIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "APCX",
+      "company": "AppTech Payments Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "APLD",
+      "company": "Applied Digital Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "APOG",
+      "company": "APOGEE ENTERPRISES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "APP",
+      "company": "AppLovin Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "APPN",
+      "company": "APPIAN CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "APT",
+      "company": "ALPHA PRO TECH LTD",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AROC",
+      "company": "Archrock, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ARRT",
+      "company": "Artisan Consumer Goods, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ARW",
+      "company": "ARROW ELECTRONICS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ASAN",
+      "company": "Asana, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ASFH",
+      "company": "ASIAFIN HOLDINGS CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ASGN",
+      "company": "ASGN Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ASIC",
+      "company": "Ategrity Specialty Insurance Co Holdings",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ASII",
+      "company": "Accredited Solutions, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ASIX",
+      "company": "AdvanSix Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ASNS",
+      "company": "ACTELIS NETWORKS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ASRE",
+      "company": "Astra Energy, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ASUR",
+      "company": "ASURE SOFTWARE INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ATDS",
+      "company": "Data443 Risk Mitigation, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ATEK",
+      "company": "Athena Technology Acquisition Corp. II",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ATEN",
+      "company": "A10 Networks, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ATEX",
+      "company": "Anterix Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ATLX",
+      "company": "Atlas Lithium Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ATNI",
+      "company": "ATN International, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ATPC",
+      "company": "Agape ATP Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ATXG",
+      "company": "ADDENTAX GROUP CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AUID",
+      "company": "authID Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AUMN",
+      "company": "Golden Minerals Co",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AVAI",
+      "company": "AVAI BIO, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "AVGO",
       "company": "Broadcom Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AVNW",
+      "company": "AVIAT NETWORKS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AVPT",
+      "company": "AvePoint, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AVT",
+      "company": "AVNET INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AVTR",
+      "company": "Avantor, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AXIN",
+      "company": "Axiom Intelligence Acquisition Corp 1",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "AXON",
+      "company": "AXON ENTERPRISE, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BAH",
+      "company": "Booz Allen Hamilton Holding Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BAND",
+      "company": "Bandwidth Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BB",
+      "company": "BLACKBERRY Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BBLR",
+      "company": "Bubblr Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BBW",
+      "company": "BUILD-A-BEAR WORKSHOP INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BCG",
+      "company": "Binah Capital Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BDC",
+      "company": "BELDEN INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BDL",
+      "company": "FLANIGANS ENTERPRISES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BFLY",
+      "company": "Butterfly Network, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BFRG",
+      "company": "BullFrog AI Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BGS",
+      "company": "B&G Foods, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BGSF",
+      "company": "BGSF, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BHIC",
+      "company": "BioScience Health Innovations, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BIXI",
+      "company": "Bitcoin Infrastructure Acquisition Corp Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BKHA",
+      "company": "Black Hawk Acquisition Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BKR",
+      "company": "Baker Hughes Co",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BKTI",
+      "company": "BK Technologies Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BKYI",
+      "company": "BIO KEY INTERNATIONAL INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BL",
+      "company": "BLACKLINE, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BLBD",
+      "company": "Blue Bird Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BLIN",
+      "company": "Bridgeline Digital, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BLND",
+      "company": "Blend Labs, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BLNE",
+      "company": "Beeline Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BLPG",
+      "company": "Blue Line Protection Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BLZE",
+      "company": "Backblaze, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BNAI",
+      "company": "Brand Engagement Network Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BNC",
+      "company": "CEA Industries Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BOC",
+      "company": "BOSTON OMAHA Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BOXL",
+      "company": "Boxlight Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BRBR",
+      "company": "BELLRING BRANDS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BRGX",
+      "company": "BIOREGENX, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BRNS",
+      "company": "Barinthus Biotherapeutics plc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BRZE",
+      "company": "Braze, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BSAA",
+      "company": "BEST SPAC I Acquisition Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BSAI",
+      "company": "BLUSKY AI INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BSBK",
+      "company": "Bogota Financial Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BSPK",
+      "company": "Bespoke Extracts, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BSY",
+      "company": "BENTLEY SYSTEMS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BW",
+      "company": "Babcock & Wilcox Enterprises, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BWEN",
+      "company": "BROADWIND, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BXC",
+      "company": "BlueLinx Holdings Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BYD",
+      "company": "BOYD GAMING CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BYOC",
+      "company": "Beyond Commerce, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CABO",
+      "company": "Cable One, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CACI",
+      "company": "CACI INTERNATIONAL INC /DE/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CANN",
+      "company": "TREES Corp (Colorado)",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CART",
+      "company": "Maplebear Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CASS",
+      "company": "CASS INFORMATION SYSTEMS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CASY",
+      "company": "CASEYS GENERAL STORES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CATY",
+      "company": "CATHAY GENERAL BANCORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CAVA",
+      "company": "CAVA GROUP, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CB",
+      "company": "Chubb Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CBAT",
+      "company": "CBAK Energy Technology, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CBDW",
+      "company": "1606 CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CBK",
+      "company": "Commercial Bancgroup, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CBRE",
+      "company": "CBRE GROUP, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CCL",
+      "company": "CARNIVAL CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CCLD",
+      "company": "CareCloud, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CCO",
+      "company": "Clear Channel Outdoor Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CCOI",
+      "company": "COGENT COMMUNICATIONS HOLDINGS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CCRN",
+      "company": "CROSS COUNTRY HEALTHCARE INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CCSI",
+      "company": "Consensus Cloud Solutions, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CCXI",
+      "company": "Churchill Capital Corp XI",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CDIX",
+      "company": "Cardiff Lexington Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CDNA",
+      "company": "CareDx, Inc.",
       "mentions": 3,
       "quarters": []
     },
@@ -317,8 +1391,392 @@
       "quarters": []
     },
     {
+      "ticker": "CEIN",
+      "company": "CAMBER ENERGY, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CELH",
+      "company": "Celsius Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CENT",
+      "company": "CENTRAL GARDEN & PET CO",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CEPF",
+      "company": "Cantor Equity Partners IV, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CEPS",
+      "company": "Cantor Equity Partners VI, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CETI",
+      "company": "Cyber Enviro-Tech, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CETY",
+      "company": "Clean Energy Technologies, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CF",
+      "company": "CF Industries Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CFOO",
+      "company": "China Foods Holdings Ltd.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CFOR",
+      "company": "CapForce Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CGNX",
+      "company": "COGNEX CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CHEC",
+      "company": "Chenghe Acquisition III Co.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CHNR",
+      "company": "CHINA NATURAL RESOURCES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CHR",
+      "company": "Cheer Holding, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CIMG",
+      "company": "CIMG Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CIRX",
+      "company": "CIRTRAN CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CISO",
+      "company": "CISO Global, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CLBZ",
+      "company": "Collab Z Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CLPR",
+      "company": "Clipper Realty Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CLRB",
+      "company": "Cellectar Biosciences, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CLST",
+      "company": "Catalyst Bancorp, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CLW",
+      "company": "Clearwater Paper Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CMCSA",
+      "company": "COMCAST CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CMII",
+      "company": "Columbus Circle Capital Corp II",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CMTL",
+      "company": "COMTECH TELECOMMUNICATIONS CORP /DE/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CNET",
+      "company": "ZW Data Action Technologies Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CNFN",
+      "company": "CFN Enterprises Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CNMD",
+      "company": "CONMED Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CNNE",
+      "company": "Cannae Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CNXC",
+      "company": "Concentrix Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CNXN",
+      "company": "PC CONNECTION INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "COBA",
+      "company": "Chilean Cobalt Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "COUR",
+      "company": "Coursera, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CPHI",
+      "company": "CHINA PHARMA HOLDINGS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CPKF",
+      "company": "CHESAPEAKE FINANCIAL SHARES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CPNG",
+      "company": "Coupang, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CPS",
+      "company": "Cooper-Standard Holdings Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CRAI",
+      "company": "CRA INTERNATIONAL, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CRCW",
+      "company": "Crypto Co",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CRDO",
+      "company": "Credo Technology Group Holding Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CREG",
+      "company": "Smart Powerr Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CREX",
+      "company": "CREATIVE REALITIES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CRGY",
+      "company": "Crescent Energy Co",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CRMT",
+      "company": "AMERICAS CARMART INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CROX",
+      "company": "Crocs, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CRTO",
+      "company": "Criteo S.A.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CRUS",
+      "company": "CIRRUS LOGIC, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CRVW",
+      "company": "CareView Communications Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "CRWD",
       "company": "CrowdStrike Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CRWV",
+      "company": "CoreWeave, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CSAI",
+      "company": "CLOUDASTRUCTURE, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CSBR",
+      "company": "CHAMPIONS ONCOLOGY, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CSGP",
+      "company": "COSTAR GROUP, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CSL",
+      "company": "CARLISLE COMPANIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CSPI",
+      "company": "CSP INC /MA/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CSUI",
+      "company": "CANNABIS SUISSE CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CTBB",
+      "company": "QWEST CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CTLP",
+      "company": "CANTALOUPE, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CTM",
+      "company": "Castellum, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CUBE",
+      "company": "CubeSmart",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CUEN",
+      "company": "Cuentas Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CVCO",
+      "company": "CAVCO INDUSTRIES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CVKD",
+      "company": "Cadrenal Therapeutics, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CVLG",
+      "company": "COVENANT LOGISTICS GROUP, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CVLT",
+      "company": "COMMVAULT SYSTEMS INC",
       "mentions": 3,
       "quarters": []
     },
@@ -331,8 +1789,794 @@
       ]
     },
     {
+      "ticker": "CXAI",
+      "company": "CXApp Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CXDO",
+      "company": "Crexendo, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CXM",
+      "company": "Sprinklr, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CYCA",
+      "company": "CYTTA CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CYN",
+      "company": "Cyngn Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CYPH",
+      "company": "CYPHERPUNK TECHNOLOGIES INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CYRX",
+      "company": "Cryoport, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DAIC",
+      "company": "CID Holdco, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DAKT",
+      "company": "DAKTRONICS INC /SD/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DAN",
+      "company": "DANA Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DBMM",
+      "company": "Digital Brand Media & Marketing Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DC",
+      "company": "Dakota Gold Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DDOG",
+      "company": "Datadog, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "DELL",
       "company": "Dell Technologies Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DFH",
+      "company": "Dream Finders Homes, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DFNS",
+      "company": "T3 Defense Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DGICA",
+      "company": "DONEGAL GROUP INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DGII",
+      "company": "DIGI INTERNATIONAL INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DHTI",
+      "company": "Dalrada Technology Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DLHC",
+      "company": "DLH Holdings Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DLR",
+      "company": "DIGITAL REALTY TRUST, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DLTI",
+      "company": "DLT Resolution Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DLX",
+      "company": "DELUXE CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DMRC",
+      "company": "Digimarc CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DOCN",
+      "company": "DigitalOcean Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DOCS",
+      "company": "Doximity, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DOCU",
+      "company": "DOCUSIGN, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DOMO",
+      "company": "DOMO, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DROR",
+      "company": "Dror Ortho-Design, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DSGT",
+      "company": "DSG Global Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DT",
+      "company": "Dynatrace, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DTSS",
+      "company": "DATASEA INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DTST",
+      "company": "Data Storage Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DUKR",
+      "company": "DUKE Robotics Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DUOT",
+      "company": "DUOS TECHNOLOGIES GROUP, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DVA",
+      "company": "DAVITA INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DWAY",
+      "company": "Driveitaway Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DX",
+      "company": "DYNEX CAPITAL INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DXC",
+      "company": "DXC Technology Co",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DXPE",
+      "company": "DXP ENTERPRISES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DYNTQ",
+      "company": "DYNATRONICS CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EACO",
+      "company": "EACO CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EAT",
+      "company": "BRINKER INTERNATIONAL, INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EAXR",
+      "company": "Ealixir, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EBMT",
+      "company": "Eagle Bancorp Montana, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EBZT",
+      "company": "Everything Blockchain, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ECXJ",
+      "company": "CXJ GROUP CO., Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EDGM",
+      "company": "Edgemode, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EDUC",
+      "company": "EDUCATIONAL DEVELOPMENT CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EFOI",
+      "company": "ENERGY FOCUS, INC/DE",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EFSC",
+      "company": "ENTERPRISE FINANCIAL SERVICES CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EGAN",
+      "company": "EGAIN Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EGHT",
+      "company": "8X8 INC /DE/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EHSI",
+      "company": "Elite Health Systems Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EIG",
+      "company": "Employers Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EKSO",
+      "company": "EKSO BIONICS HOLDINGS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ELA",
+      "company": "Envela Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ELRE",
+      "company": "Yinfu Gold Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ELVG",
+      "company": "Elvictor Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EMAT",
+      "company": "Evolution Metals & Technologies Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EMBC",
+      "company": "Embecta Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EML",
+      "company": "EASTERN CO",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ENDI",
+      "company": "ENDI Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ENDV",
+      "company": "ENDONOVO THERAPEUTICS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ENFY",
+      "company": "Enlightify Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ENZN",
+      "company": "Viskase Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EOSE",
+      "company": "Eos Energy Enterprises, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EPAC",
+      "company": "ENERPAC TOOL GROUP CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EPD",
+      "company": "ENTERPRISE PRODUCTS PARTNERS L.P.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EQS",
+      "company": "EQUUS TOTAL RETURN, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ESCA",
+      "company": "ESCALADE INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ESE",
+      "company": "ESCO TECHNOLOGIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ESGH",
+      "company": "ESG Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ESSI",
+      "company": "ECO SCIENCE SOLUTIONS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ESTC",
+      "company": "Elastic N.V.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ETD",
+      "company": "ETHAN ALLEN INTERIORS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EUBG",
+      "company": "ENTREPRENEUR UNIVERSE BRIGHT GROUP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EURK",
+      "company": "Eureka Acquisition Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EVCM",
+      "company": "EverCommerce Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EVI",
+      "company": "EVI INDUSTRIES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EVOH",
+      "company": "EvoAir Holdings Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EVOX",
+      "company": "Evolution Global Acquisition Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EVTK",
+      "company": "EVENTIKO INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EXFY",
+      "company": "Expensify, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EXLS",
+      "company": "ExlService Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EXPI",
+      "company": "eXp World Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EZOO",
+      "company": "Ezagoo Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EZRA",
+      "company": "Reliance Global Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FACT",
+      "company": "FACT II Acquisition Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FALC",
+      "company": "FALCONSTOR SOFTWARE INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FANG",
+      "company": "Diamondback Energy, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FAST",
+      "company": "FASTENAL CO",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FATN",
+      "company": "Fatpipe Inc/UT",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FC",
+      "company": "FRANKLIN COVEY CO",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FCCN",
+      "company": "SPECTRAL CAPITAL Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FCCO",
+      "company": "FIRST COMMUNITY CORP /SC/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FCHS",
+      "company": "First Choice Healthcare Solutions, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FCN",
+      "company": "FTI CONSULTING, INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FDS",
+      "company": "FACTSET RESEARCH SYSTEMS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FEIM",
+      "company": "FREQUENCY ELECTRONICS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FERA",
+      "company": "Fifth Era Acquisition Corp I",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FERG",
+      "company": "Ferguson Enterprises Inc. /DE/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FF",
+      "company": "FutureFuel Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FFIV",
+      "company": "F5, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FFLO",
+      "company": "Free Flow USA, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FGNV",
+      "company": "FORGE INNOVATION DEVELOPMENT CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FHLD",
+      "company": "Awareness Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FICO",
+      "company": "FAIR ISAAC CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FIEE",
+      "company": "FiEE, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FIG",
+      "company": "Figma, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FIS",
+      "company": "Fidelity National Information Services, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FISV",
+      "company": "FISERV INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FIVN",
+      "company": "Five9, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FKWL",
+      "company": "FRANKLIN WIRELESS CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FLNA",
+      "company": "FILANA THERAPEUTICS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FLNT",
+      "company": "Fluent, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FNGR",
+      "company": "FingerMotion, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FNWB",
+      "company": "First Northwest Bancorp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FOFA",
+      "company": "FAMILY OFFICE OF AMERICA, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FOLD",
+      "company": "AMICUS THERAPEUTICS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FOR",
+      "company": "Forestar Group Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FRGT",
+      "company": "Freight Technologies, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FRMI",
+      "company": "Fermi Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FRPT",
+      "company": "Freshpet, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FRQN",
+      "company": "Frequency Holdings, Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FRSH",
+      "company": "Freshworks Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FRT",
+      "company": "FEDERAL REALTY INVESTMENT TRUST",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FSBW",
+      "company": "FS Bancorp, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FSTJ",
+      "company": "First America Resources Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FSTR",
+      "company": "FOSTER L B CO",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FTFT",
+      "company": "Future FinTech Group Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FTII",
+      "company": "FutureTech II Acquisition Corp.",
       "mentions": 3,
       "quarters": []
     },
@@ -343,14 +2587,758 @@
       "quarters": []
     },
     {
+      "ticker": "FTSP",
+      "company": "FinTrade Sherpa, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FULO",
+      "company": "FULLNET COMMUNICATIONS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FUSE",
+      "company": "Fusemachines Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FUST",
+      "company": "FUSE GROUP HOLDING INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FVN",
+      "company": "Future Vision II Acquisition Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FVTI",
+      "company": "Fortune Valley Treasures, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FWDI",
+      "company": "Forward Industries, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FWFW",
+      "company": "FLYWHEEL ADVANCED TECHNOLOGY, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FXNC",
+      "company": "FIRST NATIONAL CORP /VA/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "G",
+      "company": "Genpact LTD",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GAME",
+      "company": "GameSquare Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GAMG",
+      "company": "Global Asset Management Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GCAN",
+      "company": "Greater Cannabis Company, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GCBC",
+      "company": "GREENE COUNTY BANCORP INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GCGJ",
+      "company": "GUOCHUN INTERNATIONAL INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GDC",
+      "company": "GD Culture Group Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GDST",
+      "company": "Goldenstone Acquisition Ltd.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GDYN",
+      "company": "GRID DYNAMICS HOLDINGS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GEDC",
+      "company": "CalEthos, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GEOS",
+      "company": "GEOSPACE TECHNOLOGIES CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GETY",
+      "company": "Getty Images Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GFMH",
+      "company": "Goliath Film & Media Holdings",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GGROU",
+      "company": "Golden Growers Cooperative",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GGRP",
+      "company": "Glimpse Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GHST",
+      "company": "GHST World Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GKOR",
+      "company": "Golkor Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GLAI",
+      "company": "Global AI, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GLCP",
+      "company": "GLOBAL LEADERS CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GLEI",
+      "company": "Galaxy Enterprises Inc. /WY/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GLGI",
+      "company": "GREYSTONE LOGISTICS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GLNS",
+      "company": "Golden Star Resource Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GLVT",
+      "company": "GREENLIT VENTURES INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GLXY",
+      "company": "Galaxy Digital Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GMBL",
+      "company": "ESPORTS ENTERTAINMENT GROUP, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GMER",
+      "company": "GOOD GAMING, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GMTH",
+      "company": "GMTech Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GOCO",
+      "company": "GoHealth, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GRHI",
+      "company": "GOLD ROCK HOLDINGS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GSAT",
+      "company": "Globalstar, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GSG",
+      "company": "iShares S&P GSCI Commodity-Indexed Trust",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GSHD",
+      "company": "Goosehead Insurance, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GTCH",
+      "company": "GBT Technologies Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GTEC",
+      "company": "Greenland Technologies Holding Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GTERA",
+      "company": "Globa Terra Acquisition Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GTLB",
+      "company": "Gitlab Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GTLL",
+      "company": "GLOBAL TECHNOLOGIES LTD",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GURE",
+      "company": "GULF RESOURCES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GWH",
+      "company": "ESS Tech, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GWLL",
+      "company": "GOLDENWELL BIOTECH, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GWSO",
+      "company": "Global Warming Solutions, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GWW",
+      "company": "W.W. GRAINGER, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GXXM",
+      "company": "GEX MANAGEMENT, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HAE",
+      "company": "HAEMONETICS CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HAFG",
+      "company": "Holistic Asset Finance Group Co., Ltd.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HAL",
+      "company": "HALLIBURTON CO",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HAS",
+      "company": "HASBRO, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HAYW",
+      "company": "Hayward Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HCIC",
+      "company": "Hennessy Capital Investment Corp. VIII",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HCIL",
+      "company": "Hongchang International Co., Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HCKT",
+      "company": "HACKETT GROUP, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HCMA",
+      "company": "HCM III ACQUISITION CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HCMC",
+      "company": "Healthier Choices Management Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HCTI",
+      "company": "Healthcare Triangle, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HE",
+      "company": "HAWAIIAN ELECTRIC INDUSTRIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HFUS",
+      "company": "Hartford Creative Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HGYN",
+      "company": "HONG YUAN HOLDING GROUP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HHS",
+      "company": "HARTE HANKS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HIG",
+      "company": "HARTFORD INSURANCE GROUP, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HIGR",
+      "company": "Hi-Great Group Holding Co",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HIPO",
+      "company": "Hippo Holdings Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HLXC",
+      "company": "Helix Acquisition Corp. III",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HLYK",
+      "company": "HealthLynked Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HNGE",
+      "company": "Hinge Health, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HNST",
+      "company": "Honest Company, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HOFT",
+      "company": "HOOKER FURNISHINGS Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HOLO",
+      "company": "MicroCloud Hologram Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HOOD",
+      "company": "Robinhood Markets, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HOV",
+      "company": "HOVNANIAN ENTERPRISES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HQI",
+      "company": "HireQuest, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HRB",
+      "company": "H&R BLOCK INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HSCT",
+      "company": "HOOPS SCOUTING USA",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HSTA",
+      "company": "Hestia Insight Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HSTM",
+      "company": "HEALTHSTREAM INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HTCR",
+      "company": "HeartCore Enterprises, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HTLD",
+      "company": "HEARTLAND EXPRESS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HURN",
+      "company": "Huron Consulting Group Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HVII",
+      "company": "Hennessy Capital Investment Corp. VII",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HWNI",
+      "company": "HIGH WIRE NETWORKS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IBEX",
+      "company": "IBEX Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "IBM",
       "company": "INTERNATIONAL BUSINESS MACHINES CORP",
       "mentions": 3,
       "quarters": []
     },
     {
+      "ticker": "IDAI",
+      "company": "T Stamp Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IEP",
+      "company": "ICAHN ENTERPRISES L.P.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "III",
+      "company": "Information Services Group Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IIIV",
+      "company": "i3 Verticals, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ILLR",
+      "company": "Triller Group Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IMCI",
+      "company": "INFINITE GROUP INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IMTH",
+      "company": "AnTix Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "INBS",
+      "company": "INTELLIGENT BIO SOLUTIONS INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "INDB",
+      "company": "INDEPENDENT BANK CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "INLX",
+      "company": "INTELLINETICS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "INNV",
+      "company": "InnovAge Holding Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "INSG",
+      "company": "INSEEGO CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "INTS",
+      "company": "INTENSITY THERAPEUTICS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "INTZ",
+      "company": "INTRUSION INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IONQ",
+      "company": "IonQ, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IOT",
+      "company": "Samsara Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IPM",
+      "company": "INTELLIGENT PROTECTION MANAGEMENT CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IPSI",
+      "company": "Innovative Payment Solutions, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IQST",
+      "company": "iQSTEL Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IR",
+      "company": "Ingersoll Rand Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IRAB",
+      "company": "Iris Acquisition Corp II",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IRDM",
+      "company": "Iridium Communications Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "ISRG",
       "company": "INTUITIVE SURGICAL INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ITHA",
+      "company": "ITHAX Acquisition Corp III",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ITP",
+      "company": "IT TECH PACKAGING, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ITT",
+      "company": "ITT INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IVDA",
+      "company": "Iveda Solutions, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IVR",
+      "company": "Invesco Mortgage Capital Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IWAL",
+      "company": "iWallet Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IWSH",
+      "company": "Wright Investors Service Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IZEA",
+      "company": "IZEA Worldwide, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "JACK",
+      "company": "JACK IN THE BOX INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "JBHT",
+      "company": "HUNT J B TRANSPORT SERVICES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "JKHY",
+      "company": "JACK HENRY & ASSOCIATES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "JLL",
+      "company": "JONES LANG LASALLE INC",
       "mentions": 3,
       "quarters": []
     },
@@ -363,8 +3351,710 @@
       ]
     },
     {
+      "ticker": "JOB",
+      "company": "GEE Group Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "JRSH",
+      "company": "Jerash Holdings (US), Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "JRSS",
+      "company": "JRSIS HEALTH CARE Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "JYNT",
+      "company": "JOINT Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KAYS",
+      "company": "Kaya Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KBLB",
+      "company": "Kraig Biocraft Laboratories, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KD",
+      "company": "Kyndryl Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KDK",
+      "company": "Kodiak AI, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KDOZF",
+      "company": "KIDOZ INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KE",
+      "company": "Kimball Electronics, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KELYA",
+      "company": "KELLY SERVICES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KEQU",
+      "company": "KEWAUNEE SCIENTIFIC CORP /DE/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KFRC",
+      "company": "KFORCE INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KFY",
+      "company": "KORN FERRY",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KGS",
+      "company": "Kodiak Gas Services, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KLTR",
+      "company": "KALTURA INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KNOS",
+      "company": "KRONOS ADVANCED TECHNOLOGIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KNX",
+      "company": "Knight-Swift Transportation Holdings Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KOPN",
+      "company": "KOPIN CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KORE",
+      "company": "KORE Group Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KPEA",
+      "company": "Kun Peng International Ltd.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KRAQ",
+      "company": "KRAKacquisition Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KRFG",
+      "company": "King Resources, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KSCP",
+      "company": "Knightscope, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KTCC",
+      "company": "KEY TRONIC CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KTWO",
+      "company": "K2 Capital Acquisition Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KVHI",
+      "company": "KVH INDUSTRIES INC \\DE\\",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "KVYO",
+      "company": "Klaviyo, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LASE",
+      "company": "Laser Photonics Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LAW",
+      "company": "CS Disco, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LAWIL",
+      "company": "Light & Wonder, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LBRA",
+      "company": "1847 Holdings LLC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LBRDA",
+      "company": "Liberty Broadband Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LBSR",
+      "company": "LIBERTY STAR URANIUM & METALS CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LDDD",
+      "company": "Longduoduo Co Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LDXC",
+      "company": "Londax Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LEE",
+      "company": "LEE ENTERPRISES, Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LEEEF",
+      "company": "Leef Brands Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LGL",
+      "company": "LGL GROUP INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LGSP",
+      "company": "LEGEND SPICES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LIDR",
+      "company": "AEye, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LII",
+      "company": "LENNOX INTERNATIONAL INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LINC",
+      "company": "LINCOLN EDUCATIONAL SERVICES CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LIND",
+      "company": "LINDBLAD EXPEDITIONS HOLDINGS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LIVG",
+      "company": "Livento Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LMMY",
+      "company": "Exousia Bio, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LNAI",
+      "company": "Lunai Bioworks Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LNBY",
+      "company": "Landbay Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LOGI",
+      "company": "LOGITECH INTERNATIONAL S.A.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LOKV",
+      "company": "Live Oak Acquisition Corp. V",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LOPE",
+      "company": "Grand Canyon Education, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LPSN",
+      "company": "LIVEPERSON INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "LRCX",
       "company": "LAM RESEARCH CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LRN",
+      "company": "Stride, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LSAK",
+      "company": "LESAKA TECHNOLOGIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LSCC",
+      "company": "LATTICE SEMICONDUCTOR CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LSF",
+      "company": "Laird Superfood, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LSH",
+      "company": "Lakeside Holding Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LTRX",
+      "company": "LANTRONIX INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LTSV",
+      "company": "Lightstone Value Plus REIT IV, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LUDG",
+      "company": "LUDWIG ENTERPRISES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LVO",
+      "company": "LiveOne, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LVPA",
+      "company": "LVPAI GROUP Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "LYV",
+      "company": "Live Nation Entertainment, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "M",
+      "company": "Macy's, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MAGE",
+      "company": "MAGELLAN COPPER & GOLD Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MAS",
+      "company": "MASCO CORP /DE/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MASS",
+      "company": "908 Devices Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MAYS",
+      "company": "MAYS J W INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MBBC",
+      "company": "Marathon Bancorp, Inc. /MD/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MBC",
+      "company": "MasterBrand, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MBOT",
+      "company": "Microbot Medical Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MBVI",
+      "company": "M3-Brigade Acquisition VI Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MCAG",
+      "company": "Mountain Crest Acquisition Corp. V",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MCB",
+      "company": "Metropolitan Bank Holding Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MCLE",
+      "company": "Medicale Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MCOM",
+      "company": "micromobility.com Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MDAI",
+      "company": "Spectral AI, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MDLK",
+      "company": "ModuLink Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MDWK",
+      "company": "MDWerks, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MED",
+      "company": "MEDIFAST INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MEHA",
+      "company": "Functional Brands Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MFON",
+      "company": "MOBIVITY HOLDINGS CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MG",
+      "company": "Mistras Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MGLD",
+      "company": "Marygold Companies, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MGNC",
+      "company": "Mag Magna Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MGPI",
+      "company": "MGP INGREDIENTS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MGSD",
+      "company": "Maitong Sunshine Cultural Development Co., Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MGTI",
+      "company": "MGT CAPITAL INVESTMENTS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MGYR",
+      "company": "Magyar Bancorp, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MHH",
+      "company": "Mastech Digital, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MIBE",
+      "company": "MIAMI BREEZE CAR CARE INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MIGI",
+      "company": "Mawson Infrastructure Group Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MITI",
+      "company": "Mitesco, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MITK",
+      "company": "MITEK SYSTEMS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MITQ",
+      "company": "MOVING iMAGE TECHNOLOGIES INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MKLY",
+      "company": "McKinley Acquisition Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MKTW",
+      "company": "MARKETWISE, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MLGO",
+      "company": "MicroAlgo Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MLRT",
+      "company": "Metalert, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MMCP",
+      "company": "Mag Mile Capital, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MMS",
+      "company": "MAXIMUS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MNSB",
+      "company": "MainStreet Bancshares, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MOJO",
+      "company": "EQUATOR Beverage Co",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MORN",
+      "company": "Morningstar, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MOVE",
+      "company": "Corvex, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MPTI",
+      "company": "M-tron Industries, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MPWR",
+      "company": "MONOLITHIC POWER SYSTEMS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MQ",
+      "company": "Marqeta, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MRAI",
+      "company": "Marpai, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MRAM",
+      "company": "EVERSPIN TECHNOLOGIES INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MRCY",
+      "company": "MERCURY SYSTEMS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MSAI",
+      "company": "MultiSensor AI Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MSBB",
+      "company": "Mercer Bancorp, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MSM",
+      "company": "MSC INDUSTRIAL DIRECT CO INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MTDR",
+      "company": "Matador Resources Co",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MTRX",
+      "company": "MATRIX SERVICE CO",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MTWO",
+      "company": "M2i Global, Inc.",
       "mentions": 3,
       "quarters": []
     },
@@ -375,8 +4065,416 @@
       "quarters": []
     },
     {
+      "ticker": "MVST",
+      "company": "Microvast Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MWYN",
+      "company": "Marwynn Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MXL",
+      "company": "MAXLINEAR, INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NABL",
+      "company": "N-able, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NBY",
+      "company": "Stablecoin Development Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NCNO",
+      "company": "nCino, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NCRA",
+      "company": "NOCERA, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NCSM",
+      "company": "NCS Multistage Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NDSN",
+      "company": "NORDSON CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NEON",
+      "company": "Neonode Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NHIC",
+      "company": "NewHold Investment Corp. III",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NIHK",
+      "company": "Video River Networks, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NIXX",
+      "company": "Nixxy, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NLST",
+      "company": "NETLIST INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NMIH",
+      "company": "NMI Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NNBR",
+      "company": "NN INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NOMA",
+      "company": "Nomadar Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NORD",
+      "company": "Nordicus Partners Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NRC",
+      "company": "NATIONAL RESEARCH CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NRDY",
+      "company": "Nerdy Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NRIS",
+      "company": "Norris Industries, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NSIT",
+      "company": "INSIGHT ENTERPRISES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NSSC",
+      "company": "NAPCO SECURITY TECHNOLOGIES, INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NSYS",
+      "company": "NORTECH SYSTEMS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NTCS",
+      "company": "Natics Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NTCT",
+      "company": "NETSCOUT SYSTEMS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NTRX",
+      "company": "Entrex Carbon Market, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NTWK",
+      "company": "NETSOL TECHNOLOGIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NUAI",
+      "company": "New ERA Energy & Digital, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NUS",
+      "company": "NU SKIN ENTERPRISES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NVT",
+      "company": "nVent Electric plc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NWPX",
+      "company": "NWPX Infrastructure, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NXL",
+      "company": "Nexalin Technology, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NXNT",
+      "company": "Nexscient, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NXPL",
+      "company": "NextPlat Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "NXTT",
+      "company": "Next Technology Holding Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "OBT",
+      "company": "Orange County Bancorp, Inc. /DE/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "OCC",
+      "company": "OPTICAL CABLE CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "OMC",
+      "company": "OMNICOM GROUP INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "OMCL",
+      "company": "OMNICELL, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ONAR",
+      "company": "Onar Holding Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ONDS",
+      "company": "Ondas Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ONEI",
+      "company": "OneMeta Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ONTF",
+      "company": "ON24 INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ORBS",
+      "company": "Eightco Holdings Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ORC",
+      "company": "Orchid Island Capital, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ORN",
+      "company": "Orion Group Holdings Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "OSPN",
+      "company": "OneSpan Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "OTEX",
+      "company": "OPEN TEXT CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "OUT",
+      "company": "OUTFRONT Media Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "OVLY",
+      "company": "Oak Valley Bancorp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "OVTZ",
+      "company": "OCULUS INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "OWPC",
+      "company": "One World Products, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "OXSQ",
+      "company": "Oxford Square Capital Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PAL",
+      "company": "Proficient Auto Logistics, Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "PANW",
       "company": "Palo Alto Networks Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PAR",
+      "company": "PAR TECHNOLOGY CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PATH",
+      "company": "UiPath, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PAYD",
+      "company": "PAID INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PAYO",
+      "company": "Payoneer Global Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PAYS",
+      "company": "Paysign, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PCOR",
+      "company": "PROCORE TECHNOLOGIES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PCTY",
+      "company": "Paylocity Holding Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PD",
+      "company": "PagerDuty, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PDFS",
+      "company": "PDF SOLUTIONS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PEGA",
+      "company": "PEGASYSTEMS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PEN",
+      "company": "Penumbra Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PENG",
+      "company": "Penguin Solutions, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PFHO",
+      "company": "PACIFIC HEALTH CARE ORGANIZATION INC",
       "mentions": 3,
       "quarters": []
     },
@@ -389,8 +4487,1130 @@
       ]
     },
     {
+      "ticker": "PLAG",
+      "company": "Planet Green Holdings Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PLBC",
+      "company": "PLUMAS BANCORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PLNH",
+      "company": "Planet 13 Holdings Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PLSH",
+      "company": "PANACEA LIFE SCIENCES HOLDINGS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PLUS",
+      "company": "EPLUS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PMHS",
+      "company": "Polomar Health Services, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PMTR",
+      "company": "Perimeter Acquisition Corp. I",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PNPL",
+      "company": "PINEAPPLE, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PNR",
+      "company": "PENTAIR plc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PNXP",
+      "company": "PINEAPPLE EXPRESS CANNABIS Co",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PNYG",
+      "company": "Pony Group Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PODC",
+      "company": "PodcastOne, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PPSI",
+      "company": "PIONEER POWER SOLUTIONS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PR",
+      "company": "Permian Resources Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PREM",
+      "company": "Premier Air Charter Holdings Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PRG",
+      "company": "PROG Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PRGS",
+      "company": "PROGRESS SOFTWARE CORP /MA",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PRIM",
+      "company": "Primoris Services Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PRKR",
+      "company": "PARKERVISION INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PRTH",
+      "company": "Priority Technology Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PSIX",
+      "company": "POWER SOLUTIONS INTERNATIONAL, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PSQH",
+      "company": "PSQ Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PSTG",
+      "company": "Everpure, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PTEN",
+      "company": "PATTERSON UTI ENERGY INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PTOS",
+      "company": "P2 Solar, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PUBC",
+      "company": "Purebase Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PULM",
+      "company": "Pulmatrix, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PWDY",
+      "company": "POWERDYNE INTERNATIONAL, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PXED",
+      "company": "Phoenix Education Partners, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PXLW",
+      "company": "PIXELWORKS, INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PZZA",
+      "company": "PAPA JOHNS INTERNATIONAL INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "QBTS",
+      "company": "D-Wave Quantum Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "QLYS",
+      "company": "QUALYS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "QMCI",
+      "company": "QUOTEMEDIA INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "QMCO",
+      "company": "QUANTUM CORP /DE/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "QPRC",
+      "company": "QUEST PATENT RESEARCH CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "QSJC",
+      "company": "TANCHENG GROUP CO., LTD.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "QUAD",
+      "company": "Quad/Graphics, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "QUBT",
+      "company": "Quantum Computing Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "QURT",
+      "company": "Quarta-Rad, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "QWTR",
+      "company": "Quest Water Global, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "QXO",
+      "company": "QXO, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RAC",
+      "company": "Rithm Acquisition Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RBB",
+      "company": "RBB Bancorp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RBBN",
+      "company": "Ribbon Communications Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RBC",
+      "company": "RBC Bearings INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RBRK",
+      "company": "Rubrik, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RBTK",
+      "company": "ZHEN DING RESOURCES INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RCAT",
+      "company": "Red Cat Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RCMT",
+      "company": "RCM TECHNOLOGIES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RDCT",
+      "company": "VNUE, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RDZN",
+      "company": "Roadzen Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "REBN",
+      "company": "Reborn Coffee, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "REI",
+      "company": "RING ENERGY, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RENX",
+      "company": "RenX Enterprises Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RFIL",
+      "company": "R F INDUSTRIES LTD",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RGP",
+      "company": "RESOURCES CONNECTION, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RGS",
+      "company": "REGIS CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RHI",
+      "company": "ROBERT HALF INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RIVF",
+      "company": "Rivulet Entertainment, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RLBY",
+      "company": "RELIABILITY INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RLEA",
+      "company": "Rubber Leaf Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RMNI",
+      "company": "Rimini Street, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RMSL",
+      "company": "RemSleep Holdings Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RMTG",
+      "company": "Regenerative Medical Technology Group Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RNG",
+      "company": "RingCentral, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RNGC",
+      "company": "Ranger Gold Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ROC",
+      "company": "Rank One Computing Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ROG",
+      "company": "ROGERS CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ROL",
+      "company": "ROLLINS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ROP",
+      "company": "ROPER TECHNOLOGIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ROYL",
+      "company": "Royale Energy, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RPDL",
+      "company": "Rapid Line Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RR",
+      "company": "RICHTECH ROBOTICS INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RRBI",
+      "company": "RED RIVER BANCSHARES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RSCF",
+      "company": "REFLECT SCIENTIFIC, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RSSS",
+      "company": "Research Solutions, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RTON",
+      "company": "Right On Brands, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RUM",
+      "company": "Rumble Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RUSHA",
+      "company": "RUSH ENTERPRISES INC \\TX\\",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RVYL",
+      "company": "RYVYL Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RWAX",
+      "company": "TAP REAL ESTATE TECHNOLOGIES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RXT",
+      "company": "Rackspace Technology, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RYAM",
+      "company": "RAYONIER ADVANCED MATERIALS INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RYES",
+      "company": "Rise Gold Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "S",
+      "company": "SentinelOne, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SAIC",
+      "company": "Science Applications International Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SAIL",
+      "company": "SailPoint, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SANM",
+      "company": "SANMINA CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SAR",
+      "company": "SARATOGA INVESTMENT CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SATL",
+      "company": "Satellogic Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SCGY",
+      "company": "SCIENTIFIC ENERGY, INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SCI",
+      "company": "SERVICE CORP INTERNATIONAL",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SCPQ",
+      "company": "Social Commerce Partners Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SCSC",
+      "company": "SCANSOURCE, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SCTH",
+      "company": "Securetech Innovations, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SDCH",
+      "company": "SideChannel, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SDHC",
+      "company": "Smith Douglas Homes Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SEAV",
+      "company": "SEATech Ventures Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SEDG",
+      "company": "SOLAREDGE TECHNOLOGIES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SFCX",
+      "company": "SUPA Consolidated Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SFES",
+      "company": "SAFEGUARD SCIENTIFICS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SGLY",
+      "company": "Singularity Future Technology Ltd.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SGP",
+      "company": "SpyGlass Pharma, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SHAZ",
+      "company": "SharonAI Holdings Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SHEN",
+      "company": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SHO",
+      "company": "Sunstone Hotel Investors, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SHOP",
+      "company": "SHOPIFY INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SIDU",
+      "company": "Sidus Space Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SIEB",
+      "company": "SIEBERT FINANCIAL CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SILA",
+      "company": "Sila Realty Trust, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SINC",
+      "company": "Sincerity Applied Materials Holdings Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SITE",
+      "company": "SiteOne Landscape Supply, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SITM",
+      "company": "SITIME Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SKIL",
+      "company": "Skillsoft Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SKKY",
+      "company": "Skkynet Cloud Systems, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SKVI",
+      "company": "SKINVISIBLE, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SLAB",
+      "company": "SILICON LABORATORIES INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SLAMF",
+      "company": "Slam Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SLB",
+      "company": "SLB LIMITED/NV",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SLNG",
+      "company": "Stabilis Solutions, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SLV",
+      "company": "iShares Silver Trust",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SMR",
+      "company": "NUSCALE POWER Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SMSI",
+      "company": "SMITH MICRO SOFTWARE, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SMXT",
+      "company": "SolarMax Technology, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SNDK",
+      "company": "Sandisk Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SNDR",
+      "company": "Schneider National, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SNPW",
+      "company": "Sun Pacific Holding Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SNTW",
+      "company": "Summit Networks Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SNX",
+      "company": "TD SYNNEX CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SO",
+      "company": "SOUTHERN CO",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SOAR",
+      "company": "Volato Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SOBR",
+      "company": "SOBR Safe, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SONM",
+      "company": "DNA X, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SOPA",
+      "company": "SOCIETY PASS INCORPORATED.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SOUN",
+      "company": "SOUNDHOUND AI, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SPAI",
+      "company": "Safe Pro Group Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SPEG",
+      "company": "Silver Pegasus Acquisition Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SPOK",
+      "company": "Spok Holdings, Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SPSC",
+      "company": "SPS COMMERCE INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SPT",
+      "company": "Sprout Social, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SPTY",
+      "company": "SPECIFICITY, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SRRE",
+      "company": "SUNRISE REAL ESTATE GROUP INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SRTA",
+      "company": "Strata Critical Medical, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SRTS",
+      "company": "Sensus Healthcare, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SSGC",
+      "company": "SafeSpace Global Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SSP",
+      "company": "E.W. SCRIPPS Co",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "STAG",
+      "company": "STAG Industrial, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "STAI",
+      "company": "ScanTech AI Systems Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "STEM",
+      "company": "STEM, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "STEX",
+      "company": "Streamex Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "STGW",
+      "company": "Stagwell Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "STQN",
+      "company": "STRATEGIC ACQUISITIONS INC /NV/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "STRG",
+      "company": "STARGUIDE GROUP, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "STRL",
+      "company": "STERLING INFRASTRUCTURE, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "STSS",
+      "company": "Sharps Technology Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SUIC",
+      "company": "SUIC Worldwide Holdings Ltd.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SVAC",
+      "company": "Spring Valley Acquisition Corp. III",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SVMB",
+      "company": "Jingbo Technology, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SWAG",
+      "company": "Stran & Company, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SWIM",
+      "company": "Latham Group, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SWKS",
+      "company": "SKYWORKS SOLUTIONS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SXI",
+      "company": "STANDEX INTERNATIONAL CORP/DE/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "SYK",
       "company": "STRYKER CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SYNA",
+      "company": "SYNAPTICS Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SYRA",
+      "company": "Syra Health Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TACH",
+      "company": "Titan Acquisition Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TACT",
+      "company": "TRANSACT TECHNOLOGIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TAIT",
+      "company": "TAITRON COMPONENTS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TBI",
+      "company": "TrueBlue, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TBN",
+      "company": "Tamboran Resources Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TBRG",
+      "company": "TruBridge, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TCBS",
+      "company": "Texas Community Bancshares, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TCNNF",
+      "company": "Trulieve Cannabis Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TDC",
+      "company": "TERADATA CORP /DE/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TDOC",
+      "company": "Teladoc Health, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TDW",
+      "company": "TIDEWATER INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TE",
+      "company": "T1 Energy Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TEAD",
+      "company": "Teads Holding Co.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TEAM",
+      "company": "Atlassian Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TENB",
+      "company": "Tenable Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TGCB",
+      "company": "Tego Cyber, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TGNT",
+      "company": "Totaligent, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "THM",
+      "company": "INTERNATIONAL TOWER HILL MINES LTD",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TILE",
+      "company": "INTERFACE INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TLGYF",
+      "company": "TLGY ACQUISITION CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TLS",
+      "company": "TELOS CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TMGI",
+      "company": "Transglobal Management Group, Inc.",
       "mentions": 3,
       "quarters": []
     },
@@ -399,6 +5619,650 @@
       "company": "THERMO FISHER SCIENTIFIC INC.",
       "mentions": 3,
       "quarters": []
+    },
+    {
+      "ticker": "TNET",
+      "company": "TRINET GROUP, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TOPP",
+      "company": "Toppoint Holdings Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TOST",
+      "company": "Toast, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TPB",
+      "company": "Turning Point Brands, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TRMB",
+      "company": "TRIMBLE INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TRNS",
+      "company": "TRANSCAT INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TRS",
+      "company": "TRIMAS CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TRSO",
+      "company": "TRANSUITE.ORG INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TRWD",
+      "company": "Tradewinds Universal",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TSCO",
+      "company": "TRACTOR SUPPLY CO /DE/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TSSI",
+      "company": "TSS, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TTD",
+      "company": "Trade Desk, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TWLO",
+      "company": "TWILIO INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TYL",
+      "company": "TYLER TECHNOLOGIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "U",
+      "company": "Unity Software Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "UAN",
+      "company": "CVR PARTNERS, LP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "UDMY",
+      "company": "Udemy, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "UFPI",
+      "company": "UFP INDUSTRIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "UIS",
+      "company": "UNISYS CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "UMAC",
+      "company": "Unusual Machines, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "UNCY",
+      "company": "Unicycive Therapeutics, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "UNP",
+      "company": "UNION PACIFIC CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "UP",
+      "company": "Wheels Up Experience Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "UPLD",
+      "company": "Upland Software, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "UPWK",
+      "company": "UPWORK, INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "USAQ",
+      "company": "QHSLab, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "USBC",
+      "company": "USBC, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "USDW",
+      "company": "MADE IN USA INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "USIO",
+      "company": "Usio, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "USPH",
+      "company": "U S PHYSICAL THERAPY INC /NV",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "UVE",
+      "company": "UNIVERSAL INSURANCE HOLDINGS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "UWMC",
+      "company": "UWM Holdings Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VACH",
+      "company": "Voyager Acquisition Corp./Cayman Islands",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VASO",
+      "company": "VASO Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VAVX",
+      "company": "VanEck Avalanche ETF",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VBIX",
+      "company": "Viewbix Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VCIC",
+      "company": "Vine Hill Capital Investment Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VDTA",
+      "company": "Vertical Data Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VEEA",
+      "company": "VEEA INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VEEV",
+      "company": "VEEVA SYSTEMS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VERU",
+      "company": "VERU INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VERX",
+      "company": "Vertex, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VHAI",
+      "company": "Vocodia Holdings Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VHC",
+      "company": "VirnetX Holding Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VIA",
+      "company": "Via Transportation, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VICI",
+      "company": "VICI PROPERTIES INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VISL",
+      "company": "Vislink Technologies, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VISM",
+      "company": "VISIUM TECHNOLOGIES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VIVC",
+      "company": "VIVIC CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VLTO",
+      "company": "Veralto Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VNME",
+      "company": "Vendome Acquisition Corp I",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VNOV",
+      "company": "VitaNova Life Sciences Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VPRB",
+      "company": "VPR Brands, LP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VRA",
+      "company": "Vera Bradley, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VRDR",
+      "company": "VERDE RESOURCES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VRME",
+      "company": "VerifyMe, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VRNS",
+      "company": "VARONIS SYSTEMS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VSEC",
+      "company": "VSE CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VSEE",
+      "company": "VSEE HEALTH, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VTAK",
+      "company": "Catheter Precision, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VUZI",
+      "company": "Vuzix Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VYND",
+      "company": "Vynleads, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WATT",
+      "company": "Energous Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WAY",
+      "company": "Waystar Holding Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WBD",
+      "company": "Warner Bros. Discovery, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WCC",
+      "company": "WESCO INTERNATIONAL INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WDC",
+      "company": "WESTERN DIGITAL CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WEAV",
+      "company": "Weave Communications, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WERN",
+      "company": "WERNER ENTERPRISES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WEWA",
+      "company": "WEWARDS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WHD",
+      "company": "Cactus, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WHEN",
+      "company": "WORLD HEALTH ENERGY HOLDINGS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WHG",
+      "company": "WESTWOOD HOLDINGS GROUP INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WHLM",
+      "company": "Wilhelmina International, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WK",
+      "company": "WORKIVA INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WNC",
+      "company": "WABASH NATIONAL Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WORX",
+      "company": "SCWorx Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WRAP",
+      "company": "WRAP TECHNOLOGIES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WRBY",
+      "company": "Warby Parker Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WSBF",
+      "company": "Waterstone Financial, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WTM",
+      "company": "WHITE MOUNTAINS INSURANCE GROUP LTD",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WTTR",
+      "company": "Select Water Solutions, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WULF",
+      "company": "TERAWULF INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WYGC",
+      "company": "Wenyuan Group Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WYTC",
+      "company": "WYTEC INTERNATIONAL INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WYY",
+      "company": "WIDEPOINT CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "XHLD",
+      "company": "TEN Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "XSLL",
+      "company": "Xsolla SPAC 1",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "XTIA",
+      "company": "XTI Aerospace, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "XWEL",
+      "company": "XWELL, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "YBGJ",
+      "company": "Yubo International Biotech Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "YCY",
+      "company": "AA Mission Acquisition Corp. II",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "YOU",
+      "company": "Clear Secure, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "YYAI",
+      "company": "AIRWA INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ZBAI",
+      "company": "ATIF Holdings Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ZBRA",
+      "company": "ZEBRA TECHNOLOGIES CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ZD",
+      "company": "ZIFF DAVIS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ZDGE",
+      "company": "Zedge, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ZHJD",
+      "company": "Intelligent Hotel Group Ltd.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ZLAB",
+      "company": "Zai Lab Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ZLME",
+      "company": "Zhanling International Ltd",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ZM",
+      "company": "Zoom Communications, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ZPTA",
+      "company": "Zapata Quantum, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ZVIA",
+      "company": "Zevia PBC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "A",
+      "company": "AGILENT TECHNOLOGIES, INC.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "AXP",
+      "company": "AMERICAN EXPRESS CO",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "C",
@@ -413,11 +6277,25 @@
       "quarters": []
     },
     {
+      "ticker": "FDX",
+      "company": "FEDEX CORP",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "GILD",
       "company": "GILEAD SCIENCES, INC.",
       "mentions": 2,
       "quarters": [
         "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP INC",
+      "mentions": 2,
+      "quarters": [
+        "Q1_FY2026"
       ]
     },
     {
@@ -451,10 +6329,30 @@
       ]
     },
     {
+      "ticker": "OKTA",
+      "company": "Okta, Inc.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "ORCL",
       "company": "ORACLE CORP",
       "mentions": 2,
       "quarters": []
+    },
+    {
+      "ticker": "PSA",
+      "company": "Public Storage",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2026"
+      ]
     },
     {
       "ticker": "UPS",
@@ -463,9 +6361,45 @@
       "quarters": []
     },
     {
+      "ticker": "USB",
+      "company": "US BANCORP \\DE\\",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "WOR",
+      "company": "WORTHINGTON ENTERPRISES, INC.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "XOM",
       "company": "EXXON MOBIL CORP",
       "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "AEI",
+      "company": "Alset Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "AIRG",
+      "company": "AIRGAIN INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ALRM",
+      "company": "Alarm.com Holdings, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "AREB",
+      "company": "AMERICAN REBEL HOLDINGS INC",
+      "mentions": 1,
       "quarters": []
     },
     {
@@ -487,6 +6421,44 @@
       "quarters": []
     },
     {
+      "ticker": "CBU",
+      "company": "COMMUNITY FINANCIAL SYSTEM, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CMS",
+      "company": "CMS ENERGY CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CTAS",
+      "company": "CINTAS CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "DUK",
+      "company": "Duke Energy CORP",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "EXPE",
+      "company": "Expedia Group, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "FROG",
+      "company": "JFrog Ltd",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "KR",
       "company": "KROGER CO",
       "mentions": 1,
@@ -495,8 +6467,34 @@
       ]
     },
     {
+      "ticker": "LHX",
+      "company": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "LMT",
       "company": "LOCKHEED MARTIN CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "LUMN",
+      "company": "Lumen Technologies, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "LYFT",
+      "company": "Lyft, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "MDB",
+      "company": "MongoDB, Inc.",
       "mentions": 1,
       "quarters": []
     },
@@ -507,14 +6505,148 @@
       "quarters": []
     },
     {
+      "ticker": "MYE",
+      "company": "MYERS INDUSTRIES INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "NEE",
+      "company": "NEXTERA ENERGY INC",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "NI",
+      "company": "NISOURCE INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "OM",
+      "company": "Outset Medical, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "PBI",
+      "company": "PITNEY BOWES INC /DE/",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "PI",
+      "company": "IMPINJ INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "PLD",
+      "company": "Prologis, Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "RDN",
+      "company": "RADIAN GROUP INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ROK",
+      "company": "ROCKWELL AUTOMATION, INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "SBUX",
       "company": "STARBUCKS CORP",
       "mentions": 1,
       "quarters": []
     },
     {
+      "ticker": "SMRT",
+      "company": "SmartRent, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "SRE",
+      "company": "SEMPRA",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "TEL",
+      "company": "TE Connectivity plc",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "TER",
+      "company": "TERADYNE, INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "THC",
+      "company": "TENET HEALTHCARE CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "TWO",
+      "company": "TWO HARBORS INVESTMENT CORP.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "UBER",
       "company": "Uber Technologies, Inc",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "V",
+      "company": "VISA INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q1_FY2026"
+      ]
+    },
+    {
+      "ticker": "VIAV",
+      "company": "VIAVI SOLUTIONS INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "WELL",
+      "company": "WELLTOWER INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "WOLF",
+      "company": "WOLFSPEED, INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q2_FY2026"
+      ]
+    },
+    {
+      "ticker": "XBP",
+      "company": "XBP Global Holdings, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ZETA",
+      "company": "Zeta Global Holdings Corp.",
       "mentions": 1,
       "quarters": []
     },
@@ -527,17 +6659,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=enterprise",
   "origin": {
-    "leaf": "f75c5b7c51225acb5d59895ae1b0cb3789c0b161190725d46541e1e1a0dabb4a",
+    "leaf": "94b0d0ac877e32c952d20a15eb1a5b35a11116175e2b2b1ddde565445af2c01b",
     "parent": "2c77362b4cb512dd52400d85c4553f4129dfa5d955039dafe34d3352a33ad0d4",
-    "timestamp": "2026-04-12T02:43:09.130Z",
+    "timestamp": "2026-04-12T03:13:01.508Z",
     "source": "topic:enterprise",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/f75c5b7c51225acb5d59895ae1b0cb3789c0b161190725d46541e1e1a0dabb4a",
+    "verify": "https://origin.rootz.global/api/verify/94b0d0ac877e32c952d20a15eb1a5b35a11116175e2b2b1ddde565445af2c01b",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.130Z",
+    "exported_at": "2026-04-12T03:13:01.508Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

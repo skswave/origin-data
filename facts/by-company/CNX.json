@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "CNX",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CNX",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CNX",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CNX",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CNX/transcripts",
+  "origin": {
+    "leaf": "bb4808f39a185b39fabc9c71ff48d0e7f98a6ca8ed6ab9d9b640a984d7b1fad4",
+    "parent": "24f812d7543429d1f4727d340971bc0d56f5612f72872f118e80c3bc2e798ccc",
+    "timestamp": "2026-04-12T03:13:31.953Z",
+    "source": "facts:CNX",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bb4808f39a185b39fabc9c71ff48d0e7f98a6ca8ed6ab9d9b640a984d7b1fad4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:31.953Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

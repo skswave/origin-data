@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GPUS",
+  "name": "Hyperscale Data, Inc.",
+  "cik": "0000896493",
+  "summary": "BusinessSegmentsAxis\">gpus:GIGAMember</xbrldi:explicitMember> </xbrli:segment> </xbrli:entity> <xbrli:period> <xbrli:startDate>2024-08-01</xbrli:startDate> <xbrli:endDate>2024-08-14</xbrli:endDate> </xbrli:period> </xbrli:context> <xbrli:context id=\"AsOf2024-12-31_custom_GIGAMember\"> <xbrli:entity> <xbrli:identifier scheme=\"http://www.sec.gov/CIK\">0000896493</xbrli:identifier> <xbrli:segment> <xbrldi:explicitMember dimension=\"us-gaap:InvestmentCompanyNonconsolidatedSubsidiaryAxis\">gpus:GIGAMembe...",
+  "live_api": "https://origin.rootz.global/api/company/GPUS/profile",
+  "origin": {
+    "leaf": "397e4ceb2b63c6492dcb01ccd32bceba1284a4bfbbf4dc88a780ddfec26e8bf7",
+    "parent": "de9620ddc42459c80da4d383e5d376ec1759e7ce4fa3da8292f03eb2f298ae2f",
+    "timestamp": "2026-04-12T03:12:57.733Z",
+    "source": "profile:0000896493",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/397e4ceb2b63c6492dcb01ccd32bceba1284a4bfbbf4dc88a780ddfec26e8bf7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.733Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

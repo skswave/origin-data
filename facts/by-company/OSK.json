@@ -1,0 +1,88 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "OSK",
+  "total_facts": 5,
+  "by_type": {
+    "topic_mention": 5
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "OSK",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "OSK",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "OSK",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "OSK",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "OSK",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/OSK/transcripts",
+  "origin": {
+    "leaf": "111e53109707dc6d5d997c23c14012fff1cf42e3d3ede79d45c83551dad76601",
+    "parent": "4efb41da3927de6945dd225268214c72014136de7f28b214a737938cae78a1c3",
+    "timestamp": "2026-04-12T03:13:24.284Z",
+    "source": "facts:OSK",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/111e53109707dc6d5d997c23c14012fff1cf42e3d3ede79d45c83551dad76601",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:24.284Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

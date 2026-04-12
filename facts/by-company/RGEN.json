@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "RGEN",
+  "total_facts": 6,
+  "by_type": {
+    "topic_mention": 6
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "RGEN",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RGEN",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RGEN",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RGEN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RGEN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RGEN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RGEN/transcripts",
+  "origin": {
+    "leaf": "8bccc0b8c51b9bfcb040d454cc318ce506cf91c398cb9d45f07f3b7f3edabb60",
+    "parent": "7f56add3658e7e068f3bbe4c2722f8b52bebd08d7bd9fecbb89ac7a53c539e1b",
+    "timestamp": "2026-04-12T03:13:29.028Z",
+    "source": "facts:RGEN",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8bccc0b8c51b9bfcb040d454cc318ce506cf91c398cb9d45f07f3b7f3edabb60",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:29.028Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

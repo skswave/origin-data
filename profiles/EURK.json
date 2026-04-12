@@ -1,0 +1,33 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EURK",
+  "name": "Eureka Acquisition Corp",
+  "cik": "0002000410",
+  "summary": "Eureka Acquisition Corp (EURK) is a blank check company incorporated on June 13, 2023 as a Cayman Islands exempted corporation. It was formed for the purpose of entering into a merger, share exchange, asset acquisition, share purchase, recapitalization, reorganization, or similar business combination with one or more businesses or entities. Its sponsor is Hercules Capital Management Corp. Its initial public offering closed on July 3, 2024.",
+  "partnerships": [
+    {
+      "partner_name": "Hercules Capital Management Corp",
+      "partnership_type": "strategic",
+      "description": "Serves as the Sponsor of Eureka Acquisition Corp.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EURK/profile",
+  "origin": {
+    "leaf": "588a6581ec5427687646b0a8144f454337dece2bfa7ef485effb086276d0b028",
+    "parent": "c1eb9239d36b9129b7bcaedd8fce716a23e2bb29dd86ea33f77adb3d7290277f",
+    "timestamp": "2026-04-12T03:12:57.763Z",
+    "source": "profile:0002000410",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/588a6581ec5427687646b0a8144f454337dece2bfa7ef485effb086276d0b028",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.763Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

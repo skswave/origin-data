@@ -2,12 +2,24 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "cash_flow",
   "label": "Cash Flow",
-  "companies": 4,
-  "total_mentions": 5,
+  "companies": 8,
+  "total_mentions": 13,
   "results": [
+    {
+      "ticker": "OKTA",
+      "company": "Okta, Inc.",
+      "mentions": 4,
+      "quarters": []
+    },
     {
       "ticker": "AAPL",
       "company": "Apple Inc.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "PSTG",
+      "company": "Everpure, Inc.",
       "mentions": 2,
       "quarters": []
     },
@@ -24,6 +36,18 @@
       "quarters": []
     },
     {
+      "ticker": "EFX",
+      "company": "EQUIFAX INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "LYFT",
+      "company": "Lyft, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "XOM",
       "company": "EXXON MOBIL CORP",
       "mentions": 1,
@@ -32,17 +56,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=cash_flow",
   "origin": {
-    "leaf": "00b69e30294bf77494d8c800c04c86e0db39dd0bd54af68dbbbf2a8768e65e37",
+    "leaf": "6c674e66419174a39c6b78ab8488243481df93378d919234808f3aacd6a76cfb",
     "parent": "80f8f65c1bd22243ee00f8d3637c1389197c26f15166e4b2ae4f1fedf6ab0b0f",
-    "timestamp": "2026-04-12T02:43:09.067Z",
+    "timestamp": "2026-04-12T03:13:01.443Z",
     "source": "topic:cash_flow",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/00b69e30294bf77494d8c800c04c86e0db39dd0bd54af68dbbbf2a8768e65e37",
+    "verify": "https://origin.rootz.global/api/verify/6c674e66419174a39c6b78ab8488243481df93378d919234808f3aacd6a76cfb",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.067Z",
+    "exported_at": "2026-04-12T03:13:01.443Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

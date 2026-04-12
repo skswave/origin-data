@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MSEX",
+  "name": "MIDDLESEX WATER CO",
+  "cik": "0000066004",
+  "summary": "Middlesex Water Company, incorporated in 1897, owns and operates regulated water utility and wastewater systems primarily in New Jersey and Delaware. It serves approximately 131,000 regulated customers across its Middlesex, Tidewater, and Pinelands systems. The company also operates water and wastewater systems under unregulated contracts for municipal and private clients, including the City of Perth Amboy, Borough of Avalon, and Borough of Highland Park, and offers home maintenance programs through a marketing agreement with HomeServe USA Corp.",
+  "products": [
+    {
+      "name": "Regulated Water Service",
+      "type": "service",
+      "description": "Water treatment, storage, and distribution for residential, commercial, industrial, and fire protection customers in New Jersey and Delaware."
+    },
+    {
+      "name": "Regulated Wastewater Service",
+      "type": "service",
+      "description": "Wastewater collection and treatment services provided by Pinelands Wastewater in Burlington County, New Jersey."
+    },
+    {
+      "name": "Contract Water and Wastewater Operations",
+      "type": "service",
+      "description": "Operation and maintenance of water and wastewater systems under contract for municipal and private clients in New Jersey and Delaware."
+    },
+    {
+      "name": "Home Maintenance Programs",
+      "type": "service",
+      "description": "Water and wastewater related home maintenance programs marketed to residential customers in New Jersey and Delaware via agreement with HomeServe USA Corp."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "New Jersey Water Supply Authority (NJWSA)",
+      "partnership_type": "strategic",
+      "description": "Agreement for purchase of untreated surface water from the Delaware & Raritan Canal through November 30, 2048, averaging 27 mgd with peak up to 47 mgd.",
+      "start_date": null
+    },
+    {
+      "partner_name": "HomeServe USA Corp.",
+      "partnership_type": "strategic",
+      "description": "Marketing agreement expiring 2031 for USA to offer residential home maintenance programs; USA receives fees for billing, cash collection, and administrative services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "City of Dover, Delaware",
+      "partnership_type": "strategic",
+      "description": "Tidewater purchases approximately 75 million gallons of treated water annually from the City of Dover, Delaware.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MSEX/profile",
+  "origin": {
+    "leaf": "4da4f1a7b95e9d88ff2b7b73175cd71f2f6902122241d6080986bf0a028d05ff",
+    "parent": "e0a542b516de10af856a3ea018a4ff4c4d95e23626086124ab0ea6c6b2a07eb2",
+    "timestamp": "2026-04-12T03:12:56.024Z",
+    "source": "profile:0000066004",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4da4f1a7b95e9d88ff2b7b73175cd71f2f6902122241d6080986bf0a028d05ff",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.024Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

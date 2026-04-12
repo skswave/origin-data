@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HLI",
+  "name": "HOULIHAN LOKEY, INC.",
+  "cik": "0001302215",
+  "exchange": "NYSE",
+  "sic": "6282",
+  "sic_description": "Investment Advice",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "Established in 1972, Houlihan Lokey, Inc. is a leading global independent investment bank with expertise in mergers and acquisitions (M&A), capital markets, financial restructurings and liability management, and financial and valuation advisory. Through our offices in the Americas, Europe, Asia, Australia, and the Middle East, we serve a diverse set of clients worldwide, including corporations, financial sponsors and government agencies. We provide our financial professionals with an integrated ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HLI",
+  "origin": {
+    "leaf": "650eead3261bcc7e9f02e43d709ede9d1963caa7094327d1da81fe031a932ddc",
+    "parent": "5643f83352be1ab278bd76e92006c7b0567fcd3d2ad16b80adcb25fadc8505c8",
+    "timestamp": "2026-04-12T03:12:50.502Z",
+    "source": "0001302215-25-000024",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/650eead3261bcc7e9f02e43d709ede9d1963caa7094327d1da81fe031a932ddc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.502Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

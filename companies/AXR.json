@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AXR",
+  "name": "AMREP CORP.",
+  "cik": "0000006207",
+  "exchange": "NYSE",
+  "sic": "6552",
+  "sic_description": "Land Subdividers & Developers (No Cemeteries)",
+  "state_of_incorporation": "OK",
+  "headquarters": "Rio Rancho, New Mexico",
+  "founded": "1961",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0430",
+  "summary": "AMREP Corporation, organized in 1961 as an Oklahoma corporation, operates through two business segments: land development and homebuilding, primarily in Rio Rancho and Sandoval County, New Mexico. The company sells developed and undeveloped residential lots and commercial/industrial sites, provides landscaping services, and builds single-family detached and attached homes. As of April 30, 2025, it owned approximately 16,600 acres in Sandoval County and employed 49 people.",
+  "tags": [
+    "residential-land-development",
+    "commercial-and-industrial-land-development",
+    "homebuilding",
+    "new-mexico-real-estate-market"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 49,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AXR",
+  "origin": {
+    "leaf": "d27a683382ba7d4ff080713a867ea3acb6d93ab51fc07058abd6d70ec406559f",
+    "parent": "b94440901ea56a1c143db7a7cc6091b177f99ec5f23b196eb00e7ca3e53689bb",
+    "timestamp": "2026-04-12T03:12:52.050Z",
+    "source": "0001410578-25-001515",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d27a683382ba7d4ff080713a867ea3acb6d93ab51fc07058abd6d70ec406559f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.050Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

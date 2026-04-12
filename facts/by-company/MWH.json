@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "MWH",
+  "total_facts": 2,
+  "by_type": {
+    "topic_mention": 2
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "MWH",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MWH",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MWH/transcripts",
+  "origin": {
+    "leaf": "141eede34e6a2c8049c103a8dae8c067803b270328647028b714c44e58bac761",
+    "parent": "4dffacf3810f7323efeb6551c7a4ac145a9fe2041c5580605874d48f5a225aa1",
+    "timestamp": "2026-04-12T03:13:30.169Z",
+    "source": "facts:MWH",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/141eede34e6a2c8049c103a8dae8c067803b270328647028b714c44e58bac761",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:30.169Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

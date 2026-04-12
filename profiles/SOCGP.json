@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SOCGP",
+  "name": "SOUTHERN CALIFORNIA GAS CO",
+  "cik": "0000092108",
+  "summary": "Southern California Gas Company (SoCalGas) is a regulated natural gas distribution utility serving customers in Southern California. It operates natural gas transmission, distribution, and storage infrastructure, providing natural gas delivery services to residential, commercial, and industrial customers. SoCalGas is a subsidiary of Sempra Energy and is subject to regulation by the California Public Utilities Commission (CPUC) and other state and federal regulatory bodies.",
+  "products": [
+    {
+      "name": "Natural Gas Distribution",
+      "type": "service",
+      "description": "Regulated delivery of natural gas to residential, commercial, and industrial customers in Southern California."
+    },
+    {
+      "name": "Natural Gas Storage",
+      "type": "service",
+      "description": "Operation of natural gas storage facilities to manage supply and meet customer demand."
+    },
+    {
+      "name": "Natural Gas Transmission",
+      "type": "service",
+      "description": "Transportation of natural gas through transmission pipeline infrastructure across Southern California."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SOCGP/profile",
+  "origin": {
+    "leaf": "7201d151b222676290dc4a2ce98874e59eb71ed2493126a895a366e2f5623c9e",
+    "parent": "373d7c9142dbbce9e266f4f209cba00467978ffa0fbe93a6445311aa2d8eddd2",
+    "timestamp": "2026-04-12T03:12:59.771Z",
+    "source": "profile:0000092108",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7201d151b222676290dc4a2ce98874e59eb71ed2493126a895a366e2f5623c9e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.771Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

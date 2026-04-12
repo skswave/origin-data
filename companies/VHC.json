@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "VHC",
+  "name": "VirnetX Holding Corp",
+  "cik": "0001082324",
+  "exchange": "Nasdaq",
+  "sic": "6794",
+  "sic_description": "Patent Owners & Lessors",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "VirnetX Holding Corp is a company focused on commercializing its patent portfolio related to secure communications and virtual private network (VPN) technologies. The company pursues licensing agreements and litigation to monetize its intellectual property, which covers technologies for establishing secure domain-based communications networks and real-time communication links.",
+  "tags": [
+    "secure-communications",
+    "virtual-private-networks-(vpn)",
+    "intellectual-property-licensing"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/VHC",
+  "origin": {
+    "leaf": "8ab390562ca338fb7ba42b0deae320d8e2df150ba2c671386406ed45f81e9718",
+    "parent": "60c5f27453ac60031a3a84b42337f56c87e7915a447ae0b4516a860be9d58e5c",
+    "timestamp": "2026-04-12T03:12:52.451Z",
+    "source": "0001140361-26-010895",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8ab390562ca338fb7ba42b0deae320d8e2df150ba2c671386406ed45f81e9718",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.451Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

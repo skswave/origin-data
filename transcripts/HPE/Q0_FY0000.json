@@ -1,0 +1,547 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "HPE",
+  "company": "Hewlett Packard Enterprise Co",
+  "title": "HPE   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 10339,
+  "speakers": [
+    {
+      "name": "Antonio",
+      "title": "President and   Chief Executive Officer  Marie Myers   -   Chief Financial Officer  Paul Glaser   -   Head of   Investor Relations, Neri",
+      "firm": "Neri",
+      "speaker_type": "executive",
+      "mention_count": 22
+    },
+    {
+      "name": "Antonio Neri   -",
+      "title": "President and   Chief Executive Officer  Marie Myers   -   Chief Financial Officer  Paul Glaser   -   Head of   Investor Relations\n\n1  Hewlett Packard Enterprise Company  Thursday ,   December   0 4 , 2025 ,   5 : 00   PM Eastern",
+      "firm": "December   0 4",
+      "speaker_type": "executive",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPE",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 63,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPE",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPE",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 72,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPE",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 13,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPE",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPE",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 28,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPE",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPE",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "cloud"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPE total revenue",
+      "predicate": "reported",
+      "object": "$9.7 billion",
+      "value": 9.7,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPE total revenue",
+      "predicate": "reported",
+      "object": "$34.3 billion",
+      "value": 34.3,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPE total revenue",
+      "predicate": "reported",
+      "object": "$2.8 billion",
+      "value": 2.8,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPE total revenue",
+      "predicate": "reported",
+      "object": "$1.4 billion",
+      "value": 1.4,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPE gross margin",
+      "predicate": "reported",
+      "object": "$23 percent",
+      "value": 23,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPE gross margin",
+      "predicate": "reported",
+      "object": "$7 percent",
+      "value": 7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPE free cash flow",
+      "predicate": "reported",
+      "object": "$1.9 billion",
+      "value": 1.9,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPE free cash flow",
+      "predicate": "reported",
+      "object": "$2.5 billion",
+      "value": 2.5,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPE EPS",
+      "predicate": "reported",
+      "object": "$1.94",
+      "value": 1.94,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPE EPS",
+      "predicate": "reported",
+      "object": "$0.62",
+      "value": 0.62,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPE EPS",
+      "predicate": "reported",
+      "object": "$0.11",
+      "value": 0.11,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "HPE",
+      "predicate": "mentioned",
+      "object": "Rubin",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "HPE",
+      "predicate": "mentioned",
+      "object": "BlueField",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPE",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "HPE",
+      "predicate": "guided",
+      "object": "expected free cash flow of $1.9 billion",
+      "value": 1.9,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "HPE",
+      "predicate": "guided",
+      "object": "outlook to 65% to 70% on a reported  basis, implying approximately $11 billion",
+      "value": 11,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "HPE",
+      "predicate": "guided",
+      "object": "expected benefits from the integration of Juniper, we are raising the  midpoint of our FY   ' 26 free cash flow outlook and now expect a range of $1.7 billion",
+      "value": 1.7,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "HPE",
+      "predicate": "guided",
+      "object": "expect total revenue will be between $9 billion",
+      "value": 9,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "HPE",
+      "predicate": "guided",
+      "object": "expect to achieve $1.5 billion",
+      "value": 1.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect to close during the first half of calendar year 2026 ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "We expect DRAM and NAND costs to continue to  increase in 2026, the majority of which we expect to pass to the market while monitoring demand",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect AI demand to remain uneven as some of our larger  sovereign customers are placing orders with extended lead times, which may defer shipments to  futu",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "We expect to conclude both sales in the first half of calendar   2026 and   intend to use  the proceeds to further deleverage our balance sheet, aligning with ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect to pass - through the majority of component cost  increases while monitoring demand e lasticity with our customers ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "We expect our revenue mix to be approximately 46% in the first half and 54%  in the second half, which is a bit more back - ended than our typical seasonality ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "We expect operating profit margin in the low 20% range, driven by top line growth and our cost  optimization initiatives, resulting in networking constituting ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect the majority of  the backlog to be realized in the second half and beyond ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect total revenue will be between $9 billion and $9",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect revenue to grow 145% to 155% year - over - year on an as - reported  basis or the high end of our updated pro forma revenue growth target range of mi",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "We expect continued  strength in the business and synergy realization to drive an operating margin rate in line with our  full year guidance",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect operating margins for Cloud and AI to be slightly above the high end  of our FY   ' 26 target range",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect Q1 total operating expense to decrease sequentially ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect our non - GAAP total operating  margin rate to be up slightly sequentially ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect non - GAAP diluted net EPS  between $0",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we believe we have the right strategy, the right portfolio,  and a clear path to making HPE a leaner, more efficient company aligned with the networking,  Cloud",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect that the NAND part will follow in 2026, and  therefore, we will do the same",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect on  commodities so they can make the right decisions and place the right orders ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect to continue to grow at a bigger base, obviously ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect that the NAND part of that will follow as we go forward ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect that the back end of the year will have the biggest  part of the AI revenue conversion ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect that to continue in 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPE",
+      "predicate": "stated",
+      "object": "we expect that business to grow at or above market as we go  forward ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/HPE/transcripts",
+  "origin": {
+    "leaf": "8ca18a192bee3b6d678e721dab2876bc62579c1e503c41e6f3134226f13fe677",
+    "parent": "1363f95c47f316b5d3c9b14ddcdb859c0c7d193059fd8d1a07cd2fc4968c1ffefcdecf8c143b2e4671b4a38574cac18a",
+    "timestamp": "2026-04-12T03:13:00.790Z",
+    "source": "transcript:HPE_q4-earnings-transcript-final.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8ca18a192bee3b6d678e721dab2876bc62579c1e503c41e6f3134226f13fe677",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.790Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

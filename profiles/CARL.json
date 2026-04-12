@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CARL",
+  "name": "CARLSMED, INC.",
+  "cik": "0001794546",
+  "summary": "Carlsmed, Inc. is a commercial-stage medical technology company offering the aprevo Technology Platform, an AI-enabled personalized spine surgery solution. The platform combines AI-driven pre-operative planning software, custom-designed interbody implants tailored to each patient's unique vertebral bone topography, and single-use surgical instruments. It targets lumbar and cervical spine fusion surgeries for conditions including degenerative disc disease and adult spinal deformity, aiming to improve surgical outcomes and reduce revision surgeries.",
+  "products": [
+    {
+      "name": "aprevo Technology Platform",
+      "type": "platform",
+      "description": "End-to-end AI-enabled platform providing personalized digital surgical plans, custom interbody implants, and single-use instruments for lumbar and cervical spine fusion surgery."
+    },
+    {
+      "name": "aprevo Lumbar Interbody Implants",
+      "type": "hardware",
+      "description": "FDA 510(k)-cleared custom interbody implants for lumbar spine fusion, designed for each patient's unique anatomy and pathology."
+    },
+    {
+      "name": "aprevo Cervical Interbody Implants",
+      "type": "hardware",
+      "description": "FDA 510(k)-cleared custom interbody implants for cervical spine fusion, received FDA Breakthrough Device Designation prior to clearance."
+    },
+    {
+      "name": "myaprevo",
+      "type": "software",
+      "description": "AI-enabled pre-operative planning software utilizing standard-of-care diagnostic imaging and outcome-based algorithms to develop personalized surgical plans."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CARL/profile",
+  "origin": {
+    "leaf": "2d3a4330e7acd311831bf5b1130cdf456f849e52cbaa53a42f02382847a2b33a",
+    "parent": "4c41be6d988c8daf1a105c165bc769d47f507cf2b04241e04c00550e4e012645",
+    "timestamp": "2026-04-12T03:12:56.891Z",
+    "source": "profile:0001794546",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2d3a4330e7acd311831bf5b1130cdf456f849e52cbaa53a42f02382847a2b33a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.891Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

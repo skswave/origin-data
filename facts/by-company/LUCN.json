@@ -1,0 +1,76 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "LUCN",
+  "total_facts": 4,
+  "by_type": {
+    "topic_mention": 4
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "LUCN",
+      "predicate": "discussed_in_filing",
+      "object": "Artificial Intelligence",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LUCN",
+      "predicate": "discussed_in_filing",
+      "object": "Data Center",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "data_center",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LUCN",
+      "predicate": "discussed_in_filing",
+      "object": "Cloud Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cloud",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LUCN",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LUCN/transcripts",
+  "origin": {
+    "leaf": "f9c8e3736af9a7d331937d184f83d416bdcb3eec2f1f0f5dcce342544d39af85",
+    "parent": "41bbbbadd8c352e9f71b6a9eeee7155a45108427b047be855e5929ed3f23b795",
+    "timestamp": "2026-04-12T03:15:54.370Z",
+    "source": "facts:LUCN",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f9c8e3736af9a7d331937d184f83d416bdcb3eec2f1f0f5dcce342544d39af85",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:15:54.370Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

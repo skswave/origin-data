@@ -1,0 +1,136 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "FINW",
+  "total_facts": 9,
+  "by_type": {
+    "topic_mention": 9
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "FINW",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FINW",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FINW",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FINW",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FINW",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FINW",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FINW",
+      "predicate": "discussed_in_filing",
+      "object": "Trusted Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "trusted_computing",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FINW",
+      "predicate": "discussed_in_filing",
+      "object": "Trusted Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "trusted_computing",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FINW",
+      "predicate": "discussed_in_filing",
+      "object": "Trusted Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "trusted_computing",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FINW/transcripts",
+  "origin": {
+    "leaf": "72cd6ec2005f4166ba47acbf95a0f420e478a02275f948f9ea39ee1e02ffd3c0",
+    "parent": "6372a63952fd6f7228ecb85c3fff7c3f986fe3b8eec18d3f7f6b600d0121b3b9",
+    "timestamp": "2026-04-12T03:14:35.617Z",
+    "source": "facts:FINW",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/72cd6ec2005f4166ba47acbf95a0f420e478a02275f948f9ea39ee1e02ffd3c0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:35.617Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

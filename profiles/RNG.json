@@ -1,0 +1,131 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RNG",
+  "name": "RingCentral, Inc.",
+  "cik": "0001384905",
+  "summary": "RingCentral, Inc. is a cloud-based business communications company offering an AI-powered multi-product portfolio including Unified Communications as a Service (UCaaS) via RingEX, Contact Center as a Service (CCaaS) via RingCX and RingCentral Contact Center, AI solutions (AIR, AVA, ACE), video and events platforms, and integrations with Microsoft Teams. Available in 45 countries with phone number availability in 100 countries, the company serves businesses of all sizes on a primarily subscription-based model.",
+  "products": [
+    {
+      "name": "RingEX",
+      "type": "platform",
+      "description": "AI-powered UCaaS platform with cloud phone, messaging, video, fax, analytics, and APIs available in 45 countries."
+    },
+    {
+      "name": "RingCentral Contact Center",
+      "type": "platform",
+      "description": "Collaborative CCaaS solution integrating NICE Ltd. technology with RingEX for omnichannel customer engagement."
+    },
+    {
+      "name": "RingCX",
+      "type": "platform",
+      "description": "Native next-generation CCaaS with omnichannel support, predictive dialing, CRM integrations, and AI-powered capabilities."
+    },
+    {
+      "name": "RingCentral Customer Engagement Bundle",
+      "type": "service",
+      "description": "Comprehensive solution including phone, messaging, SMS, advanced call queues, and analytics for businesses."
+    },
+    {
+      "name": "AI Receptionist (AIR)",
+      "type": "software",
+      "description": "Voice AI agent that answers calls, understands intent, handles questions, captures leads, and integrates with CRM."
+    },
+    {
+      "name": "AI Virtual Assistant (AVA)",
+      "type": "software",
+      "description": "Real-time AI assistant providing call/meeting summaries, action items, and multi-language composition during conversations."
+    },
+    {
+      "name": "AI Conversation Expert (ACE)",
+      "type": "software",
+      "description": "Post-interaction analytics tool providing insights on coaching, quality, customer sentiment, and team performance."
+    },
+    {
+      "name": "AVA Agent Assist",
+      "type": "software",
+      "description": "Real-time AI guidance for contact center agents during live customer interactions to improve performance."
+    },
+    {
+      "name": "AVA Supervisor Assist",
+      "type": "software",
+      "description": "Real-time AI insights and recommendations for contact center supervisors to optimize operations."
+    },
+    {
+      "name": "AI Quality Management",
+      "type": "software",
+      "description": "Automated conversation evaluation platform identifying compliance risks, coaching opportunities, and performance insights."
+    },
+    {
+      "name": "RingCentral for Microsoft Teams",
+      "type": "service",
+      "description": "Embeds enterprise-grade phone, SMS, fax, and customer experience solutions directly into Microsoft Teams."
+    },
+    {
+      "name": "RingCentral Events",
+      "type": "platform",
+      "description": "Virtual and hybrid events platform for multi-session conferences with AI-driven attendee engagement and CRM integrations."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "NICE Ltd.",
+      "partnership_type": "licensing",
+      "description": "RingCentral Contact Center leverages NICE Ltd. technology for CCaaS omnichannel capabilities.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Microsoft",
+      "partnership_type": "strategic",
+      "description": "RingCentral embeds into Microsoft Teams providing enterprise-grade phone, SMS, fax, and CX solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Salesforce",
+      "partnership_type": "strategic",
+      "description": "Deep CRM integration with RingCX for context-aware, data-driven customer interactions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Zendesk",
+      "partnership_type": "strategic",
+      "description": "CRM integration with RingCX for customer interaction context and data.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ServiceNow",
+      "partnership_type": "strategic",
+      "description": "CRM integration with RingCX for customer interaction context and data.",
+      "start_date": null
+    },
+    {
+      "partner_name": "HubSpot",
+      "partnership_type": "strategic",
+      "description": "CRM integration with RingCX for customer interaction context and data.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Microsoft Dynamics",
+      "partnership_type": "strategic",
+      "description": "CRM integration with RingCX for customer interaction context and data.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RNG/profile",
+  "origin": {
+    "leaf": "21970174a37357f384f2a98b9cfa6fbf2785f70a9f9706b59e2d89836b41b3a7",
+    "parent": "afe4bb8cefff4c848fa40cd4577ae6f4f141d7bc69e3e65b4f59faaaaa2d9638",
+    "timestamp": "2026-04-12T03:12:55.458Z",
+    "source": "profile:0001384905",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/21970174a37357f384f2a98b9cfa6fbf2785f70a9f9706b59e2d89836b41b3a7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.458Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "KEYS",
+  "company": "Keysight Technologies, Inc.",
+  "title": "KEYS   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 3511,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "KEYS",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "KEYS gross margin",
+      "predicate": "reported",
+      "object": "$68.5 percent",
+      "value": 68.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "KEYS gross margin",
+      "predicate": "reported",
+      "object": "$27.5 percent",
+      "value": 27.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "KEYS gross margin",
+      "predicate": "reported",
+      "object": "$27.2 percent",
+      "value": 27.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "KEYS EPS",
+      "predicate": "reported",
+      "object": "$1.645",
+      "value": 1.645,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "KEYS EPS",
+      "predicate": "reported",
+      "object": "$2.27",
+      "value": 2.27,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KEYS",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KEYS",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KEYS",
+      "predicate": "stated",
+      "object": "We believe that our investors benefit from  seeing our results “through the eyes of management” in addition to seeing our GAAP results",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KEYS",
+      "predicate": "stated",
+      "object": "We believe that these costs do not reflect  expected future operating expenses and do not contribute to a meaningful evaluation of the company’s current operati",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KEYS",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KEYS",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KEYS",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KEYS",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KEYS",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KEYS",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KEYS",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/KEYS/transcripts",
+  "origin": {
+    "leaf": "4675d719d3f043e7004e58c3630ff44719482858050c2fdf88badff1c202ee7e",
+    "parent": "b800651b9a52f3e3e525232eedf670dec5d530cfb9b9e33f10180ce0db41450db83d8abb22cf871761e2c28356b08f80",
+    "timestamp": "2026-04-12T03:13:01.002Z",
+    "source": "transcript:KEYS_Q1-26-Results-Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4675d719d3f043e7004e58c3630ff44719482858050c2fdf88badff1c202ee7e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.002Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

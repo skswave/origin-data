@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PNC",
+  "name": "PNC FINANCIAL SERVICES GROUP, INC.",
+  "cik": "0000713676",
+  "summary": "PNC Financial Services Group, Inc. is a financial holding company. Its 100% owned finance subsidiary, PNC Capital Trust C, has issued floating rate preferred trust securities, which PNC has fully and unconditionally guaranteed. The filing excerpt specifically identifies this guaranteed securities arrangement between PNC and its subsidiary.",
+  "products": [
+    {
+      "name": "Floating Rate Preferred Trust Securities",
+      "type": "service",
+      "description": "Guaranteed securities issued by PNC Capital Trust C, fully and unconditionally guaranteed by PNC Financial Services Group, Inc."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PNC/profile",
+  "origin": {
+    "leaf": "ab75bac2da90bfec891688748bfdfbdeaf000eeeb403e4ae3ca92b03a0164686",
+    "parent": "9e45c03ba2b2a974142f6e9f7b33b22e5fec564a7522e56db34859a383cc664e",
+    "timestamp": "2026-04-12T03:12:54.737Z",
+    "source": "profile:0000713676",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ab75bac2da90bfec891688748bfdfbdeaf000eeeb403e4ae3ca92b03a0164686",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.737Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

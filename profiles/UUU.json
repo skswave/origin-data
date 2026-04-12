@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UUU",
+  "name": "UNIVERSAL SAFETY PRODUCTS, INC.",
+  "cik": "0000102109",
+  "summary": "Universal Safety Products, Inc. (formerly Universal Security Instruments, Inc.) designs and markets popularly priced safety products including smoke alarms, carbon monoxide alarms, door chimes, ventilation products, GFCIs, and other electrical devices. Products are imported primarily from China and sold through retail stores and the electrical distribution trade via its subsidiary Universal Safety Electric, Inc. In May 2025, the company sold its smoke and carbon monoxide alarm business to Feit Electric Company, Inc.",
+  "products": [
+    {
+      "name": "Smoke Alarms",
+      "type": "hardware",
+      "description": "Residential smoke alarms under UNIVERSAL and USI Electric trade names, battery or 120V powered, manufactured by Eyston in China."
+    },
+    {
+      "name": "Carbon Monoxide Alarms",
+      "type": "hardware",
+      "description": "Residential CO alarms marketed under UNIVERSAL and USI Electric brands, manufactured by Eyston in China."
+    },
+    {
+      "name": "Door Chimes",
+      "type": "hardware",
+      "description": "Door chime products marketed alongside safety alarms."
+    },
+    {
+      "name": "Ventilation Products",
+      "type": "hardware",
+      "description": "Ventilation products sold through retail and electrical distribution channels."
+    },
+    {
+      "name": "Ground Fault Circuit Interrupters (GFCIs)",
+      "type": "hardware",
+      "description": "GFCIs and other electrical devices marketed to retail and electrical distribution trade."
+    },
+    {
+      "name": "Hearing Impaired and Heat Alarms",
+      "type": "hardware",
+      "description": "Specialty smoke alarms for hearing impaired and heat detection, sold to electrical distribution trade."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Eyston Company Limited",
+      "partnership_type": "OEM",
+      "description": "Principal supplier manufacturing substantially all safety products in the PRC; accounted for ~96.3% of purchases in fiscal 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Feit Electric Company, Inc.",
+      "partnership_type": "strategic",
+      "description": "Acquired the smoke and carbon monoxide alarm business and non-tangible assets of the Company; deal closed May 22, 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UUU/profile",
+  "origin": {
+    "leaf": "79dae978195d1056f888e28702072e4db2cb035133c33892a1206a94b824c368",
+    "parent": "a7f6f6e49e791bd57081562dfb1d6f1c2bf1c1f3cca78b0ab864fc4f08443cfe",
+    "timestamp": "2026-04-12T03:12:58.374Z",
+    "source": "profile:0000102109",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/79dae978195d1056f888e28702072e4db2cb035133c33892a1206a94b824c368",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.374Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LHX",
+  "name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+  "cik": "0000202058",
+  "summary": "L3Harris Technologies is a defense technology company delivering end-to-end solutions connecting space, air, land, sea, and cyber domains. Products include tactical radios, night vision goggles, ISR systems, missile propulsion, space communications, electronic warfare systems, and autonomous vessels. They serve U.S. Government agencies, prime contractors, and international allies in over 100 countries, with fiscal 2025 revenue including $4.8 billion from international customers.",
+  "products": [
+    {
+      "name": "Tactical Radios",
+      "type": "hardware",
+      "description": "Resilient and interoperable secure communication solutions including tactical radios, software, waveforms and satellite terminals."
+    },
+    {
+      "name": "Night Vision Goggles",
+      "type": "hardware",
+      "description": "Helmet-mounted integrated night vision goggles with image intensifier tubes, weapon-mounted sights, aiming lasers and range finders."
+    },
+    {
+      "name": "ISR Systems",
+      "type": "platform",
+      "description": "Airborne passive sensing and targeting, mission systems for reconnaissance, surveillance, electronic attack and tactical platforms."
+    },
+    {
+      "name": "EO/IR Sensor Systems",
+      "type": "hardware",
+      "description": "Multi-domain, multi-spectral electro-optical and infrared sensor systems for ISR and target acquisition missions."
+    },
+    {
+      "name": "Space Communications & Avionics",
+      "type": "hardware",
+      "description": "Space communications, space flight avionics, protected GPS communications, navigation and range-testing solutions."
+    },
+    {
+      "name": "Missile Propulsion Systems",
+      "type": "hardware",
+      "description": "Propulsion technologies and armament systems for strategic defense, missile defense, hypersonic and tactical missions."
+    },
+    {
+      "name": "Autonomous Vessels",
+      "type": "platform",
+      "description": "Integrated autonomous vessels for surface and undersea naval operations with fleet management capabilities."
+    },
+    {
+      "name": "Public Safety Communications",
+      "type": "hardware",
+      "description": "Communication equipment, systems and applications for federal agencies, state/local first responders, utilities and transit agencies."
+    },
+    {
+      "name": "Tactical Data Links",
+      "type": "hardware",
+      "description": "Resilient and secure broadband communication solutions including ISR and tactical data links and integrated broadband networks."
+    },
+    {
+      "name": "Space Propulsion and Power Systems",
+      "type": "hardware",
+      "description": "Premier propulsion and power systems for national security, space exploration and missions."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Palantir Technologies",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership to develop new capabilities fusing hardware, software and AI for defense customers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Shield Capital",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership to develop new capabilities to meet customer demands in defense markets.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Anduril",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership to develop new capabilities combining hardware, software and artificial intelligence.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Amazon Kuiper",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership to develop new capabilities to meet defense and national security customer demands.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LHX/profile",
+  "origin": {
+    "leaf": "cdeec44a59d069e7a738a475e9e5c0b3e553227c4ed8508d5c30435302d4b204",
+    "parent": "37f07f3394b6e5cb25830dc3773af330194f7716266282422063298e86eb2f49",
+    "timestamp": "2026-04-12T03:12:54.766Z",
+    "source": "profile:0000202058",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cdeec44a59d069e7a738a475e9e5c0b3e553227c4ed8508d5c30435302d4b204",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.766Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

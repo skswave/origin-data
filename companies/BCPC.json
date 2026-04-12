@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BCPC",
+  "name": "BALCHEM CORP",
+  "cik": "0000009326",
+  "exchange": "Nasdaq",
+  "sic": "2800",
+  "sic_description": "Chemicals & Allied Products",
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": "1967",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Balchem Corporation, incorporated in Maryland in 1967, develops, manufactures, distributes, and markets specialty performance ingredients and products for nutritional, food, pharmaceutical, animal health, plant nutrition, sterilization, fumigation, and industrial markets. Key products include choline nutrients, mineral amino acid chelates, vitamin K2, MSM, microencapsulated ingredients, ethylene oxide, propylene oxide, ammonia, and chelated minerals. The company operates three reportable segments: Human Nutrition and Health, Animal Nutrition and Health, and Specialty Products.",
+  "tags": [
+    "human-nutrition-and-health",
+    "animal-nutrition-and-health",
+    "specialty-products",
+    "food-and-beverage",
+    "pharmaceutical",
+    "plant-nutrition",
+    "sterilization",
+    "fumigation",
+    "industrial"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BCPC",
+  "origin": {
+    "leaf": "79c3383ce6f24922756a5625586c202b8348ac6c364d9684044edf3d7c693b17",
+    "parent": "33be77e31076654317579a13f858cb4080e9a2a50fcf165b438017703bd36371",
+    "timestamp": "2026-04-12T03:12:50.608Z",
+    "source": "0000009326-26-000007",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/79c3383ce6f24922756a5625586c202b8348ac6c364d9684044edf3d7c693b17",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.608Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

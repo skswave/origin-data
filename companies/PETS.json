@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PETS",
+  "name": "PETMED EXPRESS INC",
+  "cik": "0001040130",
+  "exchange": "Nasdaq",
+  "sic": "5912",
+  "sic_description": "Retail-Drug Stores and Proprietary Stores",
+  "state_of_incorporation": "FL",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "PetMed Express, Inc. is a pet pharmacy company that sells prescription and non-prescription pet medications and other health products for dogs and cats. The company operates as an online and direct-to-consumer retailer. It participates in vendor-funded programs providing reimbursements for advertising, sales incentives, and promotional efforts linked to purchase or sales volume thresholds.",
+  "tags": [
+    "pet-pharmacy",
+    "direct-to-consumer-pet-health-products",
+    "u.s.-gaap"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PETS",
+  "origin": {
+    "leaf": "bcff7d78b6638be1c5050e207571813fe65758902c147ddeac27e5153e3c9bf2",
+    "parent": "e4247725c7e0a72db92695fdb6fa83f56b32ae926f08fe0d2a261ae741c65006",
+    "timestamp": "2026-04-12T03:12:52.537Z",
+    "source": "0001040130-25-000072",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bcff7d78b6638be1c5050e207571813fe65758902c147ddeac27e5153e3c9bf2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.537Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

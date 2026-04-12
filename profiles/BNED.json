@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BNED",
+  "name": "Barnes & Noble Education, Inc.",
+  "cik": "0001634117",
+  "summary": "Barnes & Noble Education, Inc. (BNED) operates college and university bookstores across the United States, providing physical and online retail services for course materials, general merchandise, and related products. The company offers affordable access course material programs including BNC First Day and First Day Complete, digital course materials through partnerships with VitalSource Technologies, and outsourced bookstore management services to higher education institutions.",
+  "products": [
+    {
+      "name": "BNC First Day",
+      "type": "service",
+      "description": "Affordable access course material program providing discounted textbooks and digital materials to students at partner institutions."
+    },
+    {
+      "name": "First Day Complete",
+      "type": "service",
+      "description": "Inclusive access course material model where students receive all required materials at reduced costs, with opt-out options."
+    },
+    {
+      "name": "Managed Bookstore Operations",
+      "type": "service",
+      "description": "Outsourced physical and online bookstore management services provided to colleges and universities."
+    },
+    {
+      "name": "Digital Course Materials",
+      "type": "platform",
+      "description": "Digital textbook and course content delivery in partnership with VitalSource Technologies."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "VitalSource Technologies, Inc.",
+      "partnership_type": "strategic",
+      "description": "Strategic service provider for digital course material delivery and distribution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fanatics Retail Group Fulfillment, LLC",
+      "partnership_type": "strategic",
+      "description": "Strategic service provider relationship referred to as the F/L Relationship for retail fulfillment.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fanatics Lids College, Inc. (Lids)",
+      "partnership_type": "strategic",
+      "description": "Strategic partner under the F/L Relationship for college merchandise and retail operations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BNED/profile",
+  "origin": {
+    "leaf": "da0cc117c9320b89293975344b2aee6cff4af4da7b05c1721bde4cc3711de275",
+    "parent": "453a091a3cdd29356d2c993a42a59e8d3d523d69d3cb12289f0ee31d04759a73",
+    "timestamp": "2026-04-12T03:12:56.737Z",
+    "source": "profile:0001634117",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/da0cc117c9320b89293975344b2aee6cff4af4da7b05c1721bde4cc3711de275",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.737Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

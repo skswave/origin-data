@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "BTMD",
+  "total_facts": 2,
+  "by_type": {
+    "topic_mention": 2
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BTMD",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BTMD",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BTMD/transcripts",
+  "origin": {
+    "leaf": "8d2f2b3a4b01bd2cadcbd3372af154a8e3f7f96a55a97e19c0cd35ba27bdd1ee",
+    "parent": "233e96ef35cf3239d4626bd1acc7b2253e08bc546a942918ddb6dc0036cfeb55",
+    "timestamp": "2026-04-12T03:14:58.331Z",
+    "source": "facts:BTMD",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8d2f2b3a4b01bd2cadcbd3372af154a8e3f7f96a55a97e19c0cd35ba27bdd1ee",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:58.331Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "THO",
+  "name": "THOR INDUSTRIES INC",
+  "cik": "0000730263",
+  "summary": "THOR Industries, Inc., founded in 1980, is the largest manufacturer of recreational vehicles (RVs) in the world. The company manufactures conventional travel trailers, fifth wheels, Class A, Class B, and Class C motorhomes in the U.S. and Europe through subsidiaries including Airstream, Jayco, Keystone, Thor Motor Coach, Tiffin Group, and Erwin Hymer Group. Products are sold primarily to independent, non-franchise dealers in the U.S., Canada, and Europe, along with related parts, accessories, and RV component products.",
+  "products": [
+    {
+      "name": "Airstream Travel Trailers",
+      "type": "hardware",
+      "description": "Premium travel trailers under brands Classic, Globetrotter, International, Flying Cloud, Bambi, Basecamp, Caravel, Tradewind."
+    },
+    {
+      "name": "Airstream Motorhomes",
+      "type": "hardware",
+      "description": "Class B motorhomes sold under Interstate, Atlas, and Rangeline series."
+    },
+    {
+      "name": "Jayco Travel Trailers and Fifth Wheels",
+      "type": "hardware",
+      "description": "Conventional travel trailers and fifth wheels under Jay Flight, Jay Feather, Eagle, Pinnacle brands."
+    },
+    {
+      "name": "Jayco Motorhomes",
+      "type": "hardware",
+      "description": "Class A, B, and C motorhomes under Alante, Precept, Greyhawk, Redhawk brands."
+    },
+    {
+      "name": "Entegra Coach Motorhomes",
+      "type": "hardware",
+      "description": "Class A, B, and C motorhomes under Insignia, Aspire, Anthem, Cornerstone, Odyssey, Esteem, Emblem brands."
+    },
+    {
+      "name": "Keystone Travel Trailers and Fifth Wheels",
+      "type": "hardware",
+      "description": "Conventional travel trailers and fifth wheels under Montana, Springdale, Hideout, Cougar, Coleman, Raptor, and other brands."
+    },
+    {
+      "name": "Dutchmen Travel Trailers and Fifth Wheels",
+      "type": "hardware",
+      "description": "Travel trailers and fifth wheels under Kodiak, Aspen Trail, Astoria, Denali, Voltage, Colorado brands."
+    },
+    {
+      "name": "CrossRoads Travel Trailers and Fifth Wheels",
+      "type": "hardware",
+      "description": "Conventional travel trailers and fifth wheels under Cruiser, Volante, Sunset Trail, Zinger, and Redwood brands."
+    },
+    {
+      "name": "KZ Travel Trailers and Fifth Wheels",
+      "type": "hardware",
+      "description": "Conventional travel trailers and fifth wheels under Classic, Sportsmen, Connect, Durango, Sportster X brands."
+    },
+    {
+      "name": "Venture RV Travel Trailers and Fifth Wheels",
+      "type": "hardware",
+      "description": "Travel trailers and fifth wheels under Sienna, Sonic, Stratus, SportTrek brands."
+    },
+    {
+      "name": "Thor Motor Coach Motorhomes",
+      "type": "hardware",
+      "description": "Class A, B, and C gasoline and diesel motorhomes under Ace, Aria, Challenger, Hurricane, Tuscany, and many other brands."
+    },
+    {
+      "name": "Tiffin Motorhomes",
+      "type": "hardware",
+      "description": "Premium diesel and gasoline Class A, B, and C motorhomes under Allegro, Phaeton, Wayfarer, Zephyr, and other brands."
+    },
+    {
+      "name": "Erwin Hymer Group (EHG) European RVs",
+      "type": "hardware",
+      "description": "Motorcaravans, campervans, urban vehicles, and caravans under Hymer, Buerstner, Dethleffs, Laika, Sunlight, and other European brands."
+    },
+    {
+      "name": "Airxcel RV Components",
+      "type": "hardware",
+      "description": "RV-related products including Coleman-Mach, Suburban, Maxxair, Dicor Products sold to OEMs and via aftermarket channels."
+    },
+    {
+      "name": "Postle Aluminum Extrusions",
+      "type": "hardware",
+      "description": "Aluminum extrusions and specialized component products sold to RV and other manufacturers."
+    },
+    {
+      "name": "Heartland Travel Trailers and Fifth Wheels",
+      "type": "hardware",
+      "description": "Conventional travel trailers and fifth wheels under Bighorn, North Trail, Cyclone, Prowler, Sundance; being merged into Jayco in fiscal 2026."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Ford",
+      "partnership_type": "OEM",
+      "description": "Supplies chassis with engine and drivetrain components for Class A, C, and B motorhomes in North America and Europe.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Freightliner",
+      "partnership_type": "OEM",
+      "description": "Supplies medium-duty truck chassis for Class A motorhomes in North America.",
+      "start_date": null
+    },
+    {
+      "partner_name": "The Shyft Group",
+      "partnership_type": "OEM",
+      "description": "Supplies chassis for Class A motorhomes in North America.",
+      "start_date": null
+    },
+    {
+      "partner_name": "General Motors",
+      "partnership_type": "OEM",
+      "description": "Supplies small truck or van chassis for Class C and Class B motorhomes in North America.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Mercedes-Benz",
+      "partnership_type": "OEM",
+      "description": "Supplies van chassis for Class B motorhomes in North America and light-duty truck chassis for European motorcaravans.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Stellantis",
+      "partnership_type": "OEM",
+      "description": "Supplies light-duty truck chassis for European motorcaravan production by Erwin Hymer Group.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/THO/profile",
+  "origin": {
+    "leaf": "27bb59bdbf6b299b15f803b3dfd552a740a50632dbf5f1cddd0041194b8fc954",
+    "parent": "423ff409f5470a9341a82e1a6a3ae7823dbe680a436d43e84e812c966378c708",
+    "timestamp": "2026-04-12T03:12:55.339Z",
+    "source": "profile:0000730263",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/27bb59bdbf6b299b15f803b3dfd552a740a50632dbf5f1cddd0041194b8fc954",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.339Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

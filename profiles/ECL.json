@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ECL",
+  "name": "ECOLAB INC.",
+  "cik": "0000031462",
+  "summary": "Ecolab Inc. is a global leader in water, hygiene, and infection prevention solutions serving customers in more than 170 countries and 40 industries. The company provides water treatment chemicals, cleaning and sanitizing products, pest elimination services, and life sciences solutions. Key offerings include 3D TRASAR technologies, antimicrobial products, food safety equipment, and digital monitoring systems. Ecolab reported $16 billion in annual sales and serves food, healthcare, hospitality, data centers, microelectronics, and industrial markets.",
+  "products": [
+    {
+      "name": "3D TRASAR",
+      "type": "platform",
+      "description": "Combines chemistry, remote services, and monitoring and control for water treatment applications."
+    },
+    {
+      "name": "Cooling Water Treatment Programs",
+      "type": "service",
+      "description": "Controls corrosion, scale, and microbial fouling in open recirculating, once-through, and closed cooling systems."
+    },
+    {
+      "name": "Clean-in-Place Process Control Systems",
+      "type": "hardware",
+      "description": "Designed and installed for food and beverage processing facility cleaning operations."
+    },
+    {
+      "name": "Digital Monitoring and Chemical Dispensing Systems",
+      "type": "hardware",
+      "description": "Used by customers to efficiently and safely dispense cleaners and sanitizers."
+    },
+    {
+      "name": "Antimicrobial Products",
+      "type": "service",
+      "description": "Used in direct contact with meat, poultry, seafood, and produce to reduce microbial contamination during processing."
+    },
+    {
+      "name": "Infection Prevention Solutions",
+      "type": "service",
+      "description": "Includes hand hygiene, hard surface disinfection, digital monitoring systems, and instrument cleaning for healthcare institutions."
+    },
+    {
+      "name": "Pest Elimination Services",
+      "type": "service",
+      "description": "Pest elimination solutions provided as a reportable segment to various industries."
+    },
+    {
+      "name": "Life Sciences Solutions",
+      "type": "service",
+      "description": "Solutions provided under the Global Life Sciences reportable segment."
+    },
+    {
+      "name": "Specialty Petroleum Programs",
+      "type": "service",
+      "description": "Refining process applications, fuels and feedstocks additives for petroleum and fuels industry."
+    },
+    {
+      "name": "Pulp and Paper Water Treatment Programs",
+      "type": "service",
+      "description": "Comprehensive programs used in all principal steps of the papermaking process across all paper grades."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ECL/profile",
+  "origin": {
+    "leaf": "4af3065b5e7852470ac0e2029febbedcac02b04049962cbda7f217387f54d517",
+    "parent": "948a5d602efd8647edbed780a9a431d65b8ebb145949f9b14cad395a44505a08",
+    "timestamp": "2026-04-12T03:12:54.748Z",
+    "source": "profile:0000031462",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4af3065b5e7852470ac0e2029febbedcac02b04049962cbda7f217387f54d517",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.748Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

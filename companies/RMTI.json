@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "RMTI",
+  "name": "ROCKWELL MEDICAL, INC.",
+  "cik": "0001041024",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": "Wixom, Michigan",
+  "founded": "1996",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Rockwell Medical, Inc. is a healthcare company that develops, manufactures, commercializes, and distributes hemodialysis products for dialysis providers worldwide. The company supplies liquid and dry acid and bicarbonate concentrates for dialysis patients, primarily in the United States. Products are manufactured at facilities in Michigan and Texas under cGMP regulations and delivered to dialysis clinics via company trucks and third-party carriers. Rockwell serves 294 customers including all five leading U.S. dialysis providers.",
+  "tags": [
+    "hemodialysis-concentrate-supply",
+    "end-stage-kidney-disease-treatment",
+    "freestanding-outpatient-dialysis-centers",
+    "hospital-based-outpatient-dialysis-centers",
+    "skilled-nursing-facilities",
+    "home-dialysis",
+    "international-dialysis-providers",
+    "cgmp-(current-good-manufacturing-practices)",
+    "aami-(association-for-the-advancement-of-medical-instrumentation)-guidelines",
+    "fda-510(k)-approval"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/RMTI",
+  "origin": {
+    "leaf": "2a7ea8c350c4c893697c5ac4d5769e36f28e83d920412c653dbf20db6680e4f6",
+    "parent": "55492f37acf224996b22636d51ed63b919507a8c1ab3e147d79508735a0f3541",
+    "timestamp": "2026-04-12T03:12:52.664Z",
+    "source": "0001628280-26-021186",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2a7ea8c350c4c893697c5ac4d5769e36f28e83d920412c653dbf20db6680e4f6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.664Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

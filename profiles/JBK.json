@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "JBK",
+  "name": "LEHMAN ABS CORP GOLDMAN SACHS CAP 1 SEC BACKED SER 2004-6",
+  "cik": "0001284143",
+  "summary": "Lehman ABS Corporation serves as the Depositor for the Corporate Backed Trust Certificates, Goldman Sachs Capital I Securities-Backed Series 2004-6 Trust. The Trust issues publicly offered Certificates representing investors' interests, listed on the NYSE. Certificates are registered in the name of Cede & Co., nominee of The Depository Trust Company. The Trust makes distributions to certificateholders, documented via Form 8-K filings with the SEC.",
+  "products": [
+    {
+      "name": "Corporate Backed Trust Certificates, Goldman Sachs Capital I Securities-Backed Series 2004-6",
+      "type": "service",
+      "description": "Publicly offered certificates representing investors' interests in a trust, listed on the NYSE and held through The Depository Trust Company."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "The Depository Trust Company",
+      "partnership_type": "strategic",
+      "description": "Certificates are registered in the name of Cede & Co., the nominee of The Depository Trust Company.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/JBK/profile",
+  "origin": {
+    "leaf": "e4668d619d7001db66de7651659288c7a7fc3ae3b5d9dd57623a197433ea28bb",
+    "parent": "f94116ed88337cd21640d80ae18c7490915b178a8bc6a6d71047657600a9fd32",
+    "timestamp": "2026-04-12T03:12:59.581Z",
+    "source": "profile:0001284143",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e4668d619d7001db66de7651659288c7a7fc3ae3b5d9dd57623a197433ea28bb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.581Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

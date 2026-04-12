@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "INVU",
+  "name": "Investview, Inc.",
+  "cik": "0000862651",
+  "exchange": "OTC",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Investview, Inc. is a Nevada-based diversified company operating several business units: a direct-to-consumer (DTC) marketing platform via subsidiary Conectiv, LLC offering financial education tools, software, and health/wellness products through independent distributors; a proprietary over-the-counter aesthetics, health, nutrition, and cognitive wellness products division; an early-stage online retail brokerage platform; and a bitcoin mining operation focused on sustainable blockchain business.",
+  "tags": [
+    "financial-education-and-technology",
+    "direct-to-consumer-marketing",
+    "health,-wellness,-and-lifestyle-products",
+    "bitcoin-mining-and-blockchain",
+    "retail-brokerage-and-financial-markets",
+    "international-direct-selling"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/INVU",
+  "origin": {
+    "leaf": "858bf6469104911d33e3dca58e320a69a70a50aac5c812f2cf5697536533c8ea",
+    "parent": "ea6fbc93ed47119f03438f9ff21a2c7fa75388222a5b68202cd47de22cddc3a3",
+    "timestamp": "2026-04-12T03:12:52.518Z",
+    "source": "0001493152-26-014042",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/858bf6469104911d33e3dca58e320a69a70a50aac5c812f2cf5697536533c8ea",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.518Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

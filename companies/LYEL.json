@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LYEL",
+  "name": "Lyell Immunopharma, Inc.",
+  "cik": "0001806952",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": "Bothell, Washington",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Lyell Immunopharma, Inc. is a late-stage clinical cell therapy company focused on developing T cell therapies for cancer. Its lead product candidates include rondecabtagene autoleucel (ronde-cel, LYL314) and LYL273 (formerly GCC19CART). The company conducts its own manufacturing at its LyFE Manufacturing Center in Bothell, Washington, and has no approved products or product revenue to date.",
+  "tags": [
+    "cell-therapy",
+    "oncology",
+    "immuno-oncology",
+    "regenerative-medicine-advanced-therapy-(rmat)-designation",
+    "orphan-drug-designation",
+    "fast-track-designation"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LYEL",
+  "origin": {
+    "leaf": "024948308b2f30d25769f934ff19f4383a60c876f0d752a50427eb434052cbd7",
+    "parent": "630865ec46693ee5cfac4e5c2429f8bc841ac25c1f21d6ff623949715cec0cc5",
+    "timestamp": "2026-04-12T03:12:51.424Z",
+    "source": "0001628280-26-017253",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/024948308b2f30d25769f934ff19f4383a60c876f0d752a50427eb434052cbd7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.424Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

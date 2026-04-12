@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UFI",
+  "name": "UNIFI INC",
+  "cik": "0000100726",
+  "summary": "Unifi, Inc. is a multinational manufacturer and seller of recycled and synthetic textile products made from polyester and nylon. Products include partially oriented yarn (POY), textured, solution dyed, twisted, beamed, and draw wound yarns, plastic bottle flake, polyester polymer beads, and staple fiber. UNIFI sells primarily to yarn manufacturers, knitters, and weavers serving apparel, hosiery, home furnishings, automotive, industrial, and medical end-use markets across North America, Central America, South America, Asia, and Europe.",
+  "products": [
+    {
+      "name": "Partially Oriented Yarn (POY)",
+      "type": "hardware",
+      "description": "Polyester yarn product available in virgin or recycled varieties for textile manufacturing."
+    },
+    {
+      "name": "Textured Yarn",
+      "type": "hardware",
+      "description": "Polyester and nylon textured yarns available in virgin or recycled varieties."
+    },
+    {
+      "name": "Solution and Package Dyed Yarn",
+      "type": "hardware",
+      "description": "Specialty dyed yarns offering enhanced color-fastness with less water use."
+    },
+    {
+      "name": "REPREVE Fiber",
+      "type": "hardware",
+      "description": "Recycled fiber platform including polyester and nylon filament and staple fiber; flagship brand."
+    },
+    {
+      "name": "REPREVE Chip",
+      "type": "hardware",
+      "description": "Recycled polyester resin product sold as part of the REPREVE brand platform."
+    },
+    {
+      "name": "Plastic Bottle Flake (Flake)",
+      "type": "hardware",
+      "description": "Recycled solution made from pre-consumer and post-consumer waste."
+    },
+    {
+      "name": "Polyester Polymer Beads (Chip)",
+      "type": "hardware",
+      "description": "Recycled polyester polymer beads derived from pre-consumer and post-consumer waste."
+    },
+    {
+      "name": "Staple Fiber",
+      "type": "hardware",
+      "description": "Recycled polyester and nylon staple fiber products for textile applications."
+    },
+    {
+      "name": "Spandex Covered Yarns",
+      "type": "hardware",
+      "description": "Nylon products including virgin or recycled spandex covered yarn varieties."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UFI/profile",
+  "origin": {
+    "leaf": "fdfc36468a127c28b56577141d893b9b6a22803323db35b4756dfefcd235c958",
+    "parent": "949d33b74ac9a01730ca74be818825c422b92d4e2f3426f4109f87956063954a",
+    "timestamp": "2026-04-12T03:12:57.657Z",
+    "source": "profile:0000100726",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fdfc36468a127c28b56577141d893b9b6a22803323db35b4756dfefcd235c958",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.657Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

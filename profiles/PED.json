@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PED",
+  "name": "PEDEVCO CORP",
+  "cik": "0001141197",
+  "summary": "PEDEVCO Corp. (PED) is an oil and natural gas company engaged in the acquisition, exploration, development, and production of oil and natural gas resources in the United States. The company focuses on conventional and unconventional resource plays, operating assets primarily in domestic basins. It generates revenue through the sale of crude oil, natural gas liquids (NGLs), and natural gas.",
+  "products": [
+    {
+      "name": "Crude Oil Production",
+      "type": "service",
+      "description": "Exploration and production of crude oil from domestic U.S. basins."
+    },
+    {
+      "name": "Natural Gas Production",
+      "type": "service",
+      "description": "Exploration and production of natural gas and NGLs from domestic U.S. resource plays."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PED/profile",
+  "origin": {
+    "leaf": "f2922bcbe2dfa41e8be04c399c1cf40cd46a85293662d42d34b2c754d2dc770b",
+    "parent": "8fad911a5cb0896fecc1f6acd421bbaab86fac48db8a073faeeb694a0b72f4f2",
+    "timestamp": "2026-04-12T03:12:56.977Z",
+    "source": "profile:0001141197",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f2922bcbe2dfa41e8be04c399c1cf40cd46a85293662d42d34b2c754d2dc770b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.977Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

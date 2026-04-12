@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "DEI",
+  "name": "Douglas Emmett Inc",
+  "cik": "0001364250",
+  "exchange": "NYSE",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "MD",
+  "headquarters": "Santa Monica, California",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Douglas Emmett, Inc. is a fully integrated, self-administered and self-managed REIT focused on owning, acquiring, developing and managing office and multifamily properties in highly walkable submarkets of Los Angeles and Honolulu, Hawaii. The company operates a consolidated portfolio of office and residential properties, manages unconsolidated institutional real estate funds, and conducts development activities including conversion of office properties and construction of apartment communities.",
+  "tags": [
+    "office-real-estate---southern-california",
+    "multifamily-residential-real-estate---southern-california",
+    "office-real-estate---honolulu,-hawaii",
+    "institutional-real-estate-investment-funds"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/DEI",
+  "origin": {
+    "leaf": "b4072bbae6da1244b0d9756bcb66233103343a489302b562ad00d5314306290a",
+    "parent": "0e0ca354fe88c582538a9eedc7d56b55ed2682f4a59b0d45d556e0eedb042810",
+    "timestamp": "2026-04-12T03:12:50.902Z",
+    "source": "0001364250-26-000011",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b4072bbae6da1244b0d9756bcb66233103343a489302b562ad00d5314306290a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.902Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

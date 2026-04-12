@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AZASF",
+  "name": "Arizona Gold & Silver Inc.",
+  "cik": "0001701599",
+  "exchange": "OTC",
+  "sic": null,
+  "sic_description": null,
+  "state_of_incorporation": "A1",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0831",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AZASF",
+  "origin": {
+    "leaf": "8f1d87ec442cd69616642dcc4f8ca7dbf86dbc4f36283ab1a1c3c4bb229af9ee",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:52.575Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8f1d87ec442cd69616642dcc4f8ca7dbf86dbc4f36283ab1a1c3c4bb229af9ee",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.575Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

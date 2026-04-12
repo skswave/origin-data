@@ -1,0 +1,83 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "XPL",
+  "name": "SOLITARIO RESOURCES CORP.",
+  "cik": "0000917225",
+  "summary": "Solitario Resources Corp. is a mineral exploration company incorporated in Colorado in 1984, focused on acquiring and exploring precious metal, zinc, and base metal properties. Its core assets include the Florida Canyon zinc project in Peru (39% interest, carried by Nexa), the Lik zinc-lead-silver project in Alaska (50% with Teck), and the Golden Crest gold project in South Dakota (100%). The company also holds the Cat Creek and Bright Angel projects in Colorado and the Chambara project in Peru.",
+  "products": [
+    {
+      "name": "Florida Canyon Zinc Project",
+      "type": "service",
+      "description": "39% interest in advanced high-grade zinc project in northern Peru, carried to production by joint venture partner Nexa."
+    },
+    {
+      "name": "Lik Zinc-Lead-Silver Project",
+      "type": "service",
+      "description": "50% operating interest in a large tonnage, high-grade open-pit zinc-lead-silver deposit in northwest Alaska, partnered with Teck."
+    },
+    {
+      "name": "Golden Crest Project",
+      "type": "service",
+      "description": "100% interest in gold exploration project in the Black Hills region of South Dakota, subject to a lease agreement with royalty obligations."
+    },
+    {
+      "name": "Cat Creek Project",
+      "type": "service",
+      "description": "100% interest in early-stage mineral exploration project in Colorado, acquired in Q3 2025."
+    },
+    {
+      "name": "Bright Angel Project",
+      "type": "service",
+      "description": "100% interest in early-stage mineral exploration project in Colorado, acquired in Q3 2025."
+    },
+    {
+      "name": "Chambara Project",
+      "type": "service",
+      "description": "85% interest held through Minera Chambara, S.A. in Peru."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Nexa Resources, Ltd.",
+      "partnership_type": "strategic",
+      "description": "Joint venture partner on Florida Canyon zinc project in Peru; Nexa funds 100% of project expenditures and carries Solitario to production.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Teck American Incorporated (Teck Resources Limited)",
+      "partnership_type": "strategic",
+      "description": "50% joint venture partner on the Lik zinc-lead-silver project in Alaska; Teck acted as project manager from 2018 through 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Golden Crest II, LLC",
+      "partnership_type": "strategic",
+      "description": "Underlying owner of GC Claims in South Dakota; Solitario holds exclusive exploration rights under a 20-year lease agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Gustavson & Associates",
+      "partnership_type": "development",
+      "description": "Engaged to complete S-K 1300 Technical Report Summaries on both the Lik and Florida Canyon projects, completed March 2022.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/XPL/profile",
+  "origin": {
+    "leaf": "bf4e3d8e8d7be98483dccb0d831acce7b32cf770b8be7b88442369a79899142e",
+    "parent": "ae307ed4522d3fe10d17c9aa8c12eb16b01506062fe7761db43f2115760b7029",
+    "timestamp": "2026-04-12T03:12:57.560Z",
+    "source": "profile:0000917225",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bf4e3d8e8d7be98483dccb0d831acce7b32cf770b8be7b88442369a79899142e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.560Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

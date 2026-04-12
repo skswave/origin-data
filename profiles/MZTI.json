@@ -1,0 +1,94 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MZTI",
+  "name": "MARZETTI CO",
+  "cik": "0000057515",
+  "summary": "The Marzetti Company (formerly Lancaster Colony Corporation) is an Ohio-based manufacturer and marketer of specialty food products for retail and foodservice channels. Products include frozen breads (New York Bakery, Sister Schubert's), refrigerated and shelf-stable salad dressings and dips (Marzetti, Cardini's, Girard's), croutons, and frozen pasta. The company also produces licensed branded products for Chick-fil-A, Olive Garden, Buffalo Wild Wings, Texas Roadhouse, and Subway, operating 14 food plants across the United States.",
+  "products": [
+    {
+      "name": "New York Bakery Frozen Garlic Breads",
+      "type": "hardware",
+      "description": "Frozen garlic bread products sold in retail and foodservice channels under the New York Bakery brand."
+    },
+    {
+      "name": "Sister Schubert's Frozen Rolls",
+      "type": "hardware",
+      "description": "Frozen Parkerhouse style yeast rolls and dinner rolls sold in retail and foodservice channels."
+    },
+    {
+      "name": "Marzetti Salad Dressings and Dips",
+      "type": "hardware",
+      "description": "Refrigerated and shelf-stable salad dressings, vegetable dips, and fruit dips under the Marzetti brand."
+    },
+    {
+      "name": "Cardini's and Girard's Dressings",
+      "type": "hardware",
+      "description": "Shelf-stable salad dressings sold in retail channels under Cardini's and Girard's brand names."
+    },
+    {
+      "name": "Chatham Village Croutons",
+      "type": "hardware",
+      "description": "Croutons and salad toppings sold under the Chatham Village and New York Bakery brand names."
+    },
+    {
+      "name": "Marzetti Frozen Pasta",
+      "type": "hardware",
+      "description": "Frozen pasta products sold in the foodservice segment under the Marzetti brand."
+    },
+    {
+      "name": "Licensed Sauces and Dressings",
+      "type": "service",
+      "description": "Branded sauces and dressings produced under license for Chick-fil-A, Olive Garden, Buffalo Wild Wings, Texas Roadhouse, and Subway."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Chick-fil-A",
+      "partnership_type": "licensing",
+      "description": "Exclusive license to manufacture and sell Chick-fil-A sauces and dressings in retail channel; also supplies Chick-fil-A foodservice needs.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Olive Garden",
+      "partnership_type": "licensing",
+      "description": "License agreement to manufacture and sell Olive Garden branded dressings for retail.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Buffalo Wild Wings",
+      "partnership_type": "licensing",
+      "description": "License agreement to manufacture and sell Buffalo Wild Wings branded sauces for retail.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Texas Roadhouse",
+      "partnership_type": "licensing",
+      "description": "License agreement to manufacture and sell Texas Roadhouse branded steak sauces and frozen rolls for retail.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Subway",
+      "partnership_type": "licensing",
+      "description": "License agreement to manufacture and sell Subway branded sauces for retail.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MZTI/profile",
+  "origin": {
+    "leaf": "c753a85ce6364fb69ab191f8aaac8368bc3ab887b95604c01bd8f3981645e821",
+    "parent": "f674ecd9d0a88800d63e3b92cfa6438d4cde8b2bf5bc6cb464b4caf3a8f925fc",
+    "timestamp": "2026-04-12T03:12:55.380Z",
+    "source": "profile:0000057515",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c753a85ce6364fb69ab191f8aaac8368bc3ab887b95604c01bd8f3981645e821",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.380Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

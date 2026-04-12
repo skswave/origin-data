@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EIG",
+  "name": "Employers Holdings, Inc.",
+  "cik": "0001379041",
+  "exchange": "NYSE",
+  "sic": "6331",
+  "sic_description": "Fire, Marine & Casualty Insurance",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I General Employers Holdings, Inc. (EHI) is a holding company, which was incorporated in Nevada in 2005, with subsidiaries that are specialty providers of workers' compensation insurance and related services focused on small and mid-sized businesses engaged in lower hazard industries. In February 2026, we launched a new excess workers' compensation product that will be offered to self-insured enterprises in several jurisdictions across the United States (U.S.). We had 623 full-time employee...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 623,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EIG",
+  "origin": {
+    "leaf": "1e8dbd1dc98846e10d227c7aa2943b065226b725350cd64be88774904563aee4",
+    "parent": "83228964cf5a82fda81fdd44267ec84fc922f3319a9301280a67b8e0fbe1c077",
+    "timestamp": "2026-04-12T03:12:51.179Z",
+    "source": "0001379041-26-000011",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1e8dbd1dc98846e10d227c7aa2943b065226b725350cd64be88774904563aee4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.179Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

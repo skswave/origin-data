@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MGY",
+  "name": "Magnolia Oil & Gas Corp",
+  "cik": "0001698990",
+  "exchange": "NYSE",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "mgy-20251231 0001698990 2025 FY false http://fasb.org/us-gaap/2025#OtherAssetsNoncurrent http://fasb.org/us-gaap/2025#OtherAssetsNoncurrent http://fasb.org/us-gaap/2025#OtherLiabilitiesCurrent http://fasb.org/us-gaap/2025#OtherLiabilitiesCurrent http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent P2Y iso4217:USD xbrli:shares iso4217:USD xbrli:shares mgy:segment xbrli:pure mgy:tranche mgy:vote mgy:grantee 0001698990 2025-01-01 2025-12-31...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MGY",
+  "origin": {
+    "leaf": "351a486f171a106acc905e8e464ad8fdb89b921e2bdfa3e50d57221d937b2e6d",
+    "parent": "92b63fa2b325e896275de5bf8d975090826c14d9e8cbc25abe1bd89cba03ed71",
+    "timestamp": "2026-04-12T03:12:50.588Z",
+    "source": "0001698990-26-000005",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/351a486f171a106acc905e8e464ad8fdb89b921e2bdfa3e50d57221d937b2e6d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.588Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

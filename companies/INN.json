@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "INN",
+  "name": "Summit Hotel Properties, Inc.",
+  "cik": "0001497645",
+  "exchange": "NYSE",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Part I Item 1A. Risk Factors in this report. Accordingly, there is no assurance that our expectations will be realized. Except as otherwise required by the federal securities laws, we disclaim any obligation or undertaking to publicly release any updates or revisions to any forward-looking statement contained herein (or elsewhere) to reflect any change in our expectations with regard thereto or any change in events, conditions or circumstances on which any such statement is based. 2 PARTI . Unle...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/INN",
+  "origin": {
+    "leaf": "60789628ea46d1799d5415f40968ad072cbfc9770362ca22ae93bb6a95166cf2",
+    "parent": "fc63c4b4325c545c552db183cc01d26fce2aaa95d75b687c66723cf8e2a1f3c4",
+    "timestamp": "2026-04-12T03:12:51.410Z",
+    "source": "0001497645-26-000015",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/60789628ea46d1799d5415f40968ad072cbfc9770362ca22ae93bb6a95166cf2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.410Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

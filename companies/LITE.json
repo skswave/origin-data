@@ -1,0 +1,59 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LITE",
+  "name": "Lumentum Holdings Inc.",
+  "cik": "0001633978",
+  "exchange": "Nasdaq",
+  "sic": "3669",
+  "sic_description": "Communications Equipment, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": "San Jose, California",
+  "founded": "2015",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0628",
+  "summary": "Lumentum Holdings Inc. is a leading provider of optical and photonic products operating in two segments: Cloud & Networking and Industrial Tech. Its Cloud & Networking portfolio includes optical chips, components, modules, and subsystems for cloud data centers, AI/ML infrastructure, and telecom networks. Its Industrial Tech products include solid-state, fiber, diode, and gas lasers for 3D sensing, precision material processing, semiconductor fabrication, and electric vehicle production.",
+  "tags": [
+    "cloud-data-centers",
+    "ai/ml-infrastructure",
+    "telecommunications-networks",
+    "data-center-interconnect-(dci)",
+    "consumer-(3d-sensing-in-mobile-devices)",
+    "industrial-manufacturing",
+    "semiconductor-and-microelectronics-fabrication",
+    "electric-vehicle-and-battery-production",
+    "enterprise-networks-(san,-lan,-wan)",
+    "submarine-network-infrastructure",
+    "indium-phosphide-laser-and-photonic-integrated-circuit-technologies",
+    "coherent-optical-transmission",
+    "industry-4.0",
+    "industry-5.0"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 10562,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LITE",
+  "origin": {
+    "leaf": "b502a784c90c9b218de962c210cbb7ba7995971faf7b05316a79cb203d312323",
+    "parent": "141cdd573d47a8a9dfdeda7fc604cc7a497dc8c0747a4c293cf6ae51c182be14",
+    "timestamp": "2026-04-12T03:12:50.344Z",
+    "source": "0001628280-25-040830",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b502a784c90c9b218de962c210cbb7ba7995971faf7b05316a79cb203d312323",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.344Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

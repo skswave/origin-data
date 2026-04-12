@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "STRS",
+  "name": "STRATUS PROPERTIES INC",
+  "cik": "0000885508",
+  "exchange": "Nasdaq",
+  "sic": "6552",
+  "sic_description": "Land Subdividers & Developers (No Cemeteries)",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "strs-20251231 0000885508 2025 FY FALSE P1Y http://fasb.org/us-gaap/2024#OtherAssets http://fasb.org/us-gaap/2024#OtherAssets http://fasb.org/us-gaap/2024#OtherLiabilities http://fasb.org/us-gaap/2024#OtherLiabilities iso4217:USD xbrli:shares iso4217:USD xbrli:shares xbrli:pure utr:acre strs:unit strs:home utr:sqft strs:development_project strs:hotel_room 0000885508 2025-01-01 2025-12-31 0000885508 2025-06-30 0000885508 2026-03-20 0000885508 2025-12-31 0000885508 2024-12-31 0000885508 us-gaap:Rea...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/STRS",
+  "origin": {
+    "leaf": "89c26df80489f9a6f9e1e3ec0f0e0355f4ec90c78cd2d2b3430f9af6d8c6402f",
+    "parent": "76c6f38ae45f395f1d3af2a9ade54be29d7d587a054b35360c19db78f42846b9",
+    "timestamp": "2026-04-12T03:12:51.802Z",
+    "source": "0000885508-26-000017",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/89c26df80489f9a6f9e1e3ec0f0e0355f4ec90c78cd2d2b3430f9af6d8c6402f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.802Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

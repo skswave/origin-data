@@ -1,0 +1,65 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SEMR",
+  "name": "SEMrush Holdings, Inc.",
+  "cik": "0001831840",
+  "summary": "SEMrush Holdings, Inc. is a leading online visibility management SaaS platform enabling companies globally to identify and reach target audiences. Its platform uses data and AI-powered interconnected hubs covering generative engine optimization, SEO, paid advertising, social media management, local marketing, brand marketing, and content marketing. The company serves businesses seeking to improve digital presence across multiple channels through subscription-based software tools.",
+  "products": [
+    {
+      "name": "SEMrush Platform",
+      "type": "platform",
+      "description": "AI-powered online visibility management SaaS platform with hubs for SEO, paid advertising, social media, local marketing, brand marketing, and content marketing."
+    },
+    {
+      "name": "Generative Engine Optimization Hub",
+      "type": "software",
+      "description": "Hub focused on generative engine optimization for AI-driven search technologies."
+    },
+    {
+      "name": "SEO Hub",
+      "type": "software",
+      "description": "Search engine optimization tools for improving organic search visibility."
+    },
+    {
+      "name": "Social Media Management Hub",
+      "type": "software",
+      "description": "Tools for managing and optimizing social media presence and campaigns."
+    },
+    {
+      "name": "Local Marketing Hub",
+      "type": "software",
+      "description": "Tools for local marketing visibility and audience targeting."
+    },
+    {
+      "name": "Content Marketing Hub",
+      "type": "software",
+      "description": "Tools for content marketing strategy, creation, and optimization."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Adobe Inc.",
+      "partnership_type": "strategic",
+      "description": "Pending acquisition of SEMrush by Adobe Inc., a Delaware corporation, referenced throughout the filing.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SEMR/profile",
+  "origin": {
+    "leaf": "010e51e8f7f56c0050e1af089f22314c6ed6c5259f0eff495a1ffb3a483e52ca",
+    "parent": "c32249259607c0069ee8f4a59c3c7b43feaeaedf643e73cedb2712323f2c48b2",
+    "timestamp": "2026-04-12T03:12:55.699Z",
+    "source": "profile:0001831840",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/010e51e8f7f56c0050e1af089f22314c6ed6c5259f0eff495a1ffb3a483e52ca",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.699Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

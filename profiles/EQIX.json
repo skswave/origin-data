@@ -1,0 +1,110 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EQIX",
+  "name": "EQUINIX INC",
+  "cik": "0001101239",
+  "summary": "Equinix is a global digital infrastructure company operating 280 IBX and xScale data centers across 77 markets in 36 countries. It provides colocation, interconnection, and managed services including Equinix Fabric, Cross Connects, Internet Exchange, and Network Edge. Incorporated in 1998 and operating as a REIT, Equinix serves over 10,500 customers including enterprises, cloud providers, and network service providers, with more than 500,000 interconnections across its platform.",
+  "products": [
+    {
+      "name": "IBX Data Centers",
+      "type": "service",
+      "description": "Carrier-neutral colocation data centers providing secure space, power, and interconnection for enterprises and service providers."
+    },
+    {
+      "name": "xScale Data Centers",
+      "type": "service",
+      "description": "Data centers designed for hyperscale cloud service providers supporting demanding cloud and AI workloads via joint venture partnerships."
+    },
+    {
+      "name": "Private Cages",
+      "type": "service",
+      "description": "Custom-built, single-customer cage deployments with assigned space based on power and cabinet requirements."
+    },
+    {
+      "name": "Secure Cabinets",
+      "type": "hardware",
+      "description": "Industry-standard steel-framed lockable cabinets providing private, smaller-footprint colocation within shared secured cages."
+    },
+    {
+      "name": "Secure Cabinet Express",
+      "type": "service",
+      "description": "Preconfigured, ready-for-service cabinets offering simplified and globally consistent colocation deployments."
+    },
+    {
+      "name": "Equinix Smart View",
+      "type": "software",
+      "description": "Integrated monitoring software providing real-time environmental and operating data via Customer Portal and REST/streaming APIs."
+    },
+    {
+      "name": "Equinix Smart Hands",
+      "type": "service",
+      "description": "Around-the-clock on-site operational support for remote management, installation, and troubleshooting of customer equipment."
+    },
+    {
+      "name": "Equinix Smart Build",
+      "type": "service",
+      "description": "Expert-supported service accelerating complex data center deployments including new builds, migrations, and structured cabling."
+    },
+    {
+      "name": "Equinix Managed Solutions and Enablement Services",
+      "type": "service",
+      "description": "Managed platforms for cloud, storage, backup, and firewall built on neutral technology to support hybrid and multicloud environments."
+    },
+    {
+      "name": "Equinix Fabric",
+      "type": "platform",
+      "description": "Software-defined, on-demand interconnection platform enabling global connectivity to thousands of service providers across Equinix data centers."
+    },
+    {
+      "name": "Equinix Fabric Cloud Router",
+      "type": "platform",
+      "description": "High-performance private cloud interconnection solution reducing networking costs and enabling elastic bandwidth across multiple clouds."
+    },
+    {
+      "name": "Equinix Cross Connects",
+      "type": "service",
+      "description": "Point-to-point cable links between two Equinix customers in the same data center for fast, reliable connectivity."
+    },
+    {
+      "name": "Equinix Internet Exchange",
+      "type": "platform",
+      "description": "Global peering solution enabling networks and content providers to exchange internet traffic through one physical port."
+    },
+    {
+      "name": "Equinix Internet Access",
+      "type": "service",
+      "description": "Managed internet access solution available in 60+ markets offering multiple upstream Tier 1 providers and scalable bandwidth."
+    },
+    {
+      "name": "Fiber Connect",
+      "type": "service",
+      "description": "Dark fiber links between customers and partners across multiple Equinix data centers for fast, affordable integration."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Hyperscale cloud service providers",
+      "partnership_type": "strategic",
+      "description": "Joint venture partnerships to develop and operate xScale data centers serving hyperscaler core workload needs.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EQIX/profile",
+  "origin": {
+    "leaf": "601107e42efb48fd3572dc383d8c6053cf701052b8326515bfe1c212f28e29fc",
+    "parent": "af6d5f51504a4057e010aeeaac8aaf63704a1aad87f5b1bf1a1568b2612fd70f",
+    "timestamp": "2026-04-12T03:12:54.727Z",
+    "source": "profile:0001101239",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/601107e42efb48fd3572dc383d8c6053cf701052b8326515bfe1c212f28e29fc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.727Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

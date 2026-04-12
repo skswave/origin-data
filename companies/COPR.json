@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "COPR",
+  "name": "Idaho Copper Corp",
+  "cik": "0001263364",
+  "exchange": "OTC",
+  "sic": "1000",
+  "sic_description": "Metal Mining",
+  "state_of_incorporation": "NV",
+  "headquarters": "Boise County, Idaho",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0131",
+  "summary": "Idaho Copper Corporation is a mineral exploration and development company focused on the CuMo Project, a large copper-molybdenum-silver deposit in Boise County, Idaho. The project comprises 126 federal unpatented lode mining claims and 6 patented mining claims covering approximately 2,640 acres. The company also identifies byproducts including tungsten and rhenium. A Preliminary Economic Assessment was completed in May 2020 by SRK Consulting (Canada) Inc.",
+  "tags": [
+    "mineral-exploration-and-development",
+    "copper-mining",
+    "molybdenum-mining",
+    "silver-mining",
+    "subpart-1300-of-commission-regulation-s-k",
+    "ni-43-101"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/COPR",
+  "origin": {
+    "leaf": "a54ad6e2bb4d6fe31bf02de8261e4493c89bc22aae4ba10f253828c96d4d27f5",
+    "parent": "46b17f9ec1b18c7428615d9888aaa978144727d6ed0b86704459de62c774af87",
+    "timestamp": "2026-04-12T03:12:50.878Z",
+    "source": "0001493152-26-010471",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a54ad6e2bb4d6fe31bf02de8261e4493c89bc22aae4ba10f253828c96d4d27f5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.878Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

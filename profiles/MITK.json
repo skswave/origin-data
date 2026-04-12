@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MITK",
+  "name": "MITEK SYSTEMS INC",
+  "cik": "0000807863",
+  "summary": "Mitek Systems, Inc. is a global provider of digital identity verification and fraud prevention solutions. The company offers Mobile Deposit (enabling ~1.2 billion check transactions annually), Check Fraud Defender, Mobile Verify, and the MiVIP platform. Its technologies leverage AI, machine learning, computer vision, and biometric liveness detection to help over 7,000 organizations verify identities, prevent fraud, and comply with KYC and AML regulations across financial services, fintech, telecom, and digital commerce.",
+  "products": [
+    {
+      "name": "Mobile Deposit",
+      "type": "software",
+      "description": "Enables consumers to remotely deposit checks via smartphone using patented image capture technology, processing over one billion deposits annually."
+    },
+    {
+      "name": "Check Fraud Defender",
+      "type": "platform",
+      "description": "Cloud-hosted fraud mitigation service using neural networks and a financial industry data consortium to detect check fraud in real-time."
+    },
+    {
+      "name": "Mitek Verified Identity Platform (MiVIP)",
+      "type": "platform",
+      "description": "End-to-end KYC identity verification platform combining facial biometrics, liveness detection, document validation, and database checks."
+    },
+    {
+      "name": "Mobile Verify",
+      "type": "software",
+      "description": "Omnichannel identity document verification engine deployable across mobile, web, and desktop for forensic-grade document authentication."
+    },
+    {
+      "name": "ID R&D",
+      "type": "software",
+      "description": "Biometric authentication and passive liveness detection technology supporting multimodal authentication and deepfake detection."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MITK/profile",
+  "origin": {
+    "leaf": "b759fe65ab7951b0d3311cde47e6e25d1056e47faf524f028ea6e4e1a2551326",
+    "parent": "b3f29926bab82926d5cfc7fea4ef229fe046426b2e423146a4422faf8c3f9224",
+    "timestamp": "2026-04-12T03:12:56.260Z",
+    "source": "profile:0000807863",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b759fe65ab7951b0d3311cde47e6e25d1056e47faf524f028ea6e4e1a2551326",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.260Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

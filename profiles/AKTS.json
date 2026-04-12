@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AKTS",
+  "name": "Aktis Oncology, Inc.",
+  "cik": "0002035832",
+  "summary": "Aktis Oncology is a clinical-stage oncology company developing targeted radiopharmaceuticals using a proprietary miniprotein radioconjugate platform. Its lead candidate, [225Ac]Ac-AKY-1189, targets Nectin-4 and is in Phase 1b trials for locally advanced or metastatic urothelial cancer and other solid tumors. The company focuses on alpha-emitting radioisotopes, end-to-end supply chain development, and expanding radiopharmaceutical use beyond traditional nuclear medicine settings.",
+  "products": [
+    {
+      "name": "[225Ac]Ac-AKY-1189",
+      "type": "platform",
+      "description": "Lead miniprotein radioconjugate targeting Nectin-4, conjugated to actinium-225 alpha-emitting radioisotope, in Phase 1b trials for urothelial cancer and other Nectin-4 expressing solid tumors."
+    },
+    {
+      "name": "AKY-1189 imaging radioconjugate",
+      "type": "platform",
+      "description": "Imaging radioisotope conjugated to AKY-1189 miniprotein for patient selection and tumor visualization prior to therapeutic treatment."
+    },
+    {
+      "name": "Miniprotein Radioconjugate Platform",
+      "type": "platform",
+      "description": "Proprietary platform for discovering and developing precision radiopharmaceuticals using miniproteins of 40-70 amino acids to target solid tumors with alpha-emitting radioisotopes."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Multiple domestic and international isotope suppliers",
+      "partnership_type": "strategic",
+      "description": "Priority access agreements for actinium-225 supply to ensure supply chain continuity and redundancy.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Multiple contract manufacturers",
+      "partnership_type": "strategic",
+      "description": "Partnerships for drug product production to create redundancies across supply chain components.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AKTS/profile",
+  "origin": {
+    "leaf": "09bfa21ea1cd7be506178727589b19ad4aa218edb6e4a7cab6be2e4bde17e53a",
+    "parent": "d0cf96d589f7eb801e1d3958bf11c6ab73c88311ce2726e59f78beed1a047815",
+    "timestamp": "2026-04-12T03:12:56.007Z",
+    "source": "profile:0002035832",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/09bfa21ea1cd7be506178727589b19ad4aa218edb6e4a7cab6be2e4bde17e53a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.007Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

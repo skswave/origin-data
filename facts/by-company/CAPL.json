@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "CAPL",
+  "total_facts": 2,
+  "by_type": {
+    "topic_mention": 2
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAPL",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAPL",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CAPL/transcripts",
+  "origin": {
+    "leaf": "f5b057a2d257fb1cc7828b346f48b3bc4474551deb70674cef934af28f890d19",
+    "parent": "22c68618bdc669ff2529908d30bd160d96c5203f8d7fa46f37fa9d505ad37a38",
+    "timestamp": "2026-04-12T03:14:06.219Z",
+    "source": "facts:CAPL",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f5b057a2d257fb1cc7828b346f48b3bc4474551deb70674cef934af28f890d19",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:06.219Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

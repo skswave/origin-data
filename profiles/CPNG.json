@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CPNG",
+  "name": "Coupang, Inc.",
+  "cik": "0001834584",
+  "summary": "Coupang, Inc. is a technology and Fortune 150 company listed on the NYSE that provides retail, restaurant delivery, video streaming, and fintech services under brands including Coupang, Eats, Play, Rocket Now, and Farfetch. Operating in over 190 countries and territories, Coupang offers fast delivery, broad product selection, fresh groceries, luxury goods, digital entertainment, and payments, serving millions of customers primarily in Korea and internationally.",
+  "products": [
+    {
+      "name": "Coupang",
+      "type": "platform",
+      "description": "Online retail marketplace offering fast delivery, broad selection, and frictionless returns to consumers."
+    },
+    {
+      "name": "Coupang Eats",
+      "type": "service",
+      "description": "On-demand restaurant food delivery service."
+    },
+    {
+      "name": "Coupang Play",
+      "type": "service",
+      "description": "Video streaming entertainment service."
+    },
+    {
+      "name": "Rocket Now",
+      "type": "service",
+      "description": "Same-day or rapid delivery service with order cutoffs as late as midnight."
+    },
+    {
+      "name": "Farfetch",
+      "type": "platform",
+      "description": "Global luxury goods marketplace connecting customers with leading luxury brands direct-to-consumer."
+    },
+    {
+      "name": "WOW Membership",
+      "type": "service",
+      "description": "Subscription membership offering delivery benefits and service perks to customers."
+    },
+    {
+      "name": "Fulfillment and Logistics by Coupang (FLC)",
+      "type": "service",
+      "description": "Third-party fulfillment and logistics services offered to merchants in Korea."
+    },
+    {
+      "name": "Rocket Overseas",
+      "type": "service",
+      "description": "Cross-border commerce offering enabling SME partners to reach international customers, including in Taiwan."
+    },
+    {
+      "name": "Coupang Private Label Brand",
+      "type": "service",
+      "description": "Development and marketing of high-quality products under Coupang's own private label at affordable prices."
+    },
+    {
+      "name": "Coupang Advertising",
+      "type": "service",
+      "description": "Advertising solutions for suppliers and merchants on Coupang websites and mobile applications."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CPNG/profile",
+  "origin": {
+    "leaf": "88db1108e2d88fa90c52ef0b3f28f4e3ed946dbf17cd6ba68449286b58ed259e",
+    "parent": "89c50270aeb04a3be050692a7b0683b621101013e0ada1d4ad932649317f0006",
+    "timestamp": "2026-04-12T03:12:54.823Z",
+    "source": "profile:0001834584",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/88db1108e2d88fa90c52ef0b3f28f4e3ed946dbf17cd6ba68449286b58ed259e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.823Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

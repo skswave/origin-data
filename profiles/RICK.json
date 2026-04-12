@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RICK",
+  "name": "RCI HOSPITALITY HOLDINGS, INC.",
+  "cik": "0000935419",
+  "summary": "RCI Hospitality Holdings, Inc. (RICK) operates adult entertainment businesses and related hospitality services. The company manages adult nightclubs and related venues across multiple U.S. cities. It also has involvement in real estate transactions related to its operations. The filing references adult entertainment business operations, real estate, and compliance with SEC and Nasdaq requirements as key aspects of its business.",
+  "products": [
+    {
+      "name": "Adult Nightclub Operations",
+      "type": "service",
+      "description": "Operation and management of adult entertainment nightclub venues across U.S. cities."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RICK/profile",
+  "origin": {
+    "leaf": "bcd04d37e370dd1724ba2e37d53868ec13095b547b1ef9deb0f18c928307542f",
+    "parent": "4178c964c34c4620d838cc1c9866cb0d4350f651eb022682881ea29f04cd23d8",
+    "timestamp": "2026-04-12T03:12:57.010Z",
+    "source": "profile:0000935419",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bcd04d37e370dd1724ba2e37d53868ec13095b547b1ef9deb0f18c928307542f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.010Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

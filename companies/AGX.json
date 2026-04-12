@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AGX",
+  "name": "ARGAN INC",
+  "cik": "0000100591",
+  "exchange": "NYSE",
+  "sic": "1700",
+  "sic_description": "Construction - Special Trade Contractors",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1961",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0131",
+  "summary": "Argan, Inc. is a Delaware-incorporated holding company operating primarily as an engineering and construction firm through three subsidiaries. Its Power segment provides full EPC services for power generation projects including natural gas, solar, wind, biomass, and biofuel facilities in the U.S., Ireland, and U.K. Its Industrial segment provides on-site construction and maintenance services in the U.S. Southeast. Its Teledata segment delivers power distribution and communications network services in the Mid-Atlantic U.S.",
+  "tags": [
+    "power-generation-(natural-gas,-solar,-wind,-biomass,-biofuel)",
+    "industrial-construction-and-maintenance",
+    "teledata-and-communications-infrastructure",
+    "independent-power-producers",
+    "public-utilities",
+    "data-center-operators",
+    "state-and-federal-government-agencies",
+    "commercial-and-industrial-organizations"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AGX",
+  "origin": {
+    "leaf": "b136ff2b4efb6251f5455a7b7738d28e58391be4a42df118195b48a48720069b",
+    "parent": "986935fd089d4fa41d55820aaae9d2197f6930dfe81b712c5df830a047895915",
+    "timestamp": "2026-04-12T03:12:50.547Z",
+    "source": "0001104659-26-035216",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b136ff2b4efb6251f5455a7b7738d28e58391be4a42df118195b48a48720069b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.547Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

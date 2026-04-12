@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "RF",
+  "total_facts": 2,
+  "by_type": {
+    "topic_mention": 2
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "RF",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RF",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RF/transcripts",
+  "origin": {
+    "leaf": "02d354f2f65dccfcc5f0c533323a9265f694f1ed513b09aa3db62f8a2e37ce27",
+    "parent": "3904342548876d7005c221db1f9a3b458c532f1e4885414706031b81f26b3796",
+    "timestamp": "2026-04-12T03:13:14.765Z",
+    "source": "facts:RF",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/02d354f2f65dccfcc5f0c533323a9265f694f1ed513b09aa3db62f8a2e37ce27",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:14.765Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

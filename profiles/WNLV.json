@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WNLV",
+  "name": "Winvest Group Ltd",
+  "cik": "0001558740",
+  "summary": "Winvest Group Ltd (WNLV) is a Nevada corporation operating through wholly owned subsidiaries: The Catalyst Group Entertainment (TCG), a Beverly Hills-based film finance and production company seeking $6M-$24M to invest in global film, TV, and media projects; IQI Media, Inc., a California media company; and Billie Black Production LLC. TCG focuses on pre-sale distribution, tax incentive financing, and gap/mezzanine financing for film and entertainment projects.",
+  "products": [
+    {
+      "name": "Film Finance Services",
+      "type": "service",
+      "description": "Pre-sale distribution financing securing minimum guarantees and license fees for film and media projects."
+    },
+    {
+      "name": "Tax Incentive Financing",
+      "type": "service",
+      "description": "Financing secured by state government tax incentive programs for media productions, with 8-12% interest rates."
+    },
+    {
+      "name": "Gap/Mezzanine Financing",
+      "type": "service",
+      "description": "Financing secured by unsold territories for media projects, recouped after pre-sale loans within 12-18 months."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WNLV/profile",
+  "origin": {
+    "leaf": "b50ae980d9685d534954c566b8812d7396b9c8b594fd682cb9ac6521ce4e4236",
+    "parent": "c7bf1f1d0a3b45a930a0cde1696d27631afd036c67a8594ef072f74230c75610",
+    "timestamp": "2026-04-12T03:12:59.227Z",
+    "source": "profile:0001558740",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b50ae980d9685d534954c566b8812d7396b9c8b594fd682cb9ac6521ce4e4236",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.227Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

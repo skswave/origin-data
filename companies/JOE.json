@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "JOE",
+  "name": "ST JOE Co",
+  "cik": "0000745308",
+  "exchange": "NYSE",
+  "sic": "6552",
+  "sic_description": "Land Subdividers & Developers (No Cemeteries)",
+  "state_of_incorporation": "FL",
+  "headquarters": null,
+  "founded": "1936",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "The St. Joe Company is a diversified real estate development, asset management, and operating company incorporated in Florida in 1936. It owns approximately 165,000 acres in Northwest Florida and operates across three segments: residential (homesite development and sales), hospitality (hotels, Watersound Club, vacation rentals, marinas, food and beverage), and commercial (multi-family, senior living, self-storage, medical, office, retail, industrial leasing, and timber management). It also operates real estate brokerage, title insurance, and insurance agency businesses.",
+  "tags": [
+    "residential-real-estate",
+    "hospitality-and-tourism",
+    "commercial-real-estate",
+    "senior-living",
+    "timber-and-forestry",
+    "real-estate-brokerage-and-title-insurance",
+    "active-adult-communities"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 1131,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/JOE",
+  "origin": {
+    "leaf": "9f40bed48ed9614e99a3813507230ff147d8616d1cd230fa230907f6183f2540",
+    "parent": "817cd4592c1e2e688b845c4cfd67554a0d1c3985b94d81a43efca59b328591c9",
+    "timestamp": "2026-04-12T03:12:50.721Z",
+    "source": "0001104659-26-019676",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9f40bed48ed9614e99a3813507230ff147d8616d1cd230fa230907f6183f2540",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.721Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

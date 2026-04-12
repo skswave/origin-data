@@ -1,0 +1,66 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SENEB",
+  "name": "Seneca Foods Corp",
+  "cik": "0000088948",
+  "summary": "Seneca Foods Corporation, founded in 1949 and headquartered in Fairport, New York, is a leading provider of packaged fruits and vegetables operating 26 main U.S. facilities. The company manufactures canned, frozen, and jarred produce and snack chips, selling private label and branded products under names including Seneca, Libby's, Green Giant, Aunt Nellie's, CherryMan, and READ to retailers, foodservice distributors, industrial customers, and export markets in approximately 55 countries.",
+  "products": [
+    {
+      "name": "Canned Vegetables",
+      "type": "hardware",
+      "description": "Shelf-stable canned vegetables including sweet corn, peas, and green beans sold under private label and branded names."
+    },
+    {
+      "name": "Frozen Vegetables",
+      "type": "hardware",
+      "description": "Frozen vegetable products sold to retail, foodservice, and industrial customers."
+    },
+    {
+      "name": "Fruit Products",
+      "type": "hardware",
+      "description": "Canned and jarred fruit products sold under brands including Aunt Nellie's and CherryMan."
+    },
+    {
+      "name": "Snack Products",
+      "type": "hardware",
+      "description": "Snack chips sold under company-owned or licensed brand names."
+    },
+    {
+      "name": "Can and End Manufacturing",
+      "type": "hardware",
+      "description": "Steel cans and ends produced for internal use and sold to outside customers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "B&G Foods, Inc.",
+      "partnership_type": "licensing",
+      "description": "Perpetual, royalty-free license to manufacture, market, and sell Green Giant branded shelf-stable vegetable products in the U.S. and certain territories.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Libby's Brand Holding, Ltd.",
+      "partnership_type": "licensing",
+      "description": "Renewable trademark license for Libby's brand on shelf-stable, frozen, and thermally packaged vegetables, expiring aggregate in March 2081 with annual royalty payment.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SENEB/profile",
+  "origin": {
+    "leaf": "2349dd2f28590875422da59b5647ba2100c76b0aab8733d01aedcf36c0d11e20",
+    "parent": "665a36a404564a874046e3fe5040cf7383fd8b6b345d90b86f656bac851f4661",
+    "timestamp": "2026-04-12T03:12:56.036Z",
+    "source": "profile:0000088948",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2349dd2f28590875422da59b5647ba2100c76b0aab8733d01aedcf36c0d11e20",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.036Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

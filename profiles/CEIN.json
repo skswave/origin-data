@@ -1,0 +1,66 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CEIN",
+  "name": "CAMBER ENERGY, INC.",
+  "cik": "0001309082",
+  "summary": "Camber Energy, Inc. is a growth-oriented diversified company with interests in innovative technologies and custom energy solutions. Its portfolio includes a majority interest in a patented medical and bio-hazard waste treatment system using ozone technology, patented electric transmission and distribution broken conductor protection systems, a licensed clean energy and carbon-capture system, and a 49% interest in Simson-Maxwell Ltd., which provides custom energy and power solutions to commercial and industrial clients in North America.",
+  "products": [
+    {
+      "name": "VKIN-300 Medical and Bio-Hazardous Waste Pre-Treatment Unit",
+      "type": "hardware",
+      "description": "Patented ozone-based system for treating medical and biohazard waste as a sustainable alternative to incineration, chemical, autoclave, and heat treatment."
+    },
+    {
+      "name": "Broken Conductor Protection System (Transmission)",
+      "type": "hardware",
+      "description": "Patented system to detect breaks in electric transmission lines and immediately terminate power before the line reaches the ground."
+    },
+    {
+      "name": "Broken Conductor Protection System (Distribution)",
+      "type": "hardware",
+      "description": "Patented system to detect breaks in electric distribution lines and immediately terminate power, improving grid safety and reliability."
+    },
+    {
+      "name": "ESG Clean Energy and Carbon-Capture System",
+      "type": "hardware",
+      "description": "Licensed stationary electric power generation system with heat and carbon dioxide capture capability, based on bottoming cycle power technology."
+    },
+    {
+      "name": "Custom Energy and Power Solutions (Simson-Maxwell)",
+      "type": "service",
+      "description": "Custom energy and power solutions provided to commercial and industrial clients in North America through 49%-owned Simson-Maxwell Ltd."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "ESG Clean Energy, LLC",
+      "partnership_type": "licensing",
+      "description": "Exclusive Intellectual Property License Agreement granting Viking rights to ESG's patents for stationary electric power generation and carbon dioxide capture.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Laboratoire national de métrologie et d'essais (LNE)",
+      "partnership_type": "strategic",
+      "description": "French standards body conducting acceptance review and certification process for the VKIN-300 unit under French Standard NFX 30-503.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CEIN/profile",
+  "origin": {
+    "leaf": "d6203edbc5fff26a4cd3422f9b76180745d8b742cecdeda266bce540101b4e4f",
+    "parent": "329fb3143e901be6ae92c66a2574922fafc4b4d337c5697056c5f50562b5abcf",
+    "timestamp": "2026-04-12T03:12:58.590Z",
+    "source": "profile:0001309082",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d6203edbc5fff26a4cd3422f9b76180745d8b742cecdeda266bce540101b4e4f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.590Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

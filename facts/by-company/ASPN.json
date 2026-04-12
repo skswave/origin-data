@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "ASPN",
+  "total_facts": 2,
+  "by_type": {
+    "topic_mention": 2
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASPN",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASPN",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ASPN/transcripts",
+  "origin": {
+    "leaf": "353842a5d4e52ae9f6f640a7fe351853874dfa7016775005ee7ef6c41bff5d85",
+    "parent": "3eec8cd7eacac0017d613d66ee689343bc6de808b7196999e24bd6f2901a2fa8",
+    "timestamp": "2026-04-12T03:14:29.945Z",
+    "source": "facts:ASPN",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/353842a5d4e52ae9f6f640a7fe351853874dfa7016775005ee7ef6c41bff5d85",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:29.945Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

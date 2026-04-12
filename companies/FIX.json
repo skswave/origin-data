@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "FIX",
+  "name": "COMFORT SYSTEMS USA INC",
+  "cik": "0001035983",
+  "exchange": "NYSE",
+  "sic": "1731",
+  "sic_description": "Electrical Work",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Comfort Systems USA,Inc., a Delaware corporation, was established in 1997. We provide mechanical and electrical contracting services. Our mechanical segment principally includes heating, ventilation and air conditioning (HVAC), plumbing, piping and controls, as well as off-site construction, monitoring and fire protection. Our electrical segment includes installation and servicing of electrical systems. We build, install, maintain, repair and replace mechanical, electrical and plumbing (MEP) sys...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/FIX",
+  "origin": {
+    "leaf": "a7afc77a1108b614f48084bbf53799ad193215ea3b1f6314cb3477297f2fea0e",
+    "parent": "940de287ce8095665f3d6c994e5d5ce6d91c821b7272e9036829f14dfe97dd41",
+    "timestamp": "2026-04-12T03:12:50.346Z",
+    "source": "0001104659-26-017530",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a7afc77a1108b614f48084bbf53799ad193215ea3b1f6314cb3477297f2fea0e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.346Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

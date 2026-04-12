@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "IR",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "IR",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IR",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IR",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IR/transcripts",
+  "origin": {
+    "leaf": "c0fb2bbe2ddc6f3150fd01a244faf2200b40384e2c73a154f65322ca9be38f9b",
+    "parent": "6812a4a6dd7c3f9191d7d736d461424052d0b7bdb193ea798f43cfb93e09b607",
+    "timestamp": "2026-04-12T03:13:12.182Z",
+    "source": "facts:IR",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c0fb2bbe2ddc6f3150fd01a244faf2200b40384e2c73a154f65322ca9be38f9b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:12.182Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AXP",
+  "name": "AMERICAN EXPRESS CO",
+  "cik": "0000004962",
+  "summary": "American Express is a global payments and premium lifestyle company founded in 1850 and headquartered in New York. It operates card-issuing, merchant-acquiring, and card network businesses offering credit and charge cards, banking products, travel and dining services, and expense management solutions to consumers, small businesses, mid-sized companies, and large corporations worldwide. For 2025, worldwide billed business was $1,670 billion with 86.6 million proprietary cards-in-force.",
+  "products": [
+    {
+      "name": "Credit and Charge Cards",
+      "type": "service",
+      "description": "General purpose credit and charge cards for consumers, small businesses, mid-sized companies, and large corporations worldwide."
+    },
+    {
+      "name": "Membership Rewards",
+      "type": "platform",
+      "description": "Loyalty rewards program providing incentives and points redeemable with partners including Delta Air Lines and Amazon."
+    },
+    {
+      "name": "Amex Offers",
+      "type": "platform",
+      "description": "Targeted offers and statement credits for Card Members for purchases with merchant partners."
+    },
+    {
+      "name": "High Yield Savings and Checking Accounts",
+      "type": "service",
+      "description": "Banking products including high yield savings and business and consumer checking accounts."
+    },
+    {
+      "name": "Consumer Installment Loans",
+      "type": "service",
+      "description": "Non-card lending and installment loan products offered to consumers."
+    },
+    {
+      "name": "OptBlue",
+      "type": "platform",
+      "description": "Merchant-acquiring program enabling third parties to contract with small merchants for American Express card acceptance."
+    },
+    {
+      "name": "Resy and Tock",
+      "type": "platform",
+      "description": "Dining reservation platforms providing Card Members elevated dining experiences and restaurant network access."
+    },
+    {
+      "name": "Amex Travel App",
+      "type": "platform",
+      "description": "Digital travel application launched in 2025 to help Card Members engage with products, benefits, and travel services."
+    },
+    {
+      "name": "B2B Payment Products",
+      "type": "service",
+      "description": "Non-card business-to-business payment products and cash and expense management solutions for commercial clients."
+    },
+    {
+      "name": "Card Network Services",
+      "type": "platform",
+      "description": "Global payments network processing and settling transactions; licenses American Express brand to third-party issuers in ~110 countries."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Delta Air Lines",
+      "partnership_type": "strategic",
+      "description": "Largest strategic partner; cobrand card issuing, Membership Rewards participation, lounge access, and corporate payments.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Marriott International",
+      "partnership_type": "strategic",
+      "description": "Cobrand card issuing arrangement providing Card Member benefits and rewards.",
+      "start_date": null
+    },
+    {
+      "partner_name": "British Airways",
+      "partnership_type": "strategic",
+      "description": "Cobrand card issuing arrangement for Card Member benefits.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Hilton Worldwide Holdings",
+      "partnership_type": "strategic",
+      "description": "Cobrand card issuing arrangement providing Card Member benefits and rewards.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Amazon.com",
+      "partnership_type": "strategic",
+      "description": "Pay with Points integration allowing Card Members to redeem Membership Rewards points at Amazon checkout.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Coinbase",
+      "partnership_type": "strategic",
+      "description": "Third-party institution offering cards on the American Express network.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Credit Saison",
+      "partnership_type": "licensing",
+      "description": "Third-party financial institution issuing cards on the American Express network.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Emburse",
+      "partnership_type": "strategic",
+      "description": "Expense management integration partner for commercial customers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "SAP Concur",
+      "partnership_type": "strategic",
+      "description": "Expense management integration partner for business customers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Global Business Travel Group, Inc. (GBTG)",
+      "partnership_type": "strategic",
+      "description": "Equity investment and commercial arrangements for business travel-related services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Formula 1",
+      "partnership_type": "strategic",
+      "description": "Partnership providing experiences and entertainment benefits for Card Members.",
+      "start_date": null
+    },
+    {
+      "partner_name": "AEG Worldwide",
+      "partnership_type": "strategic",
+      "description": "Partnership providing experiences and entertainment benefits for Card Members.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AXP/profile",
+  "origin": {
+    "leaf": "68a91d7d3bce043c159d0c036468a9557cee899d94343fc969817625040d7e8f",
+    "parent": "0a7cba746130bb130eea946e85074e8d7424e83f11a0c9ce2fb373f947ede1cc",
+    "timestamp": "2026-04-12T03:12:54.693Z",
+    "source": "profile:0000004962",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/68a91d7d3bce043c159d0c036468a9557cee899d94343fc969817625040d7e8f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.693Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NVR",
+  "name": "NVR INC",
+  "cik": "0000906163",
+  "exchange": "NYSE",
+  "sic": "1531",
+  "sic_description": "Operative Builders",
+  "state_of_incorporation": "VA",
+  "headquarters": null,
+  "founded": "1980",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "NVR, Inc. is a Virginia-based homebuilder founded in 1980, operating as one of the largest in the United States. It constructs and sells single-family detached homes, townhomes, and condominiums under Ryan Homes, NVHomes, and Heartland Homes brands across 37 metropolitan areas in 16 states and Washington D.C. NVR also operates mortgage banking and title services through subsidiary NVR Mortgage Finance, Inc., originating loans exclusively for its homebuyers.",
+  "tags": [
+    "first-time-homebuyers",
+    "first-time-move-up-homebuyers",
+    "move-up-homebuyers",
+    "luxury-homebuyers",
+    "mortgage-banking-and-title-services",
+    "mid-atlantic-region",
+    "north-east-region",
+    "mid-east-region",
+    "south-east-region"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 6300,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NVR",
+  "origin": {
+    "leaf": "1f105bcdccf47f678f8b838ec19e8520456e8f4cbd4e825212c1ce826d099e01",
+    "parent": "9f112d1947e7ae6c90c1250bd38c182f1f699f240cb626952dfd5e157e017ef3",
+    "timestamp": "2026-04-12T03:12:50.426Z",
+    "source": "0000906163-26-000018",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1f105bcdccf47f678f8b838ec19e8520456e8f4cbd4e825212c1ce826d099e01",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.426Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

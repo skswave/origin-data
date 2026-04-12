@@ -1,0 +1,501 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "STX",
+  "company": "Seagate Technology Holdings plc",
+  "title": "STX Q2 FY2026 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2026",
+  "call_date": null,
+  "word_count": 11200,
+  "speakers": [
+    {
+      "name": "Mehdi Hosseini",
+      "title": "Analyst,   Susquehanna Financial Group LLLP",
+      "firm": "Susquehanna Financial Group L",
+      "speaker_type": "analyst",
+      "mention_count": 6
+    },
+    {
+      "name": "Relative",
+      "title": "I would say a lot of what the benefits we're seeing is  mix, and mix not just because we're actually transitioning into better product over time, but also because the  demand for those products is quite high",
+      "firm": "and mix not just because we're actually transitioning into better product over time",
+      "speaker_type": "other",
+      "mention_count": 6
+    },
+    {
+      "name": "Shanye",
+      "title": "Investor Relations & Treasury, Seagate  Technology Holdings Plc  William David Mosley  Board Chair & Chief Executive Officer, Seagate Technology   Holdings Plc  Gianluca Romano  Chief Financial Officer & Executive Vice President, Seagate Technology  Holdings Plc, Hudson  Senior Vice President",
+      "firm": "Seagate  Technology Holdings Plc  William David Mosley  Board Chair & Chief Executive Officer",
+      "speaker_type": "executive",
+      "mention_count": 5
+    },
+    {
+      "name": "Karl Ackerman",
+      "title": "Analyst, BNP Paribas Securities Corp.",
+      "firm": "BNP Paribas Securities",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Krish Sankar",
+      "title": "Analyst, TD Cowen  Steven B. Fox  Analyst, Fox Advisors LLC",
+      "firm": "Fox Advisors",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Shanye Hudson",
+      "title": "Senior Vice President - Investor Relations & Treasury, Seagate  Technology Holdings Plc  William David Mosley  Board Chair & Chief Executive Officer, Seagate Technology   Holdings Plc  Gianluca Romano  Chief Financial Officer & Executive Vice President, Seagate Technology  Holdings Plc",
+      "firm": "Seagate  Technology Holdings Plc  William David Mosley  Board Chair & Chief Executive Officer",
+      "speaker_type": "executive",
+      "mention_count": 4
+    },
+    {
+      "name": "C.J. Muse",
+      "title": "Analyst, Cantor Fitzgerald  Wamsi Mohan  Analyst, BofA Securities, Inc.",
+      "firm": "Cantor Fitzgerald  Wamsi Mohan  Analyst",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Aaron Rakers",
+      "title": "Analyst, Wells Fargo Securities LLC",
+      "firm": "Wells Fargo Securities",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Timothy Arcuri",
+      "title": "Analyst, UBS Securities LLC",
+      "firm": "UBS Securities",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Ananda Baruah",
+      "title": "Analyst, Loop Capital Markets LLC",
+      "firm": "Loop Capital Markets",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Vijay Raghavan Rakesh",
+      "title": "Analyst, Mizuho Securities USA LLC",
+      "firm": "Mizuho Securities USA",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Asiya Merchant",
+      "title": "Analyst, Citigroup Global Markets Canada, Inc.",
+      "firm": "Citigroup Global Markets Canada",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "James Edward Schneider",
+      "title": "Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    },
+    {
+      "name": "E rik W. Woodring",
+      "title": "Analyst, Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 14,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "STX gross margin",
+      "predicate": "reported",
+      "object": "$42.2 percent",
+      "value": 42.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "STX EPS",
+      "predicate": "reported",
+      "object": "$3.11",
+      "value": 3.11,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "STX",
+      "predicate": "guided",
+      "object": "expect March quarter revenue to be in a ran ge of $2.9 billion",
+      "value": 2.9,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "STX",
+      "predicate": "guided",
+      "object": "expected to be approximately $290 million",
+      "value": 290,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we expect to deliver early in the next  decade",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we anticipate these positive demand trends will  continue for some time",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we expect to begin accepting orders for  the first half of calendar year 2027 in the coming months",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we believe the stage is set for  a sustained and meaningful increase in data generated and stored that will support inferencing, continuous  training, and also ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "We expect to begin the ramp of Mozaic 4 late r this quarter and have  multiple CSPs qualified in the coming months, in line with our plans",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "We believe this foundation crea tes a  compelling long - term value proposition for the company, our customers, and our shareholders",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "We project the broader VIA market to grow over time, with the largest growth contribution coming  from VIA nearline products that are captured as part of our da",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we anticipate capital expenditures for fiscal year 2026  to be inside our target ran ge of 4% to 6% of revenue",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we expect  free cash flow generation to further expand in the March quarter, supported by sustained demand trends,  operational ef ficiencies and capital disci",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "We expect the net leverage ratio will trend lower as profitability and cash generation  increase, while we continue to evaluate opportunities to further reduce",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we expect data center demand will more than offset typical March quarter  seasonality in the Edge IoT market",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "We expect March quarter revenue to be in a ran ge of $2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we expect to deliver sequential improvement to both the top and bottom line  throughout calendar 2026, and remain in a strong position to enhance value for bot",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we expect revenue and  profitability to continue to improve sequentially every quarter",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we expect nearline  exabytes to grow in the mid 20%",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we expect to be a very good quarter",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we expect the 4 terabyte per platter HAMR drive to actually  maybe accelerate the cost down, given the ability to bring that into lower end other outside of ne",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we expect both revenue and profitability to improve sequentially; and of course, part of that is  coming from addit ional HAMR products",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "STX",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error   - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "Robotics",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "robotics"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STX",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/STX/transcripts",
+  "origin": {
+    "leaf": "072ccc65b88aa12fc4b8878312aeaa54887c16c55d2cf329260330f8138135f1",
+    "parent": "507b020f4b1189888b25d4fb1b0dd310127a70c70512a799a22849927b8d21583e9719aa9af268e3c026b1ddb8ef6ee2",
+    "timestamp": "2026-04-12T03:13:01.224Z",
+    "source": "transcript:STX_CORRECTED-TRANSCRIPT_-Seagate-Technology-Holdings-Plc-STX-US-Q2-2026-Earnings-Call-27-January-2026-5_00-PM-ET.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/072ccc65b88aa12fc4b8878312aeaa54887c16c55d2cf329260330f8138135f1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.224Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

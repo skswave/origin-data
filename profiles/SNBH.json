@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SNBH",
+  "name": "SENTIENT BRANDS HOLDINGS INC.",
+  "cik": "0001358633",
+  "summary": "Sentient Brands Holdings Inc. (SNBH) is a Nevada-based product development and brand management company focused on luxury and premium consumer goods. Its primary product line, Oeuvre, is a luxury skincare collection comprising four products built on a proprietary botanical and gemstone complex. The company sells direct-to-consumer via e-commerce and through wholesale partners, targeting high-earning millennials and Gen Z consumers in the wellness and responsible luxury segments.",
+  "products": [
+    {
+      "name": "Oeuvre Artistry Collection",
+      "type": "hardware",
+      "description": "Luxury skincare line of four products (Purifying Exfoliator, Replenishing Facial Oil, Ultra-Nourishing Face Cream, Revitalizing Eye Cream) using proprietary OE Complex of botanicals and gemstones."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "American Industrial Group (AIG)",
+      "partnership_type": "strategic",
+      "description": "Exchange Agreement closed April 10, 2025 whereby subsidiary AIGFB acquires AIG assets in exchange for acquisition credits convertible to SNBH common stock.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SNBH/profile",
+  "origin": {
+    "leaf": "346862e5c753e85cd61f93dcf733d38d87246368903016892f8fc398573b7e19",
+    "parent": "79a5853e162dbd3813085e6d8e89fa06d55ae7e46e6fc72472c91ce250fa226b",
+    "timestamp": "2026-04-12T03:12:59.250Z",
+    "source": "profile:0001358633",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/346862e5c753e85cd61f93dcf733d38d87246368903016892f8fc398573b7e19",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.250Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

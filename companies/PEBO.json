@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PEBO",
+  "name": "PEOPLES BANCORP INC",
+  "cik": "0000318300",
+  "exchange": "Nasdaq",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "OH",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "of this Form 10-K. Peoples business could be adversely affected through events impacting third parties who perform significant operational services on behalf of Peoples. The third parties performing operational services for Peoples are subject to risks similar to those faced by Peoples relating to cybersecurity, breakdowns or failures of their own systems, or misconduct of their employees. Like many other community bank organizations, Peoples relies, in significant part, on a single vendor for t...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PEBO",
+  "origin": {
+    "leaf": "9cc14e1a6a11df1054eb1a93c1642fc838ba0355d5b83ce4ebe3e97c9bb04b6f",
+    "parent": "bddd63830d6f8378bcbf9e9488359a1bbfd2d0aae22270351319a303f1abdacc",
+    "timestamp": "2026-04-12T03:12:51.053Z",
+    "source": "0000318300-26-000099",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9cc14e1a6a11df1054eb1a93c1642fc838ba0355d5b83ce4ebe3e97c9bb04b6f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.053Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

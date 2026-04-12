@@ -1,0 +1,79 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NVR",
+  "name": "NVR INC",
+  "cik": "0000906163",
+  "summary": "NVR, Inc. is a Virginia-based homebuilder founded in 1980, operating as one of the largest in the United States. It constructs and sells single-family detached homes, townhomes, and condominiums under Ryan Homes, NVHomes, and Heartland Homes brands across 37 metropolitan areas in 16 states and Washington D.C. NVR also operates mortgage banking and title services through subsidiary NVR Mortgage Finance, Inc., originating loans exclusively for its homebuyers.",
+  "products": [
+    {
+      "name": "Ryan Homes",
+      "type": "service",
+      "description": "Single-family homes, townhomes and condos marketed to first-time and first-time move-up buyers in 37 metropolitan areas."
+    },
+    {
+      "name": "NVHomes",
+      "type": "service",
+      "description": "Homes marketed to move-up and luxury buyers in Delaware, New Jersey, Washington D.C., Baltimore and Philadelphia areas."
+    },
+    {
+      "name": "Heartland Homes",
+      "type": "service",
+      "description": "Homes marketed to move-up and luxury buyers in the Pittsburgh, PA metropolitan area."
+    },
+    {
+      "name": "NVR Mortgage Finance (NVRM)",
+      "type": "service",
+      "description": "Mortgage banking subsidiary originating loans exclusively for NVR homebuyers; also provides title insurance brokerage and title search services."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Fannie Mae (FNMA)",
+      "partnership_type": "strategic",
+      "description": "NVRM is an approved seller/servicer for FNMA mortgage loans.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Freddie Mac (FHLMC)",
+      "partnership_type": "strategic",
+      "description": "NVRM is an approved seller/servicer for FHLMC mortgage loans.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ginnie Mae (GNMA)",
+      "partnership_type": "strategic",
+      "description": "NVRM is an approved seller/issuer/servicer of GNMA mortgage loans.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Department of Veterans Affairs (VA)",
+      "partnership_type": "strategic",
+      "description": "NVRM is an approved seller/issuer/servicer of VA mortgage loans.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Federal Housing Administration (FHA)",
+      "partnership_type": "strategic",
+      "description": "NVRM is an approved seller/issuer/servicer of FHA mortgage loans.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NVR/profile",
+  "origin": {
+    "leaf": "341a7d1a3cb56ea4b3dd533823a6181522859e09b890ee0392efe4efeb1152d9",
+    "parent": "fac6b8a440559786f996730dbce02518b156dbde5004ba4302293312380b1746",
+    "timestamp": "2026-04-12T03:12:54.918Z",
+    "source": "profile:0000906163",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/341a7d1a3cb56ea4b3dd533823a6181522859e09b890ee0392efe4efeb1152d9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.919Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

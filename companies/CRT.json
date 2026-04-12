@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CRT",
+  "name": "CROSS TIMBERS ROYALTY TRUST",
+  "cik": "0000881787",
+  "exchange": "NYSE",
+  "sic": "6792",
+  "sic_description": "Oil Royalty Traders",
+  "state_of_incorporation": "TX",
+  "headquarters": "Spring, TX",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Cross Timbers Royalty Trust (CRT) is a royalty trust. Based on this filing excerpt, which is primarily a consent letter from petroleum engineering firm Miller and Lents, Ltd. authorizing use of their reserve report in CRT's Form 10-K, limited operational detail is provided. The trust is administered by XTO Energy Inc. and files annual reports with the SEC regarding its royalty interests.",
+  "tags": [
+    "royalty-trust",
+    "oil-and-gas"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CRT",
+  "origin": {
+    "leaf": "62cefbc58bdc1dc11b4a6edc6de4f290e30fefe30ea21640545b92b1eea37414",
+    "parent": "250415bb97b4cc0ad1083d6a4d9980fa0c0338ab3eac437cbf4f5e99e69444f3",
+    "timestamp": "2026-04-12T03:12:52.434Z",
+    "source": "0001193125-26-128448",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/62cefbc58bdc1dc11b4a6edc6de4f290e30fefe30ea21640545b92b1eea37414",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.434Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

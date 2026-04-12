@@ -1,0 +1,157 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "JAKK",
+  "name": "JAKKS PACIFIC INC",
+  "cik": "0001009829",
+  "summary": "JAKKS Pacific, Inc. is a multi-product line toy company that designs, produces, markets, sells, and distributes toys and consumer products including action figures, toy vehicles, dolls, costumes, ride-on products, outdoor activity toys, and kids furniture. The company licenses well-known IP from Disney, Nickelodeon, Nintendo, Sega, Marvel, and others, and sells through major retailers like Walmart and Target, with international sales of approximately $154.1 million in 2025.",
+  "products": [
+    {
+      "name": "Action Figures and Accessories",
+      "type": "hardware",
+      "description": "Licensed characters from Nintendo, Sonic the Hedgehog, The Simpsons, and proprietary brands like Creepy Crawlers."
+    },
+    {
+      "name": "Toy Vehicles",
+      "type": "hardware",
+      "description": "Includes Xtreme Power Dozer, Road Champs, Fly Wheels, and AirTitans inflatable remote-control dinosaur."
+    },
+    {
+      "name": "Dolls and Accessories",
+      "type": "hardware",
+      "description": "Small, large, fashion, and baby dolls based on Disney licenses and in-house brands like Perfectly Cute and KidTopia."
+    },
+    {
+      "name": "Foot-to-Floor Ride-On Products",
+      "type": "hardware",
+      "description": "Licensed from Bluey, Fisher-Price, Nickelodeon, and Hasbro; includes inflatable play environments and wagons."
+    },
+    {
+      "name": "Halloween and Everyday Costumes",
+      "type": "hardware",
+      "description": "Licensed and proprietary costumes for children, teens, and adults based on Super Mario, Harry Potter, Disney, and others."
+    },
+    {
+      "name": "Outdoor Activity Toys",
+      "type": "hardware",
+      "description": "Includes ReDo Skateboard Co., Sky Ball, SportsZone sport sets, and Wave Hoop under the Maui brand."
+    },
+    {
+      "name": "Kids Indoor/Outdoor Furniture",
+      "type": "hardware",
+      "description": "Activity trays, tables, room decor, and seasonal outdoor products based on Disney, Nickelodeon, and Hasbro licenses."
+    },
+    {
+      "name": "Board Games",
+      "type": "hardware",
+      "description": "Under JAKKS Wild Games brand, includes Temple Raider, K.O. Corral, and Galactic JAXX."
+    },
+    {
+      "name": "Role Play and Dress-Up Products",
+      "type": "hardware",
+      "description": "Based on Disney Frozen, Black & Decker, Disney Princess, Disney Encanto, and proprietary brands."
+    },
+    {
+      "name": "Private Label Products",
+      "type": "hardware",
+      "description": "Products developed exclusively for certain retail customers across various product categories."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Disney",
+      "partnership_type": "licensing",
+      "description": "Licenses multiple Disney properties including Frozen, Princess, Encanto, Moana 2, ILY 4EVER, Pixar, and Minnie Mouse.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Nickelodeon",
+      "partnership_type": "licensing",
+      "description": "Licenses Nickelodeon IP for ride-on products and indoor/outdoor furniture.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Nintendo",
+      "partnership_type": "licensing",
+      "description": "Licenses Nintendo characters for action figures and accessories.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Sega",
+      "partnership_type": "licensing",
+      "description": "Licenses Sonic the Hedgehog franchise for action figures and accessories.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Hasbro",
+      "partnership_type": "licensing",
+      "description": "Licenses Hasbro brands for costumes, ride-on products, and furniture.",
+      "start_date": null
+    },
+    {
+      "partner_name": "NBCUniversal",
+      "partnership_type": "licensing",
+      "description": "Licenses NBCUniversal IP including Minions and Universal's Wicked for costumes.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Microsoft",
+      "partnership_type": "licensing",
+      "description": "Licenses Microsoft's Halo brand for costumes.",
+      "start_date": null
+    },
+    {
+      "partner_name": "WarnerMedia",
+      "partnership_type": "licensing",
+      "description": "Licenses WarnerMedia properties including Harry Potter for costumes and products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Marvel",
+      "partnership_type": "licensing",
+      "description": "Licenses Marvel IP for product lines.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Netflix",
+      "partnership_type": "licensing",
+      "description": "Licenses Netflix IP for product lines.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Sony",
+      "partnership_type": "licensing",
+      "description": "Licenses Sony IP for product lines.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BBC (Bluey)",
+      "partnership_type": "licensing",
+      "description": "Licenses Bluey for foot-to-floor ride-on products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "PBS (Daniel Tiger's Neighborhood)",
+      "partnership_type": "licensing",
+      "description": "Licenses PBS's Daniel Tiger's Neighborhood for infant and pre-school toys.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/JAKK/profile",
+  "origin": {
+    "leaf": "a8cfc5fba09dcaad548b15de4f5dafde82cbfc9d12825ca321bc1f2311173671",
+    "parent": "fa2935d282c86859a4d9d593174b96719f10d5a3d4361f8c2f4e227823f06d10",
+    "timestamp": "2026-04-12T03:12:56.937Z",
+    "source": "profile:0001009829",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a8cfc5fba09dcaad548b15de4f5dafde82cbfc9d12825ca321bc1f2311173671",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.937Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

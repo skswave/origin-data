@@ -1,0 +1,46 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SRGZ",
+  "name": "Star Gold Corp.",
+  "cik": "0001401835",
+  "summary": "Star Gold Corp. is an exploration stage mineral company focused on acquiring and exploring precious metal deposit properties, primarily gold and silver, in the western United States. The Company's primary asset is the Longstreet Property in Nevada, comprising 142 mineral claims covering approximately 2,500 acres. It has no producing mines and conducts operations through independent contractors.",
+  "products": [
+    {
+      "name": "Longstreet Property",
+      "type": "service",
+      "description": "A mineral exploration property in Nevada comprising 142 claims covering approximately 2,500 acres, targeting gold and silver deposits."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Great Basin Resources, Inc.",
+      "partnership_type": "licensing",
+      "description": "Assigned 142 Longstreet claims to Star Gold; entitled to 3% NSR royalty and $12,000 annual advance royalty payment.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Clifford",
+      "partnership_type": "licensing",
+      "description": "Leases 5 mineral claims to Star Gold; entitled to 2% NSR royalty inclusive of the overall 3% NSR.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SRGZ/profile",
+  "origin": {
+    "leaf": "395bba33251973fa670f9fb59a37cffd05513d25218ee2141f623c1d1ba6a90b",
+    "parent": "f4d3b7dea589adf8fb45aec05704f0e5a1eb00681b4f1e9963db7c96d797d8c0",
+    "timestamp": "2026-04-12T03:12:58.120Z",
+    "source": "profile:0001401835",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/395bba33251973fa670f9fb59a37cffd05513d25218ee2141f623c1d1ba6a90b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.120Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

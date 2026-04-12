@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NKSH",
+  "name": "NATIONAL BANKSHARES INC",
+  "cik": "0000796534",
+  "exchange": "Nasdaq",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "VA",
+  "headquarters": "Blacksburg, Virginia",
+  "founded": "1986",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "National Bankshares, Inc. (NBI) is a Virginia-based financial holding company organized in 1986, operating primarily through its wholly-owned subsidiary The National Bank of Blacksburg (NBB). NBB offers retail and commercial banking services including loans, deposits, trust and wealth management, and debit/credit cards through 28 banking locations across southwest, western and central Virginia. NBI also owns National Bankshares Financial Services, Inc. (NBFS), which provides non-deposit investment and insurance products.",
+  "tags": [
+    "retail-banking",
+    "commercial-banking",
+    "wealth-management-and-trust-services",
+    "insurance-services",
+    "investment-services",
+    "small-and-mid-sized-business-banking",
+    "local-government-banking",
+    "non-profit-banking"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 257,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NKSH",
+  "origin": {
+    "leaf": "3721df7121e5b855d6a324d4401cd025fc968db19ba0bf4792d397c02066947c",
+    "parent": "d94563a0efb4672e19f0400065714eb63b7a7983e6fbd99757aa952bd6d1bae0",
+    "timestamp": "2026-04-12T03:12:51.832Z",
+    "source": "0001193125-26-128311",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3721df7121e5b855d6a324d4401cd025fc968db19ba0bf4792d397c02066947c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.832Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

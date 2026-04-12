@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LASR",
+  "name": "NLIGHT, INC.",
+  "cik": "0001124796",
+  "exchange": "Nasdaq",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "nLIGHT, Inc. designs, manufactures, and sells high-power semiconductor lasers, fiber lasers, fiber amplifiers, and beam combination and control systems. Products serve aerospace and defense (directed energy, laser sensing), industrial (cutting, welding, additive manufacturing), and microfabrication markets. The company operates two segments: Laser Products and Advanced Development, the latter focused on next-generation directed energy and laser sensing technologies for governmental agencies.",
+  "tags": [
+    "aerospace-and-defense",
+    "industrial",
+    "microfabrication"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LASR",
+  "origin": {
+    "leaf": "dd2255afc6893c78223e68b9c7aafb758a9de85447e03cedc5bd3d05b320563f",
+    "parent": "f77ca3ee147a89a7e032f13f73ef8118eecf7ba8723546cbd510f7253c2b62ab",
+    "timestamp": "2026-04-12T03:12:50.759Z",
+    "source": "0001124796-26-000012",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dd2255afc6893c78223e68b9c7aafb758a9de85447e03cedc5bd3d05b320563f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.759Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

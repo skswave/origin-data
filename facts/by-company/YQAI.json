@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "YQAI",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "YQAI",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "YQAI",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "YQAI",
+      "predicate": "discussed_in_filing",
+      "object": "Cloud Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cloud",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/YQAI/transcripts",
+  "origin": {
+    "leaf": "fd114d2a7c6801c0da267396664ef5447bf65f5879d6d6d221dd522da77bfef7",
+    "parent": "2fd28860e90276055f3d8287ab5ca81ea11ff0f6940cb56551779f65cc388894",
+    "timestamp": "2026-04-12T03:15:56.966Z",
+    "source": "facts:YQAI",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fd114d2a7c6801c0da267396664ef5447bf65f5879d6d6d221dd522da77bfef7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:15:56.966Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

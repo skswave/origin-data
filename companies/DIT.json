@@ -1,0 +1,58 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "DIT",
+  "name": "AMCON DISTRIBUTING CO",
+  "cik": "0000928465",
+  "exchange": "NYSE",
+  "sic": "5141",
+  "sic_description": "Wholesale-Groceries, General Line",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1986",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "AMCON Distributing Company, incorporated in Delaware in 1986 and listed on NYSE American (DIT), operates two segments: a wholesale distribution segment serving approximately 8,500 retail outlets in 34 states with over 20,000 consumer products including cigarettes, tobacco, candy, beverages, and groceries; and a retail health food segment operating 15 stores under Chamberlins Natural Foods, Akins Natural Foods, and Earth Origins Market banners throughout the Midwest and Florida.",
+  "tags": [
+    "wholesale-distribution-to-convenience-stores",
+    "wholesale-distribution-to-grocery-stores",
+    "wholesale-distribution-to-liquor-stores",
+    "wholesale-distribution-to-drug-stores",
+    "wholesale-distribution-to-tobacco-shops",
+    "natural-and-organic-retail-health-food",
+    "central-united-states",
+    "rocky-mountain-region",
+    "great-lakes-region",
+    "mid-south-region",
+    "mid-atlantic-region",
+    "midwest-retail",
+    "florida-retail"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/DIT",
+  "origin": {
+    "leaf": "b3ad40dd7d94a80f8b028eefc9a357094ed80fe37a63437d084102806f08b549",
+    "parent": "7d563ff9f873ce39ccf66345e3a63f279db8e78236320afa2112c8f627489b2b",
+    "timestamp": "2026-04-12T03:12:52.264Z",
+    "source": "0001104659-25-108504",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b3ad40dd7d94a80f8b028eefc9a357094ed80fe37a63437d084102806f08b549",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.264Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

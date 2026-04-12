@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SFBC",
+  "name": "Sound Financial Bancorp, Inc.",
+  "cik": "0001541119",
+  "exchange": "Nasdaq",
+  "sic": "6035",
+  "sic_description": "Savings Institution, Federally Chartered",
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Special Note Regarding Forward-Looking Statements Certain matters discussed in this Form 10-K constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements relate to our financial condition, results of operations, plans, objectives, future performance or business. Forward-looking statements are not statements of historical fact but are based on certain assumptions and are generally identified by use of the words \"believe...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SFBC",
+  "origin": {
+    "leaf": "5079954ef8082371bb9525c37883d71983846a95ce9c89b11f54fd6f89343050",
+    "parent": "d5c8e5ea85ab6d778bc1c254ace2113077fd8f2e0ff39c7678b558033dfde7fe",
+    "timestamp": "2026-04-12T03:12:52.198Z",
+    "source": "0001541119-26-000008",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5079954ef8082371bb9525c37883d71983846a95ce9c89b11f54fd6f89343050",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.198Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

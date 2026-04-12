@@ -1,0 +1,88 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "AMRN",
+  "total_facts": 5,
+  "by_type": {
+    "topic_mention": 5
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMRN",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMRN",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMRN",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMRN",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMRN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AMRN/transcripts",
+  "origin": {
+    "leaf": "499feb03e8d84a03473987c2e9417084ddd1f482d6b9126fbe2ac8318fa9a87f",
+    "parent": "ddbd6fbc2842e46729e99de032209fea56537ed054789b6c7180a7228a4a5741",
+    "timestamp": "2026-04-12T03:14:28.248Z",
+    "source": "facts:AMRN",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/499feb03e8d84a03473987c2e9417084ddd1f482d6b9126fbe2ac8318fa9a87f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:28.248Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

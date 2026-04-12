@@ -1,0 +1,70 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NMGX",
+  "name": "Nano Magic Inc.",
+  "cik": "0000891417",
+  "summary": "Nano Magic Inc. is a Delaware corporation that develops, commercializes, and markets nanotechnology-powered consumer and industrial cleaners and coatings. Products include lens and screen cleaners, anti-fog solutions, household and automotive cleaners, and protective coatings sold direct-to-consumer via e-commerce, big box retail, pharmacies, and through optical and industrial channels. The company manufactures products at its 29,220-square-foot facility in Madison Heights, Michigan, and retains a 30% interest in Applied Nanotech, Inc.",
+  "products": [
+    {
+      "name": "Lens and Screen Cleaners",
+      "type": "hardware",
+      "description": "Liquid and towelette formulations for cleaning eyeglasses, sunglasses, and electronic touchscreens."
+    },
+    {
+      "name": "Anti-Fog Solutions",
+      "type": "hardware",
+      "description": "Liquid and towelette anti-fog formulations for sport, safety, and industrial applications including scuba masks, ski goggles, and face shields."
+    },
+    {
+      "name": "Force Field Windshield Protection",
+      "type": "hardware",
+      "description": "Auto care coating creating a water-repellent protective barrier on windshields against rain, bugs, and salt."
+    },
+    {
+      "name": "Mar-Resistant and Stain-Resistant Coatings",
+      "type": "hardware",
+      "description": "Coatings for porcelain and ceramic surfaces such as toilets used in restaurants, cruise ships, casinos, and office buildings."
+    },
+    {
+      "name": "Clear Protective Coatings for Display Panels",
+      "type": "hardware",
+      "description": "Coatings for display panels and touchscreens to ease fingerprint removal, used in automotive and handheld devices."
+    },
+    {
+      "name": "Industrial Nano-Thin Glass and Ceramic Coatings",
+      "type": "hardware",
+      "description": "Coating liquids creating nano-thin, strongly-bound coatings on glass and ceramic surfaces for protection and easy cleaning."
+    },
+    {
+      "name": "Household and Automotive Cleaners",
+      "type": "hardware",
+      "description": "Consumer cleaning and protective coating products sold direct-to-consumer and in big box retail."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Canadian distributor (unnamed)",
+      "partnership_type": "strategic",
+      "description": "Distributor selling Nano Magic branded consumer products in Canada.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NMGX/profile",
+  "origin": {
+    "leaf": "4d936e4d6727603771304a0ceaf953bcd25cb8151cbebbb1586c83207512b621",
+    "parent": "bf936d45f16d05bbe3f0de5e6918982999dfcc83384cf23cbe0ab75823250b46",
+    "timestamp": "2026-04-12T03:12:59.935Z",
+    "source": "profile:0000891417",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4d936e4d6727603771304a0ceaf953bcd25cb8151cbebbb1586c83207512b621",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.935Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

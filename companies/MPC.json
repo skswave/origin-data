@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MPC",
+  "name": "Marathon Petroleum Corp",
+  "cik": "0001510295",
+  "exchange": "NYSE",
+  "sic": "2911",
+  "sic_description": "Petroleum Refining",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Marathon Petroleum Corporation (MPC) is an integrated downstream energy company operating through refining and midstream segments. MPC refines crude oil into products including gasoline (CBOB, CARBOB), ultra-low sulfur diesel, and other liquid hydrocarbons. Its midstream operations are conducted through MPLX LP, handling natural gas liquids, pipeline transportation, and storage. MPC trades on the NYSE under ticker MPC.",
+  "tags": [
+    "refining-and-petroleum-products",
+    "midstream-energy-(pipeline,-storage,-ngl-processing)",
+    "renewable-fuels",
+    "california-low-carbon-fuel-market",
+    "renewable-fuel-standard-(rfs)",
+    "california-low-carbon-fuel-standard-(lcfs)",
+    "carb-(california-air-resources-board)-standards",
+    "epa-regulations",
+    "osha-voluntary-protection-program-(vpp)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MPC",
+  "origin": {
+    "leaf": "d2df1a014111c9a76353cf61f13f15f1128aba6d08f8d177e4ae79b7849f6675",
+    "parent": "36e873ccb80b7c35391404b99d513d3886ca966e7c87ca51827e1b548121b0bd",
+    "timestamp": "2026-04-12T03:12:50.329Z",
+    "source": "0001510295-26-000009",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d2df1a014111c9a76353cf61f13f15f1128aba6d08f8d177e4ae79b7849f6675",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.329Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "SR",
+  "total_facts": 6,
+  "by_type": {
+    "topic_mention": 6
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "SR",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SR",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SR",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SR",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SR",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SR",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SR/transcripts",
+  "origin": {
+    "leaf": "2a7cf74975094f4ed0cb96f3de29ec96f65416f3e294b7b86ac25d15e4adb58a",
+    "parent": "64b90fe430a34816c9fd602e190bd77086fc4ff8ab88d6f7443264077728f2b5",
+    "timestamp": "2026-04-12T03:13:32.506Z",
+    "source": "facts:SR",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2a7cf74975094f4ed0cb96f3de29ec96f65416f3e294b7b86ac25d15e4adb58a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:32.506Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "CCK",
+  "total_facts": 8,
+  "by_type": {
+    "topic_mention": 8
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCK",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 35,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCK",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 35,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCK",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 35,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCK",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCK",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCK",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCK",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCK",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CCK/transcripts",
+  "origin": {
+    "leaf": "27111cb8ef2fdfd546b487f23aa724fa06fbe65f8c7fee8bef3935bc5d3a060c",
+    "parent": "33d05485afdcb1cbb03fa470472384e62c6f3b59eab625dc489aa57f0475af27",
+    "timestamp": "2026-04-12T03:13:21.818Z",
+    "source": "facts:CCK",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/27111cb8ef2fdfd546b487f23aa724fa06fbe65f8c7fee8bef3935bc5d3a060c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:21.818Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "PFSI",
+  "total_facts": 5,
+  "by_type": {
+    "topic_mention": 5
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "PFSI",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PFSI",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PFSI",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PFSI",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PFSI",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PFSI/transcripts",
+  "origin": {
+    "leaf": "6cd5b92aadf58b93993734e32779996f6ddad744c6eed4db5b0e6a913083e3f3",
+    "parent": "00c0f1916be1d69e836ba3d7b789be87381adc075e93b6341cfc2630c690b697",
+    "timestamp": "2026-04-12T03:13:35.134Z",
+    "source": "facts:PFSI",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6cd5b92aadf58b93993734e32779996f6ddad744c6eed4db5b0e6a913083e3f3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:35.134Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

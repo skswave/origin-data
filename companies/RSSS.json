@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "RSSS",
+  "name": "Research Solutions, Inc.",
+  "cik": "0001386301",
+  "exchange": "Nasdaq",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": "2006",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": "Research Solutions, Inc. is a vertical SaaS and AI company providing software platforms and services to research-intensive organizations. Its products include Article Galaxy (document delivery and entitlement management), Scite.ai (AI-powered literature search and citation analysis), Resolute.ai (advanced discovery tools), and a References management platform. The company also facilitates per-transaction sales of over 200 million STM journal articles and provides rights and permissions services for copyright compliance, including AI training use cases.",
+  "tags": [
+    "corporate-research-organizations",
+    "academic-institutions",
+    "government-research-agencies",
+    "life-sciences",
+    "individual-researchers",
+    "scientific,-technical,-and-medical-(stm)-content",
+    "cloud-based-saas-(multi-tenant)",
+    "web-service-apis",
+    "natural-language-processing-(nlp)",
+    "large-language-models-(llm)",
+    "generative-ai",
+    "retrieval-augmented-generation-(rag)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/RSSS",
+  "origin": {
+    "leaf": "7e3772157b529f8131ddad45fbc15806553d936cbd675ee25bcf3c0d690f1804",
+    "parent": "50fca39e3d4ece5046154ecdcbb35af9423b0405430f80706da68916098e7fb8",
+    "timestamp": "2026-04-12T03:12:52.347Z",
+    "source": "0001104659-25-091644",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7e3772157b529f8131ddad45fbc15806553d936cbd675ee25bcf3c0d690f1804",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.347Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

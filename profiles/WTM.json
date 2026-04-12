@@ -1,0 +1,66 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WTM",
+  "name": "WHITE MOUNTAINS INSURANCE GROUP LTD",
+  "cik": "0000776867",
+  "summary": "White Mountains Insurance Group, Ltd. is a Bermuda-based holding company engaged in opportunistic acquisitions in insurance, financial services, and related sectors. It operates through five segments: Ark/WM Outrigger (specialty property and casualty insurance and reinsurance), HG Global (municipal bond guarantee reinsurance), Kudu (capital solutions for asset and wealth management firms), Distinguished (specialty insurance distribution), and Other Operations including interests in Bamboo, MediaAlpha, PassportCard/DavidShield, BroadStreet, and Elementum.",
+  "products": [
+    {
+      "name": "Ark Specialty Insurance and Reinsurance",
+      "type": "service",
+      "description": "Niche insurance and reinsurance products including property, specialty, marine & energy, casualty, and accident & health through Lloyd's syndicates and Bermuda operations."
+    },
+    {
+      "name": "WM Outrigger Re",
+      "type": "service",
+      "description": "Collateralized reinsurance protection on Ark's Bermuda global property catastrophe excess of loss portfolio via segregated account structure."
+    },
+    {
+      "name": "HG Global Municipal Bond Guarantee Reinsurance",
+      "type": "service",
+      "description": "Municipal bond guarantee reinsurance conducted through HG Global Ltd. and its reinsurance subsidiary HG Re Ltd."
+    },
+    {
+      "name": "Kudu Capital Solutions",
+      "type": "service",
+      "description": "Capital solutions and minority stake investments for asset and wealth management firms through Kudu Investment Management, LLC."
+    },
+    {
+      "name": "Distinguished Programs",
+      "type": "service",
+      "description": "Specialty insurance distribution business operated through WM Phoenix Parent, L.P. and subsidiaries d/b/a Distinguished Programs."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Outrigger Re Ltd. third-party investors",
+      "partnership_type": "strategic",
+      "description": "Third-party investors provided capital alongside White Mountains in Outrigger Re Ltd. for the 2023, 2024, and 2025 underwriting years.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Lloyd's of London",
+      "partnership_type": "strategic",
+      "description": "Ark participates in Lloyd's market through ACML, providing underwriting capacity to Syndicates 4020 and 3902 and ACSN 3832.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WTM/profile",
+  "origin": {
+    "leaf": "b65a8a5c60a57e5eb7f25b892dea38db5931241c7dbc835fc8d53f3b6798f8fb",
+    "parent": "7ae6587adb6f612af25adb37c96ca7eeac486d781d6e59fbb59fa3fa66ea1a8d",
+    "timestamp": "2026-04-12T03:12:55.245Z",
+    "source": "profile:0000776867",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b65a8a5c60a57e5eb7f25b892dea38db5931241c7dbc835fc8d53f3b6798f8fb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.245Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

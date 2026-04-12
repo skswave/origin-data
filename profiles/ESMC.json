@@ -1,0 +1,116 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ESMC",
+  "name": "ESCALON MEDICAL CORP",
+  "cik": "0000862668",
+  "summary": "Escalon Medical Corp. is a Pennsylvania corporation that develops, manufactures, markets, and distributes medical devices for ophthalmic applications. Key products include A-Scan and B-Scan ultrasound devices, UBM high-frequency ultrasound, pachymeters, intraocular gases (C3F8 and SF6), disposable surgical packs for vitreoretinal surgery, and the AXIS Image Management system. Products are sold globally through independent sales representatives, distributors, and internal sales staff to medical institutions.",
+  "products": [
+    {
+      "name": "A-Scan",
+      "type": "hardware",
+      "description": "Ultrasound device measuring internal eye structures and distances, primarily used to calculate lens implant power."
+    },
+    {
+      "name": "B-Scan",
+      "type": "hardware",
+      "description": "Diagnostic ultrasound tool providing two-dimensional images of internal eye structures when media are opaque."
+    },
+    {
+      "name": "UBM (Ultrasound Biomicroscope)",
+      "type": "hardware",
+      "description": "High-frequency ultrasound device for detailed anterior segment imaging, used in glaucoma and tumor evaluation."
+    },
+    {
+      "name": "Pachymeter",
+      "type": "hardware",
+      "description": "Ultrasound-based device measuring corneal thickness for intraocular pressure calculation and refractive surgery planning."
+    },
+    {
+      "name": "Ispan Intraocular Gases (C3F8 and SF6)",
+      "type": "service",
+      "description": "Intraocular gases distributed for use as temporary tamponade in detached retina surgery."
+    },
+    {
+      "name": "Disposable Universal Gas Kit",
+      "type": "hardware",
+      "description": "Patented disposable kit delivering intraocular gas from canister to patient during vitreoretinal surgery."
+    },
+    {
+      "name": "Surgical Packs",
+      "type": "hardware",
+      "description": "Disposable surgical packs used in vitreoretinal surgery, including packs for injecting and extracting silicone oil."
+    },
+    {
+      "name": "AXIS Image Management",
+      "type": "software",
+      "description": "Web-based system managing ophthalmic diagnostic images from any device, modality, or location."
+    },
+    {
+      "name": "A-Scan",
+      "type": "hardware",
+      "description": "Ultrasound device measuring internal eye structures and distances, primarily used to calculate lens implant power."
+    },
+    {
+      "name": "B-Scan",
+      "type": "hardware",
+      "description": "Diagnostic ultrasound tool providing 2D images of internal eye structures through opaque media."
+    },
+    {
+      "name": "UBM (Ultrasound Biomicroscope)",
+      "type": "hardware",
+      "description": "High-frequency/high-resolution ultrasound device for detailed anterior segment evaluation including glaucoma and tumor assessment."
+    },
+    {
+      "name": "Pachymeter",
+      "type": "hardware",
+      "description": "Ultrasound-based device measuring corneal thickness for intraocular pressure calculation and refractive surgery screening."
+    },
+    {
+      "name": "Ispan Intraocular Gases",
+      "type": "hardware",
+      "description": "C3F8 and SF6 gases with disposable universal gas kit used as tamponade in detached retina surgery."
+    },
+    {
+      "name": "Surgical Packs",
+      "type": "hardware",
+      "description": "Disposable surgical packs for vitreoretinal surgery, including silicone oil injection and extraction."
+    },
+    {
+      "name": "AXIS Image Management",
+      "type": "software",
+      "description": "Web-based system managing ophthalmic diagnostic images from any device, modality, or location."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "AirGas, Inc.",
+      "partnership_type": "strategic",
+      "description": "Non-exclusive distribution agreement under which Escalon distributes AirGas intraocular gases in canisters.",
+      "start_date": null
+    },
+    {
+      "partner_name": "AirGas, Inc.",
+      "partnership_type": "strategic",
+      "description": "Non-exclusive distribution agreement for intraocular gases C3F8 and SF6 packaged in canisters.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ESMC/profile",
+  "origin": {
+    "leaf": "c5be8f8f035ef29924a77acc2d5f78015009a1bcbcdfb32d85ef61b7d8d901eb",
+    "parent": "156ac0c88888c054c8071c0ba956b1e2cd9831a7a6adaf749c7e137b6b5542c5",
+    "timestamp": "2026-04-12T03:12:59.121Z",
+    "source": "profile:0000862668",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c5be8f8f035ef29924a77acc2d5f78015009a1bcbcdfb32d85ef61b7d8d901eb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.121Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

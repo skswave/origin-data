@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CNET",
+  "name": "ZW Data Action Technologies Inc.",
+  "cik": "0001376321",
+  "summary": "ZW Data Action Technologies Inc. is a Nevada holding company operating through VIEs in China. It provides data-driven precision marketing services, internet advertising, and data analytics solutions to SMEs in China. Services include online advertising via its ChinaNet platform, big data analytics, blockchain-based marketing tools, and rural internet services. It operates through subsidiaries including Business Opportunity Online and Beijing CNET Online Advertising Co., Ltd.",
+  "products": [
+    {
+      "name": "ChinaNet Platform",
+      "type": "platform",
+      "description": "Online advertising and marketing platform targeting SMEs in China with precision marketing capabilities."
+    },
+    {
+      "name": "Big Data Analytics Services",
+      "type": "service",
+      "description": "Data analytics solutions providing targeted advertising and marketing insights to business clients."
+    },
+    {
+      "name": "Blockchain-Based Marketing Tools",
+      "type": "software",
+      "description": "Blockchain-enabled marketing tools designed to enhance transparency and efficiency in digital advertising."
+    },
+    {
+      "name": "Rural Internet Services",
+      "type": "service",
+      "description": "Internet and digital marketing services targeting rural markets in China."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CNET/profile",
+  "origin": {
+    "leaf": "f3859766b416e5023b378ac511cff6342c75bb5c19684f5138a2ba44e71f1b79",
+    "parent": "11ba9261d2ab103146fb7a5eb96670fcc0e8da479fe88c3cad6f6b3be97122e8",
+    "timestamp": "2026-04-12T03:12:59.019Z",
+    "source": "profile:0001376321",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f3859766b416e5023b378ac511cff6342c75bb5c19684f5138a2ba44e71f1b79",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.019Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

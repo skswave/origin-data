@@ -1,0 +1,81 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SHO",
+  "name": "Sunstone Hotel Investors, Inc.",
+  "cik": "0001295810",
+  "summary": "Sunstone Hotel Investors, Inc. is a Maryland-incorporated REIT that owns and asset-manages upper upscale and luxury hotels. As of December 31, 2025, the company owned 14 hotels comprising 6,999 rooms across 7 states and Washington, DC. Hotels are operated by third-party managers including Marriott, Hyatt, Four Seasons, Hilton, Montage, Sage, and Singh Hospitality under long-term management agreements, targeting convention, urban, and resort destinations.",
+  "products": [
+    {
+      "name": "Upper Upscale Hotel Portfolio",
+      "type": "service",
+      "description": "Ownership and asset management of upper upscale hotels in convention, urban, and resort destinations across the U.S."
+    },
+    {
+      "name": "Luxury Hotel Portfolio",
+      "type": "service",
+      "description": "Ownership and asset management of luxury hotels including independently operated Oceans Edge Resort & Marina."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Marriott International, Inc.",
+      "partnership_type": "strategic",
+      "description": "Third-party manager of six Sunstone hotels under long-term management agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Hyatt Hotels Corporation",
+      "partnership_type": "strategic",
+      "description": "Third-party manager of three Sunstone hotels under long-term management agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Four Seasons Hotels Limited",
+      "partnership_type": "strategic",
+      "description": "Third-party manager of one Sunstone hotel under a long-term management agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Hilton Worldwide Holdings Inc.",
+      "partnership_type": "strategic",
+      "description": "Third-party manager of one Sunstone hotel under a long-term management agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Montage North America, LLC",
+      "partnership_type": "strategic",
+      "description": "Third-party manager of one Sunstone hotel under a long-term management agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Sage Hospitality Group",
+      "partnership_type": "strategic",
+      "description": "Third-party manager of one Sunstone hotel under a long-term management agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Singh Hospitality, LLC (EOS Hospitality)",
+      "partnership_type": "strategic",
+      "description": "Third-party manager of one Sunstone hotel under a long-term management agreement.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SHO/profile",
+  "origin": {
+    "leaf": "899fe8c7f236d641bba2005023740f2cb465327fedfa8ee9b3bc92c0550976ab",
+    "parent": "1ddf3e2cfcf33cc3ba7643f842c59260a99679d72752d3b5926fe3c8760626e1",
+    "timestamp": "2026-04-12T03:12:55.741Z",
+    "source": "profile:0001295810",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/899fe8c7f236d641bba2005023740f2cb465327fedfa8ee9b3bc92c0550976ab",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.741Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

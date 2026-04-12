@@ -1,0 +1,80 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ARTW",
+  "name": "ARTS WAY MANUFACTURING CO INC",
+  "cik": "0000007623",
+  "summary": "Arts-Way Manufacturing Co., Inc. is a Delaware corporation founded in 1956, headquartered in Armstrong, Iowa. It operates two segments: Agricultural Products, manufacturing farm equipment including feed mills, manure spreaders, forage equipment, bale processors, sugar beet harvesters, and dirt work equipment sold under the Arts-Way brand through ~500 dealers in the US, Canada, Australia, Japan, and UK; and Modular Buildings, producing custom modular research facilities and animal containment buildings through subsidiary Arts-Way Scientific, Inc. in Monona, Iowa.",
+  "products": [
+    {
+      "name": "Feed Mills / Grinder Mixers",
+      "type": "hardware",
+      "description": "Stationary and portable hammer and roller mills for livestock feed processing and breweries."
+    },
+    {
+      "name": "Manure Spreaders (X Series)",
+      "type": "hardware",
+      "description": "Vertical beater spreaders with guillotine slop gate controls and optional Raven-powered automatic rate control."
+    },
+    {
+      "name": "Forage Equipment (2100 Series)",
+      "type": "hardware",
+      "description": "Forage boxes, bale processors, running gear, and dump boxes with 100% in-cab controls."
+    },
+    {
+      "name": "Bale Processors (TOP-SPREAD)",
+      "type": "hardware",
+      "description": "Patented loader-mounted spreader for round or square bales, attachable to skid steer, telehandler, or tractor."
+    },
+    {
+      "name": "Dirt Work Equipment",
+      "type": "hardware",
+      "description": "Single blade and folding land planes with patented floating hitch design, and standard or rear steer graders."
+    },
+    {
+      "name": "Sugar Beet Harvesting Equipment",
+      "type": "hardware",
+      "description": "12-row harvester with patented grab roll bed, automatic leveling system, and defoliator for sugar beet harvest."
+    },
+    {
+      "name": "Modular Research Buildings",
+      "type": "hardware",
+      "description": "Custom-designed modular buildings for animal containment and research laboratories, sold or leased to academic, government, and private research customers."
+    },
+    {
+      "name": "OEM Parts",
+      "type": "hardware",
+      "description": "Limited original equipment manufacturer parts supplied to leading agricultural industry manufacturers."
+    },
+    {
+      "name": "After-Market Service Parts",
+      "type": "service",
+      "description": "Replacement parts and support services for branded Arts-Way agricultural equipment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Raven",
+      "partnership_type": "OEM",
+      "description": "Raven-powered automatic rate control integrated into Arts-Way X Series manure spreaders for apron speed and slop gate control.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ARTW/profile",
+  "origin": {
+    "leaf": "d0416e6682e74a4a24affcafa437c970607b7d61901a4aea28a44627942fd7c6",
+    "parent": "6ce02ac5c101d65aac071e7ae0c8ce71b964851bd513c0f81c7afc3253f8cb2d",
+    "timestamp": "2026-04-12T03:12:58.485Z",
+    "source": "profile:0000007623",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d0416e6682e74a4a24affcafa437c970607b7d61901a4aea28a44627942fd7c6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.485Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

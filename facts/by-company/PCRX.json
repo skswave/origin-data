@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "PCRX",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "PCRX",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PCRX",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PCRX",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PCRX/transcripts",
+  "origin": {
+    "leaf": "67bdbd3af9a5f5af600d7e3b358b3e29738ab58b06cac0d161a662e1fddc5fab",
+    "parent": "ac93d17f47e76fa25c114a8dbacf1c7144b746ed2e9a33ef5a61116fa4e171d8",
+    "timestamp": "2026-04-12T03:14:02.836Z",
+    "source": "facts:PCRX",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/67bdbd3af9a5f5af600d7e3b358b3e29738ab58b06cac0d161a662e1fddc5fab",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:02.836Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

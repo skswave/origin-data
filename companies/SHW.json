@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SHW",
+  "name": "SHERWIN WILLIAMS CO",
+  "cik": "0000089800",
+  "exchange": "NYSE",
+  "sic": "5200",
+  "sic_description": "Retail-Building Materials, Hardware, Garden Supply",
+  "state_of_incorporation": "OH",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "The Sherwin-Williams Company granted Non-Employee Director Restricted Stock Units (RSUs) under its 2025 Equity and Incentive Compensation Plan, effective April 16, 2025. The filing describes the terms of RSU awards to non-employee board members, including vesting schedules, forfeiture conditions, dividend equivalents, and settlement in shares of Common Stock. No specific products or services of the company's core business are described in this exhibit.",
+  "tags": [
+    "equity-compensation",
+    "corporate-governance",
+    "section-409a-of-the-internal-revenue-code"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SHW",
+  "origin": {
+    "leaf": "28000e578475d3b57c9c81118b2fa3cb9fc4d544dcb6d7acc37c19409b35b772",
+    "parent": "28e4459c5ff9c3784750ea35c7929f8134c1e9f9cb10d04928660eece11b401d",
+    "timestamp": "2026-04-12T03:12:50.323Z",
+    "source": "0000089800-26-000008",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/28000e578475d3b57c9c81118b2fa3cb9fc4d544dcb6d7acc37c19409b35b772",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.323Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

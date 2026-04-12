@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "UFPI",
+  "name": "UFP INDUSTRIES INC",
+  "cik": "0000912767",
+  "exchange": "Nasdaq",
+  "sic": "2421",
+  "sic_description": "Sawmills & Planting Mills, General",
+  "state_of_incorporation": "MI",
+  "headquarters": "Grand Rapids, Michigan",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1227",
+  "summary": "UFP Industries, Inc. is a holding company headquartered in Grand Rapids, Michigan, with subsidiaries in the U.S., Mexico, Canada, Spain, India, and Australia. It designs, manufactures, and supplies products made from wood, wood and non-wood composites, and other materials across three segments: Retail Solutions (pressure-treated lumber, composite decking, siding), Packaging (structural packaging, pallets, protective packaging), and Construction (factory-built housing, site-built, commercial, concrete forming).",
+  "tags": [
+    "retail-(big-box-retailers,-independent-distributors,-two-step-distributors)",
+    "packaging-(building-materials,-durable-goods,-agricultural,-moving-and-storage,-heavy-equipment,-automotive)",
+    "construction-(factory-built-housing,-site-built,-commercial,-concrete-forming)",
+    "international-packaging-(mexico,-canada,-spain,-india,-australia)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/UFPI",
+  "origin": {
+    "leaf": "78ae4c5028be1045b2a0282bd8726943827adcfb279e71c6b58200eff9a9c7ed",
+    "parent": "ae7fe64d02e596352ad2aa85f5e22056d4c08c1fc5f3dea20bc56ee2760def06",
+    "timestamp": "2026-04-12T03:12:50.625Z",
+    "source": "0001104659-26-019567",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/78ae4c5028be1045b2a0282bd8726943827adcfb279e71c6b58200eff9a9c7ed",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.625Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

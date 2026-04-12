@@ -1,0 +1,75 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "JOE",
+  "name": "ST JOE Co",
+  "cik": "0000745308",
+  "summary": "The St. Joe Company is a diversified real estate development, asset management, and operating company incorporated in Florida in 1936. It owns approximately 165,000 acres in Northwest Florida and operates across three segments: residential (homesite development and sales), hospitality (hotels, Watersound Club, vacation rentals, marinas, food and beverage), and commercial (multi-family, senior living, self-storage, medical, office, retail, industrial leasing, and timber management). It also operates real estate brokerage, title insurance, and insurance agency businesses.",
+  "products": [
+    {
+      "name": "Residential Homesites",
+      "type": "service",
+      "description": "Development and sale of homesites in multiple communities, primarily to homebuilders."
+    },
+    {
+      "name": "Watersound Club",
+      "type": "service",
+      "description": "Exclusive membership club offering access to golf courses, beach club, and recreational amenities."
+    },
+    {
+      "name": "Hotel Portfolio",
+      "type": "service",
+      "description": "Portfolio of hotels ranging from luxury boutique properties to branded hotels in Northwest Florida."
+    },
+    {
+      "name": "Gulf-Front Vacation Rentals",
+      "type": "service",
+      "description": "Gulf-front vacation rental properties operated as part of the hospitality segment."
+    },
+    {
+      "name": "Commercial Leasing",
+      "type": "service",
+      "description": "Ownership, development, and leasing of multi-family, senior living, self-storage, medical, office, retail, and industrial properties."
+    },
+    {
+      "name": "Timber Management",
+      "type": "service",
+      "description": "Growing and selling pulpwood, sawtimber, and other timber products from land holdings."
+    },
+    {
+      "name": "Real Estate Brokerage",
+      "type": "service",
+      "description": "Real estate brokerage, title insurance agency, and insurance agency operations."
+    },
+    {
+      "name": "Latitude Margaritaville Watersound",
+      "type": "service",
+      "description": "Approximately 3,700-home active adult residential development operated through an unconsolidated joint venture."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "LMWS, LLC (Latitude Margaritaville Watersound JV)",
+      "partnership_type": "development",
+      "description": "Unconsolidated joint venture developing and selling homes in an approximately 3,700-home active adult residential community.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/JOE/profile",
+  "origin": {
+    "leaf": "24e9d230ba1c58e4fdf9a2826ad6a04e3c423eeec91bf211edad80149e285b0a",
+    "parent": "54b1451d7eeaaed2045719ded1ab9b07b20ff41662ba982b22cbfd304fcbe21f",
+    "timestamp": "2026-04-12T03:12:55.401Z",
+    "source": "profile:0000745308",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/24e9d230ba1c58e4fdf9a2826ad6a04e3c423eeec91bf211edad80149e285b0a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.401Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

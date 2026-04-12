@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ASII",
+  "name": "Accredited Solutions, Inc.",
+  "cik": "0001464865",
+  "summary": "Accredited Solutions, Inc. (ASII) is a Nevada corporation primarily operating through its Diamond Creek brand, which sells high alkaline (9.5pH) natural spring water in one gallon, one liter, and half liter bottles. The company distributes through Direct Store Delivery and direct-to-retail warehouse channels. Previously involved in CBD/hemp products and mining, it divested Good Hemp assets in February 2023 and rescinded its PXS acquisition in June 2023. As of December 31, 2023, the company had two employees.",
+  "products": [
+    {
+      "name": "Diamond Creek High Alkaline Water",
+      "type": "hardware",
+      "description": "9.5pH high alkaline natural spring water available in one gallon, one liter, and half liter bottles using a proprietary ionization process."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Paul Hervey",
+      "partnership_type": "strategic",
+      "description": "Joint venture for cultivating hemp on approximately 9 acres and 3,700 sq ft greenhouse in North Carolina (Olin Farms); ceased October 2021.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ASII/profile",
+  "origin": {
+    "leaf": "00f7f8c06718d0dac4d9c862bc7425595aaba806a3796868d3568983a509fc24",
+    "parent": "6a8a0d6acf2a6e5a3b839860f1806cfceb95959e11ad5006fea8d9d3f73a5ca5",
+    "timestamp": "2026-04-12T03:13:00.009Z",
+    "source": "profile:0001464865",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/00f7f8c06718d0dac4d9c862bc7425595aaba806a3796868d3568983a509fc24",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.009Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

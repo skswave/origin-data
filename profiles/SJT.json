@@ -1,0 +1,46 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SJT",
+  "name": "SAN JUAN BASIN ROYALTY TRUST",
+  "cik": "0000319655",
+  "summary": "San Juan Basin Royalty Trust (SJT) is a statutory trust that holds royalty interests in natural gas and oil properties located in the San Juan Basin. The trust generates income from these royalty interests and distributes proceeds to unit holders. Argent Trust Company serves as the trustee, and reserve evaluations are conducted by Cawley, Gillespie & Associates, Inc.",
+  "products": [
+    {
+      "name": "Royalty Trust Units",
+      "type": "service",
+      "description": "Units representing beneficial interest in oil and gas royalties from San Juan Basin properties, distributing income to unit holders."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Argent Trust Company",
+      "partnership_type": "strategic",
+      "description": "Serves as the trustee of the San Juan Basin Royalty Trust.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Cawley, Gillespie & Associates, Inc.",
+      "partnership_type": "strategic",
+      "description": "Petroleum consultants providing oil and gas reserve reports for the trust's SEC filings.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SJT/profile",
+  "origin": {
+    "leaf": "b4179ea062df440609f2965349d16291fa3f0fde30c74a20cab2c5d92eb01b7e",
+    "parent": "13a8057053ed1ec6d16b6008d9e38c7a911b35904ade78df54628e8d21bfb397",
+    "timestamp": "2026-04-12T03:12:56.949Z",
+    "source": "profile:0000319655",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b4179ea062df440609f2965349d16291fa3f0fde30c74a20cab2c5d92eb01b7e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.949Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "JKHY",
+  "name": "JACK HENRY & ASSOCIATES INC",
+  "cik": "0000779152",
+  "summary": "Jack Henry & Associates, Inc. is a financial technology company founded in 1976 that provides technology solutions to approximately 7,400 financial institutions, including community and regional banks and credit unions. The company offers core bank and credit union data processing systems, complementary payment solutions, information security, digital banking, and risk management products. It serves over 950 banks and approximately 715 credit unions with core platforms, plus over 5,710 non-core clients.",
+  "products": [
+    {
+      "name": "Core Bank Data Processing Systems",
+      "type": "platform",
+      "description": "Integrated core processing platforms for commercial banks supporting on-premise and private cloud environments."
+    },
+    {
+      "name": "Core Credit Union Data Processing Solutions",
+      "type": "platform",
+      "description": "Flagship core processing platform for credit unions of all sizes supporting on-premise and private cloud environments."
+    },
+    {
+      "name": "Complementary Financial Performance Solutions",
+      "type": "software",
+      "description": "Specialized solutions for financial performance, imaging, and payment processing for banks and credit unions."
+    },
+    {
+      "name": "Information Security and Risk Management Solutions",
+      "type": "service",
+      "description": "Products to protect mission-critical information assets and mitigate operational risks for financial institutions."
+    },
+    {
+      "name": "Retail Delivery Solutions",
+      "type": "software",
+      "description": "Retail delivery products enhancing service capabilities for banks and credit unions."
+    },
+    {
+      "name": "Online and Mobile Banking Solutions",
+      "type": "platform",
+      "description": "Digital and mobile functionality enabling financial institutions to offer convenience-driven services to accountholders."
+    },
+    {
+      "name": "Electronic Payment Solutions",
+      "type": "service",
+      "description": "Recurring electronic payment services typically offered on six-year contracts to financial institution clients."
+    },
+    {
+      "name": "Public Cloud-Native Solutions",
+      "type": "platform",
+      "description": "Long-term technology modernization offering providing greater flexibility, open integration, and speed to market."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/JKHY/profile",
+  "origin": {
+    "leaf": "7ae6eb12a5c8206c2e23d4872decbc33b7a8fec0d8039dc41f917ab2bd62000d",
+    "parent": "978684d8516b2d97965fd6a259b207f2a8cba58f5a937f48f23b99ba7f035ada",
+    "timestamp": "2026-04-12T03:12:55.015Z",
+    "source": "profile:0000779152",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7ae6eb12a5c8206c2e23d4872decbc33b7a8fec0d8039dc41f917ab2bd62000d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.015Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

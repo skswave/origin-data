@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ENBP",
+  "name": "ENB Financial Corp",
+  "cik": "0001437479",
+  "exchange": "OTC",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "PA",
+  "headquarters": "Ephrata, Pennsylvania",
+  "founded": "1881",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "ENB Financial Corp is a bank holding company headquartered in Ephrata, Lancaster County, Pennsylvania. Through its wholly owned subsidiary Ephrata National Bank (ENB), it provides commercial banking services including demand accounts, savings and time deposits, secured and unsecured commercial, real estate, and consumer loans. Additional services include trust and investment advisory through ENB Wealth Solutions, insurance through ENB Insurance, electronic funds transfer, ATMs, debit/credit cards, internet banking, mobile banking, and remote deposit capture to individuals and small-to-medium-sized businesses.",
+  "tags": [
+    "community-banking",
+    "personal-banking",
+    "small-to-medium-sized-business-banking",
+    "insurance",
+    "trust-and-investment-advisory",
+    "lancaster-county,-pennsylvania",
+    "lebanon-county,-pennsylvania",
+    "berks-county,-pennsylvania",
+    "cecil-county,-maryland",
+    "basel-iii"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 315,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ENBP",
+  "origin": {
+    "leaf": "26e0a960f4b701e032fc391e5b56b0925d2b04574d92c47da983f3dae8966d40",
+    "parent": "3052bac95672d421f4df525a03814c4f0eea85a58e4e881598e195b9b3b2165b",
+    "timestamp": "2026-04-12T03:12:52.077Z",
+    "source": "0001174947-26-000410",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/26e0a960f4b701e032fc391e5b56b0925d2b04574d92c47da983f3dae8966d40",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.077Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

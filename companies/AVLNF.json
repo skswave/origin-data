@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AVLNF",
+  "name": "Avalon Advanced Materials Inc.",
+  "cik": "0001362898",
+  "exchange": "OTC",
+  "sic": "1000",
+  "sic_description": "Metal Mining",
+  "state_of_incorporation": "Z4",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0831",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AVLNF",
+  "origin": {
+    "leaf": "8ea886f17180b17635c38d05ed944950aa9a8fb14987edf3767e1383f24fbfba",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:54.336Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8ea886f17180b17635c38d05ed944950aa9a8fb14987edf3767e1383f24fbfba",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.336Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

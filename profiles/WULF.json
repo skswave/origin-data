@@ -1,0 +1,79 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WULF",
+  "name": "TERAWULF INC.",
+  "cik": "0001083301",
+  "summary": "TeraWulf Inc. is a vertically integrated owner, developer, and operator of large-scale digital infrastructure in the United States, purpose-built for high-performance computing (HPC) workloads including AI, machine learning, and advanced cloud applications. The company operates two primary HPC campuses—Lake Mariner in Barker, New York and Abernathy in Texas—with 522 MW of contracted critical IT load, while also operating legacy bitcoin mining facilities. Long-term data center leases with credit-enhanced counterparties are its primary revenue model.",
+  "products": [
+    {
+      "name": "Lake Mariner Data Campus",
+      "type": "platform",
+      "description": "Flagship HPC campus in Barker, NY with 245 MW bitcoin mining and 18 MW critical IT HPC capacity, expandable to ~750 MW."
+    },
+    {
+      "name": "Abernathy HPC Campus",
+      "type": "platform",
+      "description": "Joint venture HPC campus in Abernathy, TX designed for 168 MW critical IT load, fully pre-leased to Fluidstack under a 25-year lease."
+    },
+    {
+      "name": "HPC Data Center Leasing",
+      "type": "service",
+      "description": "Long-term data center lease arrangements with base terms of 10–25 years, contractual escalators, and renewal options for hyperscale and enterprise customers."
+    },
+    {
+      "name": "Bitcoin Mining Operations",
+      "type": "service",
+      "description": "Legacy bitcoin mining operations currently providing majority of revenue, being transitioned toward HPC hosting as primary business."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Core42",
+      "partnership_type": "strategic",
+      "description": "Long-term data center lease agreements for 60 MW of critical IT load at Lake Mariner; initial ten-year term with two five-year renewal options, signed December 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fluidstack",
+      "partnership_type": "strategic",
+      "description": "Data center lease agreements for 378 MW at Lake Mariner (Akela) and 168 MW at Abernathy, both supported by Google credit enhancement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Google",
+      "partnership_type": "strategic",
+      "description": "Provides credit support for Fluidstack's payment and performance obligations under the Akela and Abernathy Fluidstack Leases.",
+      "start_date": null
+    },
+    {
+      "partner_name": "New York Power Authority (NYPA)",
+      "partnership_type": "strategic",
+      "description": "Supplies 90 MW of high-load factor power to Lake Mariner Data Campus under a ten-year agreement executed February 2022.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fluidstack CS I Inc.",
+      "partnership_type": "strategic",
+      "description": "Joint venture partner in FS CS 1 LLC (Abernathy Joint Venture), holding 49.9% interest in the Abernathy HPC Campus development.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WULF/profile",
+  "origin": {
+    "leaf": "24a04aa04b822f263f6c5954b6674ca33cdf6f8f45cd9508d78bf0e07e542563",
+    "parent": "dfd71767ed1fb4144ff4641e3723887fe6b3eb89aa0f0c1e61106b7ae7b9f9fc",
+    "timestamp": "2026-04-12T03:12:55.192Z",
+    "source": "profile:0001083301",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/24a04aa04b822f263f6c5954b6674ca33cdf6f8f45cd9508d78bf0e07e542563",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.192Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

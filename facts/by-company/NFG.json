@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "NFG",
+  "total_facts": 6,
+  "by_type": {
+    "topic_mention": 6
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "NFG",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NFG",
+      "predicate": "discussed_in_filing",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "capex",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NFG",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NFG",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NFG",
+      "predicate": "discussed_in_filing",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "capex",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NFG",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NFG/transcripts",
+  "origin": {
+    "leaf": "855ae7f7d1e747c4bc0ab309ca8ca947b66e1011bf32a50e84b3eaa4bd536960",
+    "parent": "3fe5167061336d59a7319002d6a7e98ce50dce904f6de1c05e57f3182643667d",
+    "timestamp": "2026-04-12T03:13:24.744Z",
+    "source": "facts:NFG",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/855ae7f7d1e747c4bc0ab309ca8ca947b66e1011bf32a50e84b3eaa4bd536960",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:24.744Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

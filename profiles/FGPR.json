@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FGPR",
+  "name": "FERRELLGAS PARTNERS L P",
+  "cik": "0000922358",
+  "summary": "Ferrellgas Partners, L.P. is a propane distribution company that sells propane and other gas liquids to residential, industrial/commercial, and agricultural customers (retail sales), as well as to portable tank exchange customers and bulk wholesale buyers (wholesale sales). The company also sells bulk propane to third-party distributors and refined fuel. It operates through its subsidiary Ferrellgas, L.P. as the operating partnership, with Ferrellgas, Inc. serving as general partner.",
+  "products": [
+    {
+      "name": "Retail Propane Sales",
+      "type": "service",
+      "description": "Propane sold to residential, industrial/commercial, and agricultural end users."
+    },
+    {
+      "name": "Wholesale Propane Sales",
+      "type": "service",
+      "description": "Propane sold to portable tank exchange customers and bulk wholesale buyers."
+    },
+    {
+      "name": "Other Gas Sales",
+      "type": "service",
+      "description": "Bulk propane sold to third-party distributors or marketers and refined fuel sales."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FGPR/profile",
+  "origin": {
+    "leaf": "4fe20933d13081f994dd6f9360a558a42eeee7a0131da19f9e6e5a9d411ab355",
+    "parent": "d1be68df469bd5487df3ab0969dab3e2ac9cc8f3ab8ad6ef75dcb45fd1752b7b",
+    "timestamp": "2026-04-12T03:12:56.506Z",
+    "source": "profile:0000922358",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4fe20933d13081f994dd6f9360a558a42eeee7a0131da19f9e6e5a9d411ab355",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.506Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

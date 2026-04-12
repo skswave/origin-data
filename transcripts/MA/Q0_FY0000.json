@@ -1,0 +1,192 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "MA",
+  "company": "Mastercard Inc",
+  "title": "MA   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 6505,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "MA",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MA",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 17,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MA",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MA total revenue",
+      "predicate": "reported",
+      "object": "$8.8 billion",
+      "value": 8.8,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MA gross margin",
+      "predicate": "reported",
+      "object": "$55.8 percent",
+      "value": 55.8,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MA gross margin",
+      "predicate": "reported",
+      "object": "$57.7 percent",
+      "value": 57.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MA gross margin",
+      "predicate": "reported",
+      "object": "$57.6 percent",
+      "value": 57.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MA gross margin",
+      "predicate": "reported",
+      "object": "$59.2 percent",
+      "value": 59.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MA EPS",
+      "predicate": "reported",
+      "object": "$4.76",
+      "value": 4.76,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MA EPS",
+      "predicate": "reported",
+      "object": "$4.52",
+      "value": 4.52,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MA EPS",
+      "predicate": "reported",
+      "object": "$16.52",
+      "value": 16.52,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MA EPS",
+      "predicate": "reported",
+      "object": "$17.01",
+      "value": 17.01,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MA",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MA",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MA",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MA",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/MA/transcripts",
+  "origin": {
+    "leaf": "f2cf726468f86ad0d3309e91e97d6acfff6b682d8c865d13f5d998d4c893d026",
+    "parent": "e3a703e5bfb27b3247c46f9ca3f6e451a1d17a475dc4c20f02b3dada5323b8593695f6b76a67fb7450ba3aa7754760e6",
+    "timestamp": "2026-04-12T03:13:01.052Z",
+    "source": "transcript:MA_4Q25-Mastercard-Earnings-Release.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f2cf726468f86ad0d3309e91e97d6acfff6b682d8c865d13f5d998d4c893d026",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.052Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ALX",
+  "name": "ALEXANDERS INC",
+  "cik": "0000003499",
+  "exchange": "NYSE",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "DE",
+  "headquarters": "New York City, New York",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Alexander's, Inc. (ALX) is a Delaware-incorporated REIT managed by Vornado Realty Trust. The company owns five New York City properties totaling approximately 2.5 million square feet, including 731 Lexington Avenue (leased entirely to Bloomberg for office space), Rego Park I and II shopping centers, a Flushing retail building subleased to New World Mall LLC, and The Alexander apartment tower with 312 residential units.",
+  "tags": [
+    "commercial-office-real-estate",
+    "retail-real-estate",
+    "residential-real-estate",
+    "new-york-city-real-estate",
+    "leed-(leadership-in-energy-and-environmental-design)",
+    "well-health-safety-certification",
+    "global-reporting-initiative-(gri)",
+    "sustainability-accounting-standards-board-(sasb)",
+    "science-based-targets-initiative-(sbti)",
+    "gresb"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ALX",
+  "origin": {
+    "leaf": "bc0164b9898e0385a13575f458bf79cdbf73814a29a1ced3aefe680736389e4b",
+    "parent": "af20d8b4a3d6ccf2e13e17878fc0e3e5e6bc346751343b6a1270ad781a64d668",
+    "timestamp": "2026-04-12T03:12:51.045Z",
+    "source": "0000003499-26-000005",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bc0164b9898e0385a13575f458bf79cdbf73814a29a1ced3aefe680736389e4b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.045Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

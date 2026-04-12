@@ -1,0 +1,76 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "KINS",
+  "name": "KINGSTONE COMPANIES, INC.",
+  "cik": "0000033992",
+  "summary": "Kingstone Companies, Inc. is a multi-line regional property and casualty insurance holding company operating primarily through its wholly-owned subsidiary, Kingstone Insurance Company (KICO), a New York-domiciled carrier. KICO writes personal lines (homeowners, dwelling fire, cooperative/condominium, renters, personal umbrella), livery physical damage, and canine legal liability policies through retail and wholesale agents and brokers. In 2024, KICO was the 12th largest writer of homeowners insurance in New York, with 98% of direct written premiums from New York in 2025.",
+  "products": [
+    {
+      "name": "Homeowners Insurance",
+      "type": "service",
+      "description": "Personal lines homeowners policies written primarily in New York through retail and wholesale producers."
+    },
+    {
+      "name": "Dwelling Fire Insurance",
+      "type": "service",
+      "description": "Personal lines dwelling fire policies offered through appointed producers."
+    },
+    {
+      "name": "Cooperative/Condominium Insurance",
+      "type": "service",
+      "description": "Personal lines policies for cooperative and condominium unit owners."
+    },
+    {
+      "name": "Renters Insurance",
+      "type": "service",
+      "description": "Personal lines renters policies offered through appointed producers."
+    },
+    {
+      "name": "Personal Umbrella Insurance",
+      "type": "service",
+      "description": "Personal lines umbrella liability policies offered through appointed producers."
+    },
+    {
+      "name": "Livery Physical Damage Insurance",
+      "type": "service",
+      "description": "Physical damage-only policies for livery vehicles, car services, and taxicabs; no liability coverage included."
+    },
+    {
+      "name": "Canine Legal Liability Insurance",
+      "type": "service",
+      "description": "Specialty policies covering legal liability related to canine incidents."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "AmGuard",
+      "partnership_type": "strategic",
+      "description": "Renewal rights agreement to offer replacement homeowners policies to selected AmGuard policyholders in Downstate New York as AmGuard withdrew from admitted personal lines business.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ulster County, New York",
+      "partnership_type": "strategic",
+      "description": "Sale of headquarters building and adjacent mixed-use property in Kingston, NY for $3,600,000, closed March 19, 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/KINS/profile",
+  "origin": {
+    "leaf": "fba68745ff8b5bee6a59097804a32e0d642ce5b181695d42fdf100b2b06eae45",
+    "parent": "7f2d772222818b0d0b40ea6e032f05f1d4e0cdaa91acd88e2f5b6d091511dcdc",
+    "timestamp": "2026-04-12T03:12:56.981Z",
+    "source": "profile:0000033992",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fba68745ff8b5bee6a59097804a32e0d642ce5b181695d42fdf100b2b06eae45",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.981Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

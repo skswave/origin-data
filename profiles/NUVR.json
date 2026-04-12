@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NUVR",
+  "name": "Nuvera Communications, Inc.",
+  "cik": "0000071557",
+  "summary": "Nuvera Communications, Inc. is a diversified communications company headquartered in New Ulm, Minnesota, with over 120 years of experience. Operating through seven communications subsidiaries, Nuvera provides fiber-to-the-premise broadband (100 Mbps to 1 Gbps), VoIP voice services, IPTV and cable television, long-distance, private line, and Ethernet services to residential and business customers across southern Minnesota and northern Iowa, serving 34,843 data connections and 9,889 access lines as of December 31, 2025.",
+  "products": [
+    {
+      "name": "Fiber Internet (FTTP)",
+      "type": "service",
+      "description": "Gigabit-speed fiber-to-the-premise broadband offering speeds from 100 Mbps to 1 Gbps, priced $50-$200/month."
+    },
+    {
+      "name": "VoIP Phone Service",
+      "type": "service",
+      "description": "Hosted VoIP using soft switching technology with calling features, IP phones, and unified messaging."
+    },
+    {
+      "name": "IPTV",
+      "type": "service",
+      "description": "Internet protocol television service offered across multiple Minnesota communities and Aurelia, Iowa."
+    },
+    {
+      "name": "Cable Television (CATV)",
+      "type": "service",
+      "description": "Cable TV systems operated in multiple Minnesota cities including New Ulm, Hutchinson, and Savage."
+    },
+    {
+      "name": "Private Line and Ethernet Services",
+      "type": "service",
+      "description": "Commercial data connectivity including private line and Ethernet for point-to-point and multi-site networks."
+    },
+    {
+      "name": "Long-Distance Service",
+      "type": "service",
+      "description": "Connection of customers to long-distance service providers via local network access."
+    },
+    {
+      "name": "Managed Services",
+      "type": "service",
+      "description": "Managed communications services offered to business customers over the fiber-optic network."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Broadband Visions, LLC (BBV)",
+      "partnership_type": "strategic",
+      "description": "24.30% equity ownership; BBV provides video headend and Internet services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Independent Emergency Services, LLC (IES)",
+      "partnership_type": "strategic",
+      "description": "14.29% equity ownership; IES provides E-911 services to Minnesota and Wisconsin.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fiber Minnesota, LLC (FM)",
+      "partnership_type": "strategic",
+      "description": "7.63% equity ownership; FM operates a statewide Minnesota network for regional business connectivity.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NUVR/profile",
+  "origin": {
+    "leaf": "6f56defb681f33c07c3c2c933415748935abf32b09db276e3d54463053dbd7b4",
+    "parent": "e457191aaefa0d2611d32e974af9e8874056dac68862028f80ac9d7fe6818293",
+    "timestamp": "2026-04-12T03:12:57.613Z",
+    "source": "profile:0000071557",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6f56defb681f33c07c3c2c933415748935abf32b09db276e3d54463053dbd7b4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.613Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

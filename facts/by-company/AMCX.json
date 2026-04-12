@@ -1,0 +1,136 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "AMCX",
+  "total_facts": 9,
+  "by_type": {
+    "topic_mention": 9
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMCX",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMCX",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMCX",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMCX",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMCX",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMCX",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMCX",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMCX",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMCX",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AMCX/transcripts",
+  "origin": {
+    "leaf": "5a8fe4cb1326846f6f7711e0e32137f57761dfd3a6860566b21a1dd0475944fd",
+    "parent": "b37441851a48b5e4dd965e39cbaf9f43a50ef59f1121aa7e450e6f8ca18e6ed6",
+    "timestamp": "2026-04-12T03:14:28.270Z",
+    "source": "facts:AMCX",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5a8fe4cb1326846f6f7711e0e32137f57761dfd3a6860566b21a1dd0475944fd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:28.270Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

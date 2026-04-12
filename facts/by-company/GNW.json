@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "GNW",
+  "total_facts": 12,
+  "by_type": {
+    "topic_mention": 12
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "GNW",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GNW",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GNW",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GNW",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GNW",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GNW",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GNW",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GNW",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GNW",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GNW",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GNW",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GNW",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GNW/transcripts",
+  "origin": {
+    "leaf": "961b34b187246ea2cfbdd79f8a6d1b61356dc36930dfbe2cfbda77905c8d783d",
+    "parent": "3714b64ce9143ecde6836fd13d227f4b7c602e689ad51ffdd455e0e95b341a5c",
+    "timestamp": "2026-04-12T03:13:40.767Z",
+    "source": "facts:GNW",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/961b34b187246ea2cfbdd79f8a6d1b61356dc36930dfbe2cfbda77905c8d783d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:40.767Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

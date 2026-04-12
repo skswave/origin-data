@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "KOSS",
+  "name": "KOSS CORP",
+  "cik": "0000056701",
+  "summary": "Koss Corporation designs, manufactures, and sells stereo headphones and related accessory products. Founded in Delaware in 1971, the company sells through U.S. and international distributors, national retailers, grocery stores, electronics retailers, prisons, school systems, and directly to OEM manufacturers. Approximately 84% of fiscal year 2025 sales came from music-listening stereo headphones, with the remaining 16% from communications, education, metal detector, and OEM applications.",
+  "products": [
+    {
+      "name": "Stereo Headphones (Music)",
+      "type": "hardware",
+      "description": "Wired and Bluetooth stereo headphones for personal music listening, representing ~84% of fiscal 2025 sales."
+    },
+    {
+      "name": "Communication Headphones",
+      "type": "hardware",
+      "description": "Headphones used for telephone and internet communication purposes."
+    },
+    {
+      "name": "Education Headphones",
+      "type": "hardware",
+      "description": "Headphones sold to school systems and distributors for educational settings."
+    },
+    {
+      "name": "OEM Headphones",
+      "type": "hardware",
+      "description": "Headphones manufactured for inclusion with other manufacturers' products."
+    },
+    {
+      "name": "Metal Detector Headphones",
+      "type": "hardware",
+      "description": "Headphones designed for use in conjunction with metal detectors."
+    },
+    {
+      "name": "Bluetooth Headphones",
+      "type": "hardware",
+      "description": "Wireless Bluetooth headphones with ongoing R&D and new product introductions planned."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Various Asian manufacturers",
+      "partnership_type": "OEM",
+      "description": "Independent manufacturers in Asia produce complete stereo headphones to Koss specifications.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Independent manufacturers representatives",
+      "partnership_type": "strategic",
+      "description": "Contracted independent reps used as part of domestic and international distribution efforts.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Foreign independent distributors",
+      "partnership_type": "strategic",
+      "description": "Distributors in several foreign countries resell Koss products internationally.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/KOSS/profile",
+  "origin": {
+    "leaf": "fe324e7d614e0a1e41cc495a15ef33e3b6616e69af8c4ec666d3f2d671aecd17",
+    "parent": "7d49198fd636a94c1a4c268e597430214303070a29d04eec966bdd7b08fd104d",
+    "timestamp": "2026-04-12T03:12:58.002Z",
+    "source": "profile:0000056701",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fe324e7d614e0a1e41cc495a15ef33e3b6616e69af8c4ec666d3f2d671aecd17",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.002Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

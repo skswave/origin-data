@@ -1,0 +1,80 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PROV",
+  "name": "PROVIDENT FINANCIAL HOLDINGS INC",
+  "cik": "0001010470",
+  "summary": "Provident Financial Holdings, Inc. is a Delaware holding company for Provident Savings Bank, F.S.B., a federally chartered stock savings bank founded in 1956 and headquartered in Riverside, California. The Bank operates 13 full-service offices in the Inland Empire, offering community banking services including single-family, multi-family, and commercial real estate loans, deposit accounts, investment services, and trustee services for real estate transactions through its subsidiary Provident Financial Corp (PFC).",
+  "products": [
+    {
+      "name": "Single-family mortgage loans",
+      "type": "service",
+      "description": "First trust deed mortgage loans held for investment or sale, primarily fixed-rate."
+    },
+    {
+      "name": "Multi-family real estate loans",
+      "type": "service",
+      "description": "Loans secured by multi-family residential real estate properties."
+    },
+    {
+      "name": "Commercial real estate loans",
+      "type": "service",
+      "description": "Loans secured by commercial real estate properties."
+    },
+    {
+      "name": "Construction loans",
+      "type": "service",
+      "description": "Loans for construction of real estate properties."
+    },
+    {
+      "name": "Commercial business loans",
+      "type": "service",
+      "description": "Loans to small and mid-sized businesses."
+    },
+    {
+      "name": "Consumer loans",
+      "type": "service",
+      "description": "Consumer lending products offered by the Bank."
+    },
+    {
+      "name": "Deposit accounts",
+      "type": "service",
+      "description": "Federally insured deposit products for consumers and businesses in the Inland Empire."
+    },
+    {
+      "name": "Investment services",
+      "type": "service",
+      "description": "Investment services offered through the Bank's community banking operations."
+    },
+    {
+      "name": "Trustee services",
+      "type": "service",
+      "description": "Real estate transaction trustee services provided through subsidiary Provident Financial Corp (PFC)."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Federal Home Loan Bank of San Francisco",
+      "partnership_type": "strategic",
+      "description": "Bank has been a member since 1956, providing a source of funding.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PROV/profile",
+  "origin": {
+    "leaf": "755083b613556dc7456ae4908c2a34cd6e75ba69cbbe09b65b9a71b461025bfc",
+    "parent": "8f4c9e6898229a65995d978d2e3a840dad511ab69db975793bd8015a76eb636d",
+    "timestamp": "2026-04-12T03:12:57.398Z",
+    "source": "profile:0001010470",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/755083b613556dc7456ae4908c2a34cd6e75ba69cbbe09b65b9a71b461025bfc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.398Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WYY",
+  "name": "WIDEPOINT CORP",
+  "cik": "0001034760",
+  "summary": "WidePoint Corporation is a provider of Technology Management as a Service (TMaaS) offering federally certified communications management, identity management, telecom lifecycle management, digital billing and analytics, and IT as a Service. As one of two DoD-designated External Certificate Authorities, WidePoint provides multifactor authentication and digital certificates. It serves primarily U.S. federal government clients, with 77% of 2025 revenues from the DHS Cellular Wireless Managed Services 2.0 ID/IQ Contract, and also serves commercial enterprises.",
+  "products": [
+    {
+      "name": "Technology Management as a Service (TMaaS)",
+      "type": "platform",
+      "description": "Comprehensive mobility management, communications management, and identity management solution delivered via secure federal and enterprise portals."
+    },
+    {
+      "name": "Telecom Lifecycle Management",
+      "type": "service",
+      "description": "Hosted solution providing full visibility and management of telecom assets for public and private sector enterprises."
+    },
+    {
+      "name": "Mobile and Identity Management",
+      "type": "service",
+      "description": "Federally certified digital certificates and credentials enabling multifactor authentication for government and commercial customers."
+    },
+    {
+      "name": "Digital Billing and Unified Communications Analytics",
+      "type": "platform",
+      "description": "Interactive billing communications and analytics solutions for large communications service providers via a self-serve portal."
+    },
+    {
+      "name": "IT as a Service (ITaaS)",
+      "type": "service",
+      "description": "Comprehensive IT outsourcing including cybersecurity, cloud services, network operations, AI implementation, and Microsoft stack technologies."
+    },
+    {
+      "name": "Carrier Services",
+      "type": "service",
+      "description": "Procurement, processing, and payment of communications carrier invoices including phone, data, satellite, and mobile services."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Large Systems Integrators",
+      "partnership_type": "strategic",
+      "description": "WidePoint operates as subcontractor to large systems integrators pursuing large government and commercial market opportunities.",
+      "start_date": null
+    },
+    {
+      "partner_name": "GSA Alliant 2",
+      "partnership_type": "strategic",
+      "description": "Approved subcontractor for GSA Alliant 2 government-wide acquisition contract.",
+      "start_date": null
+    },
+    {
+      "partner_name": "GSA Enterprise Infrastructure Solutions (EIS)",
+      "partnership_type": "strategic",
+      "description": "Approved subcontractor for GSA EIS contract vehicle.",
+      "start_date": null
+    },
+    {
+      "partner_name": "GSA Connections II",
+      "partnership_type": "strategic",
+      "description": "Approved subcontractor for GSA Connections II contract vehicle.",
+      "start_date": null
+    },
+    {
+      "partner_name": "National Institutes of Health (CIO-SP3)",
+      "partnership_type": "strategic",
+      "description": "Approved subcontractor for NIH Chief Information Officer Solutions and Partners CIO-SP3 contract.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WYY/profile",
+  "origin": {
+    "leaf": "b886d06068b25c4da2d0f46bfcfb8ba3c58823060c0a19b86384dd119c79cb1b",
+    "parent": "43969b4814abfd919ea7fd63ba99df2df834817072cd2577136f2569d2f89025",
+    "timestamp": "2026-04-12T03:12:57.816Z",
+    "source": "profile:0001034760",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b886d06068b25c4da2d0f46bfcfb8ba3c58823060c0a19b86384dd119c79cb1b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.816Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

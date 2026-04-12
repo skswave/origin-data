@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "QRHC",
+  "name": "Quest Resource Holding Corp",
+  "cik": "0001442236",
+  "summary": "Quest Resource Holding Corporation is a national provider of waste and recycling management services to multi-location businesses across multiple industry sectors. The company creates customer-specific programs for collection, processing, recycling, disposal, and tracking of waste streams and recyclables including cardboard, pallets, metal, glass, motor oil, scrap tires, food waste, cooking oil, plastics, and construction debris. Quest serves big box retailers, grocers, transportation operators, manufacturers, automotive businesses, multifamily properties, restaurant chains, and construction projects, helping customers achieve sustainability and ESG goals while optimizing operational efficiencies and lowering costs.",
+  "products": [
+    {
+      "name": "Waste and Recycling Management Programs",
+      "type": "service",
+      "description": "Customer-specific programs for collection, processing, recycling, disposal, and tracking of waste streams and recyclables."
+    },
+    {
+      "name": "Invoice Auditing and Consolidation",
+      "type": "service",
+      "description": "Audits invoices, disallows unauthorized charges, and consolidates invoices, reporting, and remittance for customers."
+    },
+    {
+      "name": "Environmental Data Reporting",
+      "type": "service",
+      "description": "Tracks and reports detailed transactional and environmental results, providing actionable data for business operations and ESG reporting."
+    },
+    {
+      "name": "Antifreeze and Windshield Washer Fluid",
+      "type": "hardware",
+      "description": "Ancillary products offered alongside waste and recycling services."
+    },
+    {
+      "name": "Dumpster and Compacting Equipment",
+      "type": "hardware",
+      "description": "Equipment products offered as part of service offerings."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/QRHC/profile",
+  "origin": {
+    "leaf": "eaa49dfd2c218f1bc0e75e2a5e29ce706b22c23effd2f107fa6edd388ce82a59",
+    "parent": "33edbbb51fbd3e1227a1a7f196b1de0492541fb7ea5ef6cf77dd98a316f79090",
+    "timestamp": "2026-04-12T03:12:58.151Z",
+    "source": "profile:0001442236",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/eaa49dfd2c218f1bc0e75e2a5e29ce706b22c23effd2f107fa6edd388ce82a59",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.151Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

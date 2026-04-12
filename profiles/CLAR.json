@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CLAR",
+  "name": "Clarus Corp",
+  "cik": "0000913277",
+  "summary": "Clarus Corporation is a global designer, developer, manufacturer, and distributor of outdoor equipment and lifestyle products headquartered in Salt Lake City, Utah. The company operates through Outdoor and Adventure segments, selling products under the Black Diamond (climbing, skiing, mountain sports), Rhino-Rack (automotive roof racks), MAXTRAX (vehicle recovery tracks), TRED (off-road recovery gear), and RockyMounts (bicycle racks) brand names through specialty retailers, online channels, distributors, and OEMs worldwide.",
+  "products": [
+    {
+      "name": "Black Diamond Equipment",
+      "type": "hardware",
+      "description": "High-performance climbing, skiing, and mountain sports equipment including gear and apparel for outdoor enthusiasts."
+    },
+    {
+      "name": "Rhino-Rack",
+      "type": "hardware",
+      "description": "Aftermarket automotive roof racks, luggage carriers, shade awnings, kayak carriers, bike carriers, and load-securing accessories."
+    },
+    {
+      "name": "MAXTRAX",
+      "type": "hardware",
+      "description": "Vehicle recovery and extraction tracks, including the MAXTRAX MKII, manufactured in Australia from fiber-reinforced nylon."
+    },
+    {
+      "name": "TRED",
+      "type": "hardware",
+      "description": "High-quality outdoor and recovery gear for offroad, 4x4 automotive touring, camping and caravanning markets, made in Australia."
+    },
+    {
+      "name": "RockyMounts",
+      "type": "hardware",
+      "description": "Premium bicycle racks and accessories including roof and hitch rack solutions compatible with SUVs, vans, and trucks."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CLAR/profile",
+  "origin": {
+    "leaf": "5d4d0a8ed1e0c327f4ce6e66549c5c22524b6d76f35955021d82ade875b59b65",
+    "parent": "ea0e07804f80a05fa950d0c2f9e5e12c20ffcb87cf56da222c37eac71f7e948a",
+    "timestamp": "2026-04-12T03:12:57.393Z",
+    "source": "profile:0000913277",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5d4d0a8ed1e0c327f4ce6e66549c5c22524b6d76f35955021d82ade875b59b65",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.393Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

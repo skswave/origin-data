@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BOH",
+  "name": "BANK OF HAWAII CORP",
+  "cik": "0000046195",
+  "exchange": "NYSE",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Part I General Bank of Hawaii Corporation (Bank of Hawaii Corporation or the Parent) is a Delaware corporation and a bank holding company (BHC) headquartered in Honolulu, Hawaii. The Parents principal operating wholly-owned subsidiary, Bank of Hawaii (Bank of Hawaii or the Bank), was organized on December 17, 1897, and is chartered by the State of Hawaii. The Banks deposits are insured by the Federal Deposit Insurance Corporation (the FDIC) and the Bank is a member of the Federal Reserve System....",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BOH",
+  "origin": {
+    "leaf": "64af1e113a9a6684d36225a107bf8b243145d975004735859439e81cd9ce1084",
+    "parent": "4de6160f987b4a4b30cad033cdb92562853b1cd1448ea1756cd39ce221500cd5",
+    "timestamp": "2026-04-12T03:12:50.780Z",
+    "source": "0000046195-26-000015",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/64af1e113a9a6684d36225a107bf8b243145d975004735859439e81cd9ce1084",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.780Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

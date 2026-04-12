@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MCRI",
+  "name": "MONARCH CASINO & RESORT INC",
+  "cik": "0000907242",
+  "exchange": "Nasdaq",
+  "sic": "7011",
+  "sic_description": "Hotels & Motels",
+  "state_of_incorporation": "NV",
+  "headquarters": "Reno, Nevada",
+  "founded": "1993",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Monarch Casino & Resort Inc. owns and operates two hotel-casino properties: Atlantis Casino Resort Spa in Reno, Nevada, featuring ~61,000 sq ft of casino space, 817 hotel rooms, eight restaurants, and a spa; and Monarch Casino Resort Spa Black Hawk in Black Hawk, Colorado, featuring ~60,000 sq ft of casino space, 516 hotel rooms, four restaurants, and a spa. Revenue is generated through casino gaming, hotel, food and beverage, and spa operations.",
+  "tags": [
+    "casino-gaming",
+    "hotel-and-lodging",
+    "food-and-beverage",
+    "spa-and-wellness",
+    "convention-and-meeting-space",
+    "leisure-travel",
+    "convention-travel",
+    "local-gaming-residents"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MCRI",
+  "origin": {
+    "leaf": "00d13ba6aabe5f117ba6a4df623ce408d470eb87574b14629d1fd6e00ef6cea9",
+    "parent": "bffef490d9445ee461561e496af046be3f687e4c050c3e253e6de87f049afd10",
+    "timestamp": "2026-04-12T03:12:50.931Z",
+    "source": "0001104659-26-018717",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/00d13ba6aabe5f117ba6a4df623ce408d470eb87574b14629d1fd6e00ef6cea9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.931Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

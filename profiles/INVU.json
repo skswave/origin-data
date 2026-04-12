@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "INVU",
+  "name": "Investview, Inc.",
+  "cik": "0000862651",
+  "summary": "Investview, Inc. is a Nevada-based diversified company operating several business units: a direct-to-consumer (DTC) marketing platform via subsidiary Conectiv, LLC offering financial education tools, software, and health/wellness products through independent distributors; a proprietary over-the-counter aesthetics, health, nutrition, and cognitive wellness products division; an early-stage online retail brokerage platform; and a bitcoin mining operation focused on sustainable blockchain business.",
+  "products": [
+    {
+      "name": "Financial Education Membership",
+      "type": "service",
+      "description": "Membership-based access to financial education content, live/recorded sessions, trade alerts, debt reduction, budgeting, and tax management tools via Conectiv, LLC."
+    },
+    {
+      "name": "Health, Nutrition and Cognitive Wellness Products",
+      "type": "hardware",
+      "description": "Proprietary over-the-counter aesthetics, health, nutrition, and cognitive wellness products distributed via DTC platform and wholesale/retail markets."
+    },
+    {
+      "name": "Online Trading Platform",
+      "type": "platform",
+      "description": "Early-stage self-directed retail brokerage platform intended to offer online trading services."
+    },
+    {
+      "name": "Bitcoin Mining Operation",
+      "type": "platform",
+      "description": "Sustainable blockchain business unit that owns and operates bitcoin mining infrastructure, currently located in Northern Europe."
+    },
+    {
+      "name": "Apex Program",
+      "type": "service",
+      "description": "Program featuring a guaranteed assets buy-back product administered by third-party vendor Total Protection Plus."
+    },
+    {
+      "name": "ndau",
+      "type": "service",
+      "description": "Cryptocurrency product previously sold to customers, with associated asset buy-back guarantee through Total Protection Plus."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Total Protection Plus",
+      "partnership_type": "strategic",
+      "description": "Third-party vendor underwriting, managing, and administering a guaranteed assets buy-back product for Apex program and ndau customers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "DBR Capital",
+      "partnership_type": "strategic",
+      "description": "Affiliate of Chairman David B. Rothrock providing convertible notes financing to the Company since 2020.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/INVU/profile",
+  "origin": {
+    "leaf": "ba6905b13765dceea5e56b5bd1c6f97fba4df79594392a55b6b0ff5642f09951",
+    "parent": "d8a1900a10b1208e8e76c599d9dd9a3360d0342187ff30ac87a5061426b7fc35",
+    "timestamp": "2026-04-12T03:12:57.795Z",
+    "source": "profile:0000862651",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ba6905b13765dceea5e56b5bd1c6f97fba4df79594392a55b6b0ff5642f09951",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.795Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

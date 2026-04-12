@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CAPC",
+  "name": "CAPSTONE COMPANIES, INC.",
+  "cik": "0000814926",
+  "summary": "Capstone Companies, Inc. (CAPC) is a Florida corporation that was a designer, promoter, and licensor of consumer products aimed at simplifying daily living through technology. Its product history includes LED lighting products, Smart Mirror (Connected Surfaces), and the Connected Chef kitchen tablet. As of filing, CAPC has no revenue-generating operations and is pursuing a new business line, with a promissory note investment in e-mobility company eBliss Global, Inc.",
+  "products": [
+    {
+      "name": "Connected Chef",
+      "type": "hardware",
+      "description": "Purpose-built kitchen tablet with accessory platform for food prep, featuring Google Mobile Services including Playstore, voice assistant, and YouTube."
+    },
+    {
+      "name": "Connected Surfaces Smart Mirror",
+      "type": "hardware",
+      "description": "Smart mirror product line intended to replace declining LED lighting business; discontinued in 2024 after failing to achieve significant sales."
+    },
+    {
+      "name": "LED Lighting Products",
+      "type": "hardware",
+      "description": "Consumer LED lighting products integrated into commonly used home lighting; ceased promotion as primary business line in 2023."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "eBliss Global, Inc.",
+      "partnership_type": "strategic",
+      "description": "Promissory note issued March 3, 2026 to eBliss, an e-mobility/e-bike company, with a 90-day no-shop provision to explore potential transaction.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Coppermine Ventures, LLC",
+      "partnership_type": "strategic",
+      "description": "Maryland-based HFS operator that provided working capital to CAPC; Coppermine's managing member Alexander Jacobs became CEO and director in December 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "UK-based Licensee (unnamed)",
+      "partnership_type": "licensing",
+      "description": "Exclusive worldwide license agreement for Connected Chef signed March 21, 2025; terminated November 2025 after OEM refused production.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CAPC/profile",
+  "origin": {
+    "leaf": "1ddc8c4f37ad29b5a68a0e6ffc59f39e2566fa87a5f39f5a0e5f0bee97833e1d",
+    "parent": "f938eacc95dbafad256688335683b9a08883e3b2d38e1135fb074b20abebb0a9",
+    "timestamp": "2026-04-12T03:12:58.846Z",
+    "source": "profile:0000814926",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1ddc8c4f37ad29b5a68a0e6ffc59f39e2566fa87a5f39f5a0e5f0bee97833e1d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.846Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

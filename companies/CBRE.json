@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CBRE",
+  "name": "CBRE GROUP, INC.",
+  "cik": "0001138118",
+  "exchange": "NYSE",
+  "sic": "6500",
+  "sic_description": "Real Estate",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I . Company Overview CBRE is the worlds largest commercial real estate services and investments firm (based on 2025 revenue). We derive competitive advantage from our considerable scale and ability to offer integrated solutions for real estate investors and occupiers in more than 100 countries. We are global market leaders in most of our business lines and drive significant growth by helping clients optimize real estate costs, value, investment returns and workplace experiences. These capab...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 155000,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CBRE",
+  "origin": {
+    "leaf": "57962c05da0134636694278e16d8e48db84b4e2cb07e7333d354785d52ba6f13",
+    "parent": "0f10b84e03a4ba4c1812895c586b9daaa8de15a7b0ae645de3e36c086238f15f",
+    "timestamp": "2026-04-12T03:12:50.358Z",
+    "source": "0001138118-26-000005",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/57962c05da0134636694278e16d8e48db84b4e2cb07e7333d354785d52ba6f13",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.358Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

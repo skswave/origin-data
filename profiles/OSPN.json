@@ -1,0 +1,76 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "OSPN",
+  "name": "OneSpan Inc.",
+  "cik": "0001044777",
+  "summary": "OneSpan Inc. provides digital security and agreement solutions to global enterprises, including over 60% of the world's 100 largest banks. Its Cybersecurity segment offers multi-factor authentication, FIDO authentication, mobile app protection, and Digipass hardware tokens. Its Digital Agreements segment provides cloud-based e-signature (OneSpan Sign), notarization (OneSpan Notary), and identity verification solutions. The company processes over 100 million digital agreements and billions of authentication transactions annually across more than 120 countries.",
+  "products": [
+    {
+      "name": "Digipass",
+      "type": "hardware",
+      "description": "Hardware authenticator tokens, including newer FIDO2 Digipass devices, used for secure authentication."
+    },
+    {
+      "name": "OneSpan Sign",
+      "type": "platform",
+      "description": "Cloud-based e-signature solution for securing and automating digital agreement workflows."
+    },
+    {
+      "name": "OneSpan Notary",
+      "type": "service",
+      "description": "Cloud-based digital notarization solution for remote online notarization workflows."
+    },
+    {
+      "name": "OneSpan Identity Verification",
+      "type": "service",
+      "description": "Cloud-based identity verification solution integrated into digital agreement lifecycles."
+    },
+    {
+      "name": "S3 (FIDO software product)",
+      "type": "software",
+      "description": "Leading FIDO passwordless software authentication solution acquired via Nok Nok Labs acquisition."
+    },
+    {
+      "name": "Mobile Application Security SDKs",
+      "type": "software",
+      "description": "Software development kits for mobile app protection, including shielding and threat analytics."
+    },
+    {
+      "name": "Multi-Factor Authentication",
+      "type": "software",
+      "description": "Standards-based authentication software supporting FIDO, passkeys, and transaction signing."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "ThreatFabric Holding B.V.",
+      "partnership_type": "strategic",
+      "description": "Strategic investment and partnership for mobile threat intelligence, malware risk detection, and behavioral analytics announced October 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "MUFG Bank, Ltd.",
+      "partnership_type": "strategic",
+      "description": "MUFG led a $100 million revolving credit facility entered in June 2025 for general corporate purposes.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/OSPN/profile",
+  "origin": {
+    "leaf": "1c5a0fc23ae394be00bcf9c9705a45dc006a27c7e2500c73146fc43ca7b003ca",
+    "parent": "ee200bdb613d7c412d13d193b92f0431f195d724cae3dc8aad06c8edf98ff879",
+    "timestamp": "2026-04-12T03:12:56.516Z",
+    "source": "profile:0001044777",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1c5a0fc23ae394be00bcf9c9705a45dc006a27c7e2500c73146fc43ca7b003ca",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.516Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

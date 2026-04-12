@@ -1,0 +1,87 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CSBB",
+  "name": "CSB Bancorp, Inc.",
+  "cik": "0000880417",
+  "summary": "CSB Bancorp, Inc. is an Ohio-based financial holding company operating through its wholly owned subsidiary, The Commercial and Savings Bank (chartered 1879), and CSB Investment Services, LLC. The Bank provides retail and commercial banking services including checking and savings accounts, time deposits, IRAs, personal loans, commercial loans, real estate mortgage loans, installment loans, safe deposit facilities, brokerage, and trust services to customers in Holmes, Stark, Tuscarawas, Wayne, and surrounding Ohio counties.",
+  "products": [
+    {
+      "name": "Checking and Savings Accounts",
+      "type": "service",
+      "description": "Retail deposit accounts offered to individual and business customers."
+    },
+    {
+      "name": "Time Deposits and IRAs",
+      "type": "service",
+      "description": "Interest-bearing deposit products including certificates of deposit and individual retirement accounts."
+    },
+    {
+      "name": "Commercial Loans",
+      "type": "service",
+      "description": "Operating lines of credit and term loans to businesses secured by business assets."
+    },
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Loans secured by borrower-occupied business real estate, generally up to 80% loan-to-value."
+    },
+    {
+      "name": "Residential Real Estate Loans",
+      "type": "service",
+      "description": "Fixed and variable rate loans secured by borrower residences, up to 95% LTV with PMI."
+    },
+    {
+      "name": "Home Equity Lines of Credit",
+      "type": "service",
+      "description": "Variable-rate revolving credit lines secured by first or second mortgages on residences, up to 90% LTV."
+    },
+    {
+      "name": "Installment Loans",
+      "type": "service",
+      "description": "Consumer loans secured by RVs, automobiles, and other consumer assets, or unsecured."
+    },
+    {
+      "name": "Overdraft Protection Loans",
+      "type": "service",
+      "description": "Unsecured personal lines of credit for individuals with satisfactory credit histories."
+    },
+    {
+      "name": "Safe Deposit Facilities",
+      "type": "service",
+      "description": "Secure storage facilities available to bank customers."
+    },
+    {
+      "name": "Trust Services",
+      "type": "service",
+      "description": "Trust and fiduciary services offered through the Bank."
+    },
+    {
+      "name": "Brokerage Services",
+      "type": "service",
+      "description": "Investment brokerage services offered through the Bank and CSB Investment Services, LLC."
+    },
+    {
+      "name": "Insurance Services",
+      "type": "service",
+      "description": "Insurance products offered through CSB Investment Services, LLC, licensed in Ohio."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CSBB/profile",
+  "origin": {
+    "leaf": "28b645b2cc1a4209fd647e8b572bebb93009b1e10af3321b80b433891e96fe6d",
+    "parent": "24e3b9f0d945f4430db425660d10059623e2c5a6f62a3e5a270187dbadbc8720",
+    "timestamp": "2026-04-12T03:12:57.148Z",
+    "source": "profile:0000880417",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/28b645b2cc1a4209fd647e8b572bebb93009b1e10af3321b80b433891e96fe6d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.148Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

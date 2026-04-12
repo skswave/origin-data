@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AFRM",
+  "name": "Affirm Holdings, Inc.",
+  "cik": "0001820953",
+  "summary": "Affirm Holdings, Inc., founded in 2012, operates a next-generation payment network offering buy-now-pay-later and installment loan products. Its platform provides three core loan products: Pay-in-X (short-term 0% APR plans), 0% APR monthly installment loans, and interest-bearing monthly installment loans. Affirm also offers the Affirm Card (debit card) and virtual cards. As of June 30, 2025, it served approximately 377 thousand active merchants and facilitated $36.7 billion in GMV.",
+  "products": [
+    {
+      "name": "Pay-in-X",
+      "type": "service",
+      "description": "Short-term payment plans with one to four 0% APR installments for consumers at checkout."
+    },
+    {
+      "name": "0% APR Monthly Installment Loans",
+      "type": "service",
+      "description": "Zero-interest monthly installment loans facilitated through merchant partnerships."
+    },
+    {
+      "name": "Interest-Bearing Monthly Installment Loans",
+      "type": "service",
+      "description": "Simple-interest installment loans with rates based on transaction risk, creditworthiness, and loan terms."
+    },
+    {
+      "name": "Affirm Card",
+      "type": "platform",
+      "description": "Debit card allowing consumers to pay in full or apply to pay over time via the Affirm App."
+    },
+    {
+      "name": "Virtual Card",
+      "type": "service",
+      "description": "One-time-use virtual cards enabling consumers to shop with merchants not integrated with Affirm."
+    },
+    {
+      "name": "Affirm App",
+      "type": "platform",
+      "description": "Consumer-facing app enabling card management, purchase financing, and merchant discovery."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Originating bank partners",
+      "partnership_type": "strategic",
+      "description": "Banks that originate loans facilitated through Affirm's platform.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Card issuing bank partners",
+      "partnership_type": "strategic",
+      "description": "Banks that issue the Affirm Card and virtual cards on behalf of Affirm.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AFRM/profile",
+  "origin": {
+    "leaf": "044ef605f5a0155899f46280b17f7d391007903f862afea643bca6288bd3a30a",
+    "parent": "1afd04a918f61614edcdc0ec74f8601fee79093e9392e3473781502b193867fe",
+    "timestamp": "2026-04-12T03:12:54.949Z",
+    "source": "profile:0001820953",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/044ef605f5a0155899f46280b17f7d391007903f862afea643bca6288bd3a30a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.949Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

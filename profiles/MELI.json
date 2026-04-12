@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MELI",
+  "name": "MERCADOLIBRE INC",
+  "cik": "0001099590",
+  "summary": "MercadoLibre, Inc. is the leading online commerce and fintech ecosystem in Latin America. It operates the Mercado Libre Marketplace (e-commerce), Mercado Pago (digital payments and financial services), Mercado Envios (logistics), Mercado Ads (advertising), and Mercado Libre Classifieds. Present in 18 countries for e-commerce and 8 countries for fintech, it serves consumers and merchants with buying, selling, payments, credit, insurance, savings, and cryptocurrency services.",
+  "products": [
+    {
+      "name": "Mercado Libre Marketplace",
+      "type": "platform",
+      "description": "Online commerce platform for third-party and first-party sellers across 18 Latin American countries, accessible via mobile app or website."
+    },
+    {
+      "name": "Mercado Pago",
+      "type": "platform",
+      "description": "Fintech platform offering digital payments, POS devices, QR codes, credit cards, lending, insurance, savings, and cryptocurrency services."
+    },
+    {
+      "name": "Mercado Envios",
+      "type": "service",
+      "description": "Logistics solution including fulfillment centers, cross-docking, MELI Places, dedicated aircraft, trucks, and last-mile delivery for marketplace sellers."
+    },
+    {
+      "name": "Mercado Ads",
+      "type": "platform",
+      "description": "Advertising platform offering Product Ads, Brand Ads, Display Ads, and Video Ads to sellers and brands on- and off-platform."
+    },
+    {
+      "name": "Mercado Libre Classifieds",
+      "type": "platform",
+      "description": "Listings service for vehicles, properties, and services, charging placing fees only rather than final value fees."
+    },
+    {
+      "name": "Mercado Shops / Mi Página",
+      "type": "service",
+      "description": "Digital storefront solution for sellers; Mercado Shops migrated to Mi Página in January 2025 and was discontinued December 31, 2025."
+    },
+    {
+      "name": "Meli Dólar",
+      "type": "service",
+      "description": "Proprietary stablecoin available within Mercado Pago digital accounts in Brazil, Mexico, and Chile."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MELI/profile",
+  "origin": {
+    "leaf": "3ff855dc94a854c3543dbef0c952d0beca62e5cae2ac50e0384c8cc7a9cc14af",
+    "parent": "06b9e7abe92c6182f73287b6ec72f27a80af636e71c46b8887f51c01f1e9b094",
+    "timestamp": "2026-04-12T03:12:54.734Z",
+    "source": "profile:0001099590",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3ff855dc94a854c3543dbef0c952d0beca62e5cae2ac50e0384c8cc7a9cc14af",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.734Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

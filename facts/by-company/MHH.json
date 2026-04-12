@@ -1,0 +1,136 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "MHH",
+  "total_facts": 9,
+  "by_type": {
+    "topic_mention": 9
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "MHH",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MHH",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MHH",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MHH",
+      "predicate": "discussed_in_filing",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MHH",
+      "predicate": "discussed_in_filing",
+      "object": "Cloud Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cloud",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MHH",
+      "predicate": "discussed_in_filing",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MHH",
+      "predicate": "discussed_in_filing",
+      "object": "Cloud Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cloud",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MHH",
+      "predicate": "discussed_in_filing",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MHH",
+      "predicate": "discussed_in_filing",
+      "object": "Cloud Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cloud",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MHH/transcripts",
+  "origin": {
+    "leaf": "b5a3d3f947e5461d1c346b85e6be77bf5683188b11992fbcd51e071d435158d3",
+    "parent": "58708c191c55dbba1766ba5a35d50c8f11345364283a35ffd28b9a081798d5e8",
+    "timestamp": "2026-04-12T03:14:56.720Z",
+    "source": "facts:MHH",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b5a3d3f947e5461d1c346b85e6be77bf5683188b11992fbcd51e071d435158d3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:56.720Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

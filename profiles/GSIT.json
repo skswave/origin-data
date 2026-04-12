@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GSIT",
+  "name": "GSI TECHNOLOGY INC",
+  "cik": "0001126741",
+  "summary": "GSI Technology Inc. develops in-place associative computing solutions for AI and high-performance computing markets, including its Gemini APU (Associative Processing Unit) chip family supporting similarity search and Boolean processing. The company also manufactures high-speed synchronous SRAM products for networking, telecommunications, test and measurement, military/defense, aerospace, and space applications. GSI operates a fabless business model and serves OEM customers including KYEC and Nokia.",
+  "products": [
+    {
+      "name": "Gemini-I APU",
+      "type": "hardware",
+      "description": "First-generation associative processing unit in full production, supporting similarity search and compute-in-memory AI applications."
+    },
+    {
+      "name": "Gemini-II APU",
+      "type": "hardware",
+      "description": "Second-generation compute-in-memory chip with order-of-magnitude improved performance over Gemini-I, targeting general market in mid-2025."
+    },
+    {
+      "name": "APU2 (Next-Generation Associative Processing Unit-2)",
+      "type": "hardware",
+      "description": "Advanced non-Von-Neumann compute-in-memory IC developed for U.S. Space Force and Air Force applications."
+    },
+    {
+      "name": "High-Speed Synchronous SRAM",
+      "type": "hardware",
+      "description": "High-density synchronous SRAM products for networking, telecommunications, test and measurement equipment."
+    },
+    {
+      "name": "Radiation-Hardened SRAM",
+      "type": "hardware",
+      "description": "Space-grade radiation-tolerant and radiation-hardened SRAM for military/defense and aerospace markets."
+    },
+    {
+      "name": "APU Software Stack / Compiler",
+      "type": "software",
+      "description": "Integrated framework with APIs, libraries, and Python-supported compiler for customer programming of Gemini APU chips."
+    },
+    {
+      "name": "APU as-a-Service",
+      "type": "service",
+      "description": "Cloud-based APU access via Amazon Web Services, Azure, or Google Cloud Storage for similarity search and AI workloads."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Space Development Agency (U.S. Space Force)",
+      "partnership_type": "development",
+      "description": "SBIR Direct-to-Phase II award for APU2 development for space-based big data processing; milestone payments up to ~$1.25M.",
+      "start_date": null
+    },
+    {
+      "partner_name": "AFWERX / U.S. Air Force Research Laboratory",
+      "partnership_type": "development",
+      "description": "SBIR Direct-to-Phase II contract of $1.1M to develop compute-in-memory algorithms for Air Force AI applications.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Army",
+      "partnership_type": "development",
+      "description": "Potential DoD SBIR contract up to $250,000 to develop edge computing AI solutions using Gemini-II technology.",
+      "start_date": null
+    },
+    {
+      "partner_name": "KYEC",
+      "partnership_type": "OEM",
+      "description": "Long-term OEM customer for high-speed synchronous SRAM products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Nokia",
+      "partnership_type": "OEM",
+      "description": "Long-term OEM customer for high-speed synchronous SRAM products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Needham & Company, LLC",
+      "partnership_type": "strategic",
+      "description": "Hired as strategic and financial advisor for GSI's board-led strategic alternatives review process initiated May 2024.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GSIT/profile",
+  "origin": {
+    "leaf": "92c729c8d1a12a8cb04da185606d7f9f3f4872c9f21186f85fd71d02bf5d484f",
+    "parent": "b170f18c1d1b85020cce76f85f349519a09242d87b9f70d52dee15e607d66ef4",
+    "timestamp": "2026-04-12T03:12:57.052Z",
+    "source": "profile:0001126741",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/92c729c8d1a12a8cb04da185606d7f9f3f4872c9f21186f85fd71d02bf5d484f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.052Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

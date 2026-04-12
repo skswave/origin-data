@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "COHN",
+  "name": "Cohen & Co Inc.",
+  "cik": "0001270436",
+  "exchange": "NYSE",
+  "sic": "6211",
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Cohen & Co Inc. (COHN) is a financial services firm involved in asset management and capital markets activities. The company manages investment funds, including SPAC Series Funds, and acts as an asset manager and sponsor in SPAC (Special Purpose Acquisition Company) activities. It also engages in investments in SPAC entities and SPAC sponsor entities.",
+  "tags": [
+    "asset-management",
+    "capital-markets",
+    "spac-sponsorship-and-investment"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/COHN",
+  "origin": {
+    "leaf": "ee57ac574ef2c0c2931e06a8d589d83f2383dd4b8b887c6ed777416e5e3ecdee",
+    "parent": "a90d42d662f554080842a6b40ee2b70fcddf05970f42877661d1452ec69c0c23",
+    "timestamp": "2026-04-12T03:12:52.644Z",
+    "source": "0001437749-26-007157",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ee57ac574ef2c0c2931e06a8d589d83f2383dd4b8b887c6ed777416e5e3ecdee",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.644Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

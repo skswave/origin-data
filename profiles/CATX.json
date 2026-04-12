@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CATX",
+  "name": "Perspective Therapeutics, Inc.",
+  "cik": "0000728387",
+  "summary": "Perspective Therapeutics, Inc. (CATX) is a clinical-stage biopharmaceutical company focused on targeted alpha therapy (TAT) for cancer treatment. Its pipeline includes VMT-α-NET and VMT01 product candidates, which have received Fast Track designation from the FDA. The company also develops PSV359, a novel asset under an IND application. Perspective operates manufacturing subsidiaries Viewpoint Molecular Targeting, Inc. and Isoray Medical, Inc., and is building a regional network of drug product finishing facilities.",
+  "products": [
+    {
+      "name": "VMT-α-NET",
+      "type": "service",
+      "description": "Targeted alpha therapy product candidate with FDA Fast Track designation for cancer treatment."
+    },
+    {
+      "name": "VMT01",
+      "type": "service",
+      "description": "Targeted alpha therapy product candidate with FDA Fast Track designation for cancer treatment."
+    },
+    {
+      "name": "PSV359",
+      "type": "service",
+      "description": "Novel targeted alpha therapy asset under Investigational New Drug (IND) application seeking FDA Fast Track designation."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CATX/profile",
+  "origin": {
+    "leaf": "1dba23df06f1271cbc090f38c05390390b5571f4f1113561770b8614e758aabf",
+    "parent": "89f7d5e055c0b4df2b2cdfe40d68e9cb1889a5118e0e424e84a69715cc0b8ac2",
+    "timestamp": "2026-04-12T03:12:56.405Z",
+    "source": "profile:0000728387",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1dba23df06f1271cbc090f38c05390390b5571f4f1113561770b8614e758aabf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.405Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GHM",
+  "name": "GRAHAM CORP",
+  "cik": "0000716314",
+  "summary": "Graham Corporation is a global leader in design and manufacture of mission-critical fluid, power, heat transfer, and vacuum technologies for Defense, Energy & Process, and Space industries. Products include ejectors, surface condensers, turbomachinery, cryogenic pumps, heat exchangers, and turbopumps. Headquartered in Batavia, NY, with subsidiaries Barber-Nichols (CO), P3 Technologies (FL), GVHTT (China), and GIPL (India). Defense sales represent 58% of fiscal 2025 revenue; domestic sales 81%.",
+  "products": [
+    {
+      "name": "Surface Condensers",
+      "type": "hardware",
+      "description": "Custom-engineered condensers for Defense and Energy & Process markets"
+    },
+    {
+      "name": "Ejectors",
+      "type": "hardware",
+      "description": "Vacuum ejectors for Defense, oil refining, and chemical processing applications"
+    },
+    {
+      "name": "Turbomachinery",
+      "type": "hardware",
+      "description": "Specialty turbines, pumps, compressors, alternators for Defense, Space, and Energy markets"
+    },
+    {
+      "name": "Cryogenic Pumps",
+      "type": "hardware",
+      "description": "Pumps for cryogenic and space propulsion applications"
+    },
+    {
+      "name": "Heat Exchangers",
+      "type": "hardware",
+      "description": "Heat transfer equipment for Energy & Process industries"
+    },
+    {
+      "name": "Turbopumps",
+      "type": "hardware",
+      "description": "Rocket propulsion turbopumps and fuel pumps for Space applications"
+    },
+    {
+      "name": "Liquid Ring Pumps",
+      "type": "hardware",
+      "description": "Vacuum pumps for Energy & Process industry applications"
+    },
+    {
+      "name": "Drive Electronics",
+      "type": "hardware",
+      "description": "Electronics for thermal management systems in Defense applications"
+    },
+    {
+      "name": "Life Support Fans/Pumps/Blowers",
+      "type": "hardware",
+      "description": "Fluid and air movement equipment for space life support systems"
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GHM/profile",
+  "origin": {
+    "leaf": "89e1d1b878ed7b66be7251d8cdaf43d4e5f23a75e6039f851c16fe68da8adafd",
+    "parent": "7d2b4795a936810078ca005c7ec7fbad2c317bd8b626d7435ed92b3301199840",
+    "timestamp": "2026-04-12T03:12:56.075Z",
+    "source": "profile:0000716314",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/89e1d1b878ed7b66be7251d8cdaf43d4e5f23a75e6039f851c16fe68da8adafd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.075Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

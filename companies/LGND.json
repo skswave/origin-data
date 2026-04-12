@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LGND",
+  "name": "LIGAND PHARMACEUTICALS INC",
+  "cik": "0000886163",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Overview We are a biopharmaceutical royalty company focused on deploying capital and licensing technologies to acquire and create diversified royalty streams from high-value medicines. Our primary business is investing in and structuring royalty interests in mid- to late-stage development and commercial biopharmaceutical products, allowing us to generate long-duration, non-dilutive cash flows supported by a lean corporate cost structure. Capital deployment and technology licensing are the primar...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LGND",
+  "origin": {
+    "leaf": "2cd7f0fcc980c8343a7ba43ca567eda9800d31c98f6352515689686443a1c7b0",
+    "parent": "359296c870f4c61d3b08579d8b7ffb2640474b7a1a48e1d6df919408c44ec97f",
+    "timestamp": "2026-04-12T03:12:50.695Z",
+    "source": "0000886163-26-000006",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2cd7f0fcc980c8343a7ba43ca567eda9800d31c98f6352515689686443a1c7b0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.695Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

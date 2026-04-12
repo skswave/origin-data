@@ -1,0 +1,86 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BSFC",
+  "name": "Blue Star Foods Corp.",
+  "cik": "0001730773",
+  "summary": "Blue Star Foods Corp. is an international seafood company based in Miami, Florida that imports, packages, and sells refrigerated pasteurized crab meat and other premium seafood products. It operates through subsidiaries including Coastal Pride Seafood (crab meat from Mexico/Latin America), Taste of BC Aquafarms (land-based RAS steelhead salmon farming in Canada), and John Keeler & Co. (crab meat from Southeast Asia). Products are sold under brands including Blue Star, Oceanica, Pacifika, First Choice, Good Stuff, and Coastal Pride Fresh to food service wholesalers, retail establishments, and seafood distributors in the US and Canada.",
+  "products": [
+    {
+      "name": "Blue Star",
+      "type": "service",
+      "description": "Premium Portunus Pelagicus crab meat brand sold in the US under exacting quality specifications."
+    },
+    {
+      "name": "Pacifika",
+      "type": "service",
+      "description": "Value-oriented Portunus Haanii crab meat brand packed in China for price-conscious consumers."
+    },
+    {
+      "name": "Oceanica",
+      "type": "service",
+      "description": "Affordable Portunus Haanii crab meat brand sourced and processed in Vietnam."
+    },
+    {
+      "name": "Crab & Go Premium Seafood",
+      "type": "service",
+      "description": "Grab-and-go crab meat product packaged in flexible foil pouches, targeting millennials."
+    },
+    {
+      "name": "First Choice",
+      "type": "service",
+      "description": "Quality Portunus Haanii crab meat brand packed from Vietnam and China."
+    },
+    {
+      "name": "Good Stuff",
+      "type": "service",
+      "description": "Premium Callinectes species crab meat brand sourced from Mexico."
+    },
+    {
+      "name": "Coastal Pride Fresh",
+      "type": "service",
+      "description": "Fresh crab meat brand sold throughout North America by Coastal Pride Seafood LLC."
+    },
+    {
+      "name": "Little Cedar Farms",
+      "type": "service",
+      "description": "Brand for steelhead salmon and rainbow trout fingerlings produced by TOBC's RAS facility in Canada."
+    },
+    {
+      "name": "Lubkin Brand",
+      "type": "service",
+      "description": "Portunus Pelagicus crab meat packed in the Philippines and Indonesia."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Afritex Ventures, Inc.",
+      "partnership_type": "strategic",
+      "description": "90-day Master Services Agreement for operations/finance functions and inventory purchasing, effective February 1, 2024, expired August 31, 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Southeast Asia co-packing suppliers",
+      "partnership_type": "OEM",
+      "description": "Co-packing relationships with processors in Indonesia, Philippines, Thailand, Vietnam, Sri Lanka, and India for crab meat sourcing.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BSFC/profile",
+  "origin": {
+    "leaf": "d9db2f20b5b0689ff94c02f98883b14c17029f4269083cdd88b74c1fd0c4a74b",
+    "parent": "cc77c8542aa252e97648b71140d4f8f6dd8053c56a4595ad8f37c9f16e47e541",
+    "timestamp": "2026-04-12T03:12:59.296Z",
+    "source": "profile:0001730773",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d9db2f20b5b0689ff94c02f98883b14c17029f4269083cdd88b74c1fd0c4a74b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.296Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

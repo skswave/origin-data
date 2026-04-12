@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "STRL",
+  "name": "STERLING INFRASTRUCTURE, INC.",
+  "cik": "0000874238",
+  "exchange": "Nasdaq",
+  "sic": "1600",
+  "sic_description": "Heavy Construction Other Than Bldg Const - Contractors",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Sterling Infrastructure, Inc. (STRL) is a construction and infrastructure services company. It operates in segments serving residential home building markets and public/private infrastructure projects. Services include site development, underground utilities, and other construction-related work. The company bids on contracts across federal, state, and municipal markets and grows through acquisitions and organic expansion.",
+  "tags": [
+    "residential-home-building",
+    "federal-government-infrastructure",
+    "state-and-municipal-infrastructure",
+    "commercial-construction"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/STRL",
+  "origin": {
+    "leaf": "69443780429031ea0a6436f0c6204fe6f0e42a7847263e4279ef0d9b4b0c466a",
+    "parent": "5fbd5355f1cae1a7efc4fd611e3285d0ecee67e9583b8bed6af765a99e5ba834",
+    "timestamp": "2026-04-12T03:12:50.471Z",
+    "source": "0000874238-26-000024",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/69443780429031ea0a6436f0c6204fe6f0e42a7847263e4279ef0d9b4b0c466a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.471Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

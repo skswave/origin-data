@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AII",
+  "name": "American Integrity Insurance Group, Inc.",
+  "cik": "0002007587",
+  "summary": "American Integrity Insurance Group, Inc. is a property and casualty insurance company conducting substantially all of its business in Florida. The company writes homeowners insurance policies, pursues Citizens Property Insurance Corporation take-out opportunities, and distributes through independent insurance agents, homebuilder-affiliated agents, and national insurance carriers. It relies on reinsurance coverage and maintains claims management operations.",
+  "products": [
+    {
+      "name": "Homeowners Insurance",
+      "type": "service",
+      "description": "Property and casualty insurance policies for homeowners, primarily in Florida, distributed via independent and homebuilder-affiliated agents."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Citizens Property Insurance Corporation",
+      "partnership_type": "strategic",
+      "description": "Pursues take-out opportunities from Citizens, assuming policies from the Florida state-backed insurer.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Independent insurance agents",
+      "partnership_type": "strategic",
+      "description": "Third-party distribution partners for writing and renewing homeowners insurance policies.",
+      "start_date": null
+    },
+    {
+      "partner_name": "National insurance carriers",
+      "partnership_type": "strategic",
+      "description": "Third-party distribution partners supporting policy distribution.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AII/profile",
+  "origin": {
+    "leaf": "500a88a1c2a50e4719aa662c3c71f2ab3d175ef0d3e5fce25e66832616bf59b3",
+    "parent": "f89eb6d057da77f81e4456b4dc16e933a1881310fd27ae8bce486100d350b119",
+    "timestamp": "2026-04-12T03:12:56.552Z",
+    "source": "profile:0002007587",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/500a88a1c2a50e4719aa662c3c71f2ab3d175ef0d3e5fce25e66832616bf59b3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.552Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

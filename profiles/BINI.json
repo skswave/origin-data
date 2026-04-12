@@ -1,0 +1,45 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BINI",
+  "name": "BOLLINGER INNOVATIONS, INC.",
+  "cik": "0001499961",
+  "summary": "Bollinger Innovations, Inc. (operating as Mullen Automotive Inc.) is a Southern California-based electric vehicle and energy technology company. It develops and sells electric vehicles including commercial vans and trucks, operates through subsidiaries including Ottava Automotive and Mullen Advanced Energy Operations, and holds a majority ownership in Bollinger Motors. The company is in early-stage production and has not yet manufactured or sold a significant number of vehicles.",
+  "products": [
+    {
+      "name": "Mullen Electric Commercial Vans",
+      "type": "hardware",
+      "description": "Electric commercial vans developed for fleet and commercial customers."
+    },
+    {
+      "name": "Bollinger Motors Vehicles",
+      "type": "hardware",
+      "description": "Electric vehicles produced under majority-owned Bollinger Motors subsidiary."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "OEM suppliers and service providers",
+      "partnership_type": "OEM",
+      "description": "Company relies on OEMs, suppliers, and service providers for parts and components.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BINI/profile",
+  "origin": {
+    "leaf": "67d1c6ebf39525a935b6514706f7f83d6874c51222744f5b4023f3facdac3892",
+    "parent": "2ad8472904950513f95a9f057f4356109eb041fad271d37c08ca1475a5654299",
+    "timestamp": "2026-04-12T03:12:59.298Z",
+    "source": "profile:0001499961",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/67d1c6ebf39525a935b6514706f7f83d6874c51222744f5b4023f3facdac3892",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.298Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

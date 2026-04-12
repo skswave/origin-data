@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NNVC",
+  "name": "NANOVIRICIDES, INC.",
+  "cik": "0001379006",
+  "summary": "NanoViricides, Inc. is a clinical-stage biopharmaceutical company developing antiviral drugs called nanoviricides, based on nanomedicine platform technology. Its lead drug candidate, NV-387, has completed Phase Ia/Ib human clinical safety and tolerability trials and is ready for Phase II efficacy trials. NV-387 targets COVID-19, RSV, Influenza, Orthopoxvirus (Smallpox/MPox), and Measles. The company has no revenues or commercialized products and operates from Shelton, Connecticut.",
+  "products": [
+    {
+      "name": "NV-387 (NV-CoV-2 Oral Syrup)",
+      "type": "platform",
+      "description": "Broad-spectrum antiviral drug formulated as oral syrup targeting COVID-19 and other viruses; completed Phase Ia/Ib safety trial."
+    },
+    {
+      "name": "NV-387 (NV-CoV-2 Oral Gummies)",
+      "type": "platform",
+      "description": "Broad-spectrum antiviral drug formulated as oral gummies targeting COVID-19 and other viruses; completed Phase Ia/Ib safety trial."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NNVC/profile",
+  "origin": {
+    "leaf": "2f54261e24efc270756237332fab91fe58477cae5260d077e76597ab440c9bf0",
+    "parent": "3302f776b2b2b36f45cfc535da5599c6840ee274cfaed3489528f503b6721a57",
+    "timestamp": "2026-04-12T03:12:58.259Z",
+    "source": "profile:0001379006",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2f54261e24efc270756237332fab91fe58477cae5260d077e76597ab440c9bf0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.259Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

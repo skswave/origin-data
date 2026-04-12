@@ -1,0 +1,129 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DIT",
+  "name": "AMCON DISTRIBUTING CO",
+  "cik": "0000928465",
+  "summary": "AMCON Distributing Company, incorporated in Delaware in 1986 and listed on NYSE American (DIT), operates two segments: a wholesale distribution segment serving approximately 8,500 retail outlets in 34 states with over 20,000 consumer products including cigarettes, tobacco, candy, beverages, and groceries; and a retail health food segment operating 15 stores under Chamberlins Natural Foods, Akins Natural Foods, and Earth Origins Market banners throughout the Midwest and Florida.",
+  "products": [
+    {
+      "name": "Cigarettes and Tobacco Products",
+      "type": "service",
+      "description": "Wholesale distribution of cigarettes and tobacco products representing ~61% of consolidated revenue in fiscal 2025."
+    },
+    {
+      "name": "Candy and Confectionery",
+      "type": "service",
+      "description": "Wholesale distribution of candy and other confectionery products to retail outlets."
+    },
+    {
+      "name": "Beverages",
+      "type": "service",
+      "description": "Wholesale distribution of beverages including private label water products."
+    },
+    {
+      "name": "Frozen and Refrigerated Products",
+      "type": "service",
+      "description": "Wholesale distribution of frozen and refrigerated consumer products."
+    },
+    {
+      "name": "Health and Beauty Care Products",
+      "type": "service",
+      "description": "Wholesale distribution of health and beauty care products to convenience and grocery stores."
+    },
+    {
+      "name": "Institutional Foodservice Products",
+      "type": "service",
+      "description": "Wholesale distribution of foodservice products through wholesale segment."
+    },
+    {
+      "name": "Private Label Products",
+      "type": "service",
+      "description": "Company-marketed private label lines including water, candy, batteries, and other products."
+    },
+    {
+      "name": "Natural and Organic Grocery Retail",
+      "type": "service",
+      "description": "Retail health food stores carrying over 32,000 products including produce, supplements, and personal care items."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Altria",
+      "partnership_type": "strategic",
+      "description": "Principal supplier of cigarettes and tobacco products for wholesale distribution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "RJ Reynolds",
+      "partnership_type": "strategic",
+      "description": "Principal supplier of cigarettes and tobacco products for wholesale distribution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ITG Brands",
+      "partnership_type": "strategic",
+      "description": "Principal supplier of tobacco products for wholesale distribution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Hershey",
+      "partnership_type": "strategic",
+      "description": "Principal supplier of candy and confectionery products for wholesale distribution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Kellanova",
+      "partnership_type": "strategic",
+      "description": "Principal supplier of consumer packaged goods for wholesale distribution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Kraft Heinz",
+      "partnership_type": "strategic",
+      "description": "Principal supplier of consumer packaged goods for wholesale distribution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Mars Wrigley",
+      "partnership_type": "strategic",
+      "description": "Principal supplier of candy and confectionery products for wholesale distribution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "General Mills",
+      "partnership_type": "strategic",
+      "description": "Principal supplier of consumer packaged goods for wholesale distribution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Procter and Gamble",
+      "partnership_type": "strategic",
+      "description": "Principal supplier of consumer packaged goods for wholesale distribution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ferrero",
+      "partnership_type": "strategic",
+      "description": "Principal supplier of confectionery products for wholesale distribution.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DIT/profile",
+  "origin": {
+    "leaf": "6e0acf0335b2f4fafaf9b4bbda97ef2c680ef044189a980ae0e1e1643cab800e",
+    "parent": "1bdda442808a3f2696e3fcd4f859ef1bb6965fb946f7c0f467bd1ceb556dacd6",
+    "timestamp": "2026-04-12T03:12:57.473Z",
+    "source": "profile:0000928465",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6e0acf0335b2f4fafaf9b4bbda97ef2c680ef044189a980ae0e1e1643cab800e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.473Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MGLD",
+  "name": "Marygold Companies, Inc.",
+  "cik": "0001005101",
+  "summary": "Marygold Companies, Inc. (MGLD) is a diversified holding company operating through subsidiaries in financial services and fintech. Its key businesses include USCF Investments, Inc., a U.S. investment fund management company managing assets under management (AUM), and a Fintech application (app) under development and marketing. The company also pursues strategic acquisitions to expand existing businesses and enter new markets.",
+  "products": [
+    {
+      "name": "USCF Investment Funds",
+      "type": "service",
+      "description": "U.S. investment fund management services maintaining and expanding assets under management (AUM)."
+    },
+    {
+      "name": "Marygold Fintech App",
+      "type": "platform",
+      "description": "A financial technology application under development and marketing, seeking to generate sufficient revenue to cover development expenditures."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MGLD/profile",
+  "origin": {
+    "leaf": "3e6afb1a503a1c92598ba5e48287d6654b0e114b564fc51c99f19d87b33f6ac6",
+    "parent": "0fa26e437a58b6a1257a73efff1debd5c65c6e103dd2f89482cddb274125726a",
+    "timestamp": "2026-04-12T03:12:57.813Z",
+    "source": "profile:0001005101",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3e6afb1a503a1c92598ba5e48287d6654b0e114b564fc51c99f19d87b33f6ac6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.813Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

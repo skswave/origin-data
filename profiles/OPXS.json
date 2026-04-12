@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "OPXS",
+  "name": "Optex Systems Holdings Inc",
+  "cik": "0001397016",
+  "summary": "Optex Systems Holdings, Inc. is a defense-focused manufacturer that produces optical and electro-optical systems and assemblies. The company supplies products for military applications, with offerings relevant to defense programs. It operates under fixed-price contracts and serves the U.S. government and defense industry, with operations subject to federal procurement regulations and military spending cycles.",
+  "products": [
+    {
+      "name": "Optical Systems and Assemblies",
+      "type": "hardware",
+      "description": "Electro-optical systems and assemblies designed for military and defense applications."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/OPXS/profile",
+  "origin": {
+    "leaf": "e315f76c61937e63e14d6751a9a587d62cc8e5f681870f4bef0b1bfcee0d043e",
+    "parent": "51fff9981841a1d97e89b4ff028835e5ddf2cd652dfad34d6d2520e6d019a945",
+    "timestamp": "2026-04-12T03:12:57.450Z",
+    "source": "profile:0001397016",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e315f76c61937e63e14d6751a9a587d62cc8e5f681870f4bef0b1bfcee0d043e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.450Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

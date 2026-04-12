@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TAIT",
+  "name": "TAITRON COMPONENTS INC",
+  "cik": "0000942126",
+  "summary": "Taitron Components Inc. is a distributor of electronic components, including semiconductors and other electronic parts. The company sources products primarily from manufacturers in Asia and sells to customers in the United States. Taitron focuses on providing off-the-shelf, standard components to OEM customers, contract manufacturers, and distributors, maintaining inventory to fulfill orders efficiently.",
+  "products": [
+    {
+      "name": "Electronic Components",
+      "type": "hardware",
+      "description": "Standard off-the-shelf electronic components including semiconductors distributed to OEMs and contract manufacturers."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TAIT/profile",
+  "origin": {
+    "leaf": "0fae42e9a77a4b682ad63f56d644abefa6c686a05df285e2ed1ddccdde6f123e",
+    "parent": "dd177c7828edc5fe8e9e9a4b191a9b62b3c8ff6b67189697067be0e8b28df3f7",
+    "timestamp": "2026-04-12T03:12:59.891Z",
+    "source": "profile:0000942126",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0fae42e9a77a4b682ad63f56d644abefa6c686a05df285e2ed1ddccdde6f123e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.891Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "VICP",
+  "name": "Vicapsys Life Sciences, Inc.",
+  "cik": "0001468639",
+  "exchange": "OTC",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "FL",
+  "headquarters": null,
+  "founded": "1997",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Vicapsys Life Sciences, Inc. is a Florida-incorporated biopharmaceutical holding company developing encapsulated product candidates incorporating proprietary derivatives of the chemokine CXCL12 to create immunoprotection zones around cells, tissues, organs, and devices. Its lead product line VICAPSYN targets transplantation therapies including Type 1 Diabetes treatment via encapsulated human islet cell clusters. A second line, VYBRIN, addresses anti-fibrotic applications including post-surgical adhesion prevention, implantable device coating, and diabetic wound healing.",
+  "tags": [
+    "type-1-diabetes-treatment",
+    "transplantation-therapy",
+    "post-surgical-adhesion-prevention",
+    "implantable-medical-devices",
+    "wound-healing-/-diabetic-ulcers",
+    "fda-quality-system-regulations",
+    "iso-13485"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/VICP",
+  "origin": {
+    "leaf": "8eb854a8eac9eebad224759d4953cfefc963d84cdbf491ad8a094becc255ad36",
+    "parent": "a455479d86398e89bd4edc31de08afc66b018bd0bad3b9718c6d7f7a0a1de07c",
+    "timestamp": "2026-04-12T03:12:54.326Z",
+    "source": "0001493152-24-041809",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8eb854a8eac9eebad224759d4953cfefc963d84cdbf491ad8a094becc255ad36",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.326Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

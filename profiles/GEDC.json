@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GEDC",
+  "name": "CalEthos, Inc.",
+  "cik": "0001174891",
+  "summary": "CalEthos, Inc. is a developer of large-scale infrastructure for the digital economy, focused on building a master-planned, onsite-powered data center campus in the Northwestern U.S. Through its wholly-owned subsidiary TerraVolt Infrastructure Inc., the company offers a Physical Infrastructure-as-a-Service (PIaaS) platform integrating behind-the-meter natural gas power with construction-ready data center building sites, utilities, and fiber connectivity for hyperscalers, colocation providers, and data center developers.",
+  "products": [
+    {
+      "name": "Physical Infrastructure-as-a-Service (PIaaS) Platform",
+      "type": "platform",
+      "description": "Turnkey platform integrating onsite behind-the-meter natural gas power with construction-ready data center building sites, utilities, and fiber connectivity."
+    },
+    {
+      "name": "Onsite Natural Gas Power Plant",
+      "type": "hardware",
+      "description": "Behind-the-meter gas-fired power plant providing 300MW-350MW of baseload power with scalability to additional 300MW-600MW by 2030."
+    },
+    {
+      "name": "Data Center Campus Building Sites",
+      "type": "service",
+      "description": "Pre-permitted, construction-ready building lots with power, utilities, water rights, and fiber connectivity for data center developers."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GEDC/profile",
+  "origin": {
+    "leaf": "42c5d0e70487620b4786b1c098bb4f1d70793efe0527892325e683910049f4a6",
+    "parent": "910358215105200f542ef6757cd7ad7f8a36071a39e630b546b09a55f374a00e",
+    "timestamp": "2026-04-12T03:12:58.904Z",
+    "source": "profile:0001174891",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/42c5d0e70487620b4786b1c098bb4f1d70793efe0527892325e683910049f4a6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.904Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "KOS",
+  "name": "Kosmos Energy Ltd.",
+  "cik": "0001509991",
+  "exchange": "NYSE",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Kosmos Energy Ltd. (KOS) is an energy company. The provided filing excerpt is an EX-31.1 CEO certification (Sarbanes-Oxley Section 302), not a Business Description. No specific products, services, or operational details about Kosmos Energy are described in this excerpt. The document only certifies the accuracy of the annual report on Form 10-K signed by CEO Andrew G. Inglis on March 2, 2026.",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/KOS",
+  "origin": {
+    "leaf": "fc2364909832f53183eec7ea154dcaa579196c53ed15e9b6afcf995f28f56ba4",
+    "parent": "b041b77c9a51808dd731da76f2ca2d16ec532a2f69aed36d0b9251821d5bd364",
+    "timestamp": "2026-04-12T03:12:50.944Z",
+    "source": "0001509991-26-000017",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fc2364909832f53183eec7ea154dcaa579196c53ed15e9b6afcf995f28f56ba4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.944Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

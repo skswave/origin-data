@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "WSR",
+  "name": "Whitestone REIT",
+  "cik": "0001175535",
+  "exchange": "NYSE",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "TX",
+  "headquarters": "Houston, Texas",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Whitestone REIT is a Maryland-based real estate investment trust that owns and operates Community Centered Properties—commercially diverse retail and mixed-use properties in culturally diverse, high-growth metropolitan markets in Texas and Arizona. As of December 31, 2025, the company wholly owned 56 properties totaling approximately 4.9 million square feet of GLA, with tenants in specialty retail, grocery, restaurants, medical, educational, financial services, and entertainment sectors.",
+  "tags": [
+    "retail-real-estate",
+    "commercial-real-estate",
+    "mixed-use-properties",
+    "specialty-retail",
+    "medical-and-educational-tenants",
+    "restaurant-and-entertainment-tenants"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/WSR",
+  "origin": {
+    "leaf": "3292417ee04df22d6d94c919a3d6e900b839b1ebd9f25b65a1205e7aaae01436",
+    "parent": "7dd12b2bfd2cdc1b9c08e194076ff66006f579cb9d1ecbbd735ee149d428a004",
+    "timestamp": "2026-04-12T03:12:51.168Z",
+    "source": "0001437749-26-007232",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3292417ee04df22d6d94c919a3d6e900b839b1ebd9f25b65a1205e7aaae01436",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.168Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

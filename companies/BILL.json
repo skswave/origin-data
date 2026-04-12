@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BILL",
+  "name": "BILL Holdings, Inc.",
+  "cik": "0001786352",
+  "exchange": "NYSE",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": null,
+  "headquarters": "San Jose, California",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": "BILL Holdings, Inc. is a leading financial operations platform for small and midsize businesses (SMBs), headquartered in San Jose, California. Its integrated, AI-enabled platform automates accounts payable, accounts receivable, and spend and expense management. Products include BILL Spend and Expense (corporate cards and expense management). As of June 30, 2025, approximately 493,800 businesses used its solutions, processing approximately $330 billion in Total Payment Volume during fiscal 2025, with 8.3 million network members.",
+  "tags": [
+    "small-and-midsize-businesses-(smbs)",
+    "accounts-payable-automation",
+    "accounts-receivable-automation",
+    "spend-and-expense-management",
+    "business-payments",
+    "ach",
+    "wire-transfer",
+    "machine-learning-/-ai",
+    "cloud-based-saas"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BILL",
+  "origin": {
+    "leaf": "3c2afe077fcfdd0d4b31024eea2ef0e1e5a1e80adae4838fd8505414bf7d19f6",
+    "parent": "48d1230a3d396d6eaedb965f5c5b58d900326d9c0196115fd3f70b0c40ff202e",
+    "timestamp": "2026-04-12T03:12:50.706Z",
+    "source": "0001786352-25-000037",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3c2afe077fcfdd0d4b31024eea2ef0e1e5a1e80adae4838fd8505414bf7d19f6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.706Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FNWB",
+  "name": "First Northwest Bancorp",
+  "cik": "0001556727",
+  "summary": "First Northwest Bancorp is a Washington-based bank holding company operating through its wholly owned subsidiary First Fed Bank, a community commercial bank founded in 1923. First Fed offers residential mortgage loans, commercial real estate, multi-family, commercial business, auto, consumer, and construction loans, as well as transaction accounts, savings, money market accounts, and CDs. It operates 17 locations across six Washington counties and holds limited partnership investments in fintech-focused funds.",
+  "products": [
+    {
+      "name": "Residential Mortgage Loans",
+      "type": "service",
+      "description": "One-to-four family residential mortgage loans originated primarily for secondary market sale or portfolio retention."
+    },
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Loans secured by commercial real estate to diversify portfolio and increase interest income."
+    },
+    {
+      "name": "Multi-Family Real Estate Loans",
+      "type": "service",
+      "description": "Loans on multi-family properties to diversify lending portfolio."
+    },
+    {
+      "name": "Commercial Business Loans",
+      "type": "service",
+      "description": "Loans to businesses to diversify portfolio and increase interest income."
+    },
+    {
+      "name": "Auto and Consumer Loans",
+      "type": "service",
+      "description": "Auto loans through purchased programs and purchased manufactured home loans."
+    },
+    {
+      "name": "Home Equity Loans",
+      "type": "service",
+      "description": "Home equity loans originated primarily in Western Washington."
+    },
+    {
+      "name": "Construction Loans",
+      "type": "service",
+      "description": "Residential and commercial construction loans originated primarily in Western Washington."
+    },
+    {
+      "name": "Transaction Accounts",
+      "type": "service",
+      "description": "Checking and transaction deposit accounts for individuals, businesses, and nonprofits."
+    },
+    {
+      "name": "Savings and Money Market Accounts",
+      "type": "service",
+      "description": "Savings and money market deposit products for individuals, businesses, and nonprofits."
+    },
+    {
+      "name": "Certificates of Deposit",
+      "type": "service",
+      "description": "Term certificates offered to individuals, businesses, and nonprofit organizations."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Federal Home Loan Bank of Des Moines",
+      "partnership_type": "strategic",
+      "description": "First Fed is a member providing access to FHLB funding and liquidity resources.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Canapi Ventures Fund, LP",
+      "partnership_type": "strategic",
+      "description": "Limited partnership investment by First Northwest in fintech-focused fund.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BankTech Ventures, LP",
+      "partnership_type": "strategic",
+      "description": "Limited partnership investment by First Northwest in fintech-focused fund.",
+      "start_date": null
+    },
+    {
+      "partner_name": "JAM FINTOP Frontier Fund, LP",
+      "partnership_type": "strategic",
+      "description": "Limited partnership investment by First Northwest in fintech-focused fund.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Canapi Ventures SBIC Fund II, LP",
+      "partnership_type": "strategic",
+      "description": "Limited partnership investment held by First Fed Bank.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Meriwether Group Capital Hero Fund LP",
+      "partnership_type": "strategic",
+      "description": "Limited partnership investment; private commercial lender focused on lower-middle market Pacific Northwest businesses; redemption agreement signed post year-end.",
+      "start_date": null
+    },
+    {
+      "partner_name": "MWG (Meriwether Group)",
+      "partnership_type": "strategic",
+      "description": "First Northwest acquired 33% interest in 2022; boutique investment bank and consulting firm for entrepreneurs.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Meriwether Group Capital, LLC",
+      "partnership_type": "strategic",
+      "description": "First Northwest acquired 25% equity interest as general partner in 2022; redeemed post year-end at par.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FNWB/profile",
+  "origin": {
+    "leaf": "e9dbbeb660da4cb7cdbc340f08702eb87a8354d22effe4628536b3f03122594c",
+    "parent": "aaec927bb3666ddc38a5a47a8baead0df634064d82d6345d93a65947ab00ca8f",
+    "timestamp": "2026-04-12T03:12:57.545Z",
+    "source": "profile:0001556727",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e9dbbeb660da4cb7cdbc340f08702eb87a8354d22effe4628536b3f03122594c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.545Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

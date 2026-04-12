@@ -1,0 +1,78 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NAII",
+  "name": "NATURAL ALTERNATIVES INTERNATIONAL INC",
+  "cik": "0000787253",
+  "summary": "Natural Alternatives International, Inc. (NAI) is a leading formulator, manufacturer, and marketer of nutritional supplements, providing private-label contract manufacturing services to companies selling vitamins, minerals, herbal, and other nutritional supplements globally. NAI also owns a patent estate for beta-alanine, commercialized under the CarnoSyn, SR CarnoSyn, and TriBsyn trademarks through direct sales, royalty, and licensing agreements. The company operates manufacturing facilities in Vista and Carlsbad, California, and Manno, Switzerland.",
+  "products": [
+    {
+      "name": "CarnoSyn",
+      "type": "hardware",
+      "description": "Instant-release beta-alanine raw material ingredient sold under trademark with patent licensing rights."
+    },
+    {
+      "name": "SR CarnoSyn",
+      "type": "hardware",
+      "description": "Sustained-release beta-alanine raw material ingredient sold directly and licensed to third parties."
+    },
+    {
+      "name": "TriBsyn",
+      "type": "hardware",
+      "description": "New form of CarnoSyn beta-alanine offered as capsule products in business-to-business private label format."
+    },
+    {
+      "name": "Private-label contract manufacturing",
+      "type": "service",
+      "description": "Custom nutritional supplement manufacturing services including formulation, testing, packaging, and regulatory support for third-party brands."
+    },
+    {
+      "name": "SustainedRx / Perfect Synergy",
+      "type": "hardware",
+      "description": "Branded SR CarnoSyn wellness tablet product sold direct-to-consumer; discontinued during fiscal 2025."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "NSF International",
+      "partnership_type": "strategic",
+      "description": "GMP registration and NSF Certified for Sport certification for Vista, California facility since 2002.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Therapeutic Goods Administration (TGA)",
+      "partnership_type": "strategic",
+      "description": "GMP certification enabling export to Pharmaceutical Inspection Convention countries including European and Pacific Rim nations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Health Canada",
+      "partnership_type": "strategic",
+      "description": "GMP certification for compliance with Canadian Natural Health Products Regulations since December 2011.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Natural Food Certifiers (NFC)",
+      "partnership_type": "strategic",
+      "description": "Organic Processor and Handler certification meeting USDA National Organic Program standards since March 2015.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NAII/profile",
+  "origin": {
+    "leaf": "34b802d92b8cb0812671635c8564158ca873400d270a4ac80fe6303cb0db5428",
+    "parent": "60ea02537dea0ae0921ebd53260249196154961fbc736a9db91f07a1d4c3ef34",
+    "timestamp": "2026-04-12T03:12:58.333Z",
+    "source": "profile:0000787253",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/34b802d92b8cb0812671635c8564158ca873400d270a4ac80fe6303cb0db5428",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.333Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

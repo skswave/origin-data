@@ -1,0 +1,118 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IVT",
+  "name": "InvenTrust Properties Corp.",
+  "cik": "0001307748",
+  "summary": "InvenTrust Properties Corp. is a Maryland corporation that operates as a real estate investment trust (REIT). The company issues common stock with a par value of $0.001 per share and engages in equity distribution activities, selling shares through an at-the-market offering program with aggregate gross sales of up to $250,000,000 under its Equity Distribution Agreement.",
+  "products": [
+    {
+      "name": "Common Stock",
+      "type": "service",
+      "description": "Common stock with par value $0.001 per share sold via at-the-market equity distribution program up to $250,000,000 aggregate gross sales."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Wells Fargo Securities, LLC",
+      "partnership_type": "strategic",
+      "description": "Sales agent, principal, and forward seller under the Equity Distribution Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BofA Securities, Inc.",
+      "partnership_type": "strategic",
+      "description": "Sales agent, principal, and forward seller under the Equity Distribution Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BTIG, LLC",
+      "partnership_type": "strategic",
+      "description": "Sales agent and principal under the Equity Distribution Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Deutsche Bank Securities Inc.",
+      "partnership_type": "strategic",
+      "description": "Sales agent, principal, and forward seller under the Equity Distribution Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fifth Third Securities, Inc.",
+      "partnership_type": "strategic",
+      "description": "Sales agent and principal under the Equity Distribution Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Jefferies LLC",
+      "partnership_type": "strategic",
+      "description": "Sales agent, principal, forward seller, and forward purchaser under the Equity Distribution Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "J.P. Morgan Securities LLC",
+      "partnership_type": "strategic",
+      "description": "Sales agent, principal, and forward seller re-added to the Equity Distribution Agreement effective February 12, 2026.",
+      "start_date": null
+    },
+    {
+      "partner_name": "KeyBanc Capital Markets Inc.",
+      "partnership_type": "strategic",
+      "description": "Sales agent, principal, forward seller, and forward purchaser under the Equity Distribution Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Truist Securities, Inc.",
+      "partnership_type": "strategic",
+      "description": "Sales agent, principal, and forward seller under the Equity Distribution Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Wells Fargo Bank, National Association",
+      "partnership_type": "strategic",
+      "description": "Forward purchaser under the Equity Distribution Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bank of America, N.A.",
+      "partnership_type": "strategic",
+      "description": "Forward purchaser under the Equity Distribution Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Deutsche Bank AG, London Branch",
+      "partnership_type": "strategic",
+      "description": "Forward purchaser under the Equity Distribution Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "JPMorgan Chase Bank, National Association",
+      "partnership_type": "strategic",
+      "description": "Forward purchaser re-added to the Equity Distribution Agreement effective February 12, 2026.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Truist Bank",
+      "partnership_type": "strategic",
+      "description": "Forward purchaser under the Equity Distribution Agreement.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IVT/profile",
+  "origin": {
+    "leaf": "23fad24446b679f442dd4791add918128ebc97f0a917ef13fba26c6a1f2df935",
+    "parent": "51cd51c878e60cff46adff5d32b23053ec3be38ef93390f962332a20b6b699dc",
+    "timestamp": "2026-04-12T03:12:55.582Z",
+    "source": "profile:0001307748",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/23fad24446b679f442dd4791add918128ebc97f0a917ef13fba26c6a1f2df935",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.582Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

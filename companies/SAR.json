@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SAR",
+  "name": "SARATOGA INVESTMENT CORP.",
+  "cik": "0001377936",
+  "exchange": "NYSE",
+  "sic": null,
+  "sic_description": null,
+  "state_of_incorporation": "MD",
+  "headquarters": "New York, New York",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0228",
+  "summary": "Saratoga Investment Corp. is a specialty finance company providing customized financing solutions to U.S. middle-market businesses (companies with EBITDA of $2M–$50M). It primarily invests in senior and unitranche leveraged loans, mezzanine debt, and equity via direct lending and loan syndication. As of February 28, 2025, it held $1,191.5M in total assets across 48 portfolio companies, with portfolio composition of 88.7% first lien term loans, managed externally by Saratoga Investment Advisors, LLC.",
+  "tags": [
+    "u.s.-middle-market-lending",
+    "leveraged-loans",
+    "mezzanine-debt",
+    "private-equity-co-investment",
+    "structured-finance-/-clos",
+    "distressed-debt-(opportunistic)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SAR",
+  "origin": {
+    "leaf": "54e0dde3395b7d444fd332aa7a17942589144a483651ab6f3847b4b5d8aa61e3",
+    "parent": "fad3a62502bcecf849ba65c2160f371a2e8e26729b1c7e9b843a5ccac58642f5",
+    "timestamp": "2026-04-12T03:12:51.551Z",
+    "source": "0001213900-25-040617",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/54e0dde3395b7d444fd332aa7a17942589144a483651ab6f3847b4b5d8aa61e3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.551Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

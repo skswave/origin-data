@@ -1,0 +1,81 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HCAT",
+  "name": "Health Catalyst, Inc.",
+  "cik": "0001636422",
+  "summary": "Health Catalyst, Inc. is a leading provider of data and analytics technology and services to healthcare organizations. Its Solution comprises a cloud-based data and analytics platform (Health Catalyst Ignite), software analytics applications, and expertise/managed services. Clients, primarily healthcare providers, use the Solution to manage data, derive analytical insights, and produce measurable clinical, financial, and operational improvements. The company is migrating existing DOS platform clients to its new Ignite platform.",
+  "products": [
+    {
+      "name": "Health Catalyst Ignite",
+      "type": "platform",
+      "description": "New cloud-based data and analytics platform replacing the legacy DOS platform for healthcare organizations."
+    },
+    {
+      "name": "DOS (Data Operating System)",
+      "type": "platform",
+      "description": "Legacy cloud-based data platform being migrated to Health Catalyst Ignite."
+    },
+    {
+      "name": "Software Analytics Applications",
+      "type": "software",
+      "description": "Analytics applications delivering insights to measurably improve and automate healthcare processes and drive efficiency."
+    },
+    {
+      "name": "Expertise and Managed Services",
+      "type": "service",
+      "description": "Professional and managed services enabling data-informed improvement for healthcare clients."
+    },
+    {
+      "name": "Health Catalyst Ignite",
+      "type": "platform",
+      "description": "New cloud-based data and analytics platform replacing the legacy DOS platform, designed to help healthcare organizations manage data and derive analytical insights."
+    },
+    {
+      "name": "DOS Platform",
+      "type": "platform",
+      "description": "Legacy cloud-based data and analytics platform; existing clients are being migrated to the new Ignite platform."
+    },
+    {
+      "name": "Software Analytics Applications",
+      "type": "software",
+      "description": "Analytics applications delivering insights on measurable improvement and process automation for healthcare organizations."
+    },
+    {
+      "name": "Expertise and Managed Services",
+      "type": "service",
+      "description": "Professional and managed services enabling data-informed improvement for healthcare clients."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Microsoft Azure",
+      "partnership_type": "strategic",
+      "description": "Third-party provider of computing infrastructure, network connectivity, and technology services underpinning Health Catalyst's Solution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Microsoft Azure",
+      "partnership_type": "strategic",
+      "description": "Primary cloud infrastructure provider supplying computing infrastructure, network connectivity, and technology services for Health Catalyst's Solution.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HCAT/profile",
+  "origin": {
+    "leaf": "2cf60630afc4bc0ee0e9f72ab53ae1d8d97e9127fd4cbd62e1a837fb18cd1cdd",
+    "parent": "70439c94b571e6c4a2277d9d9f27952670c146f87a0be7f57c16f336af4711a4",
+    "timestamp": "2026-04-12T03:12:57.444Z",
+    "source": "profile:0001636422",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2cf60630afc4bc0ee0e9f72ab53ae1d8d97e9127fd4cbd62e1a837fb18cd1cdd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.444Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

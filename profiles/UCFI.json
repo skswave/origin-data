@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UCFI",
+  "name": "CN Healthy Food Tech Group Corp.",
+  "cik": "0001901203",
+  "summary": "CN Healthy Food Tech Group Corp. (UCFI) is a China-based holding company whose subsidiaries develop, manufacture, and market premium health foods using AI-powered biotechnology and traditional Chinese medicine principles. Products include peptide selenium powders, herbal plant beverages, and biotech-derived nutritional supplements derived from whole grains, Cordyceps, bird's nest, ginseng, and Ganoderma. The Group operates an online/offline omnichannel sales model with business bases in Heilongjiang and Guangdong provinces.",
+  "products": [
+    {
+      "name": "Cordyceps Peptide Selenium Powder",
+      "type": "hardware",
+      "description": "Bio-enzymatic hydrolysis-derived peptide and selenium supplement from high-quality Cordyceps for efficient nutritional absorption."
+    },
+    {
+      "name": "Baofei Granule Extract Plant Beverage",
+      "type": "hardware",
+      "description": "Micro-nano extracted beverage from eight traditional Chinese medicinal ingredients for pulmonary health management."
+    },
+    {
+      "name": "Yanxu Peptide Selenium Premium Powder",
+      "type": "hardware",
+      "description": "Small-molecule active peptide complex from bird's nest with sialic acid and selenium for skin, sleep, and energy support."
+    },
+    {
+      "name": "Ganoderma and Matsutake Peptide Selenium Powder",
+      "type": "hardware",
+      "description": "Bio-enzymatic peptide complex from Ganoderma lucidum and Matsutake with selenium for metabolic balance and daily nutrition."
+    },
+    {
+      "name": "Panax Ginseng Peptide Selenium Concentrate Powder",
+      "type": "hardware",
+      "description": "Directed bio-enzymatic hydrolysis peptide complex from ginseng and American ginseng enriched with ginsenosides and polysaccharides."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UCFI/profile",
+  "origin": {
+    "leaf": "2d717fd52fe77f6e8fb9c89f13995ed661107b06ae21ad1fb6e006d873bd3b4c",
+    "parent": "3f0eac7a0fa462869a2f02d773aa2a64c008973f6a5846c1eb72c97c514d9d9a",
+    "timestamp": "2026-04-12T03:12:56.776Z",
+    "source": "profile:0001901203",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2d717fd52fe77f6e8fb9c89f13995ed661107b06ae21ad1fb6e006d873bd3b4c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.776Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

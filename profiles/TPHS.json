@@ -1,0 +1,66 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TPHS",
+  "name": "Trinity Place Holdings Inc.",
+  "cik": "0000724742",
+  "summary": "Trinity Place Holdings Inc. is a real estate holding, investment, development, and asset management company. Its assets include 77 Greenwich Street in Lower Manhattan (a 90-unit residential condominium tower with retail space and an elementary school), a 105-unit multi-family property at 237 11th Street in Brooklyn, and a retail property in Paramus, NJ. It also holds intellectual property including FilenesBasement.com, the Stanley Blacker brand, and the Running of the Brides trademark.",
+  "products": [
+    {
+      "name": "77 Greenwich Street",
+      "type": "service",
+      "description": "90-unit residential condominium tower with retail space and NYC elementary school in Lower Manhattan"
+    },
+    {
+      "name": "237 11th Street",
+      "type": "service",
+      "description": "105-unit, 12-story multi-family residential property in Brooklyn, New York"
+    },
+    {
+      "name": "Paramus Property",
+      "type": "service",
+      "description": "Retail tenant-occupied property in Paramus, New Jersey, sold February 4, 2025"
+    },
+    {
+      "name": "FilenesBasement.com",
+      "type": "platform",
+      "description": "Consumer-sector intellectual property asset inherited from predecessor Syms Corp."
+    },
+    {
+      "name": "Stanley Blacker brand",
+      "type": "service",
+      "description": "Consumer brand intellectual property asset inherited from predecessor Syms Corp."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "TPHS Lender LLC",
+      "partnership_type": "strategic",
+      "description": "Lender under Corporate Credit Facility; affiliate acquired 5% interest in TPHGreenwich and acts as its manager",
+      "start_date": null
+    },
+    {
+      "partner_name": "Steel Partners Holdings L.P.",
+      "partnership_type": "strategic",
+      "description": "Affiliate Steel IP Investments LLC entered Stock Purchase Agreement to acquire intellectual property assets from Trinity",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TPHS/profile",
+  "origin": {
+    "leaf": "e886b0866c13a3d63305ac2c178ec4dc61b6078dffb984ab9b01fe116e0821a4",
+    "parent": "9f339ee849ede5249b9d605b3dfed9d1130a5fd61c5e0ede132acc24041d4f3c",
+    "timestamp": "2026-04-12T03:12:59.952Z",
+    "source": "profile:0000724742",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e886b0866c13a3d63305ac2c178ec4dc61b6078dffb984ab9b01fe116e0821a4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.952Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

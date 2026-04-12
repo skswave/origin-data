@@ -1,0 +1,61 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AIMD",
+  "name": "Ainos, Inc.",
+  "cik": "0001014763",
+  "summary": "Ainos, Inc. is a Texas-incorporated dual-platform company advancing AI-based scent digitization technologies and immune therapeutics. Its core platform, AI Nose, integrates gas sensor arrays with proprietary smell language model (SLM) AI to digitize volatile organic compound signals into machine-readable Smell ID data for industrial and healthcare applications. The company also develops VELDONA, a low-dose oral interferon alpha formulation targeting rare, autoimmune, and infectious disease indications, and has commercialized VELDONA Pet supplements in Taiwan.",
+  "products": [
+    {
+      "name": "AI Nose",
+      "type": "platform",
+      "description": "AI-powered scent digitization platform integrating gas sensor arrays with a smell language model (SLM) to digitize VOC signals into Smell ID data format for industrial and healthcare applications."
+    },
+    {
+      "name": "VELDONA",
+      "type": "platform",
+      "description": "Low-dose oral interferon alpha formulation targeting rare, autoimmune, and infectious diseases including oral warts in HIV-seropositive patients, Sjögren's syndrome, and feline chronic gingivostomatitis."
+    },
+    {
+      "name": "VELDONA Pet",
+      "type": "service",
+      "description": "Commercialized companion animal health supplements launched in Taiwan based on the VELDONA low-dose oral interferon platform."
+    },
+    {
+      "name": "Point-of-Care Testing (POCT) Devices",
+      "type": "hardware",
+      "description": "POCT devices under development powered by AI Nose for healthcare applications including senior care, women's vaginal health, and selected STIs."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Leading semiconductor packaging and testing company (unnamed)",
+      "partnership_type": "strategic",
+      "description": "Multi-year subscription agreement for AI Nose deployment within semiconductor manufacturing environments, secured in 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ScentAI Inc.",
+      "partnership_type": "development",
+      "description": "Wholly owned subsidiary focused on advancing the SLM algorithm to support AI Nose platform development.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AIMD/profile",
+  "origin": {
+    "leaf": "6339e5defa344a69d1ea51a4f1ee978a2351ab5d304a2896c7db4bc4fa839f31",
+    "parent": "1df6f2ade37d4d8a54fb7b2fcbe14b90b9c141405c920f05488e84358a774860",
+    "timestamp": "2026-04-12T03:12:58.535Z",
+    "source": "profile:0001014763",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6339e5defa344a69d1ea51a4f1ee978a2351ab5d304a2896c7db4bc4fa839f31",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.535Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

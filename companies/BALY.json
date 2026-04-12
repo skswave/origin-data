@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BALY",
+  "name": "Bally's Corp",
+  "cik": "0001747079",
+  "exchange": "NYSE",
+  "sic": "7011",
+  "sic_description": "Hotels & Motels",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Ballys Corporation, a Delaware corporation, with global headquarters in Providence, Rhode Island, is referred to as the Company, Ballys, we, our or us. Our common stock is traded on the New York Stock Exchange (the NYSE) under the symbol BALY. Our Company We are a global gaming, hospitality, entertainment and technology company with an expanding international footprint across casino, interactive and lottery markets. We provide our customers and partners with physical and interactive enter...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BALY",
+  "origin": {
+    "leaf": "21fcf3ff6a2ac118fea9e6b5fe335dfb259a07f8a053d350154a63cf3bff2002",
+    "parent": "d104ab73196aed406ac5044ee748c8e9b515bf6c3471577dad158698d816b7d2",
+    "timestamp": "2026-04-12T03:12:51.423Z",
+    "source": "0001747079-26-000019",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/21fcf3ff6a2ac118fea9e6b5fe335dfb259a07f8a053d350154a63cf3bff2002",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.423Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

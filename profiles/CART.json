@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CART",
+  "name": "Maplebear Inc.",
+  "cik": "0001579091",
+  "summary": "Maplebear Inc. (Instacart) is a technology and enablement partner for the grocery industry. It operates Instacart Marketplace, connecting customers to over 2,200 retail banners for delivery and pickup; Instacart Enterprise Platform, powering retailers' e-commerce, fulfillment, and in-store technologies; and Instacart Ads, an advertising platform serving over 9,000 active brands using first-party transaction data. Since founding, Instacart has powered more than 1.6 billion orders and reaches over 98% of North American households.",
+  "products": [
+    {
+      "name": "Instacart Marketplace",
+      "type": "platform",
+      "description": "Online marketplace connecting customers to retailers for grocery delivery and pickup across multiple shopping occasions."
+    },
+    {
+      "name": "Instacart Enterprise Platform",
+      "type": "platform",
+      "description": "End-to-end technology solution for retailers covering e-commerce, fulfillment, connected stores, ads, marketing, and insights."
+    },
+    {
+      "name": "Instacart Ads",
+      "type": "platform",
+      "description": "Digital advertising platform for brands using first-party transaction data to drive product discovery and purchases."
+    },
+    {
+      "name": "Instacart+",
+      "type": "service",
+      "description": "Membership program offering unlimited $0 delivery fees on qualifying orders and other exclusive customer benefits."
+    },
+    {
+      "name": "Caper Carts",
+      "type": "hardware",
+      "description": "AI-powered smart shopping carts enabling a connected in-store experience for retailers."
+    },
+    {
+      "name": "Carrot Tags",
+      "type": "hardware",
+      "description": "In-store technology solution for retailers to support seamless online and in-store operations."
+    },
+    {
+      "name": "Eversight",
+      "type": "software",
+      "description": "Pricing and promotions optimization technology offered as part of Connected Stores."
+    },
+    {
+      "name": "FoodStorm",
+      "type": "software",
+      "description": "Order management technology for retailers included in the Connected Stores suite."
+    },
+    {
+      "name": "Carrot Ads",
+      "type": "platform",
+      "description": "Enterprise ads offering bringing Instacart Ads capabilities to retailers' own storefronts and apps."
+    },
+    {
+      "name": "Storefront",
+      "type": "platform",
+      "description": "E-commerce storefront technology powering more than 380 grocers' e-commerce sites."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CART/profile",
+  "origin": {
+    "leaf": "0508f6997f46cd5e8dc5f8589bfc4d351d03ac9f4b3f98b94ad29b26a90e04ba",
+    "parent": "2a785e6f0b54868b2e9b8321e72352898d7cd60c13240e2ff436324039f4a9be",
+    "timestamp": "2026-04-12T03:12:55.053Z",
+    "source": "profile:0001579091",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0508f6997f46cd5e8dc5f8589bfc4d351d03ac9f4b3f98b94ad29b26a90e04ba",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.053Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

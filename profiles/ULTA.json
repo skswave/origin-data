@@ -1,0 +1,87 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ULTA",
+  "name": "Ulta Beauty, Inc.",
+  "cik": "0001403568",
+  "summary": "Ulta Beauty, Inc. is an international specialty beauty retailer founded in Illinois in 1990. It is the largest specialty beauty retailer in the U.S., offering cosmetics, fragrance, skin care, hair care, wellness products, and salon services across prestige, mass, and salon price points. It operates over 1,500 U.S. stores, digital platforms, and has international presence through Space NK (U.K. and Ireland), a Mexico joint venture, and a Middle East franchise.",
+  "products": [
+    {
+      "name": "Cosmetics",
+      "type": "service",
+      "description": "Broad range of cosmetic products across prestige, mass, and salon price points."
+    },
+    {
+      "name": "Fragrance",
+      "type": "service",
+      "description": "Fragrance products offered across multiple brands and price points."
+    },
+    {
+      "name": "Skin Care Products",
+      "type": "service",
+      "description": "Skincare offerings from entry-level to luxury price points."
+    },
+    {
+      "name": "Hair Care Products",
+      "type": "service",
+      "description": "Professional and consumer hair care products including salon styling tools."
+    },
+    {
+      "name": "Wellness Products",
+      "type": "service",
+      "description": "Wellness and bath and body products available in stores and online."
+    },
+    {
+      "name": "Salon Services",
+      "type": "service",
+      "description": "Full-service salon occupying approximately 950 sq ft within each standard store."
+    },
+    {
+      "name": "Ulta Beauty Loyalty Program",
+      "type": "platform",
+      "description": "Best-in-class loyalty program offering exclusive gifts, points, and personalized experiences."
+    },
+    {
+      "name": "Digital Platform (website and mobile app)",
+      "type": "platform",
+      "description": "Omnichannel digital experience with virtual try-on, personalized recommendations, and multiple fulfillment options."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Space NK Limited",
+      "partnership_type": "strategic",
+      "description": "Subsidiary operating as a luxury beauty retailer in the U.K. and Ireland.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Mexico joint venture partner",
+      "partnership_type": "strategic",
+      "description": "Joint venture expanding Ulta Beauty's presence in Mexico; partner not named.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Middle East franchise partner",
+      "partnership_type": "strategic",
+      "description": "Franchise agreement expanding Ulta Beauty's presence in the Middle East; partner not named.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ULTA/profile",
+  "origin": {
+    "leaf": "40e09e1ace9d9d39a4a237d0ec1829a72175204e3521d6283a021afe9f3346ad",
+    "parent": "42df236252a5b966e331818b8d3e0f4d29f82ca404353bbeea9abcd93f4d031b",
+    "timestamp": "2026-04-12T03:12:54.879Z",
+    "source": "profile:0001403568",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/40e09e1ace9d9d39a4a237d0ec1829a72175204e3521d6283a021afe9f3346ad",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.879Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

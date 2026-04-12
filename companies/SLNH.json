@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SLNH",
+  "name": "Soluna Holdings, Inc",
+  "cik": "0000064463",
+  "exchange": "Nasdaq",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Soluna Holdings, Inc. develops, owns, and operates digital infrastructure for energy-intensive computing applications by co-locating data centers with renewable energy power plants, a model it calls Renewable Computing. The company serves Bitcoin mining, AI, and HPC markets. Its proprietary MaestroOS software platform optimizes power consumption and operating performance. It also offers GPU-as-a-Service through Soluna Cloud and provides data center colocation and hosting services.",
+  "tags": [
+    "bitcoin-mining",
+    "artificial-intelligence-(ai)",
+    "high-performance-computing-(hpc)",
+    "renewable-energy",
+    "data-center-colocation",
+    "power-usage-effectiveness-(pue)",
+    "behind-the-meter-energy-operations"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SLNH",
+  "origin": {
+    "leaf": "29b303c389f3d61be93c3bf068cfecb0b324ccd9043bee455d6d5b15e06f8e65",
+    "parent": "6d183427dd3614d871175a0cb778a4093797f5d4903425beab0883dfb186679b",
+    "timestamp": "2026-04-12T03:12:52.315Z",
+    "source": "0001628280-26-021847",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/29b303c389f3d61be93c3bf068cfecb0b324ccd9043bee455d6d5b15e06f8e65",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.315Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

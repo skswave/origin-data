@@ -1,0 +1,227 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "EXPE",
+  "company": "Expedia Group, Inc.",
+  "title": "EXPE   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 9281,
+  "speakers": [
+    {
+      "name": "Mark",
+      "title": "Equity Analyst  Eric Sheridan  Goldman Sachs Group Inc - Analyst  Jed Kelly  Oppenheimer & Co Inc - Analyst  Conor Cunningham  Melius Research LLC - Equity Analyst  Jacob Seed  Cowen and Company LLC - Analyst  Ken Gawrelski  Wells Fargo Securities LLC - Equity Analyst  Deepak Mathivanan  Cantor Fitzgerald LP - Research Analyst  Naved Khan  B. Riley Securities Holdings Inc - Equity Analyst  Lee Horowitz  Deutsche Bank AG - Research Analyst  Trevor Young  Barclays Services Corp - Analyst, Mahaney  Evercore Inc",
+      "firm": "Eric Sheridan  Goldman Sachs Group",
+      "speaker_type": "analyst",
+      "mention_count": 59
+    },
+    {
+      "name": "Rob Bevegni",
+      "title": "Vice President of Investor Relations  Ariane Gorin  Expedia Group Inc - Chief Executive Officer  Scott Schenkel  Expedia Group Inc - Chief Financial Officer, Expedia Group Inc",
+      "firm": "Expedia Group",
+      "speaker_type": "executive",
+      "mention_count": 3
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 37,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "EXPE total revenue",
+      "predicate": "reported",
+      "object": "$2.2 billion",
+      "value": 2.2,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "EXPE gross margin",
+      "predicate": "reported",
+      "object": "$24 percent",
+      "value": 24,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "EXPE EPS",
+      "predicate": "reported",
+      "object": "$3.78",
+      "value": 3.78,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EXPE",
+      "predicate": "stated",
+      "object": "we expect gross bookings growth to be between 10% to 12% with revenue of 11% to 13%",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EXPE",
+      "predicate": "stated",
+      "object": "we expect EBITDA margins to be up 3 to 4 points",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EXPE",
+      "predicate": "stated",
+      "object": "we expect gross bookings growth to be between 6% and 8% and revenue of 6% to 9%, including 1 and 2 points of FX tailwind, respectively",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EXPE",
+      "predicate": "stated",
+      "object": "we expect a more moderate pace of expansion in 2025 as we lap the benefits from our 2025 headcount reductions and marketing optimization",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EXPE",
+      "predicate": "stated",
+      "object": "we believe make travelers want to continue a deep relationship with us",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EXPE",
+      "predicate": "stated",
+      "object": "we expect our first quarter bookings growth of 10% to 12%",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EXPE",
+      "predicate": "stated",
+      "object": "we expect to be able to deliver that",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "EXPE",
+      "predicate": "mentioned",
+      "object": "Google",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/EXPE/transcripts",
+  "origin": {
+    "leaf": "5eeaa3ea3fe35696f17d131bb9ad2e62f5aa83f401242f6cf1deea80d9fa244b",
+    "parent": "f65c75bee01a33a2c2331ae7983785722d98a4343693ea1d340143a4e521fcc5054a1f0f98e697934960194c330292d2",
+    "timestamp": "2026-04-12T03:13:00.750Z",
+    "source": "transcript:EXPE_EXPE-USQ_Transcript_2026-02-12.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5eeaa3ea3fe35696f17d131bb9ad2e62f5aa83f401242f6cf1deea80d9fa244b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.750Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

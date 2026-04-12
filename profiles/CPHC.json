@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CPHC",
+  "name": "Canterbury Park Holding Corp",
+  "cik": "0001672909",
+  "summary": "Canterbury Park Holding Corporation operates the Canterbury Park Racetrack and Casino in Shakopee, Minnesota, approximately 20 miles southwest of Minneapolis. The company conducts pari-mutuel wagering on live thoroughbred and quarter horse races (seasonal, May–September) and year-round simulcasting, hosts unbanked card games (poker and table games) at an up to 80-table Casino, provides food and beverage services, and pursues real estate development on its approximately 260-acre property through subsidiaries Canterbury Park Entertainment LLC and Canterbury Development LLC.",
+  "products": [
+    {
+      "name": "Pari-Mutuel Wagering (Live Racing)",
+      "type": "service",
+      "description": "Seasonal live thoroughbred and quarter horse racing with pari-mutuel wagering, hosted May through September at the Racetrack."
+    },
+    {
+      "name": "Simulcast Wagering",
+      "type": "service",
+      "description": "Year-round wagering on horse races from out-of-state and international tracks televised simultaneously at the Racetrack."
+    },
+    {
+      "name": "Casino Card Games",
+      "type": "service",
+      "description": "Unbanked poker and table games including Blackjack, Three Card Poker, and others, operating up to 80 tables 24/7."
+    },
+    {
+      "name": "Food and Beverage",
+      "type": "service",
+      "description": "Concessions, catering, and event services provided at the Racetrack facility."
+    },
+    {
+      "name": "Real Estate Development",
+      "type": "service",
+      "description": "Real estate development operations conducted through Canterbury Development LLC on the company's Shakopee land holdings."
+    },
+    {
+      "name": "Advanced Deposit Wagering (ADW)",
+      "type": "service",
+      "description": "Online pari-mutuel wagering for Minnesota residents on out-of-state horse races via ADW providers, collecting a source market fee."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Minnesota Horsemen's Benevolent and Protective Association (MNHBPA)",
+      "partnership_type": "strategic",
+      "description": "Annual agreements governing purse contributions and consent for simulcast operations at the Racetrack.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Minnesota Quarter Horse Racing Association (MQHRA)",
+      "partnership_type": "strategic",
+      "description": "Annual agreements governing purse contributions for quarter horse racing operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Minnesota Breeders Fund (MBF)",
+      "partnership_type": "strategic",
+      "description": "Receives 1% of pari-mutuel handle and 10% of purse monies as required by Minnesota law.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CPHC/profile",
+  "origin": {
+    "leaf": "20d9a6cb23f5c9e76ccfdb836b6da3b01fc26f7b7ebf827be6292189c3be7d3e",
+    "parent": "d9ed4ee6a4e7ecc90d331e71e3c39ebb30c70cec79b544d9786bf54f980adcd4",
+    "timestamp": "2026-04-12T03:12:57.527Z",
+    "source": "profile:0001672909",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/20d9a6cb23f5c9e76ccfdb836b6da3b01fc26f7b7ebf827be6292189c3be7d3e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.527Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

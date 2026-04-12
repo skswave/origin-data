@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "KFFB",
+  "name": "Kentucky First Federal Bancorp",
+  "cik": "0001297341",
+  "summary": "Kentucky First Federal Bancorp is a mid-tier savings institution holding company operating two community-oriented savings banks in Kentucky: First Federal Savings and Loan Association of Hazard and First Federal Savings Bank of Kentucky. The company primarily attracts deposits from the general public and originates adjustable-rate and fixed-rate mortgage loans secured by one- to four-family residential real estate, as well as home equity loans, church loans, commercial real estate, and multi-family property loans.",
+  "products": [
+    {
+      "name": "Adjustable-Rate Residential Mortgage Loans",
+      "type": "service",
+      "description": "Loans indexed to MIRS Transition Index or 1-Year CMT, adjusted annually, with lifetime caps."
+    },
+    {
+      "name": "Fixed-Rate Mortgage Loans",
+      "type": "service",
+      "description": "Fixed-rate mortgages with terms up to 30 years, originated primarily for sale on the secondary market."
+    },
+    {
+      "name": "Home Equity Loans",
+      "type": "service",
+      "description": "Loans secured by home equity offered to consumers in the Banks' market areas."
+    },
+    {
+      "name": "Deposit Accounts",
+      "type": "service",
+      "description": "Savings and deposit products offered to the general public, insured by the FDIC."
+    },
+    {
+      "name": "Church and Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Loans secured by churches, multi-family properties, and professional office buildings."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Federal Home Loan Bank of Cincinnati",
+      "partnership_type": "strategic",
+      "description": "Both Banks are members, providing access to one of 11 regional FHLB system banks for funding.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/KFFB/profile",
+  "origin": {
+    "leaf": "4863ee563c35c290af8d1f410540935e74cab48fd1366dd33d4d60e526f51dbf",
+    "parent": "9ac3d6422ecead62a9a3757061be6eb0a2451e7d916c4f51be5a419565693bc0",
+    "timestamp": "2026-04-12T03:12:57.987Z",
+    "source": "profile:0001297341",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4863ee563c35c290af8d1f410540935e74cab48fd1366dd33d4d60e526f51dbf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.987Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

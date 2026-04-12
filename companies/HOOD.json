@@ -1,0 +1,61 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HOOD",
+  "name": "Robinhood Markets, Inc.",
+  "cik": "0001783879",
+  "exchange": "Nasdaq",
+  "sic": "6211",
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Robinhood Markets, Inc. is a financial services platform offering commission-free investing in equities, options, cryptocurrency, and futures. Products include brokerage accounts, IRAs, a cash management account (Robinhood Money), Robinhood Gold subscription, margin lending, cash sweep, securities lending, and the TradePMR RIA custody platform. The company also operates Bitstamp, a cryptocurrency exchange, and Sherwood Media. Robinhood targets retail investors and RIAs primarily in the U.S., U.K., and internationally.",
+  "tags": [
+    "retail-investing-and-brokerage",
+    "cryptocurrency-trading",
+    "retirement-accounts-(ira)",
+    "registered-investment-advisor-(ria)-custody",
+    "margin-lending",
+    "cash-management-and-banking",
+    "futures-and-derivatives-trading",
+    "international-financial-services-(u.k.,-eu,-singapore,-mena)",
+    "acats-(automated-customer-account-transfer-service)",
+    "cat-(consolidated-audit-trail)",
+    "ebs-(electronic-blue-sheets)",
+    "trf-(trade-reporting-facilities)",
+    "nms-(national-market-system)",
+    "sofr-(secured-overnight-financing-rate)",
+    "mica-(markets-in-crypto-assets-regulation)",
+    "mifid-(markets-in-financial-instruments-directive-ii)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HOOD",
+  "origin": {
+    "leaf": "e2e1093234815c92242536ded55b3ebae0f55242e8139f1664125b67765960bd",
+    "parent": "28a3f70b28049e477f5ac3bbce21e3895d1b7bb407ced8a161d3632626f505ac",
+    "timestamp": "2026-04-12T03:12:50.336Z",
+    "source": "0001783879-26-000023",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e2e1093234815c92242536ded55b3ebae0f55242e8139f1664125b67765960bd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.336Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

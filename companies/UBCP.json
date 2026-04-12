@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "UBCP",
+  "name": "UNITED BANCORP INC /OH/",
+  "cik": "0000731653",
+  "exchange": "Nasdaq",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "OH",
+  "headquarters": "Martins Ferry, Ohio",
+  "founded": "1983",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "United Bancorp, Inc. is an Ohio bank holding company headquartered in Martins Ferry, Ohio, operating through its wholly-owned subsidiary Unified Bank. The company provides commercial and retail banking services including demand, savings, and time deposits, as well as commercial, real estate, and consumer loans. It operates through a main office, standalone operations center, and eighteen branches across northeastern, eastern, southeastern, and south central Ohio and the Northern panhandle of West Virginia.",
+  "tags": [
+    "commercial-banking",
+    "retail-banking",
+    "northeastern-ohio",
+    "eastern-ohio",
+    "southeastern-ohio",
+    "south-central-ohio",
+    "northern-panhandle-of-west-virginia"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/UBCP",
+  "origin": {
+    "leaf": "14bfff8aab4d06ed2e536964e11a10aa66da1d9cf1329447c66725488ca44785",
+    "parent": "9c0be1afedc361046609fe43aae8d02f047cd13a02d77400c1bc05aa8c85b5ef",
+    "timestamp": "2026-04-12T03:12:52.264Z",
+    "source": "0001104659-26-030899",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/14bfff8aab4d06ed2e536964e11a10aa66da1d9cf1329447c66725488ca44785",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.264Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

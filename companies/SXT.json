@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SXT",
+  "name": "SENSIENT TECHNOLOGIES CORP",
+  "cik": "0000310142",
+  "exchange": "NYSE",
+  "sic": "2860",
+  "sic_description": "Industrial Organic Chemicals",
+  "state_of_incorporation": "WI",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I . General Sensient Technologies Corporation (the Company) was incorporated under the laws of the State of Wisconsin in 1882. Its principal executive offices are located at 777 East Wisconsin Avenue, Suite 1100, Milwaukee, Wisconsin 53202-5304, telephone (414) 271-6755. The Company is subject to the informational and reporting requirements of the Securities Exchange Act of 1934, as amended (the Exchange Act). In accordance with the Exchange Act, the Company files annual, quarterly and curr...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SXT",
+  "origin": {
+    "leaf": "6887be3653535fb0200196c2ee6dadde9635ff111c3ac00d5274301ffd11657e",
+    "parent": "a3a823095b2c21ebe1e8b5ddebbc9ba6dddf265bee87e667db67e937f0b610b2",
+    "timestamp": "2026-04-12T03:12:50.717Z",
+    "source": "0001140361-26-005311",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6887be3653535fb0200196c2ee6dadde9635ff111c3ac00d5274301ffd11657e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.717Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

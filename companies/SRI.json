@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SRI",
+  "name": "STONERIDGE INC",
+  "cik": "0001043337",
+  "exchange": "NYSE",
+  "sic": "3714",
+  "sic_description": "Motor Vehicle Parts & Accessories",
+  "state_of_incorporation": "OH",
+  "headquarters": null,
+  "founded": "1965",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Stoneridge, Inc. is a global supplier of electronics systems and technologies for commercial, automotive, off-highway, and agricultural vehicle markets. Founded in 1965, the company produces actuators, sensors, switches, connectors, advanced driver information systems, vision systems (including the MirrorEye camera monitor system), connectivity and compliance solutions, vehicle tracking devices, telematics solutions, and multimedia devices. Products are sold to OEMs, Tier 1 suppliers, and aftermarket distributors across 21 locations in 14 countries.",
+  "tags": [
+    "commercial-vehicle",
+    "automotive",
+    "off-highway-and-other",
+    "agricultural-vehicle",
+    "aftermarket-distributors-and-monitoring-services",
+    "south-american-vehicle-market"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SRI",
+  "origin": {
+    "leaf": "64d5d2e86b469f585955c49ce0db1f082302fedaaa2c441360a81696d74e08e8",
+    "parent": "bdb90945bab60dae68a07b56e33918d5dd1ea06bb68ce02246e1f2bed54e6a70",
+    "timestamp": "2026-04-12T03:12:52.090Z",
+    "source": "0001043337-26-000023",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/64d5d2e86b469f585955c49ce0db1f082302fedaaa2c441360a81696d74e08e8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.090Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NGVC",
+  "name": "Natural Grocers by Vitamin Cottage, Inc.",
+  "cik": "0001547459",
+  "summary": "Natural Grocers by Vitamin Cottage, Inc. is a specialty retailer of natural and organic groceries and dietary supplements operating 169 stores in 21 states as of September 30, 2025. The company sells only USDA certified organic produce, pasture-raised dairy, free-range eggs, humanely sourced meats, and dietary supplements, averaging approximately 20,000 SKUs per comparable store, including ~6,500 supplement SKUs. It also provides free nutrition education through trained staff, Health Hotline magazine, and Nutritional Health Coaches.",
+  "products": [
+    {
+      "name": "Natural and Organic Groceries",
+      "type": "service",
+      "description": "USDA certified organic produce and grocery products free of artificial flavors, preservatives, sweeteners, synthetic colors, and hydrogenated oils."
+    },
+    {
+      "name": "Dietary Supplements",
+      "type": "service",
+      "description": "Approximately 6,500 SKUs of dietary supplements per comparable store meeting strict quality guidelines."
+    },
+    {
+      "name": "Body Care Products",
+      "type": "service",
+      "description": "Natural body care products meeting the company's strict quality and ingredient standards."
+    },
+    {
+      "name": "Pet Care Products",
+      "type": "service",
+      "description": "Natural pet care products sold as part of the company's broader natural product offering."
+    },
+    {
+      "name": "Natural Grocers Brand Products",
+      "type": "service",
+      "description": "Private label products sold under the Natural Grocers brand name."
+    },
+    {
+      "name": "Health Hotline Magazine",
+      "type": "service",
+      "description": "Free science-based nutrition education publication provided to customers."
+    },
+    {
+      "name": "Nutrition Education Services",
+      "type": "service",
+      "description": "Free nutrition education via trained Crew members, NHCs, classes, cooking demonstrations, and one-on-one health coaching."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NGVC/profile",
+  "origin": {
+    "leaf": "0d3fd970a45cbc1b64d84275278b9a0b7207c1a2d247afab723f5d86a9c73ec0",
+    "parent": "acf99831cd6810cfefddfceeda7fd97bdd355acf5c17c6060e2ff2e1a4b8103e",
+    "timestamp": "2026-04-12T03:12:56.271Z",
+    "source": "profile:0001547459",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0d3fd970a45cbc1b64d84275278b9a0b7207c1a2d247afab723f5d86a9c73ec0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.271Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "QNTO",
+  "name": "QUAINT OAK BANCORP, INC.",
+  "cik": "0001391933",
+  "exchange": "OTC",
+  "sic": "6036",
+  "sic_description": "Savings Institutions, Not Federally Chartered",
+  "state_of_incorporation": "PA",
+  "headquarters": "Southampton, Pennsylvania",
+  "founded": "1926",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Quaint Oak Bancorp, Inc. is a Pennsylvania-based savings and loan holding company for Quaint Oak Bank, a chartered savings bank founded in 1926. The company offers commercial real estate loans, commercial business loans, residential mortgage loans, multi-family loans, construction loans, home equity loans, mortgage banking, title abstract, insurance services, and international correspondent banking through offices in Southampton, Allentown, and Philadelphia, Pennsylvania.",
+  "tags": [
+    "commercial-real-estate-lending",
+    "residential-mortgage-banking",
+    "small-business-lending",
+    "consumer-banking-and-deposits",
+    "title-abstract-and-insurance",
+    "international-correspondent-banking",
+    "mid-atlantic-and-southeast-commercial-real-estate"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/QNTO",
+  "origin": {
+    "leaf": "571a747052a7fada16ff85e0198a588de96817bca6c9f6f42b0f397af822345c",
+    "parent": "eec71ac421a1704877ed299680f2fb9994aa3064eafee770e5df4a22c39b647a",
+    "timestamp": "2026-04-12T03:12:52.599Z",
+    "source": "0000927089-26-000044",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/571a747052a7fada16ff85e0198a588de96817bca6c9f6f42b0f397af822345c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.599Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NMEX",
+  "name": "NORTHERN MINERALS & EXPLORATION LTD.",
+  "cik": "0001415744",
+  "exchange": "OTC",
+  "sic": "1040",
+  "sic_description": "Gold and Silver Ores",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": "2006",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0731",
+  "summary": "Northern Minerals & Exploration Ltd. is a Nevada-incorporated emerging natural resource company engaged in oil and gas production in central Texas and gold and silver exploration in northern Nevada. It operates through subsidiaries including Kathis Energy LLC (Texas oil and gas drilling) and ENMEX Operations LLC (Mexico real estate development), though both subsidiaries report no operational activity to date.",
+  "tags": [
+    "oil-and-gas-production",
+    "precious-metals-exploration",
+    "real-estate-development"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NMEX",
+  "origin": {
+    "leaf": "d5d2da9caff4fabbc411e110128a3438033574bc9c08436aa18bf225778d9e0b",
+    "parent": "50f8e7f1f122e6b530c0003e70ee51ec1edfe1fa4233d07de334f9237f47fb84",
+    "timestamp": "2026-04-12T03:12:53.039Z",
+    "source": "0001437749-25-035266",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d5d2da9caff4fabbc411e110128a3438033574bc9c08436aa18bf225778d9e0b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.039Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NUE",
+  "name": "NUCOR CORP",
+  "cik": "0000073309",
+  "exchange": "NYSE",
+  "sic": "3312",
+  "sic_description": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Item 1. B usiness. Overview Nucor Corporation, a Delaware corporation incorporated in 1958, and its affiliates (Nucor, the Company, we, us or our) manufacture steel and steel products. The Company also produces and procures ferrous and non-ferrous materials primarily for use in its steel manufacturing business. Most of the Companys operating facilities and customers are located in North America. The Companys operations include international trading and sales companies that buy and sell st...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NUE",
+  "origin": {
+    "leaf": "74079de3203bed9833ac70bb2f6348ccfad3e696c0daeeb996496677cb6ad97e",
+    "parent": "382d11808a649837b153d38603827153df14bfd4bdc4a4ebfe612862c3408983",
+    "timestamp": "2026-04-12T03:12:50.361Z",
+    "source": "0001193125-26-071575",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/74079de3203bed9833ac70bb2f6348ccfad3e696c0daeeb996496677cb6ad97e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.361Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

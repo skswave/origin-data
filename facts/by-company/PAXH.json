@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "PAXH",
+  "total_facts": 6,
+  "by_type": {
+    "topic_mention": 6
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "PAXH",
+      "predicate": "discussed_in_filing",
+      "object": "Artificial Intelligence",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PAXH",
+      "predicate": "discussed_in_filing",
+      "object": "Artificial Intelligence",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PAXH",
+      "predicate": "discussed_in_filing",
+      "object": "Artificial Intelligence",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PAXH",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PAXH",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PAXH",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PAXH/transcripts",
+  "origin": {
+    "leaf": "20c36ea19d77d0fb0260652dcecfaa0bdb6c93db9c479b63f510c0300a71fe0c",
+    "parent": "35eeaf8d3254cac92cbe5a1ef3967e0b6ab82ee536b5aed0568d8c296030622a",
+    "timestamp": "2026-04-12T03:15:21.041Z",
+    "source": "facts:PAXH",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/20c36ea19d77d0fb0260652dcecfaa0bdb6c93db9c479b63f510c0300a71fe0c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:15:21.041Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

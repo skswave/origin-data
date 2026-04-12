@@ -1,0 +1,61 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VBIX",
+  "name": "Viewbix Inc.",
+  "cik": "0000797542",
+  "summary": "Viewbix Inc. is a Delaware-incorporated company focused on digital advertising, quantum technology and computing, and enterprise AI solutions. Through subsidiaries Gix Media and Metagramm, it develops and markets technological platforms that automate, optimize, and monetize digital online campaigns. It also recently acquired Quantum X Labs Ltd., adding quantum computing capabilities. The company operates primarily in Israel and trades on the Nasdaq Capital Market under ticker VBIX.",
+  "products": [
+    {
+      "name": "Video Advertising Platform",
+      "type": "platform",
+      "description": "Allows clients with digital video properties to enable viewer engagement and interaction, measuring specific viewer actions and reporting results."
+    },
+    {
+      "name": "Gix Media Platform",
+      "type": "platform",
+      "description": "Digital advertising platform automating, optimizing, and monetizing digital online campaigns."
+    },
+    {
+      "name": "Metagramm Enterprise AI Solutions",
+      "type": "software",
+      "description": "Enterprise artificial intelligence solutions offered through wholly-owned subsidiary Metagramm Software Ltd."
+    },
+    {
+      "name": "Quantum X Labs Technology",
+      "type": "platform",
+      "description": "Quantum technology and computing solutions offered through wholly-owned subsidiary Quantum X Labs Ltd."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Gix Internet Ltd.",
+      "partnership_type": "strategic",
+      "description": "Parent company that transferred 99.83% of Viewbix Israel to Viewbix Inc. via a Recapitalization Transaction in 2019.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Pro Sportority (Israel) Ltd. / Minute Media Inc.",
+      "partnership_type": "strategic",
+      "description": "Acquired 100% of Cortex Media Group Ltd. from Gix Media via Share Purchase Agreement closed November 9, 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VBIX/profile",
+  "origin": {
+    "leaf": "d9b3eff82c2b0d932039919ac6141a834733e4d4354d57180ef963e8e4e0679a",
+    "parent": "3d26bffbbbd441aca621bcaac204a176dcb82a89006b8705cdf3c889c9f2078f",
+    "timestamp": "2026-04-12T03:12:58.226Z",
+    "source": "profile:0000797542",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d9b3eff82c2b0d932039919ac6141a834733e4d4354d57180ef963e8e4e0679a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.226Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BFNH",
+  "name": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
+  "cik": "0001310488",
+  "summary": "BioForce Nanosciences Holdings, Inc. (BFNH) is a nutritional supplements company that markets and sells vitamins, minerals, powders, and beverages under the BioForce Eclipse brand. Its flagship product is a private-label multivitamin and mineral supplement powder produced by Body Align, LLC in Virginia. The company targets athletes, elderly individuals, and health-conscious consumers, selling through online channels, social media, and B2B sales. It reported no customers in fiscal years 2022 and 2023.",
+  "products": [
+    {
+      "name": "BioForce Eclipse",
+      "type": "hardware",
+      "description": "Private-label multivitamin and mineral supplement powder containing amino acids, key vitamins, and plant-based proteins, produced by Body Align, LLC in Virginia."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Body Align, LLC",
+      "partnership_type": "OEM",
+      "description": "Private label manufacturer and distributor of BioForce Eclipse powder supplement, providing manufacturing, custom labeling, packaging, and consignment terms.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BFNH/profile",
+  "origin": {
+    "leaf": "b10ba1956528a328401b6f10a20355ea7ca5e7e61870ab738cb4a762504b24ae",
+    "parent": "b80ed827eab52b5df9d622219751d1ae88b18ff664e8958c9966b73eb6f5b550",
+    "timestamp": "2026-04-12T03:12:58.330Z",
+    "source": "profile:0001310488",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b10ba1956528a328401b6f10a20355ea7ca5e7e61870ab738cb4a762504b24ae",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.330Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

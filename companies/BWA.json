@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BWA",
+  "name": "BORGWARNER INC",
+  "cik": "0000908255",
+  "exchange": "NYSE",
+  "sic": "3714",
+  "sic_description": "Motor Vehicle Parts & Accessories",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PARTI BorgWarner Inc. (collectively with its consolidated subsidiaries, the Company or BorgWarner) is a Delaware corporation incorporated in 1987. The Company is a global product leader in clean and efficient technology solutions for combustion, hybrid and electric vehicles. BorgWarners products help improve vehicle performance, propulsion efficiency, stability and air quality. The Company manufactures and sells these products worldwide, primarily to original equipment manufacturers (OEMs) of li...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BWA",
+  "origin": {
+    "leaf": "6f3fcf4c741c8a3538ba8281c9a211317f2ff455b99bbec17760f9ce455714ed",
+    "parent": "cbc5e6f3cc8ec5efd838f8ff683b9ef92ea1e47702455bec39c8758006dd75d1",
+    "timestamp": "2026-04-12T03:12:50.487Z",
+    "source": "0000908255-26-000011",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6f3fcf4c741c8a3538ba8281c9a211317f2ff455b99bbec17760f9ce455714ed",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.487Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

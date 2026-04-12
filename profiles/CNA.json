@@ -1,0 +1,96 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CNA",
+  "name": "CNA FINANCIAL CORP",
+  "cik": "0000021175",
+  "summary": "CNA Financial Corporation is an insurance holding company incorporated in 1967. It offers commercial property and casualty coverages including surety, as well as warranty, risk management information services, and claims administration. Products are marketed through independent agents, retail and wholesale brokers, and managing general underwriters to small, medium, and large businesses, insurance companies, associations, and professionals across the U.S., Canada, U.K., Continental Europe, and Lloyd's of London.",
+  "products": [
+    {
+      "name": "Commercial Property and Casualty Insurance",
+      "type": "service",
+      "description": "Coverage for a wide range of commercial risks including property and casualty lines."
+    },
+    {
+      "name": "Surety",
+      "type": "service",
+      "description": "Surety bond products offered as part of commercial property and casualty coverages."
+    },
+    {
+      "name": "Warranty Services",
+      "type": "service",
+      "description": "Warranty products and services offered to customers."
+    },
+    {
+      "name": "Risk Management Information Services",
+      "type": "service",
+      "description": "Information services supporting risk management for clients."
+    },
+    {
+      "name": "Claims Administration",
+      "type": "service",
+      "description": "Claims handling and administration services for policyholders."
+    },
+    {
+      "name": "Commercial Property Insurance",
+      "type": "service",
+      "description": "Property coverage for commercial customers across various business sizes and industries."
+    },
+    {
+      "name": "Casualty Insurance",
+      "type": "service",
+      "description": "Liability and casualty coverages for businesses, associations, and professionals."
+    },
+    {
+      "name": "Surety Bonds",
+      "type": "service",
+      "description": "Surety products offered as part of commercial property and casualty portfolio."
+    },
+    {
+      "name": "Warranty Services",
+      "type": "service",
+      "description": "Warranty products and services for customers outside core P&C operations."
+    },
+    {
+      "name": "Risk Management Information Services",
+      "type": "service",
+      "description": "Information services supporting risk management for commercial clients."
+    },
+    {
+      "name": "Claims Administration",
+      "type": "service",
+      "description": "Claims handling and administration services for policyholders and insurance companies."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Lloyd's of London",
+      "partnership_type": "strategic",
+      "description": "Access to business placed at Lloyd's through Syndicate 382 via Hardy underwriting operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Lloyd's of London",
+      "partnership_type": "strategic",
+      "description": "CNA accesses business placed at Lloyd's through Syndicate 382 via Hardy underwriting operations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CNA/profile",
+  "origin": {
+    "leaf": "4e72af3c9adc09f461c3e28a0bbfe2684c7948de204098a31d2cdc23e0bb7b98",
+    "parent": "aafb23cf769e675cd3973e00df7cb9a7bd23a3e8f7bc050fccb8ed90d9f48962",
+    "timestamp": "2026-04-12T03:12:54.997Z",
+    "source": "profile:0000021175",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4e72af3c9adc09f461c3e28a0bbfe2684c7948de204098a31d2cdc23e0bb7b98",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.997Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

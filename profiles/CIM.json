@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CIM",
+  "name": "CHIMERA INVESTMENT CORP",
+  "cik": "0001409493",
+  "summary": "Chimera Investment Corporation is an internally managed REIT incorporated in Maryland in 2007 that invests in, originates, and manages primarily residential real estate assets. Products include residential mortgage loans, Non-Agency RMBS, Agency RMBS, Agency CMBS, MSRs, business purpose loans, RTLs, HELOCs, and reverse mortgages. Through subsidiary HomeXpress, it originates consumer Non-QM, investor business purpose, and QM residential mortgage loans. It also provides third-party investment management and advisory services via subsidiary Palisades Advisory Services LLC.",
+  "products": [
+    {
+      "name": "Non-Agency RMBS",
+      "type": "service",
+      "description": "Residential mortgage-backed securities not guaranteed by any U.S. government agency."
+    },
+    {
+      "name": "Agency RMBS",
+      "type": "service",
+      "description": "Residential MBS issued or guaranteed by Fannie Mae, Freddie Mac, or Ginnie Mae."
+    },
+    {
+      "name": "Agency CMBS",
+      "type": "service",
+      "description": "Commercial MBS issued or guaranteed by a federally chartered agency."
+    },
+    {
+      "name": "Residential Mortgage Loans",
+      "type": "service",
+      "description": "Direct investments in residential mortgage loans including RPLs and Non-QM loans."
+    },
+    {
+      "name": "Business Purpose Loans / RTLs",
+      "type": "service",
+      "description": "Residential transition loans and investor loans for business purposes."
+    },
+    {
+      "name": "MSRs",
+      "type": "service",
+      "description": "Mortgage servicing rights acquired or managed as part of investment portfolio."
+    },
+    {
+      "name": "HELOCs and Junior Liens",
+      "type": "service",
+      "description": "Home equity lines of credit and junior lien real estate assets."
+    },
+    {
+      "name": "Consumer Non-QM Loans",
+      "type": "service",
+      "description": "Non-qualified mortgage loans originated through HomeXpress for non-traditional borrowers."
+    },
+    {
+      "name": "Third-Party Investment Management and Advisory Services",
+      "type": "service",
+      "description": "Non-discretionary and discretionary investment management services provided via Palisades Advisory Services LLC."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CIM/profile",
+  "origin": {
+    "leaf": "aef1db5486e77780aabc6093ff8786c828b61d8826e26790b170635d082acc16",
+    "parent": "ccd503a346cda236aa5f104ddc7607f25420cec3919abdfa61bafca6f7952e29",
+    "timestamp": "2026-04-12T03:12:55.983Z",
+    "source": "profile:0001409493",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/aef1db5486e77780aabc6093ff8786c828b61d8826e26790b170635d082acc16",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.983Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

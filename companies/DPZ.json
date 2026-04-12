@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "DPZ",
+  "name": "DOMINOS PIZZA INC",
+  "cik": "0001286681",
+  "exchange": "Nasdaq",
+  "sic": "5140",
+  "sic_description": "Wholesale-Groceries & Related Products",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1960.0",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0102",
+  "summary": "Dominos Pizza, Inc. is the largest pizza company in the world with more than 22,100 locations in over 90 markets as of December 28, 2025. Founded in 1960, the company operates as primarily a franchisor (~99% franchised), offering pizza with varying sizes and crust types, bread products, wings, boneless chicken, pastas, oven-baked sandwiches, soft drinks, and desserts. Revenues are generated through franchise royalties, supply chain sales to franchisees, and Company-owned store operations.",
+  "tags": [
+    "u.s.-qsr-pizza-delivery",
+    "u.s.-qsr-pizza-carryout",
+    "international-qsr-pizza-delivery",
+    "international-qsr-pizza-carryout",
+    "franchise-operations"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/DPZ",
+  "origin": {
+    "leaf": "388704bcbe894fd68646ae1d2087a9daef06865de83d0588a9b37f4566206137",
+    "parent": "1ddd8c11dc0594ff49f0f4060e343e9b9cfbc36571029868e3e780ec128d3383",
+    "timestamp": "2026-04-12T03:12:50.479Z",
+    "source": "0001193125-26-062321",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/388704bcbe894fd68646ae1d2087a9daef06865de83d0588a9b37f4566206137",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.479Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

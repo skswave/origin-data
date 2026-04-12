@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FHB",
+  "name": "FIRST HAWAIIAN, INC.",
+  "cik": "0000036377",
+  "summary": "First Hawaiian, Inc. (ticker: FHB) is a bank holding company headquartered in Hawaii. It operates First Hawaiian Bank, providing a range of financial products and services including commercial banking, consumer banking, and wealth management services. The company serves customers across Hawaii and other markets through its network of branches and financial service offerings.",
+  "products": [
+    {
+      "name": "Commercial Banking",
+      "type": "service",
+      "description": "Business loans, lines of credit, and related commercial financial services."
+    },
+    {
+      "name": "Consumer Banking",
+      "type": "service",
+      "description": "Personal deposit accounts, loans, and retail banking products for individual customers."
+    },
+    {
+      "name": "Wealth Management",
+      "type": "service",
+      "description": "Investment, trust, and financial planning services for individuals and institutions."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FHB/profile",
+  "origin": {
+    "leaf": "4d172ef4ab824a4bf7d659c0d9139a649ed61fe47b8fef8eaffba999ce1dd006",
+    "parent": "4b7cec4fcc5de2a4cc5f7f80f9d7b8ed72f6f6bb050327fd549ef82129781aee",
+    "timestamp": "2026-04-12T03:12:55.479Z",
+    "source": "profile:0000036377",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4d172ef4ab824a4bf7d659c0d9139a649ed61fe47b8fef8eaffba999ce1dd006",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.479Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SF",
+  "name": "STIFEL FINANCIAL CORP",
+  "cik": "0000720672",
+  "summary": "Stifel Financial Corp. is a Delaware corporation and a financial holding company headquartered in St. Louis. We were organized in 1983. Our principal subsidiary is Stifel, Nicolaus & Company, Incorporated (Stifel), a full-service retail and institutional wealth management and investment banking firm. Stifel is the successor to a partnership founded in 1890. Our other subsidiaries include Stifel Independent Advisors, LLC (SIA), an independent contractor broker-dealer firm; Keefe, Bruyette & Woods...",
+  "live_api": "https://origin.rootz.global/api/company/SF/profile",
+  "origin": {
+    "leaf": "6eba35a28148ff8556df2037db29a8b807eb522b5ac2a9e6689fd66ecae2dfc3",
+    "parent": "f43ef123d7aa3f4a4703cc99d0b5922c2b87075f3d955494f2de4cf0b5dcaedd",
+    "timestamp": "2026-04-12T03:12:55.014Z",
+    "source": "profile:0000720672",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6eba35a28148ff8556df2037db29a8b807eb522b5ac2a9e6689fd66ecae2dfc3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.014Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

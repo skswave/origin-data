@@ -1,0 +1,112 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "CEG",
+  "total_facts": 7,
+  "by_type": {
+    "topic_mention": 7
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CEG",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 28,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CEG",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 28,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CEG",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 28,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CEG",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CEG",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CEG",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CEG",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CEG/transcripts",
+  "origin": {
+    "leaf": "804261ffcdf7d163440ff9b845837deafbe9725bc56fdbc02aa530cc3d930644",
+    "parent": "9cd87d993a7e79e3a6e3615b2bc6b90be5c83dd6bfa1ada11a151470c4858fff",
+    "timestamp": "2026-04-12T03:13:05.434Z",
+    "source": "facts:CEG",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/804261ffcdf7d163440ff9b845837deafbe9725bc56fdbc02aa530cc3d930644",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:05.434Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

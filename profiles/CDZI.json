@@ -1,0 +1,78 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CDZI",
+  "name": "CADIZ INC",
+  "cik": "0000727273",
+  "summary": "Cadiz Inc. is a Southern California water solutions provider owning approximately 46,000 acres of land in the Mojave Desert with 2.5 million acre-feet of permitted water supply and 1 million acre-feet of groundwater storage capacity. The company operates the Mojave Groundwater Bank, 220 miles of pipeline infrastructure, 43 miles of pipeline right-of-way, agricultural land, and water filtration technology (acquired from ATEC Systems) that removes contaminants including arsenic, nitrates, and Chromium 6 from groundwater.",
+  "products": [
+    {
+      "name": "Mojave Groundwater Bank",
+      "type": "service",
+      "description": "Permitted groundwater conservation and storage project supplying up to 50,000 AFY for 50 years to Southern California communities."
+    },
+    {
+      "name": "Northern Pipeline",
+      "type": "hardware",
+      "description": "220-mile converted steel pipeline transporting water from Cadiz Ranch across Kern and San Bernardino Counties to California's Central Valley."
+    },
+    {
+      "name": "Southern Pipeline",
+      "type": "hardware",
+      "description": "43-mile water conveyance pipeline system co-located within ARZC railroad right-of-way connecting Cadiz Ranch to the Colorado River Aqueduct."
+    },
+    {
+      "name": "ATEC Water Filtration Systems",
+      "type": "hardware",
+      "description": "Specialized filtration systems removing iron, manganese, arsenic, nitrates, Chromium 6 and other groundwater contaminants."
+    },
+    {
+      "name": "Agricultural Operations",
+      "type": "service",
+      "description": "Farming approximately 1,000 acres of grain/alfalfa crops and leasing 2,100 acres to Fenner Valley Farms LLC."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Arizona & California Railroad Company (ARZC)",
+      "partnership_type": "strategic",
+      "description": "99-year lease to co-locate Southern Pipeline within ARZC's 43-mile active railroad right-of-way.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Lytton Rancheria of California",
+      "partnership_type": "strategic",
+      "description": "Credit agreement for up to $51 million unsecured loan convertible into majority interest in Mojave Groundwater Bank storage cash flows, contributed to MWI.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fenner Valley Farms LLC",
+      "partnership_type": "strategic",
+      "description": "Lease of 2,100 acres at Cadiz Ranch for farming activities.",
+      "start_date": null
+    },
+    {
+      "partner_name": "RIC Energy",
+      "partnership_type": "strategic",
+      "description": "Lease agreement to develop a solar-powered green hydrogen production facility on up to 3,000 acres at Cadiz Ranch.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CDZI/profile",
+  "origin": {
+    "leaf": "3f8e5f145670ea60be663798c3b31acb1f05af41202c5bbb8169d1da06a4e46c",
+    "parent": "a320ea4f7226232af40007ce0115642cfccdab74c68326f401650f91f13ec936",
+    "timestamp": "2026-04-12T03:12:56.496Z",
+    "source": "profile:0000727273",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3f8e5f145670ea60be663798c3b31acb1f05af41202c5bbb8169d1da06a4e46c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.496Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

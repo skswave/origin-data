@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SYY",
+  "name": "SYSCO CORP",
+  "cik": "0000096021",
+  "exchange": "NYSE",
+  "sic": "5140",
+  "sic_description": "Wholesale-Groceries & Related Products",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0627",
+  "summary": "PART I Unless this Form 10-K indicates otherwise or the context otherwise requires, the terms we, our, us, Sysco, or the company as used in this Form 10-K refer to Sysco Corporation together with its consolidated subsidiaries and divisions. Overview Sysco Corporation, acting through its subsidiaries and divisions, is the largest global distributor of food and related products primarily to the foodservice or food-away-from-home industry.Our purpose is Connecting the World to Share Food and Care f...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 75000,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SYY",
+  "origin": {
+    "leaf": "71d5c79ea2fc3399ac4950c0a8a27ced38904d5d35d36c9bd9779bb6c8b192bf",
+    "parent": "46fd04b2a5505c8be50dfe474c8103af831cb00d8b8ede811201b7d5efa6e2e0",
+    "timestamp": "2026-04-12T03:12:50.370Z",
+    "source": "0000096021-25-000099",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/71d5c79ea2fc3399ac4950c0a8a27ced38904d5d35d36c9bd9779bb6c8b192bf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.370Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

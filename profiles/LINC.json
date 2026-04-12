@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LINC",
+  "name": "LINCOLN EDUCATIONAL SERVICES CORP",
+  "cik": "0001286613",
+  "summary": "Lincoln Educational Services Corporation provides diversified career-oriented postsecondary education to recent high school graduates and working adults. Operating 22 campuses in 12 states under brands Lincoln Technical Institute, Lincoln College of Technology, and Nashville Auto Diesel College, the company offers programs in skilled trades, automotive, health sciences, and information technology. As of December 31, 2025, enrollment was 17,046 students and annual revenue was $518.2 million.",
+  "products": [
+    {
+      "name": "Skilled Trades Programs",
+      "type": "service",
+      "description": "Diploma and degree programs in electrical, HVAC, welding, CNC machining, and advanced manufacturing with robotics."
+    },
+    {
+      "name": "Automotive Programs",
+      "type": "service",
+      "description": "Programs in automotive technology, collision repair, diesel and truck technology, and heavy equipment maintenance."
+    },
+    {
+      "name": "Health Sciences Programs",
+      "type": "service",
+      "description": "Programs including Licensed Practical Nurse, medical assisting, pharmacy technician, and dental assistant."
+    },
+    {
+      "name": "Information Technology Programs",
+      "type": "service",
+      "description": "Career-oriented IT diploma and certificate programs offered at select campuses."
+    },
+    {
+      "name": "Lincoln 10.0",
+      "type": "platform",
+      "description": "Hybrid teaching platform combining virtual and traditional classroom-based training, implementation substantially completed with full rollout expected by end of 2026."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LINC/profile",
+  "origin": {
+    "leaf": "d93aafb76efb498e0d1c40f2409c9160a343818ab4056b1fc820f07c6dfb0858",
+    "parent": "5a7c281d60456271af925989de5440ec40086198a7e2cdf86e9b78c1bd7eaf3f",
+    "timestamp": "2026-04-12T03:12:55.887Z",
+    "source": "profile:0001286613",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d93aafb76efb498e0d1c40f2409c9160a343818ab4056b1fc820f07c6dfb0858",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.887Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

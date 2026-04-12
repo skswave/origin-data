@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "UFI",
+  "total_facts": 12,
+  "by_type": {
+    "topic_mention": 12
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "UFI",
+      "predicate": "discussed_in_filing",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "semiconductor",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UFI",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UFI",
+      "predicate": "discussed_in_filing",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "semiconductor",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UFI",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UFI",
+      "predicate": "discussed_in_filing",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "semiconductor",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UFI",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UFI",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UFI",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UFI",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UFI",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UFI",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UFI",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UFI/transcripts",
+  "origin": {
+    "leaf": "a3d4b625de1c1bff394db99e45bacfadee2df5c7a88d8740cfecfb70c8ef3f59",
+    "parent": "d1d66ac1f3c06ff091c3b82394f2c60a18f636088aa1367e160e1ea2b0ed536e",
+    "timestamp": "2026-04-12T03:14:56.742Z",
+    "source": "facts:UFI",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a3d4b625de1c1bff394db99e45bacfadee2df5c7a88d8740cfecfb70c8ef3f59",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:56.742Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

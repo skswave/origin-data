@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CPAY",
+  "name": "CORPAY, INC.",
+  "cik": "0001175454",
+  "exchange": "NYSE",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "2000",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Corpay, Inc. is a global corporate payments company providing businesses and consumers with payment and spend management solutions. Products include AP automation, cross-border payments (foreign exchange spot, forward, and option transactions), virtual cards, purchasing cards, fuel cards, toll payments, and lodging payment solutions. Corpay serves millions of businesses worldwide through direct sales, digital channels, and strategic partnerships, competing with financial institutions and specialized payment providers.",
+  "tags": [
+    "corporate-payments-and-ap-automation",
+    "cross-border-and-foreign-exchange-payments",
+    "vehicle-payments-and-fleet-fuel-management",
+    "lodging-payments-and-travel-management",
+    "spend-management-and-commercial-cards",
+    "alternative-investment-industry-banking-solutions",
+    "swift-international-payments-network",
+    "api-integration",
+    "stablecoins-for-liquidity-movement",
+    "transaction-monitoring-and-watch-list-screening-systems"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CPAY",
+  "origin": {
+    "leaf": "9faa1ffcdee2473eb96c7d9edcaa64b3e34af517b87282b18c536da089afaa32",
+    "parent": "a87526dc6e0255bc1eaf5e639127bcfcfb2b9bbb8aaac145371b9c4df9785e14",
+    "timestamp": "2026-04-12T03:12:50.412Z",
+    "source": "0001175454-26-000018",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9faa1ffcdee2473eb96c7d9edcaa64b3e34af517b87282b18c536da089afaa32",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.412Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

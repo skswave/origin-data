@@ -1,0 +1,74 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BILL",
+  "name": "BILL Holdings, Inc.",
+  "cik": "0001786352",
+  "summary": "BILL Holdings, Inc. is a leading financial operations platform for small and midsize businesses (SMBs), headquartered in San Jose, California. Its integrated, AI-enabled platform automates accounts payable, accounts receivable, and spend and expense management. Products include BILL Spend and Expense (corporate cards and expense management). As of June 30, 2025, approximately 493,800 businesses used its solutions, processing approximately $330 billion in Total Payment Volume during fiscal 2025, with 8.3 million network members.",
+  "products": [
+    {
+      "name": "BILL Accounts Payable Automation",
+      "type": "platform",
+      "description": "Automates the full payables process including bill capture, approval workflows, payment, and accounting system synchronization."
+    },
+    {
+      "name": "BILL Accounts Receivable",
+      "type": "platform",
+      "description": "Enables businesses to issue invoices and collect payments from clients electronically."
+    },
+    {
+      "name": "BILL Spend and Expense",
+      "type": "software",
+      "description": "Provides smart corporate cards, budget monitoring, payment management, and eliminates manual expense reports."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "U.S. financial institutions",
+      "partnership_type": "strategic",
+      "description": "BILL partners with leading U.S. financial institutions as distribution and integration partners.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Accounting firms",
+      "partnership_type": "strategic",
+      "description": "Accounting firms serve as indirect distribution channel partners for BILL's platform.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Software providers",
+      "partnership_type": "strategic",
+      "description": "BILL integrates with popular software solutions including accounting software to extend platform reach.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Card issuers",
+      "partnership_type": "strategic",
+      "description": "BILL integrates with card issuers to enable spend and payment management services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Payment processors",
+      "partnership_type": "strategic",
+      "description": "BILL integrates with payment processors to facilitate ACH, check, card, and wire transactions.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BILL/profile",
+  "origin": {
+    "leaf": "450bda34051e4a3e09f0d9d099fc24cbd978b9d0994b3567b049aa570bdad51f",
+    "parent": "9290f17d04895917ad7f165a05961ff52331a985ce3f1fa224ea6f4750f7a7d7",
+    "timestamp": "2026-04-12T03:12:55.374Z",
+    "source": "profile:0001786352",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/450bda34051e4a3e09f0d9d099fc24cbd978b9d0994b3567b049aa570bdad51f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.374Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

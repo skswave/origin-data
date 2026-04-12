@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "DFIN",
+  "name": "Donnelley Financial Solutions, Inc.",
+  "cik": "0001669811",
+  "exchange": "NYSE",
+  "sic": "7380",
+  "sic_description": "Services-Miscellaneous Business Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Donnelley Financial Solutions, Inc. (DFIN) provides software and services for financial regulatory compliance and capital markets transactions. The company offers solutions for SEC filing, document management, and compliance reporting. Its products include ActiveDisclosure and Arc Suite platforms, serving clients such as investment companies, public corporations, and financial institutions with technology-enabled compliance and regulatory filing solutions.",
+  "tags": [
+    "capital-markets",
+    "investment-management",
+    "public-corporations",
+    "financial-regulatory-compliance"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/DFIN",
+  "origin": {
+    "leaf": "b628d254dff82e2c34ae5a1a9e5415abd36ca1d6b43de12ec73fd4191d0d6e6e",
+    "parent": "773614e7e3cbaf7ba790ebee881b78786551941477ebbee4c1a2b027ef16a1af",
+    "timestamp": "2026-04-12T03:12:51.034Z",
+    "source": "0001193125-26-054586",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b628d254dff82e2c34ae5a1a9e5415abd36ca1d6b43de12ec73fd4191d0d6e6e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.034Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "WRB",
+  "name": "BERKLEY W R CORP",
+  "cik": "0000011544",
+  "exchange": "NYSE",
+  "sic": "6331",
+  "sic_description": "Fire, Marine & Casualty Insurance",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1970",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "W. R. Berkley Corporation is a Delaware-incorporated insurance holding company and one of the largest commercial lines writers in the United States. It operates in two segments: Insurance (excess and surplus lines, admitted lines, specialty personal lines in the U.S. and internationally) and Reinsurance & Monoline Excess (facultative and treaty reinsurance globally). The company operates 60 businesses across the U.S., Asia, Australia, Canada, Europe, Mexico, Scandinavia, South America, and the UK, with net premiums written of $12.7 billion in 2025.",
+  "tags": [
+    "u.s.-commercial-insurance",
+    "excess-and-surplus-lines",
+    "specialty-personal-lines",
+    "international-insurance-(asia,-australia,-canada,-europe,-mexico,-scandinavia,-south-america,-uk)",
+    "reinsurance-(u.s.-and-international)",
+    "small-to-midsized-businesses",
+    "program-management"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/WRB",
+  "origin": {
+    "leaf": "8fa53205ce8722b4a30aedac983e433ffc6fa64b672bfede5ca5c39f953ee385",
+    "parent": "6413e550174b7bb20bd2dce12776e9a0d0898785eb865850046d895ca9cccae6",
+    "timestamp": "2026-04-12T03:12:50.396Z",
+    "source": "0000011544-26-000005",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8fa53205ce8722b4a30aedac983e433ffc6fa64b672bfede5ca5c39f953ee385",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.396Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

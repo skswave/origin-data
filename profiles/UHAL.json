@@ -1,0 +1,122 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UHAL",
+  "name": "U-Haul Holding Co /NV/",
+  "cik": "0000004457",
+  "summary": "U-Haul Holding Company, through subsidiary U-Haul International, Inc., is North America's largest do-it-yourself moving and storage operator. It rents trucks, trailers, towing devices, self-storage units, and portable U-Box moving and storage units through nearly 2,400 Company-operated retail stores and over 21,600 independent dealers. It also sells moving supplies, offers insurance through Repwest and ARCOA subsidiaries, and sells life insurance, Medicare supplement, and annuities through Oxford Life Insurance Company.",
+  "products": [
+    {
+      "name": "Truck Rentals",
+      "type": "service",
+      "description": "Rental of orange and white U-Haul trucks for do-it-yourself moving, featuring Lowest Deck, Gentle Ride Suspension, and Moms Attic."
+    },
+    {
+      "name": "Trailer Rentals",
+      "type": "service",
+      "description": "Rental of U-Haul manufactured trailers designed for low-profile vehicles including electric vehicles."
+    },
+    {
+      "name": "Towing Devices",
+      "type": "service",
+      "description": "Three towing options: auto transport, toy hauler, and tow dolly for vehicle transport."
+    },
+    {
+      "name": "Self-Storage Units",
+      "type": "service",
+      "description": "Orange door self-storage units available at Company-operated retail moving store locations."
+    },
+    {
+      "name": "U-Box",
+      "type": "service",
+      "description": "Portable moving and storage units available through retail stores, uhaul.com, and mobile app."
+    },
+    {
+      "name": "Moving Supplies",
+      "type": "service",
+      "description": "U-Haul brand boxes, tape, and other moving and self-storage products sold at retail locations and online."
+    },
+    {
+      "name": "Safemove / Safemove Plus",
+      "type": "service",
+      "description": "Moving protection products offered to rental customers through property and casualty insurance subsidiaries."
+    },
+    {
+      "name": "Safestor",
+      "type": "service",
+      "description": "Storage protection product offered to self-storage customers."
+    },
+    {
+      "name": "Oxford Life Insurance Products",
+      "type": "service",
+      "description": "Life insurance, Medicare supplement insurance, and annuities sold to the senior market through Oxford Life Insurance Company."
+    },
+    {
+      "name": "U-Haul Truck Share 24/7",
+      "type": "platform",
+      "description": "Self-service truck sharing program allowing customers to rent trucks without in-person dealer interaction."
+    },
+    {
+      "name": "Moving Help / Moving Helper",
+      "type": "platform",
+      "description": "Platform connecting customers with moving labor assistance."
+    },
+    {
+      "name": "WebSelfStorage",
+      "type": "platform",
+      "description": "Online self-storage management platform."
+    },
+    {
+      "name": "uhaul.com",
+      "type": "platform",
+      "description": "Company website and mobile app for equipment rental, storage, and product purchases."
+    },
+    {
+      "name": "U-Haul Investors Club",
+      "type": "service",
+      "description": "Investment program offered by U-Haul to customers and investors."
+    },
+    {
+      "name": "collegeboxes",
+      "type": "service",
+      "description": "Moving and storage service targeted at college students."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Independent U-Haul Dealers",
+      "partnership_type": "strategic",
+      "description": "Over 21,600 independent dealers act as rental agents and are paid commission on gross revenues from U-Haul rentals.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U-Haul Storage Affiliates",
+      "partnership_type": "strategic",
+      "description": "Affiliate program expanding U-Haul's self-storage network through third-party affiliated storage locations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Domestic Truck Manufacturers",
+      "partnership_type": "OEM",
+      "description": "Rental truck chassis engineered by domestic truck manufacturers, joined with U-Haul designed van boxes at U-Haul facilities.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UHAL/profile",
+  "origin": {
+    "leaf": "cb41c01cda3ee4b4239dceec3fb52694808b829ea2238307ad406c599e38f05e",
+    "parent": "3aa1b40fb19ba34bfe8eaf009491086712e24f963d285ea017deeab3765b900f",
+    "timestamp": "2026-04-12T03:12:55.075Z",
+    "source": "profile:0000004457",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cb41c01cda3ee4b4239dceec3fb52694808b829ea2238307ad406c599e38f05e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.075Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

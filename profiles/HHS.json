@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HHS",
+  "name": "HARTE HANKS INC",
+  "cik": "0000045919",
+  "summary": "Harte Hanks, Inc. is a global Business Experience Outsourcing company operating at the intersection of data, marketing, sales, customer care, fulfillment, and logistics. It serves B2B and B2C clients across industries including technology, healthcare, consumer products, financial services, and automotive. Services include data analytics, demand generation, managed marketing services, inside sales outsourcing, customer care, and fulfillment and logistics, helping clients manage the full customer and product lifecycle.",
+  "products": [
+    {
+      "name": "DataView",
+      "type": "platform",
+      "description": "Proprietary aggregate data mart providing 360-degree customer view with over 1,500 attributes for B2C (USA) and B2B (Global) predictive marketing."
+    },
+    {
+      "name": "Audience Finder",
+      "type": "service",
+      "description": "Unique intent data solution for detecting in-market prospects."
+    },
+    {
+      "name": "Managed Marketing Services (Marketing as a Service)",
+      "type": "service",
+      "description": "Flexible outsourced marketing operations solution blending agency and business outsourcing processes including data operations, MarTech, analytics, and demand generation."
+    },
+    {
+      "name": "Inside Sales Outsourcing",
+      "type": "service",
+      "description": "Fully outsourced B2B sales service combining analytics, sales professionals, and full-cycle experimentation for enterprises and SMBs."
+    },
+    {
+      "name": "Demand Generation and ABM",
+      "type": "service",
+      "description": "Intelligence-based B2B solutions targeting accounts and generating MQLs and pipelines through data, strategy, content, and digital execution."
+    },
+    {
+      "name": "Customer Care",
+      "type": "service",
+      "description": "Multi-channel customer experience and support services for global brands."
+    },
+    {
+      "name": "Fulfillment & Logistics",
+      "type": "service",
+      "description": "Storing, fulfilling, and delivering samples, kits, materials, and products direct to consumers, influencers, or businesses."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HHS/profile",
+  "origin": {
+    "leaf": "ffef01983c479f230e778e3dc9277aa5f02ab944b84ba473a7547392631604bf",
+    "parent": "6ace7c2c8a6ea1e8735fa5e05528324a6de04c36c0a31bc1fd5838f7020d9e21",
+    "timestamp": "2026-04-12T03:12:58.317Z",
+    "source": "profile:0000045919",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ffef01983c479f230e778e3dc9277aa5f02ab944b84ba473a7547392631604bf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.317Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

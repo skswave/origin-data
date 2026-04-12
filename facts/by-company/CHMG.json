@@ -1,0 +1,88 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "CHMG",
+  "total_facts": 5,
+  "by_type": {
+    "topic_mention": 5
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CHMG",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CHMG",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CHMG",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CHMG",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CHMG",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CHMG/transcripts",
+  "origin": {
+    "leaf": "e540e5835d76303395b93eac8c122b8a30fd5a96435194a7ecf1250433a08e13",
+    "parent": "585f845c59e2127ad0ea90cefcd5b62b9bca2e22b4f9d9a3c4f747db8120ffe0",
+    "timestamp": "2026-04-12T03:14:31.560Z",
+    "source": "facts:CHMG",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e540e5835d76303395b93eac8c122b8a30fd5a96435194a7ecf1250433a08e13",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:31.560Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

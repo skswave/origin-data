@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NROM",
+  "name": "NOBLE ROMANS INC",
+  "cik": "0000709005",
+  "exchange": "OTC",
+  "sic": "5812",
+  "sic_description": "Retail-Eating  Places",
+  "state_of_incorporation": "IN",
+  "headquarters": "Indianapolis, Indiana",
+  "founded": "1972",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Noble Romans, Inc. is an Indiana corporation founded in 1972 that sells and services franchises and licenses, and operates Company-owned restaurants under the trade names Noble Romans Craft Pizza & Pub, Noble Romans Pizza, Noble Romans Take-N-Bake, and Tuscanos Italian Style Subs. The Company operates stand-alone full-service restaurants and non-traditional foodservice locations (within convenience stores, hospitals, entertainment facilities, etc.) across the United States, generating revenue through franchise fees, royalties, and proprietary ingredient sales.",
+  "tags": [
+    "quick-service-and-full-service-restaurant-franchising",
+    "non-traditional-foodservice-(convenience-stores,-hospitals,-entertainment-facilities)",
+    "stand-alone-traditional-restaurant-operations",
+    "retail-take-n-bake-pizza"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 166,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NROM",
+  "origin": {
+    "leaf": "1379c3be2eb35927c84218e5ca5fde7aacc6e594f2294dbd24efc07751c41d87",
+    "parent": "46767f07519acc9230e0310c97681336e8d449b2c87da5458699462174f95ad1",
+    "timestamp": "2026-04-12T03:12:53.316Z",
+    "source": "0001654954-25-006725",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1379c3be2eb35927c84218e5ca5fde7aacc6e594f2294dbd24efc07751c41d87",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.316Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

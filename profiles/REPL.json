@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "REPL",
+  "name": "Replimune Group, Inc.",
+  "cik": "0001737953",
+  "summary": "Replimune Group, Inc. is a clinical-stage biotechnology company developing oncolytic immunotherapies for cancer treatment. Its proprietary RPx platform is based on an engineered HSV-1 backbone designed to maximize immunogenic cell death and systemic anti-tumor immune response. Lead product RP1 (vusolimogene oderparepvec) is being evaluated in melanoma and non-melanoma skin cancers, with a BLA submitted to the FDA in combination with nivolumab for anti-PD-1 failed advanced melanoma, granted priority review with a PDUFA date of July 22, 2025.",
+  "products": [
+    {
+      "name": "RP1 (vusolimogene oderparepvec)",
+      "type": "platform",
+      "description": "Lead oncolytic immunotherapy candidate based on engineered HSV-1; being evaluated in melanoma and non-melanoma skin cancers, including in combination with nivolumab; BLA submitted under accelerated approval pathway."
+    },
+    {
+      "name": "RP2",
+      "type": "platform",
+      "description": "Second RPx platform-based oncolytic immunotherapy candidate currently in clinical development pipeline."
+    },
+    {
+      "name": "RP3",
+      "type": "platform",
+      "description": "Third RPx platform-based oncolytic immunotherapy candidate currently in clinical development pipeline."
+    },
+    {
+      "name": "RPx Platform",
+      "type": "platform",
+      "description": "Proprietary engineered HSV-1 backbone platform designed for oncolytic immunotherapy with dual local and systemic anti-tumor activity."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Bristol Myers Squibb Company (BMS)",
+      "partnership_type": "development",
+      "description": "BMS granted non-exclusive royalty-free license and supplies nivolumab at no cost for use in combination with RP1 in the IGNYTE clinical trial.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/REPL/profile",
+  "origin": {
+    "leaf": "0951828391462549efbf421468ef13c0499aa5f346e8686a492098c9bd1b05f6",
+    "parent": "f4fb650b9ac475648823fbbcf5d1701e708b2a4984d8186bf1e1cc4ed640444d",
+    "timestamp": "2026-04-12T03:12:56.241Z",
+    "source": "profile:0001737953",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0951828391462549efbf421468ef13c0499aa5f346e8686a492098c9bd1b05f6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.241Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "VEEV",
+  "name": "VEEVA SYSTEMS INC",
+  "cik": "0001393052",
+  "exchange": "NYSE",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0131",
+  "summary": "Veeva Systems is the leading provider of industry cloud solutions for the global life sciences industry, offering cloud software, data, and business consulting. Key products include Veeva Development Cloud, Veeva Quality Cloud, Veeva Commercial Cloud, and Veeva Data Cloud, serving pharmaceutical, biotechnology, and MedTech companies across R&D, quality, and commercial functions. Veeva operates as a Delaware public benefit corporation focused on making life sciences more productive.",
+  "tags": [
+    "life-sciences",
+    "pharmaceutical",
+    "biotechnology",
+    "medical-devices-and-diagnostics-(medtech)",
+    "consumer-products-(quality-solutions)",
+    "clinical-research-organizations-(cros)",
+    "clinical-research-sites"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/VEEV",
+  "origin": {
+    "leaf": "3613ef39b4b1bf0f3eba24960bc0fc30e9499c03bf9c5a1126b4045a0ae94257",
+    "parent": "c7aed8da7d7acf6d14a950255b124972c0f90976d1dcf19a4b6ec7d68c982c25",
+    "timestamp": "2026-04-12T03:12:50.383Z",
+    "source": "0001393052-26-000014",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3613ef39b4b1bf0f3eba24960bc0fc30e9499c03bf9c5a1126b4045a0ae94257",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.383Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

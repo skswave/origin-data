@@ -1,0 +1,94 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VRTS",
+  "name": "VIRTUS INVESTMENT PARTNERS, INC.",
+  "cik": "0000883237",
+  "summary": "Virtus Investment Partners, Inc. is a Delaware corporation providing investment management and related services to institutions and individuals. Using a multi-manager, multi-style approach, it offers strategies across equity, fixed income, multi-asset, and alternatives through affiliated investment managers and unaffiliated subadvisers. Products include mutual funds, ETFs, closed-end funds, retail separate accounts, institutional accounts, and wealth advisory services. As of December 31, 2025, total assets under management were $159.5 billion.",
+  "products": [
+    {
+      "name": "U.S. Retail Funds",
+      "type": "service",
+      "description": "Mutual funds registered under the Investment Company Act of 1940 offered across equity, fixed income, multi-asset, and alternatives."
+    },
+    {
+      "name": "Exchange-Traded Funds (ETFs)",
+      "type": "service",
+      "description": "Actively managed and index-based ETFs across multiple asset classes."
+    },
+    {
+      "name": "Global Funds (UCITS/QIF)",
+      "type": "service",
+      "description": "Undertaking for Collective Investment in Transferable Securities and Qualifying Investor Funds offered to non-U.S. investors."
+    },
+    {
+      "name": "Closed-End Funds",
+      "type": "service",
+      "description": "Closed-end funds traded on the New York Stock Exchange across multi-asset, fixed income, equity, and alternatives."
+    },
+    {
+      "name": "Retail Separate Accounts",
+      "type": "service",
+      "description": "Separately managed accounts sold through intermediaries, including investment models for managed account sponsors."
+    },
+    {
+      "name": "Institutional Accounts",
+      "type": "service",
+      "description": "Institutional separate and commingled accounts including subadvisory services and structured product collateral management."
+    },
+    {
+      "name": "Wealth Advisory Services",
+      "type": "service",
+      "description": "Wealth management services provided to high-net-worth clients."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Infrastructure Capital Advisors",
+      "partnership_type": "strategic",
+      "description": "Unaffiliated subadviser managing infrastructure fixed income and equity strategies with $2.5 billion in Virtus-sponsored products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Reaves Asset Management",
+      "partnership_type": "strategic",
+      "description": "Unaffiliated subadviser managing utilities strategies with $1.4 billion in Virtus-sponsored products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Voya Investment Management",
+      "partnership_type": "strategic",
+      "description": "Unaffiliated subadviser managing income & growth and convertible strategies with $9.5 billion in Virtus-sponsored products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Zevenbergen Capital Investments",
+      "partnership_type": "strategic",
+      "description": "Minority interest partner managing innovative growth equity; $2.1 billion in Virtus-sponsored products and $2.4 billion outside.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Crescent Cove Advisors",
+      "partnership_type": "strategic",
+      "description": "35% minority interest acquired December 15, 2025; manages private credit with $0.9 billion in Virtus-sponsored products.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VRTS/profile",
+  "origin": {
+    "leaf": "c24add4e4d401903874e6f2747d0ead6908b686060229abac9740c2f21040cbf",
+    "parent": "f1a8c1b3f0949e2a15f29f309b69a766dd0e4f08abd4bda6502ead4927b29370",
+    "timestamp": "2026-04-12T03:12:56.057Z",
+    "source": "profile:0000883237",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c24add4e4d401903874e6f2747d0ead6908b686060229abac9740c2f21040cbf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.057Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

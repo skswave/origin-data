@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NOV",
+  "name": "NOV Inc.",
+  "cik": "0001021860",
+  "summary": "NOV Inc. is a global energy technology and equipment provider serving oil and gas companies, service companies, and shipyards. The company supplies drilling equipment including drill pipe, drill bits, liner hangers, completion tools, and land rig packages. NOV also offers closed-loop solids control systems, regenerative power systems, dual-containment flowlines, solar pumping systems, hydrocarbon leak detection systems, gas processing technology, and turret and mooring systems, while expanding into offshore wind, geothermal, carbon capture, and advanced nuclear markets.",
+  "products": [
+    {
+      "name": "Closed-Loop Solids Control Systems",
+      "type": "hardware",
+      "description": "Systems that reduce carbon intensity in oil and gas drilling operations."
+    },
+    {
+      "name": "Regenerative Power Systems",
+      "type": "hardware",
+      "description": "Power systems designed to improve efficiency and reduce environmental impact in energy operations."
+    },
+    {
+      "name": "Dual-Containment Flowline Technologies",
+      "type": "hardware",
+      "description": "Flowline systems providing enhanced containment for oil and gas operations."
+    },
+    {
+      "name": "Solar Pumping Systems",
+      "type": "hardware",
+      "description": "Solar-powered pumping solutions for energy operations."
+    },
+    {
+      "name": "Hydrocarbon Leak Detection Systems",
+      "type": "hardware",
+      "description": "Systems for detecting hydrocarbon leaks to reduce environmental impact."
+    },
+    {
+      "name": "Drill Pipe and Coatings",
+      "type": "hardware",
+      "description": "Drill pipe with proprietary coatings used in oil, gas, and geothermal well drilling."
+    },
+    {
+      "name": "Drill Bits",
+      "type": "hardware",
+      "description": "Drill bits used in oil, gas, and geothermal drilling operations."
+    },
+    {
+      "name": "Liner Hangers",
+      "type": "hardware",
+      "description": "Completion tools used in oil, gas, and geothermal well construction."
+    },
+    {
+      "name": "Completion Tools",
+      "type": "hardware",
+      "description": "Tools supporting well completion in oil, gas, and geothermal applications."
+    },
+    {
+      "name": "Land Rig Packages",
+      "type": "hardware",
+      "description": "Full land rig packages used in global drilling operations including geothermal."
+    },
+    {
+      "name": "Gas Processing Technology",
+      "type": "hardware",
+      "description": "Enables CO2-from-hydrocarbon separation, dehydration, and liquification for carbon capture."
+    },
+    {
+      "name": "Turret and Mooring Systems",
+      "type": "hardware",
+      "description": "Offshore production systems that also facilitate offshore carbon re-injection sites."
+    },
+    {
+      "name": "Onshore Wind Tower Technology",
+      "type": "hardware",
+      "description": "Proprietary technology for economically constructing taller onshore wind towers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Local nationals (joint ventures)",
+      "partnership_type": "strategic",
+      "description": "Joint ventures and license arrangements with local nationals in countries with local-preference procurement policies.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NOV/profile",
+  "origin": {
+    "leaf": "9f36b29c893635b6ecb6d827a722b8ea51c4866d591d18d430088dc44c335861",
+    "parent": "f33334da09f7e43bf225cfe46cc558c7586ebb293fa899f9070b7acd23f02dbc",
+    "timestamp": "2026-04-12T03:12:55.154Z",
+    "source": "profile:0001021860",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9f36b29c893635b6ecb6d827a722b8ea51c4866d591d18d430088dc44c335861",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.154Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

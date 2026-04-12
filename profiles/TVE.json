@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TVE",
+  "name": "Tennessee Valley Authority",
+  "cik": "0001376986",
+  "summary": "Tennessee Valley Authority (TVA) is a federally owned corporation. The provided text is an SEC certification exhibit (EX-31.1) signed by President and CEO Donald A. Moul, and does not contain a business description. No specific products, services, or operational details about TVA are described in this section of the filing.",
+  "live_api": "https://origin.rootz.global/api/company/TVE/profile",
+  "origin": {
+    "leaf": "f86706c49b715a1b4e1e31730acd041ef8732f0731d6cc25b36d680242e59de3",
+    "parent": "4e7dd33afc93030876cbb1f2e444d52600f403d01448335e374d756450c5474f",
+    "timestamp": "2026-04-12T03:12:59.884Z",
+    "source": "profile:0001376986",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f86706c49b715a1b4e1e31730acd041ef8732f0731d6cc25b36d680242e59de3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.884Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

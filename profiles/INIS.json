@@ -1,0 +1,98 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "INIS",
+  "name": "RADNOSTIX INC",
+  "cik": "0001038277",
+  "summary": "Radnostix Inc. (formerly International Isotopes Inc.) manufactures radioisotope-focused products for medical and industrial applications across five segments: Theranostics Products (including FDA-approved generic sodium iodide I-131), Cobalt Products (cobalt-60 sealed sources), Calibration & Reference Products (sealed source calibration tools for SPECT/PET imaging), Medical Devices (EasyFill Automated Capsule System, lung ventilation devices), and Fluorine Products (fluoride gases via Fluorine Extraction Process). The company operates through subsidiaries including RadQual LLC, RadVent LLC, and TI Services LLC.",
+  "products": [
+    {
+      "name": "Sodium Iodide I-131",
+      "type": "hardware",
+      "description": "FDA-approved generic radiopharmaceutical drug product; only such generic manufactured in the U.S."
+    },
+    {
+      "name": "Cobalt-60 Sealed Sources",
+      "type": "hardware",
+      "description": "Cobalt-60 sources for radiation therapy, industrial and medical applications, and recycling of expended sources."
+    },
+    {
+      "name": "Calibration & Reference Products",
+      "type": "hardware",
+      "description": "Sealed source calibration and reference products for SPECT/PET imaging, radiopharmacy, and lab equipment."
+    },
+    {
+      "name": "EasyFill Automated Capsule System",
+      "type": "hardware",
+      "description": "Robotic lab device for automated capsule filling, paired with I-131 theranostics products; targeting Q3 2026 rollout."
+    },
+    {
+      "name": "Swirler Radioaerosol System",
+      "type": "hardware",
+      "description": "Medical device for lung ventilation acquired from AMICI, Inc.; under development for 2026 release."
+    },
+    {
+      "name": "Tru-Fit Mouthpiece",
+      "type": "hardware",
+      "description": "Medical accessory acquired from AMICI, Inc.; under development for 2026 release via RadVent subsidiary."
+    },
+    {
+      "name": "Xenon System Products",
+      "type": "hardware",
+      "description": "Lung ventilation system products acquired from AMICI, Inc. in January 2025; under development for 2026 release."
+    },
+    {
+      "name": "Radiosynthesis Modules (Scintomics ATT)",
+      "type": "hardware",
+      "description": "Third-party radiosynthesis modules distributed under a distribution and servicing agreement with Scintomics ATT."
+    },
+    {
+      "name": "Fluorine Extraction Process (FEP) Gases",
+      "type": "hardware",
+      "description": "Fluoride gases produced via proprietary Fluorine Extraction Process, tied to planned DUF6 de-conversion facility."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Phantech",
+      "partnership_type": "development",
+      "description": "Joint venture PhanQual for pre-clinical sealed sources and distribution of fillable sources.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ORANO LEA",
+      "partnership_type": "strategic",
+      "description": "Bilateral relationship for distribution of non-medical sealed source calibration and reference standards.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Scintomics ATT",
+      "partnership_type": "strategic",
+      "description": "Distribution and servicing agreement for complete line of radiosynthesis modules.",
+      "start_date": null
+    },
+    {
+      "partner_name": "AMICI, Inc.",
+      "partnership_type": "OEM",
+      "description": "Asset purchase agreement for manufacturing molds, device registrations, trademarks, and production rights to lung ventilation and Xenon system products.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/INIS/profile",
+  "origin": {
+    "leaf": "2fc8136ab98e1f4ef46f63e2c926441d2ce713a511ecef7293cdc2a6ae42541b",
+    "parent": "c8d2ef875fe222d868afbb2277c3d6aa984384cc47ffbcff33f8f59408575d3c",
+    "timestamp": "2026-04-12T03:12:57.881Z",
+    "source": "profile:0001038277",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2fc8136ab98e1f4ef46f63e2c926441d2ce713a511ecef7293cdc2a6ae42541b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.881Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

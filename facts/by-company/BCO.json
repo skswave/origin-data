@@ -1,0 +1,136 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "BCO",
+  "total_facts": 9,
+  "by_type": {
+    "topic_mention": 9
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BCO",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.86,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BCO",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.86,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BCO",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.86,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BCO",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BCO",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BCO",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BCO",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BCO",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BCO",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BCO/transcripts",
+  "origin": {
+    "leaf": "be34e99db41cbeb87168e76da4a90fe03436681f599af1f90a5948afc2458aba",
+    "parent": "4c6fce666aba18035be368a95acf30970594e4c4d6d7c0673921ca8a51470465",
+    "timestamp": "2026-04-12T03:13:36.059Z",
+    "source": "facts:BCO",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/be34e99db41cbeb87168e76da4a90fe03436681f599af1f90a5948afc2458aba",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:36.059Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

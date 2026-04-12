@@ -1,0 +1,109 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HBB",
+  "name": "Hamilton Beach Brands Holding Co",
+  "cik": "0001709164",
+  "summary": "Hamilton Beach Brands Holding Company operates through subsidiary Hamilton Beach Brands, Inc., designing, marketing, and distributing small electric household appliances (air fryers, blenders, coffee makers, food processors, irons, mixers, slow cookers, toasters) under Hamilton Beach, Proctor Silex, and Weston brands, commercial products for restaurants and hotels under Hamilton Beach Commercial and Proctor Silex Commercial brands, and connected health devices and software for home healthcare management via its Health segment.",
+  "products": [
+    {
+      "name": "Small Electric Household Appliances",
+      "type": "hardware",
+      "description": "Air fryers, blenders, coffee makers, food processors, indoor electric grills, irons, juicers, mixers, slow cookers, toasters, and toaster ovens sold under Hamilton Beach and Proctor Silex brands."
+    },
+    {
+      "name": "Hamilton Beach Professional",
+      "type": "hardware",
+      "description": "Premium consumer small kitchen appliances sold under owned brand Hamilton Beach Professional."
+    },
+    {
+      "name": "Lotus Brand Appliances",
+      "type": "hardware",
+      "description": "High-end, premium small kitchen appliances launched in September 2025 under the Lotus brand."
+    },
+    {
+      "name": "CHI Premium Garment Care Products",
+      "type": "hardware",
+      "description": "Premium garment care appliances marketed under the licensed CHI brand."
+    },
+    {
+      "name": "Clorox Home Appliances",
+      "type": "hardware",
+      "description": "Home appliances marketed under the licensed Clorox brand."
+    },
+    {
+      "name": "Commercial Products",
+      "type": "hardware",
+      "description": "Products for restaurants, fast food chains, bars and hotels sold under Hamilton Beach Commercial and Proctor Silex Commercial brands."
+    },
+    {
+      "name": "Sunkist Commercial Juicers and Sectionizers",
+      "type": "hardware",
+      "description": "Commercial juicers and sectionizers designed and distributed under a multi-year license agreement with Sunkist."
+    },
+    {
+      "name": "Numilk Plant-Based Milk Makers",
+      "type": "hardware",
+      "description": "Commercial plant-based milk makers designed and distributed under a multi-year license agreement with Numilk."
+    },
+    {
+      "name": "Smart Sharps Bin",
+      "type": "hardware",
+      "description": "Digitally connected device from Hamilton Beach Health enabling patients to manage at-home chronic conditions requiring injectable medications."
+    },
+    {
+      "name": "Healthcare Software Licensing",
+      "type": "software",
+      "description": "Software for healthcare management licensed to customers in the Health segment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Sunkist",
+      "partnership_type": "licensing",
+      "description": "Multi-year license to design, sell, and distribute Sunkist commercial juicers and sectionizers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Numilk",
+      "partnership_type": "licensing",
+      "description": "Multi-year license to design, sell, and distribute Numilk plant-based milk makers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "CHI",
+      "partnership_type": "licensing",
+      "description": "License agreement to market CHI premium garment care products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Clorox",
+      "partnership_type": "licensing",
+      "description": "License agreement to market Clorox home appliances.",
+      "start_date": null
+    },
+    {
+      "partner_name": "HealthBeacon Limited",
+      "partnership_type": "strategic",
+      "description": "Acquired in February 2024; medical technology firm developing digitally connected devices for at-home management of chronic conditions requiring injectable medications.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HBB/profile",
+  "origin": {
+    "leaf": "d57b0ea2695f5485f4b92d3f33dae5859990e12f4c56e158fd2d1e8c163b9a4b",
+    "parent": "1794b7296d4ffde817265d3146c13c1ba935335d5db2b9a3259fbc321f8c1cf6",
+    "timestamp": "2026-04-12T03:12:56.842Z",
+    "source": "profile:0001709164",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d57b0ea2695f5485f4b92d3f33dae5859990e12f4c56e158fd2d1e8c163b9a4b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.842Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

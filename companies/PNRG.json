@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PNRG",
+  "name": "PRIMEENERGY RESOURCES CORP",
+  "cik": "0000056868",
+  "exchange": "Nasdaq",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PrimeEnergy Resources Corporation is an oil and gas company engaged in development and operating activities, including exploration and production of oil, natural gas liquids (NGLs), and natural gas. The company also operates a well services business. It sells crude oil benchmarked to WTI and Brent, and gas benchmarked to WAHA, and conducts downstream purchases and sales of oil and gas commodities.",
+  "tags": [
+    "oil-and-gas-exploration-and-production",
+    "well-services",
+    "downstream-oil-and-gas-commodity-trading"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PNRG",
+  "origin": {
+    "leaf": "8c7ecfeb86631ed9a6a6d9e1e339e8fb25e488daa2a2a3e5c88fdf8032b76256",
+    "parent": "da919189be778f856746812ab13c83f96f21596d21208a8876be172b036d0fc6",
+    "timestamp": "2026-04-12T03:12:51.504Z",
+    "source": "0001437749-25-012086",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8c7ecfeb86631ed9a6a6d9e1e339e8fb25e488daa2a2a3e5c88fdf8032b76256",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.504Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

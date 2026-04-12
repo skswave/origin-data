@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "U",
+  "name": "Unity Software Inc.",
+  "cik": "0001810806",
+  "exchange": "NYSE",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Unity Software Inc. is a technology company that provides a real-time 3D development platform used to create, run, and monetize interactive, real-time 2D and 3D content. Its platform is widely used in gaming and other industries. Unity offers tools for content creation, runtime solutions, and monetization services enabling developers to build and operate interactive experiences across multiple platforms.",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/U",
+  "origin": {
+    "leaf": "9cedf78c14e2ad305ee09b9cf1d336ba7a48f2da77f8c52d521e818f22cbab42",
+    "parent": "7b6942291d17f28af6930ed1a00793337238559583933d1f2792e64f13a84c0a",
+    "timestamp": "2026-04-12T03:12:50.510Z",
+    "source": "0001810806-26-000011",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9cedf78c14e2ad305ee09b9cf1d336ba7a48f2da77f8c52d521e818f22cbab42",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.510Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

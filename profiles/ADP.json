@@ -1,0 +1,70 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ADP",
+  "name": "AUTOMATIC DATA PROCESSING INC",
+  "cik": "0000008670",
+  "summary": "Automatic Data Processing, Inc. (ADP) is a global leader in Human Capital Management (HCM) solutions, serving over 1.1 million clients and paying over 42 million workers in over 140 countries and territories. ADP offers HR, payroll, time, benefits, talent, compliance, and retirement solutions spanning the full employee lifecycle. Key products include ADP Lyric HCM, ADP Assist (generative AI platform), ADP DataCloud, and ADP Marketplace, serving businesses from small local firms to large global enterprises.",
+  "products": [
+    {
+      "name": "ADP Lyric HCM",
+      "type": "platform",
+      "description": "Unified global HCM solution launched September 2024, designed for adaptability and personalization across payroll, HR, and workforce management."
+    },
+    {
+      "name": "ADP Assist",
+      "type": "software",
+      "description": "Cross-platform generative AI solution providing actionable insights across HR, payroll, time, talent, benefits, recruitment, analytics, and compliance."
+    },
+    {
+      "name": "ADP DataCloud",
+      "type": "platform",
+      "description": "Award-winning people analytics solution analyzing aggregated HCM and compensation data from over one million U.S. organizations for workforce insights."
+    },
+    {
+      "name": "ADP Marketplace",
+      "type": "platform",
+      "description": "E-commerce platform for HR solutions offering access to over 800 partner solutions with AI-powered smart search for integration discovery."
+    },
+    {
+      "name": "ADP API Central",
+      "type": "platform",
+      "description": "Secure APIs and tools for custom integrations to simplify and automate business processes; named New Product of the Year in 2024."
+    },
+    {
+      "name": "Human Resources Outsourcing (HRO)",
+      "type": "service",
+      "description": "Outsourcing solutions where ADP takes on responsibility for a portion or all of a client's HCM workflows."
+    },
+    {
+      "name": "WorkForce Software",
+      "type": "software",
+      "description": "Workforce management solution for large global enterprises covering time and attendance, absence management, and scheduling acquired in October 2024."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "ADP Marketplace partners (800+)",
+      "partnership_type": "strategic",
+      "description": "Over 800 partner solutions integrated via ADP Marketplace covering recruiting, onboarding, compliance, and learning management.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ADP/profile",
+  "origin": {
+    "leaf": "416c8e8037999ce2afb2e8e8b9568301c7b2b52ef9baff2222dd2cce4bb1fbef",
+    "parent": "5a48883d2a8af70b485843b6e45613e0fd5554a16ea2153661e4a4c1cd159917",
+    "timestamp": "2026-04-12T03:12:54.739Z",
+    "source": "profile:0000008670",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/416c8e8037999ce2afb2e8e8b9568301c7b2b52ef9baff2222dd2cce4bb1fbef",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.739Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UAVS",
+  "name": "AgEagle Aerial Systems Inc.",
+  "cik": "0000008504",
+  "summary": "AgEagle Aerial Systems Inc. (rebranded as EagleNXT in 2025) designs and delivers drones, sensors, and software for military/defense, public safety, surveying/mapping, agriculture, and utilities/engineering industries. Key products include the eBee line of fixed-wing UAVs, MicaSense multispectral and thermal cameras, and the Measure Ground Control SaaS platform. The company distributes through over 165 global resellers and has achieved BVLOS and Blue UAS certifications.",
+  "products": [
+    {
+      "name": "eBee TAC",
+      "type": "hardware",
+      "description": "NDAA-compliant fixed-wing drone for government/military mapping, weighing 3.5 lbs with up to 90 min flight time and AES256-bit encryption."
+    },
+    {
+      "name": "eBee VISION",
+      "type": "hardware",
+      "description": "Fixed-wing drone for commercial and government use in surveying, mapping, and related applications."
+    },
+    {
+      "name": "MicaSense Altum-PT",
+      "type": "hardware",
+      "description": "Next-generation thermal and multispectral sensor for agriculture, plant research, land management, and forestry."
+    },
+    {
+      "name": "MicaSense RedEdge-P",
+      "type": "hardware",
+      "description": "Next-generation multispectral sensor distributed in over 75 countries for drone-based imagery and data analytics."
+    },
+    {
+      "name": "Ground Control",
+      "type": "platform",
+      "description": "Cloud-based SaaS drone fleet operating system by Measure; ceased operations December 31, 2024."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UAVS/profile",
+  "origin": {
+    "leaf": "b6940adc35f92bdb65f20ef41a5b33c39e017f4ed13c32cf7dc0ffe63b90bc45",
+    "parent": "cd66d2be65fe79b428fd53cb0f40a74cc4da1121f984319384752cbe2935c665",
+    "timestamp": "2026-04-12T03:12:57.925Z",
+    "source": "profile:0000008504",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b6940adc35f92bdb65f20ef41a5b33c39e017f4ed13c32cf7dc0ffe63b90bc45",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.925Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

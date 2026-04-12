@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PLX",
+  "name": "Protalix BioTherapeutics, Inc.",
+  "cik": "0001006281",
+  "summary": "Protalix BioTherapeutics is a commercial-stage biopharmaceutical company focused on discovery, development, production, and commercialization of therapeutics for rare diseases. It uses its proprietary ProCellEx plant cell-based protein expression system. Its approved products include Elelyso (taliglucerase alfa) for Gaucher disease and Elfabrio (pegunigalsidase alfa) for Fabry disease. Pipeline candidates include PRX-115 for uncontrolled gout and PRX-119 for NETs-related diseases.",
+  "products": [
+    {
+      "name": "Elelyso (taliglucerase alfa)",
+      "type": "service",
+      "description": "Recombinant glucocerebrosidase enzyme replacement therapy approved by FDA in 2012 for Gaucher disease in adults and children four years and older; approved in 40+ markets."
+    },
+    {
+      "name": "Elfabrio (pegunigalsidase alfa-iwxj)",
+      "type": "service",
+      "description": "PEGylated recombinant alpha-Galactosidase-A enzyme replacement therapy approved by FDA and EC in May 2023 for adult Fabry disease patients."
+    },
+    {
+      "name": "PRX-115",
+      "type": "platform",
+      "description": "PEGylated uricase in Phase 2 clinical trial (RELEASE study) for treatment of uncontrolled gout."
+    },
+    {
+      "name": "PRX-119",
+      "type": "platform",
+      "description": "Long-acting DNaseI in development for the treatment of NETs-related diseases."
+    },
+    {
+      "name": "ProCellEx",
+      "type": "platform",
+      "description": "Proprietary plant cell-based protein expression system used to develop recombinant proteins at industrial scale."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Pfizer Inc.",
+      "partnership_type": "licensing",
+      "description": "Exclusive license and supply agreement granting Pfizer worldwide commercialization rights to Elelyso (excluding Brazil) through 2030.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Chiesi Farmaceutici S.p.A.",
+      "partnership_type": "licensing",
+      "description": "Two exclusive global licensing and supply agreements for development and commercialization of Elfabrio for Fabry disease, covering US and ex-US markets.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fundação Oswaldo Cruz (Fiocruz)",
+      "partnership_type": "licensing",
+      "description": "Supply and Technology Transfer Agreement signed June 2013 granting Fiocruz rights to commercialize Elelyso in Brazil as BioManguinhos alfataliglicerase.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PLX/profile",
+  "origin": {
+    "leaf": "b3b255711c0d119858ab5897673fb294eae8bb42faa8211a3829fa5ccc3a0c94",
+    "parent": "2f2fbb8930920d5561c8e8ab1fb7d3354ba4720565c17b706eff1e0f01e63f43",
+    "timestamp": "2026-04-12T03:12:57.087Z",
+    "source": "profile:0001006281",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b3b255711c0d119858ab5897673fb294eae8bb42faa8211a3829fa5ccc3a0c94",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.087Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

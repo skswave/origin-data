@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "FLO",
+  "name": "FLOWERS FOODS INC",
+  "cik": "0001128928",
+  "exchange": "NYSE",
+  "sic": "2000",
+  "sic_description": "Food and Kindred Products",
+  "state_of_incorporation": "GA",
+  "headquarters": "Thomasville, Georgia",
+  "founded": "1919",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0103",
+  "summary": "Flowers Foods, Inc. is the second-largest producer and marketer of packaged bakery foods in the United States. Founded in 1919 and headquartered in Thomasville, Georgia, the company produces breads, buns, rolls, snack items (bars, cakes, cookies, crackers), bagels, English muffins, tortillas, and baking mixes. Products are sold under brands including Nature's Own, Dave's Killer Bread, Canyon Bakehouse, Simple Mills, Wonder, and Tastykake across retail and foodservice channels.",
+  "tags": [
+    "fresh-packaged-bread",
+    "better-for-you-snacking",
+    "retail-grocery",
+    "foodservice",
+    "natural-and-conventional-grocery-stores"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/FLO",
+  "origin": {
+    "leaf": "7c0379399e9e65640bd2e4d29e8db0da50e9bc1a6509c72289bf30560d5b9881",
+    "parent": "cf60ae8f62ee50026354a1eeac792349e85b3f8e41c0e4cf1765cbdbe6b88247",
+    "timestamp": "2026-04-12T03:12:50.929Z",
+    "source": "0001193125-26-071441",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7c0379399e9e65640bd2e4d29e8db0da50e9bc1a6509c72289bf30560d5b9881",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.929Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

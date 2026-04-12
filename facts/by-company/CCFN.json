@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "CCFN",
+  "total_facts": 12,
+  "by_type": {
+    "topic_mention": 12
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCFN",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.7999999999999999,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCFN",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.7999999999999999,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCFN",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.7999999999999999,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCFN",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCFN",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCFN",
+      "predicate": "discussed_in_filing",
+      "object": "Trusted Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "trusted_computing",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCFN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCFN",
+      "predicate": "discussed_in_filing",
+      "object": "Trusted Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "trusted_computing",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCFN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCFN",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCFN",
+      "predicate": "discussed_in_filing",
+      "object": "Trusted Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "trusted_computing",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CCFN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CCFN/transcripts",
+  "origin": {
+    "leaf": "eb3f1c5cd324457343e9c5c50ff32f2bec00722665f5ca4b7ed98311ae89f97b",
+    "parent": "4be19d944e5e9abe7ea4c4d6555cd8e4e62920083054c511a101287f41dc7bb9",
+    "timestamp": "2026-04-12T03:14:34.755Z",
+    "source": "facts:CCFN",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/eb3f1c5cd324457343e9c5c50ff32f2bec00722665f5ca4b7ed98311ae89f97b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:34.755Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

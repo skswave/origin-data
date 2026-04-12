@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HBIA",
+  "name": "HILLS BANCORPORATION",
+  "cik": "0000732417",
+  "summary": "Hills Bancorporation is an Iowa-based bank holding company operating through its subsidiary Hills Bank and Trust Company. The Bank provides full-service commercial banking including demand, savings, and time deposits; commercial, real estate, agricultural, and consumer loans; trust and estate administration; investment advisory services; farm management; and secondary market mortgage origination to individuals, businesses, governmental units, and institutional customers across Iowa.",
+  "products": [
+    {
+      "name": "Residential Real Estate Loans",
+      "type": "service",
+      "description": "First and junior lien loans on 1-4 family residences, including secondary market sales without retained servicing rights."
+    },
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Loans for commercial properties with terms of one to five years and amortization up to 25 years."
+    },
+    {
+      "name": "Multi-family Real Estate Loans",
+      "type": "service",
+      "description": "Loans secured by apartment complexes and similar properties with fixed interest rates."
+    },
+    {
+      "name": "Construction Loans",
+      "type": "service",
+      "description": "Short-term loans for personal residences, land development, and commercial construction projects."
+    },
+    {
+      "name": "Agricultural Loans",
+      "type": "service",
+      "description": "Loans for farm operations, capital improvements, livestock, and machinery acquisitions."
+    },
+    {
+      "name": "Commercial and Financial Loans",
+      "type": "service",
+      "description": "Business loans including lines of credit for working capital and term loans for equipment acquisition."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "Personal and automobile loans with shorter terms and lower balances."
+    },
+    {
+      "name": "Trust and Estate Services",
+      "type": "service",
+      "description": "Estate administration, personal trusts, pension plans, farm management, and investment advisory services."
+    },
+    {
+      "name": "Deposit Accounts",
+      "type": "service",
+      "description": "Demand, savings, and time deposit accounts serving as primary funding source for loans and investments."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HBIA/profile",
+  "origin": {
+    "leaf": "4f7ebb459a3feebc4b44205ef0956b69ef3256cf3cd644da1129a9283f31404d",
+    "parent": "50e5074c8ca975d3e90010c9003893f79050ec9c24a66407dd125d3a7f0c0afb",
+    "timestamp": "2026-04-12T03:12:56.150Z",
+    "source": "profile:0000732417",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4f7ebb459a3feebc4b44205ef0956b69ef3256cf3cd644da1129a9283f31404d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.150Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "CTMX",
+  "total_facts": 4,
+  "by_type": {
+    "topic_mention": 4
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CTMX",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CTMX",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CTMX",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CTMX",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CTMX/transcripts",
+  "origin": {
+    "leaf": "61ce935ad66227330bb45a3c33f1844ce8101c775ae7ef80b66e2283db809f21",
+    "parent": "ac0a33be8f926b4f4f61780284085f09f5951e058fc67ea883632825f753e8fc",
+    "timestamp": "2026-04-12T03:14:01.922Z",
+    "source": "facts:CTMX",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/61ce935ad66227330bb45a3c33f1844ce8101c775ae7ef80b66e2283db809f21",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:01.922Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

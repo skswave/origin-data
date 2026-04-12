@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EMMA",
+  "name": "Emmaus Life Sciences, Inc.",
+  "cik": "0000822370",
+  "exchange": "OTC",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Emmaus Life Sciences, Inc. is a commercial-stage biopharmaceutical company focused on rare and orphan diseases. Its sole product, Endari (prescription grade L-glutamine oral powder), is FDA-approved to reduce acute complications of sickle cell disease in adults and pediatric patients aged five and older. Endari is also approved in UAE, Qatar, Kuwait, Bahrain, and Oman, and sold through distributors in the U.S. and MENA region.",
+  "tags": [
+    "rare-and-orphan-diseases",
+    "sickle-cell-disease",
+    "united-states-pharmaceutical-market",
+    "middle-east-and-north-africa-(mena)-region"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EMMA",
+  "origin": {
+    "leaf": "d82a074478751582172592755210815d4070b110e98d668ce4dff8931e9a3135",
+    "parent": "a18b88ec26c027ce1353ef4ba321b97da37663e22d70529727f6d31ae389e48b",
+    "timestamp": "2026-04-12T03:12:53.647Z",
+    "source": "0001193125-26-132925",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d82a074478751582172592755210815d4070b110e98d668ce4dff8931e9a3135",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.647Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

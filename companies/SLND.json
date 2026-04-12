@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SLND",
+  "name": "Southland Holdings, Inc.",
+  "cik": "0001883814",
+  "exchange": "NYSE",
+  "sic": "1600",
+  "sic_description": "Heavy Construction Other Than Bldg Const - Contractors",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Southland Holdings, Inc. is a holding company operating through consolidated subsidiaries. Based on the filing, the company provides services across infrastructure and construction-related sectors, including renewable energy sectors. The company references monetization of services, expansion into new business lines, and management of contractual obligations, suggesting it operates as a multi-segment services and construction firm listed on NYSE American.",
+  "tags": [
+    "renewable-energy-sector",
+    "infrastructure-construction"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SLND",
+  "origin": {
+    "leaf": "44cc28c5d94ea9754c7d10098e119a7c8d6816e770998b946c4c968629b8cf77",
+    "parent": "2a978bafe7efccd0bf8e165f6cf294d36e60323ac35bace9bde6455f6ba4d86f",
+    "timestamp": "2026-04-12T03:12:52.378Z",
+    "source": "0001104659-26-035302",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/44cc28c5d94ea9754c7d10098e119a7c8d6816e770998b946c4c968629b8cf77",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.378Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

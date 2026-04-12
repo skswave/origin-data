@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "INOD",
+  "name": "INNODATA INC",
+  "cik": "0000903651",
+  "summary": "Innodata Inc. (INOD) is a global data engineering and AI systems services company supporting development, training, post-training, evaluation, and deployment of advanced AI systems. The company provides training and post-training data development, alignment and preference optimization, capabilities and safety evaluation, and AI enablement services. Clients include leading technology companies, frontier AI laboratories, and enterprises, including five of the so-called Magnificent Seven tech companies.",
+  "products": [
+    {
+      "name": "AI Training and Post-Training Data Solutions",
+      "type": "service",
+      "description": "Design and execution of data pipelines supporting large-scale AI training and post-training cycles with quality, consistency, and auditability."
+    },
+    {
+      "name": "Model Evaluation (Evals) Services",
+      "type": "service",
+      "description": "Capabilities, alignment, safety, and regression evaluations combining human judgment with automation for interpretable and auditable results."
+    },
+    {
+      "name": "Red Teaming and Adversarial Evaluations",
+      "type": "service",
+      "description": "Structured red teaming to surface failure modes, probe prompt-injection and jailbreak vulnerabilities, and test misuse scenarios in AI systems."
+    },
+    {
+      "name": "AI Model Deployment and Integration",
+      "type": "service",
+      "description": "Supports operationalizing AI systems including model customization, workflow integration, context engineering, and continuous quality assurance."
+    },
+    {
+      "name": "AI-Enabled Industry Platforms",
+      "type": "platform",
+      "description": "Domain-specific platforms delivering differentiated value through proprietary expertise for specific market requirements."
+    },
+    {
+      "name": "Agility",
+      "type": "platform",
+      "description": "A segment platform with dependency on content providers; specific details not fully described in the provided excerpt."
+    },
+    {
+      "name": "Digital Data Solutions (DDS)",
+      "type": "service",
+      "description": "Project-based data services segment with revenue concentration in a limited number of customers on primarily at-will contracts."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/INOD/profile",
+  "origin": {
+    "leaf": "614b3f54bede8f18ab3377cd83a5684354678094590d564d821962c64c113b76",
+    "parent": "2932291b751831fd8a81a648607e9837b7912458a63000733bf4100a68316383",
+    "timestamp": "2026-04-12T03:12:55.899Z",
+    "source": "profile:0000903651",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/614b3f54bede8f18ab3377cd83a5684354678094590d564d821962c64c113b76",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.899Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

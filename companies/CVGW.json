@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CVGW",
+  "name": "CALAVO GROWERS INC",
+  "cik": "0001133470",
+  "exchange": "Nasdaq",
+  "sic": "0700",
+  "sic_description": "Agricultural Services",
+  "state_of_incorporation": "CA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1031",
+  "summary": "Calavo Growers, Inc. is an agricultural company specializing in the sourcing, processing, and distribution of avocados and other fresh produce. The company operates through segments involving fresh avocados and prepared/packaged food products. Calavo serves retail, foodservice, and wholesale markets, and has operations involving international sourcing, including from Mexico, with exposure to trade policy, tariffs, and IVA tax considerations.",
+  "tags": [
+    "fresh-produce-retail",
+    "foodservice",
+    "wholesale-distribution",
+    "international-sourcing-and-trade"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CVGW",
+  "origin": {
+    "leaf": "b5c70d4354ed8a5fad8507fcb93f6aa6ba62e0136e20df47cd7268e464f80a70",
+    "parent": "067ce381b2a54125fda2288c069cdaa30c810c384087de03f359352fd2ccdb68",
+    "timestamp": "2026-04-12T03:12:51.431Z",
+    "source": "0001104659-26-003786",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b5c70d4354ed8a5fad8507fcb93f6aa6ba62e0136e20df47cd7268e464f80a70",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.431Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

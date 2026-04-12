@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SUND",
+  "name": "Sundance Strategies, Inc.",
+  "cik": "0001171838",
+  "exchange": "OTC",
+  "sic": "6411",
+  "sic_description": "Insurance Agents, Brokers & Service",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": "2001",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "Sundance Strategies, Inc. is a Nevada corporation that historically purchased life insurance policies and residual interests (Net Insurance Benefits, or NIBs) in portfolios of life settlement policies. More recently, the company shifted to providing professional advisory and structuring services to specialty structured finance groups, bond issuers, and life settlement aggregators, including advising on investment-grade bond offerings backed by life insurance policy portfolios and managed cash.",
+  "tags": [
+    "life-settlements-secondary-market",
+    "structured-finance",
+    "specialty-bond-issuance",
+    "life-insurance-policy-portfolios"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SUND",
+  "origin": {
+    "leaf": "04954170622a138cfea5889c4050c6ffeb50bb88065fbed4609958b4c57a5187",
+    "parent": "183771cba74fb7a318cf30e9ab6a5b0ccf286391447c874d27a8a938b0f956d7",
+    "timestamp": "2026-04-12T03:12:53.022Z",
+    "source": "0001641172-25-017143",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/04954170622a138cfea5889c4050c6ffeb50bb88065fbed4609958b4c57a5187",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.022Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

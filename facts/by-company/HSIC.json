@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "HSIC",
+  "total_facts": 1,
+  "by_type": {
+    "topic_mention": 1
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "HSIC",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HSIC/transcripts",
+  "origin": {
+    "leaf": "3612ae5636bddd78c5dc63c085ebf87ea1c44deffe71420bc19ed2720111cf51",
+    "parent": "927bc89b67a24fb63a03f44cfe94bb75d7ba2029b97d627d3f1dfffb2bc92000",
+    "timestamp": "2026-04-12T03:13:25.098Z",
+    "source": "facts:HSIC",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3612ae5636bddd78c5dc63c085ebf87ea1c44deffe71420bc19ed2720111cf51",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:25.098Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

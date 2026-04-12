@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "EIKN",
+  "total_facts": 12,
+  "by_type": {
+    "topic_mention": 12
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "EIKN",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 23,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EIKN",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 23,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EIKN",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 23,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EIKN",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EIKN",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EIKN",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EIKN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EIKN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EIKN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EIKN",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EIKN",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EIKN",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EIKN/transcripts",
+  "origin": {
+    "leaf": "9d48898fbd046bc94f33602f00a7447890999742ff8080a6b4508236122ee002",
+    "parent": "bafb821d3aa481b2cbe886a63ae78563335d4e8ca5f548f35aee2feb0263455b",
+    "timestamp": "2026-04-12T03:14:13.130Z",
+    "source": "facts:EIKN",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9d48898fbd046bc94f33602f00a7447890999742ff8080a6b4508236122ee002",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:13.130Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

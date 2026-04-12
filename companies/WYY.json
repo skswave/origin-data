@@ -1,0 +1,59 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "WYY",
+  "name": "WIDEPOINT CORP",
+  "cik": "0001034760",
+  "exchange": "NYSE",
+  "sic": "7373",
+  "sic_description": "Services-Computer Integrated Systems Design",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "WidePoint Corporation is a provider of Technology Management as a Service (TMaaS) offering federally certified communications management, identity management, telecom lifecycle management, digital billing and analytics, and IT as a Service. As one of two DoD-designated External Certificate Authorities, WidePoint provides multifactor authentication and digital certificates. It serves primarily U.S. federal government clients, with 77% of 2025 revenues from the DHS Cellular Wireless Managed Services 2.0 ID/IQ Contract, and also serves commercial enterprises.",
+  "tags": [
+    "u.s.-federal-government",
+    "department-of-defense",
+    "department-of-homeland-security",
+    "commercial-enterprises",
+    "healthcare",
+    "telecommunications",
+    "transportation",
+    "communications-service-providers",
+    "multifactor-authentication-(mfa)",
+    "external-certificate-authority-(eca)",
+    "government-wide-acquisition-contracts-(gwacs)",
+    "blanket-purchase-agreements-(bpas)",
+    "gsa-schedule-70",
+    "indefinite-delivery/indefinite-quantity-(id/iq)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/WYY",
+  "origin": {
+    "leaf": "4a42b0f59b3a57073965122a1593419982f6edfd880a9f1b2a0d49656ffc1ec6",
+    "parent": "22bb1faf1c7f9eecf7a0396d66835211eb053f94387de8c48273c6fcb721d6e8",
+    "timestamp": "2026-04-12T03:12:52.534Z",
+    "source": "0001654954-26-002749",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4a42b0f59b3a57073965122a1593419982f6edfd880a9f1b2a0d49656ffc1ec6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.534Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

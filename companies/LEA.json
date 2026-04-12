@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LEA",
+  "name": "LEAR CORP",
+  "cik": "0000842162",
+  "exchange": "NYSE",
+  "sic": "3714",
+  "sic_description": "Motor Vehicle Parts & Accessories",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I In this Annual Report on Form 10-K (this \"Report\"), when we use the terms the \"Company,\" \"Lear,\" \"we,\" \"us\" and \"our,\" unless otherwise indicated or the context otherwise requires, we are referring to Lear Corporation and its consolidated subsidiaries. A substantial portion of the Company's operations are conducted through subsidiaries controlled by Lear Corporation. The Company is also a party to various joint venture arrangements. Certain disclosures included in this Report constitute f...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LEA",
+  "origin": {
+    "leaf": "b01e65fa18c1da0e6388b28d9fef829d96a02f275ba3c30b4c7427c6205af925",
+    "parent": "b5599db624c4b79bdbf9d2d943b43ccc882103267481f482a1ca6da452f1cfd4",
+    "timestamp": "2026-04-12T03:12:50.576Z",
+    "source": "0000842162-26-000011",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b01e65fa18c1da0e6388b28d9fef829d96a02f275ba3c30b4c7427c6205af925",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.576Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TWIN",
+  "name": "TWIN DISC INC",
+  "cik": "0000100378",
+  "summary": "Twin Disc, Incorporated, founded in 1918 and incorporated in Wisconsin, designs, manufactures, and sells marine and heavy-duty off-highway power transmission equipment. Products include marine transmissions, azimuth drives, surface drives, propellers, boat management systems, power-shift transmissions, hydraulic torque converters, power take-offs, industrial clutches, control systems, and braking systems. The company serves pleasure craft, commercial and military marine, energy, natural resources, government, and industrial markets through a direct sales force and distributor network.",
+  "products": [
+    {
+      "name": "Marine Transmissions",
+      "type": "hardware",
+      "description": "Power transmission equipment for marine applications"
+    },
+    {
+      "name": "Azimuth Drives",
+      "type": "hardware",
+      "description": "Marine propulsion drives for directional thrust"
+    },
+    {
+      "name": "Surface Drives",
+      "type": "hardware",
+      "description": "Marine surface propulsion systems"
+    },
+    {
+      "name": "Propellers",
+      "type": "hardware",
+      "description": "Marine propulsion propellers"
+    },
+    {
+      "name": "Boat Management Systems",
+      "type": "platform",
+      "description": "Integrated management systems for marine vessels"
+    },
+    {
+      "name": "Power-Shift Transmissions",
+      "type": "hardware",
+      "description": "Heavy-duty off-highway power-shift transmission equipment"
+    },
+    {
+      "name": "Hydraulic Torque Converters",
+      "type": "hardware",
+      "description": "Hydraulic torque conversion equipment for heavy-duty applications"
+    },
+    {
+      "name": "Power Take-Offs",
+      "type": "hardware",
+      "description": "Power take-off units for industrial and off-highway use"
+    },
+    {
+      "name": "Industrial Clutches",
+      "type": "hardware",
+      "description": "Clutch systems for industrial applications"
+    },
+    {
+      "name": "Control Systems",
+      "type": "hardware",
+      "description": "Controls systems for marine and industrial equipment"
+    },
+    {
+      "name": "Braking Systems",
+      "type": "hardware",
+      "description": "Braking systems for marine and industrial applications"
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TWIN/profile",
+  "origin": {
+    "leaf": "0239154cb50da1fe2b04a74312403f9ebfd25a99e3f9ab4c9fff6879db27035a",
+    "parent": "6edf31a7db3c71bc0fb3bf106bcb56ca12f8d0791879907937a83bcfba1610f4",
+    "timestamp": "2026-04-12T03:12:56.965Z",
+    "source": "profile:0000100378",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0239154cb50da1fe2b04a74312403f9ebfd25a99e3f9ab4c9fff6879db27035a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.965Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

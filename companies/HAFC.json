@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HAFC",
+  "name": "HANMI FINANCIAL CORP",
+  "cik": "0001109242",
+  "exchange": "Nasdaq",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Hanmi Financial Corporation is the holding company for Hanmi Bank, a community bank serving multi-ethnic communities, particularly Korean-Americans. The bank offers commercial real estate loans, SBA loans, commercial and industrial loans, trade finance, and retail banking products including deposits. It operates across multiple U.S. markets and focuses on small and medium-sized businesses.",
+  "tags": [
+    "korean-american-community-banking",
+    "multi-ethnic-community-banking",
+    "small-and-medium-sized-business-banking",
+    "commercial-real-estate-lending",
+    "sba-lending"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HAFC",
+  "origin": {
+    "leaf": "852cbd5ec38e32daaefb561d3c2b6f694bda9cbfbf248ab0514d117cc75db410",
+    "parent": "0c139b5ffc43dfee2f64a1e217e8145deafd9cb2238d5406b663d758863fcca5",
+    "timestamp": "2026-04-12T03:12:51.187Z",
+    "source": "0001193125-26-082425",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/852cbd5ec38e32daaefb561d3c2b6f694bda9cbfbf248ab0514d117cc75db410",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.187Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

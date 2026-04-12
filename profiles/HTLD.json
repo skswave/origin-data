@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HTLD",
+  "name": "HEARTLAND EXPRESS INC",
+  "cik": "0000799233",
+  "summary": "Heartland Express, Inc. is a Nevada holding company operating as a short, medium, and long-haul truckload carrier providing nationwide asset-based dry van truckload service for major shippers across the U.S. Services include temperature-controlled transportation and Mexico cross-border logistics via third-party partnerships. Operating under brands Heartland Express, Millis Transfer, Smith Transport, and CFI, the company reports consolidated average length of haul under 400 miles and generated $805.7 million in revenue for 2025.",
+  "products": [
+    {
+      "name": "Dry Van Truckload Service",
+      "type": "service",
+      "description": "Nationwide asset-based dry van truckload transportation for major shippers across the U.S."
+    },
+    {
+      "name": "Temperature-Controlled Transportation",
+      "type": "service",
+      "description": "Truckload temperature-controlled transportation services, not significant to consolidated operations."
+    },
+    {
+      "name": "Mexico Logistics Services",
+      "type": "service",
+      "description": "Cross-border freight and logistics services into Mexico offered through third-party partnerships."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party Mexico partners",
+      "partnership_type": "strategic",
+      "description": "Third-party partnerships used to provide cross-border freight and logistics services into Mexico.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HTLD/profile",
+  "origin": {
+    "leaf": "5b8a7a643419b35ebdb7449389ab5e461f2f987b6d10736f501c33637add86ce",
+    "parent": "5b533b6fda5c449169465ad4269317f60e52c10a934e9f279c4aaf1578527e6c",
+    "timestamp": "2026-04-12T03:12:56.102Z",
+    "source": "profile:0000799233",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5b8a7a643419b35ebdb7449389ab5e461f2f987b6d10736f501c33637add86ce",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.102Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

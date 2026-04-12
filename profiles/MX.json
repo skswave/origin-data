@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MX",
+  "name": "MAGNACHIP SEMICONDUCTOR Corp",
+  "cik": "0001325702",
+  "summary": "Magnachip Semiconductor Corporation is a designer and manufacturer of analog and mixed-signal power semiconductor platform solutions. Products include Power Analog Solutions (MOSFETs, IGBTs) and Power IC products (AC-DC/DC-DC converters, LED drivers, PMICs, regulators, level shifters) serving industrial, automotive, communication, consumer, and computing markets. With approximately 45 years of operating history and 950+ registered patents, the company operates design and manufacturing facilities in Korea and sold approximately 350 distinct products in 2025, generating $178.9 million in total revenues.",
+  "products": [
+    {
+      "name": "MOSFETs (Metal Oxide Semiconductor Field Effect Transistors)",
+      "type": "hardware",
+      "description": "Power discrete semiconductors for TVs, smartphones, PCs, wearables, automotive and industrial applications."
+    },
+    {
+      "name": "IGBTs (Insulated-Gate Bipolar Transistors)",
+      "type": "hardware",
+      "description": "Power discrete semiconductors for e-bikes, solar inverters, LED lighting, motor drives and consumer electronics."
+    },
+    {
+      "name": "AC-DC/DC-DC Converters",
+      "type": "hardware",
+      "description": "Power IC products providing power management solutions for TVs, notebooks, tablet PCs and automotive applications."
+    },
+    {
+      "name": "LED Drivers",
+      "type": "hardware",
+      "description": "Power IC products for televisions, wearable devices, notebooks and other consumer electronics."
+    },
+    {
+      "name": "Power Management Integrated Circuits (PMICs)",
+      "type": "hardware",
+      "description": "Power IC products for consumer electronics and automotive applications."
+    },
+    {
+      "name": "Regulators",
+      "type": "hardware",
+      "description": "Power IC products used in televisions, wearables, notebooks and consumer electronics."
+    },
+    {
+      "name": "Level Shifters",
+      "type": "hardware",
+      "description": "Power IC products for consumer electronics and automotive applications."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MX/profile",
+  "origin": {
+    "leaf": "431e1ee072ae562b75b6d4674acf87289fb7fde4d8a2c9711050e62b5e785615",
+    "parent": "015efe751aa50c810fbdae3517b03b13d1541b0dfcef31fc0f340aa30c3660dd",
+    "timestamp": "2026-04-12T03:12:57.399Z",
+    "source": "profile:0001325702",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/431e1ee072ae562b75b6d4674acf87289fb7fde4d8a2c9711050e62b5e785615",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.399Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

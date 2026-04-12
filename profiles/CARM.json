@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CARM",
+  "name": "Carisma Therapeutics Inc.",
+  "cik": "0001485003",
+  "summary": "Carisma Therapeutics Inc. is a biotechnology company focused on macrophage and monocyte engineering to develop therapies for liver fibrosis and cancer. Its proprietary CAR-M platform uses chimeric antigen receptors to redirect macrophages against tumor-associated antigens. Key candidates include CT-2401 (liver fibrosis, mRNA/LNP approach) and CT-1119 (mesothelin-positive solid tumors). Following strategic reviews in 2024-2025, the company paused R&D and is exploring strategic alternatives including asset sales, partnerships, or a company merger.",
+  "products": [
+    {
+      "name": "CT-2401",
+      "type": "platform",
+      "description": "mRNA/LNP-based product candidate targeting liver fibrosis via engineered macrophages; achieved pre-clinical proof of concept in Q2 2024."
+    },
+    {
+      "name": "CT-1119",
+      "type": "platform",
+      "description": "Mesothelin-targeted CAR-Monocyte product candidate for advanced solid tumors including pancreatic, ovarian, and lung cancer; development paused."
+    },
+    {
+      "name": "CT-0525",
+      "type": "platform",
+      "description": "HER2-directed CAR-Monocyte autologous cell therapy for solid tumors; development ceased in December 2024 after Phase 1 trial."
+    },
+    {
+      "name": "CT-0508",
+      "type": "platform",
+      "description": "Macrophage-based initial lead product candidate; all clinical activities ceased as of the 2024 revised operating plan."
+    },
+    {
+      "name": "CAR-M Platform",
+      "type": "platform",
+      "description": "Proprietary chimeric antigen receptor macrophage platform for redirecting macrophages and monocytes against tumor-associated antigens."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "ModernaTX, Inc.",
+      "partnership_type": "development",
+      "description": "Collaboration on in vivo mRNA/LNP CAR-M programs; Carisma eligible to receive future milestones and royalty payments.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CARM/profile",
+  "origin": {
+    "leaf": "2f9635afc55d781ca0d99021baf6079c578d63c755ac9be6e07c9c1bfe87001f",
+    "parent": "3e846da54564b64218237abe675decdcf6360fa1353f9979474a8fa6c4c95eb7",
+    "timestamp": "2026-04-12T03:12:59.974Z",
+    "source": "profile:0001485003",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2f9635afc55d781ca0d99021baf6079c578d63c755ac9be6e07c9c1bfe87001f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.974Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

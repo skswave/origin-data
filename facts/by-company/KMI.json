@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "KMI",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "KMI",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KMI",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KMI",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/KMI/transcripts",
+  "origin": {
+    "leaf": "36b6c53574f6c3848f7497e8ba262e30ef084b7919b4369a3b87538040ff92b0",
+    "parent": "7fb2bf26db165f01e2819c393398a633ec32a85e9aba620dd4cf209a3ec773aa",
+    "timestamp": "2026-04-12T03:13:06.896Z",
+    "source": "facts:KMI",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/36b6c53574f6c3848f7497e8ba262e30ef084b7919b4369a3b87538040ff92b0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:06.896Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

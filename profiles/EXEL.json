@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EXEL",
+  "name": "EXELIXIS, INC.",
+  "cik": "0000939767",
+  "summary": "Exelixis, Inc. is a oncology-focused biopharmaceutical company that discovers, develops, and commercializes cancer treatments. The company's key marketed product is cabozantinib, sold under the brand names Cabometyx and Cometriq, approved for renal cell carcinoma, hepatocellular carcinoma, and differentiated thyroid cancer. Exelixis also has a pipeline of additional oncology compounds in clinical development.",
+  "products": [
+    {
+      "name": "Cabometyx",
+      "type": "service",
+      "description": "Cabozantinib formulation approved for renal cell carcinoma and hepatocellular carcinoma"
+    },
+    {
+      "name": "Cometriq",
+      "type": "service",
+      "description": "Cabozantinib formulation approved for progressive, metastatic medullary thyroid cancer"
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EXEL/profile",
+  "origin": {
+    "leaf": "7ffa8f5e15ead025127c2ed5ff163921b01170a306f6179d8595abd985182e40",
+    "parent": "327cc7fa06d19eb714625d598902f8bc8e9a4a3c9e08bc9a400aef58d4b674de",
+    "timestamp": "2026-04-12T03:12:55.012Z",
+    "source": "profile:0000939767",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7ffa8f5e15ead025127c2ed5ff163921b01170a306f6179d8595abd985182e40",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.012Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "COKE",
+  "name": "Coca-Cola Consolidated, Inc.",
+  "cik": "0000317540",
+  "exchange": "Nasdaq",
+  "sic": "2086",
+  "sic_description": "Bottled & Canned Soft Drinks & Carbonated Waters",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1980",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Coca-Cola Consolidated, Inc. is the largest Coca-Cola bottler in the United States, distributing, marketing, and manufacturing nonalcoholic beverages across 14 states and the District of Columbia, serving approximately 60 million consumers. Approximately 85% of bottle/can sales volume consists of The Coca-Cola Company products, including Coca-Cola, Sprite, and Dasani. The company also distributes Monster Energy and Dr Pepper products, offering sparkling and still beverages in bottle/can and post-mix formats.",
+  "tags": [
+    "nonalcoholic-beverage-distribution",
+    "nonalcoholic-beverage-manufacturing",
+    "sparkling-beverages",
+    "still-beverages",
+    "retail-bottle/can-sales",
+    "fountain/post-mix-sales",
+    "coke-one-north-america-(cona)-system",
+    "direct-store-delivery-(dsd)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/COKE",
+  "origin": {
+    "leaf": "5be24f39b2b6c97a75169685351c95baef4f8c03a0bb63aa14bce7bd21f2afc6",
+    "parent": "d6ee644380b1a9cf22aef96291c63fb3987fe236753346e863222881983ab37a",
+    "timestamp": "2026-04-12T03:12:50.467Z",
+    "source": "0001628280-26-009057",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5be24f39b2b6c97a75169685351c95baef4f8c03a0bb63aa14bce7bd21f2afc6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.467Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

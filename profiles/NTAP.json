@@ -1,0 +1,154 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NTAP",
+  "name": "NetApp, Inc.",
+  "cik": "0001002047",
+  "summary": "NetApp, Inc. provides enterprise-class software, systems, and services for data infrastructure management. Founded in 1992 and headquartered in San Jose, California, the company offers unified data storage solutions, hybrid and multi-cloud integration, and data management platforms including the ONTAP operating system and BlueXP control plane. NetApp's products support file, block, and object storage across on-premises, private cloud, and public cloud environments including Amazon AWS, Microsoft Azure, and Google Cloud, serving customers across hybrid multi-cloud deployments.",
+  "products": [
+    {
+      "name": "ONTAP",
+      "type": "software",
+      "description": "Foundational data management OS supporting NAS, SAN, object, and container environments across on-premises, hybrid, and public clouds."
+    },
+    {
+      "name": "ONTAP One",
+      "type": "software",
+      "description": "All-in-one software license delivering comprehensive data management tools for business continuity."
+    },
+    {
+      "name": "BlueXP",
+      "type": "platform",
+      "description": "Control plane enabling unified storage operations and data management across on-premises, cloud, and edge environments."
+    },
+    {
+      "name": "NetApp Snapshot",
+      "type": "software",
+      "description": "Creates and manages point-in-time file system copies with no performance impact and minimal storage consumption."
+    },
+    {
+      "name": "SnapCenter Backup Management",
+      "type": "software",
+      "description": "High-performance backup and recovery software for database and application workloads on ONTAP storage."
+    },
+    {
+      "name": "SnapMirror Data Replication",
+      "type": "software",
+      "description": "Replicates data at high speeds across environments including cloud service providers and storage tiers."
+    },
+    {
+      "name": "SnapLock Data Compliance",
+      "type": "software",
+      "description": "High-performance disk-based data permanence solution for HDD and SSD deployments ensuring compliance."
+    },
+    {
+      "name": "Amazon FSx for NetApp ONTAP",
+      "type": "service",
+      "description": "Native cloud storage service on AWS providing ONTAP capabilities as a fully managed cloud service."
+    },
+    {
+      "name": "Azure NetApp Files",
+      "type": "service",
+      "description": "Native cloud storage service on Microsoft Azure providing enterprise-grade file storage."
+    },
+    {
+      "name": "Google Cloud NetApp Volumes",
+      "type": "service",
+      "description": "Native cloud storage service on Google Cloud delivering NetApp storage capabilities."
+    },
+    {
+      "name": "NetApp Keystone",
+      "type": "service",
+      "description": "Storage-as-a-service subscription offering providing flexible, consumption-based infrastructure."
+    },
+    {
+      "name": "Cloud Volumes ONTAP",
+      "type": "software",
+      "description": "Software-defined storage solution running ONTAP in public cloud environments."
+    },
+    {
+      "name": "AFF (All Flash FAS)",
+      "type": "hardware",
+      "description": "All-flash storage systems optimized for high-performance enterprise workloads."
+    },
+    {
+      "name": "ASA (All-Flash SAN Array)",
+      "type": "hardware",
+      "description": "Block-optimized all-flash storage array for SAN environments disrupting the block storage market."
+    },
+    {
+      "name": "FAS (Fabric-Attached Storage)",
+      "type": "hardware",
+      "description": "Hybrid flash and disk storage systems for unified file and block storage workloads."
+    },
+    {
+      "name": "StorageGRID",
+      "type": "hardware",
+      "description": "Object storage solution for managing large volumes of unstructured data across distributed environments."
+    },
+    {
+      "name": "BlueXP Ransomware Protection",
+      "type": "service",
+      "description": "Data protection service providing ransomware detection, prevention, and recovery capabilities."
+    },
+    {
+      "name": "BlueXP Disaster Recovery",
+      "type": "service",
+      "description": "Cloud-based disaster recovery service for VMware workloads using SnapMirror replication."
+    },
+    {
+      "name": "Cloud Insights",
+      "type": "service",
+      "description": "Infrastructure observability platform monitoring performance and health across hybrid cloud environments."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Amazon AWS",
+      "partnership_type": "strategic",
+      "description": "Native cloud storage partnership delivering Amazon FSx for NetApp ONTAP as an embedded cloud service.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Microsoft Azure",
+      "partnership_type": "strategic",
+      "description": "Native cloud storage partnership providing Azure NetApp Files as an embedded enterprise storage service.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Google Cloud",
+      "partnership_type": "strategic",
+      "description": "Native cloud storage partnership delivering Google Cloud NetApp Volumes as an embedded cloud storage service.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Broadcom (VMware)",
+      "partnership_type": "strategic",
+      "description": "Integration partnership supporting VMware workloads including disaster recovery and storage solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Cisco",
+      "partnership_type": "strategic",
+      "description": "Partnership referenced in context of FlexPod converged infrastructure solutions for enterprise customers.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NTAP/profile",
+  "origin": {
+    "leaf": "f8db9e93fe455627028b1289da201beba38bf936342af33499ae27f233f40419",
+    "parent": "fc808fff1fd67276f01b5f6e1bf1e46f41041a33c54346ba1e35cffb019d601b",
+    "timestamp": "2026-04-12T03:12:54.898Z",
+    "source": "profile:0001002047",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f8db9e93fe455627028b1289da201beba38bf936342af33499ae27f233f40419",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.898Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

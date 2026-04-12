@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SMBK",
+  "name": "SMARTFINANCIAL INC.",
+  "cik": "0001038773",
+  "exchange": "NYSE",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "TN",
+  "headquarters": "Pigeon Forge, Tennessee",
+  "founded": "1983",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "SmartFinancial, Inc. is a Tennessee-chartered bank holding company operating SmartBank, a commercial bank with 42 full-service branches and two loan production offices across East and Middle Tennessee, Alabama, Florida, and Georgia. The Bank offers commercial loans, real estate loans, consumer loans, leases, and deposit services. Its subsidiary Fountain Equipment Finance, LLC provides loans and leases for heavy equipment, semi-trucks, and trailers to small and medium-sized businesses throughout the Southeast.",
+  "tags": [
+    "east-tennessee",
+    "middle-tennessee",
+    "alabama",
+    "florida",
+    "georgia",
+    "southeast-united-states",
+    "small-and-medium-sized-businesses",
+    "individual-retail-banking-customers"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SMBK",
+  "origin": {
+    "leaf": "3776f7d699e75001add4d80daf0bc7d15993a881c6fc3aa59ecc62ba38854cba",
+    "parent": "31a5472b6f38d577a89bffb933b550333941e006e1703c2c9334e99079e650a0",
+    "timestamp": "2026-04-12T03:12:51.254Z",
+    "source": "0001104659-26-028542",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3776f7d699e75001add4d80daf0bc7d15993a881c6fc3aa59ecc62ba38854cba",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.254Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

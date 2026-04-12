@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "RHI",
+  "name": "ROBERT HALF INC.",
+  "cik": "0000315213",
+  "exchange": "NYSE",
+  "sic": "7363",
+  "sic_description": "Services-Help Supply Services",
+  "state_of_incorporation": "DE",
+  "headquarters": "Menlo Park and San Ramon, California",
+  "founded": "1948",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Robert Half Inc. provides specialized talent solutions and business consulting services under the Robert Half and Protiviti brands. Services include contract and permanent placement of professionals in finance and accounting, technology, marketing and creative, legal, and administrative fields. Protiviti, a wholly owned subsidiary, offers consulting and managed solutions in regulatory compliance, finance, technology, operations, data, risk, and internal audit across more than 25 countries.",
+  "tags": [
+    "finance-and-accounting-staffing",
+    "technology-staffing",
+    "marketing-and-creative-staffing",
+    "legal-staffing",
+    "administrative-and-customer-support-staffing",
+    "permanent-placement-staffing",
+    "business-consulting-and-managed-solutions",
+    "internal-audit-services",
+    "regulatory-compliance-consulting",
+    "risk-management-consulting"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/RHI",
+  "origin": {
+    "leaf": "86c501583b4a925349585c7a0700d1c0766d410f2e92a4598cb5571be6a90bc4",
+    "parent": "473542e8bc0a096e0e82b87be262945b73a75aeb9a85a5d17a2da4081b8b90fe",
+    "timestamp": "2026-04-12T03:12:50.821Z",
+    "source": "0000315213-26-000006",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/86c501583b4a925349585c7a0700d1c0766d410f2e92a4598cb5571be6a90bc4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.821Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WMK",
+  "name": "WEIS MARKETS INC",
+  "cik": "0000105418",
+  "summary": "Weis Markets, Inc. is a Pennsylvania-based retail food company founded in 1912, operating 202 supermarkets across Pennsylvania, Maryland, New York, New Jersey, Virginia, Delaware, and West Virginia. Stores sell groceries, dairy, frozen foods, meats, seafood, fresh produce, floral, pharmacy services, deli products, prepared foods, bakery, beer and wine, and fuel. The company self-distributes approximately 52% of products and operates three manufacturing facilities processing milk, water, ice, ice cream, and fresh meat.",
+  "products": [
+    {
+      "name": "Retail Grocery Stores",
+      "type": "service",
+      "description": "202 supermarkets selling center store, fresh, pharmacy, and fuel products under the Weis Markets brand."
+    },
+    {
+      "name": "Weis 2 Go Online",
+      "type": "platform",
+      "description": "Online ordering service offering delivery or drive-thru pickup, available at 195 store locations."
+    },
+    {
+      "name": "Home Delivery",
+      "type": "service",
+      "description": "Grocery home delivery available at all 202 locations via multiple third-party grocery delivery partners."
+    },
+    {
+      "name": "Pharmacy Services",
+      "type": "service",
+      "description": "In-store pharmacy services contributing 13.6% of consolidated net sales in fiscal 2025."
+    },
+    {
+      "name": "Fuel Centers",
+      "type": "service",
+      "description": "Fuel stations operated under the Weis Gas-n-Go brand, contributing 5.0% of net sales in fiscal 2025."
+    },
+    {
+      "name": "Private Label Products",
+      "type": "service",
+      "description": "Store-brand products including natural, gluten-free, and organic varieties sold under Weis private labels."
+    },
+    {
+      "name": "Manufacturing Facilities",
+      "type": "hardware",
+      "description": "Three facilities processing milk, water, ice, ice cream, and fresh meat products for store supply."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party fuel station partners",
+      "partnership_type": "strategic",
+      "description": "Loyalty reward points redeemable at third-party fuel station partner locations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Multiple grocery delivery partners",
+      "partnership_type": "strategic",
+      "description": "Home delivery offered to customers at all 202 store locations via multiple grocery delivery partners.",
+      "start_date": null
+    },
+    {
+      "partner_name": "WMK Holdings, Inc.",
+      "partnership_type": "licensing",
+      "description": "Weis Markets is exclusive licensee of nearly 100 trademarks registered in the U.S. from WMK Holdings, Inc.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WMK/profile",
+  "origin": {
+    "leaf": "a9b4fa345db3fa1d2a46704439feb958fa50b12870f9744350f5aca9a62b26c5",
+    "parent": "798978f5c3b539e41ca844d8ba4719fb283fa0dd2ed865f0fe12ab59ad82474e",
+    "timestamp": "2026-04-12T03:12:55.743Z",
+    "source": "profile:0000105418",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a9b4fa345db3fa1d2a46704439feb958fa50b12870f9744350f5aca9a62b26c5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.743Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AREN",
+  "name": "Arena Group Holdings, Inc.",
+  "cik": "0000894871",
+  "summary": "Arena Group Holdings, Inc. is a brand, data, and IP company that builds, acquires, and scales high-performing digital media assets. It operates owned-and-operated brands including TheStreet, Parade, Men's Journal, Athlon Sports, and the Adventure Network, organized into Sports & Leisure, Finance, Lifestyle, and Platform verticals. The company uses a proprietary publishing platform and entrepreneurial model where Expert Contributors earn revenue shares, while Publisher Partners leverage Arena's technology for content management, SEO, analytics, and monetization.",
+  "products": [
+    {
+      "name": "Arena Platform",
+      "type": "platform",
+      "description": "Proprietary online publishing platform providing content management, SEO, analytics, and monetization tools for owned brands and Publisher Partners."
+    },
+    {
+      "name": "Monetization Solutions",
+      "type": "platform",
+      "description": "Proprietary advertising technology and tools enabling display/video ad monetization, subscriptions, and membership-based revenue for publishers."
+    },
+    {
+      "name": "TheStreet",
+      "type": "service",
+      "description": "Finance vertical anchor brand delivering business news, market data, analysis, and investigative journalism."
+    },
+    {
+      "name": "Parade",
+      "type": "service",
+      "description": "Lifestyle vertical anchor brand providing entertainment and lifestyle content to broad consumer audiences."
+    },
+    {
+      "name": "Athlon Sports",
+      "type": "service",
+      "description": "Sports & Leisure vertical anchor brand covering sports and fan interests."
+    },
+    {
+      "name": "Men's Journal",
+      "type": "service",
+      "description": "Sports & Leisure enthusiast brand covering men's lifestyle and fitness content."
+    },
+    {
+      "name": "Adventure Network",
+      "type": "service",
+      "description": "Sports & Leisure enthusiast brand comprising Surfer, Powder, Bike, TransWorld SKATEboarding, and Snowboarder."
+    },
+    {
+      "name": "ShopHQ",
+      "type": "service",
+      "description": "Digital-first, dropship-focused commerce brand acquired in 2025, integrating live selling and social commerce with media audience."
+    },
+    {
+      "name": "Autoblog",
+      "type": "service",
+      "description": "Finance vertical enthusiast brand acquired in 2025 providing automotive coverage and consumer tools."
+    },
+    {
+      "name": "Lindy's Sports",
+      "type": "service",
+      "description": "Sports & Leisure anchor brand acquired in 2025."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Publisher Partners (independent websites)",
+      "partnership_type": "licensing",
+      "description": "Independent third-party websites licensing Arena's platform, technology, and monetization tools to produce and publish content on their own domains.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AREN/profile",
+  "origin": {
+    "leaf": "fd8fffede844d5af2893d18edb531d2358e6c776198ec31589b2f9c6f032bf5b",
+    "parent": "442c0952eecdd94dc54193f94a5aecf987760eb0c89c452899ccfdb8a7a5f447",
+    "timestamp": "2026-04-12T03:12:57.397Z",
+    "source": "profile:0000894871",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fd8fffede844d5af2893d18edb531d2358e6c776198ec31589b2f9c6f032bf5b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.397Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

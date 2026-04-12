@@ -1,0 +1,124 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "MDU",
+  "total_facts": 8,
+  "by_type": {
+    "topic_mention": 8
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "MDU",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 18,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MDU",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 18,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MDU",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 18,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MDU",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MDU",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MDU",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MDU",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MDU",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MDU/transcripts",
+  "origin": {
+    "leaf": "5468c9b70e98bfcac7a2e8595f6f7fc6035e2f56c5a46ce0912cdb170f2eaa04",
+    "parent": "77df8fdf7c54c47dbf4eb6c846283327ddcd85e9d280333a8a9498d3634581ed",
+    "timestamp": "2026-04-12T03:13:36.125Z",
+    "source": "facts:MDU",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5468c9b70e98bfcac7a2e8595f6f7fc6035e2f56c5a46ce0912cdb170f2eaa04",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:36.125Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

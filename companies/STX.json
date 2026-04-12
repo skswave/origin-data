@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "STX",
+  "name": "Seagate Technology Holdings plc",
+  "cik": "0001137789",
+  "exchange": "Nasdaq",
+  "sic": "3572",
+  "sic_description": "Computer Storage Devices",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0627",
+  "summary": "Seagate Technology Holdings plc is a leading provider of data storage technology and infrastructure solutions. Its principal products are hard disk drives (HDDs), along with solid state drives (SSDs), storage subsystems, and the Lyve platform—a scalable edge-to-cloud mass data platform offering data transfer shuttles and storage-as-a-service. Seagate designs and manufactures key HDD components including read/write heads and recording media, serving cloud, enterprise, and legacy consumer markets.",
+  "tags": [
+    "nearline-cloud-storage",
+    "nearline-enterprise-storage",
+    "video-and-image-applications-(via)",
+    "network-attached-storage-(nas)",
+    "edge-to-cloud-data-storage",
+    "consumer-storage",
+    "client-storage",
+    "mission-critical-storage",
+    "hyperscale-data-centers",
+    "ai-and-machine-learning-infrastructure",
+    "serial-advanced-technology-attachment-(sata)",
+    "serial-attached-scsi-(sas)",
+    "non-volatile-memory-express-(nvme)",
+    "heat-assisted-magnetic-recording-(hamr)",
+    "shingled-magnetic-recording-(smr)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/STX",
+  "origin": {
+    "leaf": "b2d23c19b511725b7fe22e4404c578a2b6e95f70128df1f59d242e546db1b441",
+    "parent": "f00687cfe99d26fd1bb33fe3175f413920d1f20edba030c085b4ee8905394f4d",
+    "timestamp": "2026-04-12T03:12:50.318Z",
+    "source": "0001137789-25-000157",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b2d23c19b511725b7fe22e4404c578a2b6e95f70128df1f59d242e546db1b441",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.318Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

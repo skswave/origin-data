@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EOI",
+  "name": "Eaton Vance Enhanced Equity Income Fund",
+  "cik": "0001300391",
+  "exchange": "NYSE",
+  "sic": null,
+  "sic_description": null,
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EOI",
+  "origin": {
+    "leaf": "01ed88a74351c416aad319e4e650ea8eb6579a13f05d704f5cf92a1486031f77",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:51.200Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/01ed88a74351c416aad319e4e650ea8eb6579a13f05d704f5cf92a1486031f77",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.200Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

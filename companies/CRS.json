@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CRS",
+  "name": "CARPENTER TECHNOLOGY CORP",
+  "cik": "0000017843",
+  "exchange": "NYSE",
+  "sic": "3312",
+  "sic_description": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": "PARTI (a) General Development of Business: Carpenter Technology Corporation, founded in 1889, is engaged in the manufacturing, fabrication and distribution of specialty metals. As used throughout this report, unless the context requires otherwise, the terms \"Carpenter,\" \"Carpenter Technology,\" \"Company,\" \"Registrant,\" \"Issuer,\" \"we\" and \"our\" refer to Carpenter Technology Corporation. (b) Financial Information About Segments: We are organized in two reportable business segments: Specialty Alloys...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 4500,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CRS",
+  "origin": {
+    "leaf": "cec0c71f9f88067fd3942db4f0ea779daf9b7ab66590d0a458c1c67f2db18ae7",
+    "parent": "003e320f728623dc5c45d351b1ca14911e566e0cbd182466ecf17709f3920c18",
+    "timestamp": "2026-04-12T03:12:50.417Z",
+    "source": "0000017843-25-000021",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cec0c71f9f88067fd3942db4f0ea779daf9b7ab66590d0a458c1c67f2db18ae7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.417Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

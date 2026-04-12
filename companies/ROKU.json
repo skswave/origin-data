@@ -1,0 +1,61 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ROKU",
+  "name": "ROKU, INC",
+  "cik": "0001428439",
+  "exchange": "Nasdaq",
+  "sic": "4841",
+  "sic_description": "Cable & Other Pay Television Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Roku, Inc. is the leading TV streaming platform in the United States, Canada, and Mexico by hours streamed. The company operates the Roku TV OS, a purpose-built television operating system powering Roku streaming devices including streaming players, Roku-made TVs, and licensed Roku TV partner models. Roku connects viewers to content, enables content partners to monetize audiences, and provides advertisers with digital advertising capabilities. Revenue streams include platform advertising, content distribution, and hardware device sales.",
+  "tags": [
+    "tv-streaming",
+    "digital-advertising",
+    "connected-tv-advertising",
+    "streaming-hardware-devices",
+    "ad-supported-video-on-demand-(avod)",
+    "free-ad-supported-streaming-tv-(fast)",
+    "subscription-video-on-demand-(svod)",
+    "united-states",
+    "canada",
+    "mexico",
+    "hdmi",
+    "broadband-internet-connectivity",
+    "programmatic-advertising-(dsp/ssp)",
+    "avod",
+    "fast",
+    "svod"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ROKU",
+  "origin": {
+    "leaf": "f312ea7d13cc3be4a60b06019cd3ee364de198442be969c18324ab66713b7a75",
+    "parent": "8cfa43110493e49374d58e79eac6621519fa7161fd434a5d437efadded72c667",
+    "timestamp": "2026-04-12T03:12:50.456Z",
+    "source": "0001628280-26-008114",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f312ea7d13cc3be4a60b06019cd3ee364de198442be969c18324ab66713b7a75",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.456Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

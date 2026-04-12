@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EFOI",
+  "name": "ENERGY FOCUS, INC/DE",
+  "cik": "0000924168",
+  "summary": "Energy Focus, Inc. designs, develops, manufactures, and sells energy-efficient LED lighting systems and controls for commercial and military maritime markets. Core products include LED lighting fixtures and lamps for navy/military applications, Energy Storage Systems (ESS), Uninterruptible Power Supply (UPS), tubular LED (TLED) products with battery backup units, and the RedCap product line. The company sells through direct sales, strategic partnerships, and channel partners including sales representatives, agents, and distributors.",
+  "products": [
+    {
+      "name": "Military Maritime LED Lighting Fixtures and Lamps",
+      "type": "hardware",
+      "description": "Robust LED lighting fixtures and lamps designed for navy and military maritime applications."
+    },
+    {
+      "name": "Energy Storage Systems (ESS)",
+      "type": "hardware",
+      "description": "Energy storage systems offered as a business line and product category."
+    },
+    {
+      "name": "Uninterruptible Power Supply (UPS)",
+      "type": "hardware",
+      "description": "UPS products sold alongside LED lighting solutions."
+    },
+    {
+      "name": "Tubular LED (TLED) Lighting Products",
+      "type": "hardware",
+      "description": "TLED lamps including battery backup units for commercial and maritime applications."
+    },
+    {
+      "name": "RedCap",
+      "type": "hardware",
+      "description": "Enhanced product line with improved user experience and functionality, updated in 2025."
+    },
+    {
+      "name": "Intellitube",
+      "type": "hardware",
+      "description": "Registered trademark product, part of Energy Focus LED lighting portfolio."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EFOI/profile",
+  "origin": {
+    "leaf": "777ce847c626787ec682cc8553a8f1333f97d00b8ec3997a8341f52577102278",
+    "parent": "f91b0bf04290b235c76e5bb67cc9d82d604022270d954c323be0c78c8ed2e826",
+    "timestamp": "2026-04-12T03:12:58.453Z",
+    "source": "profile:0000924168",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/777ce847c626787ec682cc8553a8f1333f97d00b8ec3997a8341f52577102278",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.453Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

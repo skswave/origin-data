@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ZS",
+  "name": "Zscaler, Inc.",
+  "cik": "0001713683",
+  "summary": "Zscaler, Inc. is a cloud-native cybersecurity company founded in 2007 that operates the Zscaler Zero Trust Exchange platform, enabling secure digital transformation for enterprises and government agencies. Its core products include Zscaler Internet Access (ZIA), Zscaler Private Access (ZPA), and Zscaler Digital Experience (ZDX), delivered across 160+ public exchanges globally. The platform serves over 9,400 customers, including ~40% of Forbes Global 2000 and 45%+ of Fortune 500 companies, generating $2,673.1 million in fiscal 2025 revenue.",
+  "products": [
+    {
+      "name": "Zscaler Zero Trust Exchange",
+      "type": "platform",
+      "description": "Cloud-native Zero Trust platform securing users, devices, workloads and AI agents without traditional firewalls or VPNs."
+    },
+    {
+      "name": "Zscaler Internet Access (ZIA)",
+      "type": "service",
+      "description": "Secure access to SaaS and internet destinations with inline content inspection, firewall controls and AI/ML threat protection."
+    },
+    {
+      "name": "Zscaler Private Access (ZPA)",
+      "type": "service",
+      "description": "Zero Trust access to private applications hosted in data centers, clouds or factories without placing users on the corporate network."
+    },
+    {
+      "name": "Zscaler Digital Experience (ZDX)",
+      "type": "service",
+      "description": "Monitors and optimizes digital experience for users accessing enterprise applications and services."
+    },
+    {
+      "name": "Zero Trust Everywhere",
+      "type": "platform",
+      "description": "Extends Zero Trust principles across branches, campuses, cloud, factories, IoT/OT systems and AI agents."
+    },
+    {
+      "name": "Data Security Everywhere",
+      "type": "service",
+      "description": "Safeguards sensitive information across its entire lifecycle regardless of location, device or application."
+    },
+    {
+      "name": "Security for AI",
+      "type": "service",
+      "description": "Enables organizations to securely embrace public and private AI applications."
+    },
+    {
+      "name": "Agentic Operations",
+      "type": "service",
+      "description": "Integrates advanced AI to empower SecOps and ITOps teams with increased efficiency and actionable insights."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ZS/profile",
+  "origin": {
+    "leaf": "a8896729737db3a8d5fcefbee1ff2c2bf1dce02c1e5080fa1c405e9a87053824",
+    "parent": "ec0a43e7266112cd629be8583bea7cc7e81b1555c7f4a1dc8a8c46bfa392cab9",
+    "timestamp": "2026-04-12T03:12:54.883Z",
+    "source": "profile:0001713683",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a8896729737db3a8d5fcefbee1ff2c2bf1dce02c1e5080fa1c405e9a87053824",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.883Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

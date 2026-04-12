@@ -1,0 +1,88 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "AMTB",
+  "total_facts": 5,
+  "by_type": {
+    "topic_mention": 5
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMTB",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMTB",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMTB",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMTB",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMTB",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AMTB/transcripts",
+  "origin": {
+    "leaf": "859c3dcd00a07114f2f7a426d59017530aab9ecbf764bd0a9b16258fd4546b0e",
+    "parent": "ab27a41611c5ec9e3543ba0b73943e2fd92a85a3a8de72172a6d6e9417b2a974",
+    "timestamp": "2026-04-12T03:14:03.775Z",
+    "source": "facts:AMTB",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/859c3dcd00a07114f2f7a426d59017530aab9ecbf764bd0a9b16258fd4546b0e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:03.775Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

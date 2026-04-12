@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CIX",
+  "name": "COMPX INTERNATIONAL INC",
+  "cik": "0001049606",
+  "summary": "CompX International Inc. is a Delaware-incorporated manufacturer of security products and marine components. Security products include mechanical and electrical cabinet locks for postal, office furniture, tool storage, and healthcare applications. Marine components include wake enhancement systems, stainless steel exhaust systems, gauges, throttle controls, and trim tabs for recreational marine and other industries. Products are designed for medium to high-end applications where design, quality, and durability are valued.",
+  "products": [
+    {
+      "name": "Disc Tumbler Locks",
+      "type": "hardware",
+      "description": "Moderate security cabinet locks representing the lowest cost lock produced by CompX."
+    },
+    {
+      "name": "Pin Tumbler Locks",
+      "type": "hardware",
+      "description": "Higher security locks including KeSet, System 64, TuBar, and Turbine product lines."
+    },
+    {
+      "name": "CompX eLock",
+      "type": "hardware",
+      "description": "Electronic lock providing stand-alone or networked security with audit trail for drug storage via proximity card or other credentials."
+    },
+    {
+      "name": "StealthLock",
+      "type": "hardware",
+      "description": "Electronic lock for secure narcotics and valuables storage with keypad or credential-based access."
+    },
+    {
+      "name": "NARC iD",
+      "type": "hardware",
+      "description": "Integrated inventory and access control secured narcotics box for healthcare applications."
+    },
+    {
+      "name": "Wake Enhancement Systems",
+      "type": "hardware",
+      "description": "Specialty marine devices for ski/wakeboard and performance boats including SlamCAM and ecoForce systems."
+    },
+    {
+      "name": "Stainless Steel Exhaust Systems",
+      "type": "hardware",
+      "description": "OEM and aftermarket exhaust headers, pipes, and mufflers for recreational marine applications."
+    },
+    {
+      "name": "Marine Gauges",
+      "type": "hardware",
+      "description": "High performance gauges including GPS speedometers and tachometers for marine use."
+    },
+    {
+      "name": "Throttle Controls",
+      "type": "hardware",
+      "description": "Mechanical and electronic controls and throttles for marine and other industries."
+    },
+    {
+      "name": "Trim Tabs",
+      "type": "hardware",
+      "description": "Billet aluminum trim tabs and steering wheels for ski/wakeboard and performance boats."
+    },
+    {
+      "name": "STOCK LOCKS",
+      "type": "hardware",
+      "description": "Standardized lock product line distributed through North American locksmith and OEM distributor network."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CIX/profile",
+  "origin": {
+    "leaf": "f8445cd4e0551c3323a1bc51086223979c061d976cc57fbcca509c8616c14fc3",
+    "parent": "94072aac12e105d2edef504162e782dda0bf8c0ee587501c4dfe4ab1b98409c0",
+    "timestamp": "2026-04-12T03:12:56.787Z",
+    "source": "profile:0001049606",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f8445cd4e0551c3323a1bc51086223979c061d976cc57fbcca509c8616c14fc3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.788Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "QRVO",
+  "total_facts": 6,
+  "by_type": {
+    "topic_mention": 6
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "QRVO",
+      "predicate": "discussed_in_filing",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "semiconductor",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "QRVO",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "QRVO",
+      "predicate": "discussed_in_filing",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "semiconductor",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "QRVO",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "QRVO",
+      "predicate": "discussed_in_filing",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "semiconductor",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "QRVO",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/QRVO/transcripts",
+  "origin": {
+    "leaf": "a4439545ddf4ed710fc7d2f2cd8ee50cdeea9661432acadfb72e8a91bac24b68",
+    "parent": "16498deec773268d876638e80b268103945e0cef42238343e127720221e1ab6a",
+    "timestamp": "2026-04-12T03:13:27.821Z",
+    "source": "facts:QRVO",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a4439545ddf4ed710fc7d2f2cd8ee50cdeea9661432acadfb72e8a91bac24b68",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:27.821Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FEIM",
+  "name": "FREQUENCY ELECTRONICS INC",
+  "cik": "0000039020",
+  "summary": "Frequency Electronics, Inc. (FEIM) is a world leader in precision time and frequency generation technology, designing, developing, and manufacturing products for commercial and U.S. Government satellites, C4ISR, and Electronic Warfare systems. Products include master timing systems, rubidium atomic frequency standards, GPS-based clocks, RF microwave modules, DC-DC power converters, and frequency synthesizers operating from 1 Hz to 46 GHz, serving satellite payload, defense, and secure communications markets.",
+  "products": [
+    {
+      "name": "Master Timing Systems (Quartz/Rubidium)",
+      "type": "hardware",
+      "description": "Precision timing systems for navigation, communication, and intelligence collection satellites."
+    },
+    {
+      "name": "Digital Rubidium Atomic Frequency Standard",
+      "type": "hardware",
+      "description": "High-precision atomic clock for GPS III satellite onboard clock ensembles."
+    },
+    {
+      "name": "Oven-Controlled Crystal Oscillators (OCXO)",
+      "type": "hardware",
+      "description": "Precision quartz oscillators for space and terrestrial applications."
+    },
+    {
+      "name": "DC-DC Power Converters",
+      "type": "hardware",
+      "description": "Efficient power converters for space applications, sold standalone or integrated into assemblies."
+    },
+    {
+      "name": "RF Microwave Modules and Subsystems",
+      "type": "hardware",
+      "description": "Fast switching, ultra-low phase noise synthesizers, up-down converters, receivers, and tuners up to 60 GHz for EW and SATCOM."
+    },
+    {
+      "name": "GPS-Integrated Precision Clocks",
+      "type": "hardware",
+      "description": "Precision time references incorporating GPS technology for terrestrial secure communications and anti-spoofing applications."
+    },
+    {
+      "name": "Frequency Synthesis and Distribution Systems",
+      "type": "hardware",
+      "description": "Frequency generation and distribution systems for satellite payloads and ground-based communication systems."
+    },
+    {
+      "name": "Ruggedized Subsystems for Mobile Military Platforms",
+      "type": "hardware",
+      "description": "Ruggedized clocks and subsystems for mobile U.S. military land, sea, and airborne platforms."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Morion, Inc.",
+      "partnership_type": "strategic",
+      "description": "Strategic investment (4.6% equity) and technology licensing to Russian crystal oscillator manufacturer for quartz resonators and crystal oscillators; investment fully impaired due to Russia-Ukraine conflict sanctions.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FEIM/profile",
+  "origin": {
+    "leaf": "51075297b4c742e996cb283d4004853a89ad1e28949256cc9d4400ce1a521483",
+    "parent": "3fb79faa37f158e03f524ce607b4b996b141d45a6f0727c382331c39bcb7f592",
+    "timestamp": "2026-04-12T03:12:56.463Z",
+    "source": "profile:0000039020",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/51075297b4c742e996cb283d4004853a89ad1e28949256cc9d4400ce1a521483",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.463Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BX",
+  "company": "Blackstone Inc.",
+  "title": "BX   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 15428,
+  "speakers": [
+    {
+      "name": "BREP",
+      "title": "Blackstone Real Estate Partners, BREDS   –   Blackstone Real Estate Debt Strategies, BCP   –  Blackstone Capital Partners, BCOM   –   Blackstone Communications",
+      "firm": "BREDS   –   Blackstone Real Estate Debt Strategies",
+      "speaker_type": "other",
+      "mention_count": 31
+    },
+    {
+      "name": "NET ACCRUED PERFORMANCE REVENUES",
+      "title": "ADDITIONAL DETAIL  Net Accrued Performance Revenues (“NAPR”) are presented net of performance compensation and excludes Performance Revenues rea liz ed but not yet distributed  as of the reporting date and clawback amounts, if any, which are disclosed in the 10 - K/Q",
+      "firm": "if any",
+      "speaker_type": "other",
+      "mention_count": 8
+    },
+    {
+      "name": "Taxes.",
+      "title": "Net Realizations   is presented on a segment basis and is the sum of Realized Principal Investment Income and Realized Performance  Revenues (which refers to Realized Performance Revenues excluding Fee Related Performance Revenues), less Realized Performanc e  Compensation (which refers to Realized Performance Compensation excluding Fee Related Performance Compensation and Equity - Based  Performance Compensation)",
+      "firm": "less Realized Performanc e  Compensation (which refers to Realized Performance Compensation excluding Fee Related Performance Compensation and Equity - Based  Performance Compensation)",
+      "speaker_type": "other",
+      "mention_count": 4
+    },
+    {
+      "name": "CAPITAL METRICS",
+      "title": "ADDITIONAL DETAIL  Corporate Private Equity also includes Life Sciences, Growth ,   BTAS, and BXPE",
+      "firm": "Growth",
+      "speaker_type": "other",
+      "mention_count": 3
+    },
+    {
+      "name": "ECRED.",
+      "title": "Inflows also included $11",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 3
+    },
+    {
+      "name": "Performance Allocations Compensation.",
+      "title": "Performance Compensation reflects, pursuant to an ongoing compensation program, an increase in the aggregate Realized Perform anc e  Compensation paid to certain of our professionals above the amounts allocable to them based upon the percentage participation   in   the  relevant performance plans previously awarded to them",
+      "firm": "pursuant to an ongoing compensation program",
+      "speaker_type": "other",
+      "mention_count": 2
+    },
+    {
+      "name": "SMAs.",
+      "title": "Closed 4 new CLOs (2 U",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Private Equity  BXGP",
+      "title": "Blackstone GP Stakes   ( 2014 )   ( s )   Minority GP Interests   10,309,849   13%  BIP - Blackstone Infrastructure Partners (2019) (t)   Infrastructure   62,494,036   18%  BXPE - Blackstone Private Equity Strategies Fund Program (2024) (u)   Private Equity   18,022,298   17%  BXPE - Class I (v)   Private Equity   17%  Credit  BXSL - Blackstone Secured Lending Fund (2018) (w)   U",
+      "firm": "309",
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Fee Relate d  Performance Compensation.",
+      "title": "Fee Related Performance Revenues   refers to the realized portion of Performance Revenues from Perpetual Capital that are (a) measured  and received on a recurring basis, and (b) not dependent on realization events from the underlying investments",
+      "firm": "and (b) not dependent on realization events from the underlying investments",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BX",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BX",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 19,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BX",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BX",
+      "predicate": "stated",
+      "object": "We believe  these factors include but are not limited   to   those described under the section   entitled “Risk Factors” in our Annual  Report on Form 10 - K fo",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BX",
+      "predicate": "stated",
+      "object": "We believe these f act ors include but are  not limited to those described under the section entitled “Risk Factors” in our Annual Report on Form 1   - K for th",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BX",
+      "predicate": "discussed",
+      "object": "Quantum Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "quantum"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BX/transcripts",
+  "origin": {
+    "leaf": "6bab72be04394f76472aa1a66a8ad43df03f18973d5e8469dedbd0307a27e48f",
+    "parent": "5fe68ecb63dcaea961dd9aeee04f4fe76833959189f4d9e016a167531b864965fc7dbc15db32434a070b6dfd09740cf2",
+    "timestamp": "2026-04-12T03:13:00.614Z",
+    "source": "transcript:BX_Blackstone4Q25EarningsPressRelease.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6bab72be04394f76472aa1a66a8ad43df03f18973d5e8469dedbd0307a27e48f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.614Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

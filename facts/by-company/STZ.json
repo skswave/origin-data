@@ -1,0 +1,124 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "STZ",
+  "total_facts": 8,
+  "by_type": {
+    "topic_mention": 8
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "STZ",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STZ",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STZ",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STZ",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STZ",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STZ",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STZ",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "STZ",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/STZ/transcripts",
+  "origin": {
+    "leaf": "fae6b9ed1d9e093f5a7b7219784cf2db6b8c23e2c1f809298d9bec883b729dbf",
+    "parent": "0aa7944fca069a4857c087a6c4d2aaa49bb794ff5ef57f3b00a131eff5e7d6b1",
+    "timestamp": "2026-04-12T03:13:13.531Z",
+    "source": "facts:STZ",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fae6b9ed1d9e093f5a7b7219784cf2db6b8c23e2c1f809298d9bec883b729dbf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:13.531Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

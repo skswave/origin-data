@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FR",
+  "name": "FIRST INDUSTRIAL REALTY TRUST INC",
+  "cik": "0000921825",
+  "summary": "First Industrial Realty Trust, Inc. is a self-administered, fully integrated REIT that owns, manages, acquires, sells, develops, and redevelops industrial real estate. As of December 31, 2025, its in-service portfolio consisted of 414 industrial properties across 19 states, totaling approximately 69.9 million square feet of GLA. The company focuses on 15 key logistics markets in the United States and operates primarily through its Delaware limited partnership Operating Partnership.",
+  "products": [
+    {
+      "name": "Industrial Real Estate Portfolio",
+      "type": "service",
+      "description": "Ownership and management of 414 industrial properties totaling ~69.9 million sq ft GLA across 19 states."
+    },
+    {
+      "name": "Industrial Property Development",
+      "type": "service",
+      "description": "Development and redevelopment of best-in-class industrial properties in 15 key U.S. logistics markets."
+    },
+    {
+      "name": "Industrial Property Leasing",
+      "type": "service",
+      "description": "Leasing of industrial space to tenants, including multi-national tenants, with active marketing programs."
+    },
+    {
+      "name": "Joint Venture Services",
+      "type": "service",
+      "description": "Equity interest in and various services provided to a real estate joint venture, accounted for under equity method."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Joint Venture (unnamed)",
+      "partnership_type": "strategic",
+      "description": "Equity interest held through a wholly-owned TRS; provided various services; joint venture sold remaining real estate assets during 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FR/profile",
+  "origin": {
+    "leaf": "5a7f71373876de3b1b7444b42e60b59b44a76ef26fede342b8e72002cfd14252",
+    "parent": "e16db9dff97786a666960a86c9bca393c3c7893a9ba2737d2773f0cf9a91b471",
+    "timestamp": "2026-04-12T03:12:55.114Z",
+    "source": "profile:0000921825",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5a7f71373876de3b1b7444b42e60b59b44a76ef26fede342b8e72002cfd14252",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.114Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

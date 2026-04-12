@@ -1,22 +1,24 @@
 {
   "schema": "rootz.ai/speaker-index/v1",
-  "total_speakers": 32,
+  "total_speakers": 71,
   "note": "Speakers who appear across multiple companies (analysts, advisors)",
   "speakers": [
     {
       "name": "Internal Control",
       "firm": "2024 expressed an unqualified opinion thereon",
       "type": "other",
-      "companies": 7,
-      "appearances": 18,
+      "companies": 9,
+      "appearances": 20,
       "tickers": [
         "AAPL",
         "GILD",
         "JPM",
         "LOW",
         "NKE",
+        "PSA",
         "SNPS",
-        "SYK"
+        "SYK",
+        "WBD"
       ]
     },
     {
@@ -34,6 +36,20 @@
       ]
     },
     {
+      "name": "Calif.",
+      "firm": "2014   —   Adobe (Nasdaq:ADBE) today reported financial results for its second quarter of fiscal year 2014 ended May 30",
+      "type": "other",
+      "companies": 5,
+      "appearances": 9,
+      "tickers": [
+        "ADBE",
+        "DIS",
+        "GOOGL",
+        "HPQ",
+        "NTAP"
+      ]
+    },
+    {
       "name": "Christopher",
       "firm": "Zachary Fadem  Wells Fargo Securities",
       "type": "analyst",
@@ -44,6 +60,32 @@
         "MRK",
         "PFE",
         "QCOM"
+      ]
+    },
+    {
+      "name": "Audit Matters",
+      "firm": null,
+      "type": "other",
+      "companies": 4,
+      "appearances": 4,
+      "tickers": [
+        "CI",
+        "LOW",
+        "NKE",
+        "WBD"
+      ]
+    },
+    {
+      "name": "Corporate Governance",
+      "firm": "“Compensation Discussion and Analysis”",
+      "type": "executive",
+      "companies": 4,
+      "appearances": 4,
+      "tickers": [
+        "LOW",
+        "NKE",
+        "SYK",
+        "WBD"
       ]
     },
     {
@@ -59,39 +101,75 @@
       ]
     },
     {
-      "name": "Calif.",
-      "firm": "2014   —   Adobe (Nasdaq:ADBE) today reported financial results for its second quarter of fiscal year 2014 ended May 30",
-      "type": "other",
+      "name": "Darrin Peller",
+      "firm": "Wolfe Research",
+      "type": "analyst",
       "companies": 3,
       "appearances": 7,
       "tickers": [
-        "ADBE",
-        "DIS",
-        "GOOGL"
+        "GPN",
+        "PYPL",
+        "V"
       ]
     },
     {
-      "name": "Audit Matters",
-      "firm": null,
+      "name": "Dan Dolev",
+      "firm": "M izuho Securities USA",
+      "type": "analyst",
+      "companies": 3,
+      "appearances": 6,
+      "tickers": [
+        "GPN",
+        "PYPL",
+        "V"
+      ]
+    },
+    {
+      "name": "Aaron Rakers",
+      "firm": "Wells Fargo Securities",
+      "type": "analyst",
+      "companies": 3,
+      "appearances": 5,
+      "tickers": [
+        "HPQ",
+        "NVDA",
+        "STX"
+      ]
+    },
+    {
+      "name": "Jason Kupferberg",
+      "firm": "Wells Fargo Securities",
+      "type": "analyst",
+      "companies": 3,
+      "appearances": 5,
+      "tickers": [
+        "GPN",
+        "PYPL",
+        "V"
+      ]
+    },
+    {
+      "name": "Ramsey El - Assal",
+      "firm": "Cantor Fitzgerald &",
+      "type": "analyst",
+      "companies": 3,
+      "appearances": 5,
+      "tickers": [
+        "GPN",
+        "PYPL",
+        "V"
+      ]
+    },
+    {
+      "name": "Risk Factors",
+      "firm": "we and our vendors are subject to cyberattacks or other privacy or data security incidents",
       "type": "other",
       "companies": 3,
       "appearances": 3,
       "tickers": [
         "CI",
-        "LOW",
-        "NKE"
-      ]
-    },
-    {
-      "name": "Corporate Governance",
-      "firm": "“Compensation Discussion and Analysis”",
-      "type": "executive",
-      "companies": 3,
-      "appearances": 3,
-      "tickers": [
-        "LOW",
-        "NKE",
-        "SYK"
+        "PSA",
+        "WBD"
       ]
     },
     {
@@ -104,6 +182,17 @@
         "ADBE",
         "LOW",
         "PYPL"
+      ]
+    },
+    {
+      "name": "Sales",
+      "firm": null,
+      "type": "other",
+      "companies": 2,
+      "appearances": 25,
+      "tickers": [
+        "PRU",
+        "XEL"
       ]
     },
     {
@@ -162,6 +251,17 @@
       ]
     },
     {
+      "name": "Simeon Ari Gutman",
+      "firm": "Morgan Stanley &",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 9,
+      "tickers": [
+        "WMT",
+        "W"
+      ]
+    },
+    {
       "name": "Michael Lasser",
       "firm": "UBS Securities",
       "type": "analyst",
@@ -170,6 +270,72 @@
       "tickers": [
         "KR",
         "WMT"
+      ]
+    },
+    {
+      "name": "Operating Margin",
+      "firm": "please review the earni ngs  press release and Item 2",
+      "type": "other",
+      "companies": 2,
+      "appearances": 7,
+      "tickers": [
+        "SNPS",
+        "V"
+      ]
+    },
+    {
+      "name": "Tien - Tsin Huang",
+      "firm": "JPMorgan Securities",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 7,
+      "tickers": [
+        "PYPL",
+        "V"
+      ]
+    },
+    {
+      "name": "Alex Zukin",
+      "firm": "Wolfe Research",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 6,
+      "tickers": [
+        "ADBE",
+        "SNOW"
+      ]
+    },
+    {
+      "name": "Brent Thill",
+      "firm": "Jefferies",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 6,
+      "tickers": [
+        "ADBE",
+        "SNOW"
+      ]
+    },
+    {
+      "name": "Harshita Rawat",
+      "firm": "Bernstein Institutional Services",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 6,
+      "tickers": [
+        "PYPL",
+        "V"
+      ]
+    },
+    {
+      "name": "Inc.",
+      "firm": "November 4th",
+      "type": "executive",
+      "companies": 2,
+      "appearances": 6,
+      "tickers": [
+        "SMCI",
+        "SYK"
       ]
     },
     {
@@ -195,6 +361,17 @@
       ]
     },
     {
+      "name": "Timothy Arcuri",
+      "firm": "UBS Securities",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 6,
+      "tickers": [
+        "NVDA",
+        "STX"
+      ]
+    },
+    {
       "name": "Commercial Banking",
       "firm": null,
       "type": "other",
@@ -202,6 +379,17 @@
       "appearances": 5,
       "tickers": [
         "JPM",
+        "WFC"
+      ]
+    },
+    {
+      "name": "Financial Services",
+      "firm": "flat q/q CC   2   2 %   y/y CC   2  Operating profit   3  $102   million  11",
+      "type": "other",
+      "companies": 2,
+      "appearances": 5,
+      "tickers": [
+        "HPE",
         "WFC"
       ]
     },
@@ -228,6 +416,94 @@
       ]
     },
     {
+      "name": "Mark R. Murphy",
+      "firm": "JPMorgan Chase &",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 5,
+      "tickers": [
+        "ADBE",
+        "SNOW"
+      ]
+    },
+    {
+      "name": "Sanjay Sakhrani",
+      "firm": "Keefe",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 5,
+      "tickers": [
+        "PYPL",
+        "V"
+      ]
+    },
+    {
+      "name": "Brad Zelnick",
+      "firm": "Deutsche Bank Securities",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 4,
+      "tickers": [
+        "ADBE",
+        "SNOW"
+      ]
+    },
+    {
+      "name": "James Edward Schneider",
+      "firm": "Goldman Sachs &",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 4,
+      "tickers": [
+        "NVDA",
+        "STX"
+      ]
+    },
+    {
+      "name": "Timothy E. Chiodo",
+      "firm": "UBS S ecurities",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 4,
+      "tickers": [
+        "PYPL",
+        "V"
+      ]
+    },
+    {
+      "name": "Andrew G. Schmidt",
+      "firm": "Bernstein Institutional Services",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 3,
+      "tickers": [
+        "PYPL",
+        "V"
+      ]
+    },
+    {
+      "name": "C.J. Muse",
+      "firm": "Cantor Fitzge rald &",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 3,
+      "tickers": [
+        "NVDA",
+        "STX"
+      ]
+    },
+    {
+      "name": "Next",
+      "firm": "not anticipating reductions in allowance     Card  —   Margin: stable—pricing initiatives  —   Credit : stable but bankruptcy & FFIEC  —   Marketing: increase in 2Q     Commercial Bank  —   Credit Costs: returning to normal over time     Corporate  —   Private equity gains: 1Q front end loaded\n\n22  Disclaimer  This presentation contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995",
+      "type": "other",
+      "companies": 2,
+      "appearances": 3,
+      "tickers": [
+        "JPM",
+        "PLTR"
+      ]
+    },
+    {
       "name": "Peter",
       "firm": "Christopher Horvers  JPMorgan Chase &",
       "type": "analyst",
@@ -236,6 +512,28 @@
       "tickers": [
         "LOW",
         "MRK"
+      ]
+    },
+    {
+      "name": "Will Nance",
+      "firm": "Goldman Sachs &",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 3,
+      "tickers": [
+        "PYPL",
+        "V"
+      ]
+    },
+    {
+      "name": "Adam B. Frisch",
+      "firm": "JPMorgan Securities",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "GPN",
+        "V"
       ]
     },
     {
@@ -250,6 +548,28 @@
       ]
     },
     {
+      "name": "Asiya Merchant",
+      "firm": "Citigroup Global Markets Canada",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "HPQ",
+        "STX"
+      ]
+    },
+    {
+      "name": "Business",
+      "firm": null,
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "CI",
+        "WBD"
+      ]
+    },
+    {
       "name": "Consolidated Financial Statements",
       "firm": null,
       "type": "other",
@@ -258,6 +578,28 @@
       "tickers": [
         "JPM",
         "TMO"
+      ]
+    },
+    {
+      "name": "Daniel R. Perlin",
+      "firm": "RBC Capital Markets",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "PYPL",
+        "V"
+      ]
+    },
+    {
+      "name": "Earnings Per Share",
+      "firm": null,
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "DUK",
+        "SNPS"
       ]
     },
     {
@@ -272,6 +614,39 @@
       ]
     },
     {
+      "name": "Eric J. Sheridan",
+      "firm": "Gold man Sachs &",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "UBER",
+        "W"
+      ]
+    },
+    {
+      "name": "Executive Compensation",
+      "firm": null,
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "NKE",
+        "WBD"
+      ]
+    },
+    {
+      "name": "Financing Activity",
+      "firm": null,
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "SO",
+        "XEL"
+      ]
+    },
+    {
       "name": "George Hill",
       "firm": "Deutsche Bank Securities",
       "type": "analyst",
@@ -283,6 +658,28 @@
       ]
     },
     {
+      "name": "James E. Faucette",
+      "firm": "Morgan Stanley &",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "PYPL",
+        "V"
+      ]
+    },
+    {
+      "name": "Just",
+      "firm": null,
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "FDX",
+        "JPM"
+      ]
+    },
+    {
       "name": "Justin Post",
       "firm": "BofA Securities",
       "type": "analyst",
@@ -291,6 +688,17 @@
       "tickers": [
         "ABNB",
         "UBER"
+      ]
+    },
+    {
+      "name": "Krish Sankar",
+      "firm": "Morgan Stanley &",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "HPQ",
+        "STX"
       ]
     },
     {
@@ -349,6 +757,17 @@
       ]
     },
     {
+      "name": "Other Income",
+      "firm": "085 )   19%  Net Earnings   $720   $733   (2% )   $2",
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "CSX",
+        "XEL"
+      ]
+    },
+    {
       "name": "Steve",
       "firm": "Scala  TD Cowen",
       "type": "analyst",
@@ -357,6 +776,17 @@
       "tickers": [
         "MRK",
         "PFE"
+      ]
+    },
+    {
+      "name": "Trevor Williams",
+      "firm": "Jefferies",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "PYPL",
+        "V"
       ]
     },
     {
@@ -369,21 +799,32 @@
         "GILD",
         "WFC"
       ]
+    },
+    {
+      "name": "Zachary Fadem",
+      "firm": "Wells Fargo Securities",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "SBUX",
+        "W"
+      ]
     }
   ],
   "live_api": "https://origin.rootz.global/api/speakers",
   "origin": {
-    "leaf": "2b564b633362cd4879d03469cdd88bf63bd49ecde8741f6796e25dd6eea0bd74",
+    "leaf": "26b04b8c4fa0c48b7f41b4e62d321fedf341e25243f872c3e12da2c470de811b",
     "parent": "3d0600d9c22fae459f15aee534edd14ca7d8df9b74bd29231eae3f8eeb1f17e8",
-    "timestamp": "2026-04-12T02:43:11.614Z",
+    "timestamp": "2026-04-12T03:16:04.349Z",
     "source": "speaker-index",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/2b564b633362cd4879d03469cdd88bf63bd49ecde8741f6796e25dd6eea0bd74",
+    "verify": "https://origin.rootz.global/api/verify/26b04b8c4fa0c48b7f41b4e62d321fedf341e25243f872c3e12da2c470de811b",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:11.614Z",
+    "exported_at": "2026-04-12T03:16:04.349Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

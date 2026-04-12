@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CBNK",
+  "name": "Capital Bancorp Inc",
+  "cik": "0001419536",
+  "exchange": "Nasdaq",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Capital Bancorp Inc is a bank holding company operating Capital Bank, N.A., offering commercial real estate and commercial business loans, residential mortgage banking, SBA and USDA government-guaranteed lending, and the OpenSky credit card division. The company also acquired Integrated Financial Holdings, Inc. (IFH), which includes Windsor Advantage, a platform servicing and packaging SBA and USDA loans on behalf of other lenders.",
+  "tags": [
+    "commercial-banking",
+    "consumer-banking",
+    "residential-mortgage-banking",
+    "government-guaranteed-lending",
+    "credit-card-services"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CBNK",
+  "origin": {
+    "leaf": "886f4b25c42d22b9311fc1da72bd8440d7c42a188bbca048bb0f220ad0088ba4",
+    "parent": "de17f630c2711885218433c512fcf6254a9085449567375a977061b184fd04d6",
+    "timestamp": "2026-04-12T03:12:51.400Z",
+    "source": "0001419536-26-000073",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/886f4b25c42d22b9311fc1da72bd8440d7c42a188bbca048bb0f220ad0088ba4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.400Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

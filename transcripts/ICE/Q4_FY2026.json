@@ -1,0 +1,363 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ICE",
+  "company": "Intercontinental Exchange, Inc.",
+  "title": "ICE Q4 FY2026 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2026",
+  "call_date": null,
+  "word_count": 11037,
+  "speakers": [
+    {
+      "name": "Warren Gardiner",
+      "title": "Chief Financial Officer, Intercontinental Exchange, Inc.",
+      "firm": "Intercontinental Exchange",
+      "speaker_type": "executive",
+      "mention_count": 6
+    },
+    {
+      "name": "Steve Eagerton",
+      "title": "Vice President Investor Relations & Revenue Operations,  Intercontinental Exchange, Inc.",
+      "firm": "Intercontinental Exchange",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "Craig Siegenthaler",
+      "title": "Analyst, BofA Securities, Inc.",
+      "firm": "BofA Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Benjamin Budish",
+      "title": "Analyst, Barclays Capital, Inc.",
+      "firm": "Barclays Capital",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Patrick Moley",
+      "title": "Analyst, Piper Sandler & Co.",
+      "firm": "Piper Sandler &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Ashish Sabadra",
+      "title": "Analyst, RBC Capital Markets LLC",
+      "firm": "RBC Capital Markets",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Christopher S. Edmonds",
+      "title": "President - Fixed Income & Data Services, Intercontinental Exchange,  Inc.",
+      "firm": "Intercontinental Exchange",
+      "speaker_type": "executive",
+      "mention_count": 2
+    },
+    {
+      "name": "Kenneth B. Worthington",
+      "title": "Analyst, JPMorgan Securities LLC",
+      "firm": "JPMorgan Securities",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    },
+    {
+      "name": "Dani el T. Fannon",
+      "title": "Analyst, Jefferies LLC",
+      "firm": "Jefferies",
+      "speaker_type": "analyst",
+      "mention_count": 1
+    },
+    {
+      "name": "Simon Aistair Vaughan Clinch",
+      "title": "Analyst, Redburn (Europe) Ltd.  Alex Kramm  Analyst, UBS Securities LLC",
+      "firm": "UBS Securities",
+      "speaker_type": "analyst",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ICE",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 20,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ICE",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ICE",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ICE",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 15,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ICE EPS",
+      "predicate": "reported",
+      "object": "$6.95",
+      "value": 6.95,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ICE",
+      "predicate": "guided",
+      "object": "expect total expense synergies to reach $275 million",
+      "value": 275,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ICE",
+      "predicate": "guided",
+      "object": "expect 2026  adjusted operating expenses to grow between 4% and 5%, between $4.075 billion",
+      "value": 4.075,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ICE",
+      "predicate": "guided",
+      "object": "expect   appreciation in the euro and pound to add roughly $15 million",
+      "value": 15,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ICE",
+      "predicate": "guided",
+      "object": "expect 2026 investments to be between $740 million",
+      "value": 740,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ICE",
+      "predicate": "stated",
+      "object": "We believe our non - GAAP measures are  more reflective of our cash operations and core business performance",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ICE",
+      "predicate": "stated",
+      "object": "we expect Exchange segment recurring revenues to grow   in the mid - single - digit range, driven by  continued growth in exchange data services and expansion ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ICE",
+      "predicate": "stated",
+      "object": "we anticipate Fixed Income & Data Services recurring revenue growth in the mid - single - digit range,  with growth expected to trend towards the high end of that ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ICE",
+      "predicate": "stated",
+      "object": "we expect total Mortgage Technology revenues to grow in the low -   to   - mid - single - digit  range",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ICE",
+      "predicate": "stated",
+      "object": "we anticipate continued growth in recurring revenues in 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ICE",
+      "predicate": "stated",
+      "object": "We expect 2026  adjusted operating expenses to grow between 4% and 5%, between $4",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ICE",
+      "predicate": "stated",
+      "object": "we expect less incremental stock compensation expense in both 2027 and 2028",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ICE",
+      "predicate": "stated",
+      "object": "we expect 2026 investments to be between $740 million and $790 million",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ICE",
+      "predicate": "stated",
+      "object": "We believe  this approach positions us well to support innovation while maintaining   the stability that customers and regulators  expect from ICE operated venu",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ICE",
+      "predicate": "stated",
+      "object": "we expect that headwind from the lower minimums to come off? Is it mostly 2026 and a s we get into 2027 should  we think some of those headwinds to start to co",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ICE",
+      "predicate": "stated",
+      "object": "we expect to see next year   –   or sorry,   last year and expect to see this year as  well is continued growth from new customers coming on the platform",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ICE",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a   complete or error - free   statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ICE",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ICE",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ICE",
+      "predicate": "discussed",
+      "object": "GPU & Accelerators",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "gpu"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ICE",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ICE",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ICE/transcripts",
+  "origin": {
+    "leaf": "cd065aab776343a662a646ce75e075dc70180cb2066513fe08c546adac9d5d2d",
+    "parent": "382736ef5cee89968602ac92f9a6a5895615e58e270eaee5ee7bb60517740a4e44a5781fe8a2bb125c7b406d1c7a2130",
+    "timestamp": "2026-04-12T03:13:00.793Z",
+    "source": "transcript:ICE_CORRECTED-TRANSCRIPT_-Intercontinental-Exchange-Inc-ICE-US-Q4-2025-Earnings-Call-5-February-2026-8_30-AM-ET.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cd065aab776343a662a646ce75e075dc70180cb2066513fe08c546adac9d5d2d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.793Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

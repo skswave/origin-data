@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AWX",
+  "name": "AVALON HOLDINGS CORP",
+  "cik": "0001061069",
+  "summary": "Avalon Holdings Corporation operates two business segments: waste management services and golf and related operations. Waste management includes hazardous and nonhazardous waste disposal brokerage, captive landfill management, and saltwater injection well operations serving industrial, commercial, municipal, and governmental customers in northeastern and midwestern U.S. markets. Golf and related operations include four golf courses, a hotel (The Grand Resort), fitness centers, tennis courts, salon and spa, dermatology center, and dining and banquet facilities.",
+  "products": [
+    {
+      "name": "Waste Disposal Brokerage and Management Services",
+      "type": "service",
+      "description": "Hazardous and nonhazardous waste disposal brokerage and management for industrial, commercial, municipal, and governmental customers in northeastern and midwestern U.S."
+    },
+    {
+      "name": "Captive Landfill Management",
+      "type": "service",
+      "description": "Turnkey technical and operational services including daily operations and facilities management for customer-owned captive disposal facilities."
+    },
+    {
+      "name": "Saltwater Injection Well Operations",
+      "type": "service",
+      "description": "Ownership and operation of saltwater injection wells and related facilities through AWMS Holdings, LLC subsidiaries."
+    },
+    {
+      "name": "Golf and Country Club Operations",
+      "type": "service",
+      "description": "Operation and management of four golf courses and related clubhouses under the Avalon Golf and Country Club brand."
+    },
+    {
+      "name": "The Grand Resort",
+      "type": "service",
+      "description": "Hotel and resort featuring pools, fitness center, restaurants, bars, spa, banquet and conference facilities in Howland, Ohio."
+    },
+    {
+      "name": "Avalon Med Spa",
+      "type": "service",
+      "description": "Elective nonsurgical aesthetic services under licensed physician supervision, located in Warren, Ohio."
+    },
+    {
+      "name": "Avalon Dermatology",
+      "type": "service",
+      "description": "Dermatology services provided by a board-licensed dermatologist, located in Warren, Ohio."
+    },
+    {
+      "name": "Avalon Athletic Club at Boardman",
+      "type": "service",
+      "description": "Multipurpose recreation center with indoor tennis, basketball, volleyball, pickleball courts, and fitness area in Boardman, Ohio."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AWX/profile",
+  "origin": {
+    "leaf": "921e838ab2bc1bc79b4d9d35380e13721623442d7e7708a06f1d91e27b8e41cf",
+    "parent": "a2a98c92dfd2e56c9890b9fb22e149bee7a221bea4cff6b177ed8f497a61183e",
+    "timestamp": "2026-04-12T03:12:58.517Z",
+    "source": "profile:0001061069",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/921e838ab2bc1bc79b4d9d35380e13721623442d7e7708a06f1d91e27b8e41cf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.517Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

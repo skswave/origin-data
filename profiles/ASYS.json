@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ASYS",
+  "name": "AMTECH SYSTEMS INC",
+  "cik": "0000720500",
+  "summary": "Amtech Systems, Inc. is a manufacturer of capital equipment and consumables used in the fabrication of semiconductors, including power semiconductors (silicon and silicon carbide), and related industries. The company produces thermal processing equipment, chemical mechanical planarization (CMP) systems, and related consumables. Products serve applications in electric vehicles, 5G communications, IoT, LED, and industrial electronics markets.",
+  "products": [
+    {
+      "name": "Thermal Processing Equipment",
+      "type": "hardware",
+      "description": "Equipment used in semiconductor fabrication, including for power semiconductors such as silicon and silicon carbide devices."
+    },
+    {
+      "name": "Chemical Mechanical Planarization (CMP) Systems",
+      "type": "hardware",
+      "description": "CMP equipment and consumables used in semiconductor wafer processing and planarization."
+    },
+    {
+      "name": "Direct Bond Copper (DBC) Equipment",
+      "type": "hardware",
+      "description": "Equipment related to direct bond copper processing for power semiconductor packaging."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ASYS/profile",
+  "origin": {
+    "leaf": "b7ba06f4450bfdeb68f71bb7f2ca3ed43540964c176354f65a9288a64170ed8a",
+    "parent": "816c24ec8194a928108500a43605e42b9564e9b06089f3a496cf7bae9e0405af",
+    "timestamp": "2026-04-12T03:12:57.119Z",
+    "source": "profile:0000720500",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b7ba06f4450bfdeb68f71bb7f2ca3ed43540964c176354f65a9288a64170ed8a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.119Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

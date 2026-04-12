@@ -1,0 +1,112 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IONQ",
+  "name": "IonQ, Inc.",
+  "cik": "0001824920",
+  "summary": "IonQ, Inc. is a quantum platform company that develops and sells trapped-ion quantum computing hardware, quantum networking, quantum sensing, and quantum security products. The company sells access to quantum computers via cloud and on-premises deployments, and provides maintenance and support services. IonQ uses barium and ytterbium ions as qubits, targeting commercial and government customers across multiple sectors including defense, aerospace, automotive, and finance.",
+  "products": [
+    {
+      "name": "Trapped-Ion Quantum Computer",
+      "type": "hardware",
+      "description": "Quantum processing units using trapped barium and ytterbium ions for computation via cloud or on-premises deployment."
+    },
+    {
+      "name": "Quantum Networking Products",
+      "type": "hardware",
+      "description": "Products enabling interconnection of quantum processing units via photonic interconnects for distributed quantum computation."
+    },
+    {
+      "name": "Quantum Sensing Products",
+      "type": "hardware",
+      "description": "Sensors leveraging quantum mechanical properties for high-precision measurement applications."
+    },
+    {
+      "name": "Quantum Security Products",
+      "type": "hardware",
+      "description": "Security products utilizing quantum mechanical principles for enhanced cryptographic and communication security."
+    },
+    {
+      "name": "Cloud Quantum Computing Access",
+      "type": "service",
+      "description": "Access to quantum computers of various qubit capacities sold through cloud platforms including AWS, Azure, and Google Cloud."
+    },
+    {
+      "name": "IonQ Forte",
+      "type": "hardware",
+      "description": "IonQ's advanced quantum system featuring 35 algorithmic qubits and barium-based qubit technology."
+    },
+    {
+      "name": "IonQ Tempo",
+      "type": "hardware",
+      "description": "IonQ's next-generation quantum system designed for on-premises enterprise and government deployment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Amazon Web Services (AWS)",
+      "partnership_type": "strategic",
+      "description": "Cloud distribution partner providing access to IonQ quantum computers via Amazon Braket.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Microsoft Azure",
+      "partnership_type": "strategic",
+      "description": "Cloud distribution partner providing access to IonQ quantum computers via Azure Quantum.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Google Cloud",
+      "partnership_type": "strategic",
+      "description": "Cloud distribution partner providing access to IonQ quantum computers via Google Cloud Marketplace.",
+      "start_date": null
+    },
+    {
+      "partner_name": "University of Maryland",
+      "partnership_type": "licensing",
+      "description": "Exclusive license agreement providing IonQ access to foundational trapped-ion quantum computing technology.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Duke University",
+      "partnership_type": "licensing",
+      "description": "Exclusive license agreement providing IonQ access to foundational trapped-ion quantum computing technology.",
+      "start_date": null
+    },
+    {
+      "partner_name": "SkyWater Technology, Inc.",
+      "partnership_type": "strategic",
+      "description": "Pending acquisition by IonQ to expand quantum hardware manufacturing capabilities.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Air Force Research Laboratory",
+      "partnership_type": "strategic",
+      "description": "Government partner for quantum computing deployment and research collaboration.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Army",
+      "partnership_type": "strategic",
+      "description": "Government customer for quantum computing products and services.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IONQ/profile",
+  "origin": {
+    "leaf": "4ca112f5affe81a2372b9f7a823c3a3031fe3a1fc85c5d8d79a9767bacb8a6aa",
+    "parent": "c297680dfee189522650441cba2a7b9d7bd333e50dc49b7bf3201573945a1977",
+    "timestamp": "2026-04-12T03:12:55.035Z",
+    "source": "profile:0001824920",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4ca112f5affe81a2372b9f7a823c3a3031fe3a1fc85c5d8d79a9767bacb8a6aa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.035Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HLF",
+  "name": "HERBALIFE LTD.",
+  "cik": "0001180262",
+  "summary": "Herbalife is a global health and wellness company operating for 46 years, selling science-backed nutrition products across 95 markets via a direct-selling model. Products include weight management shakes (Formula 1), targeted nutrition supplements, energy and sports products, and outer nutrition skincare lines. The company distributes through a global network of independent Members who provide personalized coaching and support to consumers.",
+  "products": [
+    {
+      "name": "Formula 1 Healthy Meal / Nutritional Shake Mix",
+      "type": "service",
+      "description": "Best-selling meal replacement protein shake, approximately 25% of net sales."
+    },
+    {
+      "name": "Herbal Tea Concentrate",
+      "type": "service",
+      "description": "Metabolism-boosting tea in the weight management category."
+    },
+    {
+      "name": "Herbalife24",
+      "type": "service",
+      "description": "Product line supporting energy, sports, and fitness lifestyle."
+    },
+    {
+      "name": "Liftoff",
+      "type": "service",
+      "description": "Energy drink under the energy, sports, and fitness category."
+    },
+    {
+      "name": "Herbalife SKIN / HL/SKIN",
+      "type": "service",
+      "description": "Facial skin care, body care, and hair care outer nutrition product line."
+    },
+    {
+      "name": "Herbal Aloe Concentrate",
+      "type": "service",
+      "description": "Functional beverage in the targeted nutrition category."
+    },
+    {
+      "name": "MultiBurn",
+      "type": "service",
+      "description": "Metabolic health and weight-loss supplement launched in North America in 2025."
+    },
+    {
+      "name": "Life I/O - Baseline",
+      "type": "service",
+      "description": "Healthy lifespan brand product designed to support cellular health, launched in North America."
+    },
+    {
+      "name": "Protein Gelato",
+      "type": "service",
+      "description": "Healthy snacking product recently launched in Brazil."
+    },
+    {
+      "name": "Prolessa Duo",
+      "type": "service",
+      "description": "Weight management supplement product."
+    },
+    {
+      "name": "Niteworks",
+      "type": "service",
+      "description": "Targeted nutrition dietary supplement."
+    },
+    {
+      "name": "Herbalifeline",
+      "type": "service",
+      "description": "Targeted nutrition dietary supplement containing natural ingredients."
+    },
+    {
+      "name": "Formula 1 Healthy Meal",
+      "type": "hardware",
+      "description": "Best-selling meal replacement protein shake approximating 25% of net sales"
+    },
+    {
+      "name": "Herbal Tea Concentrate",
+      "type": "hardware",
+      "description": "Weight management metabolism-boosting tea"
+    },
+    {
+      "name": "Protein Drink Mix",
+      "type": "hardware",
+      "description": "Protein-based weight management drink mix"
+    },
+    {
+      "name": "Herbal Aloe Concentrate",
+      "type": "hardware",
+      "description": "Targeted nutrition functional beverage"
+    },
+    {
+      "name": "Herbalife24",
+      "type": "hardware",
+      "description": "Product line supporting active and sports lifestyle"
+    },
+    {
+      "name": "Liftoff",
+      "type": "hardware",
+      "description": "Energy drink supporting active lifestyle"
+    },
+    {
+      "name": "Herbalife SKIN",
+      "type": "hardware",
+      "description": "Facial skin care, body care, and hair care outer nutrition line"
+    },
+    {
+      "name": "MultiBurn",
+      "type": "hardware",
+      "description": "Metabolic health and weight-loss supplement launched in North America in 2025"
+    },
+    {
+      "name": "Life I/O Baseline",
+      "type": "hardware",
+      "description": "Healthy lifespan brand product designed to support cellular health, launched in North America"
+    },
+    {
+      "name": "Protein Gelato",
+      "type": "hardware",
+      "description": "Healthy snacking option launched in Brazil in 2025"
+    },
+    {
+      "name": "HL/Skin",
+      "type": "hardware",
+      "description": "New skincare line launched in Europe and Africa in 2025 leveraging Korean skincare science"
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Major Universities",
+      "partnership_type": "development",
+      "description": "Collaborate on research and development to support product science and innovation.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Global Advisory Boards (Nutrition, Dietetic, Fitness, Outer Nutrition)",
+      "partnership_type": "strategic",
+      "description": "Leading global experts advise on nutrition, physical activity, diet, and product development.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ingredient Suppliers",
+      "partnership_type": "strategic",
+      "description": "Provide scientific expertise and ingredients used in product formulation and development.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HLF/profile",
+  "origin": {
+    "leaf": "7f44dbedc540fabd68fdb4796aed5c1486d0b8e9f3fba4a974dc3ee6750f143d",
+    "parent": "3fc2c527833df1abe594d6e045f67247ba2cc336a9d7d8b27039ad69a5b6fba8",
+    "timestamp": "2026-04-12T03:12:55.798Z",
+    "source": "profile:0001180262",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7f44dbedc540fabd68fdb4796aed5c1486d0b8e9f3fba4a974dc3ee6750f143d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.798Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "WTBA",
+  "name": "WEST BANCORPORATION INC",
+  "cik": "0001166928",
+  "exchange": "Nasdaq",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "IA",
+  "headquarters": "West Des Moines, Iowa",
+  "founded": "1893",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "West Bancorporation, Inc. is an Iowa-based financial holding company that owns West Bank, a business-focused community bank founded in 1893 and headquartered in West Des Moines, Iowa. West Bank offers commercial, real estate, and consumer loans, trust services, checking/savings/money market accounts, time certificates of deposit, online and mobile banking, treasury management, merchant card processing, and corporate credit cards across central and eastern Iowa and southern Minnesota markets.",
+  "tags": [
+    "central-iowa-(greater-des-moines-metropolitan-area)",
+    "eastern-iowa-(iowa-city-and-coralville-area)",
+    "southern-minnesota-(rochester,-owatonna,-mankato,-st.-cloud)",
+    "small--to-medium-sized-businesses",
+    "individual-consumers"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/WTBA",
+  "origin": {
+    "leaf": "1757f2966de7f8d92544bd86fafcc8cef06fe9dfc89cd4a5e78720ea4d09a14f",
+    "parent": "c347762e535360554b8df4144a4d2a502ef6edc592bbf987e8ec4e85b70535a2",
+    "timestamp": "2026-04-12T03:12:51.486Z",
+    "source": "0001166928-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1757f2966de7f8d92544bd86fafcc8cef06fe9dfc89cd4a5e78720ea4d09a14f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.486Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

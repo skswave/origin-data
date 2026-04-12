@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NEON",
+  "name": "Neonode Inc.",
+  "cik": "0000087050",
+  "exchange": "Nasdaq",
+  "sic": "3679",
+  "sic_description": "Electronic Components, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Neonode Inc. (NEON) is a technology company focused on touch technology licensing. The company develops and licenses touch technology to manufacturers who incorporate it into their products. Neonode derives revenue primarily through royalty licensing arrangements with customers who design, manufacture, and sell products embedding Neonode's touch technology solutions.",
+  "tags": [
+    "touch-technology-licensing",
+    "consumer-electronics",
+    "industrial/commercial-devices"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NEON",
+  "origin": {
+    "leaf": "dead1c46da9aaab9c8464f41c020638b68ec0c40e20c1d17027cf40e2261231d",
+    "parent": "de73d5185ebf81a2c131e498e2a61af5087426d33526dd492b762e9675ac0f0f",
+    "timestamp": "2026-04-12T03:12:52.823Z",
+    "source": "0001437749-26-008759",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dead1c46da9aaab9c8464f41c020638b68ec0c40e20c1d17027cf40e2261231d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.823Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

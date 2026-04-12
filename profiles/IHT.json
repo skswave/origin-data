@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IHT",
+  "name": "INNSUITES HOSPITALITY TRUST",
+  "cik": "0000082473",
+  "summary": "InnSuites Hospitality Trust (IHT) is an unincorporated Ohio real estate investment trust headquartered in Phoenix, Arizona, taxed as a C-corporation. It owns interests in two moderate-service InnSuites hotels (Tucson, AZ and Albuquerque, NM) totaling 270 suites, provides hotel management services through majority-owned subsidiary RRF LLLP, offers trademark licensing, and holds a diversified investment in UniGen Power, Inc., a clean energy power generation company.",
+  "products": [
+    {
+      "name": "Hotel Operations",
+      "type": "service",
+      "description": "Ownership and operation of two moderate-service InnSuites hotels with 270 suites in Tucson, AZ and Albuquerque, NM."
+    },
+    {
+      "name": "Hotel Management Services",
+      "type": "service",
+      "description": "Management of daily hotel operations through RRF LLLP at 5% of room revenue plus $2,000/month accounting fee per hotel."
+    },
+    {
+      "name": "InnSuites Trademark Licensing",
+      "type": "service",
+      "description": "Trademark license services for InnSuites brand provided through RRF LLLP, included in the management fee."
+    },
+    {
+      "name": "UniGen Power Investment",
+      "type": "platform",
+      "description": "Diversified investment in UniGen Power, Inc., an efficient clean energy power generation company, made in December 2019."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Best Western International, Inc.",
+      "partnership_type": "licensing",
+      "description": "Year-to-year membership agreements granting use of Best Western name, trademark, and reservation system in exchange for marketing and reservation fees.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IHT/profile",
+  "origin": {
+    "leaf": "b45e068617a08563f62372d7f7c89a9d7a9774e37fb8b1733927d2a94f3b86a5",
+    "parent": "9d8dbe602e216bb865bef048539e713e8ee7931414696f0ce674bb5b5284f04c",
+    "timestamp": "2026-04-12T03:12:58.555Z",
+    "source": "profile:0000082473",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b45e068617a08563f62372d7f7c89a9d7a9774e37fb8b1733927d2a94f3b86a5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.555Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

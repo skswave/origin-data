@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CELU",
+  "name": "Celularity Inc",
+  "cik": "0001752828",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Celularity Inc. is a regenerative and cellular medicines company focused on aging-related and degenerative diseases, leveraging placental biology. Its commercial biomaterials business includes Biovance 3L (tri-layer decellularized dehydrated amniotic membrane) and Rebound product lines sold directly and through distributors. The company also develops placental-derived cellular therapy candidates for cancer, infectious, and degenerative diseases, and operates its own manufacturing and storage facility.",
+  "tags": [
+    "regenerative-medicine",
+    "cellular-therapeutics",
+    "advanced-biomaterials",
+    "degenerative-disease-treatment",
+    "cancer-treatment",
+    "infectious-disease-treatment",
+    "contract-manufacturing-and-development-services"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CELU",
+  "origin": {
+    "leaf": "92cb3e257df1d3728951e6668ec64ab96940ceacae3441f3958fde0e1e7ebf77",
+    "parent": "eef05d26726282fb3d7e92af73ace815e6cd06eeea64213bb5dc0eec01732667",
+    "timestamp": "2026-04-12T03:12:52.634Z",
+    "source": "0001641172-25-009319",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/92cb3e257df1d3728951e6668ec64ab96940ceacae3441f3958fde0e1e7ebf77",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.634Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

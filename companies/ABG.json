@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ABG",
+  "name": "ASBURY AUTOMOTIVE GROUP INC",
+  "cik": "0001144980",
+  "exchange": "NYSE",
+  "sic": "5500",
+  "sic_description": "Retail-Auto Dealers & Gasoline Stations",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Asbury Automotive Group, Inc., a Delaware corporation organized in 2002, is a Fortune 500 company and one of the largest franchised automotive retailers in the United States. Our mission is to put the guest experience first and follow our \"North Star,\" i.e., to be the most guest-centric automotive retailer in the industry. We follow three key principles to guide us: (1) have a fun, supportive and inclusive culture where team members thrive personally while building meaningful bonds with one anot...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ABG",
+  "origin": {
+    "leaf": "7390de5157eccb2184c10ad425d4aa00d366abf113794fd286ff12b99e512dbf",
+    "parent": "2f74a307f1a045a9032828f4f8af0083c34d55d1bbfa230a7545b966d21eddc5",
+    "timestamp": "2026-04-12T03:12:50.712Z",
+    "source": "0001144980-26-000051",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7390de5157eccb2184c10ad425d4aa00d366abf113794fd286ff12b99e512dbf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.712Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

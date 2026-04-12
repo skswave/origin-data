@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PNBK",
+  "name": "PATRIOT NATIONAL BANCORP INC",
+  "cik": "0001098146",
+  "summary": "Patriot National Bancorp, Inc. is a Connecticut-registered bank holding company whose principal asset is Patriot Bank, N.A., a national bank headquartered in Stamford, Connecticut. The Bank offers commercial real estate lending, high-net-worth credit facilities, demand and interest-bearing deposits, treasury management, ACH services, wire transfers, debit card services, and institutional banking for fintech companies and payment processors. As of December 31, 2025, it operated eight branches across Connecticut and New York.",
+  "products": [
+    {
+      "name": "Commercial Real Estate Lending",
+      "type": "service",
+      "description": "Relationship-based originations for borrowers with established or expected deposit relationships."
+    },
+    {
+      "name": "High-Net-Worth and Business Lines of Credit",
+      "type": "service",
+      "description": "Secured and unsecured credit facilities for high-net-worth individuals, entrepreneurs, and businesses."
+    },
+    {
+      "name": "Rediscount and Asset-Backed Financing",
+      "type": "service",
+      "description": "Asset-backed financing capabilities for institutional and high-net-worth client relationships."
+    },
+    {
+      "name": "Demand and Interest-Bearing Deposit Accounts",
+      "type": "service",
+      "description": "Consumer and commercial deposits including checking, money market, savings, CDs, IRAs, and HSAs."
+    },
+    {
+      "name": "Treasury Management Services",
+      "type": "service",
+      "description": "Online/mobile banking, ACH, wire transfers, remote deposit capture, and cash management tools."
+    },
+    {
+      "name": "Institutional Banking and Digital Payments",
+      "type": "platform",
+      "description": "Banking services for fintechs, program managers, and payment processors including ACH, card sponsorship, and settlement."
+    },
+    {
+      "name": "Investment Securities Portfolio",
+      "type": "service",
+      "description": "Investments in U.S. Treasury, government agency, mortgage-backed, and investment-grade securities for liquidity and risk management."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PNBK/profile",
+  "origin": {
+    "leaf": "bafb9b2341db8c28077c785e064364dcd8298872abd7039d8581d3e35b775056",
+    "parent": "37fa061427b2ff98ca1c2abca48afb0d3a23597457688b42a3baef7284419bd7",
+    "timestamp": "2026-04-12T03:12:57.204Z",
+    "source": "profile:0001098146",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bafb9b2341db8c28077c785e064364dcd8298872abd7039d8581d3e35b775056",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.204Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

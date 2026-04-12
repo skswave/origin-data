@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TRV",
+  "name": "TRAVELERS COMPANIES, INC.",
+  "cik": "0000086312",
+  "exchange": "NYSE",
+  "sic": "6331",
+  "sic_description": "Fire, Marine & Casualty Insurance",
+  "state_of_incorporation": "MN",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "The Travelers Companies, Inc. is a holding company operating through numerous insurance subsidiaries offering property casualty insurance, casualty and surety products, commercial insurance, personal insurance (auto, home, marine), excess and surplus lines, specialty insurance, and reinsurance. It operates in the United States, Canada, United Kingdom, Ireland, Bermuda, and Brazil through entities including The Travelers Indemnity Company, St. Paul Fire and Marine Insurance Company, and Travelers Casualty and Surety Company.",
+  "tags": [
+    "property-and-casualty-insurance",
+    "personal-insurance",
+    "commercial-insurance",
+    "surety-and-casualty",
+    "marine-insurance",
+    "excess-and-surplus-lines",
+    "specialty-insurance",
+    "cyber-insurance",
+    "international-insurance-(canada,-uk,-ireland,-bermuda,-brazil)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TRV",
+  "origin": {
+    "leaf": "1486b3f53ee8da37a7246dcbe0b7feefd4c419d5c8b9a7700f3f55012500ee95",
+    "parent": "b89b3957a848c2169ecd2cf2fa1c6a2665640b1eb8337652270e789826a85788",
+    "timestamp": "2026-04-12T03:12:50.333Z",
+    "source": "0000086312-26-000065",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1486b3f53ee8da37a7246dcbe0b7feefd4c419d5c8b9a7700f3f55012500ee95",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.333Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

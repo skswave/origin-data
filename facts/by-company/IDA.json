@@ -1,0 +1,124 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "IDA",
+  "total_facts": 8,
+  "by_type": {
+    "topic_mention": 8
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "IDA",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 49,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IDA",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 49,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IDA",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 49,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IDA",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IDA",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IDA",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IDA",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IDA",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IDA/transcripts",
+  "origin": {
+    "leaf": "c2af5ed7a939d9bfbcf8e08866de994924f8cfcfcda00555b271dc4cb2991ec4",
+    "parent": "76b0a2916c9e17a9883621011eb347135d231ccc8ad9466b72e55fd9d284113c",
+    "timestamp": "2026-04-12T03:13:26.571Z",
+    "source": "facts:IDA",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c2af5ed7a939d9bfbcf8e08866de994924f8cfcfcda00555b271dc4cb2991ec4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:26.571Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

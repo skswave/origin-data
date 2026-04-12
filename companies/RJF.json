@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "RJF",
+  "name": "RAYMOND JAMES FINANCIAL INC",
+  "cik": "0000720005",
+  "exchange": "NYSE",
+  "sic": "6211",
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
+  "state_of_incorporation": "FL",
+  "headquarters": null,
+  "founded": "1962",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "Raymond James Financial, Inc. (RJF) is a diversified financial services company established in 1962, listed on NYSE. It provides private client group services, capital markets, asset management, banking, and trust services to individuals, corporations, and municipalities. Key offerings include investment advisory, brokerage, M&A advisory, equity/debt underwriting, institutional sales, corporate and retail banking, and affordable housing investment syndication, operating primarily in the U.S. and to a lesser extent in Canada, the UK, and Europe.",
+  "tags": [
+    "retail-wealth-management",
+    "institutional-capital-markets",
+    "asset-management",
+    "corporate-and-retail-banking",
+    "affordable-housing-/-tax-credit-investments",
+    "public-finance",
+    "mergers-&-acquisitions-advisory",
+    "independent-ria-custody-services"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/RJF",
+  "origin": {
+    "leaf": "8ae8215326cc57d066afd3bc633441df0302539a398bcdb333a009dc24abe3dd",
+    "parent": "28407672a7be7fc3a5d1b2e186f2e5eaaa6a8c147d714a6d657452a7c9af2c89",
+    "timestamp": "2026-04-12T03:12:50.384Z",
+    "source": "0000720005-25-000093",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8ae8215326cc57d066afd3bc633441df0302539a398bcdb333a009dc24abe3dd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.384Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

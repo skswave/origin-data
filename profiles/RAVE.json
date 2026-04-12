@@ -1,0 +1,76 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RAVE",
+  "name": "RAVE RESTAURANT GROUP, INC.",
+  "cik": "0000718332",
+  "summary": "Rave Restaurant Group, Inc. franchises pizza restaurants under two brands: Pizza Inn and Pie Five. Pizza Inn offerings include Buffet Units, Delco Units, Express Units, Ghost Kitchen Units, and licensed PIE kiosks. Pie Five is a fast-casual, made-to-order pizza concept. As of June 29, 2025, the company operated 117 franchised Pizza Inn restaurants, 17 franchised Pie Five Units, and one licensed PIE Unit across domestic and international markets.",
+  "products": [
+    {
+      "name": "Pizza Inn Buffet Units",
+      "type": "service",
+      "description": "Dine-in buffet pizza restaurants offering pizza, pasta, salad, and other items in a family-oriented atmosphere."
+    },
+    {
+      "name": "Pizza Inn Delco Units",
+      "type": "service",
+      "description": "Delivery and carryout-only pizza restaurants located in shopping centers, primarily production facilities."
+    },
+    {
+      "name": "Pizza Inn Express Units",
+      "type": "service",
+      "description": "Non-traditional pizza outlets in convenience stores, airports, and campuses offering limited quick carryout service."
+    },
+    {
+      "name": "Pizza Inn Ghost Kitchen Units",
+      "type": "service",
+      "description": "Online-only Pizza Inn orders fulfilled through third-party delivery companies, located within Pie Five restaurants."
+    },
+    {
+      "name": "PIE Units (Pizza Inn Express kiosks)",
+      "type": "service",
+      "description": "Licensed pizza-only kiosk model for grab-and-go delivery; no new units planned for foreseeable future."
+    },
+    {
+      "name": "Pie Five Units",
+      "type": "service",
+      "description": "Fast-casual franchise restaurants offering individualized, made-to-order pizzas baked in a specially designed oven."
+    },
+    {
+      "name": "Pie Five Ghost Kitchen Units",
+      "type": "service",
+      "description": "Online-only Pie Five orders fulfilled through third-party delivery companies."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party distributors",
+      "partnership_type": "strategic",
+      "description": "Company facilitates food, equipment, and supply distribution to domestic and international restaurants through third-party distributor agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Third-party delivery companies",
+      "partnership_type": "strategic",
+      "description": "Ghost Kitchen Units rely on third-party delivery companies to serve customers online.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RAVE/profile",
+  "origin": {
+    "leaf": "9b093c58b491d068966435f444e0efcf85ff583a74ec1b9eb34a83fd01ad5cf8",
+    "parent": "26deb4558bc133c1cffc6e6c6cfc283d44be5567ab718bbc09ff18d911acfdad",
+    "timestamp": "2026-04-12T03:12:57.950Z",
+    "source": "profile:0000718332",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9b093c58b491d068966435f444e0efcf85ff583a74ec1b9eb34a83fd01ad5cf8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.950Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

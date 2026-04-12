@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ZNOG",
+  "name": "ZION OIL & GAS INC",
+  "cik": "0001131312",
+  "summary": "Zion Oil and Gas, Inc. is a Delaware (re-domesticating to Texas) oil and gas exploration company with 25 years of exploration history in Israel. The company holds Exploration License 434 (NMVL 434) covering approximately 75,000 acres in Israel and operates its own drilling rig through subsidiaries Zion Drilling, Inc. and Zion Drilling Services, Inc. Current operations focus on the Megiddo-Jezreel wellfield (MJ-01 and MJ-02), where gas has been observed at surface during flowback operations.",
+  "products": [
+    {
+      "name": "Oil and Gas Exploration Services",
+      "type": "service",
+      "description": "Onshore oil and gas exploration in Israel under Exploration License 434 covering ~75,000 acres."
+    },
+    {
+      "name": "Contract Drilling Services",
+      "type": "service",
+      "description": "Zion Drilling Services provides drilling rig services to third-party operators in Israel at market rates."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ZNOG/profile",
+  "origin": {
+    "leaf": "4b0e1dd7efb7c4d8e215678c4fc4185cb2c58596040eae22007c8ff85eb8efed",
+    "parent": "cd30fb0bc1a566ed63534028e95bec76e118e3f568f8203a942cc73eb960a3d9",
+    "timestamp": "2026-04-12T03:12:56.505Z",
+    "source": "profile:0001131312",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4b0e1dd7efb7c4d8e215678c4fc4185cb2c58596040eae22007c8ff85eb8efed",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.505Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

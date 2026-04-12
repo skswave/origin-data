@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CVCO",
+  "name": "CAVCO INDUSTRIES, INC.",
+  "cik": "0000278166",
+  "summary": "Cavco Industries, Inc. designs and produces factory-built homes, including manufactured homes, modular homes, park model RVs, vacation cabins, and commercial modular structures. Headquartered in Phoenix, Arizona, the company operates 31 homebuilding production lines across the U.S. and Mexico, distributing through independent retailers and 80 Company-owned stores. Subsidiaries CountryPlace Acceptance Corp. provides mortgage financing and Standard Casualty Company offers property and casualty insurance for manufactured home owners.",
+  "products": [
+    {
+      "name": "Manufactured Homes",
+      "type": "hardware",
+      "description": "HUD code factory-built homes ranging from 500 to 3,300 sq ft, offered in various floor plans and customizations."
+    },
+    {
+      "name": "Modular Homes",
+      "type": "hardware",
+      "description": "Single and multi-section modular homes including ranch, split-level, Cape Cod, multi-family and multi-story styles."
+    },
+    {
+      "name": "Park Model RVs",
+      "type": "hardware",
+      "description": "ANSI-standard vacation dwellings under 400 sq ft used in planned communities, recreational parks and resorts."
+    },
+    {
+      "name": "Vacation Cabins",
+      "type": "hardware",
+      "description": "Factory-built vacation cabin structures for seasonal and recreational use."
+    },
+    {
+      "name": "Commercial Modular Structures",
+      "type": "hardware",
+      "description": "Factory-built commercial buildings including apartment buildings, hotels, schools, and military barracks."
+    },
+    {
+      "name": "CountryPlace Mortgage Services",
+      "type": "service",
+      "description": "Conforming, non-conforming mortgages and home-only loans for factory-built home purchasers."
+    },
+    {
+      "name": "Standard Casualty Insurance",
+      "type": "service",
+      "description": "Property and casualty insurance products primarily for manufactured home owners in Texas, Arizona, New Mexico and Nevada."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Fannie Mae (FNMA)",
+      "partnership_type": "strategic",
+      "description": "CountryPlace is an approved FNMA seller/servicer for conforming mortgages.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Freddie Mac (FHLMC)",
+      "partnership_type": "strategic",
+      "description": "CountryPlace is an approved FHLMC seller/servicer for conforming mortgages.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ginnie Mae (GNMA)",
+      "partnership_type": "strategic",
+      "description": "CountryPlace is an approved GNMA issuer of mortgage-backed securities.",
+      "start_date": null
+    },
+    {
+      "partner_name": "FHA (Federal Housing Administration)",
+      "partnership_type": "strategic",
+      "description": "CountryPlace is HUD-authorized to directly endorse FHA Title I and Title II mortgage insurance.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Department of Veterans Affairs (VA)",
+      "partnership_type": "strategic",
+      "description": "CountryPlace is an approved VA lender.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Department of Agriculture (USDA)",
+      "partnership_type": "strategic",
+      "description": "CountryPlace is approved under USDA Single Family Housing Guaranteed Loan Program.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CVCO/profile",
+  "origin": {
+    "leaf": "0c470b732f5d10742c5a428d30d3db2b7d3a3793981c69a2b4b42a38e116a512",
+    "parent": "49588c5e92983c256641760fc07e2efeb814b2597f7a21b010e6edb29d31a976",
+    "timestamp": "2026-04-12T03:12:55.383Z",
+    "source": "profile:0000278166",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0c470b732f5d10742c5a428d30d3db2b7d3a3793981c69a2b4b42a38e116a512",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.383Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

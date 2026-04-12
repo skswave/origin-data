@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "THMG",
+  "name": "THUNDER MOUNTAIN GOLD INC",
+  "cik": "0000711034",
+  "exchange": "OTC",
+  "sic": "1000",
+  "sic_description": "Metal Mining",
+  "state_of_incorporation": "NV",
+  "headquarters": "Boise, Idaho",
+  "founded": "1935",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Thunder Mountain Gold, Inc. is a Nevada-based mineral exploration company focused on gold and other metals. Its primary asset is the South Mountain Project in Idaho, operated through subsidiary South Mountain Mines, Inc. The company also evaluates the Trout Creek Project in Nevada. It conducts geophysical, geochemical, and drilling exploration activities with no current production or revenue.",
+  "tags": [
+    "gold-and-precious-metals-mining-exploration",
+    "mineral-resource-development",
+    "subpart-1300-of-regulation-s-k-(mineral-resource-disclosure)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 6,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/THMG",
+  "origin": {
+    "leaf": "089a0a54d562d83dd3ce1ea75cb428e82f0fc538c9fa3265feab3dd3b102c5a4",
+    "parent": "01f95dd5ce2d21c7b8cc0db1cc8d57f21be2a296bc7d6d2f1dab7d58ce5c0f2b",
+    "timestamp": "2026-04-12T03:12:52.383Z",
+    "source": "0001062993-26-001714",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/089a0a54d562d83dd3ce1ea75cb428e82f0fc538c9fa3265feab3dd3b102c5a4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.383Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

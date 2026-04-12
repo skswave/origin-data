@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "competitive_landscape",
   "label": "Competitive Landscape",
-  "companies": 24,
-  "total_mentions": 316,
+  "companies": 44,
+  "total_mentions": 358,
   "results": [
     {
       "ticker": "QCOM",
@@ -148,6 +148,18 @@
       ]
     },
     {
+      "ticker": "ANET",
+      "company": "Arista Networks, Inc.",
+      "mentions": 6,
+      "quarters": []
+    },
+    {
+      "ticker": "NTAP",
+      "company": "NetApp, Inc.",
+      "mentions": 5,
+      "quarters": []
+    },
+    {
       "ticker": "CRM",
       "company": "Salesforce, Inc.",
       "mentions": 4,
@@ -158,6 +170,45 @@
       "company": "Walt Disney Co",
       "mentions": 4,
       "quarters": []
+    },
+    {
+      "ticker": "EXPE",
+      "company": "Expedia Group, Inc.",
+      "mentions": 4,
+      "quarters": []
+    },
+    {
+      "ticker": "ETSY",
+      "company": "ETSY INC",
+      "mentions": 3,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP INC",
+      "mentions": 3,
+      "quarters": [
+        "Q1_FY2026"
+      ]
+    },
+    {
+      "ticker": "NEE",
+      "company": "NEXTERA ENERGY INC",
+      "mentions": 3,
+      "quarters": [
+        "Q3_FY2025",
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "mentions": 3,
+      "quarters": [
+        "Q4_FY2026"
+      ]
     },
     {
       "ticker": "ABNB",
@@ -178,12 +229,24 @@
       "quarters": []
     },
     {
+      "ticker": "OKTA",
+      "company": "Okta, Inc.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "PYPL",
       "company": "PayPal Holdings, Inc.",
       "mentions": 2,
       "quarters": [
         "Q3_FY2025"
       ]
+    },
+    {
+      "ticker": "SMCI",
+      "company": "Super Micro Computer, Inc.",
+      "mentions": 2,
+      "quarters": []
     },
     {
       "ticker": "WMT",
@@ -206,6 +269,28 @@
       "quarters": []
     },
     {
+      "ticker": "DAL",
+      "company": "DELTA AIR LINES, INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q1_FY2022"
+      ]
+    },
+    {
+      "ticker": "FDX",
+      "company": "FEDEX CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "GPN",
+      "company": "GLOBAL PAYMENTS INC",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
       "ticker": "INTU",
       "company": "INTUIT INC.",
       "mentions": 1,
@@ -220,8 +305,40 @@
       "quarters": []
     },
     {
+      "ticker": "LHX",
+      "company": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "MSI",
+      "company": "Motorola Solutions, Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "NI",
+      "company": "NISOURCE INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "NOW",
       "company": "ServiceNow, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "PSA",
+      "company": "Public Storage",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "SPGI",
+      "company": "S&P Global Inc.",
       "mentions": 1,
       "quarters": []
     },
@@ -230,21 +347,41 @@
       "company": "UNITED PARCEL SERVICE INC",
       "mentions": 1,
       "quarters": []
+    },
+    {
+      "ticker": "USB",
+      "company": "US BANCORP \\DE\\",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "W",
+      "company": "Wayfair Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "WBD",
+      "company": "Warner Bros. Discovery, Inc.",
+      "mentions": 1,
+      "quarters": []
     }
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=competitive_landscape",
   "origin": {
-    "leaf": "57697c0fd9cf23d36f1a06d3e18055bfdb3a0cf705d3437d10428f069b75a511",
+    "leaf": "9de176414530782ec2011eedff5edca77c13c1c161786a7bf8664d26933ddd87",
     "parent": "b0d691b89934245936be886835d5708a50f2bc585da7f071a1b7f184b063674e",
-    "timestamp": "2026-04-12T02:43:09.072Z",
+    "timestamp": "2026-04-12T03:13:01.448Z",
     "source": "topic:competitive_landscape",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/57697c0fd9cf23d36f1a06d3e18055bfdb3a0cf705d3437d10428f069b75a511",
+    "verify": "https://origin.rootz.global/api/verify/9de176414530782ec2011eedff5edca77c13c1c161786a7bf8664d26933ddd87",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.072Z",
+    "exported_at": "2026-04-12T03:13:01.448Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

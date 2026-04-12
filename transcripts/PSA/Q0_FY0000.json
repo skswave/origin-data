@@ -1,0 +1,160 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "PSA",
+  "company": "Public Storage",
+  "title": "PSA   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 4979,
+  "speakers": [
+    {
+      "name": "Unaudited",
+      "title": "Amounts in thousands, except share and per share data)  11",
+      "firm": "except share and per share data)  11",
+      "speaker_type": "other",
+      "mention_count": 6
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "PSA",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PSA",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "PSA",
+      "predicate": "stated",
+      "object": "We believe investors and analysts utilize FAD in a similar manner",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "PSA",
+      "predicate": "stated",
+      "object": "We believe that FFO and FFO per share are useful to REIT investors and analysts in measuring our performance because Nareit’s definition of FFO excludes items i",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "PSA",
+      "predicate": "stated",
+      "object": "we believe that real estate values fluctuate due to market conditions",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "PSA",
+      "predicate": "stated",
+      "object": "we believe they are used by investors and REIT analysts in a similar manner",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "PSA",
+      "predicate": "stated",
+      "object": "We believe that investors and analysts utilize NOI in a similar manner",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "PSA",
+      "predicate": "stated",
+      "object": "we believe is helpful as a supplemental measure in assessing the Company's liquidity",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "PSA",
+      "predicate": "stated",
+      "object": "We believe investors and analysts use Same Store Facilities information in a similar manner",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PSA",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PSA",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PSA",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/PSA/transcripts",
+  "origin": {
+    "leaf": "90c62d46fe7f4ece155ba50157a37973837db6e030a0ddc99824acc12b997503",
+    "parent": "dd9029476d0cdfd88d3d05ea5d05983fa5eb323e24e246e56fbc0f9b59cbed6fbeb920f65977c8d48bc953c3c64e004c",
+    "timestamp": "2026-04-12T03:13:01.135Z",
+    "source": "transcript:PSA_20260212-Public-Storage-Reports-Results-for-the-Fourth-Quarter-ended-December-31-2025-FINAL-with-links.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/90c62d46fe7f4ece155ba50157a37973837db6e030a0ddc99824acc12b997503",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.135Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

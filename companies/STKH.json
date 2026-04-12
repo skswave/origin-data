@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "STKH",
+  "name": "Steakholder Foods Ltd.",
+  "cik": "0001828098",
+  "exchange": "Nasdaq",
+  "sic": "2000",
+  "sic_description": "Food and Kindred Products",
+  "state_of_incorporation": "L3",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/STKH",
+  "origin": {
+    "leaf": "37d080fe036339b00410f38fce817ae5f9d9fc0fc3a9849d8408fb969ab8cedc",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:53.179Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/37d080fe036339b00410f38fce817ae5f9d9fc0fc3a9849d8408fb969ab8cedc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.179Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

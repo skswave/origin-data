@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BCIC",
+  "name": "BCP Investment Corp",
+  "cik": "0001372807",
+  "summary": "BCP Investment Corporation (BCIC) is an externally managed, non-diversified closed-end BDC regulated under the 1940 Act. Managed by Sierra Crest Investment Management LLC, an affiliate of BC Partners LLP, it originates and invests in secured term loans, bonds, mezzanine debt, and CLO fund securities primarily in privately-held middle market companies with EBITDA of $10-$50 million. Its investment portfolio totaled $501.0 million at fair value as of December 31, 2025, spread across 108 entities and 41 industries.",
+  "products": [
+    {
+      "name": "Debt Securities Portfolio",
+      "type": "service",
+      "description": "Senior secured term loans, mezzanine debt, bonds, and selected equity investments in privately-held middle market companies."
+    },
+    {
+      "name": "CLO Fund Securities",
+      "type": "service",
+      "description": "Investments in debt and subordinated securities issued by collateralized loan obligation funds investing in broadly syndicated loans and high-yield bonds."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Sierra Crest Investment Management LLC",
+      "partnership_type": "strategic",
+      "description": "External investment adviser and affiliate of BC Partners LLP, managing business activities including sourcing, diligence, and portfolio monitoring.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BC Partners LLP",
+      "partnership_type": "strategic",
+      "description": "Affiliate of the Adviser; BC Partners Advisors L.P. paid $25 million to stockholders and committed $35 million total in the Externalization.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BCIC/profile",
+  "origin": {
+    "leaf": "48eadf4e712b4a667a927be6205ac5d74726d3ab6ecd23796eb1823bedd32e4f",
+    "parent": "1be0bc3ceb802a3bd5e15b83d953b49b86e7e8cf95ffea9b20d95e056a4d5d9b",
+    "timestamp": "2026-04-12T03:12:57.416Z",
+    "source": "profile:0001372807",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/48eadf4e712b4a667a927be6205ac5d74726d3ab6ecd23796eb1823bedd32e4f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.416Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

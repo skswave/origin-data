@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HYNE",
+  "name": "Hoyne Bancorp, Inc.",
+  "cik": "0002073153",
+  "summary": "Hoyne Bancorp, Inc. (HYNE) is a Delaware-based savings and loan holding company formed in 2025, owning Hoyne Savings Bank, an Illinois-chartered stock savings bank established in 1887. Operating six full-service branches in Cook County, Illinois, the bank offers residential and commercial real estate loans, commercial and industrial loans, home equity loans, consumer loans, and deposit products, serving customers in the Chicago metropolitan area.",
+  "products": [
+    {
+      "name": "One-to-Four Residential Mortgage Loans",
+      "type": "service",
+      "description": "Long-term first mortgage loans secured by residential properties in the Chicago market area."
+    },
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Loans secured by commercial real estate properties including commercial construction projects."
+    },
+    {
+      "name": "Commercial and Industrial Loans",
+      "type": "service",
+      "description": "Business loans for commercial and industrial purposes offered as part of diversification strategy since 2023."
+    },
+    {
+      "name": "Home Equity Lines of Credit",
+      "type": "service",
+      "description": "Revolving credit lines secured by residential home equity."
+    },
+    {
+      "name": "Commercial Lines of Credit",
+      "type": "service",
+      "description": "Revolving credit facilities for commercial borrowers."
+    },
+    {
+      "name": "Deposit Products",
+      "type": "service",
+      "description": "Retail and commercial deposit accounts totaling $321.6 million as of December 31, 2025."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HYNE/profile",
+  "origin": {
+    "leaf": "f9d032434f921facdb7c187a45d1d7eb5be54430ccbd1c61ada3311d444ea7e1",
+    "parent": "f05c39347d99437ad8276c7c650dba8f43b669faeebcaa3d3c2c59c33aa1c8b0",
+    "timestamp": "2026-04-12T03:12:57.329Z",
+    "source": "profile:0002073153",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f9d032434f921facdb7c187a45d1d7eb5be54430ccbd1c61ada3311d444ea7e1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.329Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

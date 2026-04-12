@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LPTH",
+  "name": "LIGHTPATH TECHNOLOGIES INC",
+  "cik": "0000889971",
+  "exchange": "Nasdaq",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "state_of_incorporation": "DE",
+  "headquarters": "Orlando, Florida",
+  "founded": "1985",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": "LightPath Technologies, Inc. is a global optical components and systems manufacturer with facilities in the United States, China, and Latvia. The company produces precision molded lenses, infrared optical components, assemblies, modules, cameras, and thermal imaging systems. It serves defense, public safety, industrial, commercial, telecom, and medical markets, and has transitioned from component manufacturing toward higher-value optical engineered solutions, imaging subsystems, and camera systems through organic growth and acquisitions.",
+  "tags": [
+    "defense",
+    "public-safety",
+    "industrial",
+    "commercial",
+    "telecom",
+    "medical",
+    "border-security",
+    "counter-unmanned-aerial-systems-(c-uas)",
+    "shipboard-long-range-surveillance",
+    "law-enforcement"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LPTH",
+  "origin": {
+    "leaf": "f6e5a1e6a95fa7de8c6955430a5f6bc2ff1b31e841e120b03db5b1bdce8d2ee5",
+    "parent": "fdffbfce5fb2184e1599b883f8b864b5f9957ad76579a04981eaea749ef909a7",
+    "timestamp": "2026-04-12T03:12:51.324Z",
+    "source": "0001654954-25-011130",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f6e5a1e6a95fa7de8c6955430a5f6bc2ff1b31e841e120b03db5b1bdce8d2ee5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.324Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

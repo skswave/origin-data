@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AXTI",
+  "name": "AXT INC",
+  "cik": "0001051627",
+  "summary": "AXT, Inc. is a worldwide materials science company that develops and produces high-performance compound and single element semiconductor substrates (wafers), including Indium Phosphide (InP), Gallium Arsenide (GaAs), and Germanium (Ge). Through consolidated subsidiaries, AXT also produces raw materials such as purified gallium and pyrolytic boron nitride (pBN) crucibles, used internally and sold externally. Products serve data centers, 5G, fiber optics, LEDs, solar cells, and consumer devices. All manufacturing occurs in the People's Republic of China.",
+  "products": [
+    {
+      "name": "Indium Phosphide (InP) Substrates",
+      "type": "hardware",
+      "description": "Semiconductor wafer substrates for data center connectivity, 5G, fiber optics, silicon photonics, and consumer devices in diameters 2, 3, 4, 6 inches."
+    },
+    {
+      "name": "Semi-Insulating Gallium Arsenide (GaAs) Substrates",
+      "type": "hardware",
+      "description": "Wafer substrates for high-speed microwave components, power amplifiers, Wi-Fi, satellite communications, and solar cells."
+    },
+    {
+      "name": "Semi-Conducting Gallium Arsenide (GaAs) Substrates",
+      "type": "hardware",
+      "description": "Wafer substrates for LEDs, VCSELs, industrial lasers, 3D sensing, and micro-LED displays."
+    },
+    {
+      "name": "Germanium (Ge) Substrates",
+      "type": "hardware",
+      "description": "Wafer substrates for multi-junction solar cells, space photovoltaics, infrared detectors, and carrier wafers for LEDs."
+    },
+    {
+      "name": "Purified Gallium (6N+ and 7N+)",
+      "type": "hardware",
+      "description": "High-purity gallium used in GaAs substrate production and sold externally for single crystal ingots and alloys."
+    },
+    {
+      "name": "Pyrolytic Boron Nitride (pBN) Crucibles and Parts",
+      "type": "hardware",
+      "description": "Crucibles and insulating parts for single-crystal ingot growth, OLED tools, MOCVD, and MBE reactors."
+    },
+    {
+      "name": "Boron Trioxide (B2O3)",
+      "type": "hardware",
+      "description": "Encapsulant used in the ingot growth of III-V compound semiconductors."
+    },
+    {
+      "name": "InP Base Material",
+      "type": "hardware",
+      "description": "Starting material for growing indium phosphide single crystal ingots used in substrate manufacturing."
+    },
+    {
+      "name": "Gallium-Magnesium Alloy",
+      "type": "hardware",
+      "description": "Used for synthesis of organo-gallium compounds in epitaxial growth on semiconductor wafers."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AXTI/profile",
+  "origin": {
+    "leaf": "47e59e77405fa9b38d7fb2823e4370bf1586530c149c58f7561e0a038e796eaa",
+    "parent": "aaa6c35a1c9b6c9ed78db9f14c7b0a8bf93e988428c6c22c0e7502d3869e1ea7",
+    "timestamp": "2026-04-12T03:12:55.464Z",
+    "source": "profile:0001051627",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/47e59e77405fa9b38d7fb2823e4370bf1586530c149c58f7561e0a038e796eaa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.464Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

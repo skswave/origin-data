@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SATS",
+  "name": "EchoStar CORP",
+  "cik": "0001415404",
+  "exchange": "Nasdaq",
+  "sic": "4899",
+  "sic_description": "Communications Services, NEC",
+  "state_of_incorporation": "NV",
+  "headquarters": "Englewood, Colorado",
+  "founded": "2007",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "EchoStar Corporation is a Nevada-incorporated holding company trading on NASDAQ under 'SATS'. Through subsidiaries including DISH Network and DISH DBS, it provides Pay-TV, broadband, and wireless services. It operates a 5G wireless network, holds FCC spectrum licenses, and offers satellite-based services. The company is pursuing asset sales to AT&T and SpaceX amid FCC regulatory pressure regarding spectrum utilization.",
+  "tags": [
+    "pay-tv",
+    "wireless-services",
+    "broadband-internet",
+    "satellite-communications",
+    "5g-spectrum-licensing",
+    "5g",
+    "aws-4-spectrum",
+    "2-ghz-mss-band"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SATS",
+  "origin": {
+    "leaf": "afa8e9aa11bf5a47291bef9bb809f24b1c316dd2facf48daa67046de1e83b92d",
+    "parent": "ba3f8f865f29cd7ce5b7b1b45a64fa4ea94042887f51e2ad58dc3170d95adde8",
+    "timestamp": "2026-04-12T03:12:50.371Z",
+    "source": "0001104659-26-021817",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/afa8e9aa11bf5a47291bef9bb809f24b1c316dd2facf48daa67046de1e83b92d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.371Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

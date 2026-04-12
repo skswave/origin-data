@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CTBB",
+  "name": "QWEST CORP",
+  "cik": "0000068622",
+  "exchange": "NYSE",
+  "sic": "4813",
+  "sic_description": "Telephone Communications (No Radiotelephone)",
+  "state_of_incorporation": "CO",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Qwest Corporation is a digital networking services company providing integrated telecommunications products and services to Business and Mass Markets customers. Its offerings include fiber and copper broadband, ethernet, optical wavelength services, private line, voice services (local, long-distance, TDM), and affiliate telecommunications services. Operating one of the world's most interconnected communications networks, QC serves enterprise clients ranging from small businesses to large corporations, supporting multi-cloud and AI-first environments.",
+  "tags": [
+    "enterprise-business-customers",
+    "mass-markets-residential-customers",
+    "small-business-customers",
+    "wireless-service-providers-(backhaul)",
+    "global-business-customers",
+    "ethernet",
+    "fiber-to-the-home-(ftth)",
+    "optical-wavelength-networking",
+    "time-division-multiplexing-(tdm)",
+    "primary-rate-interface-(pri)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 9100,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CTBB",
+  "origin": {
+    "leaf": "bd5e78f05aef82660bc7b9e794381c14bca4d9036683a95c7933f1621be94b8f",
+    "parent": "b2bd08616def78f79cd2f32b21d104aab4f4d7f76ce4e4d7004fda49cfdab5ab",
+    "timestamp": "2026-04-12T03:12:54.077Z",
+    "source": "0000068622-26-000005",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bd5e78f05aef82660bc7b9e794381c14bca4d9036683a95c7933f1621be94b8f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.077Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "OPAL",
+  "total_facts": 6,
+  "by_type": {
+    "topic_mention": 6
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "OPAL",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "OPAL",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "OPAL",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "OPAL",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "OPAL",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "OPAL",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/OPAL/transcripts",
+  "origin": {
+    "leaf": "fc4a99686bd3491aa97b48f54dac3c7edb3e6b54d96e3ff26d17ff2d3fa013ca",
+    "parent": "2316201cc74f61a31218d08f45c1616834a40cfa23ae29e40921d91047d55d7e",
+    "timestamp": "2026-04-12T03:14:18.381Z",
+    "source": "facts:OPAL",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fc4a99686bd3491aa97b48f54dac3c7edb3e6b54d96e3ff26d17ff2d3fa013ca",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:18.381Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

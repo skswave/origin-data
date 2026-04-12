@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "OFLX",
+  "name": "Omega Flex, Inc.",
+  "cik": "0001317945",
+  "exchange": "Nasdaq",
+  "sic": "3430",
+  "sic_description": "Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",
+  "state_of_incorporation": "PA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Omega Flex, Inc. manufactures and sells flexible piping products, primarily used in residential and commercial construction. The company is known for its TracPipe and CounterStrike brand flexible gas piping systems. These products are used for the distribution of natural gas and propane in buildings. Omega Flex operates in the United States and has some international presence.",
+  "tags": [
+    "residential-construction",
+    "commercial-construction"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/OFLX",
+  "origin": {
+    "leaf": "2a6add6c4d7f031977f662a9ffa789600745e1824fd82fcd46a7c8f648df5a15",
+    "parent": "496681dfaf211afa7855606d0154d6b753ac81c48cc7651aa35c59e23cf807f2",
+    "timestamp": "2026-04-12T03:12:51.669Z",
+    "source": "0001493152-26-009876",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2a6add6c4d7f031977f662a9ffa789600745e1824fd82fcd46a7c8f648df5a15",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.669Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

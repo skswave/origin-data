@@ -1,0 +1,136 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "RELL",
+  "total_facts": 9,
+  "by_type": {
+    "topic_mention": 9
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "RELL",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RELL",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RELL",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RELL",
+      "predicate": "discussed_in_filing",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "semiconductor",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RELL",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RELL",
+      "predicate": "discussed_in_filing",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "semiconductor",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RELL",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RELL",
+      "predicate": "discussed_in_filing",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "semiconductor",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RELL",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RELL/transcripts",
+  "origin": {
+    "leaf": "3fc1e31186f1b5192cf3365be01cac16a3200229c4359800267a59427b618c04",
+    "parent": "26e39b50f024ec33690354239f500ea409810abacbfabd998fe32f68fceda4c4",
+    "timestamp": "2026-04-12T03:14:41.648Z",
+    "source": "facts:RELL",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3fc1e31186f1b5192cf3365be01cac16a3200229c4359800267a59427b618c04",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:41.648Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

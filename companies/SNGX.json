@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SNGX",
+  "name": "SOLIGENIX, INC.",
+  "cik": "0000812796",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": "Princeton, New Jersey",
+  "founded": "1987",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Soligenix, Inc. is a late-stage biopharmaceutical company focused on developing and commercializing products for rare diseases with unmet medical needs. It operates two segments: Specialized BioTherapeutics (HyBryte for CTCL, SGX302 for psoriasis, dusquetide for Behcet's Disease and oral mucositis) and Public Health Solutions (RiVax ricin vaccine, SGX943 for infectious disease, filovirus vaccines, CiVax for COVID-19), leveraging its proprietary ThermoVax heat stabilization platform with government funding support.",
+  "tags": [
+    "rare-diseases",
+    "cutaneous-t-cell-lymphoma",
+    "psoriasis",
+    "infectious-diseases-and-biodefense",
+    "oncology-supportive-care",
+    "public-health-vaccines",
+    "photodynamic-therapy-(pdt)-using-visible-fluorescent-light",
+    "innate-defense-regulator-(idr)-technology",
+    "thermovax-heat-stabilization-platform",
+    "cails-(composite-assessment-of-index-lesion-disease-severity)-scoring"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SNGX",
+  "origin": {
+    "leaf": "3bf0d875f31e214f040d1657fda60901552221a014f796ede8b8c4a10e8b56e0",
+    "parent": "fa776dfbaba91ca705f5de97e7ac99452fb655170491771420007a8a483a857e",
+    "timestamp": "2026-04-12T03:12:53.051Z",
+    "source": "0001104659-26-037701",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3bf0d875f31e214f040d1657fda60901552221a014f796ede8b8c4a10e8b56e0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.051Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

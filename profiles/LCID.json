@@ -1,0 +1,84 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LCID",
+  "name": "Lucid Group, Inc.",
+  "cik": "0001811210",
+  "summary": "Lucid Group, Inc. is a technology company that designs, develops, manufactures, and sells electric vehicles. Its products include the Lucid Air sedan (deliveries began late 2021) and the Lucid Gravity SUV (launched late 2024). The company also develops advanced driver assistance systems (ADAS) and Level 4 autonomous mobility technology, and operates Advanced Manufacturing Plant-1 (AMP-1) in Casa Grande, Arizona, with a planned AMP-2 facility in Saudi Arabia.",
+  "products": [
+    {
+      "name": "Lucid Air",
+      "type": "hardware",
+      "description": "Award-winning electric sedan with customer deliveries beginning late 2021, featuring advanced performance, range, and efficiency."
+    },
+    {
+      "name": "Lucid Gravity",
+      "type": "hardware",
+      "description": "Electric SUV that arrived on the road in late 2024, advancing state-of-the-art EV standards."
+    },
+    {
+      "name": "Lucid Space Concept",
+      "type": "platform",
+      "description": "Miniaturized drivetrain architecture enabling smaller exterior footprint with leading interior cabin space."
+    },
+    {
+      "name": "ADAS / Autonomous Mobility Systems",
+      "type": "software",
+      "description": "Advanced driver assistance and Level 4 eyes-off, hands-off, mind-off autonomous mobility systems for consumer and ride-hailing applications."
+    },
+    {
+      "name": "ZEV Credits",
+      "type": "service",
+      "description": "Zero Emission Vehicle credits generated and utilized as part of regulatory compliance and revenue strategy."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Aston Martin",
+      "partnership_type": "strategic",
+      "description": "Partnership referenced as a key relationship for technology or platform collaboration.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Uber",
+      "partnership_type": "strategic",
+      "description": "Partnership referenced in context of ride-hailing autonomous mobility applications.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Nuro",
+      "partnership_type": "strategic",
+      "description": "Partnership referenced in context of autonomous mobility systems.",
+      "start_date": null
+    },
+    {
+      "partner_name": "NVIDIA",
+      "partnership_type": "development",
+      "description": "Partnership leveraging Lucid's software and hardware architecture for next-generation autonomous systems.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ayar Third Investment Company (PIF affiliate)",
+      "partnership_type": "strategic",
+      "description": "Controlling stockholder; entered Series A and Series B Convertible Preferred Stock subscription agreements with Lucid.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LCID/profile",
+  "origin": {
+    "leaf": "4e36b1e9f6d74c9ed947da74da524e27ba9a35480def10ed9d98eec6b5b3118c",
+    "parent": "17111fa6cb32c8d91d4212aa7a9972c52fe99cdfe8a53d5826228460180210b7",
+    "timestamp": "2026-04-12T03:12:55.467Z",
+    "source": "profile:0001811210",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4e36b1e9f6d74c9ed947da74da524e27ba9a35480def10ed9d98eec6b5b3118c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.467Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

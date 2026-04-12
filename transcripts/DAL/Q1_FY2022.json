@@ -1,0 +1,445 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "DAL",
+  "company": "DELTA AIR LINES, INC.",
+  "title": "DAL Q1 FY2022 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2022",
+  "call_date": null,
+  "word_count": 13178,
+  "speakers": [
+    {
+      "name": "Glen William Hauenstein",
+      "title": "President, Delta Air   Lines, Inc.",
+      "firm": "Delta Air   Lines",
+      "speaker_type": "executive",
+      "mention_count": 16
+    },
+    {
+      "name": "Edward Herman Bastian",
+      "title": "Chief Executive Officer & Director, Delta Air Lines, Inc.",
+      "firm": "Delta Air Lines",
+      "speaker_type": "executive",
+      "mention_count": 14
+    },
+    {
+      "name": "Daniel C. Janki",
+      "title": "Executive Vice President & Chief Financial Officer, Delta Air Lines, Inc.",
+      "firm": "Delta Air Lines",
+      "speaker_type": "executive",
+      "mention_count": 7
+    },
+    {
+      "name": "Julie Stewart",
+      "title": "Vice President - Investor Relations, Delta Air Lines, Inc.",
+      "firm": "Delta Air Lines",
+      "speaker_type": "executive",
+      "mention_count": 6
+    },
+    {
+      "name": "Helane Becker",
+      "title": "Analyst, Cowen and Company LLC",
+      "firm": "Cowen and Company",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Sheila Kahyaoglu",
+      "title": "Analyst, Jefferies LLC",
+      "firm": "Jefferies",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Tim Mapes",
+      "title": "Senior Vice President, Chief Marketing & Communications Officer,  Delta Air Lines, Inc.",
+      "firm": "Chief Marketing & Communications Officer",
+      "speaker_type": "executive",
+      "mention_count": 4
+    },
+    {
+      "name": "Catherine O'Brien",
+      "title": "Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Myles Walton",
+      "title": "Analyst, UBS Securities LLC",
+      "firm": "UBS Securities",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Duane Pfennigwerth",
+      "title": "Analyst, Evercore ISI  Jamie N. Baker  Analyst, JPMorgan Securities LLC",
+      "firm": "JPMorgan Securities",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Andrew G. Didora",
+      "title": "Analyst, BofA Securities, Inc.",
+      "firm": "BofA Securities",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Michael Linenberg",
+      "title": "Analyst, Deutsche Bank Securities, Inc.",
+      "firm": "Deutsche Bank Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Savanthi Syth",
+      "title": "Analyst, Raymond James & Associates, Inc.",
+      "firm": "Raymond James & Associates",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "David Vernon",
+      "title": "Analyst, Sanford C. Bernstein & Co.",
+      "firm": "Sanford C. Bernstein &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Ravi Shanker",
+      "title": "Analyst, Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Conor T. Cunningham",
+      "title": "Analyst, MKM Partners LLC",
+      "firm": "MKM Partners",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 17,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "DAL free cash flow",
+      "predicate": "reported",
+      "object": "$1.8 billion",
+      "value": 1.8,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "DAL free cash flow",
+      "predicate": "reported",
+      "object": "$200 million",
+      "value": 200,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "DAL",
+      "predicate": "mentioned",
+      "object": "A330",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "DAL",
+      "predicate": "mentioned",
+      "object": "A350",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "expectations for solid profitability and further build in our air traffic liability, we expect to generate  another quarter of positive free cash flow after investing   $1.2 billion",
+      "value": 1.2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "expect to end the June  quarter with adjusted net debt of approximately $20 billion",
+      "value": 20,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "outlook of $6 billion",
+      "value": 6,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect the ATL will continue to build in the June  quarter, albeit at a slower rate than what we saw in the March quarter",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect revenue recovery versus 2019, as Ed mentioned, to improve to 93% to 97% on  84% capacity r estoration",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect April yields to be up double - digits  compared to 2019 with further strengtheni ng as we approach June, positioning us to successfully recapture a  ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect a very strong summer in the  transatlantic based on demand trends; and, in the Pacific, we are encouraged by the opening of Australia, South  Korea, ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect load factors to improve from the low 50s in March to the low 90s by June",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect premium seat growth to continue to outpace main cabin, and we're confident  in the consumer shift towards higher - quality products is here to stay",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect the June quarter nonfuel CASM to be up 17% compared to 2019",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect an adjusted fuel price per gallon of $3",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect operating margins to be between 12% and  14%",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect to generate  another quarter of positive free cash flow after investing   $1",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We anticipate to  start in mid - 2026, progressing us towards our 2030 10% SAF commitment",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a   complete or error - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "DAL",
+      "predicate": "mentioned",
+      "object": "Amazon",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/DAL/transcripts",
+  "origin": {
+    "leaf": "745ebb183dc5f2f9a1ed2fa1519e737a450356cdd833f7471fdc663562f3cc21",
+    "parent": "c5edc7c0301fafd2a8907ab1504519d672a251d4caccc1f84c302da87c5d311099829285ad27e25811e167cbca574fcc",
+    "timestamp": "2026-04-12T03:13:00.670Z",
+    "source": "transcript:DAL_CORRECTED-TRANSCRIPT-Delta-Air-Lines-Inc.(DAL-US)-Q1-2022-Earnings-Call-13-April-2022-10-00-AM-ET_VFinal.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/745ebb183dc5f2f9a1ed2fa1519e737a450356cdd833f7471fdc663562f3cc21",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.670Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

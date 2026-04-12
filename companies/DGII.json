@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "DGII",
+  "name": "DIGI INTERNATIONAL INC",
+  "cik": "0000854775",
+  "exchange": "Nasdaq",
+  "sic": "3576",
+  "sic_description": "Computer Communications Equipment",
+  "state_of_incorporation": "DE",
+  "headquarters": "Hopkins, Minnesota",
+  "founded": "1985",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "Digi International Inc. is a leading global provider of IoT connectivity products, services, and solutions. Founded in 1985 and headquartered in Hopkins, Minnesota, the company operates two segments: IoT Products & Services (embedded/wireless modules, routers, console servers, device management platforms) and IoT Solutions (SmartSense by Digi condition monitoring, Jolt Software task management, and Ventus Managed Network-as-a-Service). Digi serves OEM, enterprise, and government customers across banking, healthcare, retail, food service, transportation, and industrial markets.",
+  "tags": [
+    "banking",
+    "healthcare",
+    "retail",
+    "food-service",
+    "gaming",
+    "hospitality",
+    "transportation",
+    "energy",
+    "industrial",
+    "government",
+    "supply-chain",
+    "pharmacy"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/DGII",
+  "origin": {
+    "leaf": "9115cc86e5ee4dc151bb57c90937509ed479c28d48896e55bbfa2c32830fd9df",
+    "parent": "83c6d504855f7af19ca0250c2a2194090348c5e97f76c9a8f5c188565ea5ace5",
+    "timestamp": "2026-04-12T03:12:50.913Z",
+    "source": "0000854775-25-000026",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9115cc86e5ee4dc151bb57c90937509ed479c28d48896e55bbfa2c32830fd9df",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.913Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

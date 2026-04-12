@@ -1,0 +1,73 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TXMD",
+  "name": "TherapeuticsMD, Inc.",
+  "cik": "0000025743",
+  "summary": "TherapeuticsMD, Inc. is a pharmaceutical royalty company that transitioned from a women's healthcare company in December 2022. It licenses products including IMVEXXY, BIJUVA, ANNOVERA, and prescription prenatal vitamins (BocaGreenMD, vitaMedMD brands) to Mayne Pharma for U.S. commercialization, and to Knight Therapeutics and Theramex for international markets. Revenue is primarily derived from royalties and milestone payments under these licensing agreements.",
+  "products": [
+    {
+      "name": "IMVEXXY",
+      "type": "service",
+      "description": "Licensed women's healthcare pharmaceutical product commercialized in the U.S. by Mayne Pharma and internationally by Knight and Theramex."
+    },
+    {
+      "name": "BIJUVA",
+      "type": "service",
+      "description": "Licensed women's healthcare pharmaceutical product commercialized in the U.S. by Mayne Pharma and internationally by Knight and Theramex."
+    },
+    {
+      "name": "ANNOVERA",
+      "type": "service",
+      "description": "Licensed contraceptive product; exclusive U.S. commercialization license assigned to Mayne Pharma as part of the Mayne Transaction."
+    },
+    {
+      "name": "BocaGreenMD / vitaMedMD prenatal vitamins",
+      "type": "service",
+      "description": "Prescription prenatal vitamin products licensed to Mayne Pharma for U.S. commercialization."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Mayne Pharma LLC",
+      "partnership_type": "licensing",
+      "description": "Exclusive 20-year U.S. license to commercialize IMVEXXY, BIJUVA, ANNOVERA, and prenatal vitamins; pays royalties and milestone payments to TherapeuticsMD.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Knight Therapeutics Inc.",
+      "partnership_type": "licensing",
+      "description": "Exclusive license to commercialize IMVEXXY and BIJUVA in Canada and Israel (Israel rights transferred to Theramex in December 2024).",
+      "start_date": null
+    },
+    {
+      "partner_name": "Theramex HQ UK Limited",
+      "partnership_type": "licensing",
+      "description": "Exclusive license to commercialize IMVEXXY and BIJUVA outside the U.S., excluding Canada; also received Israel rights in December 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "JZ Advisory Group",
+      "partnership_type": "strategic",
+      "description": "Master services agreement under which Joseph Ziegler serves as Principal Financial and Accounting Officer.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TXMD/profile",
+  "origin": {
+    "leaf": "2b078971ca3aa5dcaba9b72b7d9c494d4638db2eee83a756c646f9773e39d9ee",
+    "parent": "b238f73a2399587024655bf08dcc87e523b86a01b2d1da69d6b34839dbbe5108",
+    "timestamp": "2026-04-12T03:12:58.181Z",
+    "source": "profile:0000025743",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2b078971ca3aa5dcaba9b72b7d9c494d4638db2eee83a756c646f9773e39d9ee",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.181Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "KKR",
+  "name": "KKR & Co. Inc.",
+  "cik": "0001404912",
+  "summary": "KKR & Co. Inc. is a global investment firm offering asset management and insurance services. Its asset management business spans private equity, real assets, credit, and hedge fund partnerships. Its insurance business operates through Global Atlantic, a financial group offering retirement and life insurance products. KKR manages a wide array of funds, CLOs, BDCs, and separately managed accounts for institutional and individual investors worldwide.",
+  "products": [
+    {
+      "name": "Private Equity Funds",
+      "type": "service",
+      "description": "Investment funds focused on private equity strategies for institutional and individual investors."
+    },
+    {
+      "name": "Real Assets Funds",
+      "type": "service",
+      "description": "Investment vehicles targeting real estate and infrastructure asset classes."
+    },
+    {
+      "name": "Credit Funds",
+      "type": "service",
+      "description": "Investment funds and CLOs focused on credit strategies including leveraged loans and structured products."
+    },
+    {
+      "name": "Business Development Companies (BDCs)",
+      "type": "service",
+      "description": "Publicly registered investment vehicles providing credit and equity capital to middle-market companies."
+    },
+    {
+      "name": "Global Atlantic Insurance Products",
+      "type": "service",
+      "description": "Retirement and life insurance products offered through Global Atlantic Financial Group."
+    },
+    {
+      "name": "Strategic Investor Partnerships",
+      "type": "service",
+      "description": "Separately managed accounts with long investment periods across multiple strategies for select investors."
+    },
+    {
+      "name": "Hedge Fund Partnerships",
+      "type": "service",
+      "description": "Strategic minority-stake partnerships with third-party hedge fund managers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Arctos Partners",
+      "partnership_type": "strategic",
+      "description": "KKR acquired Arctos Partners as part of business expansion mentioned among strategic transactions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "KKR Holdings L.P.",
+      "partnership_type": "strategic",
+      "description": "KKR completed acquisition of KKR Holdings and 258.3 million KKR Group Partnership Units on May 31, 2022.",
+      "start_date": null
+    },
+    {
+      "partner_name": "KJRM (KJR Management)",
+      "partnership_type": "strategic",
+      "description": "Japanese real estate asset manager acquired by KKR on April 28, 2022.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/KKR/profile",
+  "origin": {
+    "leaf": "0767c48f98f0ace20033096b22bcfd1211a1751bfaa4e2f1956baa32262537bd",
+    "parent": "051ac3171c6e992186a748843f92e7db10db1f08b366e0236de907ddbcd04f5d",
+    "timestamp": "2026-04-12T03:12:54.735Z",
+    "source": "profile:0001404912",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0767c48f98f0ace20033096b22bcfd1211a1751bfaa4e2f1956baa32262537bd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.735Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

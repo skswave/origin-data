@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DYNR",
+  "name": "DYNARESOURCE, INC.",
+  "cik": "0001111741",
+  "summary": "DynaResource, Inc. is a Delaware-incorporated precious metals company engaged in acquiring, investing in, developing, and producing gold and silver. Its primary asset is the San José de Gracia (SJG) mine in northern Sinaloa State, México, operated through Mexican subsidiaries. The company produces gold-silver concentrate, which is sold to a third-party processor. In 2025, it delivered 20,848 ounces of gold contained in concentrate and transitioned from Exploration Stage to Production Stage issuer.",
+  "products": [
+    {
+      "name": "Gold-Silver Concentrate",
+      "type": "hardware",
+      "description": "Crushed and ground precious metals concentrate from the SJG mine, sold to a third-party for further processing."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Undisclosed third-party purchaser",
+      "partnership_type": "strategic",
+      "description": "Gold Concentrate Purchase Agreement (Offtake Agreement) for sale and delivery of gold-silver concentrate with commodity pricing arrangements.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DYNR/profile",
+  "origin": {
+    "leaf": "86d54fda7f5097ff193b17bd9e94ea82329cecbc20ddcf299cbbf1e187b5f49e",
+    "parent": "384b02d39b901bf36a9b110c80a9119fc35517869314b4b0ee81cffc714f66e8",
+    "timestamp": "2026-04-12T03:12:57.923Z",
+    "source": "profile:0001111741",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/86d54fda7f5097ff193b17bd9e94ea82329cecbc20ddcf299cbbf1e187b5f49e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.923Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

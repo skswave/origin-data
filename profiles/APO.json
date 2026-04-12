@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "APO",
+  "name": "Apollo Global Management, Inc.",
+  "cik": "0001858681",
+  "summary": "Apollo Global Management, Inc. is a global alternative asset management firm. The company manages funds across credit, private equity, and real assets strategies. Apollo also has a retirement services business through Athene, which provides annuity and insurance products. Apollo raises and manages capital on behalf of institutional and individual investors worldwide.",
+  "products": [
+    {
+      "name": "Credit Funds",
+      "type": "service",
+      "description": "Investment funds focused on credit strategies managed on behalf of institutional and individual investors."
+    },
+    {
+      "name": "Private Equity Funds",
+      "type": "service",
+      "description": "Investment funds focused on private equity strategies managed on behalf of institutional and individual investors."
+    },
+    {
+      "name": "Real Assets Funds",
+      "type": "service",
+      "description": "Investment funds focused on real assets strategies managed on behalf of institutional and individual investors."
+    },
+    {
+      "name": "Athene Retirement Services",
+      "type": "service",
+      "description": "Retirement services business providing annuity and insurance products through Athene."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Athene",
+      "partnership_type": "strategic",
+      "description": "Athene is Apollo's retirement services business providing annuity and insurance products.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/APO/profile",
+  "origin": {
+    "leaf": "3f8ca1755aab5d104454197de7be8a9e26aa7b6cbee709856506dcb5449b0213",
+    "parent": "a55a527e6660f8fdba410718906cac694f0f01599fd4b2110c07374f6fcae0e1",
+    "timestamp": "2026-04-12T03:12:54.764Z",
+    "source": "profile:0001858681",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3f8ca1755aab5d104454197de7be8a9e26aa7b6cbee709856506dcb5449b0213",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.764Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

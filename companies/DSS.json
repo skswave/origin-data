@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "DSS",
+  "name": "DSS, INC.",
+  "cik": "0000771999",
+  "exchange": "NYSE",
+  "sic": "2650",
+  "sic_description": "Paperboard Containers & Boxes",
+  "state_of_incorporation": "NY",
+  "headquarters": "Rochester, NY",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "DSS, Inc. operates four business segments globally with primary operations in North America and Asia. Its Product Packaging division (Premier Packaging Corp.) manufactures folding cartons, mailers, and document security printing. Its Biotechnology division develops therapeutic drug platforms, sugar substitutes, and fragrances. Commercial Lending provides business credit and financing solutions. Securities and Investment Management includes broker-dealer activities, investment advisory, and healthcare real estate investment.",
+  "tags": [
+    "consumer-product-packaging",
+    "document-security-printing",
+    "biotechnology-and-biopharmaceuticals",
+    "commercial-lending-and-financing",
+    "securities-and-investment-management",
+    "healthcare-real-estate-investment",
+    "medical-device-packaging",
+    "food-and-beverage-packaging",
+    "health-and-beauty-packaging",
+    "cgmp-(current-good-manufacturing-practice)",
+    "sqf-(safe-quality-food)-certification"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/DSS",
+  "origin": {
+    "leaf": "d061a462738016512e7fc779091e257bbe691e14e2760a6386e404de4b24802a",
+    "parent": "34943d49d6aea388e07ea1145760b0c0275be634e4ad69c1f21d00601431fa1f",
+    "timestamp": "2026-04-12T03:12:53.200Z",
+    "source": "0001493152-26-014231",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d061a462738016512e7fc779091e257bbe691e14e2760a6386e404de4b24802a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.200Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

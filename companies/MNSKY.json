@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MNSKY",
+  "name": "MoneySupermarket.com Group PLC/ADR",
+  "cik": "0001584297",
+  "exchange": "OTC",
+  "sic": null,
+  "sic_description": null,
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": null,
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MNSKY",
+  "origin": {
+    "leaf": "23dea798aead4fcbaff95625d8ad6ac9ed6bca534a1123e6f253465c5755038c",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:50.997Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/23dea798aead4fcbaff95625d8ad6ac9ed6bca534a1123e6f253465c5755038c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.997Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

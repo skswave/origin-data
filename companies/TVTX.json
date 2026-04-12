@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TVTX",
+  "name": "Travere Therapeutics, Inc.",
+  "cik": "0001438533",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "CA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Those statements in the following discussion that are not historical in nature should be considered forward-looking statements that are inherently uncertain. Actual results and the timing of the events may differ materially from those contained in these forward-looking statements due to a number of factors, including those discussed in the Cautionary Statement Regarding Forward-Looking Statements and Risk Factors set forth elsewhere in this Annual Report. Overview We are a biopharmaceutical comp...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TVTX",
+  "origin": {
+    "leaf": "77718aa12abde28185dea2e8afd1c394d98a427764f1ef15e05ad0322b410ddc",
+    "parent": "e0c3ffec8ed18adaabffd318b7735d35bfcc53e6ca6e9804e2c5cf10bbdf722e",
+    "timestamp": "2026-04-12T03:12:50.806Z",
+    "source": "0001438533-26-000014",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/77718aa12abde28185dea2e8afd1c394d98a427764f1ef15e05ad0322b410ddc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.806Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

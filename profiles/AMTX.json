@@ -1,0 +1,91 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AMTX",
+  "name": "AEMETIS, INC",
+  "cik": "0000738214",
+  "summary": "Aemetis, Inc. is an international renewable natural gas and renewable fuels company founded in 2006 and headquartered in Cupertino, California. The company operates a 65 million gallon per year ethanol plant in Keyes, CA; produces renewable natural gas (RNG) from dairy digesters in central California; and operates an 80 million gallon per year biodiesel plant in Kakinada, India. It also develops sustainable aviation fuel, renewable diesel, and carbon capture projects.",
+  "products": [
+    {
+      "name": "Denatured Fuel Ethanol",
+      "type": "hardware",
+      "description": "Low carbon renewable fuel ethanol produced at the 65 MGY Keyes Plant in California."
+    },
+    {
+      "name": "Wet Distillers Grains (WDG)",
+      "type": "service",
+      "description": "Animal feed byproduct from ethanol production sold to local dairies and feedlots."
+    },
+    {
+      "name": "Distillers Corn Oil (DCO)",
+      "type": "service",
+      "description": "Animal feed byproduct from ethanol production sold to local dairies and feedlots."
+    },
+    {
+      "name": "Condensed Distillers Solubles (CDS)",
+      "type": "service",
+      "description": "Animal feed byproduct from ethanol production sold to local dairies and feedlots."
+    },
+    {
+      "name": "Carbon Dioxide (CO2)",
+      "type": "service",
+      "description": "Commercial grade CO2 captured from ethanol fermentation, sold to food, beverage, and other industries."
+    },
+    {
+      "name": "Renewable Natural Gas (RNG)",
+      "type": "service",
+      "description": "Biogas from dairy waste digesters upgraded to RNG and injected into utility pipeline for transportation fuel use."
+    },
+    {
+      "name": "Biodiesel",
+      "type": "hardware",
+      "description": "High-quality distilled biodiesel produced from vegetable oil and animal waste feedstocks at the Kakinada, India plant."
+    },
+    {
+      "name": "Refined Glycerin",
+      "type": "service",
+      "description": "Byproduct of biodiesel refining sold to pharmaceutical, personal care, paint, and adhesive industries."
+    },
+    {
+      "name": "Sustainable Aviation Fuel (SAF)",
+      "type": "service",
+      "description": "Planned 78 MGY SAF production at Riverbank Industrial Complex, CA, currently in development."
+    },
+    {
+      "name": "Renewable Diesel (RD)",
+      "type": "service",
+      "description": "Planned 90 MGY renewable diesel production at Riverbank Industrial Complex, CA, currently in development."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Oil Marketing Companies (OMCs)",
+      "partnership_type": "strategic",
+      "description": "Sales of biodiesel to India government-owned OMCs under India's National Biofuels Policy.",
+      "start_date": null
+    },
+    {
+      "partner_name": "California Air Resources Board (CARB)",
+      "partnership_type": "strategic",
+      "description": "Received provisional LCFS pathway approvals enabling generation of additional LCFS credits for RNG.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AMTX/profile",
+  "origin": {
+    "leaf": "b737b51854780039c4c698819a84cb43f9663d93d09e2db509952f86ab77a709",
+    "parent": "2e6a20ec5c6dabe53505667038a450c37f1dffe7f928f235706074fdbc99b15d",
+    "timestamp": "2026-04-12T03:12:56.979Z",
+    "source": "profile:0000738214",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b737b51854780039c4c698819a84cb43f9663d93d09e2db509952f86ab77a709",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.979Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

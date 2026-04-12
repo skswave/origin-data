@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GROW",
+  "name": "U S GLOBAL INVESTORS INC",
+  "cik": "0000754811",
+  "summary": "U.S. Global Investors, Inc. is a Texas-based registered investment adviser managing two business segments: Investment Management Services and Corporate Investments. The company provides investment advisory and administrative services to U.S. Global Investors Funds (USGIF) mutual funds and four U.S.-based ETFs (JETS, GOAU, SEA, WAR) plus one European UCITS ETF (TRIP). Total AUM was approximately $1.32 billion as of June 30, 2025, with expertise in gold mining, natural resources, and airlines.",
+  "products": [
+    {
+      "name": "U.S. Global Jets ETF (JETS)",
+      "type": "service",
+      "description": "ETF focused on airline and travel sector with $814 million AUM as of June 30, 2025."
+    },
+    {
+      "name": "The Travel UCITS ETF (TRIP)",
+      "type": "service",
+      "description": "European-based ETF focused on travel sector with $20 million AUM as of June 30, 2025."
+    },
+    {
+      "name": "U.S. Global Sea to Sky Cargo ETF (SEA)",
+      "type": "service",
+      "description": "ETF focused on cargo and transportation sector with $8 million AUM as of June 30, 2025."
+    },
+    {
+      "name": "U.S. Global GO GOLD and Precious Metal Miners ETF (GOAU)",
+      "type": "service",
+      "description": "ETF focused on gold and precious metal miners with $124 million AUM as of June 30, 2025."
+    },
+    {
+      "name": "U.S. Global Technology and Aerospace & Defense ETF (WAR)",
+      "type": "service",
+      "description": "ETF focused on technology, aerospace and defense with $6 million AUM as of June 30, 2025."
+    },
+    {
+      "name": "Gold and Precious Metals Fund (USERX)",
+      "type": "service",
+      "description": "Mutual fund focused on gold and precious metals with $157 million AUM as of June 30, 2025."
+    },
+    {
+      "name": "World Precious Minerals Fund (UNWPX)",
+      "type": "service",
+      "description": "Mutual fund focused on precious minerals with $49 million AUM as of June 30, 2025."
+    },
+    {
+      "name": "Global Resources Fund (PSPFX)",
+      "type": "service",
+      "description": "Mutual fund focused on global natural resources with $41 million AUM as of June 30, 2025."
+    },
+    {
+      "name": "Global Luxury Goods Fund (USLUX)",
+      "type": "service",
+      "description": "International equity mutual fund focused on luxury goods with $51 million AUM as of June 30, 2025."
+    },
+    {
+      "name": "U.S. Government Securities Ultra-Short Bond Fund (UGSDX)",
+      "type": "service",
+      "description": "Bond mutual fund focused on U.S. government securities with $29 million AUM as of June 30, 2025."
+    },
+    {
+      "name": "Near-Term Tax Free Fund (NEARX)",
+      "type": "service",
+      "description": "Bond mutual fund with $25 million AUM as of June 30, 2025."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GROW/profile",
+  "origin": {
+    "leaf": "221f24e13db834cb1e4e89c86f00423138315ffc0323c993acbee7a468c6d4b7",
+    "parent": "6ce270367f4b3238f3f04562a811d712f9da20635b235aab4e6081f0a4613460",
+    "timestamp": "2026-04-12T03:12:58.031Z",
+    "source": "profile:0000754811",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/221f24e13db834cb1e4e89c86f00423138315ffc0323c993acbee7a468c6d4b7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.031Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

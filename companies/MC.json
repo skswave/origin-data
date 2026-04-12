@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MC",
+  "name": "Moelis & Co",
+  "cik": "0001596967",
+  "exchange": "NYSE",
+  "sic": "6282",
+  "sic_description": "Investment Advice",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Overview Moelis & Company is a leading global independent investment bank that provides innovative strategic and financial advice and solutions to a diverse client base, including corporations, financial sponsors, governments and sovereign wealth funds. We assist our clients in achieving their strategic goals by offering comprehensive, globally integrated financial advisory services across all major industry sectors. Our team of experienced professionals advises clients on their most critical de...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 1416,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MC",
+  "origin": {
+    "leaf": "a81f9ad04eabc7c39599d6c37cd76fe2bf5eb2582e11e2de666cb228e618a81a",
+    "parent": "71bc014786b95474a691082fd27b18bfeb5db7b076faa0b122a78ed01f3c7762",
+    "timestamp": "2026-04-12T03:12:50.684Z",
+    "source": "0001193125-26-076747",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a81f9ad04eabc7c39599d6c37cd76fe2bf5eb2582e11e2de666cb228e618a81a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.684Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

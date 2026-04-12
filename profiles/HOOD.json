@@ -1,0 +1,152 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HOOD",
+  "name": "Robinhood Markets, Inc.",
+  "cik": "0001783879",
+  "summary": "Robinhood Markets, Inc. is a financial services platform offering commission-free investing in equities, options, cryptocurrency, and futures. Products include brokerage accounts, IRAs, a cash management account (Robinhood Money), Robinhood Gold subscription, margin lending, cash sweep, securities lending, and the TradePMR RIA custody platform. The company also operates Bitstamp, a cryptocurrency exchange, and Sherwood Media. Robinhood targets retail investors and RIAs primarily in the U.S., U.K., and internationally.",
+  "products": [
+    {
+      "name": "Robinhood Brokerage",
+      "type": "platform",
+      "description": "Commission-free investing in equities, options, futures, and cryptocurrency for retail customers."
+    },
+    {
+      "name": "Robinhood Gold",
+      "type": "service",
+      "description": "Subscription service offering premium features including higher interest on cash sweep and margin access."
+    },
+    {
+      "name": "Robinhood IRA",
+      "type": "platform",
+      "description": "Individual Retirement Accounts including traditional and Roth IRA options for customers."
+    },
+    {
+      "name": "Robinhood Money (RHY)",
+      "type": "platform",
+      "description": "Cash management and banking-as-a-service account for Robinhood customers."
+    },
+    {
+      "name": "Robinhood Crypto (RHC)",
+      "type": "platform",
+      "description": "Cryptocurrency trading platform for retail users."
+    },
+    {
+      "name": "Robinhood Credit",
+      "type": "service",
+      "description": "Credit card product offered through Robinhood Credit, Inc."
+    },
+    {
+      "name": "TradePMR",
+      "type": "platform",
+      "description": "RIA custody and portfolio management platform serving registered investment advisors."
+    },
+    {
+      "name": "Bitstamp",
+      "type": "platform",
+      "description": "Cryptocurrency exchange serving retail and institutional customers, acquired by Robinhood."
+    },
+    {
+      "name": "Robinhood Asset Management (RAM)",
+      "type": "service",
+      "description": "Asset management subsidiary offering managed investment services."
+    },
+    {
+      "name": "Sherwood Media",
+      "type": "service",
+      "description": "Media subsidiary producing financial content and news."
+    },
+    {
+      "name": "Cash Sweep",
+      "type": "service",
+      "description": "Automatically sweeps uninvested customer cash to a network of program banks earning interest."
+    },
+    {
+      "name": "Margin Lending",
+      "type": "service",
+      "description": "Margin loans to customers for purchasing securities, secured by pledged brokerage assets."
+    },
+    {
+      "name": "Robinhood Derivatives (RHD)",
+      "type": "platform",
+      "description": "Subsidiary supporting futures and derivatives trading including event contracts."
+    },
+    {
+      "name": "Securities Lending",
+      "type": "service",
+      "description": "Platform-enabled securities lending programs allowing customers to lend assets."
+    },
+    {
+      "name": "Joint Investing Account",
+      "type": "platform",
+      "description": "Funded joint brokerage account launched July 2024 for multiple account holders."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "JPMorgan Chase Bank, N.A.",
+      "partnership_type": "strategic",
+      "description": "Administrative agent for the RHS March 2025 Credit Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Coastal Community Bank",
+      "partnership_type": "strategic",
+      "description": "Banking partner referenced in Robinhood's banking and cash management operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Sutton Bank",
+      "partnership_type": "strategic",
+      "description": "Banking partner referenced in Robinhood's banking and payment operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Wells Fargo Bank",
+      "partnership_type": "strategic",
+      "description": "Banking partner referenced in Robinhood's financial operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Barclays Bank",
+      "partnership_type": "strategic",
+      "description": "Financial institution counterparty referenced in fixed-term securities lending agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Marex North America LLC",
+      "partnership_type": "strategic",
+      "description": "Referenced counterparty in Robinhood's financial operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Circle Internet Financial",
+      "partnership_type": "strategic",
+      "description": "Issuer of USDC stablecoin referenced in Robinhood's cryptocurrency operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Paxos Digital Singapore Pte. Ltd.",
+      "partnership_type": "strategic",
+      "description": "Issuer of USDG stablecoin referenced in Robinhood's cryptocurrency operations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HOOD/profile",
+  "origin": {
+    "leaf": "ea16f9d80b1cecb50a92c7b622715c97d9d224229efbb1c79bb7e0e25c358bc8",
+    "parent": "244562c76792799072a933bd4c0271b5207f9eb895ea2d4415ca168521e82455",
+    "timestamp": "2026-04-12T03:12:54.768Z",
+    "source": "profile:0001783879",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ea16f9d80b1cecb50a92c7b622715c97d9d224229efbb1c79bb7e0e25c358bc8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.768Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

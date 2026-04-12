@@ -1,0 +1,45 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CWCO",
+  "name": "Consolidated Water Co. Ltd.",
+  "cik": "0000928340",
+  "summary": "Consolidated Water Co. Ltd. (CWCO) operates water production and distribution businesses, primarily utilizing desalination technology to supply potable water. The company serves government entities and other customers across multiple countries, including operations on Grand Cayman under a retail license. It conducts business in international markets, focusing on water utility services in areas where freshwater resources are limited.",
+  "products": [
+    {
+      "name": "Desalinated Water Supply",
+      "type": "service",
+      "description": "Production and distribution of potable water via desalination technology to retail and wholesale customers."
+    },
+    {
+      "name": "Retail Water Service",
+      "type": "service",
+      "description": "Retail water distribution on Grand Cayman under a government-issued retail license."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Government entities",
+      "partnership_type": "strategic",
+      "description": "Operates under agreements and licenses with government entities in countries where it conducts business.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CWCO/profile",
+  "origin": {
+    "leaf": "adc7f4e46250d91fa3bf26c681e0861a17b46b28116fe04eaf10765280b4ae0f",
+    "parent": "54a5b0541a1beaafbfe2d6b68d72451892b9a5093e004dc6ab51546d856a7f12",
+    "timestamp": "2026-04-12T03:12:56.341Z",
+    "source": "profile:0000928340",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/adc7f4e46250d91fa3bf26c681e0861a17b46b28116fe04eaf10765280b4ae0f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.341Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

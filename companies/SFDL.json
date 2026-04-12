@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SFDL",
+  "name": "SECURITY FEDERAL CORP",
+  "cik": "0000818677",
+  "exchange": "OTC",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "SC",
+  "headquarters": "Aiken, South Carolina",
+  "founded": "1922",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Security Federal Corporation is a South Carolina bank holding company for Security Federal Bank, a state-chartered commercial bank headquartered in Aiken, SC. Founded in 1922, the Bank operates 19 branch offices across South Carolina and Georgia counties. It offers retail banking, loans, investment securities management through SFINV, and insurance (auto, business, home) through SFINS. It is a certified CDFI serving low-to-moderate income communities.",
+  "tags": [
+    "retail-banking-consumers",
+    "small-businesses",
+    "minority-owned-businesses",
+    "low-to-moderate-income-communities",
+    "aiken,-lexington,-richland,-and-saluda-counties-in-south-carolina",
+    "columbia-and-richmond-counties-in-georgia"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SFDL",
+  "origin": {
+    "leaf": "a7bc2c469bc9a2c8d83d9495e1e231e53285e9a97ed1f2783f088f6287cbae73",
+    "parent": "b5b7c18e2cdb3a2883916f04c6684de2189d539b387ca62d56040b0a9673824e",
+    "timestamp": "2026-04-12T03:12:54.301Z",
+    "source": "0001437749-26-009181",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a7bc2c469bc9a2c8d83d9495e1e231e53285e9a97ed1f2783f088f6287cbae73",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.301Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

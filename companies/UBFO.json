@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "UBFO",
+  "name": "UNITED SECURITY BANCSHARES",
+  "cik": "0001137547",
+  "exchange": "Nasdaq",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "CA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "United Security Bancshares (UBFO) is a bank holding company operating through its subsidiary United Security Bank. The company provides commercial and industrial loans, real estate mortgage loans (commercial, residential, home equity), construction loans, agricultural loans, consumer loans, and government program loans. It also offers commitments to extend credit and standby letters of credit, serving businesses and individuals primarily in its regional market area.",
+  "tags": [
+    "commercial-and-industrial-lending",
+    "commercial-real-estate",
+    "residential-real-estate",
+    "agricultural-lending",
+    "consumer-banking"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/UBFO",
+  "origin": {
+    "leaf": "1bbe7a3b6924401e493a2ac53045cbdfc2c35b91b2c35a44b170af6c6986b8ce",
+    "parent": "7bb5f890ba1a4176f80f18622e2d759f02947b5f82d01f170bd1cd2bc6184dc9",
+    "timestamp": "2026-04-12T03:12:51.937Z",
+    "source": "0001137547-26-000011",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1bbe7a3b6924401e493a2ac53045cbdfc2c35b91b2c35a44b170af6c6986b8ce",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.937Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "HUBB",
+  "total_facts": 11,
+  "by_type": {
+    "topic_mention": 11
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBB",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 21,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBB",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 21,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBB",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 21,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBB",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.8999999999999999,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBB",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.8999999999999999,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBB",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.8999999999999999,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBB",
+      "predicate": "discussed_in_filing",
+      "object": "Supply Chain",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "supply_chain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBB",
+      "predicate": "discussed_in_filing",
+      "object": "Supply Chain",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "supply_chain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBB",
+      "predicate": "discussed_in_filing",
+      "object": "Supply Chain",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "supply_chain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBB",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBB",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HUBB/transcripts",
+  "origin": {
+    "leaf": "32993168927fd53aa67313f6d19f824a55590ed9879c54cdd86dfab877dc25bc",
+    "parent": "6ad22e9d6119db340754b44279ed6ef04f3aa8dff8e89553eae49af2655155c1",
+    "timestamp": "2026-04-12T03:13:13.553Z",
+    "source": "facts:HUBB",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/32993168927fd53aa67313f6d19f824a55590ed9879c54cdd86dfab877dc25bc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:13.553Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

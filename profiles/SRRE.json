@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SRRE",
+  "name": "SUNRISE REAL ESTATE GROUP INC",
+  "cik": "0001083490",
+  "summary": "Sunrise Real Estate Group, Inc. (SRRE) is a Texas holding company conducting business through subsidiaries in China. Principal activities include real estate development, property leasing services, and property management services in the PRC. Operating subsidiaries SHXJY and SHSY are property agency businesses earning commission revenue from marketing and sales services to developers. The company also has interests in residential land development projects through LYSY.",
+  "products": [
+    {
+      "name": "Property Agency Services",
+      "type": "service",
+      "description": "Commission-based marketing and sales services to real estate developers through SHXJY and SHSY."
+    },
+    {
+      "name": "Real Estate Development",
+      "type": "service",
+      "description": "Development of residential properties including villa-style housing, operated through subsidiaries in PRC."
+    },
+    {
+      "name": "Property Management Services",
+      "type": "service",
+      "description": "Property management services provided through subsidiaries based in mainland China."
+    },
+    {
+      "name": "Property Leasing Services",
+      "type": "service",
+      "description": "Leasing of properties as part of the company's real estate operations in China."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SRRE/profile",
+  "origin": {
+    "leaf": "26411ff5bb947811471fec5b9c508153d8d632cd3e71aa763ab5fe431e06c619",
+    "parent": "78f239f2fff9e9a5c7e60c0ab3bb32d207b8a6e9c65e37c0832d46f59ec692be",
+    "timestamp": "2026-04-12T03:12:58.482Z",
+    "source": "profile:0001083490",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/26411ff5bb947811471fec5b9c508153d8d632cd3e71aa763ab5fe431e06c619",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.482Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

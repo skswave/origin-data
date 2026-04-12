@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "ATLO",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ATLO",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.7999999999999999,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ATLO",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.7999999999999999,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ATLO",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.7999999999999999,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ATLO/transcripts",
+  "origin": {
+    "leaf": "76030b008566f2e9625cb25e1300b1d96d9dd8ab9590680edfe80e721ab8eed1",
+    "parent": "54987c4eb5d51ded9d506dfd80dc64249ef653f965965b5ce9f3d87fabc44890",
+    "timestamp": "2026-04-12T03:14:32.411Z",
+    "source": "facts:ATLO",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/76030b008566f2e9625cb25e1300b1d96d9dd8ab9590680edfe80e721ab8eed1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:32.411Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

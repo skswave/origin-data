@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TSSI",
+  "name": "TSS, Inc.",
+  "cik": "0001320760",
+  "summary": "TSS, Inc. provides comprehensive services for AI technology integration, planning, design, deployment, maintenance, and refresh of end-user and enterprise systems, including mission-critical data center facilities. Services include technology consulting, systems integration of AI-enabled server racks, facilities management, IT procurement, and second-touch configuration. The company operates ISO-certified integration facilities and has integrated over 500 modular data centers (MDCs), serving enterprise customers deploying solutions in data centers, colocation facilities, and at the network edge.",
+  "products": [
+    {
+      "name": "Systems Integration Services",
+      "type": "service",
+      "description": "Custom configuration and rack-level integration of IT products including AI-enabled server racks, clusters, and modular containers."
+    },
+    {
+      "name": "Facilities Management Services",
+      "type": "service",
+      "description": "Installation, integration, testing, maintenance, and support of modular data centers (MDCs) and mission-critical facilities."
+    },
+    {
+      "name": "IT Procurement Services",
+      "type": "service",
+      "description": "Sourcing and procurement of third-party hardware, software, and services, acting as principal or agent depending on involvement."
+    },
+    {
+      "name": "Second-Touch Configuration Services",
+      "type": "service",
+      "description": "Adding software, hardware, features, tagging, asset capture, and fulfillment services to end-user devices for OEM and end-user customers."
+    },
+    {
+      "name": "Technology Consulting and Engineering",
+      "type": "service",
+      "description": "Design, engineering, and project management for data centers, operations centers, and related infrastructure systems."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "US-based OEM (unnamed)",
+      "partnership_type": "strategic",
+      "description": "Long-term Master Relationship Agreement for systems integration services for AI-enabled computer racks at minimum monthly volumes.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TSSI/profile",
+  "origin": {
+    "leaf": "449d80b78bfa97ae25b78bd5e874b94282fa5413feac949590def1e88449e8da",
+    "parent": "5db255c6dd05dcf7d7a84df4150067ddd0363e8335824d1a615c230f42192c9d",
+    "timestamp": "2026-04-12T03:12:56.562Z",
+    "source": "profile:0001320760",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/449d80b78bfa97ae25b78bd5e874b94282fa5413feac949590def1e88449e8da",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.562Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

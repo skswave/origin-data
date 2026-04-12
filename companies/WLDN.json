@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "WLDN",
+  "name": "Willdan Group, Inc.",
+  "cik": "0001370450",
+  "exchange": "Nasdaq",
+  "sic": "8711",
+  "sic_description": "Services-Engineering Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1964",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0101",
+  "summary": "Willdan Group, Inc. is a provider of professional, technical, and consulting services to utilities, private industry, and public agencies. Founded in 1964, the company offers energy efficiency programs, engineering, construction management, program design, AI data center power solutions, greenhouse gas reduction services, and government infrastructure consulting. It operates through two segments: Energy (85% of revenue) and Engineering and Consulting (15%), serving clients across 22 states, D.C., Puerto Rico, and Alberta, Canada.",
+  "tags": [
+    "energy-services",
+    "engineering-and-consulting",
+    "investor-owned-and-municipal-utilities",
+    "public-agencies-and-local-governments",
+    "commercial-and-industrial-firms",
+    "special-districts-and-school-districts",
+    "greenhouse-gas-reduction-and-sustainability",
+    "ai-data-center-power-demand"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/WLDN",
+  "origin": {
+    "leaf": "cdf7391275bffdc2a450739660a660c96e74d01d0d7a32fc35d8073ebfaeb090",
+    "parent": "671a22d41a1e855f6866bf62831dffe829b01a5d0247fc58cbd7195eb23f7836",
+    "timestamp": "2026-04-12T03:12:51.069Z",
+    "source": "0001104659-26-020767",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cdf7391275bffdc2a450739660a660c96e74d01d0d7a32fc35d8073ebfaeb090",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.069Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

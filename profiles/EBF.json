@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EBF",
+  "name": "ENNIS, INC.",
+  "cik": "0000033002",
+  "summary": "Ennis, Inc. (formerly Ennis Business Forms, Inc.) is a Texas-organized trade printer founded in 1909, manufacturing a broad range of printed business products including business forms, pressure-seal forms, labels, tags, envelopes, and presentation folders. Operating 56 manufacturing plants across 20 U.S. states, Ennis sells approximately 94% custom and semi-custom products primarily through independent distributors, commercial printers, direct mail companies, payroll software companies, and advertising agencies throughout the United States.",
+  "products": [
+    {
+      "name": "Business Forms",
+      "type": "hardware",
+      "description": "Snap sets, continuous forms, laser cut sheets including custom and semi-custom printed business forms."
+    },
+    {
+      "name": "Pressure-Seal Forms",
+      "type": "hardware",
+      "description": "Custom and stock pressure seal documents sold under Infoseal and PrintXcel brands."
+    },
+    {
+      "name": "Labels and Tags",
+      "type": "hardware",
+      "description": "Custom printed high-performance labels and custom/stock tags under Ennis Tag & Label and other brands."
+    },
+    {
+      "name": "Envelopes",
+      "type": "hardware",
+      "description": "Custom and imprinted envelopes under Trade Envelopes, Block Graphics, Wisco, and National Imprint Corporation brands."
+    },
+    {
+      "name": "Presentation Folders",
+      "type": "hardware",
+      "description": "Presentation and document folders under Admore, Folder Express, and Independent Folders brands."
+    },
+    {
+      "name": "Financial and Security Documents",
+      "type": "hardware",
+      "description": "Financial and security documents provided under Northstar and General Financial Supply brands."
+    },
+    {
+      "name": "Point of Purchase Advertising",
+      "type": "service",
+      "description": "Point of Purchase advertising materials sold under the Adams McClure brand."
+    },
+    {
+      "name": "School Portrait Products",
+      "type": "service",
+      "description": "Products and services for school portrait photographers under School Photo Marketing and National School Forms brands."
+    },
+    {
+      "name": "VersaSeal",
+      "type": "hardware",
+      "description": "Patented pressure-seal product line sold under VersaSeal and VersaSeal SecureX trademarks."
+    },
+    {
+      "name": "Integrated Products",
+      "type": "hardware",
+      "description": "Integrated print products offered under Integrated Print & Graphics and related brands."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EBF/profile",
+  "origin": {
+    "leaf": "8653d7ac39d3e65f6f2651ad46e7c8a0a6c63fbef2205b7a8fd23be42e6dffcb",
+    "parent": "a943097bf4c238c4e3d20391bae0e8b1e67ecbcc5458a1d12e5617df410d8659",
+    "timestamp": "2026-04-12T03:12:56.321Z",
+    "source": "profile:0000033002",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8653d7ac39d3e65f6f2651ad46e7c8a0a6c63fbef2205b7a8fd23be42e6dffcb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.321Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

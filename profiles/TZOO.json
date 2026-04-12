@@ -1,0 +1,76 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TZOO",
+  "name": "TRAVELZOO",
+  "cik": "0001133311",
+  "summary": "Travelzoo is a global Internet media company operating Travelzoo (a club for travel enthusiasts), Jack's Flight Club, and Travelzoo META. It reaches 30 million travelers across email, websites, social media, and mobile apps. Revenue comes from advertising fees, commissions on voucher/booking sales, membership subscription fees, and licensing. The company serves thousands of travel and local providers and operates across North America, Europe, and through licensees in Asia-Pacific.",
+  "products": [
+    {
+      "name": "Travelzoo website (travelzoo.com)",
+      "type": "platform",
+      "description": "Website listing travel deals, Local Deals, and Getaways vouchers for members."
+    },
+    {
+      "name": "Travelzoo iOS and Android apps",
+      "type": "software",
+      "description": "Mobile applications for accessing travel deals, downloaded 8.1 million times to date."
+    },
+    {
+      "name": "Top 20 email newsletter",
+      "type": "service",
+      "description": "Weekly curated email newsletter highlighting top travel deals for members."
+    },
+    {
+      "name": "Standalone email newsletters",
+      "type": "service",
+      "description": "Individual email newsletters featuring specific travel and local offers."
+    },
+    {
+      "name": "Travelzoo Network",
+      "type": "platform",
+      "description": "Advertising network connecting travel and local providers with Travelzoo's audience."
+    },
+    {
+      "name": "Jack's Flight Club",
+      "type": "service",
+      "description": "Subscription service providing members with exceptional airfare deals via email or mobile app."
+    },
+    {
+      "name": "Travelzoo META",
+      "type": "platform",
+      "description": "Metaverse-based platform extending travel, entertainment, and local experiences to virtual environments."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Licensees in Australia, New Zealand, and Singapore",
+      "partnership_type": "licensing",
+      "description": "Travelzoo licenses products, services, and IP; receives quarterly royalties based on net revenue.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Licensees in Japan and South Korea",
+      "partnership_type": "licensing",
+      "description": "Travelzoo licenses products, services, and IP; receives quarterly royalties based on net revenue.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TZOO/profile",
+  "origin": {
+    "leaf": "3282e25fba2e4d044ddfb4f4eaa2541b141b7d881ed99ff935313b5dc7075c56",
+    "parent": "8277c761abec9d40a4fb73c7aaf6799cdb19a054af0d4458b8347909bed94c10",
+    "timestamp": "2026-04-12T03:12:57.673Z",
+    "source": "profile:0001133311",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3282e25fba2e4d044ddfb4f4eaa2541b141b7d881ed99ff935313b5dc7075c56",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.673Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

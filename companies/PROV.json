@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PROV",
+  "name": "PROVIDENT FINANCIAL HOLDINGS INC",
+  "cik": "0001010470",
+  "exchange": "Nasdaq",
+  "sic": "6035",
+  "sic_description": "Savings Institution, Federally Chartered",
+  "state_of_incorporation": "DE",
+  "headquarters": "Riverside, California",
+  "founded": "1956",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": "Provident Financial Holdings, Inc. is a Delaware holding company for Provident Savings Bank, F.S.B., a federally chartered stock savings bank founded in 1956 and headquartered in Riverside, California. The Bank operates 13 full-service offices in the Inland Empire, offering community banking services including single-family, multi-family, and commercial real estate loans, deposit accounts, investment services, and trustee services for real estate transactions through its subsidiary Provident Financial Corp (PFC).",
+  "tags": [
+    "community-banking",
+    "residential-mortgage-lending",
+    "commercial-real-estate-lending",
+    "small-to-mid-sized-business-banking",
+    "inland-empire-(riverside-and-san-bernardino-counties),-southern-california"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PROV",
+  "origin": {
+    "leaf": "b81441688898643afff6299467d87a0e44e1a940ad1251cfe39d4e4207d6cbb6",
+    "parent": "cf391ffe91ede8e2a6cd0f99aa8074b26d486b651e7921f68a39316ce1886a59",
+    "timestamp": "2026-04-12T03:12:52.204Z",
+    "source": "0000939057-25-000242",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b81441688898643afff6299467d87a0e44e1a940ad1251cfe39d4e4207d6cbb6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.204Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "IMKTA",
+  "name": "INGLES MARKETS INC",
+  "cik": "0000050493",
+  "exchange": "Nasdaq",
+  "sic": "5411",
+  "sic_description": "Retail-Grocery Stores",
+  "state_of_incorporation": "NC",
+  "headquarters": "Asheville, North Carolina",
+  "founded": "1965",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0926",
+  "summary": "Ingles Markets, Incorporated is a leading supermarket chain in the southeast United States, operating 194 supermarkets across North Carolina, Georgia, South Carolina, Tennessee, Virginia, and Alabama. The Company offers nationally advertised grocery, meat, dairy, produce, frozen foods, perishables, fuel centers, pharmacies, health and beauty products, private label items, and organic/locally-sourced goods. It also owns and operates warehouse/distribution facilities and a milk processing and packaging plant supplying approximately 65% of milk products sold in its stores.",
+  "tags": [
+    "retail-grocery",
+    "fuel-retail",
+    "pharmacy",
+    "milk-processing-and-distribution",
+    "shopping-center-real-estate"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/IMKTA",
+  "origin": {
+    "leaf": "77018869aef25f00ec39d0870d0e8498b228844309bfb6aae4e6bb52fc2fd18c",
+    "parent": "8682d2043ffa9ae8c40138bd4b62b5bb17f76558492b357f84bfd555aa281f94",
+    "timestamp": "2026-04-12T03:12:50.932Z",
+    "source": "0000050493-25-000019",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/77018869aef25f00ec39d0870d0e8498b228844309bfb6aae4e6bb52fc2fd18c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.932Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

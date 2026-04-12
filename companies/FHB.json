@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "FHB",
+  "name": "FIRST HAWAIIAN, INC.",
+  "cik": "0000036377",
+  "exchange": "Nasdaq",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "DE",
+  "headquarters": "Honolulu, Hawaii",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "First Hawaiian, Inc. (ticker: FHB) is a bank holding company headquartered in Hawaii. It operates First Hawaiian Bank, providing a range of financial products and services including commercial banking, consumer banking, and wealth management services. The company serves customers across Hawaii and other markets through its network of branches and financial service offerings.",
+  "tags": [
+    "hawaii",
+    "commercial-banking",
+    "consumer-banking",
+    "wealth-management"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/FHB",
+  "origin": {
+    "leaf": "2a47d85bf1d55a894ccd010c719b3fce6591892fd1a0a47327862f2de5cfd6bb",
+    "parent": "7d4080e2a146e0a5ae77b73a61ed7c6010c01fc14ace0cbffd1c5c05176f6ecd",
+    "timestamp": "2026-04-12T03:12:50.771Z",
+    "source": "0001104659-26-021544",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2a47d85bf1d55a894ccd010c719b3fce6591892fd1a0a47327862f2de5cfd6bb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.771Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

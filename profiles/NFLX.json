@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NFLX",
+  "name": "NETFLIX INC",
+  "cik": "0001065280",
+  "summary": "Netflix, Inc. is a global entertainment service offering TV series, films, games, and live programming across diverse genres and languages. Members pay monthly subscription fees and can stream content anytime, anywhere. Netflix offers multiple pricing plans including an ad-supported tier. The company produces original content and licenses content from studios and other rights holders, operating as a single business segment worldwide.",
+  "products": [
+    {
+      "name": "Netflix Streaming Service",
+      "type": "platform",
+      "description": "Subscription-based streaming platform offering TV series, films, games, and live programming."
+    },
+    {
+      "name": "Ad-Supported Subscription Plan",
+      "type": "service",
+      "description": "Lower-cost membership tier with advertising, designed to meet varied consumer price needs."
+    },
+    {
+      "name": "Netflix Games",
+      "type": "platform",
+      "description": "Video games available to members as part of the Netflix subscription service."
+    },
+    {
+      "name": "Consumer Products and Live Experiences",
+      "type": "service",
+      "description": "Merchandise and live experiences based on Netflix intellectual property and content."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Warner Bros. Discovery, Inc.",
+      "partnership_type": "strategic",
+      "description": "Netflix is involved in a transaction with WBD, referenced as a forward-looking matter in the filing.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NFLX/profile",
+  "origin": {
+    "leaf": "3f5ddbc72ed89b364020fa21c6f4ce1dc1e7639c4a6add2285e9222a97d5d94b",
+    "parent": "49c43c15cde5cb7abe368f9f0520d7e5ad38a3030175d0597533515ae971092e",
+    "timestamp": "2026-04-12T03:12:54.682Z",
+    "source": "profile:0001065280",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3f5ddbc72ed89b364020fa21c6f4ce1dc1e7639c4a6add2285e9222a97d5d94b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.682Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

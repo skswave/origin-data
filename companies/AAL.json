@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AAL",
+  "name": "American Airlines Group Inc.",
+  "cik": "0000006201",
+  "exchange": "Nasdaq",
+  "sic": "4512",
+  "sic_description": "Air Transportation, Scheduled",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "American Airlines Group Inc. (AAG) is a major U.S. airline holding company whose wholly-owned subsidiary, American Airlines, Inc., operates mainline passenger air transportation services. The company provides domestic and international air travel, with operations divided between mainline (American Airlines) and regional services. AAG files consolidated financial reports encompassing all subsidiaries under its corporate umbrella.",
+  "tags": [
+    "domestic-passenger-air-travel",
+    "international-passenger-air-travel",
+    "regional-air-transportation"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AAL",
+  "origin": {
+    "leaf": "48a7a7e608490ba82144e0032ac10872bbf7e6bfdb27eaa47958b584f6b0c5b5",
+    "parent": "653f7bacc4adb04a86576b089f9f1ca59efa61108c2b22bfac5e4f68888ea2ab",
+    "timestamp": "2026-04-12T03:12:50.558Z",
+    "source": "0000006201-26-000014",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/48a7a7e608490ba82144e0032ac10872bbf7e6bfdb27eaa47958b584f6b0c5b5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.558Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

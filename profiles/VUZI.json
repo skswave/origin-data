@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VUZI",
+  "name": "Vuzix Corp",
+  "cik": "0001463972",
+  "summary": "Vuzix Corporation, incorporated in Delaware in 1997, designs, manufactures, and markets AI-enabled smart glasses, waveguides, and augmented reality (AR) display technologies. Products include near-eye displays, heads-up displays, and wearable computing devices for enterprise, medical, defense, security, and select consumer markets. The company also provides proprietary waveguide optics and display engines for ODM and OEM partners, maintaining in-house waveguide manufacturing and an IP portfolio built over 28 years.",
+  "products": [
+    {
+      "name": "AI-enabled Smart Glasses",
+      "type": "hardware",
+      "description": "Eyewear-style wearable computing devices with cameras, sensors, and onboard processing for AR overlays and AI assistants."
+    },
+    {
+      "name": "Waveguide Optics",
+      "type": "hardware",
+      "description": "Thin, see-through waveguides integrating miniature display engines into compact eyewear form factors for AR applications."
+    },
+    {
+      "name": "Display Engines",
+      "type": "hardware",
+      "description": "Microdisplay-based projection engines designed for integration into Vuzix-branded and third-party OEM/ODM smart glasses."
+    },
+    {
+      "name": "Heads-Up Displays (HUDs)",
+      "type": "hardware",
+      "description": "Head-worn display products providing portable near-eye visualization for enterprise, defense, and consumer uses."
+    },
+    {
+      "name": "Moviynt",
+      "type": "software",
+      "description": "Internal software solutions development team supporting solution development and customer deployments for smart glasses."
+    },
+    {
+      "name": "ODM/OEM Custom Optical Display Solutions",
+      "type": "service",
+      "description": "Custom waveguide and display engine engineering services and reference designs for third-party manufacturers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "ODM partners",
+      "partnership_type": "OEM",
+      "description": "Third-party original design manufacturers integrating Vuzix waveguides and display engines into their AR-enabled wearable products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "OEM partners",
+      "partnership_type": "OEM",
+      "description": "Third-party original equipment manufacturers using Vuzix optical technologies and reference designs for commercial and industrial devices.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VUZI/profile",
+  "origin": {
+    "leaf": "3547a432fdf8e392073b05a4e7ffead1c37b0c04dcfe96a1781d6dac2df668dd",
+    "parent": "b7d511ac69f390455a441e45a0f7932937377037445bb0aa7a1a5c26ce15f364",
+    "timestamp": "2026-04-12T03:12:57.034Z",
+    "source": "profile:0001463972",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3547a432fdf8e392073b05a4e7ffead1c37b0c04dcfe96a1781d6dac2df668dd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.034Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

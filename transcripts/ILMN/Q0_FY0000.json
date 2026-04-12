@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ILMN",
+  "company": "ILLUMINA, INC.",
+  "title": "ILMN   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 9221,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "ILMN gross margin",
+      "predicate": "reported",
+      "object": "$60 percent",
+      "value": 60,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ILMN",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ILMN/transcripts",
+  "origin": {
+    "leaf": "94971c7100169a3091dd5c85385ad350fecb4ea3c8618317dc62f828c01b409a",
+    "parent": "e84997b5d08e57deb02033ef05ba6e0ebd72902ce58a4cc2ec620990503a24ad200565f44a0473ddea2aece2feefe2d0",
+    "timestamp": "2026-04-12T03:13:00.795Z",
+    "source": "transcript:ILMN_ILMN-Q425-Earnings-Supplement.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/94971c7100169a3091dd5c85385ad350fecb4ea3c8618317dc62f828c01b409a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.795Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

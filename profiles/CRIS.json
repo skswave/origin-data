@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CRIS",
+  "name": "CURIS INC",
+  "cik": "0001108205",
+  "summary": "Curis Inc. (CRIS) is a biopharmaceutical company. The provided filing excerpt is limited to a subsidiary listing (Exhibit 21), identifying Curis Securities Corporation, a Massachusetts-organized subsidiary, as the sole listed entity doing business under its own name. Insufficient detail is available in this excerpt to fully describe Curis Inc.'s products, pipeline, or business operations beyond this subsidiary disclosure.",
+  "live_api": "https://origin.rootz.global/api/company/CRIS/profile",
+  "origin": {
+    "leaf": "e2a528b3161126cdc7b4599684e27162c04f6b8c9b95b2707fd30df8d8ae700c",
+    "parent": "293add97199636920db5090956160a057716c0d40ebec2d8e150742980e4d6b0",
+    "timestamp": "2026-04-12T03:12:58.214Z",
+    "source": "profile:0001108205",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e2a528b3161126cdc7b4599684e27162c04f6b8c9b95b2707fd30df8d8ae700c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.214Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

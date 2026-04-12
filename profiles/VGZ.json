@@ -1,0 +1,46 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VGZ",
+  "name": "VISTA GOLD CORP",
+  "cik": "0000783324",
+  "summary": "Vista Gold Corp. is a development-stage gold mining company whose primary asset is the Mt Todd Gold Project in Northern Territory, Australia. The company does not generate cash flows from mining operations. Mt Todd is a large gold deposit with a 30-year mine life, targeting 15,000 tonnes per day processing capacity, with an after-tax NPV of $1.1 billion at $2,500/oz gold.",
+  "products": [
+    {
+      "name": "Mt Todd Gold Project",
+      "type": "service",
+      "description": "Development-stage open-pit gold mining project in Northern Territory, Australia, targeting 15,000 tpd processing with a 30-year mine life and average annual production of 146,000 ounces."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Jawoyn Association Aboriginal Corporation",
+      "partnership_type": "strategic",
+      "description": "Collaboration with local indigenous group on environmentally sound and socially responsible development plan for Mt Todd.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Northern Territory Government",
+      "partnership_type": "strategic",
+      "description": "Engagement with NT Government on permitting, reclamation obligations, and regulatory compliance for the Mt Todd project.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VGZ/profile",
+  "origin": {
+    "leaf": "46a0e97bd2febef9aaf182d6b0038afe3cf75571dcea260334b909500e8ef8c3",
+    "parent": "b47aafa7830ac8985ad19dfcd48567f9da76037c68c937a6b4c1177eeab76113",
+    "timestamp": "2026-04-12T03:12:56.790Z",
+    "source": "profile:0000783324",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/46a0e97bd2febef9aaf182d6b0038afe3cf75571dcea260334b909500e8ef8c3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.790Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

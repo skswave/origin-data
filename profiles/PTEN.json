@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PTEN",
+  "name": "PATTERSON UTI ENERGY INC",
+  "cik": "0000889900",
+  "summary": "Patterson-UTI Energy, Inc. is a Houston, Texas-based provider of drilling and completion services to oil and natural gas exploration and production companies in the United States and select international markets. The company operates three segments: drilling services (contract drilling, directional drilling), completion services (hydraulic fracturing, wireline, cementing, power solutions), and drilling products (drill bits, downhole tools) serving over 30 countries.",
+  "products": [
+    {
+      "name": "Contract Drilling Services",
+      "type": "service",
+      "description": "Land-based contract drilling in continental US, Colombia, and Ecuador for oil and natural gas E&P companies."
+    },
+    {
+      "name": "Directional Drilling Services",
+      "type": "service",
+      "description": "Comprehensive directional drilling and wellbore placement accuracy services across major US onshore basins."
+    },
+    {
+      "name": "Hydraulic Fracturing Services",
+      "type": "service",
+      "description": "Well completion hydraulic fracturing services in active US basins including Permian, Eagle Ford, and Marcellus Shale."
+    },
+    {
+      "name": "Wireline and Pumping Services",
+      "type": "service",
+      "description": "Wireline and pumping services as part of integrated well completion solutions."
+    },
+    {
+      "name": "Cementing Services",
+      "type": "service",
+      "description": "Cementing services offered as part of completion services business."
+    },
+    {
+      "name": "Power Solutions Natural Gas Fueling",
+      "type": "service",
+      "description": "Natural gas fueling business supporting completion operations."
+    },
+    {
+      "name": "Proppant Last Mile Logistics and Storage",
+      "type": "service",
+      "description": "Proppant logistics and storage services supporting completion operations."
+    },
+    {
+      "name": "Drill Bits and Downhole Tools",
+      "type": "hardware",
+      "description": "Manufactured and distributed drill bits and downhole tools for oil, gas, geothermal, and mining markets in 30+ countries."
+    },
+    {
+      "name": "Electrical Controls and Automation",
+      "type": "hardware",
+      "description": "Electrical controls and automation solutions for energy, marine, and mining industries in North America and select markets."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PTEN/profile",
+  "origin": {
+    "leaf": "c655bcd2eb4e3000ffa0243c7b18454d7b21f9c47c00cee2dd170dc7b09f5f82",
+    "parent": "fd1f62a1a2b73e40f6ab5a9aa621490c2d0bfafb38be97c24c2742c1223d157a",
+    "timestamp": "2026-04-12T03:12:55.349Z",
+    "source": "profile:0000889900",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c655bcd2eb4e3000ffa0243c7b18454d7b21f9c47c00cee2dd170dc7b09f5f82",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.349Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

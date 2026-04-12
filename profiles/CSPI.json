@@ -1,0 +1,140 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CSPI",
+  "name": "CSP INC /MA/",
+  "cik": "0000356037",
+  "summary": "CSP Inc. (CSPI), incorporated in 1968 and based in Lowell, Massachusetts, operates in two segments: Technology Solutions (TS) and High Performance Products (HPP). The TS segment, through subsidiary Modcomp Inc., resells third-party hardware/software and delivers professional IT, managed, and cloud services in the US and UK. The HPP segment offers the ARIA Software-Defined Security portfolio, Myricom SmartNIC network adapters, and legacy Multicomputer DSP products for defense, commercial, and government customers.",
+  "products": [
+    {
+      "name": "ARIA Packet Intelligence",
+      "type": "software",
+      "description": "High-speed wire-rate in-line packet filtering, steering and policy enforcement software."
+    },
+    {
+      "name": "ARIA Advanced Detection and Response (ADR)",
+      "type": "software",
+      "description": "Real-time threat detection and response solution automating the MITRE ATT&CK framework."
+    },
+    {
+      "name": "ARIA Zero Trust (AZT) PROTECT",
+      "type": "software",
+      "description": "Launched July 2023; stops sophisticated attacks on critical infrastructure before harm occurs."
+    },
+    {
+      "name": "Myricom ARC Series SmartNIC",
+      "type": "hardware",
+      "description": "High-bandwidth, low-latency network adapters; reached end-of-life due to ASIC supplier problems."
+    },
+    {
+      "name": "Myricom Secure Intelligent Adapters (SIA)",
+      "type": "hardware",
+      "description": "Intelligent network adapters optimized for packet capture, financial transactions, machine vision, and network security."
+    },
+    {
+      "name": "Multicomputer Products",
+      "type": "hardware",
+      "description": "Legacy DSP hardware for defense markets; no longer actively developed, sold through fiscal year 2025."
+    },
+    {
+      "name": "Managed IT Services (MSP)",
+      "type": "service",
+      "description": "Monitoring, reporting, and management of IT infrastructure primarily for SMB customers."
+    },
+    {
+      "name": "Professional IT Services",
+      "type": "service",
+      "description": "Assessments, HCI, virtualization, enterprise security, unified communications, and compliance consulting services."
+    },
+    {
+      "name": "Managed and Hosted Unified Communication as a Service",
+      "type": "service",
+      "description": "Cisco-based communication and collaboration managed cloud service offering."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Hewlett Packard Enterprise (HPE)/Aruba",
+      "partnership_type": "strategic",
+      "description": "Key hardware and networking product reseller relationship.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Cisco Systems",
+      "partnership_type": "strategic",
+      "description": "Cisco Premier Partner approved for Cloud and Managed Services Program for Managed Business Communications.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Palo Alto Networks",
+      "partnership_type": "strategic",
+      "description": "Reseller partnership for advanced IT security hardware and software solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Nutanix",
+      "partnership_type": "strategic",
+      "description": "Partner for hyper-converged infrastructure solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Dell EMC",
+      "partnership_type": "strategic",
+      "description": "Partner for HCI and data center infrastructure solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Juniper Networks",
+      "partnership_type": "strategic",
+      "description": "Partner for wireless, routing, and switching solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Microsoft",
+      "partnership_type": "strategic",
+      "description": "Microsoft Gold Partner with specialties in Cloud and Collaboration solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fortinet",
+      "partnership_type": "strategic",
+      "description": "Reseller partner for enterprise security solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Barracuda",
+      "partnership_type": "strategic",
+      "description": "Reseller partner for IT security products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Cato Networks",
+      "partnership_type": "strategic",
+      "description": "Reseller partner for networking and security solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Varonis",
+      "partnership_type": "strategic",
+      "description": "Reseller partner for data security solutions.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CSPI/profile",
+  "origin": {
+    "leaf": "edc5fda9d847a179a7905584d834c07ab10047f8678023e4de8ee5e2ffa7b712",
+    "parent": "61eadeeb76f6aeba8cb7057a08f87df1738ef5791a695ae0bee46d9c2809275b",
+    "timestamp": "2026-04-12T03:12:57.502Z",
+    "source": "profile:0000356037",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/edc5fda9d847a179a7905584d834c07ab10047f8678023e4de8ee5e2ffa7b712",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.502Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

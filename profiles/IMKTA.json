@@ -1,0 +1,87 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IMKTA",
+  "name": "INGLES MARKETS INC",
+  "cik": "0000050493",
+  "summary": "Ingles Markets, Incorporated is a leading supermarket chain in the southeast United States, operating 194 supermarkets across North Carolina, Georgia, South Carolina, Tennessee, Virginia, and Alabama. The Company offers nationally advertised grocery, meat, dairy, produce, frozen foods, perishables, fuel centers, pharmacies, health and beauty products, private label items, and organic/locally-sourced goods. It also owns and operates warehouse/distribution facilities and a milk processing and packaging plant supplying approximately 65% of milk products sold in its stores.",
+  "products": [
+    {
+      "name": "Retail Grocery",
+      "type": "service",
+      "description": "Supermarket operations offering grocery, meat, dairy, produce, frozen foods, and non-food products across 194 stores in the southeast US."
+    },
+    {
+      "name": "Fuel Centers",
+      "type": "service",
+      "description": "On-premises fuel centers located at supermarket locations for customer convenience."
+    },
+    {
+      "name": "Pharmacy",
+      "type": "service",
+      "description": "In-store pharmacies offered at supermarket locations throughout the company's market area."
+    },
+    {
+      "name": "Private Label Products",
+      "type": "service",
+      "description": "Quality private label items including organic and locally-sourced products sold throughout market areas."
+    },
+    {
+      "name": "Milk Processing and Packaging",
+      "type": "service",
+      "description": "Company-owned plant supplying approximately 65% of stores' milk needs and selling to retailers in 18 states."
+    },
+    {
+      "name": "Online Ordering",
+      "type": "platform",
+      "description": "Online ordering of products for in-store pickup at Ingles supermarket locations."
+    },
+    {
+      "name": "Retail Grocery",
+      "type": "service",
+      "description": "Supermarket operations offering nationally advertised and private label food and non-food products across 194 stores in six southeastern states."
+    },
+    {
+      "name": "Fuel Centers",
+      "type": "service",
+      "description": "On-premises fuel centers located at Ingles supermarket locations."
+    },
+    {
+      "name": "Pharmacy",
+      "type": "service",
+      "description": "In-store pharmacy services offered at Ingles supermarket locations."
+    },
+    {
+      "name": "Milk Processing and Packaging",
+      "type": "service",
+      "description": "Company-owned plant supplying ~65% of milk products sold in stores plus organic milk, fruit juices, and bottled water; sells ~81% of output to other retailers and distributors in 18 states."
+    },
+    {
+      "name": "Online Ordering",
+      "type": "platform",
+      "description": "Online ordering of products available for in-store pickup at Ingles supermarket locations."
+    },
+    {
+      "name": "Private Label Items",
+      "type": "service",
+      "description": "Quality private label products offered throughout Ingles market areas."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IMKTA/profile",
+  "origin": {
+    "leaf": "a7794833a1f85f74c329998169e697c21a7977fb1cb607613838b27956234319",
+    "parent": "d45ebfa351bb66a1a7ac5e87efa8d90af79fff6b828818c4d5f7b620c547a0bd",
+    "timestamp": "2026-04-12T03:12:55.742Z",
+    "source": "profile:0000050493",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a7794833a1f85f74c329998169e697c21a7977fb1cb607613838b27956234319",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.742Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

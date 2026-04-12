@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "RSG",
+  "name": "REPUBLIC SERVICES, INC.",
+  "cik": "0001060391",
+  "exchange": "NYSE",
+  "sic": "4953",
+  "sic_description": "Refuse Systems",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Republic Services is one of the largest environmental services providers in North America, operating 377 collection operations, 255 transfer stations, 79 recycling centers, 207 active landfills, 24 TSDFs, 5 saltwater disposal wells, 15 deep injection wells, 9 industrial wastewater treatment facilities, and 2 polymer centers across the United States and Canada. The company provides recycling, solid waste collection, transfer, disposal, environmental solutions, and sustainability innovation services, including landfill gas-to-energy projects and plastics circularity programs.",
+  "tags": [
+    "recycling-and-waste-management",
+    "environmental-solutions",
+    "sustainability-innovation",
+    "plastics-circularity",
+    "renewable-energy",
+    "industrial-wastewater-treatment",
+    "municipal-solid-waste",
+    "hazardous-waste-treatment,-storage-and-disposal"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/RSG",
+  "origin": {
+    "leaf": "64138a7185ef3e4b83732062721208f70ec9e559281f1f04129c5c9660743c02",
+    "parent": "e26707550258f028bde369b07918a91482a23b56bbcca8c9a8528ceef7901168",
+    "timestamp": "2026-04-12T03:12:50.332Z",
+    "source": "0001060391-26-000094",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/64138a7185ef3e4b83732062721208f70ec9e559281f1f04129c5c9660743c02",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.332Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

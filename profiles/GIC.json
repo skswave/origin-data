@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GIC",
+  "name": "GLOBAL INDUSTRIAL Co",
+  "cik": "0000945114",
+  "summary": "Global Industrial Company is a value-added industrial products distributor that sells a broad range of industrial and commercial products to businesses in North America. The company markets products including material handling equipment, storage solutions, workbenches, safety products, and facility maintenance supplies through catalogs, e-commerce, and a direct sales force under the Global Industrial brand.",
+  "products": [
+    {
+      "name": "Material Handling Equipment",
+      "type": "hardware",
+      "description": "Industrial equipment for moving and managing materials in commercial and industrial settings."
+    },
+    {
+      "name": "Storage Solutions",
+      "type": "hardware",
+      "description": "Industrial shelving, racking, and storage products for facilities."
+    },
+    {
+      "name": "Workbenches",
+      "type": "hardware",
+      "description": "Commercial and industrial workbenches for facilities and manufacturing environments."
+    },
+    {
+      "name": "Safety Products",
+      "type": "hardware",
+      "description": "Workplace safety equipment and supplies for industrial and commercial customers."
+    },
+    {
+      "name": "Facility Maintenance Supplies",
+      "type": "service",
+      "description": "Supplies and equipment for maintaining commercial and industrial facilities."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GIC/profile",
+  "origin": {
+    "leaf": "dd64e5ba351936bf52e082336f216aa3eba702ab33f407664e17558152a4b95e",
+    "parent": "9966e9225e4d8df42a322741f184f884e8d388f2a7ad8e2855cf1101939b07b5",
+    "timestamp": "2026-04-12T03:12:55.918Z",
+    "source": "profile:0000945114",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dd64e5ba351936bf52e082336f216aa3eba702ab33f407664e17558152a4b95e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.918Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "KW",
+  "name": "Kennedy-Wilson Holdings, Inc.",
+  "cik": "0001408100",
+  "exchange": "NYSE",
+  "sic": "6500",
+  "sic_description": "Real Estate",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Company Overview We are a real estate investment company as well as an investment manager with over $36.4 billion of Real Estate Assets Under Management (AUM) in high growth markets across the United States, the United Kingdom and Ireland. With an objective of generating strong long-term risk-adjusted returns for our shareholders and partners and drawing on over three decades of experience in identifying opportunities and building value through various market cycles, we primarily focus on...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 321,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/KW",
+  "origin": {
+    "leaf": "bbdf5e04d9fe03ea4d0e63a8da1e9370844dcdc14184ac5dd0e4680483edbf56",
+    "parent": "fdf7ab5009ac15cf591b1b43cac71fd30545fca089742f4a1cc650bd8da06cca",
+    "timestamp": "2026-04-12T03:12:50.974Z",
+    "source": "0001408100-26-000072",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bbdf5e04d9fe03ea4d0e63a8da1e9370844dcdc14184ac5dd0e4680483edbf56",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.974Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "NHPAP",
+  "total_facts": 11,
+  "by_type": {
+    "topic_mention": 11
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "NHPAP",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.9199999999999999,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NHPAP",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NHPAP",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NHPAP",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NHPAP",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NHPAP",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NHPAP",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NHPAP",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NHPAP",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NHPAP",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NHPAP",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NHPAP/transcripts",
+  "origin": {
+    "leaf": "8e2960de6319bd1d5a4a8c1ab420b38d5529ed2b2e56866f9c4eb01fa77a8cdf",
+    "parent": "e18e61c72f2e1afab980c6a45432be1fcd33ca2a935a0dee187b51ebc4556f93",
+    "timestamp": "2026-04-12T03:15:41.742Z",
+    "source": "facts:NHPAP",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8e2960de6319bd1d5a4a8c1ab420b38d5529ed2b2e56866f9c4eb01fa77a8cdf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:15:41.742Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

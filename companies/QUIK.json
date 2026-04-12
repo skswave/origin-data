@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "QUIK",
+  "name": "QUICKLOGIC Corp",
+  "cik": "0000882508",
+  "exchange": "Nasdaq",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "state_of_incorporation": "CA",
+  "headquarters": "San Jose, California",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1228",
+  "summary": "QuickLogic Corporation is a semiconductor company that develops low-power multi-core voice and sensor processing solutions, embedded FPGA (eFPGA) IP, and platforms for AI/ML at the edge. Its products include programmable FPGAs, eFPGA IP cores, and sensor processing solutions targeting IoT, defense, industrial, and consumer markets. The company also provides engineering services and contracts with the U.S. Government for defense-related applications.",
+  "tags": [
+    "iot",
+    "defense-and-government",
+    "industrial",
+    "consumer-electronics",
+    "edge-ai/ml",
+    "space",
+    "ai/ml-edge-inference",
+    "efpga",
+    "rtl",
+    "export-control-compliance-(u.s.-import/export-regulations)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/QUIK",
+  "origin": {
+    "leaf": "f1cb48a99a6dca3ad9aac407ce6fcc3e2d288d123a158ac9acc4f04178ecd9e2",
+    "parent": "113ff528c28d67e829407d3570fd9db4e340f40ce8be721453d5c91941f40ffe",
+    "timestamp": "2026-04-12T03:12:51.989Z",
+    "source": "0001437749-26-010089",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f1cb48a99a6dca3ad9aac407ce6fcc3e2d288d123a158ac9acc4f04178ecd9e2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.989Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

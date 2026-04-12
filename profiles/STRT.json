@@ -1,0 +1,97 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "STRT",
+  "name": "STRATTEC SECURITY CORP",
+  "cik": "0000933034",
+  "summary": "Strattec Security Corporation, incorporated in 1995 with over 100 years of automotive industry history, designs and manufactures automotive security and access products. Products include mechanical and electronic locks and keys, fobs, passive entry/start systems, digital keys, power sliding doors, power tailgates, lift gate systems, power deck lids, steering wheel switches, e-shifters, and door handles. The company serves North American OEMs including General Motors, Ford, and Stellantis, with operations in Milwaukee, Wisconsin and multiple facilities in Juarez and Leon, Mexico.",
+  "products": [
+    {
+      "name": "Mechanical and Electronic Locks and Keys",
+      "type": "hardware",
+      "description": "Legacy and electronically enhanced automotive lock and key security products for OEM and aftermarket channels."
+    },
+    {
+      "name": "Key Fobs",
+      "type": "hardware",
+      "description": "Electronic key fobs for vehicle access and security applications."
+    },
+    {
+      "name": "Passive Entry Passive Start Systems",
+      "type": "hardware",
+      "description": "Automotive passive entry and passive start security and authorization systems."
+    },
+    {
+      "name": "Digital Key",
+      "type": "platform",
+      "description": "Digital key product leveraging system and software capability for enhanced security and packaging architecture."
+    },
+    {
+      "name": "Steering Column and Instrument Panel Ignition Lock Housings",
+      "type": "hardware",
+      "description": "Ignition lock housings and related solutions for vehicle security."
+    },
+    {
+      "name": "Power Sliding Doors",
+      "type": "hardware",
+      "description": "Power sliding door systems including drivetrain mechanisms, latching mechanisms, and electronic control units."
+    },
+    {
+      "name": "Power Tailgates and Lift Gate Systems",
+      "type": "hardware",
+      "description": "Powered tailgate and lift gate systems for vehicle access."
+    },
+    {
+      "name": "Power Deck Lid Systems",
+      "type": "hardware",
+      "description": "Powered deck lid systems for vehicle access applications."
+    },
+    {
+      "name": "Steering Wheel Switches and Controllers",
+      "type": "hardware",
+      "description": "User-interface control products including steering wheel switches, e-shifters, and paddle switches."
+    },
+    {
+      "name": "Door Handles",
+      "type": "hardware",
+      "description": "Automotive door handles provided through a joint venture, combining injection molding and high-quality paint processes."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "General Motors Company",
+      "partnership_type": "OEM",
+      "description": "Direct supplier of security and access products for specific GM vehicle platforms.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ford Motor Company",
+      "partnership_type": "OEM",
+      "description": "Direct supplier of security and access products for specific Ford vehicle platforms.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Stellantis",
+      "partnership_type": "OEM",
+      "description": "Direct supplier of security and access products for specific Stellantis vehicle platforms.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/STRT/profile",
+  "origin": {
+    "leaf": "db4afc396bddee930e434b86202e6473d6f864afb988dd40f82295308d9cbb48",
+    "parent": "b7b9148f051579fd13fb8c3b90a3a952049a4d5c5978ef6dfc6ed61d909c74e1",
+    "timestamp": "2026-04-12T03:12:56.669Z",
+    "source": "profile:0000933034",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/db4afc396bddee930e434b86202e6473d6f864afb988dd40f82295308d9cbb48",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.669Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

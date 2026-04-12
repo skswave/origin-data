@@ -1,0 +1,80 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SCND",
+  "name": "SCIENTIFIC INDUSTRIES INC",
+  "cik": "0000087802",
+  "summary": "Scientific Industries, Inc. (SI), incorporated in 1954, designs, manufactures, and markets benchtop laboratory equipment and bioprocessing systems. Benchtop products include pharmacy/laboratory balances, scales, force gauges, automated pill counters (VIVID brand), and moisture analyzers sold under the Torbal division. Through subsidiary SBHI (via SBI and Aquila), the company markets bioprocessing products including the Cell Growth Quantifier, Liquid Injection System, Multi-Parameter Sensor, and Dissolved Oxygen sensor pills for research use in universities, pharmaceutical companies, and national laboratories.",
+  "products": [
+    {
+      "name": "Torbal Balances and Scales",
+      "type": "hardware",
+      "description": "Pharmacy and laboratory balances and scales sold under the Torbal brand through online and distribution channels."
+    },
+    {
+      "name": "VIVID Automated Pill Counter",
+      "type": "hardware",
+      "description": "Automated pill counters sold through two exclusive distributors in North America under the VIVID brand."
+    },
+    {
+      "name": "Moisture Analyzers",
+      "type": "hardware",
+      "description": "Laboratory moisture analyzers sold through the Torbal division."
+    },
+    {
+      "name": "Force Gauges",
+      "type": "hardware",
+      "description": "Force measurement gauges sold through the Torbal division for laboratory use."
+    },
+    {
+      "name": "Cell Growth Quantifier (CGQ)",
+      "type": "hardware",
+      "description": "Biomass monitoring device for shake flasks used in bioprocessing research."
+    },
+    {
+      "name": "Liquid Injection System (LIS)",
+      "type": "hardware",
+      "description": "Automated feeding system for shake flasks in bioprocessing applications."
+    },
+    {
+      "name": "Multi-Parameter Sensor (MPS)",
+      "type": "hardware",
+      "description": "Smart sensor for bioprocessing marketed under the DOTS brand platform."
+    },
+    {
+      "name": "Dissolved Oxygen Sensor Pills",
+      "type": "hardware",
+      "description": "Sensor pills for dissolved oxygen monitoring marketed under the Bioprocessing Systems DOTS brand platform."
+    },
+    {
+      "name": "Coaster Systems and Flow-Through Cells",
+      "type": "hardware",
+      "description": "Systems for pH and DO monitoring with analytical software for bioprocessing applications."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Troemner, LLC",
+      "partnership_type": "strategic",
+      "description": "Purchased Genie Division assets for $9.6M; Company supplies products under a Manufacturing and Supply Agreement for up to twelve months.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SCND/profile",
+  "origin": {
+    "leaf": "251b55f4ea3dc4b01089b982730f066fbae317dfffa60057e9095b78a4ce2745",
+    "parent": "d7a48877d3661f886536f8d1f508e4c6814345b4ee72b80650418edba9909210",
+    "timestamp": "2026-04-12T03:12:58.584Z",
+    "source": "profile:0000087802",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/251b55f4ea3dc4b01089b982730f066fbae317dfffa60057e9095b78a4ce2745",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.584Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

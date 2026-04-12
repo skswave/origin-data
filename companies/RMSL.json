@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "RMSL",
+  "name": "RemSleep Holdings Inc.",
+  "cik": "0001412126",
+  "exchange": "OTC",
+  "sic": "7200",
+  "sic_description": "Services-Personal Services",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": "2007",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "RemSleep Holdings Inc. develops and distributes sleep apnea products through its wholly-owned subsidiary REMSleep LLC. Its primary product is the DeltaWave, a patented nasal-pillows type CPAP interface designed to improve patient comfort and compliance by addressing work-of-breathing issues. The company holds utility patent 10987481 and design patent D1,017,025 S for the DeltaWave, and targets home care dealers, hospitals, sleep labs, physicians, and distributors in the U.S. sleep apnea market.",
+  "tags": [
+    "sleep-apnea-treatment-devices",
+    "home-healthcare",
+    "hospital-and-medical-groups",
+    "sleep-disorder-clinics",
+    "durable-medical-equipment-(dme)-distribution"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/RMSL",
+  "origin": {
+    "leaf": "2205c8fea58b5443f88083ba6b7eec4e1ad0df50f9437a187169449fe534f74e",
+    "parent": "0494de5adf475251a75064e96a97bf0f914cb8513ee6d834393b1b9862f639ed",
+    "timestamp": "2026-04-12T03:12:53.088Z",
+    "source": "0001213900-25-031599",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2205c8fea58b5443f88083ba6b7eec4e1ad0df50f9437a187169449fe534f74e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.088Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

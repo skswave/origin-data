@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MBIN",
+  "name": "Merchants Bancorp",
+  "cik": "0001629019",
+  "summary": "Merchants Bancorp is a diversified bank holding company headquartered in Carmel, Indiana, operating through three segments: Multi-family Mortgage Banking (originating and servicing affordable multi-family housing and healthcare facility loans, syndicating LIHTC and debt funds); Mortgage Warehousing (warehouse financing for mortgage bankers); and Banking (portfolio lending, retail mortgage banking, SBA lending, agricultural lending, and community banking). As of December 31, 2025, the company had $19.4 billion in assets, $13.0 billion in deposits, and $2.3 billion in shareholders equity.",
+  "products": [
+    {
+      "name": "Multi-family Mortgage Banking",
+      "type": "service",
+      "description": "Origination and servicing of affordable multi-family housing and healthcare facility loans via FHA, Fannie Mae, Freddie Mac, and USDA programs."
+    },
+    {
+      "name": "LIHTC Tax Credit Syndication",
+      "type": "service",
+      "description": "Fully integrated tax credit equity syndication for Section 42 LIHTC, Historic Rehabilitation Tax Credits, and State tax credits."
+    },
+    {
+      "name": "Mortgage Warehouse Lending",
+      "type": "service",
+      "description": "Warehouse repurchase agreements, loan participations, and operating lines of credit for independent mortgage bankers."
+    },
+    {
+      "name": "SBA Lending",
+      "type": "service",
+      "description": "Small Business Administration loan origination offered through the Banking segment."
+    },
+    {
+      "name": "Agricultural Lending",
+      "type": "service",
+      "description": "Agricultural loans offered through the Banking segment."
+    },
+    {
+      "name": "Retail and Correspondent Residential Mortgage Banking",
+      "type": "service",
+      "description": "Retail and correspondent residential mortgage banking services offered through the Banking segment."
+    },
+    {
+      "name": "MIP Debt Investment Vehicles",
+      "type": "platform",
+      "description": "Registered investment advisor deploying third-party institutional capital into high-quality assets originated by MCC, including securitizations and credit risk transfer vehicles."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Fannie Mae",
+      "partnership_type": "strategic",
+      "description": "Approved seller/servicer; originates and sells affordable multi-family loans as mortgage-backed securities.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Freddie Mac",
+      "partnership_type": "strategic",
+      "description": "Approved seller/servicer; originates and sells affordable multi-family loans as mortgage-backed securities.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ginnie Mae",
+      "partnership_type": "strategic",
+      "description": "Approved issuer/servicer for government-backed mortgage securities.",
+      "start_date": null
+    },
+    {
+      "partner_name": "FHA",
+      "partnership_type": "strategic",
+      "description": "Approved lender for multi-family and healthcare facility financing under FHA programs.",
+      "start_date": null
+    },
+    {
+      "partner_name": "USDA",
+      "partnership_type": "strategic",
+      "description": "Approved USDA Rural Housing 538 lender for affordable housing in rural markets.",
+      "start_date": null
+    },
+    {
+      "partner_name": "American Financial Exchange (AFX)",
+      "partnership_type": "strategic",
+      "description": "Referenced as a defined term in the company's glossary; specific relationship details not elaborated.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MBIN/profile",
+  "origin": {
+    "leaf": "e858de7118571985638901e2339adda0c4f21ec22d9491569516c25237300444",
+    "parent": "a3abbca2c389c822a624af331cb5a42d12a3c8081b1b3022580d2304c784b456",
+    "timestamp": "2026-04-12T03:12:55.666Z",
+    "source": "profile:0001629019",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e858de7118571985638901e2339adda0c4f21ec22d9491569516c25237300444",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.666Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

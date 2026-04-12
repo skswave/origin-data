@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RGEN",
+  "name": "REPLIGEN CORP",
+  "cik": "0000730272",
+  "summary": "Repligen Corporation is a global life sciences company that develops and commercializes bioprocessing technologies and systems for biological drug manufacturing. Products span four franchises: Filtration (XCell ATF, KrosFlo TFF, hollow fiber filters), Chromatography (OPUS columns, BioSMB systems), Process Analytics (FlowVPX, SciLog), and Proteins (Protein A ligands). Customers include global biopharmaceutical companies, contract development and manufacturing organizations, and life science integrators producing mAbs, RNA therapeutics, vaccines, and cell and gene therapies.",
+  "products": [
+    {
+      "name": "XCell ATF Cell Retention Systems",
+      "type": "hardware",
+      "description": "Upstream perfusion systems for seed train intensification and continuous manufacturing, available in stainless steel and single-use formats up to 5,000L bioreactors."
+    },
+    {
+      "name": "TangenX Flat Sheet TFF Cassettes",
+      "type": "hardware",
+      "description": "Tangential flow filtration cassettes for downstream ultrafiltration, concentration, buffer exchange and formulation, including single-use SIUS and reusable PRO lines."
+    },
+    {
+      "name": "Hollow Fiber Filters",
+      "type": "hardware",
+      "description": "Wide range of hollow fiber filters across sizes, surface areas, and membrane chemistries for scalable bioprocessing from development to commercial production."
+    },
+    {
+      "name": "KrosFlo TFF Systems",
+      "type": "hardware",
+      "description": "Scalable tangential flow filtration systems from lab to commercial scale (up to 5,000L), supporting HF and FS cassette formats with cGMP compliance."
+    },
+    {
+      "name": "KrosFlo KR2i RPM",
+      "type": "hardware",
+      "description": "First-to-market TFF system incorporating real-time process monitoring for in-line protein concentration management, launched in 2022."
+    },
+    {
+      "name": "OPUS Chromatography Columns",
+      "type": "hardware",
+      "description": "Pre-packed chromatography columns for bioprocessing purification applications."
+    },
+    {
+      "name": "BioSMB Systems",
+      "type": "hardware",
+      "description": "Continuous chromatography systems for downstream bioprocessing."
+    },
+    {
+      "name": "FlowVPX",
+      "type": "hardware",
+      "description": "Process analytics system for in-line concentration monitoring during TFF processes."
+    },
+    {
+      "name": "SciLog",
+      "type": "hardware",
+      "description": "Process analytics product for bioprocessing fluid management and monitoring."
+    },
+    {
+      "name": "Protein A Ligands",
+      "type": "hardware",
+      "description": "Protein A-based affinity chromatography ligands used in biologics purification, particularly for monoclonal antibodies."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RGEN/profile",
+  "origin": {
+    "leaf": "0f87f459454101d17aee7b4ee0544f7f650b681dcbf4c50b808d376203770ea7",
+    "parent": "5b812ebbbf19c3c61488784d5445cfc2762b804b3c7e40d07e9eaced4d18ab46",
+    "timestamp": "2026-04-12T03:12:55.168Z",
+    "source": "profile:0000730272",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0f87f459454101d17aee7b4ee0544f7f650b681dcbf4c50b808d376203770ea7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.168Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

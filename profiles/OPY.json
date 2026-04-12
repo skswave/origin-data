@@ -1,0 +1,102 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "OPY",
+  "name": "OPPENHEIMER HOLDINGS INC",
+  "cik": "0000791963",
+  "summary": "Oppenheimer Holdings Inc. is a middle-market investment bank and full-service broker-dealer incorporated in Delaware. Through subsidiaries including Oppenheimer & Co., OAM, Oppenheimer Trust, and OPY Credit, it provides retail securities brokerage, institutional sales and trading, investment banking, equity and fixed income research, market-making, trust services, and investment advisory and asset management services. As of December 31, 2025, the firm held $143.3 billion in client assets under administration and $55.2 billion in AUM.",
+  "products": [
+    {
+      "name": "Full-Service Brokerage",
+      "type": "service",
+      "description": "Covers equities, debt securities, options, municipal bonds, mutual funds, ETFs, precious metals, and unit investment trusts."
+    },
+    {
+      "name": "Wealth Planning",
+      "type": "service",
+      "description": "Includes asset management, retirement solutions, insurance, annuities, IRAs, 401(k) plans, and trust/fiduciary services."
+    },
+    {
+      "name": "Margin Lending",
+      "type": "service",
+      "description": "Extends credit to customers collateralized by securities and cash in customer accounts."
+    },
+    {
+      "name": "Separately Managed Accounts",
+      "type": "service",
+      "description": "Unified Managed Account and Strategic Asset Review dual contract program for fee-based portfolio management."
+    },
+    {
+      "name": "Mutual Fund Managed Accounts (PAS)",
+      "type": "service",
+      "description": "Three fee-based programs: PAS Flex, PAS Directed, and PAS Research for mutual fund portfolio construction."
+    },
+    {
+      "name": "Discretionary Advisory Accounts (Omega/Alpha)",
+      "type": "service",
+      "description": "Client-focused discretionary fee-based investment programs managed by Oppenheimer financial advisors."
+    },
+    {
+      "name": "Non-Discretionary Advisory Accounts (Preference Program)",
+      "type": "service",
+      "description": "Fee-based non-discretionary investment advisory services and consultation to clients."
+    },
+    {
+      "name": "Alternative Investments",
+      "type": "service",
+      "description": "Hedge funds, fund of funds, private equity funds, and late-stage private equity for high-net-worth and institutional investors."
+    },
+    {
+      "name": "Portfolio Enhancement Program",
+      "type": "service",
+      "description": "Sells uncovered out-of-the-money puts and calls on S&P 500 Index for qualified option investors."
+    },
+    {
+      "name": "Investment Banking",
+      "type": "service",
+      "description": "Strategic advisory and capital markets services including M&A, ECM, DCM, debt advisory, restructuring, and fund placement."
+    },
+    {
+      "name": "Equity Research",
+      "type": "service",
+      "description": "36 senior analysts covering approximately 675 equity securities primarily listed in the U.S."
+    },
+    {
+      "name": "Public Finance",
+      "type": "service",
+      "description": "Capital raising for state/local governments, public agencies, nonprofits through municipal bond underwriting and related services."
+    },
+    {
+      "name": "Private Market Opportunities",
+      "type": "platform",
+      "description": "Sourcing private investments across early stage, late stage, co-investments, funds, and secondary market transactions."
+    },
+    {
+      "name": "OPY Credit",
+      "type": "service",
+      "description": "Secondary trading of loans and trade claims primarily on a riskless principal basis."
+    },
+    {
+      "name": "Trust Services (Oppenheimer Trust)",
+      "type": "service",
+      "description": "Trust and fiduciary services provided through Oppenheimer Trust Company of Delaware Inc., a Delaware limited purpose bank."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/OPY/profile",
+  "origin": {
+    "leaf": "8f83846a1be39d3bacc0714de155209e77cf9303c75ce98e024b5b2df587458f",
+    "parent": "8add48db174961e4974db889bd42fc4864eaa8172644a9738a18d2c314b1f1f9",
+    "timestamp": "2026-04-12T03:12:56.028Z",
+    "source": "profile:0000791963",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8f83846a1be39d3bacc0714de155209e77cf9303c75ce98e024b5b2df587458f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.028Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

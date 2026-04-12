@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CSCO",
+  "name": "CISCO SYSTEMS, INC.",
+  "cik": "0000858877",
+  "summary": "Cisco Systems, Inc. designs and sells networking and cybersecurity technology products and services. The company offers a broad portfolio including networking hardware, software, and services for enterprises, service providers, and governments. Cisco's solutions span switching, routing, wireless, security, collaboration, and observability, delivered through both hardware and increasingly software and subscription-based models.",
+  "live_api": "https://origin.rootz.global/api/company/CSCO/profile",
+  "origin": {
+    "leaf": "d524c221516cbdba09776e385d83ee92ecb31a4dcf766f055238881a7d1f9718",
+    "parent": "c4223b7fd25e34a92f42714e84e3649218e49c58c988f125759f3014b320be1e",
+    "timestamp": "2026-04-12T03:12:54.685Z",
+    "source": "profile:0000858877",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d524c221516cbdba09776e385d83ee92ecb31a4dcf766f055238881a7d1f9718",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.685Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

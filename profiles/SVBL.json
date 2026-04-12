@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SVBL",
+  "name": "SILVER BULL RESOURCES, INC.",
+  "cik": "0001031093",
+  "summary": "Silver Bull Resources, Inc. is an exploration stage mining company incorporated in Nevada in 1993. It focuses on acquiring and developing mineral properties, primarily the Sierra Mojada Project in Mexico, which contains silver, zinc, lead, and copper mineralization. The company holds mineral concessions in Mexico and is pursuing a NAFTA arbitration claim. It has no known mineral reserves and no production operations.",
+  "products": [
+    {
+      "name": "Sierra Mojada Project",
+      "type": "service",
+      "description": "Mineral exploration property in Mexico containing silver, zinc, lead, and copper mineralization at the exploration stage with no confirmed reserves."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Funding Agreement counterparty",
+      "partnership_type": "strategic",
+      "description": "A Funding Agreement covers payment of legal, tribunal, and external expert costs and reimbursement of corporate operating expenses related to the NAFTA arbitration claim.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SVBL/profile",
+  "origin": {
+    "leaf": "55bfa5f3ff2757f5363174f1e90149e07fccd3e7c6176a29ab1226e3e64c2c57",
+    "parent": "db2593863e2a70df94ed68ca696184ee75f71e9fe450127decc0444c5c8e3702",
+    "timestamp": "2026-04-12T03:12:58.497Z",
+    "source": "profile:0001031093",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/55bfa5f3ff2757f5363174f1e90149e07fccd3e7c6176a29ab1226e3e64c2c57",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.497Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

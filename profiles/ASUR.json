@@ -1,0 +1,66 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ASUR",
+  "name": "ASURE SOFTWARE INC",
+  "cik": "0000884144",
+  "summary": "Asure Software is a provider of cloud-based Human Capital Management (HCM) software delivered as SaaS to businesses of all sizes across the United States. Its core Asure HCM platform includes Payroll & Tax filing, HR management, Time & Attendance, Recruiting, and Benefits Administration. The company serves over 100,000 clients directly and through a national network of Reseller Partners who white label its solutions, with approximately 35% direct and 65% indirect clients.",
+  "products": [
+    {
+      "name": "Asure HCM Platform",
+      "type": "platform",
+      "description": "SaaS-based system including Payroll & Tax filing, HR management, Time & Attendance, Recruiting, and Benefits Administration."
+    },
+    {
+      "name": "AsureMarketplace",
+      "type": "platform",
+      "description": "Automates data exchange between the Asure HCM system and third-party providers for increased efficiency and accuracy."
+    },
+    {
+      "name": "AsurePay",
+      "type": "service",
+      "description": "Payroll card offering employees fast, secure access to earned wages, provided in association with partners."
+    },
+    {
+      "name": "HR Compliance Services",
+      "type": "service",
+      "description": "Combines expert guidance with scalable digital delivery to help businesses stay compliant with labor laws."
+    },
+    {
+      "name": "Insurance Services",
+      "type": "service",
+      "description": "Offered through a licensed brokerage to help employers manage benefits and reduce administrative costs."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Reseller Partners",
+      "partnership_type": "OEM",
+      "description": "White label Asure products and provide value-added services to their own clients as indirect channel.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Referral Partners",
+      "partnership_type": "strategic",
+      "description": "Provide client leads to Asure but do not resell Asure solutions.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ASUR/profile",
+  "origin": {
+    "leaf": "1b99326a0bfd930e7282030d4cd969e66873a001ca7421f2ec6ced18f034ad7d",
+    "parent": "de1cfdc000175d5b48ade2e5694fa288f3b4dbcd03d7c28561bbdbee6a3d9e4c",
+    "timestamp": "2026-04-12T03:12:56.884Z",
+    "source": "profile:0000884144",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1b99326a0bfd930e7282030d4cd969e66873a001ca7421f2ec6ced18f034ad7d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.884Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

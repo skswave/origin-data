@@ -1,0 +1,83 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SPG",
+  "name": "SIMON PROPERTY GROUP INC.",
+  "cik": "0001063761",
+  "summary": "Simon Property Group, Inc. is an Indiana-based self-administered REIT that owns, develops, and manages premier shopping, dining, entertainment, and mixed-use destinations. As of December 31, 2025, it owned or held interests in 212 U.S. income-producing properties including 108 malls, 70 Premium Outlets, and 16 Mills across 38 states and Puerto Rico, plus 42 international properties. It also holds a 22.2% equity stake in Klépierre SA and investments in retail operations, e-commerce, and real estate management.",
+  "products": [
+    {
+      "name": "Malls",
+      "type": "service",
+      "description": "108 enclosed shopping mall properties across the United States."
+    },
+    {
+      "name": "Premium Outlets",
+      "type": "service",
+      "description": "70 Premium Outlet shopping destinations in the United States."
+    },
+    {
+      "name": "The Mills",
+      "type": "service",
+      "description": "16 Mills retail and entertainment destination properties in the United States."
+    },
+    {
+      "name": "Lifestyle Centers",
+      "type": "service",
+      "description": "Six lifestyle center retail properties in the United States."
+    },
+    {
+      "name": "shop.simon.com (Rue Gilt Groupe)",
+      "type": "platform",
+      "description": "E-commerce venture operating under the RGG brand at shop.simon.com."
+    },
+    {
+      "name": "Commercial Paper Program",
+      "type": "service",
+      "description": "Global unsecured commercial paper program of $2.0 billion denominated in U.S. dollars, Euro and other currencies."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Klépierre SA",
+      "partnership_type": "strategic",
+      "description": "Simon owns a 22.2% equity stake in this Paris-based publicly traded REIT owning shopping centers in 13 European countries.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Jamestown",
+      "partnership_type": "strategic",
+      "description": "Simon holds an investment interest in Jamestown, a global real estate investment and management company.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Rue Gilt Groupe (RGG)",
+      "partnership_type": "strategic",
+      "description": "Simon holds an interest in this e-commerce venture operating shop.simon.com.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Catalyst Brands LLC",
+      "partnership_type": "strategic",
+      "description": "Simon holds an interest in Catalyst Brands LLC, a retail operations investment.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SPG/profile",
+  "origin": {
+    "leaf": "d71e5c2b94dae748178cee315036f8bcdcece122fb50834f12c52e927b581e42",
+    "parent": "7c309330faaccb8023f6485bed5a6b5918ad1602a954dbe5b8a6b628bb050799",
+    "timestamp": "2026-04-12T03:12:54.771Z",
+    "source": "profile:0001063761",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d71e5c2b94dae748178cee315036f8bcdcece122fb50834f12c52e927b581e42",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.771Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

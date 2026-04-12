@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RLGT",
+  "name": "RADIANT LOGISTICS, INC",
+  "cik": "0001171155",
+  "summary": "Radiant Logistics, Inc. is a non-asset-based third-party logistics company providing technology-enabled global transportation and value-added logistics services primarily in the United States and Canada. Services include domestic and international freight forwarding, freight brokerage (air, ocean, truckload, LTL, intermodal), materials management and distribution, customs house brokerage, and global trade management. The company operates through a multi-brand network of over 100 locations, including independent strategic operating partners and approximately 30 company-owned locations.",
+  "products": [
+    {
+      "name": "Freight Forwarding",
+      "type": "service",
+      "description": "Domestic and international air, ocean, truckload, LTL, and intermodal freight forwarding services."
+    },
+    {
+      "name": "Freight Brokerage",
+      "type": "service",
+      "description": "Arranging shipments on behalf of customers across multiple transportation modes."
+    },
+    {
+      "name": "Materials Management and Distribution (MM&D)",
+      "type": "service",
+      "description": "Value-added logistics including materials management and distribution services."
+    },
+    {
+      "name": "Customs House Brokerage (CHB)",
+      "type": "service",
+      "description": "Customs house brokerage services to complement core transportation offerings."
+    },
+    {
+      "name": "Global Trade Management (GTM)",
+      "type": "platform",
+      "description": "Proprietary platform providing purchase order, vendor management, and SKU-level visibility tools."
+    },
+    {
+      "name": "Transportation Management System",
+      "type": "platform",
+      "description": "Centralized system for rating, routing, tender, and financial settlement across the network."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Strategic Operating Partners",
+      "partnership_type": "strategic",
+      "description": "Independent agents operating exclusively on the Company's behalf across the logistics network.",
+      "start_date": null
+    },
+    {
+      "partner_name": "International service partner network",
+      "partnership_type": "strategic",
+      "description": "Integrated international service partners located in key markets around the globe.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RLGT/profile",
+  "origin": {
+    "leaf": "5048b94b61cb1dd09677462d77b3248cb37427f3c69ae5a46c304699b7f21fc1",
+    "parent": "89bc21b7fc7926c42147a7f03c714af629427e716dcd23319fa3e5373d4c14c3",
+    "timestamp": "2026-04-12T03:12:56.663Z",
+    "source": "profile:0001171155",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5048b94b61cb1dd09677462d77b3248cb37427f3c69ae5a46c304699b7f21fc1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.663Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

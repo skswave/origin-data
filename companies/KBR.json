@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "KBR",
+  "name": "KBR, INC.",
+  "cik": "0001357615",
+  "exchange": "NYSE",
+  "sic": "1600",
+  "sic_description": "Heavy Construction Other Than Bldg Const - Contractors",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0102",
+  "summary": "PART I Company Overview KBR, Inc., a Delaware corporation (\"KBR\" or, the \"Company\"), delivers science, technology, engineering and logistics support solutions to the U.S. federal government, allied nations and commercial clients around the world . Drawing from its culture of innovation and mission focus, KBR creates sustainable value by combining deep domain expertise with its full-life cycle capabilities to help clients meet their most pressing challenges. Our capabilities and offerings include...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/KBR",
+  "origin": {
+    "leaf": "ef3db94b4e7fb08ee2ab390653650fc4e274fcb2b66853fd44cd77843ef9d913",
+    "parent": "a658423a829d12aa6fd82cbbbe7381f92cd1fa0ded76def9cfca704402f0d007",
+    "timestamp": "2026-04-12T03:12:50.655Z",
+    "source": "0001357615-26-000051",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ef3db94b4e7fb08ee2ab390653650fc4e274fcb2b66853fd44cd77843ef9d913",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.655Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

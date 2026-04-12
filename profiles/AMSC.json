@@ -1,0 +1,86 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AMSC",
+  "name": "AMERICAN SUPERCONDUCTOR CORP /DE/",
+  "cik": "0000880807",
+  "summary": "American Superconductor Corporation (AMSC), founded in 1987, provides megawatt-scale power resiliency solutions for electric grids, naval fleets, and wind power markets. Key products include HTS superconductor wire (Amperium), D-VAR voltage control systems, PowerModule power converters, degaussing ship protection systems, and wind turbine electrical control systems. AMSC serves utilities, industrial manufacturers, semiconductor fabs, and the U.S. and Royal Canadian Navies, with an estimated $9 billion total addressable market.",
+  "products": [
+    {
+      "name": "Amperium HTS Wire",
+      "type": "hardware",
+      "description": "High-temperature superconductor wire made from YBCO compound, conducting more electricity than copper with minimal power loss."
+    },
+    {
+      "name": "PowerModule Power Converters",
+      "type": "hardware",
+      "description": "Proprietary software and hardware power converters used in grid interconnection, voltage control, and wind turbine electrical control systems."
+    },
+    {
+      "name": "D-VAR Grid Interconnection System",
+      "type": "hardware",
+      "description": "Dynamic voltage management solution enabling wind farms and solar plants to meet utility grid code requirements."
+    },
+    {
+      "name": "Ship Protection Systems (SPS)",
+      "type": "hardware",
+      "description": "Advanced degaussing systems using HTS cable coils to reduce naval ships' magnetic signatures for mine protection."
+    },
+    {
+      "name": "Sag Mitigation Systems",
+      "type": "hardware",
+      "description": "Substation-level power conditioning systems protecting semiconductor fabrication plants from voltage sags and swells in sub-cycle timeframes."
+    },
+    {
+      "name": "Wind Turbine Electrical Control Systems",
+      "type": "hardware",
+      "description": "Power electronics and control systems for wind turbines controlling voltage, current, frequency, pitch, and yaw."
+    },
+    {
+      "name": "Voltage Compensators and Harmonic Filters",
+      "type": "hardware",
+      "description": "Power quality solutions for industrial customers including capacitors, transformers, and rectifiers for energy-intensive factories."
+    },
+    {
+      "name": "Transmission Planning Services",
+      "type": "service",
+      "description": "Grid planning services identifying power congestion, poor power quality, and network performance improvement opportunities."
+    },
+    {
+      "name": "Wind Turbine Designs (Licensing)",
+      "type": "platform",
+      "description": "Licensed highly engineered wind turbine designs covering drive trains and power ratings of 2 MW and higher."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "U.S. Navy",
+      "partnership_type": "strategic",
+      "description": "Supplier of advanced degaussing ship protection systems to upgrade in-board power systems and fleet electrification.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Royal Canadian Navy",
+      "partnership_type": "strategic",
+      "description": "Supplier of advanced degaussing systems to reduce naval ships' magnetic signatures for mine protection.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AMSC/profile",
+  "origin": {
+    "leaf": "46b2010b06a0f361899ffac70bceb81989246a25cbfc1d9d2cf4c66b32158e71",
+    "parent": "5cc0f7897eaa7bed7458dffe63645218a00ab3b9be81485ac3058e015c95c235",
+    "timestamp": "2026-04-12T03:12:55.770Z",
+    "source": "profile:0000880807",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/46b2010b06a0f361899ffac70bceb81989246a25cbfc1d9d2cf4c66b32158e71",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.770Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

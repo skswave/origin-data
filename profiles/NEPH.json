@@ -1,0 +1,61 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NEPH",
+  "name": "NEPHROS INC",
+  "cik": "0001196298",
+  "summary": "Nephros Inc. is a commercial-stage company that develops and markets high-performance point-of-use water filtration solutions with a core focus on medical-grade water filtration. Products include FDA 510(k)-cleared ultrafilters (0.005 micron) and microfilters (0.1 micron) for infection control and dialysis, as well as commercial filters addressing taste, odor, lead, scale, cysts, and Total PFAS reduction. Nephros serves hospitals, dialysis centers, foodservice, laboratories, manufacturing, aviation, and government facilities through direct sales and value-added reseller channels.",
+  "products": [
+    {
+      "name": "Ultrafilters (0.005 micron)",
+      "type": "hardware",
+      "description": "FDA 510(k)-cleared Class II medical devices retaining bacteria, viruses, and endotoxins for infection control and dialysis water purification."
+    },
+    {
+      "name": "Microfilters (0.1 micron)",
+      "type": "hardware",
+      "description": "FDA 510(k)-cleared Class II medical devices retaining bacteria including Legionella for infection control in healthcare settings."
+    },
+    {
+      "name": "Commercial Water Filters",
+      "type": "hardware",
+      "description": "Carbon-based and carbon-free filters reducing taste, odor, scale, particulate, lead, cysts, and Total PFAS from water systems."
+    },
+    {
+      "name": "Total PFAS Reduction Filter",
+      "type": "hardware",
+      "description": "Newly released filter validated for reduction of seven PFAS compounds including PFOA, PFOS, PFHxS, PFNA, PFHpA, PFBS, and PFDA."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Value-Added Resellers (VARs)",
+      "partnership_type": "strategic",
+      "description": "Non-exclusive distributors selling both medical and commercial Nephros filters across healthcare and various commercial/industrial sectors.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Foodservice and Hospitality VAR",
+      "partnership_type": "strategic",
+      "description": "One non-exclusive VAR partner focused solely on food service and hospitality sectors including QSRs, convenience stores, and restaurants.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NEPH/profile",
+  "origin": {
+    "leaf": "afb465471a7da40eabb17e43cc1bdc94616361c2ba17dbd366624ff11bbcc9df",
+    "parent": "6468a880a7290b04998af9fbab7358aa8866e5594778d3efba668365924fa4d8",
+    "timestamp": "2026-04-12T03:12:58.030Z",
+    "source": "profile:0001196298",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/afb465471a7da40eabb17e43cc1bdc94616361c2ba17dbd366624ff11bbcc9df",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.030Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

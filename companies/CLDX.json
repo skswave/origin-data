@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CLDX",
+  "name": "Celldex Therapeutics, Inc.",
+  "cik": "0000744218",
+  "exchange": "Nasdaq",
+  "sic": "2835",
+  "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Celldex Therapeutics, Inc. is a biopharmaceutical company focused on mast cell biology, developing therapeutic monoclonal and bispecific antibodies for severe inflammatory, allergic, and autoimmune diseases. Its lead candidate, Barzolvolimab (CDX-0159), a KIT receptor inhibitor, is in Phase 3 trials for Chronic Spontaneous Urticaria and Phase 2 trials for Prurigo Nodularis and Atopic Dermatitis. Its bispecific pipeline includes CDX-622, targeting TSLP and SCF for inflammatory diseases.",
+  "tags": [
+    "chronic-spontaneous-urticaria",
+    "chronic-inducible-urticaria",
+    "prurigo-nodularis",
+    "atopic-dermatitis",
+    "inflammatory-and-autoimmune-diseases",
+    "allergic-diseases"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CLDX",
+  "origin": {
+    "leaf": "7c3d190e31d4216061500d7006daa53d452dbae94ddab9cb855fc3b3dd29726e",
+    "parent": "85536effc95609cdf4cb29f4db5ef2eed5d2f0e2f6b57967b8bf4f7d06e75798",
+    "timestamp": "2026-04-12T03:12:50.874Z",
+    "source": "0001104659-26-019652",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7c3d190e31d4216061500d7006daa53d452dbae94ddab9cb855fc3b3dd29726e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.874Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

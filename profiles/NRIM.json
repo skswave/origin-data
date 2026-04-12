@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NRIM",
+  "name": "NORTHRIM BANCORP INC",
+  "cik": "0001163370",
+  "summary": "Northrim BanCorp Inc. is an Alaska-based bank holding company operating through its banking subsidiary. The company provides commercial and retail banking services, including loans, deposits, and asset-based lending, primarily serving individuals and businesses in Alaska. Its operations focus on the local Alaskan economy, with emphasis on maintaining market share and net interest margin in the regional banking sector.",
+  "products": [
+    {
+      "name": "Commercial Banking",
+      "type": "service",
+      "description": "Commercial loans and deposit products for businesses in Alaska"
+    },
+    {
+      "name": "Retail Banking",
+      "type": "service",
+      "description": "Consumer banking products including deposits and loans for individuals"
+    },
+    {
+      "name": "Asset-Based Lending",
+      "type": "service",
+      "description": "Lending solutions secured by business assets for commercial clients"
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NRIM/profile",
+  "origin": {
+    "leaf": "8763af091d29268d726f51ae1f739ace64a1ced0e6716dd815826caba50197dc",
+    "parent": "772abcb98d5739bc891f3a20a849876bc04cc37a2a1c03038fe5c28f44215806",
+    "timestamp": "2026-04-12T03:12:56.357Z",
+    "source": "profile:0001163370",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8763af091d29268d726f51ae1f739ace64a1ced0e6716dd815826caba50197dc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.357Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

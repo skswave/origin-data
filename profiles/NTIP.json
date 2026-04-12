@@ -1,0 +1,131 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NTIP",
+  "name": "NETWORK-1 TECHNOLOGIES, INC.",
+  "cik": "0001065078",
+  "summary": "Network-1 Technologies, Inc. is an intellectual property development, licensing, and protection company. It owns 119 U.S. patents and 15 foreign patents across portfolios including M2M/IoT (eSIM authentication), HFT (high frequency trading latency), Cox (media content identification), Smart Home (IoT interoperability), Remote Power (Power over Ethernet), and Mirror Worlds (unified search/indexing). The company monetizes these patents through licensing and litigation. It also holds a $7,000,000 investment in ILiAD Biotechnologies, a clinical-stage biotech company.",
+  "products": [
+    {
+      "name": "M2M/IoT Patent Portfolio",
+      "type": "platform",
+      "description": "45 issued U.S. patents covering eSIM authentication technology for IoT, Machine-to-Machine, mobile devices, and automobiles; acquired December 2017."
+    },
+    {
+      "name": "HFT Patent Portfolio",
+      "type": "platform",
+      "description": "11 issued U.S. patents covering advanced high frequency trading technologies addressing speed and latency problems in trading systems; acquired March 2022."
+    },
+    {
+      "name": "Cox Patent Portfolio",
+      "type": "platform",
+      "description": "39 U.S. patents (all expired) covering enabling technology for identifying media content on the Internet and taking further actions based on identification."
+    },
+    {
+      "name": "Smart Home Patent Portfolio",
+      "type": "platform",
+      "description": "9 issued U.S. patents covering enabling technology to support interoperability of smart home IoT devices; acquired March 2025."
+    },
+    {
+      "name": "Remote Power Patent",
+      "type": "platform",
+      "description": "Patent covering delivery of power over Ethernet (PoE) cables for remotely powering network devices; expired, no longer being enforced."
+    },
+    {
+      "name": "Mirror Worlds Patent Portfolio",
+      "type": "platform",
+      "description": "Patents covering foundational technologies for unified search, indexing, displaying and archiving of documents; expired, no longer being monetized."
+    },
+    {
+      "name": "M2M/IoT Patent Portfolio",
+      "type": "platform",
+      "description": "45 issued U.S. patents covering eSIM authentication technology for IoT, Machine-to-Machine, mobile devices, smartphones, tablets, and automobiles."
+    },
+    {
+      "name": "HFT Patent Portfolio",
+      "type": "platform",
+      "description": "11 issued U.S. patents covering advanced high frequency trading technologies addressing speed and latency in trading systems."
+    },
+    {
+      "name": "Cox Patent Portfolio",
+      "type": "platform",
+      "description": "39 U.S. patents (all expired) covering enabling technology for identifying media content on the Internet and performing further actions."
+    },
+    {
+      "name": "Smart Home Patent Portfolio",
+      "type": "platform",
+      "description": "9 issued U.S. patents relating to enabling technology supporting interoperability of smart home IoT devices, acquired March 2025."
+    },
+    {
+      "name": "Remote Power Patent",
+      "type": "platform",
+      "description": "Patent covering delivery of power over Ethernet (PoE) cables for remotely powering network devices; expired and no longer enforced."
+    },
+    {
+      "name": "Mirror Worlds Patent Portfolio",
+      "type": "platform",
+      "description": "Patents covering foundational technologies enabling unified search, indexing, displaying, and archiving of documents; expired and no longer enforced."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "M2M and IoT Technologies, LLC",
+      "partnership_type": "licensing",
+      "description": "Seller of M2M/IoT Patent Portfolio; entitled to 14% of first $100M and 5% of net proceeds above $100M from monetization activities.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ILiAD Biotechnologies, Inc.",
+      "partnership_type": "strategic",
+      "description": "Network-1 invested $7,000,000, owning approximately 6.4% on non-fully diluted basis as of December 31, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Dr. Ingemar Cox",
+      "partnership_type": "licensing",
+      "description": "Seller of Cox Patent Portfolio; provides consulting services and is entitled to 12.5% of net proceeds from licensing, sale or enforcement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "M2M and IoT Technologies, LLC",
+      "partnership_type": "licensing",
+      "description": "Seller of M2M/IoT Patent Portfolio; entitled to 14% of first $100M and 5% of net proceeds above $100M from monetization activities.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ILiAD Biotechnologies, Inc.",
+      "partnership_type": "strategic",
+      "description": "Network-1 invested $7,000,000 in ILiAD, owning approximately 6.4% on a non-fully diluted basis as of December 31, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Dr. Ingemar Cox",
+      "partnership_type": "licensing",
+      "description": "Seller of Cox Patent Portfolio; provides consulting services and is entitled to 12.5% of net proceeds from licensing, sale, or enforcement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "John Nix / Vobal Technologies, LLC",
+      "partnership_type": "development",
+      "description": "Managing Member of M2M; provides consulting services regarding the M2M/IoT Patent Portfolio.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NTIP/profile",
+  "origin": {
+    "leaf": "8fef0727f54afde63095d513494657dea44ebc29436077ce5fe53603174b09b7",
+    "parent": "9d2034fb3e4145603280d6d46c4ee3f8a40566f301da55000f2d610e4a5a9110",
+    "timestamp": "2026-04-12T03:12:58.019Z",
+    "source": "profile:0001065078",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8fef0727f54afde63095d513494657dea44ebc29436077ce5fe53603174b09b7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.019Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

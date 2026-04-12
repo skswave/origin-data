@@ -1,0 +1,61 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MCRI",
+  "name": "MONARCH CASINO & RESORT INC",
+  "cik": "0000907242",
+  "summary": "Monarch Casino & Resort Inc. owns and operates two hotel-casino properties: Atlantis Casino Resort Spa in Reno, Nevada, featuring ~61,000 sq ft of casino space, 817 hotel rooms, eight restaurants, and a spa; and Monarch Casino Resort Spa Black Hawk in Black Hawk, Colorado, featuring ~60,000 sq ft of casino space, 516 hotel rooms, four restaurants, and a spa. Revenue is generated through casino gaming, hotel, food and beverage, and spa operations.",
+  "products": [
+    {
+      "name": "Atlantis Casino Resort Spa",
+      "type": "service",
+      "description": "Hotel and casino in Reno, NV with ~61,000 sq ft casino, 817 rooms, 8 restaurants, spa, and convention space."
+    },
+    {
+      "name": "Monarch Casino Resort Spa Black Hawk",
+      "type": "service",
+      "description": "Hotel and casino in Black Hawk, CO with ~60,000 sq ft casino, 516 rooms, 4 restaurants, and spa."
+    },
+    {
+      "name": "Atlantis Mobile Race and Sports Betting App",
+      "type": "platform",
+      "description": "Mobile sports and race betting app available to patrons physically located in Nevada."
+    },
+    {
+      "name": "Monarch Black Hawk Mobile Sports Betting App",
+      "type": "platform",
+      "description": "Mobile sports betting app available to patrons physically located in Colorado."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Biggest Little Investments, L.P.",
+      "partnership_type": "strategic",
+      "description": "20-year parking lot lease for ~4.2 acres adjacent to Atlantis property, providing ~300 additional parking spaces for guests.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Reno-Sparks Convention Center",
+      "partnership_type": "strategic",
+      "description": "Atlantis is the only hotel physically connected to the Reno-Sparks Convention Center via an enclosed skywalk.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MCRI/profile",
+  "origin": {
+    "leaf": "cdad321da8ac24dca544e70460c266a77c0af76680b0d60e040b54989b2d036c",
+    "parent": "393070d947579e15d3c6f6ffba194942de56b820ea16b53b1f62f82993b551f3",
+    "timestamp": "2026-04-12T03:12:55.740Z",
+    "source": "profile:0000907242",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cdad321da8ac24dca544e70460c266a77c0af76680b0d60e040b54989b2d036c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.740Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

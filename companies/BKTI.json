@@ -1,0 +1,59 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BKTI",
+  "name": "BK Technologies Corp",
+  "cik": "0000002186",
+  "exchange": "NYSE",
+  "sic": "3663",
+  "sic_description": "Radio & Tv Broadcasting & Communications Equipment",
+  "state_of_incorporation": "NV",
+  "headquarters": "West Melbourne, Florida",
+  "founded": "1997",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "BK Technologies Corporation (BKTI) is a holding company that, through its operating subsidiary BK Technologies, Inc., designs, manufactures, and markets public safety communications products. Its Radio product group offers P25-compliant two-way land mobile radios (portable and mobile) for government, public safety, and military customers. Its Solutions product group offers BKONE-branded smartphone applications operating over public cellular networks to enhance situational awareness and coordination for first responders.",
+  "tags": [
+    "public-safety-(police,-fire,-ems)",
+    "federal-government-agencies",
+    "state-and-municipal-government-agencies",
+    "homeland-security",
+    "military",
+    "industrial-and-commercial-enterprises",
+    "project-25-(p25)",
+    "dhs-p25-compliance-assessment-program-(cap)",
+    "vhf-(136mhz---174mhz)",
+    "uhf-(380mhz---470mhz,-450mhz---520mhz)",
+    "700-800-mhz",
+    "lte",
+    "5g",
+    "digital-mobile-radio-(dmr)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BKTI",
+  "origin": {
+    "leaf": "20e9fd44fc10811ad476dc238f5fc1170188d9ffd6c4000e14ae959e7c4a7a0d",
+    "parent": "c9b6ae178930a2858d10e3b1372fbce8e69a540621f9f7ef28205edeb174fe9f",
+    "timestamp": "2026-04-12T03:12:51.741Z",
+    "source": "0001437749-26-007826",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/20e9fd44fc10811ad476dc238f5fc1170188d9ffd6c4000e14ae959e7c4a7a0d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.741Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MRTN",
+  "name": "MARTEN TRANSPORT LTD",
+  "cik": "0000799167",
+  "summary": "Marten Transport, Ltd. is a temperature-sensitive and dry truckload carrier specializing in transporting food and consumer packaged goods requiring temperature-controlled or insulated environments. Operating five business platforms—Truckload, Dedicated, Brokerage, MRTN de Mexico, and formerly Intermodal—the company generated $883.7 million in 2025 operating revenue. It operates throughout the United States and parts of Mexico and Canada with a fleet of 2,654 company and independent contractor tractors.",
+  "products": [
+    {
+      "name": "Truckload",
+      "type": "service",
+      "description": "Regional short-haul and medium-to-long-haul full-load temperature-controlled and dry freight transportation across the US and into Mexico and Canada."
+    },
+    {
+      "name": "Dedicated",
+      "type": "service",
+      "description": "Customized transportation solutions using temperature-controlled trailers, dry vans, and specialized equipment within the United States under multi-year contracts."
+    },
+    {
+      "name": "Brokerage",
+      "type": "service",
+      "description": "Arranges third-party carriers for freight in temperature-controlled and dry vans within the US and into Mexico via Marten Transport Logistics, LLC."
+    },
+    {
+      "name": "MRTN de Mexico",
+      "type": "service",
+      "description": "Door-to-door service between the United States and Mexico using Mexican partner carriers, reported within Truckload and Brokerage segments."
+    },
+    {
+      "name": "Intermodal",
+      "type": "service",
+      "description": "Transported freight using refrigerated containers on railroad flatcars; operations sold effective September 30, 2025."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Mexican partner carriers",
+      "partnership_type": "strategic",
+      "description": "MRTN de Mexico partners with Mexican carriers to provide door-to-door service between the United States and Mexico.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MRTN/profile",
+  "origin": {
+    "leaf": "aedd9c2461d06d8924aa36a668c8d4dcc5e2f96a63df38aa8212ad08fde9f207",
+    "parent": "48df0c6926b30fc1f773a9544bb71466cac55d30e533d2e0f60e838e4330a8e7",
+    "timestamp": "2026-04-12T03:12:55.969Z",
+    "source": "profile:0000799167",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/aedd9c2461d06d8924aa36a668c8d4dcc5e2f96a63df38aa8212ad08fde9f207",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.969Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

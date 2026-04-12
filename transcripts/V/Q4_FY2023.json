@@ -1,0 +1,122 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "V",
+  "company": "VISA INC.",
+  "title": "V Q4 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 5437,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "V EPS",
+      "predicate": "reported",
+      "object": "$2.27",
+      "value": 2.27,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "V",
+      "predicate": "guided",
+      "object": "outlook for annual operating expense growth and annual diluted Class A common stock earnings per share growth reflect adjustments for the amortization of acquired intangible assets of approximately $1",
+      "value": 150,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "V",
+      "predicate": "stated",
+      "object": "we believe are not representative of our continuing operations, as they may be non-recurring or have no cash impact, and may distort our longer-term operating t",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "V",
+      "predicate": "stated",
+      "object": "We believe presenting these metrics provides investors and management with additional insight into our expected operating performance for fiscal full-year 2024",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "V",
+      "predicate": "stated",
+      "object": "We believe that economies that include everyone everywhere, uplift everyone everywhere and see access as foundational to the future of money movement",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/V/transcripts",
+  "origin": {
+    "leaf": "5733d0db48870e82ddeb3b37b14d3847dd8f3bd5e44a7a101a218d3485446957",
+    "parent": "60deb6b627c7e867a7ce16b22daad3551cc39fa452fd2626b56b7c56fcacef93f68f616ce5ec60debdecf0b4a64e2251",
+    "timestamp": "2026-04-12T03:13:01.275Z",
+    "source": "transcript:V_Q4-2023-Earnings-Release-FINAL.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5733d0db48870e82ddeb3b37b14d3847dd8f3bd5e44a7a101a218d3485446957",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.275Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

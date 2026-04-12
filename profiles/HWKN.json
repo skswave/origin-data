@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HWKN",
+  "name": "HAWKINS INC",
+  "cik": "0000046250",
+  "summary": "Hawkins Inc. is a leading water treatment and specialty ingredients company that formulates, manufactures, distributes, and blends products across three segments: Water Treatment, Industrial, and Health and Nutrition. Products include sodium hypochlorite, acids, alkalis, food and pharmaceutical-grade salts, liquid phosphates, lactates, and nutraceutical ingredients such as minerals, vitamins, amino acids, and botanicals. The company serves municipalities, industrial processors, and health product manufacturers, operating out of 50+ warehouses primarily in the United States.",
+  "products": [
+    {
+      "name": "Sodium Hypochlorite (Bleach)",
+      "type": "hardware",
+      "description": "Manufactured chemical used in water treatment and industrial applications."
+    },
+    {
+      "name": "Liquid Phosphates and Lactates",
+      "type": "hardware",
+      "description": "Food and pharmaceutical-grade blended products manufactured by the Industrial Group."
+    },
+    {
+      "name": "Caustic Soda, Sulfuric Acid, Hydrochloric Acid",
+      "type": "hardware",
+      "description": "Bulk industrial chemicals received, stored, and distributed to industrial customers."
+    },
+    {
+      "name": "Agricultural Products",
+      "type": "hardware",
+      "description": "Chemicals including urea, aqua ammonia, and potassium hydroxide sold seasonally for agriculture."
+    },
+    {
+      "name": "Nutraceutical Ingredients",
+      "type": "hardware",
+      "description": "Minerals, vitamins, amino acids, botanicals, sweeteners, and enzymes for health and nutrition manufacturers."
+    },
+    {
+      "name": "Water Treatment Chemicals and Equipment",
+      "type": "service",
+      "description": "Chemicals, equipment, and services for potable water, wastewater, and pool water treatment systems."
+    },
+    {
+      "name": "Custom Chemical Blending",
+      "type": "service",
+      "description": "Custom blending of chemicals per customer formulas and specifications."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HWKN/profile",
+  "origin": {
+    "leaf": "beec21987cb63671fd42c45fc5c64e605e6311959f93d59d6fed26c57cf77578",
+    "parent": "83b268ff05181df1fa66571102d9ac825dfe5831a78a5e5d2e2af20329687c80",
+    "timestamp": "2026-04-12T03:12:55.452Z",
+    "source": "profile:0000046250",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/beec21987cb63671fd42c45fc5c64e605e6311959f93d59d6fed26c57cf77578",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.452Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

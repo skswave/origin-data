@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "KN",
+  "name": "Knowles Corp",
+  "cik": "0001587523",
+  "exchange": "NYSE",
+  "sic": "3651",
+  "sic_description": "Household Audio & Video Equipment",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Unless the context otherwise requires, references in this Annual Report on Form 10-K to Knowles, the Company, we, our, or us refer to Knowles Corporation and its consolidated subsidiaries. Our Company We are a leading manufacturer of specialty electronic components. We design parts that perform unique, critical functions for innovative technologies. Through extreme reliability, custom engineering, and scalable manufacturing, our high-performance capacitors, radio frequency (RF) filters, a...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 5200,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/KN",
+  "origin": {
+    "leaf": "5128ce88184aa0db0c50c293b0d7472da95a7b10ea948aeb4938a327751fcdf7",
+    "parent": "8b351b9fa2fe7731a8e7e7f5a60ef51676c2c59ba4db2bd101d3f6ac282e1601",
+    "timestamp": "2026-04-12T03:12:50.862Z",
+    "source": "0001587523-26-000005",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5128ce88184aa0db0c50c293b0d7472da95a7b10ea948aeb4938a327751fcdf7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.862Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

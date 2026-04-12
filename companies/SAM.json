@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SAM",
+  "name": "BOSTON BEER CO INC",
+  "cik": "0000949870",
+  "exchange": "NYSE",
+  "sic": "2082",
+  "sic_description": "Malt Beverages",
+  "state_of_incorporation": "MA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "General The Boston Beer Company, Inc. and certain subsidiaries (the Company) are engaged in the business of selling alcohol beverages throughout the United States and in selected international markets, under the trade names The Boston Beer Company, Twisted Tea Brewing Company, Hard Seltzer Beverage Company, Angry Orchard Cider Company, Dogfish Head Craft Brewery, Dogfish Head Distilling Co., Angel City Brewing Company, Coney Island Brewing Company, \"Green Rebel Brewing Co.\", TeaPot Worldwide, Su...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SAM",
+  "origin": {
+    "leaf": "586238fd9a79ab9cb53f2ac95b23d3cdab19d1658317e493ab5ececb2b313b25",
+    "parent": "1a0240b1880101af41db2dc4e1d0d1ba5c6daada687a6c33d2683e556198caf9",
+    "timestamp": "2026-04-12T03:12:50.833Z",
+    "source": "0001193125-26-067467",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/586238fd9a79ab9cb53f2ac95b23d3cdab19d1658317e493ab5ececb2b313b25",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.833Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

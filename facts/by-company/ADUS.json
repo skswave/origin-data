@@ -1,0 +1,136 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "ADUS",
+  "total_facts": 9,
+  "by_type": {
+    "topic_mention": 9
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADUS",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 41,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADUS",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 41,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADUS",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 40,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADUS",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.86,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADUS",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADUS",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADUS",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADUS",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADUS",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ADUS/transcripts",
+  "origin": {
+    "leaf": "7931e824eab639c15fbc2b78fb60f0ba7159a77a661abfcf5ee71f1141f506c9",
+    "parent": "a334ff80e36a7081d37825655eccf47a30d0d48e80ffec841eba34449ab487ba",
+    "timestamp": "2026-04-12T03:13:51.476Z",
+    "source": "facts:ADUS",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7931e824eab639c15fbc2b78fb60f0ba7159a77a661abfcf5ee71f1141f506c9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:51.476Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

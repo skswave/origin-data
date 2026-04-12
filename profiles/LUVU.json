@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LUVU",
+  "name": "Luvu Brands, Inc.",
+  "cik": "0001374567",
+  "summary": "Luvu Brands, Inc. designs, manufactures, and markets consumer lifestyle products under three brands: Liberator (sexual wellness and intimacy products), Jaxx (casual fashion daybeds, sofas, and beanbags made from polyurethane foam), and Avana (yoga, sleep comfort, and inclined bed therapy products). Operating from a 140,000-square-foot vertically integrated facility in Atlanta, Georgia, the company sells through its own e-commerce websites, online mass merchants, and specialty retail stores worldwide.",
+  "products": [
+    {
+      "name": "Liberator Bedroom Adventure Gear",
+      "type": "hardware",
+      "description": "Patented foam-based shapes and props designed to enhance sexual positioning and intimacy, available in various fabrics and colors."
+    },
+    {
+      "name": "Jaxx",
+      "type": "hardware",
+      "description": "Casual fashion daybeds, sofas, and beanbags made from virgin and repurposed polyurethane foam."
+    },
+    {
+      "name": "Avana",
+      "type": "hardware",
+      "description": "Products for yoga exercises, sleep comfort, and inclined bed therapy."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Contract sewing facility in Mexico",
+      "partnership_type": "OEM",
+      "description": "Outsourced sewing of certain high-volume products to a contract sewing facility in Mexico.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LUVU/profile",
+  "origin": {
+    "leaf": "264cc7c37846c13906b435371b6be23acdb088db37712f0054d78d046058a9cd",
+    "parent": "230f4b708a325d872981138dee7b8d911543e9979b63ee0cb0c3b9095216b19f",
+    "timestamp": "2026-04-12T03:12:59.027Z",
+    "source": "profile:0001374567",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/264cc7c37846c13906b435371b6be23acdb088db37712f0054d78d046058a9cd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.027Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

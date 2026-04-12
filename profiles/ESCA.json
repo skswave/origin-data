@@ -1,0 +1,95 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ESCA",
+  "name": "ESCALADE INC",
+  "cik": "0000033488",
+  "summary": "Escalade, Incorporated (ESCA) operates in one segment: Sporting Goods (Escalade Sports), headquartered in Evansville, Indiana. The company manufactures, imports, and distributes sporting goods including basketball goals, archery equipment, table tennis tables, pickleball gear, billiard tables, fitness products, outdoor games, and water sports products. Brands include Goalrilla, Bear Archery, Gold Tip, STIGA, Ping-Pong, Onix, and Brunswick Billiards, sold through major retailers, specialty dealers, and direct-to-consumer e-commerce channels.",
+  "products": [
+    {
+      "name": "Basketball Goals",
+      "type": "hardware",
+      "description": "Residential and commercial basketball systems under Goalrilla, Goalsetter, Goaliath, Silverback, and Hoopstar brands."
+    },
+    {
+      "name": "Archery Equipment",
+      "type": "hardware",
+      "description": "Bows and archery accessories under Bear Archery, Trophy Ridge, Gold Tip, Bee Stinger, Cajun Bowfishing, SIK, and BearX brands."
+    },
+    {
+      "name": "Table Tennis Tables",
+      "type": "hardware",
+      "description": "Table tennis tables and accessories under STIGA and Ping-Pong brands."
+    },
+    {
+      "name": "Pickleball Products",
+      "type": "hardware",
+      "description": "Pickleball equipment under Onix and DURA brands."
+    },
+    {
+      "name": "Billiard Tables and Accessories",
+      "type": "hardware",
+      "description": "Billiard tables and accessories under Brunswick Billiards, American Heritage Billiards, Mizerak, Minnesota Fats, and other brands."
+    },
+    {
+      "name": "Fitness Products",
+      "type": "hardware",
+      "description": "Home fitness equipment under The STEP, Lifeline, Kettleworx, Natural Fitness, PER4M, USW, adidasFitness brands."
+    },
+    {
+      "name": "Game Tables",
+      "type": "hardware",
+      "description": "Hockey and soccer game tables under Triumph, Atomic, American Legend, HJ Scott, and Air-Hockey brands."
+    },
+    {
+      "name": "Play Systems",
+      "type": "hardware",
+      "description": "Residential playground systems under Woodplay and Jack & June brands."
+    },
+    {
+      "name": "Outdoor Games",
+      "type": "hardware",
+      "description": "Outdoor and tailgating games under Victory Tailgate, Triumph, Zume Games, ACL, and AllCornhole brands."
+    },
+    {
+      "name": "Darting Products",
+      "type": "hardware",
+      "description": "Dart boards and accessories under Unicorn, Arachnid, Accudart, and DMI brands."
+    },
+    {
+      "name": "Water Sports Products",
+      "type": "hardware",
+      "description": "Water recreational products under the RAVE brand."
+    },
+    {
+      "name": "Safety/Weights",
+      "type": "hardware",
+      "description": "Filled vinyl weight products under US WEIGHT brand."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "STIGA Sports AB",
+      "partnership_type": "licensing",
+      "description": "Exclusive license to distribute and produce table tennis equipment under the STIGA brand for North America.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ESCA/profile",
+  "origin": {
+    "leaf": "dfb8e40cc4d88054fa09a0ff4fece8d2d14a7d326705658fd308a3c45ee7f67b",
+    "parent": "c81a50a3aa57b392a70c220e5613c57fd6aa00d9229420752effc7af7e223073",
+    "timestamp": "2026-04-12T03:12:56.905Z",
+    "source": "profile:0000033488",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dfb8e40cc4d88054fa09a0ff4fece8d2d14a7d326705658fd308a3c45ee7f67b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.905Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

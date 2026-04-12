@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "ECG",
+  "total_facts": 6,
+  "by_type": {
+    "topic_mention": 6
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ECG",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 17,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ECG",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ECG",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 17,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ECG",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ECG",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 17,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ECG",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ECG/transcripts",
+  "origin": {
+    "leaf": "e6f88d64ffb1302d67df7180b4367a93c4c897c0e11aa12b9571b7caa7ab8c99",
+    "parent": "cc087e90ebac30935f791bcaeeadf61a5e09722ac409ea497e076ec83d32764b",
+    "timestamp": "2026-04-12T03:13:30.322Z",
+    "source": "facts:ECG",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e6f88d64ffb1302d67df7180b4367a93c4c897c0e11aa12b9571b7caa7ab8c99",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:30.322Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

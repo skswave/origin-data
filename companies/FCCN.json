@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "FCCN",
+  "name": "SPECTRAL CAPITAL Corp",
+  "cik": "0001131903",
+  "exchange": "OTC",
+  "sic": "7374",
+  "sic_description": "Services-Computer Processing & Data Preparation",
+  "state_of_incorporation": "NV",
+  "headquarters": "Seattle, Washington",
+  "founded": "2000",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Spectral Capital Corporation is a publicly traded Nevada technology company operating as a hybrid research, intellectual property, and operating business. It owns and operates telecommunications subsidiaries 42 Telecom Ltd. and Telvantis Voice Services, Inc., which provide telecommunications infrastructure, enterprise messaging, routing, and analytics services. The company also develops proprietary software, AI, and data processing intellectual property, with over 500 patentable innovations, and pursues selective acquisitions of technology-enabled businesses.",
+  "tags": [
+    "telecommunications-and-data-infrastructure",
+    "artificial-intelligence-and-data-processing",
+    "quantum-adjacent-and-hybrid-computing",
+    "enterprise-messaging-and-routing",
+    "decentralized-cloud-computing",
+    "software-and-intellectual-property-licensing"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/FCCN",
+  "origin": {
+    "leaf": "b6427e3b915ac3fde1905a223e7555943217ceb190e7a550b347a7ec33c53686",
+    "parent": "856cfef4dd976fb132df6b1f61a1bb8b9548f560edc18b3968a9d765167522d7",
+    "timestamp": "2026-04-12T03:12:51.898Z",
+    "source": "0001096906-26-000430",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b6427e3b915ac3fde1905a223e7555943217ceb190e7a550b347a7ec33c53686",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.898Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

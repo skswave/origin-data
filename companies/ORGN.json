@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ORGN",
+  "name": "Origin Materials, Inc.",
+  "cik": "0001802457",
+  "exchange": "Nasdaq",
+  "sic": "2860",
+  "sic_description": "Industrial Organic Chemicals",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Part I Overview Origin is a technology company with a mission to enable the worlds transition to sustainable materials. Our innovations include PET closures for an estimated global closures market opportunity of greater than $65billion. Our PET closures enable fully-recyclable PET beverage containers and reduce waste through light-weighting, while providing enhanced performance such as greater oxygen and CO 2 barrier properties that can increase shelf-life. PET Closures Technology Platform Our P...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ORGN",
+  "origin": {
+    "leaf": "51287d3ec13978fcbe6ad36c102d19b33b05b544b4bc24e6867f6a651e66357b",
+    "parent": "c99b98c27d5585d8ff3dda987172da5343a00ea90e288ec8f0871d7121ebb037",
+    "timestamp": "2026-04-12T03:12:53.036Z",
+    "source": "0001802457-26-000017",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/51287d3ec13978fcbe6ad36c102d19b33b05b544b4bc24e6867f6a651e66357b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.036Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

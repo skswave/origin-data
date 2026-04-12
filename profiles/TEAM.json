@@ -1,0 +1,141 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TEAM",
+  "name": "Atlassian Corp",
+  "cik": "0001650372",
+  "summary": "Atlassian Corp develops team collaboration software enabling organizations to connect teams through a system of work. Its portfolio includes Jira, Confluence, Jira Service Management, Bitbucket, Loom, and Rovo (AI platform), all built on the Atlassian Cloud Platform. Serving over 300,000 customers worldwide, including over 80% of the Fortune 500, across 200+ countries, Atlassian targets software, IT operations, and business teams of all sizes.",
+  "products": [
+    {
+      "name": "Jira",
+      "type": "software",
+      "description": "Project and issue tracking tool for software and business teams to plan, build, and ship work."
+    },
+    {
+      "name": "Confluence",
+      "type": "platform",
+      "description": "Team knowledge and collaboration workspace for documentation and information sharing."
+    },
+    {
+      "name": "Jira Service Management",
+      "type": "software",
+      "description": "IT operations and service management tool for handling change requests and support workflows."
+    },
+    {
+      "name": "Bitbucket",
+      "type": "software",
+      "description": "Code collaboration and version control platform for software development teams."
+    },
+    {
+      "name": "Loom",
+      "type": "software",
+      "description": "Video messaging tool enabling teams to record and share meetings, turning content into notes and action items."
+    },
+    {
+      "name": "Rovo",
+      "type": "platform",
+      "description": "Advanced AI offering with enterprise search, chat, and studio for agents, automation, and app creation."
+    },
+    {
+      "name": "Rovo Enterprise Search",
+      "type": "software",
+      "description": "Delivers personalized search results across Atlassian and third-party data sources."
+    },
+    {
+      "name": "Rovo Chat",
+      "type": "software",
+      "description": "AI chat leveraging first- and third-party knowledge with integrated workflow actions."
+    },
+    {
+      "name": "Rovo Studio",
+      "type": "platform",
+      "description": "Unified app for creating AI agents, automation, and apps with or without code."
+    },
+    {
+      "name": "Forge",
+      "type": "platform",
+      "description": "Cloud app development platform enabling third-party developers to build on the Atlassian platform."
+    },
+    {
+      "name": "Atlassian Marketplace",
+      "type": "platform",
+      "description": "Ecosystem marketplace for discovering and installing third-party apps built on Atlassian platform."
+    },
+    {
+      "name": "Atlassian Cloud Platform",
+      "type": "platform",
+      "description": "Common technology foundation connecting all Atlassian apps with shared infrastructure, AI, and data model."
+    },
+    {
+      "name": "Atlassian Government Cloud",
+      "type": "platform",
+      "description": "Cloud offering designed for government customers with compliance and security requirements."
+    },
+    {
+      "name": "Atlassian Isolated Cloud",
+      "type": "platform",
+      "description": "Isolated cloud deployment option for customers with strict data residency and security needs."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Microsoft",
+      "partnership_type": "strategic",
+      "description": "Integration partner enabling Atlassian apps to interoperate with Microsoft products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Zoom",
+      "partnership_type": "strategic",
+      "description": "Integration partner for connecting Atlassian workflows with Zoom collaboration tools.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Salesforce",
+      "partnership_type": "strategic",
+      "description": "Integration partner enabling data and workflow connections between Atlassian and Salesforce.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Workday",
+      "partnership_type": "strategic",
+      "description": "Integration partner for connecting Atlassian platform with Workday enterprise applications.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Dropbox",
+      "partnership_type": "strategic",
+      "description": "Integration partner enabling interoperability between Atlassian apps and Dropbox file storage.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Slack",
+      "partnership_type": "strategic",
+      "description": "Integration partner supporting workflow actions like sending Slack messages from Atlassian tools.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Google",
+      "partnership_type": "strategic",
+      "description": "Integration partner supporting actions such as scheduling Google Calendar meetings from Atlassian tools.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TEAM/profile",
+  "origin": {
+    "leaf": "b73daf1183b2f1c9992e504bacf6c3d110ff52bf599a818b3e9019fb1b6ef36c",
+    "parent": "7095bb98d3edf2696d03a3cf8b87619fbf43b1a55904976ab7129f5816357e94",
+    "timestamp": "2026-04-12T03:12:54.923Z",
+    "source": "profile:0001650372",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b73daf1183b2f1c9992e504bacf6c3d110ff52bf599a818b3e9019fb1b6ef36c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.923Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

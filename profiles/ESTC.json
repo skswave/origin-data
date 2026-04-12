@@ -1,0 +1,79 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ESTC",
+  "name": "Elastic N.V.",
+  "cik": "0001707753",
+  "summary": "Elastic N.V. is a technology company that builds search-powered solutions. Its core products include Elasticsearch, Kibana, and the Elastic Stack, offered via self-managed subscriptions and cloud-based Elastic Cloud deployments. Elastic serves enterprise use cases including search, observability, and security analytics. The company operates globally and generates revenue primarily through subscriptions, including consumption-based arrangements for its cloud offerings.",
+  "products": [
+    {
+      "name": "Elasticsearch",
+      "type": "software",
+      "description": "Core search and analytics engine, previously offered under open source license, now under proprietary licensing."
+    },
+    {
+      "name": "Kibana",
+      "type": "software",
+      "description": "Visualization and management interface for Elasticsearch, previously open source, now under proprietary licensing."
+    },
+    {
+      "name": "Elastic Stack",
+      "type": "platform",
+      "description": "Integrated suite including Elasticsearch and Kibana for search, observability, and security use cases."
+    },
+    {
+      "name": "Elastic Cloud",
+      "type": "platform",
+      "description": "Cloud-based managed deployment of Elastic offerings, available on consumption-based and subscription arrangements."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Cloud providers",
+      "partnership_type": "strategic",
+      "description": "Cloud providers distribute and host Elastic Cloud offerings as part of go-to-market strategy.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Systems integrators",
+      "partnership_type": "strategic",
+      "description": "Systems integrators help market, sell, and distribute Elastic solutions to enterprise customers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "OEM and MSP partners",
+      "partnership_type": "OEM",
+      "description": "OEM and managed service providers embed or resell Elastic offerings within their own solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Channel and referral partners",
+      "partnership_type": "strategic",
+      "description": "Channel and referral partners support Elastic's distribution and sales efforts globally.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Technology partners",
+      "partnership_type": "strategic",
+      "description": "Technology partners integrate with Elastic products to extend solution capabilities.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ESTC/profile",
+  "origin": {
+    "leaf": "03a4f889d1cd3ec3e6ae54610127827dddee627dc853db20fbcbb810feb62327",
+    "parent": "578ac7180d25e91e896dc9f0ff54e87886b9a10b35ea989adcccdbb326c33d17",
+    "timestamp": "2026-04-12T03:12:55.261Z",
+    "source": "profile:0001707753",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/03a4f889d1cd3ec3e6ae54610127827dddee627dc853db20fbcbb810feb62327",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.261Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

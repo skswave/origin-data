@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AI",
+  "name": "C3.ai, Inc.",
+  "cik": "0001577526",
+  "summary": "C3.ai, Inc. is an Enterprise AI application software company that delivers the C3 Agentic AI Platform for developing, deploying, and operating Enterprise AI applications; C3 AI Applications, a portfolio of industry-specific Enterprise AI applications; and C3 Generative AI, a library of agentic AI applications for data retrieval, analysis, and workflow orchestration. Built on patented model-driven and agent orchestration architecture, C3 AI software enables digital transformation across industries globally.",
+  "products": [
+    {
+      "name": "C3 Agentic AI Platform",
+      "type": "platform",
+      "description": "End-to-end platform for developing, deploying, and operating Enterprise AI applications using patented model-driven architecture."
+    },
+    {
+      "name": "C3 AI Applications",
+      "type": "software",
+      "description": "Portfolio of industry-specific Enterprise AI applications enabling digital transformation of organizations globally."
+    },
+    {
+      "name": "C3 Generative AI",
+      "type": "software",
+      "description": "Library of agentic AI applications using LLMs and domain-specific agents to retrieve data, analyze information, surface insights, and orchestrate workflows."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AI/profile",
+  "origin": {
+    "leaf": "b3c9618322b2de9cb6da532252a96fb7c1a37c9cae0565b1a0f9351d52125b2f",
+    "parent": "b055cbb6258c156eb42a7b2c118d044e3a5864b27fbf5634b49d66502ec3c13d",
+    "timestamp": "2026-04-12T03:12:55.915Z",
+    "source": "profile:0001577526",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b3c9618322b2de9cb6da532252a96fb7c1a37c9cae0565b1a0f9351d52125b2f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.915Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

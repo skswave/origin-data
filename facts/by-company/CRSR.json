@@ -1,0 +1,76 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "CRSR",
+  "total_facts": 4,
+  "by_type": {
+    "topic_mention": 4
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CRSR",
+      "predicate": "discussed_in_filing",
+      "object": "Gaming",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "gaming",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CRSR",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CRSR",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CRSR",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CRSR/transcripts",
+  "origin": {
+    "leaf": "02bf61ff9f1283dbafa4bec3fa960a7f91da488a47ecd31c79423abed74645dd",
+    "parent": "47db558fb43f918001cc156d454791159a11faf61cc462bffc78d797bb6036c9",
+    "timestamp": "2026-04-12T03:14:12.403Z",
+    "source": "facts:CRSR",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/02bf61ff9f1283dbafa4bec3fa960a7f91da488a47ecd31c79423abed74645dd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:12.403Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SGRP",
+  "name": "SPAR Group, Inc.",
+  "cik": "0001004989",
+  "summary": "SPAR Group, Inc. is a merchandising and brand marketing services company providing sales-enhancing services to retailers, consumer goods manufacturers, and distributors in the U.S. and Canada. Services include new product launches, display installation, fixture assembly, shelf stocking, store renovations, grand opening preparation, and distribution center staffing. With over 50 years of experience, the company uses proprietary logistics, reporting, and communication technology to provide clients real-time store and product condition insights.",
+  "products": [
+    {
+      "name": "Merchandising Services",
+      "type": "service",
+      "description": "Shelf maintenance, display setup, product placement, inventory replenishment, and order management for retailers and manufacturers."
+    },
+    {
+      "name": "Store Renovation and Remodeling",
+      "type": "service",
+      "description": "Total store transformations, remodels, and new store grand opening preparation services."
+    },
+    {
+      "name": "Distribution Center Staffing",
+      "type": "service",
+      "description": "Services for retail and consumer goods distribution centers including put-away, picking, system testing, and peak staffing."
+    },
+    {
+      "name": "Marketing Services",
+      "type": "service",
+      "description": "Audits, sales assistance, product demos and sampling, promotions, installation and assembly services."
+    },
+    {
+      "name": "Technology Platform",
+      "type": "platform",
+      "description": "Proprietary logistics, reporting, and communication technology providing real-time store and product condition insights to clients."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SGRP/profile",
+  "origin": {
+    "leaf": "8a728a0fea1c75ef476c958189b6bfb773436fa3814b230435264d6277a66287",
+    "parent": "54e4984bff50145cce9cc7ad74e37a14d1d422fcb03eb4f29b98db0c2600bae9",
+    "timestamp": "2026-04-12T03:12:58.371Z",
+    "source": "profile:0001004989",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8a728a0fea1c75ef476c958189b6bfb773436fa3814b230435264d6277a66287",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.371Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ANDE",
+  "name": "Andersons, Inc.",
+  "cik": "0000821026",
+  "exchange": "Nasdaq",
+  "sic": "5150",
+  "sic_description": "Wholesale-Farm Product Raw Materials",
+  "state_of_incorporation": "OH",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Company Overview The Andersons, Inc. (the \"Company\") is a leading, nimble North American agriculture and renewable fuels company. Founded in Maumee, Ohio in 1947, the Company is a significant player in the North American agricultural and renewable fuels supply chains. Segment Descriptions The Company's operations are classified into two reportable business segments: Agribusiness and Renewables. Both of these segments are organized based upon the nature of products and services offered and aligns...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 2137,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ANDE",
+  "origin": {
+    "leaf": "66cfb3e0009cac510a535498f3dd529347e169692d78ccc6317854f345888bfc",
+    "parent": "0592e48744f75c8206d01a64539b074a3b86da517ad19d681f40ebdddaaa8a5c",
+    "timestamp": "2026-04-12T03:12:50.837Z",
+    "source": "0000821026-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/66cfb3e0009cac510a535498f3dd529347e169692d78ccc6317854f345888bfc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.837Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PKTX",
+  "name": "ProtoKinetix, Inc.",
+  "cik": "0001128189",
+  "summary": "ProtoKinetix, Inc. is a research and development stage biotechnology company focused on Anti-Freeze Glycoproteins (AFGPs), trademarked as AAGPs (Anti-Aging Glycoproteins). The company sponsors scientific medical research on the AAGP molecule and is pursuing commercial validation in healthcare markets, including targeted health care solutions. For fiscal year 2024, the company incurred $99,625 in R&D expenses. ProtoKinetix was originally incorporated as RJV Network, Inc. in Nevada in 1999.",
+  "products": [
+    {
+      "name": "AAGP (Anti-Aging Glycoproteins)",
+      "type": "platform",
+      "description": "Proprietary trademarked molecule derived from Anti-Freeze Glycoproteins (AFGPs) targeting healthcare applications including Type-1 Diabetes treatment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "BioKinetix Research, Incorporated",
+      "partnership_type": "licensing",
+      "description": "Assignment of license agreement for proprietary technologies related to creation and commercialization of superantibodies, entered July 2003.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PKTX/profile",
+  "origin": {
+    "leaf": "d01f43c1dca79b01c4219a9fbdbf1c0316e8b58c57309eff8b8108c5006dbef3",
+    "parent": "34d117d825e2f056bfccc9ec18123b5f0c39d47f1767eba65e66229d1a006285",
+    "timestamp": "2026-04-12T03:12:59.063Z",
+    "source": "profile:0001128189",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d01f43c1dca79b01c4219a9fbdbf1c0316e8b58c57309eff8b8108c5006dbef3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.063Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

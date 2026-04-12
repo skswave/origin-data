@@ -1,0 +1,79 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RIGL",
+  "name": "RIGEL PHARMACEUTICALS INC",
+  "cik": "0001034842",
+  "summary": "Rigel Pharmaceuticals is a biotechnology company focused on developing and commercializing novel therapies for hematologic disorders and cancer. Its FDA-approved products include TAVALISSE (fostamatinib), an oral SYK inhibitor for chronic ITP; REZLIDHIA (olutasidenib), for relapsed/refractory AML with IDH1 mutation; and GAVRETO (pralsetinib), for metastatic RET fusion-positive NSCLC and advanced thyroid cancer. Its pipeline includes R289, a dual IRAK1/4 inhibitor in Phase 1b for lower-risk MDS.",
+  "products": [
+    {
+      "name": "TAVALISSE (fostamatinib disodium hexahydrate)",
+      "type": "service",
+      "description": "Oral SYK inhibitor approved for adult patients with chronic immune thrombocytopenia (ITP) who had insufficient response to prior treatment; available in US, Europe, UK, Japan, Korea, Canada, and Israel."
+    },
+    {
+      "name": "REZLIDHIA (olutasidenib)",
+      "type": "service",
+      "description": "Oral IDH1 inhibitor approved for adult patients with relapsed or refractory AML with a susceptible IDH1 mutation; in-licensed from Forma Therapeutics (now Novo Nordisk)."
+    },
+    {
+      "name": "GAVRETO (pralsetinib)",
+      "type": "service",
+      "description": "Once-daily oral RET kinase inhibitor approved for metastatic RET fusion-positive NSCLC and advanced/metastatic RET fusion-positive thyroid cancer; acquired from Blueprint Medicines Corporation."
+    },
+    {
+      "name": "R289",
+      "type": "platform",
+      "description": "Dual IRAK1/4 inhibitor in open-label Phase 1b study for lower-risk myelodysplastic syndrome (MDS) relapsed, refractory, or resistant to prior therapies."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Forma Therapeutics (now Novo Nordisk)",
+      "partnership_type": "licensing",
+      "description": "License and transition services agreement granting Rigel exclusive worldwide rights to develop, manufacture, and commercialize olutasidenib (REZLIDHIA), entered July 2022.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Blueprint Medicines Corporation (now a Sanofi SA company)",
+      "partnership_type": "licensing",
+      "description": "Asset purchase agreement granting Rigel rights to research, develop, manufacture, and commercialize GAVRETO in the US, entered February 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "University of Texas MD Anderson Cancer Center (MDACC)",
+      "partnership_type": "strategic",
+      "description": "Strategic development collaboration to evaluate olutasidenib in other disease areas with IDH1 mutations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Collaborative Network for Neuro-Oncology Clinical Trials (CONNECT)",
+      "partnership_type": "strategic",
+      "description": "Strategic development collaboration to expand evaluation of olutasidenib in IDH1-mutant disease areas.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Eli Lilly and Company",
+      "partnership_type": "development",
+      "description": "Partner leading clinical development of Rigel's RIPK1 inhibitor program.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RIGL/profile",
+  "origin": {
+    "leaf": "dda4dc4c815e8715357f21a096f19e757dba03d510bea1991fd1b97268cd5d6d",
+    "parent": "a49d31156b5aa4af7e5af7cf6358d4d2c2d750f361c0ce1efc97d91fe4e8aa4a",
+    "timestamp": "2026-04-12T03:12:56.362Z",
+    "source": "profile:0001034842",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dda4dc4c815e8715357f21a096f19e757dba03d510bea1991fd1b97268cd5d6d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.362Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

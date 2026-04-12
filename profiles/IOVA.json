@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IOVA",
+  "name": "IOVANCE BIOTHERAPEUTICS, INC.",
+  "cik": "0001425205",
+  "summary": "Iovance Biotherapeutics is a commercial-stage biopharmaceutical company specializing in tumor infiltrating lymphocyte (TIL) cell therapies for solid tumor cancers. Its two commercial products are Amtagvi (lifileucel), the first FDA-approved one-time individualized T cell therapy for previously treated advanced melanoma, and Proleukin (aldesleukin), an IL-2 product used in the Amtagvi treatment regimen. The company conducts centralized, scalable manufacturing and has ongoing registrational trials in frontline melanoma and non-small cell lung cancer.",
+  "products": [
+    {
+      "name": "Amtagvi (lifileucel)",
+      "type": "service",
+      "description": "First FDA-approved one-time individualized TIL cell therapy for adult patients with previously treated advanced, unresectable or metastatic melanoma."
+    },
+    {
+      "name": "Proleukin (aldesleukin)",
+      "type": "service",
+      "description": "Interleukin-2 (IL-2) product used in the Amtagvi treatment regimen and other approved oncology applications; sold to U.S. and international distributors."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "National Cancer Institute (NCI)",
+      "partnership_type": "development",
+      "description": "Iovance was founded to build upon TIL cell therapy initially developed at the NCI and other academic research centers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "European Medicines Agency (EMA)",
+      "partnership_type": "strategic",
+      "description": "Working with EMA to resubmit a centralized marketing authorization application for Amtagvi in 2026 following withdrawal of initial MAA in July 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Merck (pembrolizumab)",
+      "partnership_type": "development",
+      "description": "TILVANCE-301 Phase 3 trial investigates Amtagvi in combination with pembrolizumab in frontline advanced melanoma.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IOVA/profile",
+  "origin": {
+    "leaf": "fccb0b482f2d5aa2eb76d55724bd042030fa8887aae4d2c7229ad69e0989f7e6",
+    "parent": "20aacb0bc9712090cf2c32893a761f7375aab347a9893eb4585bc346180eb46b",
+    "timestamp": "2026-04-12T03:12:55.832Z",
+    "source": "profile:0001425205",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fccb0b482f2d5aa2eb76d55724bd042030fa8887aae4d2c7229ad69e0989f7e6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.832Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

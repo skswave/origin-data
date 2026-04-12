@@ -1,0 +1,66 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PAYD",
+  "name": "PAID INC",
+  "cik": "0001017655",
+  "summary": "PAID, Inc. (PAYD) operates two main business segments: ShipTime, an online platform enabling small and medium businesses to quote, process, generate labels, track, and dispatch courier and LTL freight shipments with discounted carrier rates across North America and globally; and PAID platform products (PaidPayment, PaidWeb, PaidCart, PaidShipping) offering e-commerce website building, multi-channel sales management, payment processing, and shipping solutions. The company serves over 109,300 members and generates revenue through transactions and SaaS offerings.",
+  "products": [
+    {
+      "name": "ShipTime",
+      "type": "platform",
+      "description": "Online platform to quote, process, generate labels, track and dispatch courier and LTL freight shipments with discounted rates and multilingual customer support."
+    },
+    {
+      "name": "PaidWeb",
+      "type": "software",
+      "description": "Website builder offering templates, mobile editing, SEO tools, collaboration features, and multi-platform integration for small and medium businesses."
+    },
+    {
+      "name": "PaidCart",
+      "type": "platform",
+      "description": "Multi-channel e-commerce sales management solution with currency/language management, promotional sales, and abandoned cart recovery."
+    },
+    {
+      "name": "PaidPayments",
+      "type": "service",
+      "description": "Online payment processing platform supporting virtual terminal, invoicing, subscriptions, checkout pages, and POS in USD, CAD, and EUR."
+    },
+    {
+      "name": "PaidShipping",
+      "type": "service",
+      "description": "Shipping solution to quote, process, generate labels, dispatch and track courier and LTL shipments with multi-courier comparison and eCommerce integrations."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Associations throughout Canada",
+      "partnership_type": "strategic",
+      "description": "Long-standing partnerships with selected Canadian associations to sell ShipTime services to their members.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Embolx, Inc.",
+      "partnership_type": "strategic",
+      "description": "Secured convertible note investment of USD $1.5M (later extended with additional $500K) in this California corporation under a Securities Purchase Agreement.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PAYD/profile",
+  "origin": {
+    "leaf": "2aef84f98909b61c2801a4ff11d46728f1d4010a2eee13642067038a824cab63",
+    "parent": "bf8a798a83207de171ce59999d63a3d35d4161701724c01dc9c60d5818ee6f55",
+    "timestamp": "2026-04-12T03:12:58.252Z",
+    "source": "profile:0001017655",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2aef84f98909b61c2801a4ff11d46728f1d4010a2eee13642067038a824cab63",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.252Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

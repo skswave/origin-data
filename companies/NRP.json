@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NRP",
+  "name": "NATURAL RESOURCE PARTNERS LP",
+  "cik": "0001171486",
+  "exchange": "NYSE",
+  "sic": "1221",
+  "sic_description": "Bituminous Coal & Lignite Surface Mining",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Natural Resource Partners LP (NRP) is a master limited partnership that owns and manages a diversified portfolio of mineral properties. The company leases coal reserves to operators who mine and sell coal, generating royalty revenues. NRP also holds an interest in Sisecam Wyoming LLC, which conducts trona mining and soda ash refining operations. Its assets span coal royalties and a soda ash joint venture.",
+  "tags": [
+    "coal-royalties-and-mineral-leasing",
+    "trona-mining-and-soda-ash-production"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NRP",
+  "origin": {
+    "leaf": "1ce9cdb0ccfb1ca5255e585c0678423eae31451659409b1c800ac8a8e74ed24c",
+    "parent": "781d9abd2c45da3568cffe9aa35522025a199b6db4e40dc5d079dc86188575df",
+    "timestamp": "2026-04-12T03:12:50.954Z",
+    "source": "0001437749-26-006147",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1ce9cdb0ccfb1ca5255e585c0678423eae31451659409b1c800ac8a8e74ed24c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.954Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

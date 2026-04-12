@@ -1,0 +1,136 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "FNRN",
+  "total_facts": 9,
+  "by_type": {
+    "topic_mention": 9
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "FNRN",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 22,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FNRN",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 22,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FNRN",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 22,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FNRN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FNRN",
+      "predicate": "discussed_in_filing",
+      "object": "AI Compute",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "ai_compute",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FNRN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FNRN",
+      "predicate": "discussed_in_filing",
+      "object": "AI Compute",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "ai_compute",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FNRN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FNRN",
+      "predicate": "discussed_in_filing",
+      "object": "AI Compute",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "ai_compute",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FNRN/transcripts",
+  "origin": {
+    "leaf": "365360d9b3dd2f3b1744f633d792ded59116f6b3e68e6d82bbc95c39e324d17a",
+    "parent": "53bd4b2018fc40a7e54c5e067b59bdec0146e92485b51c4486dd861cd6c02d9c",
+    "timestamp": "2026-04-12T03:14:30.635Z",
+    "source": "facts:FNRN",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/365360d9b3dd2f3b1744f633d792ded59116f6b3e68e6d82bbc95c39e324d17a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:30.635Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

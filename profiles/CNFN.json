@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CNFN",
+  "name": "CFN Enterprises Inc.",
+  "cik": "0001352952",
+  "summary": "CFN Enterprises Inc. owns and operates CFN Media, a digital marketing agency providing compliant, turnkey ad campaigns for the cannabis, hemp, and wellness industries, and Ranco, a white label manufacturing and co-packing business. CFN Media generates revenue through ad campaigns, sponsored content, articles, videos, and podcasts. Ranco provides co-packing, white label manufacturing, 3PL logistics, custom packaging, and media services, and holds an exclusive licensing agreement for Packwoods-branded hemp and nicotine products.",
+  "products": [
+    {
+      "name": "CFN Media",
+      "type": "service",
+      "description": "Digital marketing agency offering compliant, turnkey ad campaigns, sponsored content, and investor-focused media for cannabis, hemp, and wellness industries."
+    },
+    {
+      "name": "Ranco Co-Packing",
+      "type": "service",
+      "description": "White label manufacturing, co-packing, 3PL logistics, custom packaging, and media/design services for cannabis, hemp, and wellness industries."
+    },
+    {
+      "name": "Packwoods Private Label Products",
+      "type": "service",
+      "description": "Exclusive manufacturing, packaging, and distribution of hemp-based inhalable, edible, and nicotine vaporizer products under the Packwoods brand."
+    },
+    {
+      "name": "E-commerce Network",
+      "type": "platform",
+      "description": "Launching e-commerce network focused on sale of general wellness CBD products."
+    },
+    {
+      "name": "CannabisFN.com",
+      "type": "platform",
+      "description": "Online media platform educating and informing investors interested in the cannabis industry."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "PW Industries LLC",
+      "partnership_type": "licensing",
+      "description": "Exclusive 5-year licensing agreement for manufacturing, packaging, and distribution of Packwoods-branded hemp and nicotine products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "RS Distributions LLC",
+      "partnership_type": "licensing",
+      "description": "Part of Packwoods Private Label Services and IP Licensing Agreement for Packwoods-branded products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Packaging Innovations LLC",
+      "partnership_type": "licensing",
+      "description": "Part of Packwoods Private Label Services and IP Licensing Agreement for Packwoods-branded products.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CNFN/profile",
+  "origin": {
+    "leaf": "7ce919acf984f971a996f24fbb4b741edf316173922400d42bfd169a2b0ee6c1",
+    "parent": "bfd32a145248367db5fcdca8d000d0ae01bac6e5a4ec8be45d4d64769389f011",
+    "timestamp": "2026-04-12T03:12:58.559Z",
+    "source": "profile:0001352952",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7ce919acf984f971a996f24fbb4b741edf316173922400d42bfd169a2b0ee6c1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.559Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

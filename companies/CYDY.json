@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CYDY",
+  "name": "CytoDyn Inc.",
+  "cik": "0001175680",
+  "exchange": "OTC",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": "Vancouver, Washington",
+  "founded": "2002",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0531",
+  "summary": "CytoDyn Inc. is a clinical-stage biotechnology company focused on the development and potential commercialization of leronlimab (PRO 140), a humanized monoclonal antibody targeting the CCR5 receptor. The company is studying leronlimab for solid-tumor oncology indications, including microsatellite stable metastatic colorectal cancer and metastatic Triple-Negative Breast Cancer, and is also researching a long-acting version of leronlimab.",
+  "tags": [
+    "solid-tumor-oncology",
+    "metastatic-colorectal-cancer",
+    "metastatic-triple-negative-breast-cancer",
+    "clinical-stage-biotechnology"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CYDY",
+  "origin": {
+    "leaf": "4fc6b2f480ad17042fa592cb46b36bea8eb79c7cd0de0aba1b20d49a974a700b",
+    "parent": "0ec5de8d9ed9df9d74f28f01205bc66e98ea4dee911089f30a72922c23639e73",
+    "timestamp": "2026-04-12T03:12:51.573Z",
+    "source": "0001558370-25-009617",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4fc6b2f480ad17042fa592cb46b36bea8eb79c7cd0de0aba1b20d49a974a700b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.573Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

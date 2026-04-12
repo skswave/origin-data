@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ASNS",
+  "name": "ACTELIS NETWORKS INC",
+  "cik": "0001141284",
+  "summary": "Actelis Networks, Inc. is a provider of cyber-hardened, rapid-deployment networking solutions for wide-area IoT, federal, military, state and local government, and intelligent traffic systems (ITS) markets. The company offers hybrid fiber-copper aggregation switches, high-density Ethernet devices, advanced network management software, and AI-based cyber monitoring via its MetaShield SaaS platform. Its patented technology upgrades existing copper and coaxial lines to fiber-grade performance, enabling cost-effective, secure, rapid network deployment without full fiber replacement.",
+  "products": [
+    {
+      "name": "Hybrid Fiber-Copper Aggregation Switches",
+      "type": "hardware",
+      "description": "Cyber-hardened switches combining fiber and existing copper/coax infrastructure for wide-area IoT networks."
+    },
+    {
+      "name": "High Density Ethernet Devices",
+      "type": "hardware",
+      "description": "Ethernet devices enabling high-speed connectivity over existing copper and coaxial lines."
+    },
+    {
+      "name": "Advanced Network Management Software",
+      "type": "software",
+      "description": "Secure, encrypted software for managing Actelis networking deployments."
+    },
+    {
+      "name": "MetaShield AI-Powered SaaS",
+      "type": "platform",
+      "description": "AI-based cyber monitoring and protection platform for IoT edge devices, launched December 2024 under Cyber Aware Networking initiative."
+    },
+    {
+      "name": "Triple-Shield Data Protection",
+      "type": "service",
+      "description": "Cyber security feature providing coding, scrambling, and encryption of network traffic."
+    },
+    {
+      "name": "Multi-Dwelling Unit (MDU) Solutions",
+      "type": "hardware",
+      "description": "Inside and outside building connectivity solutions to modernize and protect MDU infrastructure."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ASNS/profile",
+  "origin": {
+    "leaf": "77459260f41b562e368b943e789cdb73e6b813027e81ffd8b79168dd425cbbe9",
+    "parent": "f9220750dfac12b8c09774e8538483fa4ef2e663355a370952e9479baca01fc2",
+    "timestamp": "2026-04-12T03:12:58.530Z",
+    "source": "profile:0001141284",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/77459260f41b562e368b943e789cdb73e6b813027e81ffd8b79168dd425cbbe9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.530Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

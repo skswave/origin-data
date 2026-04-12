@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MO",
+  "name": "ALTRIA GROUP, INC.",
+  "cik": "0000764180",
+  "exchange": "NYSE",
+  "sic": "2111",
+  "sic_description": "Cigarettes",
+  "state_of_incorporation": "VA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Altria Group, Inc. is a leading U.S. tobacco company operating through subsidiaries including PM USA (cigarettes), Middleton (machine-made large cigars), USSTC (moist smokeless tobacco), Helix (oral nicotine pouches), and NJOY (e-vapor products). Key brands include Marlboro, Black & Mild, Copenhagen, Skoal, on!, and NJOY ACE. The company operates primarily in the United States and is transitioning toward smoke-free nicotine products while maintaining its core smokeable tobacco business.",
+  "tags": [
+    "smokeable-tobacco-products",
+    "oral-tobacco-products",
+    "e-vapor-products",
+    "heated-tobacco-stick-products",
+    "u.s.-domestic-tobacco-market",
+    "fda-marketing-granted-orders-(mgo)-for-e-vapor-products"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MO",
+  "origin": {
+    "leaf": "052b530a032b330a155d11e7f63f7e17fc3da5be0b16c20240640f3469c522b0",
+    "parent": "f8e109b49b731b5788e0f7a47e4e0758c8ef94c5eb75de917c7a289f4db92a38",
+    "timestamp": "2026-04-12T03:12:50.311Z",
+    "source": "0000764180-26-000017",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/052b530a032b330a155d11e7f63f7e17fc3da5be0b16c20240640f3469c522b0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.311Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

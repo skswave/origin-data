@@ -1,0 +1,102 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ESE",
+  "name": "ESCO TECHNOLOGIES INC",
+  "cik": "0000866706",
+  "summary": "ESCO Technologies Inc. (NYSE: ESE) is a global provider of highly engineered components and systems serving aerospace, defense, naval, and industrial markets. Its three segments include Aerospace & Defense (filtration, fluid control, naval signature management), Utility Solutions Group (diagnostic instruments for electric utilities and renewable energy), and RF Test & Measurement (RF shielding, test facilities, and measurement systems). Products span hydraulic filters, dissolved gas analyzers, wind/solar decision tools, and electromagnetic shielding rooms.",
+  "products": [
+    {
+      "name": "Hydraulic Filter Elements",
+      "type": "hardware",
+      "description": "Specialty filtration and fluid control devices for aerospace and defense applications manufactured by PTI and Crissair."
+    },
+    {
+      "name": "Naval Magnetic Signature Management Systems",
+      "type": "hardware",
+      "description": "Systems providing magnetic and electric field countermeasures for surface ships and submarines to prevent detection."
+    },
+    {
+      "name": "Naval Power Control and Conversion Systems",
+      "type": "hardware",
+      "description": "Ultra-quiet motors driving critical ship propulsion systems with low vibration for stealth capabilities."
+    },
+    {
+      "name": "Miniature Electro-Explosive Devices",
+      "type": "hardware",
+      "description": "Devices for military aircraft ejection seats and missile arming, manufactured by Mayday."
+    },
+    {
+      "name": "Syntactic Foam Components",
+      "type": "hardware",
+      "description": "Custom syntactic foam buoyancy and specialty components for industrial, oceanographic, military, and naval applications by CMT."
+    },
+    {
+      "name": "Diagnostic Testing and Data Management Solutions",
+      "type": "hardware",
+      "description": "Doble instruments assessing integrity of high-voltage power delivery equipment for electric grid operators."
+    },
+    {
+      "name": "Dissolved Gas Analysis Solutions",
+      "type": "hardware",
+      "description": "Morgan Schaffer integrated dissolved gas analysis and oil testing solutions for monitoring power transformer health."
+    },
+    {
+      "name": "Calisto R9 Dissolved Gas Analyzer",
+      "type": "hardware",
+      "description": "Patented dissolved gas analyzer developed by Doble for transformer condition monitoring."
+    },
+    {
+      "name": "Wind and Solar Decision Support Tools",
+      "type": "hardware",
+      "description": "NRG Systems global market-leading tools for the renewable energy industry, primarily wind and solar."
+    },
+    {
+      "name": "RF Test Facilities and Measurement Systems",
+      "type": "hardware",
+      "description": "ETS-Lindgren turnkey RF shielded rooms, anechoic chambers, and measurement systems for compliance and R&D testing."
+    },
+    {
+      "name": "RF Absorptive Materials and Antennas",
+      "type": "hardware",
+      "description": "ETS-Lindgren components including filters, antennas, field probes, test cells, and measurement software."
+    },
+    {
+      "name": "High Altitude Electromagnetic Protection (HEMP) Filters",
+      "type": "hardware",
+      "description": "MPE high-performance filters for military, utility, telecom and critical infrastructure applications."
+    },
+    {
+      "name": "Feedthrough Capacitors and Power Line Filters",
+      "type": "hardware",
+      "description": "MPE high-performance feedthrough capacitors and high-current power/data/control line filters."
+    },
+    {
+      "name": "NERC CIP Compliance Tools",
+      "type": "software",
+      "description": "Doble software tools for electric utility regulatory compliance with NERC CIP standards."
+    },
+    {
+      "name": "Proprietary Measurement Software",
+      "type": "software",
+      "description": "ETS-Lindgren software for performing a variety of RF tests and measurements."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ESE/profile",
+  "origin": {
+    "leaf": "42f573984daf6f427c0bf31481f73694aa29b10d6fb653f4424b3ff9f725e970",
+    "parent": "cdbcd5ee3d2086e0c2f7d67d69ed0682bac48369016866b97ae3b852e769363a",
+    "timestamp": "2026-04-12T03:12:55.139Z",
+    "source": "profile:0000866706",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/42f573984daf6f427c0bf31481f73694aa29b10d6fb653f4424b3ff9f725e970",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.139Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

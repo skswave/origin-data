@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "DLHC",
+  "name": "DLH Holdings Corp.",
+  "cik": "0000785557",
+  "exchange": "Nasdaq",
+  "sic": "7363",
+  "sic_description": "Services-Help Supply Services",
+  "state_of_incorporation": "NJ",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "DLH Holdings Corp. delivers health and readiness solutions for U.S. federal government customers through three service lines: Digital Transformation and Cyber Security, Science Research and Development, and Systems Engineering and Integration. Key customers include HHS, VA, and DoD. Services include IT modernization, cybersecurity, clinical trials research, epidemiology studies, C5ISR engineering, and pharmacy/logistics support via the VA's CMOP program. Revenue for FY2025 was $344.5 million.",
+  "tags": [
+    "federal-government-health-services",
+    "defense-and-military-health",
+    "cybersecurity-and-it-modernization",
+    "science-research-and-development",
+    "systems-engineering-and-integration",
+    "cybersecurity-maturity-model-certification-(cmmc)-level-2",
+    "capability-maturity-model-integration-(cmmi)-level-3",
+    "zero-trust-architecture",
+    "risk-management-framework"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/DLHC",
+  "origin": {
+    "leaf": "b541bcfcf240b04e3becd8593dafbee9986b1aeb522f412ad3c95011f57014ad",
+    "parent": "cfe5da0473b13fcfd503db12d967a790ef66801db5227061ba996199d9e5619d",
+    "timestamp": "2026-04-12T03:12:52.279Z",
+    "source": "0000785557-25-000159",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b541bcfcf240b04e3becd8593dafbee9986b1aeb522f412ad3c95011f57014ad",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.279Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

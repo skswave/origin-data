@@ -1,0 +1,88 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TOFB",
+  "name": "TOFUTTI BRANDS INC",
+  "cik": "0000730349",
+  "summary": "Tofutti Brands Inc. develops, produces, and markets TOFUTTI brand plant-based, dairy-free frozen desserts and cheese products containing no butterfat, cholesterol, or lactose. Products include Better Than Cream Cheese, Better Than Sour Cream, Tofutti Cuties ice cream sandwiches, and premium TOFUTTI frozen desserts. All products are vegan, Kosher-parve certified, and sold in US supermarkets, health food stores, food service outlets, and approximately twelve foreign countries.",
+  "products": [
+    {
+      "name": "Better Than Cream Cheese",
+      "type": "hardware",
+      "description": "Dairy-free, butterfat-free, gluten-free cream cheese alternative in four flavors, available in retail and food service sizes."
+    },
+    {
+      "name": "Tofutti Whipped Better Than Cream Cheese",
+      "type": "hardware",
+      "description": "Whipped version of Better Than Cream Cheese in a 14 oz. container."
+    },
+    {
+      "name": "Better Than Sour Cream",
+      "type": "hardware",
+      "description": "Dairy-free, butterfat-free, gluten-free sour cream alternative in plain and three flavored varieties."
+    },
+    {
+      "name": "Tofutti American Vegan Cheese Slices",
+      "type": "hardware",
+      "description": "Dairy-free, gluten-free, individually wrapped vegan cheese slices with no trans fatty acids."
+    },
+    {
+      "name": "Better Than Ricotta Cheese",
+      "type": "hardware",
+      "description": "Dairy-free, gluten-free ricotta cheese alternative available in 14 oz. retail containers."
+    },
+    {
+      "name": "Premium TOFUTTI Frozen Dessert",
+      "type": "hardware",
+      "description": "Dairy-free frozen dessert in pints, three-gallon cans, and soft serve mix in multiple flavors."
+    },
+    {
+      "name": "Tofutti Cuties",
+      "type": "hardware",
+      "description": "Best-selling bite-size dairy-free frozen sandwiches in vanilla, chocolate, and mint chocolate chip flavors."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Kroger",
+      "partnership_type": "strategic",
+      "description": "Direct retail chain account for Tofutti products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Giant Eagle",
+      "partnership_type": "strategic",
+      "description": "Direct retail chain account for Tofutti products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "DeMoulas/Market Basket",
+      "partnership_type": "strategic",
+      "description": "Direct retail chain account for Tofutti products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Wakefern Food Corp",
+      "partnership_type": "strategic",
+      "description": "Direct retail chain account for Tofutti products.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TOFB/profile",
+  "origin": {
+    "leaf": "ce2f1a039f78dd02a0f59d0e913eef4bfe45b5a07c4d6a7ed08717df9a32905e",
+    "parent": "65eddaf512b0e8d3975d68c302c4c860a7fadb4d7d091e79b27c7cb20edfb85a",
+    "timestamp": "2026-04-12T03:12:58.903Z",
+    "source": "profile:0000730349",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ce2f1a039f78dd02a0f59d0e913eef4bfe45b5a07c4d6a7ed08717df9a32905e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.903Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

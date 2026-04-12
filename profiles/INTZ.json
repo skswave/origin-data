@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "INTZ",
+  "name": "INTRUSION INC",
+  "cik": "0000736012",
+  "summary": "Intrusion Inc. is a cybersecurity company based in Plano, Texas, offering a threat intelligence database covering over 8.5 billion IP addresses. Its products include INTRUSION Shield (a Zero Trust SaaS solution blocking malicious network connections), INTRUSION TraceCop (a big data IP intelligence and forensics tool), and INTRUSION Savant (a real-time network monitoring solution). The company serves U.S. government agencies and commercial customers, generating approximately $7.1 million in revenue for fiscal year 2025.",
+  "products": [
+    {
+      "name": "INTRUSION Shield",
+      "type": "platform",
+      "description": "Zero Trust reputation-based SaaS solution that inspects and blocks dangerous inbound and outbound network connections using IP and domain threat intelligence."
+    },
+    {
+      "name": "Shield Cloud",
+      "type": "service",
+      "description": "Extends INTRUSION Shield protection to IaaS, PaaS, SaaS, and serverless resources in the public cloud."
+    },
+    {
+      "name": "Shield Endpoint",
+      "type": "software",
+      "description": "Brings network protection to remote workers, mobile, and cloud devices with Zero Trust network connectivity."
+    },
+    {
+      "name": "Shield On-Premise",
+      "type": "hardware",
+      "description": "Hardware-based solution placed behind a firewall in a data center for on-premise network protection."
+    },
+    {
+      "name": "INTRUSION TraceCop",
+      "type": "platform",
+      "description": "Big data IP intelligence tool containing the largest known repository of reputation information on active IP addresses for forensic investigations."
+    },
+    {
+      "name": "INTRUSION Savant",
+      "type": "software",
+      "description": "Real-time network monitoring and attack analysis tool leveraging TraceCop data, used by U.S. government agencies and corporate threat research teams."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/INTZ/profile",
+  "origin": {
+    "leaf": "c7d168bed67a0c6df70a56da7d6d4c419b743aeffc5e19d67fbc1a0f26dd16a5",
+    "parent": "c6bad1b041cd051d7eea204e2525de29362ee140dad15fa39336691f1b3ef843",
+    "timestamp": "2026-04-12T03:12:58.326Z",
+    "source": "profile:0000736012",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c7d168bed67a0c6df70a56da7d6d4c419b743aeffc5e19d67fbc1a0f26dd16a5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.326Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

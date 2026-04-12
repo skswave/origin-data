@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PLTR",
+  "name": "Palantir Technologies Inc.",
+  "cik": "0001321655",
+  "summary": "Palantir Technologies Inc. builds software platforms that empower organizations to integrate data, decisions, and operations at scale. Founded in 2003, the company develops four principal platforms: Palantir Gotham (defense and intelligence operations), Palantir Foundry (data operations), Palantir Apollo (continuous delivery and infrastructure management), and AIP (generative AI platform). Palantir serves both government agencies, including the intelligence community and defense organizations, and commercial enterprises across multiple industries.",
+  "products": [
+    {
+      "name": "Palantir Gotham",
+      "type": "platform",
+      "description": "Integrates data across domains and sensors for defense and intelligence operations, improving situational awareness and accelerating operational decision-making."
+    },
+    {
+      "name": "Palantir Foundry",
+      "type": "platform",
+      "description": "Foundational data operations platform providing data management, logic authoring, Ontology-based systemic mapping, analytics, and workflow development."
+    },
+    {
+      "name": "Palantir Apollo",
+      "type": "platform",
+      "description": "Cloud-agnostic continuous delivery platform orchestrating upgrades, security updates, and configuration management across virtually any environment."
+    },
+    {
+      "name": "Palantir AIP (Artificial Intelligence Platform)",
+      "type": "platform",
+      "description": "Generative AI platform connecting LLMs and AI models to organizational data and operations for enterprise and government decision-making, launched in 2023."
+    },
+    {
+      "name": "Palantir Ontology",
+      "type": "platform",
+      "description": "Core capability integrating data, logic, and actions into a foundational organizational representation enabling decision-centric workflows across technical and non-technical users."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PLTR/profile",
+  "origin": {
+    "leaf": "d30ea5fd478fe4a2400cac183374fe4e6f9e88743429671423713a210146539a",
+    "parent": "80884051350d368ef39c43c2e1cbba7fbca096c98ea1f7c4fdda6435aaca4469",
+    "timestamp": "2026-04-12T03:12:54.683Z",
+    "source": "profile:0001321655",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d30ea5fd478fe4a2400cac183374fe4e6f9e88743429671423713a210146539a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.683Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

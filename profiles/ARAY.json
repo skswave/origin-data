@@ -1,0 +1,102 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ARAY",
+  "name": "ACCURAY INC",
+  "cik": "0001138723",
+  "summary": "Accuray Incorporated is a radiation therapy company that develops, manufactures, sells, and supports radiation treatment solutions. Its primary products are the CyberKnife robotic radiosurgery system and the TomoTherapy platform, including the next-generation Radixact System. These systems deliver SRS, SBRT, IMRT, IGRT, and adaptive radiation therapy. Accuray also offers treatment planning software, imaging solutions, and post-contract customer support services to oncology centers worldwide.",
+  "products": [
+    {
+      "name": "CyberKnife",
+      "type": "platform",
+      "description": "Robotic radiosurgery system for treating tumors throughout the body including brain, spine, and neurologic/endocrine disorders."
+    },
+    {
+      "name": "TomoTherapy",
+      "type": "platform",
+      "description": "Radiation therapy platform supporting IMRT, IGRT, and adaptive radiation therapy treatments."
+    },
+    {
+      "name": "Radixact System",
+      "type": "platform",
+      "description": "Next-generation TomoTherapy platform with advanced treatment delivery capabilities."
+    },
+    {
+      "name": "Accuray Helix",
+      "type": "hardware",
+      "description": "CT-guided helical radiotherapy system combining affordability with automation to expand patient access to radiation medicine."
+    },
+    {
+      "name": "ClearRT",
+      "type": "hardware",
+      "description": "Imaging solution designed to produce diagnostic-like quality CT images quickly and cost-effectively."
+    },
+    {
+      "name": "VoLO",
+      "type": "software",
+      "description": "Treatment planning software that reduces time to create high-quality plans and deliver patient treatments."
+    },
+    {
+      "name": "AutoSegmentation",
+      "type": "software",
+      "description": "Automated tool to identify interfraction changes for clinically beneficial re-planning and dose adaptation."
+    },
+    {
+      "name": "PreciseRTX",
+      "type": "software",
+      "description": "Software that accelerates and automates re-planning for re-treatment of previously irradiated areas."
+    },
+    {
+      "name": "Accuray Precision",
+      "type": "software",
+      "description": "Treatment planning system for Accuray radiation therapy platforms."
+    },
+    {
+      "name": "iDMS",
+      "type": "software",
+      "description": "Data management solution supporting radiation therapy workflow and patient data management."
+    },
+    {
+      "name": "Post-contract customer support",
+      "type": "service",
+      "description": "Warranty and post-warranty services, installation, training, and professional services for Accuray systems."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "RaySearch Laboratories AB",
+      "partnership_type": "development",
+      "description": "Integration of TomoTherapy, Radixact, and CyberKnife treatment planning support into RayStation TPS and RayCare OIS; agreement signed fiscal 2016.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Photo Diagnostic Systems, Incorporated",
+      "partnership_type": "development",
+      "description": "Agreement to enhance image quality of TomoTherapy System through enhanced image reconstruction software; signed fiscal 2017.",
+      "start_date": null
+    },
+    {
+      "partner_name": "CNNC High Energy Equipment (Tianjin) Co., Ltd. (CIRC Subsidiary)",
+      "partnership_type": "strategic",
+      "description": "Joint venture CNNC Accuray (TianJin) Medical Technology Co. Ltd. formed in fiscal 2019 to manufacture and sell radiation oncology products in China.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ARAY/profile",
+  "origin": {
+    "leaf": "0cb024af0ee75f5c5c6f1bf29b42aea30d5fb98fc305ae2feb204b24064e58d1",
+    "parent": "c2898373c99d672f87805d4fa3c65fad1cea62724ddb45317439070332c42025",
+    "timestamp": "2026-04-12T03:12:57.858Z",
+    "source": "profile:0001138723",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0cb024af0ee75f5c5c6f1bf29b42aea30d5fb98fc305ae2feb204b24064e58d1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.858Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

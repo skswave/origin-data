@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SACH",
+  "name": "Sachem Capital Corp.",
+  "cik": "0001682220",
+  "summary": "Sachem Capital Corp. is a Connecticut-based real estate finance company and REIT that specializes in originating, underwriting, funding, servicing, and managing short-term (one to three years) loans secured by first mortgage liens on real property. Known as 'hard money loans,' they target real estate investors and developers financing acquisition, renovation, rehabilitation, and development of residential or commercial properties. Revenue comes primarily from interest and origination, servicing, and extension fees.",
+  "products": [
+    {
+      "name": "Hard Money Mortgage Loans",
+      "type": "service",
+      "description": "Short-term loans (1-3 years) secured by first mortgage liens on real property, targeting real estate investors and developers at 10%-13% fixed interest rates."
+    },
+    {
+      "name": "Loan Origination and Servicing",
+      "type": "service",
+      "description": "End-to-end origination, underwriting, funding, servicing, modification, and extension of real estate secured loans."
+    },
+    {
+      "name": "Real Estate Repositioning and Development",
+      "type": "service",
+      "description": "Repositioning and developing real estate acquired through foreclosure or intentional acquisition where value creation opportunities exist."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Banks",
+      "partnership_type": "strategic",
+      "description": "Strategic partnerships to generate new loan transaction leads and referrals.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Brokers",
+      "partnership_type": "strategic",
+      "description": "Strategic partnerships to generate new loan transaction leads and referrals.",
+      "start_date": null
+    },
+    {
+      "partner_name": "LexisNexis",
+      "partnership_type": "strategic",
+      "description": "Used for background checks on borrowers and their principals as part of underwriting due diligence.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SACH/profile",
+  "origin": {
+    "leaf": "6430b347a84ab5a71c74a86c484fccc897c75de616436dc6a3f6ce9533f2e77a",
+    "parent": "f17980e72a5ef7b9083b6126931d772ba9f18ac16f6045d3235af00b326b3835",
+    "timestamp": "2026-04-12T03:12:57.825Z",
+    "source": "profile:0001682220",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6430b347a84ab5a71c74a86c484fccc897c75de616436dc6a3f6ce9533f2e77a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.825Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

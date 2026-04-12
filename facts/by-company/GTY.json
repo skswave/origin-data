@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "GTY",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTY",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.7999999999999999,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTY",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.7999999999999999,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTY",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.7999999999999999,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GTY/transcripts",
+  "origin": {
+    "leaf": "ed621dd91ce5bc9f77fb0d16b27435b88b7ae93e4cebea7290ff0d72f041f81c",
+    "parent": "7b6b73bdf278e340495d985f6b90fa96ab67adbac03edc6a638a242454fe2cf9",
+    "timestamp": "2026-04-12T03:13:50.053Z",
+    "source": "facts:GTY",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ed621dd91ce5bc9f77fb0d16b27435b88b7ae93e4cebea7290ff0d72f041f81c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:50.053Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

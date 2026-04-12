@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BLGO",
+  "name": "BIOLARGO, INC.",
+  "cik": "0000880242",
+  "exchange": "OTC",
+  "sic": "2800",
+  "sic_description": "Chemicals & Allied Products",
+  "state_of_incorporation": "DE",
+  "headquarters": "Westminster, California",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "BioLargo, Inc. is a cleantech company that invents, develops, and commercializes technologies addressing air quality, water treatment, battery energy storage, and antimicrobial medical devices. Key products include CupriDyne Clean industrial odor eliminator, the Aqueous Electrostatic Concentrator (AEC) for PFAS remediation, AROS water reuse technology, the Cellinity battery energy storage system, and medical/dental antimicrobial platforms through subsidiary Clyra Medical Technologies. The company operates through multiple wholly- and partially-owned subsidiaries and also provides professional engineering services.",
+  "tags": [
+    "industrial-odor-and-voc-control",
+    "consumer-pet-and-household-odor-control",
+    "water-treatment-and-pfas-remediation",
+    "battery-energy-storage",
+    "medical-and-dental-antimicrobial-devices",
+    "environmental-engineering-services"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BLGO",
+  "origin": {
+    "leaf": "0ec0a5b24cb62f10daa502d88f8eba4ff1c4ee94d5a5bbcefb25c5714b998b60",
+    "parent": "0d9a8a4a32ec5b5af2eae2992102a3b7d1b68f71ece55fcd7b7784e5a58cc518",
+    "timestamp": "2026-04-12T03:12:52.512Z",
+    "source": "0001437749-26-006926",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0ec0a5b24cb62f10daa502d88f8eba4ff1c4ee94d5a5bbcefb25c5714b998b60",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.512Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

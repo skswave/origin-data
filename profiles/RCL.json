@@ -1,0 +1,75 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RCL",
+  "name": "ROYAL CARIBBEAN CRUISES LTD",
+  "cik": "0000884887",
+  "summary": "Royal Caribbean Cruises Ltd. is a vacation industry leader operating three global cruise brands: Royal Caribbean (world's largest cruise brand, 29 ships, ~111,000 berths), Celebrity Cruises (15 ships, ~38,900 berths), and Silversea (ultra-luxury/expedition, 12 ships, ~5,500 berths). The company also holds a 50% joint venture interest in TUI Cruises GmbH, operating TUI Cruises and Hapag-Lloyd Cruises. Together, all brands operate 69 ships with ~179,720 berths, calling on 1,000+ destinations across all seven continents.",
+  "products": [
+    {
+      "name": "Royal Caribbean",
+      "type": "service",
+      "description": "Contemporary and premium cruise brand offering worldwide itineraries, operating 29 ships with ~111,000 berths."
+    },
+    {
+      "name": "Celebrity Cruises",
+      "type": "service",
+      "description": "Premium cruise brand with destination-rich experiences on upscale ships, operating 15 ships with ~38,900 berths."
+    },
+    {
+      "name": "Silversea",
+      "type": "service",
+      "description": "Ultra-luxury and expedition cruise brand featuring smaller ships and exotic itineraries, operating 12 ships with ~5,500 berths."
+    },
+    {
+      "name": "TUI Cruises",
+      "type": "service",
+      "description": "German contemporary cruise brand operated by 50%-owned joint venture TUIC, with 8 ships and ~22,700 berths."
+    },
+    {
+      "name": "Hapag-Lloyd Cruises",
+      "type": "service",
+      "description": "German luxury and expedition cruise brand operated by TUIC joint venture, with 5 ships and ~1,620 berths."
+    },
+    {
+      "name": "Perfect Day Collection",
+      "type": "service",
+      "description": "Portfolio of private land-based destinations operated by Royal Caribbean Group."
+    },
+    {
+      "name": "Royal Beach Club Collection",
+      "type": "service",
+      "description": "Private land-based destination portfolio complementing cruise offerings."
+    },
+    {
+      "name": "Celebrity River Cruises",
+      "type": "service",
+      "description": "Premium river cruise vacation brand launched in 2025 with initial order of 10 ships, expanding to 20 vessels."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "TUI AG",
+      "partnership_type": "strategic",
+      "description": "50/50 joint venture (TUIC) operating TUI Cruises and Hapag-Lloyd Cruises brands targeting the German cruise market.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RCL/profile",
+  "origin": {
+    "leaf": "936e9287f9ccd2116ca9072862345d4b83c6a23d405befe5bb0c03d64d18577c",
+    "parent": "866718cfdccfa3be56298b94a8036748d6826d48b0f4a756cd253fde53b36422",
+    "timestamp": "2026-04-12T03:12:54.749Z",
+    "source": "profile:0000884887",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/936e9287f9ccd2116ca9072862345d4b83c6a23d405befe5bb0c03d64d18577c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.749Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NSSC",
+  "name": "NAPCO SECURITY TECHNOLOGIES, INC",
+  "cik": "0000069633",
+  "summary": "NAPCO Security Technologies designs and manufactures high-tech electronic security devices including access control systems, door-locking products, intrusion and fire alarm systems, and video surveillance products. The company also provides cellular communication services for intrusion and fire alarm systems, generating recurring monthly revenues. Products are sold to independent distributors, dealers, and installers for commercial, residential, institutional, industrial, and governmental applications. Net sales were $181.6 million for fiscal year ended June 30, 2025.",
+  "products": [
+    {
+      "name": "StarLink Cellular Communication Devices",
+      "type": "hardware",
+      "description": "Cellular communicators installed at end-user premises providing connectivity to central monitoring stations via the Networx Operations Center (NOC)."
+    },
+    {
+      "name": "Networx Operations Center (NOC)",
+      "type": "platform",
+      "description": "Cloud-based platform providing cellular communication services and hosted access control services to security devices."
+    },
+    {
+      "name": "LocDown Locks",
+      "type": "hardware",
+      "description": "Standalone lockdown locks operable by teachers for school security applications."
+    },
+    {
+      "name": "Networx Standalone Wireless Locks",
+      "type": "hardware",
+      "description": "Wireless locks communicating with central controls for networked school security deployments."
+    },
+    {
+      "name": "Access Control Systems",
+      "type": "hardware",
+      "description": "Systems with ID readers, control panels, PC-based computers, and electronically activated door-locking devices."
+    },
+    {
+      "name": "Intrusion Alarm Systems",
+      "type": "hardware",
+      "description": "Alarm systems including detectors, control panels, digital keypads, and signaling equipment for intrusion detection."
+    },
+    {
+      "name": "Fire Alarm Control Panels",
+      "type": "hardware",
+      "description": "Multi-zone fire alarm control panels with optional digital communicator for central station reporting."
+    },
+    {
+      "name": "Video Surveillance Systems",
+      "type": "hardware",
+      "description": "Systems including video cameras, control panels, and remote communication devices for monitoring and recording."
+    },
+    {
+      "name": "Door Locking Devices",
+      "type": "hardware",
+      "description": "Microprocessor-based electronic door locks with push button, card reader, and biometric operation; also mechanical locks and deadbolts."
+    },
+    {
+      "name": "Cellular Communication Services",
+      "type": "service",
+      "description": "Monthly recurring subscription services for secure cellular and cloud access for alarm communicators and smart security devices, ~91% gross margin."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NSSC/profile",
+  "origin": {
+    "leaf": "d29eb1786f43ea5514790409ff0825f123f107e8b45a4f43e49fe4d973cbe421",
+    "parent": "8ff6493530541fca3068fa6e0d4d36c2abb4bba9725d121e5aa0ef7ef125258f",
+    "timestamp": "2026-04-12T03:12:55.848Z",
+    "source": "profile:0000069633",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d29eb1786f43ea5514790409ff0825f123f107e8b45a4f43e49fe4d973cbe421",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.848Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

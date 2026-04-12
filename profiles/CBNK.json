@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CBNK",
+  "name": "Capital Bancorp Inc",
+  "cik": "0001419536",
+  "summary": "Capital Bancorp Inc is a bank holding company operating Capital Bank, N.A., offering commercial real estate and commercial business loans, residential mortgage banking, SBA and USDA government-guaranteed lending, and the OpenSky credit card division. The company also acquired Integrated Financial Holdings, Inc. (IFH), which includes Windsor Advantage, a platform servicing and packaging SBA and USDA loans on behalf of other lenders.",
+  "products": [
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Lending products focused on commercial real estate for business clients."
+    },
+    {
+      "name": "Commercial Business Loans",
+      "type": "service",
+      "description": "Business lending products targeting commercial clients."
+    },
+    {
+      "name": "Residential Mortgage Banking",
+      "type": "service",
+      "description": "Mortgage origination and banking services for residential customers."
+    },
+    {
+      "name": "SBA and USDA Government-Guaranteed Loans",
+      "type": "service",
+      "description": "Origination of SBA and USDA guaranteed loans within Capital Bank, N.A."
+    },
+    {
+      "name": "OpenSky Credit Card",
+      "type": "service",
+      "description": "Consumer credit card division subject to consumer finance and fraud prevention regulations."
+    },
+    {
+      "name": "Windsor Advantage",
+      "type": "platform",
+      "description": "Platform for servicing, processing, and packaging SBA and USDA loans on behalf of third-party lenders."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Small Business Administration (SBA)",
+      "partnership_type": "strategic",
+      "description": "Origination and servicing of SBA government-guaranteed loans.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Department of Agriculture (USDA)",
+      "partnership_type": "strategic",
+      "description": "Origination and servicing of USDA government-guaranteed loans.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CBNK/profile",
+  "origin": {
+    "leaf": "129187c430bf3b8a2cb4454a74ff81847cbee8d9a15af8eba63faae9dda429a7",
+    "parent": "7d6bd9925339c3dc983ee2818b1ffeb2de2da267e2b2e8bec61696563a7b084e",
+    "timestamp": "2026-04-12T03:12:56.378Z",
+    "source": "profile:0001419536",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/129187c430bf3b8a2cb4454a74ff81847cbee8d9a15af8eba63faae9dda429a7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.378Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

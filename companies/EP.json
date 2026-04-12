@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EP",
+  "name": "EMPIRE PETROLEUM CORP",
+  "cik": "0000887396",
+  "exchange": "NYSE",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Empire Petroleum Corp is an oil and natural gas exploration and production company. It focuses on developing proved reserves, operating wells, and conducting workover and recompletion activities. The company produces crude oil, natural gas, and natural gas liquids (NGLs), with operations including development wells, enhanced oil recovery (EOR) projects, and acreage management, primarily working within established basins and reservoirs.",
+  "tags": [
+    "oil-and-natural-gas-exploration-and-production",
+    "enhanced-oil-recovery-(eor)",
+    "proved-reserve-development",
+    "nist-cybersecurity-framework",
+    "sec-reserve-reporting-rules",
+    "asc-(accounting-standards-codification)",
+    "fasb-standards"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EP",
+  "origin": {
+    "leaf": "fa20b7ea22c870af7983fbbd850c25be95b44e37254ffafc3b47cdc3b3ecf085",
+    "parent": "51a3e1430261e766bc3dbc24db0c3a1e9602b68cbe40af0791ce3a2b012cfca2",
+    "timestamp": "2026-04-12T03:12:52.195Z",
+    "source": "0001104659-26-027675",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fa20b7ea22c870af7983fbbd850c25be95b44e37254ffafc3b47cdc3b3ecf085",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.195Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

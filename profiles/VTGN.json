@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VTGN",
+  "name": "Vistagen Therapeutics, Inc.",
+  "cik": "0001411685",
+  "summary": "VistaGen Therapeutics is a late clinical-stage biopharmaceutical company developing non-systemic intranasal pherine product candidates that activate nose-to-brain neurocircuits without systemic absorption. Its pipeline includes five clinical-stage candidates: fasedienol (Phase 3, social anxiety disorder), itruvone (Phase 2A, major depressive disorder), PH80 (Phase 2A, vasomotor symptoms and premenstrual dysphoric disorder), PH15 (Phase 2A, mental fatigue), and PH284 (Phase 2A, cancer cachexia). Fasedienol is the lead candidate in the registration-directed PALISADE Program.",
+  "products": [
+    {
+      "name": "Fasedienol",
+      "type": "platform",
+      "description": "Intranasal pherine in Phase 3 PALISADE Program for acute treatment of social anxiety disorder in adults."
+    },
+    {
+      "name": "Itruvone",
+      "type": "platform",
+      "description": "Intranasal pherine with positive Phase 2A data for treatment of major depressive disorder."
+    },
+    {
+      "name": "PH80",
+      "type": "platform",
+      "description": "Intranasal pherine with positive Phase 2A data for vasomotor symptoms due to menopause and premenstrual dysphoric disorder."
+    },
+    {
+      "name": "PH15",
+      "type": "platform",
+      "description": "Intranasal pherine with pilot Phase 2A data for improvement of psychomotor impairment due to mental fatigue."
+    },
+    {
+      "name": "PH284",
+      "type": "platform",
+      "description": "Intranasal pherine with Phase 2A data for treatment of cancer cachexia."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VTGN/profile",
+  "origin": {
+    "leaf": "8947416d61537884e4793d58e6992979aec78077ae6d7487c6235d0384463c62",
+    "parent": "597d6862ed39756e6bc117d8105d81340b97704340d94be2907113b646b6ee20",
+    "timestamp": "2026-04-12T03:12:58.199Z",
+    "source": "profile:0001411685",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8947416d61537884e4793d58e6992979aec78077ae6d7487c6235d0384463c62",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.199Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

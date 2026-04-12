@@ -1,0 +1,65 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AREC",
+  "name": "American Resources Corp",
+  "cik": "0001590715",
+  "summary": "American Resources Corporation (AREC) acquires and operates coal mining and processing assets in eastern Kentucky and western West Virginia, focused on metallurgical coal for steelmaking. Subsidiaries include American Infrastructure Corporation (coal mining), ReElement Technologies (critical and rare earth element purification and monetization), and Electrified Materials Corporation (recovered metal and steel aggregation). All mining operations are currently idled due to adverse market conditions.",
+  "products": [
+    {
+      "name": "Metallurgical Coal (High-vol B)",
+      "type": "service",
+      "description": "Coal mined and processed for steelmaking industry, sold domestically and internationally."
+    },
+    {
+      "name": "Pulverized Coal Injection",
+      "type": "service",
+      "description": "Coal product used in the steel making process."
+    },
+    {
+      "name": "High-BTU Low Sulfur Bituminous Coal",
+      "type": "service",
+      "description": "Coal product for industrial customers and specialty uses."
+    },
+    {
+      "name": "Critical and Rare Earth Element Purification",
+      "type": "service",
+      "description": "ReElement Technologies purifies and monetizes critical/rare earth elements and end-of-life magnets and batteries."
+    },
+    {
+      "name": "Recovered Metal and Steel",
+      "type": "service",
+      "description": "Electrified Materials Corporation aggregates, recovers, and sells recovered metal and steel."
+    },
+    {
+      "name": "Coal Processing Services",
+      "type": "service",
+      "description": "McCoy Elkhorn processes, stores, and loads coal for regional producers at Bevins #1 and #2 preparation plants."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "CSX Transportation",
+      "partnership_type": "strategic",
+      "description": "Rail transportation provider servicing McCoy Elkhorn and Knott County Coal preparation plant rail loadouts.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AREC/profile",
+  "origin": {
+    "leaf": "62f37cc89b2d8f8e61b34dc15126181931eddb6586b484ffc2081143cd06fe19",
+    "parent": "5a32b790f9cd09c15b52e9633f3c8321617845f09be211f457faaae4d3559755",
+    "timestamp": "2026-04-12T03:12:56.870Z",
+    "source": "profile:0001590715",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/62f37cc89b2d8f8e61b34dc15126181931eddb6586b484ffc2081143cd06fe19",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.870Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SVC",
+  "name": "Service Properties Trust",
+  "cik": "0000945394",
+  "summary": "Service Properties Trust (SVC) is a Maryland-based REIT formed in 1995 that owns and leases service-focused retail net lease properties and hotels. As of December 31, 2025, SVC owned 760 net lease properties (13.6M sq ft) across 42 states leased to tenants including travel centers, restaurants, and fitness centers, and 94 hotels with 21,243 rooms managed by Sonesta, Hyatt, Radisson, and IHG.",
+  "products": [
+    {
+      "name": "Net Lease Properties",
+      "type": "service",
+      "description": "Triple net leased service-focused retail properties including travel centers, restaurants, fitness centers, and medical offices across 42 states."
+    },
+    {
+      "name": "Hotel Portfolio",
+      "type": "service",
+      "description": "94 hotels with 21,243 rooms or suites operated under brands including Royal Sonesta, Hyatt Place, Radisson, and Crowne Plaza."
+    },
+    {
+      "name": "Travel Centers",
+      "type": "service",
+      "description": "175 full-service travel centers leased to TravelCenters of America under five master leases expiring in 2033."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Sonesta",
+      "partnership_type": "strategic",
+      "description": "Manages 69 of SVC's hotels under multiple brands including Royal Sonesta, Sonesta Hotels & Resorts, Sonesta ES Suites, Sonesta Simply Suites, and Sonesta Select.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Hyatt Hotels Corporation",
+      "partnership_type": "strategic",
+      "description": "Manages 17 Hyatt Place select service hotels owned by SVC.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Radisson Hospitality, Inc.",
+      "partnership_type": "strategic",
+      "description": "Manages 7 hotels under Radisson Hotels & Resorts and Country Inn & Suites by Radisson brands.",
+      "start_date": null
+    },
+    {
+      "partner_name": "InterContinental Hotels Group (IHG)",
+      "partnership_type": "strategic",
+      "description": "Manages 1 Crowne Plaza full-service hotel owned by SVC.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BP Corporation North America Inc.",
+      "partnership_type": "strategic",
+      "description": "Subsidiary of BP p.l.c. provides limited guaranty of payments under five TA master leases.",
+      "start_date": null
+    },
+    {
+      "partner_name": "TravelCenters of America (TA)",
+      "partnership_type": "strategic",
+      "description": "Largest tenant; leases 175 travel centers from SVC under five master leases expiring in 2033.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SVC/profile",
+  "origin": {
+    "leaf": "8c1f5669e8a4093e13d801ae3639bac272c9ea78c7eb250fa6ea3b2a211dfd24",
+    "parent": "56c57b29c6aa4fbec3868a819fa223b83597b7acd9c9208e3657af3f5ecccd14",
+    "timestamp": "2026-04-12T03:12:56.938Z",
+    "source": "profile:0000945394",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8c1f5669e8a4093e13d801ae3639bac272c9ea78c7eb250fa6ea3b2a211dfd24",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.938Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

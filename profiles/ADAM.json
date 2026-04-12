@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ADAM",
+  "name": "ADAMAS TRUST, INC.",
+  "cik": "0001273685",
+  "summary": "Adamas Trust, Inc. (formerly New York Mortgage Trust, Inc.) is an internally-managed REIT focused on deploying capital across real estate and capital markets. It owns and manages a diversified portfolio of mortgage-related single-family and multi-family assets, Agency RMBS, non-Agency RMBS, residential loans, and business purpose loans. Through its wholly-owned subsidiary Constructive Loans, LLC, it originates business purpose loans for residential real estate investors, operating in 48 states.",
+  "products": [
+    {
+      "name": "Agency RMBS",
+      "type": "service",
+      "description": "Residential mortgage-backed securities guaranteed by GSEs such as Fannie Mae, Freddie Mac, or Ginnie Mae."
+    },
+    {
+      "name": "Business Purpose Loans",
+      "type": "service",
+      "description": "Short-term and rental loans for residential real estate investors, originated through Constructive Loans, LLC."
+    },
+    {
+      "name": "Non-Agency RMBS",
+      "type": "service",
+      "description": "Residential mortgage-backed securities not guaranteed by any U.S. government agency or GSE."
+    },
+    {
+      "name": "Multi-family CMBS",
+      "type": "service",
+      "description": "Commercial mortgage-backed securities backed by commercial mortgage loans on multi-family properties."
+    },
+    {
+      "name": "Excess MSRs",
+      "type": "service",
+      "description": "Excess mortgage servicing spreads representing difference between contractual and base servicing fees."
+    },
+    {
+      "name": "Mezzanine Lending",
+      "type": "service",
+      "description": "Preferred equity and mezzanine loan investments in multi-family properties."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Fannie Mae",
+      "partnership_type": "strategic",
+      "description": "GSE whose guaranteed RMBS are included in the Company's Agency investment portfolio.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Freddie Mac",
+      "partnership_type": "strategic",
+      "description": "GSE whose guaranteed RMBS and Consolidated SLST securitizations are part of the Company's portfolio.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ginnie Mae",
+      "partnership_type": "strategic",
+      "description": "U.S. government agency whose guaranteed RMBS are included in the Company's Agency investment portfolio.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ADAM/profile",
+  "origin": {
+    "leaf": "36724484bbfa1f4f8e9b1b3ffc8741f0f5e82b85b7816d6438ed4a6a44325190",
+    "parent": "9b186a8c0f65bd1682e25502f4b00cd5056468ad212beda51add1112fcd77f31",
+    "timestamp": "2026-04-12T03:12:56.208Z",
+    "source": "profile:0001273685",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/36724484bbfa1f4f8e9b1b3ffc8741f0f5e82b85b7816d6438ed4a6a44325190",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.208Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

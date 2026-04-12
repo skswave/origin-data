@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ALX",
+  "name": "ALEXANDERS INC",
+  "cik": "0000003499",
+  "summary": "Alexander's, Inc. (ALX) is a Delaware-incorporated REIT managed by Vornado Realty Trust. The company owns five New York City properties totaling approximately 2.5 million square feet, including 731 Lexington Avenue (leased entirely to Bloomberg for office space), Rego Park I and II shopping centers, a Flushing retail building subleased to New World Mall LLC, and The Alexander apartment tower with 312 residential units.",
+  "products": [
+    {
+      "name": "731 Lexington Avenue",
+      "type": "service",
+      "description": "1,080,000 sq ft multi-use Manhattan building with 952,000 sq ft office space leased to Bloomberg and 128,000 sq ft retail space."
+    },
+    {
+      "name": "Rego Park II",
+      "type": "service",
+      "description": "606,000 sq ft Queens shopping center anchored by Costco, Kohl's, Burlington, Best Buy, and Marshalls."
+    },
+    {
+      "name": "Rego Park I",
+      "type": "service",
+      "description": "338,000 sq ft Queens shopping center, currently vacant, being explored for sale."
+    },
+    {
+      "name": "Flushing Property",
+      "type": "service",
+      "description": "167,000 sq ft Queens building subleased to New World Mall LLC, ground leased through January 2037."
+    },
+    {
+      "name": "The Alexander",
+      "type": "service",
+      "description": "312-unit, 255,000 sq ft residential apartment tower located above the Rego Park II shopping center."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Vornado Realty Trust",
+      "partnership_type": "strategic",
+      "description": "Vornado manages, leases, and develops all of Alexander's properties under agreements that renew annually each March; Vornado owns 32.4% of ALX common stock.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bloomberg L.P.",
+      "partnership_type": "strategic",
+      "description": "Bloomberg occupies all 952,000 sq ft of office space at 731 Lexington Avenue, accounting for ~61% of rental revenues in 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "New World Mall LLC",
+      "partnership_type": "strategic",
+      "description": "Subtenant of the Flushing 167,000 sq ft property under a ground lease through January 2037.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ALX/profile",
+  "origin": {
+    "leaf": "5b990a6fa6df130a9f9f47065fe4dff32bbca72af5ad981c510c4fd1755b04c3",
+    "parent": "43d78b08411b2e1403268740ed3b8e82e2be9f9e36bf216d7c8a5ee4b0ddfd25",
+    "timestamp": "2026-04-12T03:12:55.916Z",
+    "source": "profile:0000003499",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5b990a6fa6df130a9f9f47065fe4dff32bbca72af5ad981c510c4fd1755b04c3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.916Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

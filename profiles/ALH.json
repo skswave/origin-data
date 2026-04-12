@@ -1,0 +1,46 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ALH",
+  "name": "Alliance Laundry Holdings Inc.",
+  "cik": "0001317685",
+  "summary": "Alliance Laundry Holdings Inc. manufactures and sells commercial laundry equipment. The company distributes its products through distributors, route operators, retailers, and servicers. It operates in international markets, including emerging markets, and offers complementary technologies and services. The company is a controlled entity with a principal stockholder holding significant influence, and it carries substantial indebtedness as part of its capital structure.",
+  "products": [
+    {
+      "name": "Commercial Laundry Equipment",
+      "type": "hardware",
+      "description": "Commercial laundry machines and related equipment distributed through distributors, route operators, retailers, and servicers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Distributors",
+      "partnership_type": "strategic",
+      "description": "Company relies on distributors for product distribution and sales.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Route operators",
+      "partnership_type": "strategic",
+      "description": "Route operators serve as key channel partners for equipment deployment.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ALH/profile",
+  "origin": {
+    "leaf": "8821041a89d08d9cb26a3d4b7d6a1a9929a60e3b5b6c6fa66cdcd7d5f49ba63d",
+    "parent": "389af34d5ecb285621140ba0fa1fff84e2bcc2fc1915ab4ce3ffe8d062972f52",
+    "timestamp": "2026-04-12T03:12:55.338Z",
+    "source": "profile:0001317685",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8821041a89d08d9cb26a3d4b7d6a1a9929a60e3b5b6c6fa66cdcd7d5f49ba63d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.338Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

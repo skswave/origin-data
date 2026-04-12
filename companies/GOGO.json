@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "GOGO",
+  "name": "Gogo Inc.",
+  "cik": "0001537054",
+  "exchange": "Nasdaq",
+  "sic": "4899",
+  "sic_description": "Communications Services, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Company Overview Gogo Inc. (Gogo, the Company, we or us) is the only multi-orbit, multi-band in-flight connectivity provider offering connectivity technology purpose-built for business and military/government aviation. We have a holistic approach of providing broadband connectivity services to our customers from small to large aircraft and heavy jets through our air-to-ground (ATG) technology and integrated low earth orbit (LEO) and geostationary earth orbit (GEO) satellite solutions provided by...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/GOGO",
+  "origin": {
+    "leaf": "5665998a20a2f9fd323f21a594aa7e7f504a6839d824fff5dff623c0d07b99cf",
+    "parent": "8d6d957095afa677d03676be8c50a349ffcae13748bfc6add20b81e60f9c1573",
+    "timestamp": "2026-04-12T03:12:51.357Z",
+    "source": "0001193125-26-082487",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5665998a20a2f9fd323f21a594aa7e7f504a6839d824fff5dff623c0d07b99cf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.357Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

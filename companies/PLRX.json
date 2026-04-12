@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PLRX",
+  "name": "PLIANT THERAPEUTICS, INC.",
+  "cik": "0001746473",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Pliant Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on discovering and developing novel therapies for fibrosis and related diseases. The company develops integrin-based therapeutics, with product candidates targeting fibrotic conditions. Pliant has pursued orphan drug and Fast Track designations for its pipeline and has engaged in research collaborations and license agreements to advance its drug development programs.",
+  "tags": [
+    "fibrosis-therapeutics",
+    "integrin-based-drug-development",
+    "rare/orphan-diseases"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PLRX",
+  "origin": {
+    "leaf": "d482c5576d362e3f10e94a9aa0d8506906b489a769054520474e43d4e9835c09",
+    "parent": "b8fd5d585d4031602165c7203791793eb0bc79332d62fe1c3a14d107ccb8fb74",
+    "timestamp": "2026-04-12T03:12:52.319Z",
+    "source": "0001746473-26-000037",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d482c5576d362e3f10e94a9aa0d8506906b489a769054520474e43d4e9835c09",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.319Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

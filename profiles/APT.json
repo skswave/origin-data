@@ -1,0 +1,96 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "APT",
+  "name": "ALPHA PRO TECH LTD",
+  "cik": "0000884269",
+  "summary": "Alpha Pro Tech, Ltd. protects people, products, and environments through two business segments: Building Supply and Disposable Protective Apparel. Building Supply products include housewrap, housewrap accessories, and synthetic roof underlayment under the REX trademark. Disposable Protective Apparel includes shoecovers, bouffant caps, coveralls, gowns, face masks, and face shields sold to cleanroom, industrial, pharmaceutical, medical, and dental markets, primarily in the United States under the Alpha Pro Tech brand and private label.",
+  "products": [
+    {
+      "name": "REX Wrap / REX Wrap Plus",
+      "type": "hardware",
+      "description": "Woven and coated polypropylene micro perforated weather resistant barrier housewrap."
+    },
+    {
+      "name": "REX Wrap Fortis with JX ALTA 360 Drainage Technology",
+      "type": "hardware",
+      "description": "Breathable housewrap enabling water drainage in every direction for superior building protection."
+    },
+    {
+      "name": "REXTREME Window and Door Flashing",
+      "type": "hardware",
+      "description": "Provides a tight seal from air and moisture around windows and doors."
+    },
+    {
+      "name": "REX Premium Seam Tape",
+      "type": "hardware",
+      "description": "High-strength film tape for sealing seams on housewrap applications."
+    },
+    {
+      "name": "REX SynFelt",
+      "type": "hardware",
+      "description": "Proprietary synthetic roof underlayment resistant to environmental degradation and mold growth."
+    },
+    {
+      "name": "REX TECHNOply / TECHNO SB",
+      "type": "hardware",
+      "description": "Economy versions of synthetic roof underlayment targeting the lower end of the market."
+    },
+    {
+      "name": "TECHNOplus",
+      "type": "hardware",
+      "description": "Self-adhered synthetic roof underlayment accessory for ice dam and wind driven rain protection."
+    },
+    {
+      "name": "REX Ultra HT",
+      "type": "hardware",
+      "description": "High-temperature synthetic roof underlayment accessory for demanding installation conditions."
+    },
+    {
+      "name": "Disposable Protective Garments",
+      "type": "hardware",
+      "description": "Shoecovers, bouffant caps, coveralls, gowns, frocks, and lab coats for cleanroom, industrial, and medical markets."
+    },
+    {
+      "name": "N-95 Particulate Respirator Face Mask",
+      "type": "hardware",
+      "description": "NIOSH-approved face mask with Positive Facial Lock and Magic Arch features for enhanced protection."
+    },
+    {
+      "name": "Face Shields / Eye Shields",
+      "type": "hardware",
+      "description": "Optical-grade polyester film shields with permanent anti-fog feature, disposable and lightweight."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Joint venture in India",
+      "partnership_type": "OEM",
+      "description": "Manufactures the vast majority of disposable protective garments and some building supply products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Subcontractor in Mexico",
+      "partnership_type": "OEM",
+      "description": "Assembles eye shields produced at the Nogales, Arizona facility.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/APT/profile",
+  "origin": {
+    "leaf": "c362354071b4f7b92a2e9690b6c5a2ddbea282386565b6c0f71a9885c71d6bec",
+    "parent": "05476dcd3dc17b2a0a241b878aa0b37da29a834c612bb9784d54b5eac7d38407",
+    "timestamp": "2026-04-12T03:12:57.844Z",
+    "source": "profile:0000884269",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c362354071b4f7b92a2e9690b6c5a2ddbea282386565b6c0f71a9885c71d6bec",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.844Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

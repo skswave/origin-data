@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "RHEP",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "RHEP",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 15,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RHEP",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 15,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "RHEP",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 15,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RHEP/transcripts",
+  "origin": {
+    "leaf": "6a4fbe07f588afe1d6f047f9c41c1d9c2b3a27211142c4d51db8bfd05bbd5ffb",
+    "parent": "c745f97e1212d4e4e95a6c0bf950cd8753b5e36c27202f808a869cf5abfd8b04",
+    "timestamp": "2026-04-12T03:15:28.143Z",
+    "source": "facts:RHEP",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6a4fbe07f588afe1d6f047f9c41c1d9c2b3a27211142c4d51db8bfd05bbd5ffb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:15:28.143Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "QMCO",
+  "name": "QUANTUM CORP /DE/",
+  "cik": "0000709283",
+  "exchange": "Nasdaq",
+  "sic": "3572",
+  "sic_description": "Computer Storage Devices",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "PART I Overview Quantum delivers end-to-end data management solutions designed for unstructured data in the artificial intelligence (\"AI\") era. From high-performance ingest that powers AI applications and demanding data-intensive workloads to massive, durable data lakes to fuel AI models, Quantum delivers one of the most comprehensive and cost-efficient solutions for the entire data lifecycle. We specialize in solutions for video, images, audio, and other large files because this unstructured da...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/QMCO",
+  "origin": {
+    "leaf": "63acb6b88e1317040140516d055e2f7e6982f3d843ab650680d7fe0ced44c07d",
+    "parent": "b3bf07d2a592f615d103862ff1df4973cbf044a845a79712761c169fdd34882b",
+    "timestamp": "2026-04-12T03:12:52.385Z",
+    "source": "0000709283-25-000027",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/63acb6b88e1317040140516d055e2f7e6982f3d843ab650680d7fe0ced44c07d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.385Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

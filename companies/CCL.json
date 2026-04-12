@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CCL",
+  "name": "CARNIVAL CORP",
+  "cik": "0000815097",
+  "exchange": "NYSE",
+  "sic": "4400",
+  "sic_description": "Water Transportation",
+  "state_of_incorporation": "R1",
+  "headquarters": null,
+  "founded": "1974",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1130",
+  "summary": "Carnival Corporation & plc is the largest global cruise company, operating a portfolio of eight world-class cruise lines: AIDA Cruises, Carnival Cruise Line, Costa Cruises, Cunard, Holland America Line, P&O Cruises, Princess Cruises, and Seabourn. Incorporated in Panama in 1974, the company operates as a dual listed company with Carnival plc, serving over 13.5 million guests annually with a team of more than 160,000 individuals from approximately 150 countries.",
+  "tags": [
+    "global-cruise-vacations",
+    "leisure-travel",
+    "hospitality-and-tourism"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 160000,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CCL",
+  "origin": {
+    "leaf": "c4d2e13f9ffedb1ae87eec2e40243c2eeb5f8b629a238a22020945e404382d30",
+    "parent": "a1664d2c4b026b32dabd1a75cba8561f835c86ff55a3916faf6b51f45285d56b",
+    "timestamp": "2026-04-12T03:12:50.366Z",
+    "source": "0000815097-26-000007",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c4d2e13f9ffedb1ae87eec2e40243c2eeb5f8b629a238a22020945e404382d30",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.366Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FTSP",
+  "name": "FinTrade Sherpa, Inc.",
+  "cik": "0001319643",
+  "summary": "FinTrade Sherpa, Inc. (formerly Lode-Star Mining Inc.) is a Nevada-incorporated FinTech company developing Alpha-Optimus, an AI-powered financial research platform. The platform provides AI-driven stock movement forecasts, market intelligence tools, and institutional-grade research via a tiered subscription model. It targets retail investors, financial professionals, and institutional clients. The company acquired AI intellectual property via an Asset Purchase Agreement and licenses underlying AI technology from Predictive Technology, LLC.",
+  "products": [
+    {
+      "name": "Alpha-Optimus",
+      "type": "platform",
+      "description": "AI-powered financial research platform offering stock movement predictions, market intelligence tools, and tiered subscriptions from Freemium to Premium Ultra for retail and institutional investors."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Predictive Technology, LLC",
+      "partnership_type": "licensing",
+      "description": "Exclusive worldwide license for AI technology used in developing Alpha-Optimus, for a total fee of $440,000 payable in monthly installments.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Arcterix, SARL",
+      "partnership_type": "development",
+      "description": "Software development agreement for further development of Alpha-Optimus platform, with $123,000 payable upon receipt of qualifying equity financing proceeds.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FTSP/profile",
+  "origin": {
+    "leaf": "03c8fe242755c429f75224ccbedee85f4c742585756ca10f6b212ec5ce5505b4",
+    "parent": "d4bac1d790dc613770760f8e2d5b1838106077a3e7aed2f8ed17e6a451a2743f",
+    "timestamp": "2026-04-12T03:12:58.554Z",
+    "source": "profile:0001319643",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/03c8fe242755c429f75224ccbedee85f4c742585756ca10f6b212ec5ce5505b4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.554Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DTE",
+  "name": "DTE ENERGY CO",
+  "cik": "0000936340",
+  "summary": "DTE Energy Co is a diversified energy company headquartered in Michigan. It operates through subsidiaries including DTE Electric, which provides electric utility services, and DTE Gas, which provides natural gas utility services. The company also engages in non-utility businesses including energy trading and marketing of natural gas, electricity, and environmental commodities.",
+  "products": [
+    {
+      "name": "Electric Utility Service",
+      "type": "service",
+      "description": "Generation, transmission, and distribution of electricity through DTE Electric subsidiary."
+    },
+    {
+      "name": "Natural Gas Utility Service",
+      "type": "service",
+      "description": "Distribution and storage of natural gas through DTE Gas subsidiary."
+    },
+    {
+      "name": "Natural Gas Commodity Contracts",
+      "type": "service",
+      "description": "Trading and marketing of natural gas commodity contracts."
+    },
+    {
+      "name": "Electricity Commodity Contracts",
+      "type": "service",
+      "description": "Trading and marketing of electricity commodity contracts."
+    },
+    {
+      "name": "Environmental and Other Commodity Contracts",
+      "type": "service",
+      "description": "Trading and marketing of environmental and other commodity contracts."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DTE/profile",
+  "origin": {
+    "leaf": "b04755def157d793972f683cd2ac23da6f7b27c7dbcbd06eb549db6bc3c14c08",
+    "parent": "c81184259d6f9096235c5e309f5e4a56f6a2342e6bfef8ad1f9ee1b6a129cdaf",
+    "timestamp": "2026-04-12T03:12:54.839Z",
+    "source": "profile:0000936340",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b04755def157d793972f683cd2ac23da6f7b27c7dbcbd06eb549db6bc3c14c08",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.839Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "INBP",
+  "name": "INTEGRATED BIOPHARMA INC",
+  "cik": "0001016504",
+  "summary": "Integrated BioPharma, Inc. is a Delaware corporation engaged in manufacturing, distributing, marketing, and selling vitamins, nutritional supplements, and herbal products. Its Contract Manufacturing segment, operated by Manhattan Drug Company, Inc. (MDC), serves distributors, multilevel marketers, and specialized health-care providers. Its Other Business Lines segment includes warehousing, fulfillment services, and raw material distribution. Major customers include Life Extension and Herbalife, representing approximately 84% of consolidated net sales in fiscal year 2025.",
+  "products": [
+    {
+      "name": "Vitamins and Nutritional Supplements",
+      "type": "hardware",
+      "description": "Contract manufactured vitamins, minerals, herbs, and nutritional supplements sold to distributors and multilevel marketers."
+    },
+    {
+      "name": "Warehousing and Fulfillment Services",
+      "type": "service",
+      "description": "Warehousing and fulfillment services provided by MDC Warehousing and Distribution, Inc."
+    },
+    {
+      "name": "Raw Material Distribution",
+      "type": "service",
+      "description": "Distribution of certain raw materials for DSM Nutritional Products LLC via Chem International, Inc."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Herbalife International of America, Inc.",
+      "partnership_type": "development",
+      "description": "Development and supply agreement effective December 31, 2023, for manufacturing and supplying nutritional products; terminates December 31, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Herbalife International of Luxembourg S.R.L.",
+      "partnership_type": "development",
+      "description": "Development and supply agreement effective December 31, 2023, for manufacturing and supplying nutritional products; terminates December 31, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "DSM Nutritional Products LLC",
+      "partnership_type": "strategic",
+      "description": "Principal supplier relationship; Chem International distributes certain raw materials on DSM's behalf.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/INBP/profile",
+  "origin": {
+    "leaf": "5f66b4684e23ce7588fc54ac031f974e666d2de03e9eb0aecb9b147aae44cd6f",
+    "parent": "d433718adb41574b319c1ad8bf5dc6e28771453eb7b787199d49cb84f27f84b1",
+    "timestamp": "2026-04-12T03:12:58.600Z",
+    "source": "profile:0001016504",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5f66b4684e23ce7588fc54ac031f974e666d2de03e9eb0aecb9b147aae44cd6f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.600Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

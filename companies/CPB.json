@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CPB",
+  "name": "CAMPBELL'S Co",
+  "cik": "0000016732",
+  "exchange": "Nasdaq",
+  "sic": "2000",
+  "sic_description": "Food and Kindred Products",
+  "state_of_incorporation": "NJ",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0803",
+  "summary": "The Company Unless otherwise stated, the terms \"we,\" \"us,\" \"our\" and the \"company\" refer to The Campbell's Company and its consolidated subsidiaries. We are a manufacturer and marketer of high-quality, branded food and beverage products. We organized as a business corporation under the laws of New Jersey on November 23, 1922; however, through predecessor organizations, we trace our heritage in the food business back to 1869. Our principal executive offices are in Camden, New Jersey 08103-1799. O...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CPB",
+  "origin": {
+    "leaf": "d106eea5a9da629e73d141736a7c891954f8d0918fb9cc65b83295e1f4aea6d3",
+    "parent": "cafda8fc30aaeb2cc5b5609bbfaaeb68d797f76ce5d596484fe1ec64c2061eb2",
+    "timestamp": "2026-04-12T03:12:50.570Z",
+    "source": "0000016732-25-000112",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d106eea5a9da629e73d141736a7c891954f8d0918fb9cc65b83295e1f4aea6d3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.570Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

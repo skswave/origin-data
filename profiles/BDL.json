@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BDL",
+  "name": "FLANIGANS ENTERPRISES INC",
+  "cik": "0000012040",
+  "summary": "Flanigans Enterprises, Inc. is a Florida-based company that operates and franchises casual dining restaurants, package liquor stores, and combination restaurant/package liquor stores in South Florida. As of September 2025, it operates 32 units and franchises 5 additional units. Restaurants operate under the 'Flanigans Seafood Bar and Grill' service mark, while package liquor stores operate under 'Big Daddys Liquors' or 'Big Daddys Wine & Liquors.' Food sales represent approximately 79.67% and bar sales 20.33% of total restaurant sales.",
+  "products": [
+    {
+      "name": "Flanigans Seafood Bar and Grill",
+      "type": "service",
+      "description": "Casual neighborhood dining restaurants offering seafood, alcoholic beverages, with abundant portions at reasonable prices in a nautical-themed atmosphere."
+    },
+    {
+      "name": "Big Daddys Liquors / Big Daddys Wine & Liquors",
+      "type": "service",
+      "description": "High-volume package liquor stores offering wide selection of brand name and private label liquors, beers, and wines at competitive discount prices."
+    },
+    {
+      "name": "Restaurant and Liquor Store Franchising",
+      "type": "service",
+      "description": "Franchise arrangements granting use of service marks with royalties of ~3% of gross sales for restaurants and ~1% for package liquor stores."
+    },
+    {
+      "name": "Brendans Sports Pub",
+      "type": "service",
+      "description": "A company-owned sports bar/restaurant establishment offering alcoholic beverages and food service."
+    },
+    {
+      "name": "The Whales Rib",
+      "type": "service",
+      "description": "A restaurant operated by Flanigans but not owned by the company."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "CIC Investors Limited Partnerships",
+      "partnership_type": "strategic",
+      "description": "Flanigans serves as sole general partner of ten limited partnerships owning and operating South Florida restaurants under its service marks.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BDL/profile",
+  "origin": {
+    "leaf": "7ba8a0781a7476f9b8ac965acb8431e7c5238fd9aa78eb0b987b766a96eac656",
+    "parent": "c3ccb14e1945bdac36f6e5ab92719a5c4e01200cdff1db17f49926de33732cfd",
+    "timestamp": "2026-04-12T03:12:57.737Z",
+    "source": "profile:0000012040",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7ba8a0781a7476f9b8ac965acb8431e7c5238fd9aa78eb0b987b766a96eac656",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.737Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "VSEC",
+  "name": "VSE CORP",
+  "cik": "0000102752",
+  "exchange": "Nasdaq",
+  "sic": "8711",
+  "sic_description": "Services-Engineering Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1959",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "VSE Corporation is a leading provider of aftermarket parts distribution and maintenance, repair and overhaul (MRO) services for air transportation assets, serving commercial airlines, regional airlines, air cargo transporters, MRO integrators, aviation manufacturers, corporate aircraft owners, and fixed-base operators. Operating as a single Aviation segment, VSE supplies parts through global distribution centers and provides MRO services from strategically positioned repair facilities. The company previously operated Fleet and Federal and Defense segments, both of which have been divested.",
+  "tags": [
+    "commercial-aviation",
+    "business-and-general-aviation",
+    "air-cargo",
+    "mro-integrators-and-providers",
+    "corporate-and-private-aircraft-owners",
+    "fixed-base-operators",
+    "aviation-manufacturers",
+    "faa-regulations"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 1600,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/VSEC",
+  "origin": {
+    "leaf": "f14aa608a997cbbe2d3ba5a46b7f4840ccb33b7424ec913451757fdf66f8e27d",
+    "parent": "da26398dbba6aa747393004961768a93aef48f5ae5ca6685b901c412ff3ab5e7",
+    "timestamp": "2026-04-12T03:12:50.628Z",
+    "source": "0000102752-26-000015",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f14aa608a997cbbe2d3ba5a46b7f4840ccb33b7424ec913451757fdf66f8e27d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.628Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

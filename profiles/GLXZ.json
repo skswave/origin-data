@@ -1,0 +1,85 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GLXZ",
+  "name": "Galaxy Gaming, Inc.",
+  "cik": "0000013156",
+  "summary": "Galaxy Gaming, Inc. is a global gaming company specializing in the design, development, acquisition, marketing, and licensing of proprietary casino table games, side bets, and associated technology for land-based and iGaming industries. Products include Side Bets (21+3, Lucky Ladies, Bonus Craps), Premium Games (Three Card Poker, EZ Baccarat, Heads Up Hold'em), and Enhanced Table Systems like the Galaxy Operating System (GOS). The company serves casinos, racinos, cruise ships, and online gaming operators across North America, Europe, Africa, the Caribbean, and Central America.",
+  "products": [
+    {
+      "name": "21+3",
+      "type": "service",
+      "description": "Proprietary side bet wagering option added to blackjack table games."
+    },
+    {
+      "name": "Lucky Ladies",
+      "type": "service",
+      "description": "Proprietary side bet wagering option for casino table games."
+    },
+    {
+      "name": "Bonus Craps",
+      "type": "service",
+      "description": "Proprietary side bet wagering option added to craps table games."
+    },
+    {
+      "name": "Heads Up Hold'em",
+      "type": "service",
+      "description": "Proprietary premium stand-alone casino table game with unique rules and strategies."
+    },
+    {
+      "name": "High Card Flush",
+      "type": "service",
+      "description": "Proprietary premium stand-alone casino table game."
+    },
+    {
+      "name": "Cajun Stud",
+      "type": "service",
+      "description": "Proprietary premium stand-alone casino table game."
+    },
+    {
+      "name": "Three Card Poker",
+      "type": "service",
+      "description": "Proprietary premium stand-alone casino table game generating higher revenue per placement."
+    },
+    {
+      "name": "EZ Baccarat",
+      "type": "service",
+      "description": "Proprietary premium stand-alone casino table game."
+    },
+    {
+      "name": "Galaxy Operating System (GOS)",
+      "type": "platform",
+      "description": "Advanced electronic system installed on gaming tables to collect data, detect wagers, manage jackpots, and network multiple tables."
+    },
+    {
+      "name": "Lunar Table Display (LTD)",
+      "type": "hardware",
+      "description": "Electronic video display component of GOS showing game information to generate player interest."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Evolution Malta Holding Limited",
+      "partnership_type": "strategic",
+      "description": "Merger Agreement signed July 18, 2024; Galaxy Gaming to become wholly owned subsidiary of Evolution upon closing.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GLXZ/profile",
+  "origin": {
+    "leaf": "37fb11ad20d9986a9a25a2d728db62b6a6dacb1d110ef91746f6e2063aa9b2ec",
+    "parent": "de0bf655a143731190f6011f61c2b17148ace7d01bd5f7b8a3b8ce7ef5b1ca9f",
+    "timestamp": "2026-04-12T03:12:57.872Z",
+    "source": "profile:0000013156",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/37fb11ad20d9986a9a25a2d728db62b6a6dacb1d110ef91746f6e2063aa9b2ec",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.872Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

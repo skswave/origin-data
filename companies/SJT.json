@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SJT",
+  "name": "SAN JUAN BASIN ROYALTY TRUST",
+  "cik": "0000319655",
+  "exchange": "NYSE",
+  "sic": "6792",
+  "sic_description": "Oil Royalty Traders",
+  "state_of_incorporation": "TX",
+  "headquarters": "Dallas, TX",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "San Juan Basin Royalty Trust (SJT) is a statutory trust that holds royalty interests in natural gas and oil properties located in the San Juan Basin. The trust generates income from these royalty interests and distributes proceeds to unit holders. Argent Trust Company serves as the trustee, and reserve evaluations are conducted by Cawley, Gillespie & Associates, Inc.",
+  "tags": [
+    "oil-and-gas-royalty-trusts",
+    "natural-gas-production"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SJT",
+  "origin": {
+    "leaf": "7b60c8261f135e0b9ec78f667fabff962f81ab6361ab87b750de54f75aefa5d8",
+    "parent": "dcf0f4f916c30a528ff61af19199bd73c593d53b0492d0ca3c7a5aebf545a8fc",
+    "timestamp": "2026-04-12T03:12:51.852Z",
+    "source": "0001193125-26-128710",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7b60c8261f135e0b9ec78f667fabff962f81ab6361ab87b750de54f75aefa5d8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.852Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

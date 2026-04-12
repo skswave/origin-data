@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "YDKG",
+  "name": "Yueda Digital Holding",
+  "cik": "0001413745",
+  "exchange": "Nasdaq",
+  "sic": "7311",
+  "sic_description": "Services-Advertising Agencies",
+  "state_of_incorporation": "E9",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/YDKG",
+  "origin": {
+    "leaf": "2cce1473c47a79537f712b12e0545f27af0405168f42d0efc79122c55e1b8ca9",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:53.361Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2cce1473c47a79537f712b12e0545f27af0405168f42d0efc79122c55e1b8ca9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.361Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

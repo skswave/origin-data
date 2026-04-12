@@ -1,0 +1,125 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ALK",
+  "name": "ALASKA AIR GROUP, INC.",
+  "cik": "0000766421",
+  "summary": "Alaska Air Group, Inc. is a Delaware corporation operating Alaska Airlines, Hawaiian Airlines, and Horizon Air. It provides scheduled passenger and cargo air transportation across North America, Latin America, Asia, and the Pacific, using Boeing and Airbus aircraft. The company also operates a cargo business including freighter aircraft, a loyalty program called Atmos Rewards, co-branded credit cards, and aviation services through subsidiary McGee Air Services.",
+  "products": [
+    {
+      "name": "Passenger Air Service",
+      "type": "service",
+      "description": "Scheduled passenger transportation on B737, B787, B717, A330, A321neo aircraft across North America, Latin America, Asia, and the Pacific."
+    },
+    {
+      "name": "Regional Air Service",
+      "type": "service",
+      "description": "Scheduled regional passenger service on E175 aircraft operated by Horizon and SkyWest under capacity purchase agreements with Alaska."
+    },
+    {
+      "name": "Atmos Rewards",
+      "type": "platform",
+      "description": "Combined loyalty program merging Alaska Mileage Plan and Hawaiian HawaiianMiles, offering points earning, tier status, and redemption across 1,000+ destinations."
+    },
+    {
+      "name": "Cargo Services",
+      "type": "service",
+      "description": "Freight and mail services using five dedicated freighter aircraft and belly capacity on passenger aircraft, primarily serving Alaska communities and Amazon."
+    },
+    {
+      "name": "A330-300F Freighter Operations for Amazon",
+      "type": "service",
+      "description": "Operation of 10 A330-300F aircraft for Amazon under an Air Transportation Services Agreement, providing crew, maintenance, and administrative functions."
+    },
+    {
+      "name": "Alaska Lounge",
+      "type": "service",
+      "description": "Airport lounge membership program offering access as a benefit to premium co-branded credit card holders."
+    },
+    {
+      "name": "Atmos Rewards Ascent Visa Signature",
+      "type": "service",
+      "description": "Co-branded credit card issued by Bank of America providing companion fares, free checked bags, and points earning."
+    },
+    {
+      "name": "Atmos Rewards Summit Visa Infinite",
+      "type": "service",
+      "description": "Premium co-branded credit card launched August 2025, offering global companion awards, lounge access, and accelerated status attainment."
+    },
+    {
+      "name": "Atmos Rewards Visa Signature Business",
+      "type": "service",
+      "description": "Business co-branded credit card issued by Bank of America providing core loyalty benefits for business travelers."
+    },
+    {
+      "name": "Club 49",
+      "type": "service",
+      "description": "Complimentary loyalty program exclusively for Alaska residents offering free checked bags, fare discounts, and cargo discounts."
+    },
+    {
+      "name": "Huaka'i by Hawaiian",
+      "type": "service",
+      "description": "Complimentary loyalty program for Hawai'i residents offering free checked bags and neighbor island and network-wide discounts."
+    },
+    {
+      "name": "McGee Air Services",
+      "type": "service",
+      "description": "Aviation services provider established as a wholly-owned subsidiary of Alaska in 2016."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "SkyWest",
+      "partnership_type": "strategic",
+      "description": "Third-party regional carrier operating E175 aircraft under a capacity purchase agreement with Alaska Airlines.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Amazon.com, Inc.",
+      "partnership_type": "strategic",
+      "description": "Air Transportation Services Agreement under which Alaska operates 10 A330-300F freighter aircraft on Amazon's behalf.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bank of America N.A.",
+      "partnership_type": "strategic",
+      "description": "Issuer of three Alaska/Atmos Rewards co-branded credit cards including Ascent Visa Signature, Summit Visa Infinite, and Visa Signature Business.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Barclays",
+      "partnership_type": "strategic",
+      "description": "Issuer of the Hawaiian Airlines World Elite Mastercard co-branded credit card for Atmos Rewards members.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bank of Hawai'i",
+      "partnership_type": "strategic",
+      "description": "Issuer of the Bank of Hawai'i Visa debit card providing additional earning opportunities for Atmos Rewards members.",
+      "start_date": null
+    },
+    {
+      "partner_name": "oneworld Alliance",
+      "partnership_type": "strategic",
+      "description": "Global airline alliance membership giving Alaska's guests access to more than 900 destinations in 170 territories and reciprocal tier benefits.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ALK/profile",
+  "origin": {
+    "leaf": "37e6d6fbc1a5d49f8fe4e6e8a917fea1202b74b99f5bff39f7c23d35e936a134",
+    "parent": "5c0480aa67110a179b7961b66cd6e042903ea615934ecf158b69b7e546f00608",
+    "timestamp": "2026-04-12T03:12:55.341Z",
+    "source": "profile:0000766421",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/37e6d6fbc1a5d49f8fe4e6e8a917fea1202b74b99f5bff39f7c23d35e936a134",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.341Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

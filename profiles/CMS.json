@@ -1,0 +1,93 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CMS",
+  "name": "CMS ENERGY CORP",
+  "cik": "0000811156",
+  "summary": "CMS Energy Corporation is a Michigan-based energy holding company, parent of Consumers Energy Company and NorthStar Clean Energy. Consumers Energy provides electric and natural gas utility services to Michigan customers, operating generation, transmission, and distribution infrastructure including natural gas, coal, and renewable energy assets. NorthStar Clean Energy operates non-utility energy businesses including wind, solar, and cogeneration facilities.",
+  "products": [
+    {
+      "name": "Electric Utility Service",
+      "type": "service",
+      "description": "Generation, transmission, and distribution of electricity to Michigan customers via Consumers Energy."
+    },
+    {
+      "name": "Natural Gas Utility Service",
+      "type": "service",
+      "description": "Distribution and supply of natural gas to Michigan customers via Consumers Energy."
+    },
+    {
+      "name": "Appliance Service Plan (ASP)",
+      "type": "service",
+      "description": "Appliance service and maintenance plan offered to customers."
+    },
+    {
+      "name": "Gas Customer Choice (GCC)",
+      "type": "service",
+      "description": "Program allowing gas customers to purchase gas from alternative suppliers."
+    },
+    {
+      "name": "Retail Open Access (ROA)",
+      "type": "service",
+      "description": "Program allowing electric customers to choose alternative electric suppliers."
+    },
+    {
+      "name": "Renewable Energy",
+      "type": "service",
+      "description": "Wind and solar power generation assets operated through NorthStar Clean Energy subsidiaries."
+    },
+    {
+      "name": "Cogeneration (MCV Facility)",
+      "type": "service",
+      "description": "1,647-MW natural gas-fueled combined-cycle cogeneration facility operated by MCVPartnership under PPA."
+    },
+    {
+      "name": "Securitization Bonds",
+      "type": "service",
+      "description": "Financing instruments issued by special-purpose subsidiaries authorized by MPSC statute."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "DTE Electric",
+      "partnership_type": "strategic",
+      "description": "Joint ownership of Ludington pumped-storage plant with Consumers Energy.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Michigan Public Power Agency",
+      "partnership_type": "strategic",
+      "description": "Joint ownership of J.H. Campbell Unit 3, holding a 4.80% interest.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Wolverine Power Supply Cooperative",
+      "partnership_type": "strategic",
+      "description": "Joint ownership of J.H. Campbell Unit 3, holding a 1.89% interest.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Midland Cogeneration Venture Limited Partnership (MCVPartnership)",
+      "partnership_type": "strategic",
+      "description": "Power purchase agreement between Consumers and MCVPartnership for 1,647-MW cogeneration facility.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CMS/profile",
+  "origin": {
+    "leaf": "9f1ea5216f170cdfc9cba51f5ba8aa1042134be57be449de65b3e84f65239923",
+    "parent": "7b611adce3a34fd91572357ff3e52563137c301649658179161af05a8ebc5945",
+    "timestamp": "2026-04-12T03:12:54.876Z",
+    "source": "profile:0000811156",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9f1ea5216f170cdfc9cba51f5ba8aa1042134be57be449de65b3e84f65239923",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.876Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

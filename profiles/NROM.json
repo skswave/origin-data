@@ -1,0 +1,86 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NROM",
+  "name": "NOBLE ROMANS INC",
+  "cik": "0000709005",
+  "summary": "Noble Romans, Inc. is an Indiana corporation founded in 1972 that sells and services franchises and licenses, and operates Company-owned restaurants under the trade names Noble Romans Craft Pizza & Pub, Noble Romans Pizza, Noble Romans Take-N-Bake, and Tuscanos Italian Style Subs. The Company operates stand-alone full-service restaurants and non-traditional foodservice locations (within convenience stores, hospitals, entertainment facilities, etc.) across the United States, generating revenue through franchise fees, royalties, and proprietary ingredient sales.",
+  "products": [
+    {
+      "name": "Noble Romans Craft Pizza & Pub",
+      "type": "service",
+      "description": "Full-service restaurant format offering craft pizza, beer, wine, pasta, salads, and breadsticks with dough made fresh in customer view."
+    },
+    {
+      "name": "Noble Romans Pizza (Non-Traditional)",
+      "type": "service",
+      "description": "Franchised pizza operations within convenience stores, hospitals, and entertainment facilities using shelf-stable prepared crusts and proprietary ingredients."
+    },
+    {
+      "name": "Noble Romans Take-N-Bake",
+      "type": "service",
+      "description": "Take-and-bake pizza product offered as an add-on component for non-traditional franchise locations."
+    },
+    {
+      "name": "Tuscanos Italian Style Subs",
+      "type": "service",
+      "description": "Baked sub sandwich brand operated under franchise and license agreements."
+    },
+    {
+      "name": "Noble Romans Craft Pizza & Pub",
+      "type": "service",
+      "description": "Full-service restaurant format featuring craft pizza, beer, wine, salads, pasta, and breadsticks with dough made from scratch in customer view."
+    },
+    {
+      "name": "Noble Romans Pizza for Non-Traditional Locations",
+      "type": "service",
+      "description": "Franchised pizza operations within host businesses like convenience stores, hospitals, and entertainment facilities using shelf-stable fully-prepared crusts."
+    },
+    {
+      "name": "Noble Romans Take-N-Bake",
+      "type": "service",
+      "description": "Take-and-bake pizza product offered as an add-on component for non-traditional franchise locations."
+    },
+    {
+      "name": "Tuscanos Italian Style Subs",
+      "type": "service",
+      "description": "Italian-style sub sandwich brand operated under franchise and license agreements."
+    },
+    {
+      "name": "Pizza Valet Service",
+      "type": "service",
+      "description": "Curbside carry-out service allowing customers to order ahead and receive orders at reserved valet parking spaces without leaving their vehicle."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Majors Management LLC",
+      "partnership_type": "development",
+      "description": "Development agreement signed October 2023 for 100 non-traditional franchise locations to be developed prior to September 30, 2026.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Majors Management LLC",
+      "partnership_type": "development",
+      "description": "Development agreement signed October 2023 for 100 non-traditional franchise locations to be developed prior to September 30, 2026, primarily in southern United States.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NROM/profile",
+  "origin": {
+    "leaf": "fd94d01838f6c7b7b7c51cae28ad04105413e6f270a6976746b4c9f64cc181e5",
+    "parent": "713c930e768e0e790a4b7bd4d9190f7e7601aa3b29d7dbbe67c8e97743caa804",
+    "timestamp": "2026-04-12T03:12:58.736Z",
+    "source": "profile:0000709005",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fd94d01838f6c7b7b7c51cae28ad04105413e6f270a6976746b4c9f64cc181e5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.736Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

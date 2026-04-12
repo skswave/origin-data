@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SANM",
+  "name": "SANMINA CORP",
+  "cik": "0000897723",
+  "exchange": "Nasdaq",
+  "sic": "3672",
+  "sic_description": "Printed Circuit Boards",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1003",
+  "summary": "Overview Sanmina Corporation (we or Sanmina or the Company) is a leading global provider of integrated manufacturing solutions, components, products and repair, logistics and after-market services. We provide these comprehensive offerings primarily to original equipment manufacturers (OEMs) in the following industries: industrial, medical, defense and aerospace, automotive, communications networks and cloud infrastructure. Our customer-focused organization with 39,000 employees, including 4,000 ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 39000,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SANM",
+  "origin": {
+    "leaf": "794f4839cb19925fea2fad527ab2641f94603b37d10078e249c9d4171d012268",
+    "parent": "97bf033d7f5948487df5e3329f4bdab17088d1b0d842f7cb9fef0ae9f25e36ca",
+    "timestamp": "2026-04-12T03:12:50.559Z",
+    "source": "0000897723-25-000042",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/794f4839cb19925fea2fad527ab2641f94603b37d10078e249c9d4171d012268",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.559Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

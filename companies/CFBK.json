@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CFBK",
+  "name": "CF BANKSHARES INC.",
+  "cik": "0001070680",
+  "exchange": "Nasdaq",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "CF Bankshares Inc. is the holding company for CFBank, National Association, a federally chartered national bank. The company operates as a community banking institution offering traditional banking products and services. Based on the filing, CFBank provides financial services including loans and deposit products to customers, operating under the oversight of its Holding Company and Board of Directors.",
+  "tags": [
+    "community-banking",
+    "financial-services"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CFBK",
+  "origin": {
+    "leaf": "6d11ca013d0177f2d3ccc82f4f0e6bc2b0b99def0a0c1a239bd72eecc3c8a793",
+    "parent": "d940bebb6d7c1defd9f139b2bd703ac666c48227a2cb0295d48b09efb409137f",
+    "timestamp": "2026-04-12T03:12:51.942Z",
+    "source": "0001193125-26-103638",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6d11ca013d0177f2d3ccc82f4f0e6bc2b0b99def0a0c1a239bd72eecc3c8a793",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.942Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

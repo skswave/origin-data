@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "OSPN",
+  "name": "OneSpan Inc.",
+  "cik": "0001044777",
+  "exchange": "Nasdaq",
+  "sic": "7373",
+  "sic_description": "Services-Computer Integrated Systems Design",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "OneSpan Inc. provides digital security and agreement solutions to global enterprises, including over 60% of the world's 100 largest banks. Its Cybersecurity segment offers multi-factor authentication, FIDO authentication, mobile app protection, and Digipass hardware tokens. Its Digital Agreements segment provides cloud-based e-signature (OneSpan Sign), notarization (OneSpan Notary), and identity verification solutions. The company processes over 100 million digital agreements and billions of authentication transactions annually across more than 120 countries.",
+  "tags": [
+    "banking-and-financial-institutions",
+    "enterprise-cybersecurity",
+    "digital-agreements-and-e-signature",
+    "mobile-application-security",
+    "identity-verification",
+    "workforce-identity-and-access-management",
+    "fido-(fast-identity-online)",
+    "fido2",
+    "passkeys",
+    "multi-factor-authentication-(mfa)",
+    "transaction-signing"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/OSPN",
+  "origin": {
+    "leaf": "2bf6024b92c691606fd1cccb5da7a77c08f879c60dbe3d3ffc171e1e3f74de70",
+    "parent": "0f1819cf48d4f17e89e70eb289748ebfcd526f815559cb4ff17aea04ef1b1a91",
+    "timestamp": "2026-04-12T03:12:51.489Z",
+    "source": "0001044777-26-000008",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2bf6024b92c691606fd1cccb5da7a77c08f879c60dbe3d3ffc171e1e3f74de70",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.489Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

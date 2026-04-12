@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "WHG",
+  "name": "WESTWOOD HOLDINGS GROUP INC",
+  "cik": "0001165002",
+  "exchange": "NYSE",
+  "sic": "6282",
+  "sic_description": "Investment Advice",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Westwood Holdings Group, Inc. is a Delaware corporation operating as an investment management firm. The company provides investment advisory and related services. Based on the limited text available from Item 1, Westwood manages assets for clients through its consolidated subsidiaries. Further details about specific products, services, and markets are referenced in other sections of the 10-K filing not fully provided here.",
+  "tags": [
+    "investment-management",
+    "asset-management"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/WHG",
+  "origin": {
+    "leaf": "be8acfeb63831d74f6b89afe7a7be02af997d2dca4db3d003d1651658d573123",
+    "parent": "8c570bad436f3a97f245fca059ee8be82633573d956d04fa89aab5d5dd9d9205",
+    "timestamp": "2026-04-12T03:12:52.025Z",
+    "source": "0001165002-26-000020",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/be8acfeb63831d74f6b89afe7a7be02af997d2dca4db3d003d1651658d573123",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.025Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

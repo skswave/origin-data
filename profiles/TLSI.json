@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TLSI",
+  "name": "TriSalus Life Sciences, Inc.",
+  "cik": "0001826667",
+  "summary": "TriSalus Life Sciences, Inc. is an oncology-focused medical technology company that develops innovative drug delivery technologies for solid tumors. Its flagship product, the TriNav Infusion System, uses Pressure-Enabled Drug Delivery (PEDD) technology for interventional radiology procedures including TACE and TARE. The company also develops nelitolimod, an investigational TLR9 agonist, and the PRVI device for pancreatic tumor treatment, generating $45.2 million in TriNav revenue in 2025.",
+  "products": [
+    {
+      "name": "TriNav Infusion System",
+      "type": "hardware",
+      "description": "FDA 510(k)-cleared device using PEDD technology for interventional radiology procedures including TACE and TARE in liver cancer patients."
+    },
+    {
+      "name": "Pancreatic Retrograde Venous Infusion device (PRVI)",
+      "type": "hardware",
+      "description": "FDA 510(k)-cleared device for venous-access infusions into pancreatic tumors; currently in Phase I clinical trial, not yet commercialized."
+    },
+    {
+      "name": "Nelitolimod",
+      "type": "platform",
+      "description": "Investigational class C TLR9 agonist designed to reactivate the immune system in liver and pancreatic tumors and reduce immunosuppressive MDSCs."
+    },
+    {
+      "name": "Pressure-Enabled Drug Delivery (PEDD)",
+      "type": "platform",
+      "description": "Delivery technology that modulates intravascular pressure and flow to improve therapeutic delivery into solid tumors."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TLSI/profile",
+  "origin": {
+    "leaf": "d0ad97bb9729c6c17c1babe07a530315de4c4b3d47164d1da5aebf3c87c2dbe1",
+    "parent": "d7a56a29ba473c9f5e37ce1746f30698ff99cbb1ec00aa13bc2b8ffde2f7e820",
+    "timestamp": "2026-04-12T03:12:56.879Z",
+    "source": "profile:0001826667",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d0ad97bb9729c6c17c1babe07a530315de4c4b3d47164d1da5aebf3c87c2dbe1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.879Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

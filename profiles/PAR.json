@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PAR",
+  "name": "PAR TECHNOLOGY CORP",
+  "cik": "0000708821",
+  "summary": "PAR Technology Corporation provides unified technology platforms for the restaurant and retail industries. Its products include PAR POS point-of-sale systems, Punchh loyalty and engagement platform, PAR Ordering digital ordering solutions, PAR OPS operations management, Data Central back-office analytics, Delaget restaurant analytics, PAR Retail solutions, and PAR Pay payment services. The company serves multi-unit restaurant brands and retail operators with both software-as-a-service and hardware offerings.",
+  "products": [
+    {
+      "name": "PAR POS",
+      "type": "hardware",
+      "description": "Point-of-sale system for restaurant operators."
+    },
+    {
+      "name": "Punchh",
+      "type": "platform",
+      "description": "Loyalty and customer engagement platform for restaurants and retail."
+    },
+    {
+      "name": "PAR Ordering",
+      "type": "software",
+      "description": "Digital ordering solution for restaurant brands."
+    },
+    {
+      "name": "PAR OPS",
+      "type": "software",
+      "description": "Operations management platform for restaurant operators."
+    },
+    {
+      "name": "Data Central",
+      "type": "software",
+      "description": "Back-office analytics and management software for restaurants."
+    },
+    {
+      "name": "Delaget",
+      "type": "software",
+      "description": "Restaurant analytics and operations intelligence platform."
+    },
+    {
+      "name": "PAR Retail",
+      "type": "platform",
+      "description": "Technology platform serving retail operators."
+    },
+    {
+      "name": "PAR Pay / PAR Payment Services",
+      "type": "service",
+      "description": "Payment processing and services for restaurant and retail customers."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PAR/profile",
+  "origin": {
+    "leaf": "6126b578ac8e76e420bda0b247db7f082b8b3666e376a169e982e573efba6916",
+    "parent": "08d6faea8defa44b7058891906e371cd8f7696673a1423ea9652666d361fa7e9",
+    "timestamp": "2026-04-12T03:12:56.327Z",
+    "source": "profile:0000708821",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6126b578ac8e76e420bda0b247db7f082b8b3666e376a169e982e573efba6916",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.327Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

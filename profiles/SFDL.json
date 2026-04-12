@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SFDL",
+  "name": "SECURITY FEDERAL CORP",
+  "cik": "0000818677",
+  "summary": "Security Federal Corporation is a South Carolina bank holding company for Security Federal Bank, a state-chartered commercial bank headquartered in Aiken, SC. Founded in 1922, the Bank operates 19 branch offices across South Carolina and Georgia counties. It offers retail banking, loans, investment securities management through SFINV, and insurance (auto, business, home) through SFINS. It is a certified CDFI serving low-to-moderate income communities.",
+  "products": [
+    {
+      "name": "Retail Banking",
+      "type": "service",
+      "description": "Deposit accounts and lending services offered through 19 branch offices in SC and GA."
+    },
+    {
+      "name": "Investment Securities Management",
+      "type": "service",
+      "description": "Security Federal Investments, Inc. (SFINV) holds and manages the Bank's investment securities portfolio."
+    },
+    {
+      "name": "Insurance Agency",
+      "type": "service",
+      "description": "Security Federal Insurance, Inc. (SFINS) offers auto, business, and home insurance products."
+    },
+    {
+      "name": "CDFI Lending",
+      "type": "service",
+      "description": "Loans and financial services targeting low-to-moderate income census tracts and underserved communities."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "U.S. Treasury",
+      "partnership_type": "strategic",
+      "description": "Received $82.9 million ECIP investment in exchange for 82,949 shares of Preferred Stock to support CDFI lending mission.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SFDL/profile",
+  "origin": {
+    "leaf": "350fd4ed4a3b5366831df9e431fb6b07c81ead11877336585d8eba69f70af2b9",
+    "parent": "ecb6fe742306d81bb8a065c59bf1d84ac8561a8b5cb0b194478f6c28411dab52",
+    "timestamp": "2026-04-12T03:12:59.808Z",
+    "source": "profile:0000818677",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/350fd4ed4a3b5366831df9e431fb6b07c81ead11877336585d8eba69f70af2b9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.808Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

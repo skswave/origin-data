@@ -1,0 +1,74 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EOG",
+  "name": "EOG RESOURCES INC",
+  "cik": "0000821189",
+  "summary": "EOG Resources, Inc. is a Delaware corporation that explores for, develops, produces, and markets crude oil, natural gas liquids (NGLs), and natural gas. Operations are primarily in major U.S. producing basins including the Delaware Basin, South Texas (Eagle Ford and Dorado plays), Appalachian Basin (Utica play), and Rocky Mountain area, as well as offshore Trinidad, onshore Bahrain, and onshore United Arab Emirates.",
+  "products": [
+    {
+      "name": "Crude Oil and Condensate",
+      "type": "service",
+      "description": "Explored, developed, produced, and marketed from U.S. basins, Trinidad, Bahrain, and UAE."
+    },
+    {
+      "name": "Natural Gas Liquids (NGLs)",
+      "type": "service",
+      "description": "Extracted via EOG-owned or third-party processing facilities and sold at prevailing market prices."
+    },
+    {
+      "name": "Natural Gas",
+      "type": "service",
+      "description": "Produced and marketed across U.S. locations, Trinidad, and sold to a liquefaction facility near Corpus Christi, Texas."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "BP Trinidad and Tobago LLC",
+      "partnership_type": "strategic",
+      "description": "Farmout agreement signed in 2024 for design and construction of the Coconut Platform offshore Trinidad.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bapco Energies B.S.C. (Closed)",
+      "partnership_type": "strategic",
+      "description": "Exploration participation agreement signed February 2025 to evaluate a gas exploration prospect in Bahrain.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Abu Dhabi National Oil Company (ADNOC)",
+      "partnership_type": "strategic",
+      "description": "ADNOC has option to participate in production concession for Unconventional Onshore Block 3 in UAE after three-year appraisal.",
+      "start_date": null
+    },
+    {
+      "partner_name": "National Gas Company of Trinidad and Tobago Limited",
+      "partnership_type": "strategic",
+      "description": "Natural gas volumes from Trinidad sold under two natural gas sales arrangements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Heritage Petroleum Company Limited",
+      "partnership_type": "strategic",
+      "description": "Crude oil and condensate sold to Heritage Petroleum in Trinidad.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EOG/profile",
+  "origin": {
+    "leaf": "c440d04835ba1bd15c2ba211b16972b77a8b68b31aad90aff0d24ef3ff613f21",
+    "parent": "758dd4b0c25a3a99e63553fbf673aa440299dbf2e20dec4d5a81d9ec594e4a9f",
+    "timestamp": "2026-04-12T03:12:54.744Z",
+    "source": "profile:0000821189",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c440d04835ba1bd15c2ba211b16972b77a8b68b31aad90aff0d24ef3ff613f21",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.744Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

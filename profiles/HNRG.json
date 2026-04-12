@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HNRG",
+  "name": "HALLADOR ENERGY CO",
+  "cik": "0000788965",
+  "summary": "Hallador Energy Company is a vertically integrated independent power producer and fuel company operating primarily in Indiana. Through Hallador Power, it owns and operates the 1,080 MW Merom coal-fired power plant, selling accredited capacity and wholesale energy within the MISO market. Through Sunrise Coal, it mines bituminous coal in the Illinois Basin, supplying power plants in the Midwest and Southeast United States.",
+  "products": [
+    {
+      "name": "Accredited Capacity",
+      "type": "service",
+      "description": "Dispatchable electric capacity sold to utilities and energy market participants via PPAs and bilateral transactions within the MISO system."
+    },
+    {
+      "name": "Wholesale Energy",
+      "type": "service",
+      "description": "Wholesale electricity sold to utilities, cooperatives, and market participants via PPAs, bilateral transactions, and MISO spot markets."
+    },
+    {
+      "name": "Bituminous Coal",
+      "type": "hardware",
+      "description": "Coal mined from Illinois Basin reserves and sold to power plants in the Midwest and Southeast United States."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Sunrise Energy, LLC",
+      "partnership_type": "strategic",
+      "description": "Hallador holds a 50% interest, accounted for using the equity method.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Oaktown Gas, LLC",
+      "partnership_type": "strategic",
+      "description": "Hallador holds a 50% interest, accounted for using the equity method.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HNRG/profile",
+  "origin": {
+    "leaf": "89505d3b8a5a490da17eb0e5769b152c5bc0d04b709f242c20c885c1bfa9b05e",
+    "parent": "c99efaef867cd74f7c9dcd423865d4149f9c24cd2ce763bdb49bbad79965e964",
+    "timestamp": "2026-04-12T03:12:56.131Z",
+    "source": "profile:0000788965",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/89505d3b8a5a490da17eb0e5769b152c5bc0d04b709f242c20c885c1bfa9b05e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.131Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ABCB",
+  "name": "Ameris Bancorp",
+  "cik": "0000351569",
+  "exchange": "NYSE",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "GA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "OVERVIEW We are a financial holding company whose business is conducted primarily through our wholly owned banking subsidiary, Ameris Bank (the Bank), which provides a full range of banking services to its retail and commercial customers who are primarily concentrated in select markets in Georgia, Alabama, Florida, North Carolina and South Carolina. The Companys executive office is located at 3490 Piedmont Road N.E., Suite 1550, Atlanta, Georgia 30305, our telephone number is (404) 639-6500 and ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ABCB",
+  "origin": {
+    "leaf": "66f8bb7e2b02332ca316667a46dd3feff03b78df6a492a6107a27c9bc8654eee",
+    "parent": "9eb8900797d37904a3cec87a6c6856ec17469625f40f9c2ad79377bb4aefc7a6",
+    "timestamp": "2026-04-12T03:12:50.619Z",
+    "source": "0000351569-26-000050",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/66f8bb7e2b02332ca316667a46dd3feff03b78df6a492a6107a27c9bc8654eee",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.619Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

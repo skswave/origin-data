@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "VSTM",
+  "name": "Verastem, Inc.",
+  "cik": "0001526119",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "MA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Verastem, Inc. is a commercial-stage biopharmaceutical company focused on developing and commercializing medicines for cancer. Its marketed product is AVMAPKI FAKZYNJA CO-PACK (avutometinib capsules; defactinib tablets). Its pipeline includes avutometinib (RAF/MEK inhibitor), defactinib (FAK inhibitor), and VS-7375 (a selective oral KRAS G12D dual ON/OFF inhibitor). The company conducts clinical trials including RAMP 201, RAMP 201J, RAMP 205, RAMP 301, and VS-7375 trials.",
+  "tags": [
+    "oncology",
+    "biopharmaceuticals",
+    "clinical-stage-cancer-therapeutics"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/VSTM",
+  "origin": {
+    "leaf": "108e9c573684b1532f53daadd417b25301b860f42c2b9c7135e6d4566c176548",
+    "parent": "31668595af6d138073562cc7c8f6eacb2c6ac9922727b3d484a9cfb5e7858984",
+    "timestamp": "2026-04-12T03:12:51.426Z",
+    "source": "0001104659-26-023444",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/108e9c573684b1532f53daadd417b25301b860f42c2b9c7135e6d4566c176548",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.426Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

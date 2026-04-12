@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HYEX",
+  "name": "HEALTHY EXTRACTS INC.",
+  "cik": "0001630176",
+  "summary": "Healthy Extracts Inc. (HYEX) is a platform for acquiring, developing, patenting, marketing, and distributing plant-based nutraceuticals. Operating through two subsidiaries, BergaMet NA LLC and Ultimate Brain Nutrients LLC, the company offers heart, immune, and brain health supplements. Key products include BergaMet PRO+ (citrus bergamot-based) and UBN brain health formulations. The company targets U.S. consumers and operates in the multibillion-dollar nutraceuticals market.",
+  "products": [
+    {
+      "name": "BergaMet PRO+",
+      "type": "hardware",
+      "description": "Citrus bergamot supplement with 47% BPF Gold potency targeting heart health, immune response, and metabolic syndrome."
+    },
+    {
+      "name": "BergaMet SuperFruit formulations",
+      "type": "hardware",
+      "description": "All-natural Citrus Bergamot SuperFruit-based nutraceutical products for heart and immune health."
+    },
+    {
+      "name": "UBN brain health formulations",
+      "type": "hardware",
+      "description": "Plant-based neuro-products developed over 20+ years targeting brain health, memory, cognition, and mental energy."
+    },
+    {
+      "name": "UBN RELIEF",
+      "type": "hardware",
+      "description": "Nutraceutical product targeting migraine sufferers, addressing a market of approximately 39 million U.S. sufferers."
+    },
+    {
+      "name": "Gel-pack delivery system",
+      "type": "platform",
+      "description": "Ingestible gel technology delivery system for supplements, planned for launch in 2025 via Gelteq partnership."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Gelteq Pty Ltd.",
+      "partnership_type": "licensing",
+      "description": "Exclusive U.S. and Canada licensing and manufacturing agreement for ingestible gel-pack supplement delivery technology, launching 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HYEX/profile",
+  "origin": {
+    "leaf": "91c5dc5195fdce721a62cfc3565f52103c67ca4d2d96f8eb57c38a46fc0f3d0a",
+    "parent": "1e87403fd11cce0b4546e575b9f6f43cd65b09b2be2b0810f0ba7ba43b1e9324",
+    "timestamp": "2026-04-12T03:12:58.116Z",
+    "source": "profile:0001630176",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/91c5dc5195fdce721a62cfc3565f52103c67ca4d2d96f8eb57c38a46fc0f3d0a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.116Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

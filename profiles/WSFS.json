@@ -1,0 +1,85 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WSFS",
+  "name": "WSFS FINANCIAL CORP",
+  "cik": "0000828944",
+  "summary": "WSFS Financial Corporation is a savings and loan holding company headquartered in Wilmington, Delaware, operating through Wilmington Savings Fund Society, FSB. With $21.3 billion in assets and $97.4 billion in AUM/AUA, it offers commercial and consumer banking, wealth and trust services, and ATM vault cash and smart safe logistics through its Cash Connect business, serving clients across Pennsylvania, Delaware, New Jersey, Florida, Nevada, and Virginia.",
+  "products": [
+    {
+      "name": "WSFS Bank Commercial Loans and Leases",
+      "type": "service",
+      "description": "Commercial loan and lease portfolio of $10.0 billion serving commercial clients nationwide."
+    },
+    {
+      "name": "WSFS Mortgage",
+      "type": "service",
+      "description": "Mortgage banking and title services offered through the Home Lending division."
+    },
+    {
+      "name": "Cash Connect ATM Vault Cash",
+      "type": "service",
+      "description": "ATM vault cash services for approximately 24,000 non-bank ATMs nationwide."
+    },
+    {
+      "name": "Cash Connect Smart Safe",
+      "type": "hardware",
+      "description": "Smart safes that automatically accept, validate, record and hold cash, servicing approximately 11,900 units nationwide."
+    },
+    {
+      "name": "Wealth and Trust Services",
+      "type": "service",
+      "description": "Planning, advisory, investment management, personal and institutional trust services for individuals and institutions."
+    },
+    {
+      "name": "NewLane Finance",
+      "type": "service",
+      "description": "Small business equipment leases and commercial financing nationwide, including technology, medical, and veterinary equipment."
+    },
+    {
+      "name": "Prime Protect",
+      "type": "service",
+      "description": "Insurance product offerings provided through NewLane Finance's subsidiary."
+    },
+    {
+      "name": "BMT-DE Delaware Trust Services",
+      "type": "service",
+      "description": "Delaware advantage trust services including directed trusts, asset protection trusts, and dynasty trusts with $40.7 billion AUM/AUA."
+    },
+    {
+      "name": "WSFS SPE Services",
+      "type": "service",
+      "description": "Commercial domicile services including employees, directors, office subleases, and registered agent services in Delaware and Nevada."
+    },
+    {
+      "name": "Digital Banking Platform",
+      "type": "platform",
+      "description": "Online and mobile banking platform used to fund lending businesses and serve clients."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "ATM networks, manufacturers and service providers",
+      "partnership_type": "strategic",
+      "description": "Cash Connect operates through strategic partnerships with several of the largest ATM networks, manufacturers, and service providers.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WSFS/profile",
+  "origin": {
+    "leaf": "6625bfe54bce5334d4ebca0fdaecf0c93e86b5ee37547961f4a3be11cbe38ee1",
+    "parent": "d98fc717a48dd278376fda240642802c59640ac20ca1dab1b1a73a18055b550c",
+    "timestamp": "2026-04-12T03:12:55.406Z",
+    "source": "profile:0000828944",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6625bfe54bce5334d4ebca0fdaecf0c93e86b5ee37547961f4a3be11cbe38ee1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.406Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

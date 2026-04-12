@@ -1,0 +1,66 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DPLS",
+  "name": "DarkPulse, Inc.",
+  "cik": "0000866439",
+  "summary": "DarkPulse, Inc. is a technology-security company headquartered in New York. It develops patented BOTDA dark-pulse fiber optic sensor technology for border security, pipelines, oil and gas, and mine safety monitoring. Subsidiaries include TerraData Unmanned (NDAA-compliant drones and ground crawlers), Optilan India (engineering and design services), and Optilan Turkey (telecommunications systems integration). The company partners with Sanmina Corporation for hardware manufacturing and has yet to record commercial sales of its core BOTDA sensor system.",
+  "products": [
+    {
+      "name": "BOTDA Dark-Pulse Sensor System (Gen. 3)",
+      "type": "hardware",
+      "description": "Patented fiber optic distributed sensor system for dynamic monitoring of pipelines, borders, and mines with high resolution and accuracy."
+    },
+    {
+      "name": "NDAA Compliant Quad Copter Drone",
+      "type": "hardware",
+      "description": "Custom drone with 1.5KG payload, 60+ minutes flight time, compliant autopilot, TSO-certified GPS, and proprietary software."
+    },
+    {
+      "name": "Autonomous Crawler",
+      "type": "hardware",
+      "description": "Autonomous ground crawler with methane and multi-gas detection capabilities developed and tested by TerraData Unmanned."
+    },
+    {
+      "name": "Telecommunications Systems Integration",
+      "type": "service",
+      "description": "Supply of equipment and cable installation services for oil and gas, rail, law enforcement, telecoms, and power utilities via Optilan Turkey."
+    },
+    {
+      "name": "Project Engineering & Design Services",
+      "type": "service",
+      "description": "System provisioning and contract bid services provided globally by Optilan India and Optilan Turkey."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Sanmina Corporation",
+      "partnership_type": "OEM",
+      "description": "Handles design and manufacturing of DarkPulse's patented BOTDA sensor system hardware; has built two demonstration units.",
+      "start_date": null
+    },
+    {
+      "partner_name": "University of New Brunswick",
+      "partnership_type": "licensing",
+      "description": "Assigned BOTDA patents to DPTI in 2010 in exchange for a C$1,500,000 debenture; royalty period has now expired.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DPLS/profile",
+  "origin": {
+    "leaf": "a0735146e48135086bffd8171102a7dad7fe099643870bfb099dd6ba0dde5d86",
+    "parent": "39e232cbd08d1ed9efbe21a1cd3dc70aa57581303451ae2d9f3de80f5b527e6a",
+    "timestamp": "2026-04-12T03:12:59.156Z",
+    "source": "profile:0000866439",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a0735146e48135086bffd8171102a7dad7fe099643870bfb099dd6ba0dde5d86",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.156Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

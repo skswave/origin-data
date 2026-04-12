@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CPHC",
+  "name": "Canterbury Park Holding Corp",
+  "cik": "0001672909",
+  "exchange": "Nasdaq",
+  "sic": "7948",
+  "sic_description": "Services-Racing, Including Track Operation",
+  "state_of_incorporation": "MN",
+  "headquarters": "Shakopee, Minnesota",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Canterbury Park Holding Corporation operates the Canterbury Park Racetrack and Casino in Shakopee, Minnesota, approximately 20 miles southwest of Minneapolis. The company conducts pari-mutuel wagering on live thoroughbred and quarter horse races (seasonal, May–September) and year-round simulcasting, hosts unbanked card games (poker and table games) at an up to 80-table Casino, provides food and beverage services, and pursues real estate development on its approximately 260-acre property through subsidiaries Canterbury Park Entertainment LLC and Canterbury Development LLC.",
+  "tags": [
+    "pari-mutuel-horse-racing-wagering",
+    "unbanked-casino-card-gaming",
+    "food-and-beverage/hospitality",
+    "real-estate-development",
+    "simulcast-horse-racing"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CPHC",
+  "origin": {
+    "leaf": "797372ab5f34633d77a77d0244dc3a050eb93efc49ebb08ffd1524896423dc18",
+    "parent": "9a3b951b4d77f852447ce476433a760381961a5c1a00e1bd104f32f41479d00a",
+    "timestamp": "2026-04-12T03:12:52.308Z",
+    "source": "0001437749-26-007464",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/797372ab5f34633d77a77d0244dc3a050eb93efc49ebb08ffd1524896423dc18",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.308Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

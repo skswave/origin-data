@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ITP",
+  "name": "IT TECH PACKAGING, INC.",
+  "cik": "0001358190",
+  "summary": "IT Tech Packaging, Inc. (ITP) is a Nevada holding company that conducts operations primarily through its variable interest entity, Hebei Baoding Dongfang Paper Milling Company Limited (Dongfang Paper), based in China. The company produces and distributes paper products including corrugating medium paper, offset printing paper, and tissue paper, as well as medical face masks, operating primarily in China's paper making industry.",
+  "products": [
+    {
+      "name": "Corrugating Medium Paper",
+      "type": "hardware",
+      "description": "Paper product used in corrugated packaging, a primary business segment of Dongfang Paper."
+    },
+    {
+      "name": "Offset Printing Paper",
+      "type": "hardware",
+      "description": "Printing paper produced and distributed by Dongfang Paper in China."
+    },
+    {
+      "name": "Tissue Paper",
+      "type": "hardware",
+      "description": "Tissue paper product with planned capacity expansion underway."
+    },
+    {
+      "name": "Medical Face Masks",
+      "type": "hardware",
+      "description": "Medical face masks produced and distributed through VIE and PRC subsidiaries."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ITP/profile",
+  "origin": {
+    "leaf": "f8eb762786de7529a946bd842712140c196b120989a0266e3d6f7f1b65cc9dfb",
+    "parent": "1c3976f2eb4f72501ecbd603781ca0f9fc97214fc5844cbb485fdb8afba6991a",
+    "timestamp": "2026-04-12T03:12:58.943Z",
+    "source": "profile:0001358190",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f8eb762786de7529a946bd842712140c196b120989a0266e3d6f7f1b65cc9dfb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.943Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

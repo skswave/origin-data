@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MAN",
+  "name": "ManpowerGroup Inc.",
+  "cik": "0000871763",
+  "exchange": "NYSE",
+  "sic": "7363",
+  "sic_description": "Services-Help Supply Services",
+  "state_of_incorporation": "WI",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Introduction and History ManpowerGroup Inc. is a global leader in innovative workforce solutions. Through our network of approximately 2,100 offices in more than 70 countries and territories, we put millions of people to work each year with our global, multinational and local clients across all major industry segments. Our strong and distinct brands provide specialized solutions that drive organizations forward, accelerate individual success and help build more sustainable communities. We power ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MAN",
+  "origin": {
+    "leaf": "5bc7dc12e8da181d97d8fa9f816ce2d8a0741cd9a1c555231ea1830c2be479c3",
+    "parent": "edfd4f6e3bc67affc0d7f93da4a26a7fc6a50fc4489a046fc4c49e72a49709d3",
+    "timestamp": "2026-04-12T03:12:51.005Z",
+    "source": "0001193125-26-064113",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5bc7dc12e8da181d97d8fa9f816ce2d8a0741cd9a1c555231ea1830c2be479c3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.005Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

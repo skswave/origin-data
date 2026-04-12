@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "IESC",
+  "name": "IES Holdings, Inc.",
+  "cik": "0001048268",
+  "exchange": "Nasdaq",
+  "sic": "1731",
+  "sic_description": "Electrical Work",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "OVERVIEW IES Holdings, Inc. designs and installs integrated electrical and technology systems and provides infrastructure products and services to a variety of end markets, including data centers, residential housing and commercial and industrial facilities. Our operations are organized into four business segments, based upon the nature of our services: Communications Nationwide provider of technology infrastructure services, including the design, build, and maintenance of the communications inf...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/IESC",
+  "origin": {
+    "leaf": "0558f7a32157962f9b2f0ed9e1ee3657903f74a968ab1ea907324673a285534c",
+    "parent": "ee28cad506a892f5a049f482b936835a6cf1ab5e7bfa8f62beb07afee5f9b026",
+    "timestamp": "2026-04-12T03:12:50.510Z",
+    "source": "0001048268-25-000174",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0558f7a32157962f9b2f0ed9e1ee3657903f74a968ab1ea907324673a285534c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.510Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

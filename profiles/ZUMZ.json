@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ZUMZ",
+  "name": "Zumiez Inc",
+  "cik": "0001318008",
+  "summary": "Zumiez Inc. is a specialty retailer of apparel, footwear, accessories, and hardgoods targeting young men and women interested in action sports, streetwear, and unique lifestyles. Operating under Zumiez, Blue Tomato, and Fast Times brands, the company runs 719 stores across the U.S., Canada, Europe, and Australia, complemented by ecommerce platforms. Products include skateboards, snowboards, bindings, and private label apparel.",
+  "products": [
+    {
+      "name": "Apparel",
+      "type": "service",
+      "description": "Branded and private label clothing for action sports and streetwear lifestyles"
+    },
+    {
+      "name": "Footwear",
+      "type": "service",
+      "description": "Shoes and boots aligned with action sports and streetwear trends"
+    },
+    {
+      "name": "Accessories",
+      "type": "service",
+      "description": "Fashion accessories for young men and women in lifestyle segments"
+    },
+    {
+      "name": "Hardgoods",
+      "type": "hardware",
+      "description": "Skateboards, snowboards, bindings, components and other action sports equipment"
+    },
+    {
+      "name": "Zumiez STASH Loyalty Program",
+      "type": "platform",
+      "description": "Customer loyalty program integrated with the Zumiez digital app"
+    },
+    {
+      "name": "Zumiez Digital App",
+      "type": "platform",
+      "description": "Mobile app supporting loyalty program and customer engagement"
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ZUMZ/profile",
+  "origin": {
+    "leaf": "3527e244c24dbec10b50d8a7dc608a07921d97c80087436f49b10f40bd11e53a",
+    "parent": "66b05d507c1a5e54daadfefd383ff1be70c93572f4f36998d06c6cd4047637d1",
+    "timestamp": "2026-04-12T03:12:56.559Z",
+    "source": "profile:0001318008",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3527e244c24dbec10b50d8a7dc608a07921d97c80087436f49b10f40bd11e53a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.559Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

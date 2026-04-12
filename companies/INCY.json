@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "INCY",
+  "name": "INCYTE CORP",
+  "cik": "0000879169",
+  "exchange": "Nasdaq",
+  "sic": "8731",
+  "sic_description": "Services-Commercial Physical & Biological Research",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Overview Incyte is a global biopharmaceutical company engaged in the discovery, development and commercialization of proprietary therapeutics. Our global headquarters is located in Wilmington, Delaware, where we conduct discovery, clinical development and commercial operations. We also conduct clinical development and commercial operations from our European headquarters in Morges, Switzerland, and our other offices across Europe, as well as our Japanese headquarters in Tokyo and our Canadian hea...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/INCY",
+  "origin": {
+    "leaf": "ce5ff474ed041b47775b0f008eaec645a4ff809d4c8d242c3995e790ba6cd8f6",
+    "parent": "d14f5f5fab1ba49de03d8f7de82f0d0d10e22630a5b57398f143d3ebda78b5d0",
+    "timestamp": "2026-04-12T03:12:50.423Z",
+    "source": "0000879169-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ce5ff474ed041b47775b0f008eaec645a4ff809d4c8d242c3995e790ba6cd8f6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.423Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

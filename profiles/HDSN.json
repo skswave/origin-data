@@ -1,0 +1,107 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HDSN",
+  "name": "HUDSON TECHNOLOGIES INC /NY",
+  "cik": "0000925528",
+  "summary": "Hudson Technologies, Inc. is a New York-based refrigerant services company providing refrigerant and industrial gas sales, refrigerant reclamation and management services, and RefrigerantSide Services including system decontamination and energy efficiency optimization. The Company sells reclaimed and virgin CFC, HCFC, HFC, and HFO refrigerants, operates proprietary reclamation equipment including the Zugibeast system, provides laboratory testing, and participates in carbon offset credit generation. It serves commercial air conditioning, industrial processing, and refrigeration industries, and holds a contract with the U.S. Defense Logistics Agency.",
+  "products": [
+    {
+      "name": "Refrigerant Sales",
+      "type": "service",
+      "description": "Sale of reclaimed and virgin CFC, HCFC, HFC, and HFO refrigerants to air conditioning and refrigeration industry customers."
+    },
+    {
+      "name": "Refrigerant Reclamation Services",
+      "type": "service",
+      "description": "Recovery and reclamation of used or contaminated refrigerants using proprietary high-speed reclamation equipment."
+    },
+    {
+      "name": "Zugibeast System",
+      "type": "hardware",
+      "description": "Proprietary portable high-volume high-speed equipment used for refrigerant decontamination and recovery at customer sites."
+    },
+    {
+      "name": "RefrigerantSide Services",
+      "type": "service",
+      "description": "On-site system decontamination, refrigerant recovery, and reclamation services covered by process patents."
+    },
+    {
+      "name": "SmartEnergy OPS",
+      "type": "platform",
+      "description": "Web-based real-time continuous monitoring service for measuring and improving efficiency of chiller plant systems; covered by US patents."
+    },
+    {
+      "name": "Chiller Chemistry",
+      "type": "service",
+      "description": "Diagnostic service integrating fluid tests of operating systems into engineering reports identifying abnormal conditions and remediation needs."
+    },
+    {
+      "name": "Fluid Chemistry",
+      "type": "service",
+      "description": "Abbreviated version of Chiller Chemistry designed to quickly identify systems requiring further examination."
+    },
+    {
+      "name": "ChillSmart",
+      "type": "service",
+      "description": "Combines system optimization with Chiller Chemistry to provide a snapshot of a packaged chiller's operating efficiency and health."
+    },
+    {
+      "name": "Industrial Gas Sales",
+      "type": "service",
+      "description": "Sale of industrial gases predominantly to users in or involved with the US Military."
+    },
+    {
+      "name": "Carbon Offset Projects",
+      "type": "service",
+      "description": "Generation and monetization of verified emission reductions utilizing third-party protocols."
+    },
+    {
+      "name": "Laboratory Testing",
+      "type": "service",
+      "description": "AHRI-certified laboratory providing refrigerant testing services as part of refrigerant management offerings."
+    },
+    {
+      "name": "Cylinder Refurbishment and Hydrostatic Testing",
+      "type": "service",
+      "description": "Re-usable cylinder refurbishment and hydrostatic testing services for refrigerant containers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "United States Defense Logistics Agency (DLA)",
+      "partnership_type": "strategic",
+      "description": "Prime contractor for management, supply, and sale of refrigerants, compressed gases, cylinders, and related services; current contract expires July 2026.",
+      "start_date": null
+    },
+    {
+      "partner_name": "United Nations Industrial Development Organization (UNIDO)",
+      "partnership_type": "strategic",
+      "description": "Hudson's engineers serve as Lead International Energy Experts for steam, chillers, and refrigeration systems.",
+      "start_date": null
+    },
+    {
+      "partner_name": "United States Department of Energy (DOE)",
+      "partnership_type": "strategic",
+      "description": "Hudson's engineers recognized as Energy Experts and Qualified Best Practices Specialists under the DOE Best Practices program.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HDSN/profile",
+  "origin": {
+    "leaf": "b6ec69031634a963f1c37152b9cb04634d37915518c45b44d06e2bef7cf93e56",
+    "parent": "7618e907c3cd274ce4e3a566eb3a97691eafca224a95d0708efc282cf98cec8f",
+    "timestamp": "2026-04-12T03:12:56.861Z",
+    "source": "profile:0000925528",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b6ec69031634a963f1c37152b9cb04634d37915518c45b44d06e2bef7cf93e56",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.861Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

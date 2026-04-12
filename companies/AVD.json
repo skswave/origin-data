@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AVD",
+  "name": "AMERICAN VANGUARD CORP",
+  "cik": "0000005981",
+  "exchange": "NYSE",
+  "sic": "2870",
+  "sic_description": "Agricultural Chemicals",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1969",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "American Vanguard Corporation (AVD) is a Delaware holding company operating through subsidiaries including AMVAC Chemical Corporation. The company manufactures and markets chemical, biological, and biorational products for agricultural, commercial, and consumer uses. Products include insecticides, fungicides, herbicides, soil fumigants, molluscicides, growth regulators, plant nutrition, and biorationals, sold in liquid, powder, and granular forms. AVD also offers closed delivery systems such as SmartBox Plus, Lock n Load, and EZ Load, distributing domestically and internationally.",
+  "tags": [
+    "agricultural-chemicals",
+    "commercial-pest-control",
+    "consumer-pest-control",
+    "turf-and-ornamental-plants",
+    "human-and-animal-health-protection",
+    "latin-american-agriculture",
+    "australia-and-new-zealand-agriculture",
+    "midwest-corn-and-soybean-markets"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AVD",
+  "origin": {
+    "leaf": "ffec63568b5bad50ab22cc963179d59d4f378de3be8914442e331d68de6e7a15",
+    "parent": "330e70495f012d6c60fce2ecf3ba74c94dd0d8addef98478abbc0bb81aa61ea5",
+    "timestamp": "2026-04-12T03:12:52.358Z",
+    "source": "0001193125-26-108593",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ffec63568b5bad50ab22cc963179d59d4f378de3be8914442e331d68de6e7a15",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.358Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

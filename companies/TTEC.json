@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TTEC",
+  "name": "TTEC Holdings, Inc.",
+  "cik": "0001013880",
+  "exchange": "Nasdaq",
+  "sic": "7363",
+  "sic_description": "Services-Help Supply Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "TTEC Holdings, Inc. is a customer experience technology and services company operating through two segments: TTEC Digital, which designs and implements cloud-based and AI-enabled customer experience technology solutions, and TTEC Engage, which provides customer care, acquisition, and retention services. The company serves approximately 150 clients in its Engage segment and partners with technology vendors for its Digital segment, with delivery operations spanning multiple geographies including significant presence outside the U.S.",
+  "tags": [
+    "customer-experience-outsourcing",
+    "customer-experience-technology-solutions",
+    "public-sector-services",
+    "cloud-and-saas-cx-solutions",
+    "artificial-intelligence-(ai)",
+    "public-cloud",
+    "saas",
+    "on-premises-information-technology-solutions"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TTEC",
+  "origin": {
+    "leaf": "885c31f3d6e47bceb51f82f55443bdeceee3effcc8df56d419756944cc6bb1aa",
+    "parent": "e5d1d169f714feb845c9b70f754e67d8ca213be4a72031c4750b300b28b7cf8b",
+    "timestamp": "2026-04-12T03:12:52.133Z",
+    "source": "0001104659-26-020532",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/885c31f3d6e47bceb51f82f55443bdeceee3effcc8df56d419756944cc6bb1aa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.133Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

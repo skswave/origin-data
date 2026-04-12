@@ -1,0 +1,80 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DHC",
+  "name": "DIVERSIFIED HEALTHCARE TRUST",
+  "cik": "0001075415",
+  "summary": "Diversified Healthcare Trust (DHC) is a Maryland-organized REIT that owns senior living communities, medical office and life science properties, wellness centers, and other healthcare-related real estate across the United States. As of December 31, 2025, DHC owned 298 properties in 33 states and Washington, D.C., and held equity interests in two unconsolidated joint ventures owning approximately 2.2 million rentable square feet of medical office and life science properties.",
+  "products": [
+    {
+      "name": "Senior Living Communities",
+      "type": "service",
+      "description": "Includes independent living, assisted living, memory care, and skilled nursing facilities operated by third-party managers under TRS structure."
+    },
+    {
+      "name": "Medical Office and Life Science Properties",
+      "type": "service",
+      "description": "Commercial properties leased to physicians, healthcare personnel, clinics, and life science or laboratory users."
+    },
+    {
+      "name": "Wellness Centers",
+      "type": "service",
+      "description": "Properties featuring exercise, sports, spa, and therapy facilities leased under triple net arrangements."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Sinceri Senior Living",
+      "partnership_type": "strategic",
+      "description": "Third-party manager of senior living communities representing 30.8% of gross real estate value as of December 31, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Discovery Senior Living",
+      "partnership_type": "strategic",
+      "description": "Third-party manager representing 23.7% of gross real estate value as of December 31, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Tutera Senior Living",
+      "partnership_type": "strategic",
+      "description": "Third-party manager representing 8.9% of gross real estate value as of December 31, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Charter Senior Living",
+      "partnership_type": "strategic",
+      "description": "Third-party manager representing 7.0% of gross real estate value as of December 31, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Phoenix Senior Living",
+      "partnership_type": "strategic",
+      "description": "Third-party manager representing 5.7% of gross real estate value as of December 31, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "AlerisLife Inc. (Five Star Senior Living)",
+      "partnership_type": "strategic",
+      "description": "Former manager of 116 senior living communities; transitioned out in 2025 due to AlerisLife's asset sale and business wind-down.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DHC/profile",
+  "origin": {
+    "leaf": "61dad2dcabcf98f3c89f4651f2aa81ee773fcfebf67f9cba7b104ab35a49b9b3",
+    "parent": "d088a6f542c19eeab4274c2dbb6b26b4ab7f2007b31b7a54dddd3628caf9d1d8",
+    "timestamp": "2026-04-12T03:12:55.773Z",
+    "source": "profile:0001075415",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/61dad2dcabcf98f3c89f4651f2aa81ee773fcfebf67f9cba7b104ab35a49b9b3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.773Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VICP",
+  "name": "Vicapsys Life Sciences, Inc.",
+  "cik": "0001468639",
+  "summary": "Vicapsys Life Sciences, Inc. is a Florida-incorporated biopharmaceutical holding company developing encapsulated product candidates incorporating proprietary derivatives of the chemokine CXCL12 to create immunoprotection zones around cells, tissues, organs, and devices. Its lead product line VICAPSYN targets transplantation therapies including Type 1 Diabetes treatment via encapsulated human islet cell clusters. A second line, VYBRIN, addresses anti-fibrotic applications including post-surgical adhesion prevention, implantable device coating, and diabetic wound healing.",
+  "products": [
+    {
+      "name": "VICAPSYN",
+      "type": "platform",
+      "description": "Proprietary encapsulated product candidates using CXCL12 derivatives for transplantation therapies and stem-cell applications, with lead application in Type 1 Diabetes treatment via encapsulated human islet cell clusters."
+    },
+    {
+      "name": "VYBRIN",
+      "type": "platform",
+      "description": "CXCL12-based product candidate line targeting anti-fibrotic applications including post-surgical adhesion prevention, implantable device coating, and diabetic ulcer wound healing."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Massachusetts General Hospital (MGH)",
+      "partnership_type": "licensing",
+      "description": "Exclusive, royalty-bearing worldwide license under Patent Rights for coating and transplanting cells, tissues, and devices for therapeutic purposes, with milestone and royalty payment obligations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VICP/profile",
+  "origin": {
+    "leaf": "c9aaafb524453ba84283f970c157b78c4d0b54b2f1158087794966df61b65402",
+    "parent": "fe283f55f2e564dbe735da133138e0627a4da26e1bba0e64b9cf16641b5aa9d8",
+    "timestamp": "2026-04-12T03:12:59.838Z",
+    "source": "profile:0001468639",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c9aaafb524453ba84283f970c157b78c4d0b54b2f1158087794966df61b65402",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.838Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

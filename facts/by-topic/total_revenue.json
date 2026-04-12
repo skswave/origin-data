@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "total_revenue",
   "label": "Total Revenue",
-  "companies": 28,
-  "total_mentions": 1236,
+  "companies": 55,
+  "total_mentions": 1522,
   "results": [
     {
       "ticker": "JPM",
@@ -73,6 +73,15 @@
       ]
     },
     {
+      "ticker": "USB",
+      "company": "US BANCORP \\DE\\",
+      "mentions": 76,
+      "quarters": [
+        "Q1_FY2024",
+        "Q4_FY2023"
+      ]
+    },
+    {
       "ticker": "AMD",
       "company": "ADVANCED MICRO DEVICES INC",
       "mentions": 71,
@@ -114,6 +123,26 @@
       "quarters": []
     },
     {
+      "ticker": "SPGI",
+      "company": "S&P Global Inc.",
+      "mentions": 33,
+      "quarters": [
+        "Q2_FY2012"
+      ]
+    },
+    {
+      "ticker": "MCO",
+      "company": "MOODYS CORP /DE/",
+      "mentions": 29,
+      "quarters": []
+    },
+    {
+      "ticker": "MA",
+      "company": "Mastercard Inc",
+      "mentions": 25,
+      "quarters": []
+    },
+    {
       "ticker": "WFC",
       "company": "WELLS FARGO & COMPANY/MN",
       "mentions": 22,
@@ -137,11 +166,41 @@
       "quarters": []
     },
     {
+      "ticker": "CSCO",
+      "company": "CISCO SYSTEMS, INC.",
+      "mentions": 16,
+      "quarters": []
+    },
+    {
       "ticker": "SNPS",
       "company": "SYNOPSYS INC",
       "mentions": 15,
       "quarters": [
         "Q4_FY2024"
+      ]
+    },
+    {
+      "ticker": "V",
+      "company": "VISA INC.",
+      "mentions": 13,
+      "quarters": [
+        "Q3_FY2025",
+        "Q1_FY2025",
+        "Q1_FY2026",
+        "Q2_FY2024",
+        "Q2_FY2025",
+        "Q3_FY2024",
+        "Q4_FY2024",
+        "Q4_FY2025",
+        "Q3_FY2017"
+      ]
+    },
+    {
+      "ticker": "ILMN",
+      "company": "ILLUMINA, INC.",
+      "mentions": 11,
+      "quarters": [
+        "Q4_FY2026"
       ]
     },
     {
@@ -162,9 +221,64 @@
       ]
     },
     {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "mentions": 10,
+      "quarters": [
+        "Q1_FY2026",
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "CI",
       "company": "Cigna Group",
       "mentions": 9,
+      "quarters": []
+    },
+    {
+      "ticker": "DAL",
+      "company": "DELTA AIR LINES, INC.",
+      "mentions": 9,
+      "quarters": [
+        "Q1_FY2026",
+        "Q3_FY2025",
+        "Q4_FY2025",
+        "Q4_FY2023",
+        "Q2_FY2023",
+        "Q3_FY2023",
+        "Q4_FY2024"
+      ]
+    },
+    {
+      "ticker": "EXPE",
+      "company": "Expedia Group, Inc.",
+      "mentions": 9,
+      "quarters": []
+    },
+    {
+      "ticker": "NTAP",
+      "company": "NetApp, Inc.",
+      "mentions": 9,
+      "quarters": []
+    },
+    {
+      "ticker": "LHX",
+      "company": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+      "mentions": 7,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "KEY",
+      "company": "KEYCORP /NEW/",
+      "mentions": 6,
+      "quarters": []
+    },
+    {
+      "ticker": "ANET",
+      "company": "Arista Networks, Inc.",
+      "mentions": 5,
       "quarters": []
     },
     {
@@ -172,6 +286,14 @@
       "company": "CITIGROUP INC",
       "mentions": 5,
       "quarters": []
+    },
+    {
+      "ticker": "KEYS",
+      "company": "Keysight Technologies, Inc.",
+      "mentions": 5,
+      "quarters": [
+        "Q1_FY2026"
+      ]
     },
     {
       "ticker": "KLAC",
@@ -197,6 +319,20 @@
       "quarters": []
     },
     {
+      "ticker": "GPN",
+      "company": "GLOBAL PAYMENTS INC",
+      "mentions": 3,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "ITW",
+      "company": "ILLINOIS TOOL WORKS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "MRNA",
       "company": "Moderna, Inc.",
       "mentions": 3,
@@ -211,8 +347,20 @@
       "quarters": []
     },
     {
+      "ticker": "BLK",
+      "company": "BlackRock, Inc.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "DIS",
       "company": "Walt Disney Co",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "EFX",
+      "company": "EQUIFAX INC",
       "mentions": 2,
       "quarters": []
     },
@@ -226,6 +374,34 @@
       ]
     },
     {
+      "ticker": "FDX",
+      "company": "FEDEX CORP",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP INC",
+      "mentions": 2,
+      "quarters": [
+        "Q1_FY2026"
+      ]
+    },
+    {
+      "ticker": "RVTY",
+      "company": "REVVITY, INC.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "SMCI",
+      "company": "Super Micro Computer, Inc.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "TMO",
       "company": "THERMO FISHER SCIENTIFIC INC.",
       "mentions": 2,
@@ -237,6 +413,12 @@
     {
       "ticker": "UPS",
       "company": "UNITED PARCEL SERVICE INC",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "XEL",
+      "company": "XCEL ENERGY INC",
       "mentions": 2,
       "quarters": []
     },
@@ -259,25 +441,47 @@
       "quarters": []
     },
     {
+      "ticker": "MSI",
+      "company": "Motorola Solutions, Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "PNC",
+      "company": "PNC FINANCIAL SERVICES GROUP, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "QCOM",
       "company": "QUALCOMM INC/DE",
       "mentions": 1,
       "quarters": []
+    },
+    {
+      "ticker": "WOLF",
+      "company": "WOLFSPEED, INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q2_FY2026"
+      ]
     }
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=total_revenue",
   "origin": {
-    "leaf": "bf80876ec407153ad3196f2a8226005f9aaa7a8cd3888ac420e356c754964788",
+    "leaf": "ba6f4dad51a32695bdcf91308f26520a897464d4bcab8c2e9b94c508ced3fb59",
     "parent": "3add50edbab222e72dda6fa006567d9f3c995305243cb573c58095b7dded79b7",
-    "timestamp": "2026-04-12T02:43:09.276Z",
+    "timestamp": "2026-04-12T03:13:01.676Z",
     "source": "topic:total_revenue",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/bf80876ec407153ad3196f2a8226005f9aaa7a8cd3888ac420e356c754964788",
+    "verify": "https://origin.rootz.global/api/verify/ba6f4dad51a32695bdcf91308f26520a897464d4bcab8c2e9b94c508ced3fb59",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.276Z",
+    "exported_at": "2026-04-12T03:13:01.676Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

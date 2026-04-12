@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WM",
+  "name": "WASTE MANAGEMENT INC",
+  "cik": "0000823768",
+  "summary": "Waste Management Inc. (WM) is a leading provider of comprehensive waste management environmental services in North America. The company offers collection, transfer, disposal, and recycling services for municipal solid waste, hazardous waste, and other materials. WM operates landfills, transfer stations, recycling facilities, and waste-to-energy plants, serving residential, commercial, industrial, and municipal customers.",
+  "products": [
+    {
+      "name": "Waste Collection Services",
+      "type": "service",
+      "description": "Residential, commercial, and industrial solid waste collection services."
+    },
+    {
+      "name": "Landfill Disposal",
+      "type": "service",
+      "description": "Disposal of municipal solid waste and other materials at owned and operated landfills."
+    },
+    {
+      "name": "Recycling Services",
+      "type": "service",
+      "description": "Processing and recycling of materials at recycling facilities."
+    },
+    {
+      "name": "Transfer Station Services",
+      "type": "service",
+      "description": "Transfer and transport of waste materials between collection and disposal sites."
+    },
+    {
+      "name": "Waste-to-Energy",
+      "type": "service",
+      "description": "Conversion of waste materials into energy at specialized facilities."
+    },
+    {
+      "name": "Hazardous Waste Services",
+      "type": "service",
+      "description": "Collection, treatment, and disposal of hazardous waste materials."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WM/profile",
+  "origin": {
+    "leaf": "e02d4fec7239e124da736a19983763ff41ec3d6118b0245283fa7b26a06531ba",
+    "parent": "1a89627cce178baec56f3bbfb4baa51e9ef844623070d2424e52c6ff654c3190",
+    "timestamp": "2026-04-12T03:12:54.730Z",
+    "source": "profile:0000823768",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e02d4fec7239e124da736a19983763ff41ec3d6118b0245283fa7b26a06531ba",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.730Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

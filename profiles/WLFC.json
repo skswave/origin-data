@@ -1,0 +1,84 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WLFC",
+  "name": "WILLIS LEASE FINANCE CORP",
+  "cik": "0001018164",
+  "summary": "Willis Lease Finance Corporation (WLFC) is a leading lessor and servicer of commercial aircraft and aircraft engines. The company acquires and leases jet engines and aircraft to commercial operators and MROs worldwide, earning lease rent and maintenance reserve revenues. As of December 31, 2025, it held $2,801.7 million in operating lease assets including 363 engines, 20 aircraft, and one marine vessel across 69 lessees in 37 countries. Its subsidiary Willis Aero sells aircraft engine parts and materials.",
+  "products": [
+    {
+      "name": "Commercial Aircraft Engine Operating Leases",
+      "type": "service",
+      "description": "Triple-net operating leases of commercial jet engines to airlines, manufacturers, and MROs worldwide."
+    },
+    {
+      "name": "Aircraft Leasing",
+      "type": "service",
+      "description": "Operating leases of commercial aircraft to global operators."
+    },
+    {
+      "name": "Engine Parts and Materials Sales (Willis Aero)",
+      "type": "service",
+      "description": "Sale of aircraft engine parts and materials through acquisition or consignment of engines from third parties."
+    },
+    {
+      "name": "Third-Party Asset Management",
+      "type": "service",
+      "description": "Management of 116 engines and related equipment owned by third parties as of December 31, 2025."
+    },
+    {
+      "name": "Notes Receivable / Sales-Type Leases",
+      "type": "service",
+      "description": "Financing arrangements including failed sale-leaseback transactions classified as notes receivable and investments in sales-type leases."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "CFMI",
+      "partnership_type": "OEM",
+      "description": "CFMI engines are a primary component of WLFC's lease portfolio powering major commercial aircraft.",
+      "start_date": null
+    },
+    {
+      "partner_name": "General Electric",
+      "partnership_type": "OEM",
+      "description": "GE engines are included in WLFC's commercial jet engine leasing portfolio.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Pratt & Whitney",
+      "partnership_type": "OEM",
+      "description": "Pratt & Whitney engines are part of WLFC's engine leasing portfolio.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Rolls Royce",
+      "partnership_type": "OEM",
+      "description": "Rolls Royce engines are included in WLFC's commercial engine leasing portfolio.",
+      "start_date": null
+    },
+    {
+      "partner_name": "International Aero Engines",
+      "partnership_type": "OEM",
+      "description": "IAE engines are part of WLFC's lease portfolio powering commercial aircraft.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WLFC/profile",
+  "origin": {
+    "leaf": "2d82607dcec2b633aa2b58c949663bf1a26d35648c64db88738885b3147e189d",
+    "parent": "a5ae2c74e107505933fee7b618c897ee91fd1b3aeef1f6f287a76ce621d558ac",
+    "timestamp": "2026-04-12T03:12:55.931Z",
+    "source": "profile:0001018164",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2d82607dcec2b633aa2b58c949663bf1a26d35648c64db88738885b3147e189d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.931Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

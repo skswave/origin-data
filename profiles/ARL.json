@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ARL",
+  "name": "AMERICAN REALTY INVESTORS INC",
+  "cik": "0001102238",
+  "summary": "American Realty Investors Inc (ARL) is a real estate investment company. Based on the 10-K filing structure, the company is engaged in real estate investment and management activities, including ownership and operation of real estate properties. The filing references properties, market risk disclosures, and financial statements consistent with a real estate investment trust or real estate holding company structure.",
+  "products": [
+    {
+      "name": "Real Estate Properties",
+      "type": "service",
+      "description": "Ownership and operation of real estate assets as described in the Properties section of the filing."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ARL/profile",
+  "origin": {
+    "leaf": "d3f59e3be98605aac8f100da9acbdc5961c753875f117a9724829b6f81efd36f",
+    "parent": "a5dab52feec940b009798896c3e624f23246acc43a0015477bd638a1074a3d42",
+    "timestamp": "2026-04-12T03:12:56.876Z",
+    "source": "profile:0001102238",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d3f59e3be98605aac8f100da9acbdc5961c753875f117a9724829b6f81efd36f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.876Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

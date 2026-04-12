@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "RGEN",
+  "name": "REPLIGEN CORP",
+  "cik": "0000730272",
+  "exchange": "Nasdaq",
+  "sic": "2836",
+  "sic_description": "Biological Products, (No Diagnostic Substances)",
+  "state_of_incorporation": "DE",
+  "headquarters": "Waltham, Massachusetts",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Repligen Corporation is a global life sciences company that develops and commercializes bioprocessing technologies and systems for biological drug manufacturing. Products span four franchises: Filtration (XCell ATF, KrosFlo TFF, hollow fiber filters), Chromatography (OPUS columns, BioSMB systems), Process Analytics (FlowVPX, SciLog), and Proteins (Protein A ligands). Customers include global biopharmaceutical companies, contract development and manufacturing organizations, and life science integrators producing mAbs, RNA therapeutics, vaccines, and cell and gene therapies.",
+  "tags": [
+    "biopharmaceutical-manufacturing",
+    "contract-development-and-manufacturing-organizations-(cdmos)",
+    "monoclonal-antibodies-and-mab-derivatives",
+    "cell-and-gene-therapy-manufacturing",
+    "rna-based-therapeutics-and-vaccines",
+    "recombinant-proteins",
+    "cgmp-(current-good-manufacturing-practice)",
+    "single-use/single-campaign-bioprocessing",
+    "closed-system-technologies"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/RGEN",
+  "origin": {
+    "leaf": "620934fc899896d360072817a2e30817497f0450b057e7c2d5e23426ef5812fb",
+    "parent": "caef10777ad311fe05e29a2b86c7c3be0d9b32458141d48891dd9f5737705a48",
+    "timestamp": "2026-04-12T03:12:50.570Z",
+    "source": "0001193125-26-076528",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/620934fc899896d360072817a2e30817497f0450b057e7c2d5e23426ef5812fb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.570Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

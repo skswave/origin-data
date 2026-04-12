@@ -1,0 +1,45 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SKVI",
+  "name": "SKINVISIBLE, INC.",
+  "cik": "0001085277",
+  "summary": "Skinvisible, Inc., through its wholly owned subsidiary Skinvisible Pharmaceuticals Inc., is a pharmaceutical R&D company that has developed and patented Invisicare, a polymer delivery system that enhances topical delivery of active ingredients. The company has formulated over forty topical skin products, which it out-licenses globally to pharmaceutical and consumer goods companies, generating revenue through licensing fees, royalties, co-development, and life cycle management services.",
+  "products": [
+    {
+      "name": "Invisicare",
+      "type": "platform",
+      "description": "Patented polymer delivery system that binds active ingredients to skin for extended periods, enabling controlled release in topical formulations without alcohol, silicones, or waxes."
+    },
+    {
+      "name": "QRX003",
+      "type": "service",
+      "description": "Topical lotion (4%) formulated with Invisicare, licensed to Quoin Pharmaceuticals for treatment of Netherton Syndrome, currently in late-stage clinical trials."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Quoin Pharmaceuticals, Inc.",
+      "partnership_type": "licensing",
+      "description": "Exclusive license agreement granting Quoin rights to certain Invisicare patents; Quoin paid $1M license fee with milestone payments and royalties on net sales.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SKVI/profile",
+  "origin": {
+    "leaf": "50de54204fbe43996f1705f27ffc222fe0bcc7481719fdb5fcc62224ea4a64c6",
+    "parent": "a5046387bb5dba4a69c014c160adbb04665e0990f78cfe1816bb648a3d57906b",
+    "timestamp": "2026-04-12T03:12:59.033Z",
+    "source": "profile:0001085277",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/50de54204fbe43996f1705f27ffc222fe0bcc7481719fdb5fcc62224ea4a64c6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.033Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

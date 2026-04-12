@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MBWM",
+  "name": "MERCANTILE BANK CORP",
+  "cik": "0001042729",
+  "exchange": "Nasdaq",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "MI",
+  "headquarters": "Grand Rapids, Michigan",
+  "founded": "1997",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Mercantile Bank Corporation is a Michigan-based registered bank holding company that owns Mercantile Bank and Eastern Michigan Bank, operating 54 office locations. The banks provide commercial banking services to small- and medium-sized businesses, retail banking, and accept checking, savings, and time deposits. Subsidiary Mercantile Insurance Center offers insurance products, and Mercantile Community Partners invests in community development tax credit investments.",
+  "tags": [
+    "small--to-medium-sized-businesses",
+    "retail-banking-customers",
+    "west-and-central-michigan",
+    "eastern-michigan",
+    "metropolitan-detroit-area",
+    "traverse-city,-petoskey,-and-midland,-michigan",
+    "accel/exchange-network",
+    "plus-network"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MBWM",
+  "origin": {
+    "leaf": "80f0c8aba5580157c6155c061276964f30d470acd3f122e0a25f6f449fcc28d7",
+    "parent": "8712bf0080371b0eb2d7fdb0a23b5945c3e255a891fa6147e4c46e6f5f0c7f37",
+    "timestamp": "2026-04-12T03:12:51.160Z",
+    "source": "0001437749-26-005997",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/80f0c8aba5580157c6155c061276964f30d470acd3f122e0a25f6f449fcc28d7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.160Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

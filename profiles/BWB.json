@@ -1,0 +1,75 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BWB",
+  "name": "Bridgewater Bancshares Inc",
+  "cik": "0001341317",
+  "summary": "Bridgewater Bancshares, Inc. is a Minnesota-based financial holding company operating through its subsidiary Bridgewater Bank. Founded in 2005 as a de novo bank, it focuses on commercial real estate lending, offering loans, deposits (transaction, savings, time, brokered), investment securities, letters of credit, and swap products. It serves businesses, entrepreneurs, and individuals in the Twin Cities MSA through nine full-service offices, with total assets of $5.41 billion as of December 31, 2025.",
+  "products": [
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Primary lending product focused on CRE financing for commercial clients."
+    },
+    {
+      "name": "Transaction Deposit Accounts",
+      "type": "service",
+      "description": "Business and individual transaction accounts used as principal funding source."
+    },
+    {
+      "name": "Savings and Time Deposits",
+      "type": "service",
+      "description": "Savings and time deposit products offered to clients as funding instruments."
+    },
+    {
+      "name": "Brokered Deposits",
+      "type": "service",
+      "description": "Non-core deposit funding source used to support lending and investment activities."
+    },
+    {
+      "name": "Letters of Credit",
+      "type": "service",
+      "description": "Credit facility product generating noninterest fee income for the bank."
+    },
+    {
+      "name": "Interest Rate Swaps",
+      "type": "service",
+      "description": "Swap products offered to clients generating swap fee income."
+    },
+    {
+      "name": "Investment Securities",
+      "type": "service",
+      "description": "Municipal securities and other investment holdings managed partly through Bridgewater Investment Management, Inc."
+    },
+    {
+      "name": "Nondeposit Investment Products",
+      "type": "service",
+      "description": "Investment advisory products offered through a third-party arrangement, added via FMCB acquisition."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party investment advisory provider",
+      "partnership_type": "strategic",
+      "description": "Arrangement to offer nondeposit investment products, added through FMCB acquisition in December 2024.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BWB/profile",
+  "origin": {
+    "leaf": "8d8f78d102e5a7251954784e1099fdd4f7bb6372a6f878075779548e1c5906da",
+    "parent": "6516e1908fc8ab11a01f9a2e57de627cbd5b2556fdae7185f11b397d6501c8ff",
+    "timestamp": "2026-04-12T03:12:56.373Z",
+    "source": "profile:0001341317",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8d8f78d102e5a7251954784e1099fdd4f7bb6372a6f878075779548e1c5906da",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.373Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

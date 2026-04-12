@@ -1,0 +1,75 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PLOW",
+  "name": "DOUGLAS DYNAMICS, INC",
+  "cik": "0001287213",
+  "summary": "Douglas Dynamics, Inc. is North America's premier manufacturer and upfitter of commercial work truck attachments and equipment. Operating for over 75 years, the company produces snowplows, sand and salt spreaders, municipal snow and ice control products, and truck upfitting services under brands including FISHER, SNOWEX, WESTERN, HENDERSON, DEJANA, VENCO, and VENTURO. Products are sold through approximately 3,000 distributor points of sale primarily to professional snowplowers, municipalities, and commercial fleet operators across the U.S. and Canada.",
+  "products": [
+    {
+      "name": "FISHER Snowplows",
+      "type": "hardware",
+      "description": "Snow and ice control attachments for light trucks sold under the FISHER brand."
+    },
+    {
+      "name": "SNOWEX Spreaders",
+      "type": "hardware",
+      "description": "Sand and salt spreaders for light trucks sold under the SNOWEX brand."
+    },
+    {
+      "name": "WESTERN Snowplows",
+      "type": "hardware",
+      "description": "Snow and ice control attachments for light trucks sold under the WESTERN brand."
+    },
+    {
+      "name": "HENDERSON Municipal Products",
+      "type": "hardware",
+      "description": "Manufactured municipal snow and ice control products and truck upfitting services."
+    },
+    {
+      "name": "DEJANA Upfit Solutions",
+      "type": "service",
+      "description": "Upfitting services and storage solutions for commercial work trucks and vans."
+    },
+    {
+      "name": "VENCO/VENTURO Cranes and Hoists",
+      "type": "hardware",
+      "description": "Truck-mounted service cranes and dump hoists with related parts and accessories."
+    },
+    {
+      "name": "Parts and Accessories",
+      "type": "hardware",
+      "description": "Full range of parts and accessories supporting snow and ice control equipment lifecycle."
+    },
+    {
+      "name": "Cable Pulling Equipment",
+      "type": "hardware",
+      "description": "Specialized cable pulling equipment for trucks offered through Work Truck Solutions segment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Original Equipment Manufacturers (OEMs)",
+      "partnership_type": "OEM",
+      "description": "Bailment and floor plan agreements with OEM vehicle manufacturers to supply truck chassis for custom upfitting.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PLOW/profile",
+  "origin": {
+    "leaf": "85c1d673c48e7bc6a985504722b770e56046e241d158a1ff08b61128072d6c55",
+    "parent": "4d5eb579574514c95d650b84e93af368dbbb56601175fc53de9f8bf955af402d",
+    "timestamp": "2026-04-12T03:12:56.020Z",
+    "source": "profile:0001287213",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/85c1d673c48e7bc6a985504722b770e56046e241d158a1ff08b61128072d6c55",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.020Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

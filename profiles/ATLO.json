@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ATLO",
+  "name": "AMES NATIONAL CORP",
+  "cik": "0001132651",
+  "summary": "Ames National Corporation is an Iowa bank holding company owning 100% of six community banks: First National Bank, State Bank & Trust Co., Boone Bank & Trust Co., Reliance State Bank, United Bank & Trust Co., and Iowa State Savings Bank. Operating in central, north-central, and south-central Iowa, the company offers commercial, agricultural, and residential lending, deposit accounts, wealth management, merchant card processing, cash management, safe deposit boxes, wire transfers, and trust services to small-to-medium sized businesses and individuals.",
+  "products": [
+    {
+      "name": "Commercial and Agricultural Loans",
+      "type": "service",
+      "description": "Short and medium-term commercial, agricultural, and real estate loans for businesses and farmers."
+    },
+    {
+      "name": "Residential Real Estate Loans",
+      "type": "service",
+      "description": "Residential mortgage loans including origination for sale into the secondary market."
+    },
+    {
+      "name": "Deposit Accounts",
+      "type": "service",
+      "description": "Checking, savings, money market, time deposits, certificates of deposit, and IRAs."
+    },
+    {
+      "name": "Wealth Management and Trust Services",
+      "type": "service",
+      "description": "Trust and wealth management services offered by five of the six bank subsidiaries."
+    },
+    {
+      "name": "Merchant Credit Card Processing",
+      "type": "service",
+      "description": "Merchant credit card processing services offered to business customers."
+    },
+    {
+      "name": "Cash Management Services",
+      "type": "service",
+      "description": "Cash management solutions including wire transfers, direct deposit, and ATM/video teller access."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ATLO/profile",
+  "origin": {
+    "leaf": "bcfe3dc0c034e1810c6c65d84fbd4e213226604e1252570240d58b85ac110658",
+    "parent": "674e0ff8cf42e2843ff13b6605751410f20bd6f9ba26d60a9e2731176d95b6ba",
+    "timestamp": "2026-04-12T03:12:56.868Z",
+    "source": "profile:0001132651",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bcfe3dc0c034e1810c6c65d84fbd4e213226604e1252570240d58b85ac110658",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.868Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

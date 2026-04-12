@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LUNG",
+  "name": "Pulmonx Corp",
+  "cik": "0001127537",
+  "exchange": "Nasdaq",
+  "sic": "3841",
+  "sic_description": "Surgical & Medical Instruments & Apparatus",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Overview We are a commercial-stage medical technology company that provides a minimally invasive treatment for patients with severe emphysema, a form of chronic obstructive pulmonary disease (COPD). Our solution, which is comprised of the Zephyr Endobronchial Valve (Zephyr Valve), the Chartis Pulmonary Assessment System (Chartis System) and the LungTraX Platform, is designed to treat severe emphysema patients who, despite medical management, are still profoundly symptomatic and either do ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LUNG",
+  "origin": {
+    "leaf": "524163a1a14da3a0eb1fa00291b2357b1f7028832d4435757ea85f69104be1f9",
+    "parent": "a8cfd748deaa1857fad05a925a6ee90167caa326873b504d8d1e3da8aaec2d7f",
+    "timestamp": "2026-04-12T03:12:52.494Z",
+    "source": "0001127537-26-000015",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/524163a1a14da3a0eb1fa00291b2357b1f7028832d4435757ea85f69104be1f9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.494Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

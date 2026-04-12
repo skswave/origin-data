@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GPN",
+  "name": "GLOBAL PAYMENTS INC",
+  "cik": "0001123360",
+  "summary": "Global Payments Inc. is a payments technology company that provides payment processing and software solutions. The company recently completed the acquisition of Worldpay and divested its Issuer Solutions business. Global Payments offers services spanning merchant acquiring, payment processing platforms, and related financial technology services to businesses and financial institutions across multiple geographies.",
+  "products": [
+    {
+      "name": "Issuer Solutions",
+      "type": "service",
+      "description": "Issuer-focused payment solutions business, recently divested by Global Payments."
+    },
+    {
+      "name": "Worldpay",
+      "type": "platform",
+      "description": "Payment processing platform recently acquired by Global Payments."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GPN/profile",
+  "origin": {
+    "leaf": "cdf4711ff2e101f236f60523c592f4c458645836a01cc6ad2b40a71ddc915fb2",
+    "parent": "eba3cf8b51b9ab0fa8c1047920afe679f1d5a7926625c4916b8d5e57531c070f",
+    "timestamp": "2026-04-12T03:12:54.913Z",
+    "source": "profile:0001123360",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cdf4711ff2e101f236f60523c592f4c458645836a01cc6ad2b40a71ddc915fb2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.913Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

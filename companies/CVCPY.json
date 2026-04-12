@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CVCPY",
+  "name": "CVC Capital Partners plc/ADR",
+  "cik": "0002120046",
+  "exchange": "OTC",
+  "sic": null,
+  "sic_description": null,
+  "state_of_incorporation": "Y9",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1225",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CVCPY",
+  "origin": {
+    "leaf": "c91648f407faa35d78b9ce801b9bccb5b957ca9b99f38b7e8388f906cab8301a",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:54.169Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c91648f407faa35d78b9ce801b9bccb5b957ca9b99f38b7e8388f906cab8301a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.169Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

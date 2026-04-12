@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MA",
+  "name": "Mastercard Inc",
+  "cik": "0001141391",
+  "summary": "Mastercard Incorporated is a global payments technology company operating under the Mastercard brand through its subsidiaries, including Mastercard International Incorporated. The company provides payment processing, transaction network services, and related technology solutions. Its business involves facilitating electronic payments across a global network, serving customers including financial institutions, merchants, governments, and consumers.",
+  "products": [
+    {
+      "name": "Mastercard Payment Network",
+      "type": "platform",
+      "description": "Global electronic payments processing network connecting issuers, acquirers, merchants, and consumers."
+    },
+    {
+      "name": "Real-Time Account-Based Payments System",
+      "type": "platform",
+      "description": "Real-time account-based payments infrastructure serving new customers and end users."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MA/profile",
+  "origin": {
+    "leaf": "453e16feb26d8bb525583a0499a8ed4c622b7165e42894d27300b4b637ae9e86",
+    "parent": "2d0908dbc812f952c6f36a13e1fc79b3428840f011857c7c0e4786661299fe98",
+    "timestamp": "2026-04-12T03:12:54.680Z",
+    "source": "profile:0001141391",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/453e16feb26d8bb525583a0499a8ed4c622b7165e42894d27300b4b637ae9e86",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.680Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

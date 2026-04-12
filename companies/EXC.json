@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EXC",
+  "name": "EXELON CORP",
+  "cik": "0001109357",
+  "exchange": "Nasdaq",
+  "sic": "4931",
+  "sic_description": "Electric & Other Services Combined",
+  "state_of_incorporation": "PA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I ITEM1. General Corporate Structure and Business and Other Information Exelon is a utility services holding company engaged in the energy transmission and distribution businesses through its subsidiaries, ComEd, PECO, BGE, Pepco, DPL, and ACE. Name of Registrant Business Service Territories Commonwealth Edison Company Purchase and regulated retail sale of electricity Northern Illinois, including the City of Chicago Transmission and distribution of electricity to retail customers PECO Energ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 11,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EXC",
+  "origin": {
+    "leaf": "ff191ca8c819ea3676ae6d23d790cd3d77185539d9e05c1196bc80cf8601b319",
+    "parent": "71f5cf0b0c28c3077967ab808871049186616fd4a4d271894f0cc13a4a4a6412",
+    "timestamp": "2026-04-12T03:12:50.345Z",
+    "source": "0001109357-26-000018",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ff191ca8c819ea3676ae6d23d790cd3d77185539d9e05c1196bc80cf8601b319",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.345Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

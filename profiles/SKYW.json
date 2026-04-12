@@ -1,0 +1,94 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SKYW",
+  "name": "SKYWEST INC",
+  "cik": "0000793733",
+  "summary": "SkyWest, Inc. operates through SkyWest Airlines, offering scheduled passenger service to destinations in the United States, Canada, and Mexico. Substantially all flights operate as United Express, Delta Connection, American Eagle, or Alaska Airlines under code-share agreements. As of December 31, 2025, SkyWest operated approximately 2,260 daily departures with a fleet of 637 aircraft, including Embraer E175 and Bombardier CRJ series regional jets, under fixed-fee capacity purchase agreements with major airline partners.",
+  "products": [
+    {
+      "name": "Regional Airline Code-Share Operations",
+      "type": "service",
+      "description": "Scheduled passenger flights operated as United Express, Delta Connection, American Eagle, and Alaska Airlines under fixed-fee capacity purchase agreements."
+    },
+    {
+      "name": "SkyWest Leasing",
+      "type": "service",
+      "description": "Financing and leasing of E175 aircraft under capacity purchase agreements and leasing of aircraft and engines to third parties."
+    },
+    {
+      "name": "SkyWest Charter (SWC)",
+      "type": "service",
+      "description": "On-demand charter service using CRJ200 aircraft in 30-seat configuration; authorized as a commuter air carrier in September 2025."
+    },
+    {
+      "name": "Embraer E175",
+      "type": "hardware",
+      "description": "70-76 seat regional jet operated under code-share agreements with major airline partners."
+    },
+    {
+      "name": "Bombardier CRJ900",
+      "type": "hardware",
+      "description": "70-76 seat regional jet operated under code-share agreements."
+    },
+    {
+      "name": "Bombardier CRJ700/CRJ550",
+      "type": "hardware",
+      "description": "50-70 seat regional jet, including 50-seat CRJ550 configuration, operated under code-share agreements."
+    },
+    {
+      "name": "Bombardier CRJ200",
+      "type": "hardware",
+      "description": "30-50 seat regional jet operated in single-class configuration under code-share and charter service."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "United Airlines, Inc.",
+      "partnership_type": "strategic",
+      "description": "Code-share agreement under which SkyWest operates United Express flights.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Delta Air Lines, Inc.",
+      "partnership_type": "strategic",
+      "description": "Code-share agreement under which SkyWest operates Delta Connection flights.",
+      "start_date": null
+    },
+    {
+      "partner_name": "American Airlines, Inc.",
+      "partnership_type": "strategic",
+      "description": "Code-share agreement under which SkyWest operates American Eagle flights.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Alaska Airlines, Inc.",
+      "partnership_type": "strategic",
+      "description": "Code-share agreement under which SkyWest operates Alaska Airlines flights.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Corporate Flight Management, Inc. d/b/a Contour Airlines",
+      "partnership_type": "strategic",
+      "description": "SkyWest provides assets to Contour Airlines under a strategic arrangement.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SKYW/profile",
+  "origin": {
+    "leaf": "6142e5e38c6ecc042e2a4b20457b3d145e18cfd990372fb44fc2645194536e61",
+    "parent": "69a2249d598d36d7492c846da4d0847740fbe911861390a5e9d363164743a5b9",
+    "timestamp": "2026-04-12T03:12:55.390Z",
+    "source": "profile:0000793733",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6142e5e38c6ecc042e2a4b20457b3d145e18cfd990372fb44fc2645194536e61",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.390Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

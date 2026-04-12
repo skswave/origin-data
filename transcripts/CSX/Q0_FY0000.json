@@ -1,0 +1,130 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CSX",
+  "company": "CSX CORP",
+  "title": "CSX   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 1844,
+  "speakers": [
+    {
+      "name": "Other Income",
+      "title": "Net   (190 )   (170 )   (12% )   (752 )   (690 )   (9% )  Income Tax Expense   (200 )   (203 )   1%   (880 )   (1,085 )   19%  Net Earnings   $720   $733   (2% )   $2,889   $3,470   (17% )  Earnings Per Share   $0",
+      "firm": "085 )   19%  Net Earnings   $720   $733   (2% )   $2",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "CSX gross margin",
+      "predicate": "reported",
+      "object": "$31.6 percent",
+      "value": 31.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CSX EPS",
+      "predicate": "reported",
+      "object": "$0.39",
+      "value": 0.39,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CSX",
+      "predicate": "guided",
+      "object": "Expectations  11 2025 FOURTH QUARTER EARNINGS CONFERENCE CALL  MERCHANDISE  Strong southeast infrastructure investments  Soft indicators for housing starts, North American auto production  Cycling For",
+      "value": 2.4,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CSX",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CSX",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CSX",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CSX",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CSX",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CSX",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai_compute"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CSX/transcripts",
+  "origin": {
+    "leaf": "249087d6e1a7c56d4f08430227524710096b329064e8165931160675d8decebb",
+    "parent": "27fa34b5a5c68badd14d4d183fdbec541b1b3784e17e0bb5791b2a24b144f79430af9433a899e1ca3d487ff7b28d0a05",
+    "timestamp": "2026-04-12T03:13:00.667Z",
+    "source": "transcript:CSX_CSX-4Q25-Earnings-Presentation-Final.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/249087d6e1a7c56d4f08430227524710096b329064e8165931160675d8decebb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.667Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

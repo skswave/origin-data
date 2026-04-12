@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WTG",
+  "name": "Wintergreen Acquisition Corp.",
+  "cik": "0002053927",
+  "summary": "Wintergreen Acquisition Corp. is a blank check SPAC incorporated in the Cayman Islands on April 29, 2024, focused on effecting a business combination primarily targeting businesses in Asia. It completed a $50 million IPO in May 2025. In November 2025, it entered a merger agreement with KIKA Technology Inc., a provider of AdTech Dynamic Matching Technology services operating through its Hong Kong subsidiary, Time Point Technology Co., Limited.",
+  "products": [
+    {
+      "name": "AdTech Dynamic Matching Technology",
+      "type": "platform",
+      "description": "Proprietary platform by KIKA's subsidiary HK TP using intelligent algorithms to match advertising needs with multi-dimensional traffic resources in real time."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WTG/profile",
+  "origin": {
+    "leaf": "57e0cccd2f8db5abad77e24b3c9b4bfb5450785e00ff5fa68f977dbfe3084fa2",
+    "parent": "f8398db1cd3155c5af84676d1538a9acd9508b25212b0a9bb4f4b17aa32db56d",
+    "timestamp": "2026-04-12T03:12:57.568Z",
+    "source": "profile:0002053927",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/57e0cccd2f8db5abad77e24b3c9b4bfb5450785e00ff5fa68f977dbfe3084fa2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.568Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

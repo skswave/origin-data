@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EFX",
+  "name": "EQUIFAX INC",
+  "cik": "0000033185",
+  "exchange": "NYSE",
+  "sic": "7320",
+  "sic_description": "Services-Consumer Credit Reporting, Collection Agencies",
+  "state_of_incorporation": "GA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Overview Equifax Inc. is a global data, analytics and technology company. We provide information solutions for businesses, governments and consumers, and we provide human resources business process automation and outsourcing services for employers. We have a large and diversified group of clients, including financial institutions, corporations, government agencies and individuals. Our services are based on comprehensive databases of consumer and business information derived from numerous ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EFX",
+  "origin": {
+    "leaf": "59be44cf76cb4adf219f5647e5505260bf7ea689f77af1d112e0687c2bca4f2b",
+    "parent": "e31e38a45dee61bb4d0471329f63b3afe2519e0b6e5b05103c117dcad0a570e0",
+    "timestamp": "2026-04-12T03:12:50.408Z",
+    "source": "0000033185-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/59be44cf76cb4adf219f5647e5505260bf7ea689f77af1d112e0687c2bca4f2b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.408Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

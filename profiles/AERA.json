@@ -1,0 +1,84 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AERA",
+  "name": "AI Era Corp.",
+  "cik": "0001605331",
+  "summary": "AI Era Corp. (formerly AB International Group Corp.) is an intellectual property and movie investment and licensing firm. It acquires and distributes movie and TV show copyrights, licenses its NFT MMM platform, operates the Mt. Kisco Theatre in New York via subsidiary AB Cinemas NY, Inc., and is developing AI-generated content production through the ufilm AI IP. As of August 31, 2025, it holds 19 movie copyrights, 75 TV drama episodes, and 2,577 short-form drama series.",
+  "products": [
+    {
+      "name": "NFT MMM Platform",
+      "type": "platform",
+      "description": "NFT movie and music marketplace with app on Google Play and website stareastnet.io, licensed to third parties."
+    },
+    {
+      "name": "ABQQ.tv",
+      "type": "platform",
+      "description": "Video streaming service for dramas and films, launched December 2020, sold to a third party on January 27, 2025."
+    },
+    {
+      "name": "ufilm AI IP",
+      "type": "software",
+      "description": "AI-generated creation, production synthesis, and release system for movies, TV series, and short series."
+    },
+    {
+      "name": "AB Cinemas NY (Mt. Kisco Theatre)",
+      "type": "service",
+      "description": "Physical movie theater with 5 screens and 466 seats operating in Mount Kisco, New York since October 2022."
+    },
+    {
+      "name": "Movie & TV Copyright Licensing",
+      "type": "service",
+      "description": "Acquisition and licensing of movie and TV drama copyrights including 19 movie copyrights and 2,577 short-form drama series."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Anyone Pictures Limited",
+      "partnership_type": "licensing",
+      "description": "Licensed NFT MMM platform from August 2022; renewed through May 2026 at $50,000/month; also entered stock purchase agreement February 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Martabano Realty Corp.",
+      "partnership_type": "strategic",
+      "description": "Landlord for Mt. Kisco Theatre lease signed October 21, 2021, covering approximately 8,375 square feet.",
+      "start_date": null
+    },
+    {
+      "partner_name": "AIHUB Releasing, Inc.",
+      "partnership_type": "licensing",
+      "description": "Acquired license to ufilm AI IP for $300,000 cash under amended July 2025 agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "AI+ Hubs Corp",
+      "partnership_type": "strategic",
+      "description": "Wholly owned subsidiary formed May 2025; received contribution of copyrights, short series, and AB Cinemas NY equity per June 2025 revised agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Stareastnet Portal Limited",
+      "partnership_type": "acquisition",
+      "description": "Sold NFT MMM platform to the Company on April 27, 2022, including app and website stareastnet.io.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AERA/profile",
+  "origin": {
+    "leaf": "0f471119a6d902f70e1b0239d0bb79daf17dc7dc525792d0186bafd95329b9a2",
+    "parent": "27dcd6ac038580441b4e41511578f89ebc6281f384959b5d47cfb14b466d33ac",
+    "timestamp": "2026-04-12T03:12:59.104Z",
+    "source": "profile:0001605331",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0f471119a6d902f70e1b0239d0bb79daf17dc7dc525792d0186bafd95329b9a2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.104Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

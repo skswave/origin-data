@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IOSP",
+  "name": "INNOSPEC INC.",
+  "cik": "0001054905",
+  "summary": "Innospec Inc. develops, manufactures, blends, markets and supplies specialty chemicals across three segments: Performance Chemicals (personal care, home care, agrochemical, construction, mining markets), Fuel Specialties (additives for diesel, jet, marine, fuel oil improving efficiency and reducing emissions), and Oilfield Services (chemicals for drilling, completion, production and drag reducing agents). The company serves customers in the Americas, Europe, Middle East, Africa and Asia-Pacific, and claims to be the world's only producer of tetra ethyl lead for aviation gasoline.",
+  "products": [
+    {
+      "name": "Fuel Additives",
+      "type": "hardware",
+      "description": "Specialty chemical additives for diesel, jet, marine, fuel oil improving fuel efficiency, engine performance and reducing harmful emissions."
+    },
+    {
+      "name": "AvGas (tetra ethyl lead)",
+      "type": "hardware",
+      "description": "Tetra ethyl lead product for aviation gasoline; Innospec claims to be the world's only producer."
+    },
+    {
+      "name": "Performance Chemicals",
+      "type": "hardware",
+      "description": "Mild surfactants, emollients, silicones and surfactants for personal care, home care, agrochemical, construction and mining markets."
+    },
+    {
+      "name": "Drag Reducing Agents (DRA)",
+      "type": "hardware",
+      "description": "Chemical agents that make oil and gas exploration and production more cost-efficient and environmentally friendly."
+    },
+    {
+      "name": "Oilfield Chemicals",
+      "type": "service",
+      "description": "Chemical solutions for drilling, completion, production including friction modifiers, biocide formulations and drilling mud additives."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IOSP/profile",
+  "origin": {
+    "leaf": "d635f552554bf1be485e3ffc62589655b2d352fb0745466901c731579da6ce61",
+    "parent": "3867b0eb4f10f7e2c961bd108dec88cce343916f3f826688361470594b0721e1",
+    "timestamp": "2026-04-12T03:12:55.696Z",
+    "source": "profile:0001054905",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d635f552554bf1be485e3ffc62589655b2d352fb0745466901c731579da6ce61",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.696Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

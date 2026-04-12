@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TITN",
+  "name": "Titan Machinery Inc.",
+  "cik": "0001409171",
+  "exchange": "Nasdaq",
+  "sic": "5990",
+  "sic_description": "Retail-Retail Stores, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1980",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0131",
+  "summary": "Titan Machinery Inc. owns and operates a network of full-service agricultural and construction equipment stores in the United States, Europe, and Australia. Founded in 1980, the company is the largest retail dealer of Case IH Agriculture equipment worldwide. It operates four segments—Agriculture, Construction, Europe, and Australia—offering new and used equipment sales, parts sales, equipment repair and maintenance services, and equipment rental across 144 total stores.",
+  "tags": [
+    "agricultural-equipment",
+    "construction-equipment",
+    "equipment-parts-and-aftermarket-services",
+    "equipment-rental",
+    "precision-farming-technology",
+    "european-agricultural-markets",
+    "australian-agricultural-markets",
+    "gps-signal-technology",
+    "precision-farming-technology",
+    "farm-data-management-systems"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TITN",
+  "origin": {
+    "leaf": "6fbaaba8a961a2e54944d9b66e16804343ee94952276a1dfb32372ed230830ff",
+    "parent": "f743773c6d57ff204c86c40143b2aef2207a42205a6765108c81bed869de521c",
+    "timestamp": "2026-04-12T03:12:51.498Z",
+    "source": "0001628280-26-022376",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6fbaaba8a961a2e54944d9b66e16804343ee94952276a1dfb32372ed230830ff",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.498Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

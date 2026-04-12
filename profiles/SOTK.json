@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SOTK",
+  "name": "SONO TEK CORP",
+  "cik": "0000806172",
+  "summary": "Sono-Tek Corporation designs and manufactures ultrasonic coating systems that apply precise, thin film coatings to surfaces for microelectronics/electronics, alternative energy, medical, industrial, and R&D markets. Products include Multi-Axis Coating Systems, Integrated Coating Systems, Fluxing Systems, OEM Systems, and the Universal Align subsystem. Founded in 1975 by Dr. Harvey Berger, inventor of the ultrasonic nozzle, the company uses high-frequency ultrasonic vibrations to atomize liquids into minute drops for environmentally-friendly, efficient surface coating applications.",
+  "products": [
+    {
+      "name": "Multi-Axis Coating Systems",
+      "type": "hardware",
+      "description": "Fully integrated ultrasonic coating solutions for complex surface coating applications."
+    },
+    {
+      "name": "Integrated Coating Systems",
+      "type": "hardware",
+      "description": "Complete integrated ultrasonic coating solutions for customer-specific requirements."
+    },
+    {
+      "name": "Fluxing Systems",
+      "type": "hardware",
+      "description": "Ultrasonic systems for applying uniform flux coatings to printed circuit boards."
+    },
+    {
+      "name": "OEM Systems",
+      "type": "hardware",
+      "description": "Ultrasonic coating systems designed for incorporation into original equipment manufacturer products."
+    },
+    {
+      "name": "Universal Align",
+      "type": "hardware",
+      "description": "Subsystem integrating ultrasonic nozzles and generators for customer OEM incorporation."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SOTK/profile",
+  "origin": {
+    "leaf": "bcc8734390fe0671176307af4fc9fc119b7f83880f9ebd58c68da0d04718da81",
+    "parent": "14cfd79df2e73eecfb0c6e81d85aff9503d83eb18c0e7e0f6206a8c0ac63c248",
+    "timestamp": "2026-04-12T03:12:57.682Z",
+    "source": "profile:0000806172",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bcc8734390fe0671176307af4fc9fc119b7f83880f9ebd58c68da0d04718da81",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.682Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

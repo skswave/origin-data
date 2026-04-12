@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BDSX",
+  "name": "BIODESIX INC",
+  "cik": "0001439725",
+  "summary": "Biodesix Inc. (BDSX) is a diagnostic company focused on lung disease. The company develops and commercializes diagnostic tests for lung cancer and other pulmonary conditions, serving providers, payers, patients, and biopharmaceutical companies. Its products support clinical decision-making and it also provides services to biopharmaceutical companies. Biodesix operates in the U.S. and seeks reimbursement coverage from insurance payers for its diagnostic tests.",
+  "products": [
+    {
+      "name": "Diagnostic Tests (lung disease)",
+      "type": "service",
+      "description": "Diagnostic tests for lung cancer and pulmonary conditions offered to providers, payers, and patients."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BDSX/profile",
+  "origin": {
+    "leaf": "6d652fa40624ffb9b70770d75c891af7918d1e5795d6bedc0fef9e090d9ff594",
+    "parent": "079f6e2a0ad34e762cfdb5405608e0ae5a3c4d33ab2ca3448b38aaa6f9f54319",
+    "timestamp": "2026-04-12T03:12:57.219Z",
+    "source": "profile:0001439725",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6d652fa40624ffb9b70770d75c891af7918d1e5795d6bedc0fef9e090d9ff594",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.219Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

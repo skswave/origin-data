@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FCX",
+  "name": "FREEPORT-MCMORAN INC",
+  "cik": "0000831259",
+  "summary": "fcx-20251231 0000831259 2025 FY false 7.125 9.5 6.125 http://fasb.org/us-gaap/2024#Liabilities http://fasb.org/us-gaap/2024#Liabilities http://fasb.org/us-gaap/2024#Liabilities http://www.fcx.com/20251231#EnvironmentalAndAssetRetirementObligationsCurrent http://www.fcx.com/20251231#EnvironmentalAndAssetRetirementObligationsCurrent http://www.fcx.com/20251231#EnvironmentalAndAssetRetirementObligationsCurrent http://www.fcx.com/20251231#EnvironmentalAndAssetRetirementObligationsNoncurrent http://w...",
+  "live_api": "https://origin.rootz.global/api/company/FCX/profile",
+  "origin": {
+    "leaf": "dd960be140464714fd576c2cf9203ad4c03a9e01c2e0e2bd90515137ae2b0230",
+    "parent": "467923ad2147f1a23800f33a546274dc44f10fa423977363b5efd510db841d34",
+    "timestamp": "2026-04-12T03:12:54.737Z",
+    "source": "profile:0000831259",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dd960be140464714fd576c2cf9203ad4c03a9e01c2e0e2bd90515137ae2b0230",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.737Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

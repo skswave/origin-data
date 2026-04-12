@@ -1,0 +1,102 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GD",
+  "name": "GENERAL DYNAMICS CORP",
+  "cik": "0000040533",
+  "summary": "General Dynamics is a global aerospace and defense company organized into four segments: Aerospace, Marine Systems, Combat Systems, and Technologies. It produces Gulfstream business jets and aircraft services via Jet Aviation; designs and builds nuclear-powered submarines and surface combatants; manufactures land combat vehicles, weapon systems, and munitions; and provides IT and technology services. Revenue in 2025 was led by defense segments alongside a growing aerospace business.",
+  "products": [
+    {
+      "name": "Gulfstream G800",
+      "type": "hardware",
+      "description": "Ultra-long-range, ultra-large-cabin business jet with 8,200-nautical-mile range at Mach 0.85; entered service in 2025 after FAA certification in April 2025."
+    },
+    {
+      "name": "Gulfstream G700",
+      "type": "hardware",
+      "description": "Ultra-long-range, ultra-large-cabin business jet with Symmetry Flight Deck; entered service in 2024."
+    },
+    {
+      "name": "Gulfstream G500",
+      "type": "hardware",
+      "description": "Large-cabin business jet entered service in 2018; best-in-class speed, fuel efficiency, and range."
+    },
+    {
+      "name": "Gulfstream G600",
+      "type": "hardware",
+      "description": "Large-cabin business jet entered service in 2019; clean-sheet design with new wing, avionics, and fuselage."
+    },
+    {
+      "name": "Gulfstream G400",
+      "type": "hardware",
+      "description": "Large-cabin business jet under development from a clean-sheet design, expanding Gulfstream family commonality."
+    },
+    {
+      "name": "Gulfstream G300",
+      "type": "hardware",
+      "description": "Super midsize business jet announced in second half of 2025; features Panoramic Windows and all-new Harmony Flight Deck."
+    },
+    {
+      "name": "Columbia-class ballistic-missile submarine",
+      "type": "hardware",
+      "description": "12-boat nuclear submarine program providing strategic deterrent; first delivery expected 2028; program value exceeds $125 billion."
+    },
+    {
+      "name": "Virginia-class attack submarine",
+      "type": "hardware",
+      "description": "Nuclear-powered attack submarine built with an industry partner; 14 boats in backlog scheduled for delivery through 2034."
+    },
+    {
+      "name": "Virginia Payload Module",
+      "type": "hardware",
+      "description": "84-foot Electric Boat-designed hull section adding four payload tubes, included in Block V Virginia-class submarines."
+    },
+    {
+      "name": "Jet Aviation FBO Network",
+      "type": "service",
+      "description": "Global fixed-base operator network of approximately 30 facilities on four continents offering maintenance, completion, and refurbishment services."
+    },
+    {
+      "name": "Aircraft MRO Services",
+      "type": "service",
+      "description": "Maintenance, repair, and overhaul services supporting over 3,000 Gulfstream aircraft globally, including 24/7 customer support and FAST rapid-response unit."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "U.S. Navy",
+      "partnership_type": "strategic",
+      "description": "Prime contractor relationship for Columbia-class and Virginia-class submarine programs and surface combatant construction.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Industry partner (unnamed)",
+      "partnership_type": "OEM",
+      "description": "Collaborates with Electric Boat on Virginia-class Block IV and V submarine construction.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Non-U.S. partner (unnamed)",
+      "partnership_type": "OEM",
+      "description": "Assembles Gulfstream midsize aircraft outside the United States.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GD/profile",
+  "origin": {
+    "leaf": "ba440dda940949c7a268968164a25a0335af9d7fe82d7d62ca381a4c26a7c2f2",
+    "parent": "45daf7506d4f90b8df57a67a656d616bbf26258f90d7dc770e7d9cd42c06852c",
+    "timestamp": "2026-04-12T03:12:54.728Z",
+    "source": "profile:0000040533",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ba440dda940949c7a268968164a25a0335af9d7fe82d7d62ca381a4c26a7c2f2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.728Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

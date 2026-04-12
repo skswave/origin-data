@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RSSS",
+  "name": "Research Solutions, Inc.",
+  "cik": "0001386301",
+  "summary": "Research Solutions, Inc. is a vertical SaaS and AI company providing software platforms and services to research-intensive organizations. Its products include Article Galaxy (document delivery and entitlement management), Scite.ai (AI-powered literature search and citation analysis), Resolute.ai (advanced discovery tools), and a References management platform. The company also facilitates per-transaction sales of over 200 million STM journal articles and provides rights and permissions services for copyright compliance, including AI training use cases.",
+  "products": [
+    {
+      "name": "Article Galaxy (AG)",
+      "type": "platform",
+      "description": "Cloud-based SaaS platform for managing research entitlements, ordering STM articles at lowest cost, and facilitating rights and permissions including AI use cases."
+    },
+    {
+      "name": "Article Galaxy Scholar (AGS)",
+      "type": "platform",
+      "description": "Academic library version of Article Galaxy designed for research organizations and universities."
+    },
+    {
+      "name": "Scite.ai",
+      "type": "platform",
+      "description": "AI-powered literature search engine with full-text search, citation analysis (supporting/contrasting evidence), and Generative AI research assistant."
+    },
+    {
+      "name": "Resolute.ai",
+      "type": "platform",
+      "description": "Advanced discovery platform enabling search across STM content, patents, clinical trials, regulatory, and competitive intelligence datasets."
+    },
+    {
+      "name": "References",
+      "type": "platform",
+      "description": "Comprehensive reference management solution with collaboration tools, document delivery, and access to millions of scholarly articles for research organizations."
+    },
+    {
+      "name": "STM Article Transactions",
+      "type": "service",
+      "description": "Single article delivery service providing per-transaction access to over 200 million STM journal articles, typically delivered in under an hour."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RSSS/profile",
+  "origin": {
+    "leaf": "dbf7aba20deef9528473454b4b28dd21fb53ebf2bdf16509c57ae65a12c0c77b",
+    "parent": "d64cbdda81c2104f8bf56bf3bae485c7355b67fccb8eb9b73e213ff22d0374eb",
+    "timestamp": "2026-04-12T03:12:57.578Z",
+    "source": "profile:0001386301",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dbf7aba20deef9528473454b4b28dd21fb53ebf2bdf16509c57ae65a12c0c77b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.578Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

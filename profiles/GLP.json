@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GLP",
+  "name": "GLOBAL PARTNERS LP",
+  "cik": "0001323468",
+  "summary": "Global PartnersLP_December31,2025 http://xbrl.sec.gov/country/2025#US http://xbrl.sec.gov/country/2025#US http://fasb.org/us-gaap/2025#AccruedEnvironmentalLossContingenciesCurrent http://fasb.org/us-gaap/2025#OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax 0001323468 FY false http://fasb.org/us-gaap/2025#Revenues http://fasb.org/us-gaap/2025#Revenues http://www.globalp.com/20251231#GasolineDistributionAndStationOperationsSiteMember http://www.globalp.com/2...",
+  "live_api": "https://origin.rootz.global/api/company/GLP/profile",
+  "origin": {
+    "leaf": "b3bd346b2b48beb3b7d6719e12c9607f47d7c768c9b7190a6fa706a131216ff2",
+    "parent": "ac550d38d86289008632bb84b10757d0ed1d9ecf2cd83edf301bcfdc3b580443",
+    "timestamp": "2026-04-12T03:12:55.833Z",
+    "source": "profile:0001323468",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b3bd346b2b48beb3b7d6719e12c9607f47d7c768c9b7190a6fa706a131216ff2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.833Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "RCMT",
+  "name": "RCM TECHNOLOGIES, INC.",
+  "cik": "0000700841",
+  "exchange": "Nasdaq",
+  "sic": "7363",
+  "sic_description": "Services-Help Supply Services",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0103",
+  "summary": "RCM Technologies, Inc. is a provider of business and technology solutions delivering specialty healthcare, engineering, life sciences, data and solutions services. Operating through three segments—Specialty Health Care, Engineering, and Life Sciences Data & Solutions—the company offers staffing, teletherapy, engineering design, EPC services, IT infrastructure, application development, AI-driven automation, and enterprise business solutions to Fortune 1000 and mid-sized companies across North America and Europe.",
+  "tags": [
+    "specialty-healthcare",
+    "engineering",
+    "life-sciences",
+    "aerospace/defense",
+    "educational-institutions",
+    "energy-sector",
+    "financial-services",
+    "manufacturing-&-distribution",
+    "public-sector",
+    "technology",
+    "oil-and-gas",
+    "chemical/process-industrial"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/RCMT",
+  "origin": {
+    "leaf": "8c95c3ae172cb2592d28070af8fa0de9a0d636affa19ba0a4eeb304db1ffe84c",
+    "parent": "d9e7c0c543fa847fc86bea6e6c6623dab3e6f2651b9795803fd08c3c01a01960",
+    "timestamp": "2026-04-12T03:12:52.068Z",
+    "source": "0001437749-26-011236",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8c95c3ae172cb2592d28070af8fa0de9a0d636affa19ba0a4eeb304db1ffe84c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.068Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

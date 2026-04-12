@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AEP",
+  "name": "AMERICAN ELECTRIC POWER CO INC",
+  "cik": "0000004904",
+  "summary": "American Electric Power Co Inc (AEP) is a public utility holding company incorporated in New York in 1906, providing electric generation, transmission, and distribution services across portions of Arkansas, Indiana, Kentucky, Louisiana, Michigan, Ohio, Oklahoma, Tennessee, Texas, Virginia, and West Virginia. AEP operates through subsidiaries serving approximately 5.1 million retail customers, supplying electricity to residential, commercial, and industrial customers including chemical manufacturing, petroleum, data centers, and cryptocurrency operations, while also selling wholesale power to utilities, cooperatives, and municipalities.",
+  "products": [
+    {
+      "name": "Electric Generation",
+      "type": "service",
+      "description": "Generation of electricity supplied to retail and wholesale customers across 11 states."
+    },
+    {
+      "name": "Electric Transmission",
+      "type": "service",
+      "description": "Transmission of electricity through interconnected networks serving retail and wholesale markets."
+    },
+    {
+      "name": "Electric Distribution",
+      "type": "service",
+      "description": "Distribution of electricity to approximately 5.1 million retail customers across AEP's service territory."
+    },
+    {
+      "name": "Wholesale Electric Power",
+      "type": "service",
+      "description": "Sale and supply of electric power at wholesale to utilities, rural electric cooperatives, municipalities, and other market participants."
+    },
+    {
+      "name": "Retail Electricity (Competitive)",
+      "type": "service",
+      "description": "Competitive retail electricity supply offered in restructured markets in Michigan, Ohio, and ERCOT Texas."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "AEPSC",
+      "partnership_type": "strategic",
+      "description": "AEP Service Corporation provides accounting, administrative, IT, engineering, financial, legal, and maintenance services at cost to all AEP subsidiaries.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AEP/profile",
+  "origin": {
+    "leaf": "6f69d63c318a1aea18d616cde23c6f1afaebe27f7f61ad88d452351702fdd6f1",
+    "parent": "1fadaa83b03cced84f900c63edf3c2e27f156826cfbe15b0526b39c17387a861",
+    "timestamp": "2026-04-12T03:12:54.755Z",
+    "source": "profile:0000004904",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6f69d63c318a1aea18d616cde23c6f1afaebe27f7f61ad88d452351702fdd6f1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.755Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

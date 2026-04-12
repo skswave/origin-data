@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GEV",
+  "name": "GE Vernova Inc.",
+  "cik": "0001996810",
+  "summary": "GE Vernova Inc. is a global leader in the electric power industry, designing, manufacturing, delivering, and servicing technologies that generate, transfer, orchestrate, convert, and store electricity. Its installed base generates approximately 25% of the world's electricity. The company serves utilities, developers, governments, and electricity users, offering products and services enabling electrification and decarbonization across gas, wind, grid, and other power technologies.",
+  "products": [
+    {
+      "name": "Power Generation Equipment",
+      "type": "hardware",
+      "description": "Equipment and services for generating electricity, including gas and other power technologies."
+    },
+    {
+      "name": "Grid Solutions",
+      "type": "hardware",
+      "description": "Technologies for transferring, orchestrating, converting, and storing electricity across power grids."
+    },
+    {
+      "name": "Wind Energy Products",
+      "type": "hardware",
+      "description": "Wind power generation equipment and associated services for onshore and offshore applications."
+    },
+    {
+      "name": "Long-Term Service Agreements",
+      "type": "service",
+      "description": "Service and maintenance contracts supporting GE Vernova's global installed base of power equipment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "General Electric Company (GE Aerospace)",
+      "partnership_type": "strategic",
+      "description": "GE completed spin-off of GE Vernova on April 2, 2024, distributing all shares to GE stockholders.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GEV/profile",
+  "origin": {
+    "leaf": "54bdd3836946d5409dd0870f75ade26089e877eb85ff13154f6e759f1114bc1a",
+    "parent": "86ade71d8aff59f09c110ac661dd7fd24735774861a7f3de80bed11df6613712",
+    "timestamp": "2026-04-12T03:12:54.690Z",
+    "source": "profile:0001996810",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/54bdd3836946d5409dd0870f75ade26089e877eb85ff13154f6e759f1114bc1a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.690Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

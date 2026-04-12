@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SNOW",
+  "name": "Snowflake Inc.",
+  "cik": "0001640147",
+  "exchange": "NYSE",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0131",
+  "summary": "Snowflake Inc. delivers the AI Data Cloud, a cloud-based platform enabling organizations to consolidate data into a single source of truth, apply AI to solve business problems, build data applications, and share data securely. Its platform features independently scalable storage, compute, and cloud services layers, supporting structured, semi-structured, and unstructured data. Snowflake operates on a consumption-based business model and runs on public cloud infrastructure, requiring near-zero infrastructure maintenance for customers.",
+  "tags": [
+    "cloud-data-platforms",
+    "artificial-intelligence-and-machine-learning",
+    "data-analytics",
+    "data-sharing-and-governance",
+    "federal,-state,-local,-and-foreign-government",
+    "heavily-regulated-industries"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SNOW",
+  "origin": {
+    "leaf": "61ad16d514032a259015d0570bf418473f07a59715ad4b2d82b7f84027e4a5ec",
+    "parent": "ffe81ae976817513eefff5c7cc922ff55f90ba962cc574d87d1594b9ce1ba564",
+    "timestamp": "2026-04-12T03:12:50.343Z",
+    "source": "0001640147-26-000008",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/61ad16d514032a259015d0570bf418473f07a59715ad4b2d82b7f84027e4a5ec",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.343Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

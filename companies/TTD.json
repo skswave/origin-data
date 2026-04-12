@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TTD",
+  "name": "Trade Desk, Inc.",
+  "cik": "0001671933",
+  "exchange": "Nasdaq",
+  "sic": "7370",
+  "sic_description": "Services-Computer Programming, Data Processing, Etc.",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Trade Desk, Inc. (TTD) operates a self-service cloud-based platform that enables buyers of digital advertising to plan, manage, optimize, and measure data-driven digital advertising campaigns across various channels including display, video, audio, native, and social, on a wide range of devices such as computers, mobile devices, and connected TVs.",
+  "tags": [
+    "digital-advertising",
+    "programmatic-advertising",
+    "connected-tv-advertising",
+    "mobile-advertising",
+    "display-advertising",
+    "video-advertising",
+    "audio-advertising",
+    "native-advertising",
+    "social-advertising"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TTD",
+  "origin": {
+    "leaf": "ada1b8d18922e2cc18cff79402e4f881335a86849c0362ba3871739c5a18fd55",
+    "parent": "f92566052d3ea48791be2bcceecbe8d63894b49529f2c0849fed506edfb87da3",
+    "timestamp": "2026-04-12T03:12:50.493Z",
+    "source": "0001671933-26-000014",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ada1b8d18922e2cc18cff79402e4f881335a86849c0362ba3871739c5a18fd55",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.493Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TRCK",
+  "name": "Track Group, Inc.",
+  "cik": "0001045942",
+  "summary": "Track Group, Inc. designs, manufactures, and markets GPS location tracking devices and develops related software, services, and monitoring applications for offender monitoring. Key products include the ReliAlert XC4 and XC3 GPS devices, IntelliTrack and TrackerPAL operating platforms, BACtrack alcohol monitoring, the Empower domestic abuse app, and Socrates 360 reentry platform. The company sells to government customers on federal, state, and local levels in the U.S. and internationally to Ministry of Justice members, generating recurring subscription-based revenue.",
+  "products": [
+    {
+      "name": "ReliAlert XC4",
+      "type": "hardware",
+      "description": "Flagship one-piece GPS tracking device with LTE, 3-way voice communication, patented anti-tampering, 95db siren, and RF technology."
+    },
+    {
+      "name": "ReliAlert XC3",
+      "type": "hardware",
+      "description": "GPS tracking device with 3G, two/three-way voice communication, 50+ hour battery, and tamper detection."
+    },
+    {
+      "name": "IntelliTrack",
+      "type": "platform",
+      "description": "Device-agnostic secure operating platform connecting devices to the cloud with Google Maps integration and predictive analytics support."
+    },
+    {
+      "name": "TrackerPAL",
+      "type": "platform",
+      "description": "Secure cloud-based monitoring system for collecting, storing, analyzing, and correlating offender data for accountability and predictive analytics."
+    },
+    {
+      "name": "IntelliTrack Mobile",
+      "type": "software",
+      "description": "Mobile application version of IntelliTrack available for Android and iOS devices."
+    },
+    {
+      "name": "TrackerPAL Mobile",
+      "type": "software",
+      "description": "Mobile application version of TrackerPAL available for Android and iOS devices."
+    },
+    {
+      "name": "BACtrack",
+      "type": "hardware",
+      "description": "Smartphone-based remote alcohol monitoring system integrating a police-grade breathalyzer and mobile app for BAC tracking."
+    },
+    {
+      "name": "Empower",
+      "type": "software",
+      "description": "Smartphone application providing domestic abuse survivor support via mobile geo-zones and early-warning proximity notifications."
+    },
+    {
+      "name": "Socrates 360",
+      "type": "platform",
+      "description": "Multipurpose reentry platform offering educational courses, health advice, secure video conferencing, and scheduling for community returnees."
+    },
+    {
+      "name": "SecureCuff",
+      "type": "hardware",
+      "description": "Patented uncuttable strap accessory with hardened steel bands and fiber-optic tamper notification for high-risk offenders."
+    },
+    {
+      "name": "RF Beacon",
+      "type": "hardware",
+      "description": "Self-contained short-range RF transmitting station that communicates with offender GPS devices to enhance location tethering accuracy."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TRCK/profile",
+  "origin": {
+    "leaf": "fd8e11b6f12c0adcb0ca3449f8d527831414dcbde668663406bda92eb5013e08",
+    "parent": "572cc5dbe54f56200db5258f04f2832727b9745ef4dfe8e88d02a6bc0849cc04",
+    "timestamp": "2026-04-12T03:12:58.788Z",
+    "source": "profile:0001045942",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fd8e11b6f12c0adcb0ca3449f8d527831414dcbde668663406bda92eb5013e08",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.788Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

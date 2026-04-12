@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SVC",
+  "name": "Service Properties Trust",
+  "cik": "0000945394",
+  "exchange": "Nasdaq",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "MD",
+  "headquarters": "Newton, Massachusetts",
+  "founded": "1995",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Service Properties Trust (SVC) is a Maryland-based REIT formed in 1995 that owns and leases service-focused retail net lease properties and hotels. As of December 31, 2025, SVC owned 760 net lease properties (13.6M sq ft) across 42 states leased to tenants including travel centers, restaurants, and fitness centers, and 94 hotels with 21,243 rooms managed by Sonesta, Hyatt, Radisson, and IHG.",
+  "tags": [
+    "net-lease-retail-real-estate",
+    "hospitality-and-lodging",
+    "travel-center-real-estate",
+    "quick-service-and-casual-dining-real-estate",
+    "health-and-fitness-real-estate",
+    "medical-and-dental-office-real-estate"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SVC",
+  "origin": {
+    "leaf": "1f0d077c9e7af2e5ea72253a7ab07d0166b08eedafbaa05f6afa610e0f8fc495",
+    "parent": "1e64f78a829f20e6d03776e3c66882c18e59a30cca1c2fd866a358bf38d2aeeb",
+    "timestamp": "2026-04-12T03:12:51.843Z",
+    "source": "0000945394-26-000012",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1f0d077c9e7af2e5ea72253a7ab07d0166b08eedafbaa05f6afa610e0f8fc495",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.843Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

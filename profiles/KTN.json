@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "KTN",
+  "name": "STRUCTURED PRODUCTS CORP CRED ENHANCE CORTS TR FOR AON CAP A",
+  "cik": "0001283337",
+  "summary": "Structured Products Corp Credit Enhanced CORTS Trust for AON Cap A (ticker: KTN) is a statutory trust that issues certificates representing investors' interests in the Trust. The Certificates are listed on the New York Stock Exchange and held through The Depository Trust Company via its nominee Cede & Co. The Trust makes periodic distributions to certificate holders, with distribution statements filed on Form 8-K.",
+  "products": [
+    {
+      "name": "CORTS Trust Certificates",
+      "type": "service",
+      "description": "Trust certificates representing investors' interests, listed on the New York Stock Exchange and held via The Depository Trust Company."
+    },
+    {
+      "name": "CORTS Trust Certificates",
+      "type": "service",
+      "description": "Certificates representing investors' interests in the Trust, listed on the New York Stock Exchange and held via Cede & Co."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "The Depository Trust Company",
+      "partnership_type": "strategic",
+      "description": "Certificates are registered in the name of Cede & Co., nominee of The Depository Trust Company.",
+      "start_date": null
+    },
+    {
+      "partner_name": "The Depository Trust Company (Cede & Co.)",
+      "partnership_type": "strategic",
+      "description": "Nominee holder of physical Certificates representing investors' interests in the Trust.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/KTN/profile",
+  "origin": {
+    "leaf": "599c26e6b916f5e76662e99f334cf2d72e2e32f4ef9614531cc67b3f70d0698c",
+    "parent": "bbf53de277f6264074e1ee9f8927b7f62b1e3c1bc47aa2832af73f21c411854f",
+    "timestamp": "2026-04-12T03:12:59.568Z",
+    "source": "profile:0001283337",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/599c26e6b916f5e76662e99f334cf2d72e2e32f4ef9614531cc67b3f70d0698c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.568Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BBSI",
+  "name": "BARRETT BUSINESS SERVICES INC",
+  "cik": "0000902791",
+  "summary": "Barrett Business Services, Inc. (BBSI) is a leading provider of business management solutions for small and mid-sized companies. Through its Professional Employer Organization (PEO) platform, BBSI offers co-employment services including payroll processing, workers compensation coverage, employee benefits, HR outsourcing, risk mitigation, and workplace safety. It also provides staffing services including on-demand staffing, contract staffing, direct placement, and on-site management. BBSI served over 8,200 PEO clients with 138,218 average worksite employees during 2025.",
+  "products": [
+    {
+      "name": "Professional Employer Services (PEO)",
+      "type": "service",
+      "description": "Co-employment service covering payroll, payroll taxes, workers compensation, benefits, HR advisory, and compliance for small and mid-sized businesses."
+    },
+    {
+      "name": "Staffing Services",
+      "type": "service",
+      "description": "On-demand, contract, direct placement, and long-term on-site staffing and recruiting solutions for client companies."
+    },
+    {
+      "name": "myBBSI",
+      "type": "platform",
+      "description": "Client-facing technology platform enabling payroll processing, time and attendance, HR information management, benefits, and payroll tax reporting."
+    },
+    {
+      "name": "Workers Compensation Coverage",
+      "type": "service",
+      "description": "Workers compensation insurance and claims management provided to PEO clients through third-party administrators."
+    },
+    {
+      "name": "Employee Benefit Programs",
+      "type": "service",
+      "description": "Fully insured medical, dental, vision, life insurance, FSA, HSA, and disability coverage offered through third-party carriers."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BBSI/profile",
+  "origin": {
+    "leaf": "9a94aba0227e47c46caa7c6df123b6dc0dc25cef8170f3844b9812283feb6c17",
+    "parent": "e458fe952a767a8d18d6f996b774c6bdbb1d484da80a5c41053cef4d41275ada",
+    "timestamp": "2026-04-12T03:12:56.140Z",
+    "source": "profile:0000902791",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9a94aba0227e47c46caa7c6df123b6dc0dc25cef8170f3844b9812283feb6c17",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.140Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

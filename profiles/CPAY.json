@@ -1,0 +1,91 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CPAY",
+  "name": "CORPAY, INC.",
+  "cik": "0001175454",
+  "summary": "Corpay, Inc. is a global corporate payments company providing businesses and consumers with payment and spend management solutions. Products include AP automation, cross-border payments (foreign exchange spot, forward, and option transactions), virtual cards, purchasing cards, fuel cards, toll payments, and lodging payment solutions. Corpay serves millions of businesses worldwide through direct sales, digital channels, and strategic partnerships, competing with financial institutions and specialized payment providers.",
+  "products": [
+    {
+      "name": "AP Automation",
+      "type": "platform",
+      "description": "Automates accounts payable and vendor invoice processing for domestic and international payments."
+    },
+    {
+      "name": "Cross-Border Payments",
+      "type": "service",
+      "description": "Facilitates international payments via FX spot, forward, and option contracts in ~200 countries and 145 currencies."
+    },
+    {
+      "name": "Virtual Cards",
+      "type": "service",
+      "description": "Digital card solutions for business-to-business payments and spend control."
+    },
+    {
+      "name": "Purchasing and T&E Cards",
+      "type": "service",
+      "description": "Commercial cards for employee point-of-sale and travel and entertainment purchases."
+    },
+    {
+      "name": "Spend Management Platform",
+      "type": "platform",
+      "description": "Unified platform combining virtual, purchasing, and T&E card data for real-time corporate spend visibility."
+    },
+    {
+      "name": "Fuel Cards",
+      "type": "service",
+      "description": "Vehicle payment cards to control and monitor fuel spending for businesses."
+    },
+    {
+      "name": "Toll Payments",
+      "type": "service",
+      "description": "Vehicle-related toll payment solutions and complementary services."
+    },
+    {
+      "name": "Lodging Payment Solutions",
+      "type": "service",
+      "description": "Manages business lodging costs including hotel and extended stay bookings with traveler support."
+    },
+    {
+      "name": "Multi-Currency Bank Accounts",
+      "type": "service",
+      "description": "Allows corporate and financial institution customers to hold and manage funds in multiple currencies across jurisdictions."
+    },
+    {
+      "name": "Proprietary Trading and Payments Platform",
+      "type": "platform",
+      "description": "White-label cross-border payment platform offered to financial institutions; also available via API integration."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "AvidXchange",
+      "partnership_type": "strategic",
+      "description": "Corpay recently acquired a partnership interest in AvidXchange.",
+      "start_date": null
+    },
+    {
+      "partner_name": "SWIFT",
+      "partnership_type": "strategic",
+      "description": "Uses SWIFT international payments network to move liquidity globally for cross-border transactions.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CPAY/profile",
+  "origin": {
+    "leaf": "8d7688e0f085d946be9235bf2618de32edf072097024fb68b0774fe5f33fec6e",
+    "parent": "7d1b8d32bd91a8b352d6762526b60032d719e735a1df2d14afbfb0f832876a77",
+    "timestamp": "2026-04-12T03:12:54.897Z",
+    "source": "profile:0001175454",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8d7688e0f085d946be9235bf2618de32edf072097024fb68b0774fe5f33fec6e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.897Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

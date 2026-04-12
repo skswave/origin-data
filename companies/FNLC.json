@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "FNLC",
+  "name": "First Bancorp, Inc /ME/",
+  "cik": "0000765207",
+  "exchange": "Nasdaq",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "ME",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "The First Bancorp, Inc. (FNLC) is a Maine-based bank holding company operating through its subsidiary, First National Bank. The company provides banking products and services including deposit accounts, loans, Wealth Management, and Investment Services. It is subject to federal and state financial institution regulations and lists its stock on Nasdaq.",
+  "tags": [
+    "banking-and-financial-services",
+    "wealth-management",
+    "investment-services"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/FNLC",
+  "origin": {
+    "leaf": "410ec541b1c7dc446eff6f5e8fda2f1118f7df02045359b05539536d1067be42",
+    "parent": "4c2a1eb454c32cd91b5de2efc60c1a0353ef1bae17fdb13daa53c8e0a19e7833",
+    "timestamp": "2026-04-12T03:12:51.660Z",
+    "source": "0000765207-26-000067",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/410ec541b1c7dc446eff6f5e8fda2f1118f7df02045359b05539536d1067be42",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.660Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

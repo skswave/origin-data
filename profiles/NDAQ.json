@@ -1,0 +1,118 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NDAQ",
+  "name": "NASDAQ, INC.",
+  "cik": "0001120193",
+  "summary": "Nasdaq, Inc. operates global exchanges and provides financial technology solutions. It operates The Nasdaq Stock Market, multiple U.S. options exchanges (Nasdaq PHLX, Nasdaq ISE, Nasdaq GEMX, Nasdaq MRX, Nasdaq BX Options, The Nasdaq Options Market), and Nordic/Baltic exchanges under Nasdaq Nordic and Nasdaq Baltic brands. It also offers clearing via Nasdaq Clearing AB, and technology/data services including SaaS solutions through its Adenza acquisition, serving capital markets participants worldwide.",
+  "products": [
+    {
+      "name": "The Nasdaq Stock Market",
+      "type": "platform",
+      "description": "U.S. cash equity exchange and primary listing venue for equities including ETPs."
+    },
+    {
+      "name": "Nasdaq PHLX",
+      "type": "platform",
+      "description": "U.S. options exchange and cash equity exchange (Nasdaq PSX) operated by Nasdaq PHLX LLC."
+    },
+    {
+      "name": "Nasdaq ISE",
+      "type": "platform",
+      "description": "U.S. options exchange operated by Nasdaq ISE, LLC."
+    },
+    {
+      "name": "Nasdaq GEMX",
+      "type": "platform",
+      "description": "U.S. options exchange operated by Nasdaq GEMX, LLC."
+    },
+    {
+      "name": "Nasdaq MRX",
+      "type": "platform",
+      "description": "U.S. options exchange operated by Nasdaq MRX, LLC."
+    },
+    {
+      "name": "Nasdaq BX / Nasdaq BX Options",
+      "type": "platform",
+      "description": "U.S. cash equity exchange and options exchange operated by Nasdaq BX, Inc."
+    },
+    {
+      "name": "The Nasdaq Options Market",
+      "type": "platform",
+      "description": "U.S. options exchange operated by The Nasdaq Stock Market LLC."
+    },
+    {
+      "name": "Nasdaq Nordic",
+      "type": "platform",
+      "description": "Group of Nordic exchanges and clearing including Stockholm, Copenhagen, Helsinki, Iceland, and Nasdaq Clearing AB."
+    },
+    {
+      "name": "Nasdaq Baltic",
+      "type": "platform",
+      "description": "Group of Baltic exchanges including Tallinn, Riga, and Vilnius."
+    },
+    {
+      "name": "Nasdaq First North",
+      "type": "platform",
+      "description": "Alternative marketplaces for smaller and growth companies in Nordic and Baltic regions."
+    },
+    {
+      "name": "Nasdaq Clearing",
+      "type": "service",
+      "description": "Central counterparty clearing operations conducted by Nasdaq Clearing AB."
+    },
+    {
+      "name": "Adenza",
+      "type": "software",
+      "description": "Financial technology software solutions acquired by Nasdaq, offered as SaaS to capital markets clients."
+    },
+    {
+      "name": "CAT (Consolidated Audit Trail)",
+      "type": "service",
+      "description": "Market-wide consolidated audit trail established under SEC-approved plan by Nasdaq and other exchanges."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Amazon Web Services (AWS)",
+      "partnership_type": "strategic",
+      "description": "AWS referenced as a technology partner; mentioned in abbreviations list context of Nasdaq's technology infrastructure.",
+      "start_date": null
+    },
+    {
+      "partner_name": "FINRA",
+      "partnership_type": "strategic",
+      "description": "FINRA operates Trade Reporting Facility; referenced in regulatory and market infrastructure context.",
+      "start_date": null
+    },
+    {
+      "partner_name": "NSCC (National Securities Clearing Corporation)",
+      "partnership_type": "strategic",
+      "description": "Referenced in context of U.S. clearing infrastructure and market operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "OCC (Options Clearing Corporation)",
+      "partnership_type": "strategic",
+      "description": "Referenced as clearing counterpart for U.S. options markets.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NDAQ/profile",
+  "origin": {
+    "leaf": "0d9b6ed7760033da552960ee1624e4a4321ba58a4d7327c078e6a995cb926534",
+    "parent": "9f3ecdc62aed393a54785eb114bce54323d610f5ea702929f3dd5cd450054ec6",
+    "timestamp": "2026-04-12T03:12:54.789Z",
+    "source": "profile:0001120193",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0d9b6ed7760033da552960ee1624e4a4321ba58a4d7327c078e6a995cb926534",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.789Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

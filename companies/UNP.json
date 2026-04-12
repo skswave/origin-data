@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "UNP",
+  "name": "UNION PACIFIC CORP",
+  "cik": "0000100885",
+  "exchange": "NYSE",
+  "sic": "4011",
+  "sic_description": "Railroads, Line-Haul Operating",
+  "state_of_incorporation": "UT",
+  "headquarters": "Omaha, NE",
+  "founded": "1969",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Union Pacific Corporation, through its principal subsidiary Union Pacific Railroad Company (UPRR), operates a Class I railroad across 32,889 route miles connecting 23 states in the western two-thirds of the U.S. The company transports Bulk commodities (grain, coal, fertilizer), Industrial products (chemicals, plastics, metals, petroleum), and Premium freight (intermodal, automotive) through Gulf Coast, Pacific Coast ports, and Mexican and Canadian gateways, generating $23.2 billion in freight revenues in 2025.",
+  "tags": [
+    "bulk-commodities-(grain,-coal,-fertilizer)",
+    "industrial-chemicals-and-plastics",
+    "intermodal-freight",
+    "automotive",
+    "construction-and-infrastructure",
+    "energy-and-petroleum",
+    "agricultural-markets",
+    "international-trade-(mexico-and-canada-gateways)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/UNP",
+  "origin": {
+    "leaf": "18fd905ee4323dc1505573090fe68a7c4271ad3c5bfca29f1b2f8728bcfb7f69",
+    "parent": "e056bfc316b28e25a83ca7a1c6694a0dd209937a5211a40c8626a30479cc92f1",
+    "timestamp": "2026-04-12T03:12:50.298Z",
+    "source": "0000100885-26-000037",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/18fd905ee4323dc1505573090fe68a7c4271ad3c5bfca29f1b2f8728bcfb7f69",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.298Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

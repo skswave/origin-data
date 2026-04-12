@@ -1,0 +1,45 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SKAS",
+  "name": "Saker Aviation Services, Inc.",
+  "cik": "0001128281",
+  "summary": "Saker Aviation Services, Inc. (SKAS) is a Nevada corporation that previously operated the Downtown Manhattan Heliport under a Concession Agreement with the City of New York from November 2008 until March 29, 2025, offering sightseeing tours, fuel, and corporate charter services. Following loss of the heliport concession, the Company commenced providing strategic financial advisory services to clients beginning December 2025, and currently employs two full-time persons.",
+  "products": [
+    {
+      "name": "Heliport Operations",
+      "type": "service",
+      "description": "Fixed base operator services at Downtown Manhattan Heliport including sightseeing tours, fuel, and corporate charter services."
+    },
+    {
+      "name": "Strategic Financial Advisory Services",
+      "type": "service",
+      "description": "Financial advisory services to clients, commenced December 2025 following loss of heliport concession."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "City of New York / NYCEDC / DSBS",
+      "partnership_type": "strategic",
+      "description": "Concession and interim agreements granting Company exclusive rights to operate Downtown Manhattan Heliport.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SKAS/profile",
+  "origin": {
+    "leaf": "90a3bb0bb715c46bc1c5ce62239f07672cf43148f1e292ccf18599c7f86ab9cb",
+    "parent": "4782945028a5772c11f6471058fd7f0eba37ba5420337f7742b00dfd00051620",
+    "timestamp": "2026-04-12T03:12:58.686Z",
+    "source": "profile:0001128281",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/90a3bb0bb715c46bc1c5ce62239f07672cf43148f1e292ccf18599c7f86ab9cb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.686Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

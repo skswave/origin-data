@@ -1,0 +1,124 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "BLCO",
+  "total_facts": 8,
+  "by_type": {
+    "topic_mention": 8
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLCO",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 19,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLCO",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 19,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLCO",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 19,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLCO",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLCO",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLCO",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLCO",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLCO",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BLCO/transcripts",
+  "origin": {
+    "leaf": "cec1b0f92ed56af123383cf1f8bce3604711b2bd2ef6bf392420e7fb693cd8c3",
+    "parent": "67a3c741db18b01e09e4cf14eef4f9875a4c46363f4eac2bf3b06e2a97ce7d3f",
+    "timestamp": "2026-04-12T03:13:31.401Z",
+    "source": "facts:BLCO",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cec1b0f92ed56af123383cf1f8bce3604711b2bd2ef6bf392420e7fb693cd8c3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:31.401Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

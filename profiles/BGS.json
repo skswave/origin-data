@@ -1,0 +1,97 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BGS",
+  "name": "B&G Foods, Inc.",
+  "cik": "0001278027",
+  "summary": "B&G Foods manufactures, sells and distributes a diverse portfolio of branded, high-quality, shelf-stable and frozen food and household products across the United States, Canada and Puerto Rico. Key brands include Crisco, Clabber Girl, Bear Creek, Polaner, Underwood, B&G, Grandma's, New York Style, and B&M. The company complements branded retail sales with institutional, foodservice, and private label sales and has been in business for over 130 years.",
+  "products": [
+    {
+      "name": "Crisco",
+      "type": "service",
+      "description": "Brand of oils and shortening acquired from The J.M. Smucker Co. in December 2020."
+    },
+    {
+      "name": "Clabber Girl",
+      "type": "service",
+      "description": "Baking product brand included in the Specialty segment."
+    },
+    {
+      "name": "Bear Creek",
+      "type": "service",
+      "description": "Food brand included in the Specialty segment."
+    },
+    {
+      "name": "Polaner",
+      "type": "service",
+      "description": "Food brand included in the Specialty segment."
+    },
+    {
+      "name": "Underwood",
+      "type": "service",
+      "description": "Food brand included in the Specialty segment."
+    },
+    {
+      "name": "Green Giant",
+      "type": "service",
+      "description": "Frozen and shelf-stable vegetable brand, subject to multiple divestitures in U.S. and Canada."
+    },
+    {
+      "name": "College Inn",
+      "type": "service",
+      "description": "Broth and stock brand being acquired from Del Monte Foods Corporation II Inc."
+    },
+    {
+      "name": "Kitchen Basics",
+      "type": "service",
+      "description": "Broth and stock brand being acquired from Del Monte Foods Corporation II Inc."
+    },
+    {
+      "name": "Don Pepino",
+      "type": "service",
+      "description": "Brand of pizza and spaghetti sauces, crushed tomatoes, tomato puree and whole peeled tomatoes, divested May 2025."
+    },
+    {
+      "name": "Sclafani",
+      "type": "service",
+      "description": "Brand of pizza and spaghetti sauces, crushed tomatoes, tomato puree and whole peeled tomatoes, divested May 2025."
+    },
+    {
+      "name": "Back to Nature",
+      "type": "service",
+      "description": "Food brand divested to Barilla America in January 2023."
+    },
+    {
+      "name": "LeSueur",
+      "type": "service",
+      "description": "U.S. shelf-stable vegetable brand divested to McCall Farms, Inc. in August 2025."
+    },
+    {
+      "name": "New York Style",
+      "type": "service",
+      "description": "Food brand included in the Specialty segment."
+    },
+    {
+      "name": "B&M",
+      "type": "service",
+      "description": "Food brand included in the Specialty segment."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BGS/profile",
+  "origin": {
+    "leaf": "db2d65cbbb40caf5d17cf1d981325d6d81c15a2bf381128503ac10de3807d44d",
+    "parent": "aeab2d953363ad3858fbd4523ae41bd5718bc4cdd393dfa2f39d1d6879e8b7bc",
+    "timestamp": "2026-04-12T03:12:56.543Z",
+    "source": "profile:0001278027",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/db2d65cbbb40caf5d17cf1d981325d6d81c15a2bf381128503ac10de3807d44d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.543Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

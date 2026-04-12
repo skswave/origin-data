@@ -1,0 +1,111 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CASS",
+  "name": "CASS INFORMATION SYSTEMS INC",
+  "cik": "0000708781",
+  "summary": "Cass Information Systems provides payment and information processing services to large manufacturing, distribution, and retail enterprises in the United States. Services include freight invoice rating, payment processing, auditing, transportation and accounting information generation, facility-related invoice processing (electricity, gas, waste, telecom), B2B payments via CassPay, and church management software via TouchPoint. Its bank subsidiary, Cass Commercial Bank, supports payment operations and serves privately held businesses, restaurant franchises, and faith-based ministries.",
+  "products": [
+    {
+      "name": "FreightPay",
+      "type": "service",
+      "description": "Transportation bill processing and payment service for large enterprises."
+    },
+    {
+      "name": "CassPay",
+      "type": "platform",
+      "description": "B2B payment platform for clients requiring an agile fintech partner."
+    },
+    {
+      "name": "TouchPoint",
+      "type": "software",
+      "description": "Church management software and online generosity platform for faith-based and non-profit organizations."
+    },
+    {
+      "name": "Gyve / Generosity Made Simple",
+      "type": "platform",
+      "description": "Online platform providing generosity services for faith-based and non-profit organizations."
+    },
+    {
+      "name": "Expense$mart / ExpenseSmart",
+      "type": "service",
+      "description": "Expense management reporting and processing service."
+    },
+    {
+      "name": "CassPort",
+      "type": "platform",
+      "description": "Proprietary internet management delivery system for reports, digital images, and data retrieval."
+    },
+    {
+      "name": "Ratemaker / Best Rate / Rate Exchange",
+      "type": "service",
+      "description": "Transportation freight rating and best-rate determination services."
+    },
+    {
+      "name": "WasteVision",
+      "type": "service",
+      "description": "Waste expense management and payment processing service."
+    },
+    {
+      "name": "AcuAudit",
+      "type": "service",
+      "description": "Electronic auditing service for invoice and expense management."
+    },
+    {
+      "name": "Direct2Carrier Payments",
+      "type": "service",
+      "description": "Direct payment processing service to carriers."
+    },
+    {
+      "name": "Transdata",
+      "type": "service",
+      "description": "Transportation data processing and management service."
+    },
+    {
+      "name": "Cass Freight Index",
+      "type": "service",
+      "description": "Freight industry index and benchmarking data service."
+    },
+    {
+      "name": "Cass Truckload Linehaul Index",
+      "type": "service",
+      "description": "Truckload linehaul pricing index service."
+    },
+    {
+      "name": "Cass Intermodal Price Index",
+      "type": "service",
+      "description": "Intermodal shipping price index service."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Asignet USA Inc",
+      "partnership_type": "strategic",
+      "description": "Asset Purchase Agreement for sale of TEM Business Unit for $18M; Transition Services Agreement for IT, data ingestion, and payment processing up to 18 months post-close.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Energy Service Providers (ESPs)",
+      "partnership_type": "strategic",
+      "description": "Various ESPs market Cass utility processing services, adding auditing, consulting, and technological capabilities to Cass solutions.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CASS/profile",
+  "origin": {
+    "leaf": "1c89d3f4746bb001d06fc88b4ecbcb0d2ea37bf2477dced2df5ae39d396846e5",
+    "parent": "68578e4485a2beb2ee368105f56f3e111b08385855da1601bb56103827d88a3b",
+    "timestamp": "2026-04-12T03:12:56.294Z",
+    "source": "profile:0000708781",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1c89d3f4746bb001d06fc88b4ecbcb0d2ea37bf2477dced2df5ae39d396846e5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.294Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

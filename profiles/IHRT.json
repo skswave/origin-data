@@ -1,0 +1,88 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IHRT",
+  "name": "iHeartMedia, Inc.",
+  "cik": "0001400891",
+  "summary": "iHeartMedia, Inc. is the number one audio media company in the U.S. by consumer reach. It operates 868 broadcast radio stations across approximately 160 markets, the iHeartRadio digital streaming platform, a leading podcast publishing business, Premiere Networks syndication, Total Traffic & Weather Network, Katz Media Group media representation, and RCS Sound Software. The company serves advertisers across national, regional, and local levels with data-driven solutions including its SmartAudio platform.",
+  "products": [
+    {
+      "name": "iHeartRadio",
+      "type": "platform",
+      "description": "Digital streaming and broadcast radio platform available on 500+ platforms including mobile, smart speakers, and automotive dashboards."
+    },
+    {
+      "name": "SmartAudio",
+      "type": "platform",
+      "description": "Suite of data targeting, attribution, and analytics products for broadcast radio advertisers with programmatic ad-buying solutions."
+    },
+    {
+      "name": "Premiere Networks",
+      "type": "service",
+      "description": "National radio network producing, distributing, or representing 200+ syndicated radio programs for 6,700+ station affiliates."
+    },
+    {
+      "name": "Total Traffic & Weather Network",
+      "type": "service",
+      "description": "Broadcast service providing traffic and weather content and advertising revenue generation."
+    },
+    {
+      "name": "Katz Media Group",
+      "type": "service",
+      "description": "Full-service media representation business serving the audio and media industry."
+    },
+    {
+      "name": "RCS Sound Software",
+      "type": "software",
+      "description": "Provider of scheduling and broadcast software and services to the radio industry."
+    },
+    {
+      "name": "BIN: Black Information Network",
+      "type": "service",
+      "description": "Broadcast news network focused on Black community information and content."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Nielsen",
+      "partnership_type": "strategic",
+      "description": "Nielsen provides audience measurement and market rankings for iHeartMedia's broadcast radio stations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Triton",
+      "partnership_type": "strategic",
+      "description": "iHeartMedia subsidiary Triton measures digital listening hours for the audio industry.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Podtrac",
+      "partnership_type": "strategic",
+      "description": "Podtrac ranks iHeartMedia as the number one podcast publisher in the U.S. across 19 content categories.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Shareablee",
+      "partnership_type": "strategic",
+      "description": "Shareablee measures iHeartMedia's social media footprint of over 345 million fans and followers.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IHRT/profile",
+  "origin": {
+    "leaf": "e73a32dc0cd8e2783f2a4adbbeffe548233923fd07772a5899592f377d94bf33",
+    "parent": "1fbeeaaa7b91328f9ef02e3799260d55ac170252f9cdb903f216452ac89b7c0a",
+    "timestamp": "2026-04-12T03:12:56.457Z",
+    "source": "profile:0001400891",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e73a32dc0cd8e2783f2a4adbbeffe548233923fd07772a5899592f377d94bf33",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.457Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ETSY",
+  "name": "ETSY INC",
+  "cik": "0001370637",
+  "exchange": "NYSE",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Etsy, Inc. operates two-sided online marketplaces connecting creative entrepreneurs with buyers worldwide. Its primary platform, the Etsy marketplace, serves as a global destination for unique, handmade, and vintage goods from independent sellers. Etsy also operates Depop, a fashion resale marketplace acquired in 2021, and previously operated Reverb (musical instruments, sold June 2025) and Elo7 (Brazil-based marketplace, sold August 2023). Total consolidated GMS in 2025 was $11.9 billion.",
+  "tags": [
+    "e-commerce",
+    "online-retail-marketplace",
+    "fashion-resale",
+    "handmade-and-vintage-goods",
+    "independent-seller-marketplace"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ETSY",
+  "origin": {
+    "leaf": "04cb5d56ecaa481c401f5ca691d05df81e78c9f1f51d5adae967f85ea3eaa77c",
+    "parent": "282fb21ca6b216dc706b4370e8eb8ff31f327ad8fc1d573f66850b5969e6aa53",
+    "timestamp": "2026-04-12T03:12:50.643Z",
+    "source": "0001370637-26-000019",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/04cb5d56ecaa481c401f5ca691d05df81e78c9f1f51d5adae967f85ea3eaa77c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.643Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

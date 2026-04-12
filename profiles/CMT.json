@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CMT",
+  "name": "CORE MOLDING TECHNOLOGIES INC",
+  "cik": "0001026655",
+  "summary": "Core Molding Technologies, Inc. is a molder of thermoplastic and thermoset structural products operating in the engineered materials market. The Company produces molded products for medium and heavy-duty trucks, power sports, building products, and other industrial markets. It manufactures Sheet Molding Compound (SMC) and molded products using compression molding, resin transfer molding, injection molding, and other processes. Headquartered in Columbus, Ohio, it operates six production facilities in the United States, Canada, and Mexico.",
+  "products": [
+    {
+      "name": "Sheet Molding Compound (SMC)",
+      "type": "hardware",
+      "description": "A combination of resins, fiberglass, fillers, and catalysts compounded in sheet form used to manufacture compression-molded products."
+    },
+    {
+      "name": "SMC Compression Molded Products",
+      "type": "hardware",
+      "description": "Structural thermoset components formed via matched die steel molds using heat and pressure; used for high-volume outer and reinforcing components."
+    },
+    {
+      "name": "Direct Long Fiber Thermoplastic (D-LFT) Products",
+      "type": "hardware",
+      "description": "Thermoplastic parts compounded with long glass fibers via screw extruder and compression or injection transfer molding for complex, high-strength geometry."
+    },
+    {
+      "name": "Resin Transfer Molded (RTM) Products",
+      "type": "hardware",
+      "description": "Fiberglass-reinforced parts with high-quality surface on both sides produced via vacuum resin transfer compression molding process."
+    },
+    {
+      "name": "Structural Foam and Web Injection Molded (SIM) Products",
+      "type": "hardware",
+      "description": "High-strength, rigid, low-weight thermoplastic parts produced via low-pressure injection molding using foaming agents or nitrogen gas."
+    },
+    {
+      "name": "Reaction Injection Molded (RIM) Products",
+      "type": "hardware",
+      "description": "Thermoset composite parts using DCPD technology injected into aluminum molds; suited for mid-volume, high-impact-resistance applications."
+    },
+    {
+      "name": "Hand Lay-Up Fiberglass Products",
+      "type": "hardware",
+      "description": "Fiberglass-reinforced structural components or assemblies produced by manually applying resin to glass cloth in a shell mold."
+    },
+    {
+      "name": "Spray-Up Fiberglass Products",
+      "type": "hardware",
+      "description": "Composite parts produced by spraying resin-coated chopped glass into a mold using a chopper/spray system."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CMT/profile",
+  "origin": {
+    "leaf": "e2ba3b6dfc82672b2663351155f10a0c18f3ce57473974a5d62ddd031fc0cf89",
+    "parent": "5aec30e780e4237fa7fc412143ccb7b3d471a4f461d164dedbee5a429bb8cbc9",
+    "timestamp": "2026-04-12T03:12:57.016Z",
+    "source": "profile:0001026655",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e2ba3b6dfc82672b2663351155f10a0c18f3ce57473974a5d62ddd031fc0cf89",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.016Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

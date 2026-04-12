@@ -1,0 +1,126 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HBCP",
+  "name": "HOME BANCORP, INC.",
+  "cik": "0001436425",
+  "summary": "Home Bancorp, Inc. is a Louisiana bank holding company for Home Bank, N.A., headquartered in Lafayette, Louisiana. The Bank operates 43 banking offices across south Louisiana, west Mississippi, and Houston, Texas. It offers commercial real estate loans, commercial and industrial loans, residential mortgages, home equity products, construction loans, consumer loans, deposit accounts, and investment securities, deriving income primarily from interest on loans and securities.",
+  "products": [
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Loans secured by commercial real estate properties, prioritized for higher yields and shorter anticipated lives."
+    },
+    {
+      "name": "Commercial and Industrial Loans",
+      "type": "service",
+      "description": "C&I loans to business borrowers, valued for higher yields and associated core deposit relationships."
+    },
+    {
+      "name": "One-to-Four Family Mortgage Loans",
+      "type": "service",
+      "description": "Residential first mortgage loans originated in the Bank's market areas."
+    },
+    {
+      "name": "Home Equity Loans and Lines",
+      "type": "service",
+      "description": "Home equity lending products offered to retail customers."
+    },
+    {
+      "name": "Construction and Land Loans",
+      "type": "service",
+      "description": "Loans for construction projects and land acquisition."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "General consumer lending products offered to individuals."
+    },
+    {
+      "name": "Deposit Accounts",
+      "type": "service",
+      "description": "Retail and commercial deposit accounts with service charges and online banking services."
+    },
+    {
+      "name": "Online Banking",
+      "type": "platform",
+      "description": "Digital banking services provided to customers via the Bank's website."
+    },
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Loans secured by commercial real estate properties for business borrowers."
+    },
+    {
+      "name": "Commercial and Industrial Loans",
+      "type": "service",
+      "description": "Loans to businesses for commercial and industrial purposes."
+    },
+    {
+      "name": "One- to Four-Family First Mortgage Loans",
+      "type": "service",
+      "description": "Residential mortgage loans for one- to four-family properties."
+    },
+    {
+      "name": "Home Equity Loans and Lines",
+      "type": "service",
+      "description": "Loans and lines of credit secured by residential home equity."
+    },
+    {
+      "name": "Construction and Land Loans",
+      "type": "service",
+      "description": "Loans for construction projects and land acquisition."
+    },
+    {
+      "name": "Multi-Family Residential Loans",
+      "type": "service",
+      "description": "Loans secured by multi-family residential properties."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "Various consumer lending products offered to individuals."
+    },
+    {
+      "name": "Deposit Accounts",
+      "type": "service",
+      "description": "Customer deposit accounts including checking and savings products."
+    },
+    {
+      "name": "Online Banking",
+      "type": "platform",
+      "description": "Digital banking services provided to customers via the Bank's website."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Federal Home Loan Bank of Dallas",
+      "partnership_type": "strategic",
+      "description": "Primary external funding source for the Bank through borrowed funds.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Federal Home Loan Bank of Dallas",
+      "partnership_type": "strategic",
+      "description": "Primary external funding source for the Bank through borrowed funds.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HBCP/profile",
+  "origin": {
+    "leaf": "374ec4fa87749d9c34c6a3b64a22b4f8ac67486797301a56fdde867bb93ce5d5",
+    "parent": "82cb3ffb64e7acf1162d859220b0fe96f57bb6d0f26b8f5ddaebfacedd835db1",
+    "timestamp": "2026-04-12T03:12:56.401Z",
+    "source": "profile:0001436425",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/374ec4fa87749d9c34c6a3b64a22b4f8ac67486797301a56fdde867bb93ce5d5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.401Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

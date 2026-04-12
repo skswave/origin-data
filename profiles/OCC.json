@@ -1,0 +1,85 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "OCC",
+  "name": "OPTICAL CABLE CORP",
+  "cik": "0001000230",
+  "summary": "Optical Cable Corporation (OCC) is a Virginia-based manufacturer of fiber optic and copper data communication cabling and connectivity solutions. Founded in 1983, OCC serves enterprise, data center, military, harsh environment, and wireless carrier markets. Products include fiber optic cables, hybrid cables, copper datacom cables, connectors, patch panels, enclosures, and pre-terminated assemblies. OCC operates ISO 9001:2015 registered facilities in Virginia, North Carolina, and Texas, and is internationally recognized for pioneering military-grade fiber optic cable and copper connectivity standards.",
+  "products": [
+    {
+      "name": "Fiber Optic Cables",
+      "type": "hardware",
+      "description": "Tight-buffered, loose tube, and rollable ribbon cables for enterprise, data center, military, and harsh environment applications."
+    },
+    {
+      "name": "Hybrid Cables",
+      "type": "hardware",
+      "description": "Cables combining fiber optic and copper elements for power and data transmission in specialty applications."
+    },
+    {
+      "name": "Copper Datacom Cables",
+      "type": "hardware",
+      "description": "UTP and F/UTP cables in Category 5e, 6, and 6A ratings for copper network installations."
+    },
+    {
+      "name": "Fiber Optic Connectivity Products",
+      "type": "hardware",
+      "description": "Enclosures, connectors, patch cords, cassette modules, splice trays, and pre-terminated trunks for enterprise and data center use."
+    },
+    {
+      "name": "Copper Connectivity Products",
+      "type": "hardware",
+      "description": "Patch panels, jacks, plugs, patch cords, faceplates, and enclosures compliant with Category 5e, 6, 6A, and Category 8 standards."
+    },
+    {
+      "name": "Harsh Environment and Specialty Connectivity Products",
+      "type": "hardware",
+      "description": "Specialty fiber optic connectors and connectivity solutions for military, industrial, mining, and other harsh environment applications, sold under AOS brand."
+    },
+    {
+      "name": "Pre-terminated Fiber Optic Cable Trunks and Assemblies",
+      "type": "hardware",
+      "description": "Factory-terminated cable assemblies for faster installation in enterprise and data center environments."
+    },
+    {
+      "name": "Racks, Cabinets, and Datacom Enclosures",
+      "type": "hardware",
+      "description": "Infrastructure products for cable and connectivity management in equipment rooms and data centers."
+    },
+    {
+      "name": "Fiber-in-Conduit (FIC) Cables",
+      "type": "hardware",
+      "description": "Pre-installed fiber optic cables in conduit for reduced installation time."
+    },
+    {
+      "name": "Passive Optical LAN (POL) Solutions",
+      "type": "hardware",
+      "description": "Integrated cabling and connectivity infrastructure solutions for POL installations in enterprise and campus environments."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Lightera, LLC (Furukawa Electric Company Group)",
+      "partnership_type": "strategic",
+      "description": "Strategic collaboration to expand product offerings for data center and enterprise sectors; Lightera received 642,199 OCC shares for $2.0 million and OCC will offer certain Lightera products.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/OCC/profile",
+  "origin": {
+    "leaf": "c55ccd95a55caf6e204a83a4c9195e595344791448bae72c9a6f7235c75fcf7c",
+    "parent": "ea723a2cc52940b09842ade1215ae9bddc5faf2e95c7a7943d8178b294ecbaed",
+    "timestamp": "2026-04-12T03:12:57.585Z",
+    "source": "profile:0001000230",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c55ccd95a55caf6e204a83a4c9195e595344791448bae72c9a6f7235c75fcf7c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.585Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

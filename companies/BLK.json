@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BLK",
+  "name": "BlackRock, Inc.",
+  "cik": "0002012383",
+  "exchange": "NYSE",
+  "sic": "6211",
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "BlackRock, Inc. is a leading publicly traded investment management firm with $14.0 trillion in AUM as of December 31, 2025. It offers equity, fixed income, multi-asset, alternatives, digital assets, and cash management strategies via mutual funds, iShares ETFs, separate accounts, and collective trust funds. BlackRock also provides technology and subscription services including Aladdin, Aladdin Wealth, eFront, Preqin, and Cachematrix to institutional and retail clients in over 100 countries.",
+  "tags": [
+    "institutional-investment-management",
+    "retail-investment-management",
+    "defined-benefit-and-defined-contribution-pension-plans",
+    "insurance-companies",
+    "sovereign-wealth-funds-and-central-banks",
+    "foundations-and-endowments",
+    "financial-institutions",
+    "third-party-fund-sponsors",
+    "wealth-management-intermediaries",
+    "private-markets",
+    "digital-assets"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 24900,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BLK",
+  "origin": {
+    "leaf": "7a3f92e9399228d0a3d93c04eda20902c2fb8d76bea4bfe63df07d93d75e8779",
+    "parent": "16f3e3cc79988296693ad2c258d26a43793ac7fce8aaedc238c8119525ca962f",
+    "timestamp": "2026-04-12T03:12:50.298Z",
+    "source": "0001193125-26-071966",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7a3f92e9399228d0a3d93c04eda20902c2fb8d76bea4bfe63df07d93d75e8779",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.298Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

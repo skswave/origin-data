@@ -1,0 +1,97 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SRCO",
+  "name": "SPARTA COMMERCIAL SERVICES, INC.",
+  "cik": "0000318299",
+  "summary": "Sparta Commercial Services, Inc. is a Nevada-based multi-disciplined corporation operating across four segments: FinTech Services (Agoge Global USA cross-border trade finance and blockchain platform EZBroker360), Financial Services (municipal and nonprofit equipment leasing), E-Commerce & Mobile Technology (iMobile Solutions mobile app development, website design, and specialty vehicle history reports via Cyclechex, RVchex, Truckchex), and Health and Wellness (New World Health Brands nutritional supplements sold via Amazon, Walmart, TikTok, eBay, and Etsy).",
+  "products": [
+    {
+      "name": "EZBroker360",
+      "type": "platform",
+      "description": "Blockchain-enabled platform using stablecoins and distributed ledger technology for cross-border trade finance between the US and Brazil."
+    },
+    {
+      "name": "iGoCards",
+      "type": "platform",
+      "description": "Virtual card and expense management platform supporting USD and stablecoin fund loading with multi-user controls for global businesses."
+    },
+    {
+      "name": "iMobileApp",
+      "type": "software",
+      "description": "Custom mobile application development, hosting, and maintenance for small- and medium-sized businesses across various industries."
+    },
+    {
+      "name": "Cyclechex",
+      "type": "service",
+      "description": "Motorcycle vehicle history reports sourced from governmental and industry databases including NMVTIS."
+    },
+    {
+      "name": "RVchex",
+      "type": "service",
+      "description": "Recreational vehicle history reports sold online, through dealer networks, and in over 60 countries."
+    },
+    {
+      "name": "Truckchex",
+      "type": "service",
+      "description": "Heavy-duty truck history reports addressing markets not fully served by major providers like CARFAX or AutoCheck."
+    },
+    {
+      "name": "Sparta Municipal Financing",
+      "type": "service",
+      "description": "Equipment financing for local/state government agencies and 501(c)(3) nonprofits, including police motorcycles, fire trucks, and EMS vehicles."
+    },
+    {
+      "name": "New World Health Brands Supplements",
+      "type": "service",
+      "description": "US-sourced nutritional supplements including vitamins and minerals sold via e-commerce and online marketplaces."
+    },
+    {
+      "name": "Text Messaging Platform",
+      "type": "software",
+      "description": "Client-facing platform to create, schedule, and analyze marketing text message campaigns for customer engagement."
+    },
+    {
+      "name": "Custom Software Development",
+      "type": "software",
+      "description": "Kitchen ordering systems for grocery stores and delicatessens with payment integration, wireless printing, and text notifications."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "WeDev Group Ltda.",
+      "partnership_type": "development",
+      "description": "Joint venture with Brazilian blockchain firm to develop and operate EZBroker360 cross-border trade finance platform.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BMW Motorrad USA",
+      "partnership_type": "strategic",
+      "description": "Sparta is a preferred financing source for BMW Motorrad USA Police Motors through its municipal financing program.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Midwest bank (unnamed)",
+      "partnership_type": "strategic",
+      "description": "Municipal equipment financing offered on a pass-through basis with an unnamed Midwest bank.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SRCO/profile",
+  "origin": {
+    "leaf": "d4e4912fe9bd6fdc8e4eb6f8093087988cbfa7b452a4259b59ceebe7f56ccdaf",
+    "parent": "6e808b3a5ab3b68a3cb73770505d3de47268d038f47572518da2b1d43d3c43c7",
+    "timestamp": "2026-04-12T03:12:58.875Z",
+    "source": "profile:0000318299",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d4e4912fe9bd6fdc8e4eb6f8093087988cbfa7b452a4259b59ceebe7f56ccdaf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.875Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

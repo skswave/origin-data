@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SGRP",
+  "name": "SPAR Group, Inc.",
+  "cik": "0001004989",
+  "exchange": "Nasdaq",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "SPAR Group, Inc. is a merchandising and brand marketing services company providing sales-enhancing services to retailers, consumer goods manufacturers, and distributors in the U.S. and Canada. Services include new product launches, display installation, fixture assembly, shelf stocking, store renovations, grand opening preparation, and distribution center staffing. With over 50 years of experience, the company uses proprietary logistics, reporting, and communication technology to provide clients real-time store and product condition insights.",
+  "tags": [
+    "retail-merchandising",
+    "consumer-goods-manufacturing",
+    "brand-marketing-services",
+    "distribution-center-services",
+    "e-commerce-and-fulfillment"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SGRP",
+  "origin": {
+    "leaf": "af3f29a06912cfe965e56dcf0b12933a0dd4e0a48bb5b95af45e9219e5cc0fca",
+    "parent": "b87011a6053c81490c5ae75858e9da8fda92c8f905b2b1921289de6c8f66cadf",
+    "timestamp": "2026-04-12T03:12:52.980Z",
+    "source": "0001437749-26-010508",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/af3f29a06912cfe965e56dcf0b12933a0dd4e0a48bb5b95af45e9219e5cc0fca",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.980Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "RBA",
+  "name": "RB GLOBAL INC.",
+  "cik": "0001046102",
+  "exchange": "NYSE",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "state_of_incorporation": "A6",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I ITEM 1:BUSINESS Company Overview Established in 1958, the Company is a leading, omnichannel marketplace and trusted provider of value-added insights, services and transaction solutions for buyers and sellers of commercial assets and vehicles worldwide. Through our global network of auction sites and digital platform, we serve customers worldwide across a variety of asset classes, including automotive, construction, commercial transportation, government surplus, lifting and material handli...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 8000,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/RBA",
+  "origin": {
+    "leaf": "000fdda5c3a8ede76767d4f850412b92e1ff040a1048e00f31b048c0884ce064",
+    "parent": "ccb38f4244cc08843ceec803d9da0fca8a6ea53b7ba578366d52850c02325bb9",
+    "timestamp": "2026-04-12T03:12:50.430Z",
+    "source": "0001628280-26-011682",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/000fdda5c3a8ede76767d4f850412b92e1ff040a1048e00f31b048c0884ce064",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.430Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

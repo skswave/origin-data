@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AETN",
+  "name": "SHOREPOWER TECHNOLOGIES INC.",
+  "cik": "0000764630",
+  "exchange": "OTC",
+  "sic": "3690",
+  "sic_description": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Shorepower Technologies Inc. (SPEV) is a transportation electrification company that builds, deploys, and operates plug-in stations for electric vehicles, heavy-duty trucks, and refrigerated trailers. It operates the largest heavy-duty focused network of electrified parking spaces (EPS) in North America, with 60 facilities and approximately 1,800 electrified parking spaces at travel centers. Products include Truck Stop Electrification (TSE) pedestals, electric-standby Transport Refrigeration Unit (eTRU) stations, Level 2 EV chargers, and DC fast chargers, targeting fleet operators and truck drivers seeking to reduce diesel fuel consumption and emissions.",
+  "tags": [
+    "heavy-duty-truck-stop-electrification-(tse)",
+    "electric-vehicle-(ev)-charging",
+    "electric-standby-transport-refrigeration-(etru)",
+    "fleet-operators-and-long-haul-truck-drivers",
+    "travel-centers-and-commercial-parking-facilities",
+    "light-duty-automobile-ev-charging",
+    "level-2-charging",
+    "dc-fast-charging",
+    "110v-ac-power",
+    "208v-ac-power",
+    "electric-vehicle-supply-equipment-(evse)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AETN",
+  "origin": {
+    "leaf": "08adbe2aa47704161593c96f53d34c8c684b26e163f661cca528d9bbb1b6bc00",
+    "parent": "6d347a676ecb269cdce2271be7f60f1aae30709d0edea91361d1e37386b28bde",
+    "timestamp": "2026-04-12T03:12:53.225Z",
+    "source": "0001493152-26-014008",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/08adbe2aa47704161593c96f53d34c8c684b26e163f661cca528d9bbb1b6bc00",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.225Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "JXG",
+  "name": "JX Luxventure Group Inc.",
+  "cik": "0001546383",
+  "exchange": "Nasdaq",
+  "sic": "5000",
+  "sic_description": "Wholesale-Durable Goods",
+  "state_of_incorporation": "1T",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/JXG",
+  "origin": {
+    "leaf": "2e9cafe4a2c10c0aa51c24c36adf2b039a5f52e8c5ae80c7ed35360d25b02b2d",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:52.931Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2e9cafe4a2c10c0aa51c24c36adf2b039a5f52e8c5ae80c7ed35360d25b02b2d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.931Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

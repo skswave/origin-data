@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "JANL",
+  "name": "JANEL CORP",
+  "cik": "0001133062",
+  "summary": "Janel Corporation is a Nevada-incorporated holding company headquartered in New York, NY, operating three segments: Logistics, Life Sciences, and Manufacturing. Its Logistics segment provides freight forwarding (air, ocean, land), customs brokerage, warehousing, and distribution. Life Sciences manufactures and distributes antibodies and research/diagnostic reagents. Manufacturing, via Indco, produces mixing equipment. Janel also holds approximately 46.6% of Rubicon Technology, an advanced materials provider specializing in monocrystalline sapphire.",
+  "products": [
+    {
+      "name": "Freight Forwarding",
+      "type": "service",
+      "description": "Air, ocean, and land-based cargo transportation forwarding services for customers globally."
+    },
+    {
+      "name": "Customs Brokerage",
+      "type": "service",
+      "description": "Customs entry filing and related compliance services for imported and exported goods."
+    },
+    {
+      "name": "Warehousing and Distribution",
+      "type": "service",
+      "description": "Warehousing, hazardous material storage, distribution, and product repackaging services."
+    },
+    {
+      "name": "Antibodies and Research Reagents",
+      "type": "hardware",
+      "description": "Manufactures and distributes antibodies, diagnostic reagents, and custom biotech services."
+    },
+    {
+      "name": "Mixing Equipment",
+      "type": "hardware",
+      "description": "Indco manufactures and distributes mixing equipment and apparatuses for various industries."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/JANL/profile",
+  "origin": {
+    "leaf": "35a38d0f019809724f33e77cf22d67c7beb826c6ac3e479002c92d1e9cc0036a",
+    "parent": "51eaa259e581da4dbd09b592dd3bd93471077c190d9eb6f83aa74b8ae3b3b736",
+    "timestamp": "2026-04-12T03:12:57.700Z",
+    "source": "profile:0001133062",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/35a38d0f019809724f33e77cf22d67c7beb826c6ac3e479002c92d1e9cc0036a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.700Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

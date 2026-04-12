@@ -1,0 +1,68 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LITS",
+  "name": "Lite Strategy, Inc.",
+  "cik": "0001262104",
+  "summary": "Lite Strategy, Inc. (formerly MEI Pharma, Inc.) is a pharmaceutical company developing novel cancer therapies, with drug candidates voruciclib (oral CDK9 inhibitor) and zandelisib (oral PI3K inhibitor). In August 2025, following a $100 million PIPE, the company implemented a Litecoin Treasury Strategy by acquiring Litecoin (LTC) tokens as its primary reserve asset, while continuing to assess pre-clinical drug development activities.",
+  "products": [
+    {
+      "name": "Voruciclib",
+      "type": "service",
+      "description": "Oral, selective CDK9 inhibitor evaluated in Phase 1 trials for AML and B-cell malignancies, including in combination with venetoclax; all clinical trials ceased July 2024."
+    },
+    {
+      "name": "Zandelisib",
+      "type": "service",
+      "description": "Oral, once-daily, selective PI3K inhibitor; currently a pre-clinical candidate."
+    },
+    {
+      "name": "Litecoin Treasury Strategy",
+      "type": "platform",
+      "description": "Primary reserve asset strategy built on digital asset infrastructure through acquisition of Litecoin (LTC) tokens using net PIPE proceeds."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "GSR Strategies LLC",
+      "partnership_type": "strategic",
+      "description": "Asset management agreement for Litecoin Treasury Strategy; received 546,348 Pre-Funded Warrants as annual asset-based fee payment.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Anson Funds Management LP",
+      "partnership_type": "strategic",
+      "description": "Party to Cooperation Agreement signed October 2023, providing capital return dividend of $1.75/share; agreement terminated July 22, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Cable Car Capital LLC",
+      "partnership_type": "strategic",
+      "description": "Co-party with Anson Funds to Cooperation Agreement signed October 2023; agreement terminated July 22, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Richard Ghalie, M.D.",
+      "partnership_type": "strategic",
+      "description": "Former Chief Medical Officer retained via consulting agreement to assist with strategic efforts and ongoing operations after stepping down August 1, 2024.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LITS/profile",
+  "origin": {
+    "leaf": "5ae881e747c0b2ca5026ce2451a2c9a9c53c0f5e2ce6fd9dac364f86295bb88c",
+    "parent": "77c752edcc1ed916f0a29f9ecd72dd1d51972dcb854e3991e059d11e96829e96",
+    "timestamp": "2026-04-12T03:12:57.891Z",
+    "source": "profile:0001262104",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5ae881e747c0b2ca5026ce2451a2c9a9c53c0f5e2ce6fd9dac364f86295bb88c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.891Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

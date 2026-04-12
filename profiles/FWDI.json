@@ -1,0 +1,87 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FWDI",
+  "name": "Forward Industries, Inc.",
+  "cik": "0000038264",
+  "summary": "Forward Industries, Inc. (FWDI) is a design company providing hardware and software product design and engineering services to medical and technology customers predominantly in the U.S., through subsidiaries including IPS and Kablooe. Services span electrical, mechanical, software, optical engineering, UX/UI design, and IoT architecture. The company also adopted Solana (SOL) as its primary treasury reserve asset in September 2025, pursuing staking, DeFi participation, and capital markets strategies within the Solana ecosystem.",
+  "products": [
+    {
+      "name": "Hardware and Software Product Design Services",
+      "type": "service",
+      "description": "End-to-end design and engineering from concept through prototype and manufacturing-ready files for consumer and industrial electronics."
+    },
+    {
+      "name": "Electrical Engineering Services",
+      "type": "service",
+      "description": "In-house electrical engineering for medical, industrial, and consumer electronics products."
+    },
+    {
+      "name": "Mechanical Engineering Services",
+      "type": "service",
+      "description": "In-house mechanical engineering supporting product design and development."
+    },
+    {
+      "name": "Software Engineering Services",
+      "type": "service",
+      "description": "In-house software engineering including mobile and enterprise applications."
+    },
+    {
+      "name": "UX/UI Design and Development",
+      "type": "service",
+      "description": "User experience and user interface design for electronics and software products."
+    },
+    {
+      "name": "IoT System Architecture",
+      "type": "service",
+      "description": "Design and architecture of Internet of Things systems for clients."
+    },
+    {
+      "name": "Optical Engineering Services",
+      "type": "service",
+      "description": "In-house optical engineering supporting cameras, lighting, and detection systems."
+    },
+    {
+      "name": "SOL Digital Asset Treasury",
+      "type": "platform",
+      "description": "Acquisition, staking, and DeFi deployment of Solana (SOL) tokens as the company's primary treasury reserve asset."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party asset management firms",
+      "partnership_type": "strategic",
+      "description": "Asset management and services agreements to guide implementation of the digital assets treasury business.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Third-party SOL validator operators",
+      "partnership_type": "strategic",
+      "description": "White-label arrangements for operating SOL validators to earn staking rewards.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S.-based qualified custodians",
+      "partnership_type": "strategic",
+      "description": "Multiple regulated third-party custodians hold SOL holdings with SOC 2-audited security controls.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FWDI/profile",
+  "origin": {
+    "leaf": "43827b2eae8ab5045bad0834ae09578bf3dc8e377fb28a8889f872f06fb17bb8",
+    "parent": "aa030c92129740fa053fb5fe45f94a24a1b0f48f608b43bacdcd602789f8d1e0",
+    "timestamp": "2026-04-12T03:12:56.572Z",
+    "source": "profile:0000038264",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/43827b2eae8ab5045bad0834ae09578bf3dc8e377fb28a8889f872f06fb17bb8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.572Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

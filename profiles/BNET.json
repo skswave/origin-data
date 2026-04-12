@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BNET",
+  "name": "BION ENVIRONMENTAL TECHNOLOGIES INC",
+  "cik": "0000875729",
+  "summary": "Bion Environmental Technologies develops and commercializes Gen3Tech, a platform integrating livestock waste treatment with nutrient recovery and renewable energy. Its core product is the Ammonia Recovery System (ARS), which extracts ammonia from animal waste, biogas, and industrial wastewater to produce fertilizer. The company targets sustainable agriculture, clean fuels, and environmental compliance markets, but currently generates no significant revenues and faces severe financial distress.",
+  "products": [
+    {
+      "name": "Ammonia Recovery System (ARS)",
+      "type": "hardware",
+      "description": "Commercial-scale system that recovers ammonia from livestock waste, biogas facilities, and industrial/municipal wastewater to produce fertilizer and control nutrient pollution."
+    },
+    {
+      "name": "Gen3Tech Platform",
+      "type": "platform",
+      "description": "Integrated beef/livestock waste treatment platform combining ammonia recovery, nutrient management, and renewable energy production."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "SEB LLC",
+      "partnership_type": "strategic",
+      "description": "Non-affiliated lender that provided $250,000 of a $1,500,000 bridge loan before defaulting on remaining tranches.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Titan Partners",
+      "partnership_type": "strategic",
+      "description": "New York investment banking firm engaged to underwrite a capital offering; unable to complete due to SEB default.",
+      "start_date": null
+    },
+    {
+      "partner_name": "University of Nebraska-Lincoln",
+      "partnership_type": "development",
+      "description": "Considered as a potential relocation site for the ARS demonstration system; not completed.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BNET/profile",
+  "origin": {
+    "leaf": "973c9fbbab85fa09e3550b4afc930828f387be2d974cc88b1891bd299dbf990c",
+    "parent": "4eac76197d75596cbb4e336a0abe74bf2b2d57d602cb61ed693c33ecf58f87ee",
+    "timestamp": "2026-04-12T03:12:58.399Z",
+    "source": "profile:0000875729",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/973c9fbbab85fa09e3550b4afc930828f387be2d974cc88b1891bd299dbf990c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.400Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

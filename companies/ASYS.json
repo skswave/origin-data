@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ASYS",
+  "name": "AMTECH SYSTEMS INC",
+  "cik": "0000720500",
+  "exchange": "Nasdaq",
+  "sic": "3559",
+  "sic_description": "Special Industry Machinery, NEC",
+  "state_of_incorporation": "AZ",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "Amtech Systems, Inc. is a manufacturer of capital equipment and consumables used in the fabrication of semiconductors, including power semiconductors (silicon and silicon carbide), and related industries. The company produces thermal processing equipment, chemical mechanical planarization (CMP) systems, and related consumables. Products serve applications in electric vehicles, 5G communications, IoT, LED, and industrial electronics markets.",
+  "tags": [
+    "semiconductor",
+    "power-semiconductors",
+    "electric-vehicles-(ev/hev)",
+    "5g-communications",
+    "iot",
+    "led",
+    "industrial-electronics",
+    "optoelectronics,-sensors-&-discrete-(o-s-d)",
+    "iso-9001:2015"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ASYS",
+  "origin": {
+    "leaf": "0e6775e3334e931122a29401c92d1e180365b9cf75a4b3deeccb4c465a9dcdd5",
+    "parent": "e5e6197cbb4d69744cba831931ffcd3a99db96796640f7c41b048b051da144c7",
+    "timestamp": "2026-04-12T03:12:51.986Z",
+    "source": "0001193125-25-314147",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0e6775e3334e931122a29401c92d1e180365b9cf75a4b3deeccb4c465a9dcdd5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.986Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

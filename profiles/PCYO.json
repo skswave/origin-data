@@ -1,0 +1,78 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PCYO",
+  "name": "PURE CYCLE CORP",
+  "cik": "0000276720",
+  "summary": "Pure Cycle Corporation is a diversified water and wastewater service provider, land developer, and single-family home rental company operating in the Denver, Colorado area. It provides wholesale water and wastewater services through the Rangeview Metropolitan District, develops its 930-acre Sky Ranch master planned community along the I-70 corridor into residential and commercial lots, and owns 14 single-family rental homes with plans to expand to over 200 units.",
+  "products": [
+    {
+      "name": "Wholesale Water Services",
+      "type": "service",
+      "description": "Wholesale potable water supply and distribution serving over 1,600 SFE connections in the southeastern Denver metro area."
+    },
+    {
+      "name": "Wastewater Services",
+      "type": "service",
+      "description": "Wastewater collection, treatment, and reclaimed water delivery serving 1,153 SFE wastewater connections."
+    },
+    {
+      "name": "Land Development - Sky Ranch",
+      "type": "service",
+      "description": "Master planned community development of 930-acre Sky Ranch, zoned for up to 3,200 homes and 2M+ sq ft commercial space."
+    },
+    {
+      "name": "Single-Family Rental Homes",
+      "type": "service",
+      "description": "Single-family detached and townhome rental units at Sky Ranch, currently 14 homes rented with 200+ planned."
+    },
+    {
+      "name": "Industrial Water Sales",
+      "type": "service",
+      "description": "Raw water sales to oil and gas operators leasing more than 135,000 acres adjacent to the company's service area."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Rangeview Metropolitan District",
+      "partnership_type": "strategic",
+      "description": "Exclusive agreement to provide wholesale water and wastewater services to Rangeview District's 24,000-acre Lowry Ranch Service Area.",
+      "start_date": null
+    },
+    {
+      "partner_name": "National Heritage Academy",
+      "partnership_type": "strategic",
+      "description": "Partnership to build and operate Sky Ranch Academy K-12 charter school at Sky Ranch development.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bennett School District 29J",
+      "partnership_type": "strategic",
+      "description": "Partnership to establish and operate Sky Ranch Academy charter school located at Sky Ranch.",
+      "start_date": null
+    },
+    {
+      "partner_name": "WISE",
+      "partnership_type": "strategic",
+      "description": "Agreement providing up to 900 acre-feet of water supply annually for use in service area.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PCYO/profile",
+  "origin": {
+    "leaf": "4bb96d45de28e85786d01be32f134aef1c3bd75eda8e39cde648f7a405f01949",
+    "parent": "13e25f60452534faaceabb5648f0b128a7b454b0295d2ba10117cda98e3863f8",
+    "timestamp": "2026-04-12T03:12:56.886Z",
+    "source": "profile:0000276720",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4bb96d45de28e85786d01be32f134aef1c3bd75eda8e39cde648f7a405f01949",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.886Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

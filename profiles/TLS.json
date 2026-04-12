@@ -1,0 +1,109 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TLS",
+  "name": "TELOS CORP",
+  "cik": "0000320121",
+  "summary": "Telos Corporation is a Maryland-based cybersecurity and technology solutions company headquartered in Ashburn, Virginia. It offers cyber governance, risk and compliance (GRC) via Xacta, identity and biometric solutions including TSA PreCheck enrollment, secure messaging through Telos AMHS, and secure network solutions. Its two segments—Security Solutions and Secure Networks—primarily serve the U.S. federal government, large commercial organizations, and international customers.",
+  "products": [
+    {
+      "name": "Xacta",
+      "type": "platform",
+      "description": "Cyber GRC automation platform for risk management, security compliance, assessment and authorization, and continuous monitoring across cloud, on-premises, and hybrid environments."
+    },
+    {
+      "name": "Xacta.ai",
+      "type": "software",
+      "description": "AI capability integrated into Xacta platform providing expert-level guidance and real-time compliance insights to reduce compliance time and effort."
+    },
+    {
+      "name": "Telos AMHS",
+      "type": "software",
+      "description": "Web-based organizational message distribution and management solution for mission-critical U.S. government and military communications."
+    },
+    {
+      "name": "ONYX",
+      "type": "hardware",
+      "description": "Proprietary touchless fingerprint biometric technology for secure and scalable biometric authentication across mobile and enterprise environments."
+    },
+    {
+      "name": "TSA PreCheck Enrollment Services",
+      "type": "service",
+      "description": "Identity enrollment and biometric services for transportation security programs as a TSA-recognized enrollment provider."
+    },
+    {
+      "name": "IDVetting",
+      "type": "service",
+      "description": "Identity proofing and vetting service supporting high-assurance identity verification for government and regulated industries."
+    },
+    {
+      "name": "Aviation Channeling Services (ACS)",
+      "type": "service",
+      "description": "FBI background check submission and biometric channeling services for aviation and regulated industries."
+    },
+    {
+      "name": "Cybersecurity Services",
+      "type": "service",
+      "description": "Full cybersecurity lifecycle services including RMF consulting, penetration testing, security assessment, digital forensics, and compliance."
+    },
+    {
+      "name": "Secure Mobility Solutions",
+      "type": "service",
+      "description": "Solutions and professional services enabling secure off-premise work for government and commercial customers, including network engineering and deployment."
+    },
+    {
+      "name": "Network Management and Defense",
+      "type": "service",
+      "description": "Managed services for operating, maintaining, and defending complex enterprise networks for DoD and federal customers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "TSA",
+      "partnership_type": "strategic",
+      "description": "Telos is a recognized TSA PreCheck enrollment provider and Aviation Channeling Services provider.",
+      "start_date": null
+    },
+    {
+      "partner_name": "FBI",
+      "partnership_type": "strategic",
+      "description": "Telos is an FBI-approved Channeler for background check submissions and biometric services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Florida Department of Law Enforcement",
+      "partnership_type": "strategic",
+      "description": "Telos is a registered Live Scan Service Provider for the Florida Department of Law Enforcement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Defense Information System Agency (DISA)",
+      "partnership_type": "strategic",
+      "description": "Telos AMHS supports DISA's Organizational Messaging Service for U.S. military communications.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Director of National Intelligence",
+      "partnership_type": "strategic",
+      "description": "Telos AMHS is used by the Intelligence Community via the DNI's Information Transport Service.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TLS/profile",
+  "origin": {
+    "leaf": "2cd7907684c168bbd0b5e9fd00a46c28539e140f2255e46763b515b28909083d",
+    "parent": "8717952ff2a42f4003373fb1f966d7a8ac3eb3c07946cd99e1af91e037265fcd",
+    "timestamp": "2026-04-12T03:12:56.678Z",
+    "source": "profile:0000320121",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2cd7907684c168bbd0b5e9fd00a46c28539e140f2255e46763b515b28909083d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.678Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

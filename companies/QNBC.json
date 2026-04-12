@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "QNBC",
+  "name": "QNB CORP.",
+  "cik": "0000750558",
+  "exchange": "OTC",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "PA",
+  "headquarters": "Quakertown, Pennsylvania",
+  "founded": "1984",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "QNB Corp. is a Pennsylvania bank holding company incorporated in 1984, operating through its wholly-owned subsidiary QNB Bank, a Pennsylvania-chartered commercial bank founded in 1877. The Bank operates twelve full-service community banking offices in Bucks, Montgomery, and Lehigh counties in southeastern Pennsylvania. It offers commercial loans, residential mortgage loans, consumer loans, investment securities, time deposits, demand accounts, savings accounts, money market accounts, internet banking, mobile banking, electronic bill pay, and remote deposit capture services.",
+  "tags": [
+    "community-banking",
+    "commercial-banking",
+    "retail-banking",
+    "small-business-banking",
+    "southeastern-pennsylvania-(bucks,-montgomery,-lehigh-counties)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 197,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/QNBC",
+  "origin": {
+    "leaf": "5476bfa892c9ff85c5fb270994d182ba1cbc848cdfa4119d2b71027ebb321071",
+    "parent": "648974db85eea109ad61138b1775c1b978cf4769a15cc595ce29c2813422000c",
+    "timestamp": "2026-04-12T03:12:52.054Z",
+    "source": "0001193125-26-107482",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5476bfa892c9ff85c5fb270994d182ba1cbc848cdfa4119d2b71027ebb321071",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.054Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

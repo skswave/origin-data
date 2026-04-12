@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TEAM",
+  "name": "Atlassian Corp",
+  "cik": "0001650372",
+  "exchange": "Nasdaq",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": null,
+  "headquarters": "Sydney, Australia",
+  "founded": "2002",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": "Atlassian Corp develops team collaboration software enabling organizations to connect teams through a system of work. Its portfolio includes Jira, Confluence, Jira Service Management, Bitbucket, Loom, and Rovo (AI platform), all built on the Atlassian Cloud Platform. Serving over 300,000 customers worldwide, including over 80% of the Fortune 500, across 200+ countries, Atlassian targets software, IT operations, and business teams of all sizes.",
+  "tags": [
+    "software-development-teams",
+    "it-operations-and-support-teams",
+    "business-and-leadership-teams",
+    "small-and-medium-sized-businesses",
+    "large-enterprises-and-fortune-500",
+    "government-sector",
+    "ai-agents",
+    "enterprise-grade-security-and-compliance",
+    "data-residency-controls",
+    "centralized-administration-and-controls",
+    "open-apis-and-extensible-integrations"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TEAM",
+  "origin": {
+    "leaf": "7e5fa059127a9d48903d887f666a99c02414936d2d2cd3c23803c5f2f170035a",
+    "parent": "d64ae3b78cf98bae2cfc912dbf9e5efd7d4ca6048c614fcdcb4461805223afc2",
+    "timestamp": "2026-04-12T03:12:50.428Z",
+    "source": "0001650372-25-000036",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7e5fa059127a9d48903d887f666a99c02414936d2d2cd3c23803c5f2f170035a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.428Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

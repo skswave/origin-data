@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WKC",
+  "name": "WORLD KINECT CORP",
+  "cik": "0000789460",
+  "summary": "World Kinect Corporation is a global energy management company incorporated in Florida in 1984. It provides fuel fulfillment and related services across aviation, marine, and land transportation sectors. Services include fuel management, ground handling, dispatch, trip support, price risk management, and sustainability products. It also supplies natural gas and is expanding into sustainable aviation fuel and lower-carbon alternatives for maritime customers.",
+  "products": [
+    {
+      "name": "Aviation Fuel Supply",
+      "type": "service",
+      "description": "Global aviation fuel supply and delivery to airlines, cargo carriers, corporate fleets, and government/military customers."
+    },
+    {
+      "name": "Fuel Management Services",
+      "type": "service",
+      "description": "Fuel procurement management including cost control, quality control, and claims management for aviation and marine customers."
+    },
+    {
+      "name": "Ground Handling and Trip Support",
+      "type": "service",
+      "description": "24/7 global dispatch, flight planning, scheduling, and ground handling services for aviation customers."
+    },
+    {
+      "name": "Marine Fuel and Lubricants",
+      "type": "service",
+      "description": "Marketing of fuel, lubricants, and related products to container, bulk, tanker fleets, cruise lines, and governments."
+    },
+    {
+      "name": "Land Fuel Distribution",
+      "type": "service",
+      "description": "Liquid fuels, natural gas, and related products sold to commercial, industrial, and government customers via cardlock network."
+    },
+    {
+      "name": "Price Risk Management",
+      "type": "service",
+      "description": "Fuel cost control offerings using price risk management tools for marine and aviation customers."
+    },
+    {
+      "name": "Sustainable Aviation Fuel",
+      "type": "service",
+      "description": "Expanding supply chain for renewable and lower-carbon aviation fuels to meet customer demand."
+    },
+    {
+      "name": "Natural Gas Supply",
+      "type": "service",
+      "description": "Supply of natural gas to commercial, industrial, and government customers primarily in North America."
+    },
+    {
+      "name": "Sustainability Products and Services",
+      "type": "service",
+      "description": "Complementary sustainability-related products and advisory services offered alongside core energy products."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WKC/profile",
+  "origin": {
+    "leaf": "7e263507bec1cb7b15f6735a11135562beff8287690bc7c487167f19a1d85c4c",
+    "parent": "7969f7b6d09ce6e4929660d981b3c49889305f7c1d1a4aceb7d75508f339daa9",
+    "timestamp": "2026-04-12T03:12:55.893Z",
+    "source": "profile:0000789460",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7e263507bec1cb7b15f6735a11135562beff8287690bc7c487167f19a1d85c4c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.893Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

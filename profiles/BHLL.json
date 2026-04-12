@@ -1,0 +1,46 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BHLL",
+  "name": "Bunker Hill Mining Corp.",
+  "cik": "0001407583",
+  "summary": "Bunker Hill Mining Corp. is a Nevada-incorporated mining company focused on restarting the Bunker Hill Mine, a polymetallic mine located in Kellogg, Idaho, in the Silver Valley region. The company, through its wholly owned subsidiary Silver Valley Metals Corp., is developing the mine for production of base and precious metals. It trades on the TSX Venture Exchange and OTCQB Venture Market.",
+  "products": [
+    {
+      "name": "Bunker Hill Mine",
+      "type": "service",
+      "description": "Polymetallic mine under redevelopment in Kellogg, Idaho targeting base and precious metals production."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "U.S. Environmental Protection Agency (EPA)",
+      "partnership_type": "strategic",
+      "description": "Payment bonds securing EPA cost recovery costs related to the Bunker Hill Mine site.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Idaho Department of Environmental Quality (IDEQ)",
+      "partnership_type": "strategic",
+      "description": "Wastewater treatment cost obligations payable by the Company to IDEQ.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BHLL/profile",
+  "origin": {
+    "leaf": "496b00ea95c6d1a127d0248c0133cc4b5cb6efe6e624227f11e3786f2a121c09",
+    "parent": "092929f66185e3d4fccb87f9af99ca5dfab1c3e7eae58b3188e81819c22c1ce4",
+    "timestamp": "2026-04-12T03:12:57.028Z",
+    "source": "profile:0001407583",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/496b00ea95c6d1a127d0248c0133cc4b5cb6efe6e624227f11e3786f2a121c09",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.028Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

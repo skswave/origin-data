@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CNVS",
+  "name": "Cineverse Corp.",
+  "cik": "0001173204",
+  "summary": "Cineverse Corp. (CNVS) is an entertainment technology company focused on streaming and digital distribution of content. The company operates streaming channels and platforms, distributes films and other content through in-theatre, online, and mobile services. Cineverse serves targeted entertainment markets and has pursued growth through acquisitions and new digital media initiatives.",
+  "products": [
+    {
+      "name": "Streaming Channels",
+      "type": "platform",
+      "description": "Digital streaming channels distributing entertainment content to consumers online."
+    },
+    {
+      "name": "In-Theatre Distribution Services",
+      "type": "service",
+      "description": "Distribution of content through in-theatre services to cinema audiences."
+    },
+    {
+      "name": "Online and Mobile Distribution Services",
+      "type": "service",
+      "description": "Distribution of content through online and mobile platforms."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CNVS/profile",
+  "origin": {
+    "leaf": "d6491c1585e67a3666ac5923bc62738bd8b5fefc3486543e3d1c6eb010351ab3",
+    "parent": "6a8590d2d877b4d3d562951638ab6968bc98f432677aa408cbb7de49e6b35a89",
+    "timestamp": "2026-04-12T03:12:57.798Z",
+    "source": "profile:0001173204",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d6491c1585e67a3666ac5923bc62738bd8b5fefc3486543e3d1c6eb010351ab3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.798Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

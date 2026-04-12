@@ -1,0 +1,112 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BYRN",
+  "name": "Byrna Technologies Inc.",
+  "cik": "0001354866",
+  "summary": "Byrna Technologies Inc. is a less-lethal self-defense technology company that designs, manufactures, and sells CO2-powered handheld launchers, shoulder-fired launchers, chemical irritant and kinetic projectiles, defensive sprays, and accessories. Products include the Byrna SD, Byrna CL, Byrna LE, Byrna LE PRO, TCR, M4 launchers, and Fox Labs International defensive sprays. The company serves consumer, law enforcement, private security, and corrections markets in the U.S., Canada, and international markets.",
+  "products": [
+    {
+      "name": "Byrna SD",
+      "type": "hardware",
+      "description": "Compact CO2-powered handheld personal security device firing .68-caliber projectiles up to ~60 feet."
+    },
+    {
+      "name": "Byrna CL (Compact Launcher)",
+      "type": "hardware",
+      "description": "Compact lightweight EDC launcher using .61-caliber projectiles, launched in 2025."
+    },
+    {
+      "name": "Byrna LE",
+      "type": "hardware",
+      "description": "Law-enforcement-grade launcher with improved accuracy and higher muzzle velocity."
+    },
+    {
+      "name": "Byrna LE PRO",
+      "type": "hardware",
+      "description": "Advanced duty-grade less-lethal launcher for law enforcement and advanced civilian consumers."
+    },
+    {
+      "name": "Byrna TCR",
+      "type": "hardware",
+      "description": "Compact tactical rifle launcher firing 19 rounds rapidly, over 325 fps via 12g CO2 cartridge."
+    },
+    {
+      "name": "Byrna M4",
+      "type": "hardware",
+      "description": "Full-sized tactical launcher available for law enforcement and civilian users with varying magazine capacities."
+    },
+    {
+      "name": "Byrna Max Projectiles",
+      "type": "hardware",
+      "description": "Chemical irritant projectiles containing pepper and tear gas formulations for less-lethal defense."
+    },
+    {
+      "name": "EcoKinetic Rounds",
+      "type": "hardware",
+      "description": "Updated kinetic projectiles introduced in 2024-2025 for less-lethal use."
+    },
+    {
+      "name": "Fox Labs International Defensive Sprays",
+      "type": "hardware",
+      "description": "Professional-grade defensive sprays marketed to law enforcement, security, and consumers."
+    },
+    {
+      "name": "Byrna Bad Guy Repellent",
+      "type": "hardware",
+      "description": "Consumer-facing aerosol self-defense spray line sold through e-commerce and dealer channels."
+    },
+    {
+      "name": "Byrna Banshee",
+      "type": "hardware",
+      "description": "Accessory safety product sold alongside Byrna launchers."
+    },
+    {
+      "name": "Byrna Shield",
+      "type": "hardware",
+      "description": "Accessory safety product sold alongside Byrna launchers."
+    },
+    {
+      "name": "AI-Assisted Advertising Platform",
+      "type": "platform",
+      "description": "Proprietary AI-assisted advertising platform deployed to expand reach and brand engagement."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Byrna LATAM S.A.",
+      "partnership_type": "licensing",
+      "description": "Exclusive distribution, manufacturing, and licensing agreement for South American markets following sale of 51% ownership interest.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fusady S.A. (affiliate of Bersa S.A.)",
+      "partnership_type": "strategic",
+      "description": "Purchased Byrna's 51% interest in Byrna LATAM for $1 per LATAM Share Purchase Agreement in August 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Sportsman's Warehouse",
+      "partnership_type": "strategic",
+      "description": "Retail distribution partner expanded in 2024-2025 to broaden Byrna's consumer market reach.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BYRN/profile",
+  "origin": {
+    "leaf": "b3fcadf09dc4289216566815713bdd3db0b4d0e681554fbf1a6765477e2af13f",
+    "parent": "29e366d1d0fd8e62db35a0453cffc67c2a0192a3300b2d08c1e2e3804892e3c9",
+    "timestamp": "2026-04-12T03:12:56.982Z",
+    "source": "profile:0001354866",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b3fcadf09dc4289216566815713bdd3db0b4d0e681554fbf1a6765477e2af13f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.982Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

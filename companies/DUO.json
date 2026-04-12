@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "DUO",
+  "name": "Fangdd Network Group Ltd.",
+  "cik": "0001750593",
+  "exchange": "Nasdaq",
+  "sic": "6500",
+  "sic_description": "Real Estate",
+  "state_of_incorporation": "E9",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/DUO",
+  "origin": {
+    "leaf": "6d8ec4611a9c57d053fdf0f9c10ab2d64e6f5ebef7f8267031310570a04fd5fc",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:52.602Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6d8ec4611a9c57d053fdf0f9c10ab2d64e6f5ebef7f8267031310570a04fd5fc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.602Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

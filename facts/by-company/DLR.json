@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "DLR",
+  "total_facts": 12,
+  "by_type": {
+    "topic_mention": 12
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "DLR",
+      "predicate": "discussed_in_filing",
+      "object": "Data Center",
+      "value": 26,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "data_center",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DLR",
+      "predicate": "discussed_in_filing",
+      "object": "Data Center",
+      "value": 26,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "data_center",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DLR",
+      "predicate": "discussed_in_filing",
+      "object": "Data Center",
+      "value": 26,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "data_center",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DLR",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DLR",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DLR",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DLR",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DLR",
+      "predicate": "discussed_in_filing",
+      "object": "Networking",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DLR",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DLR",
+      "predicate": "discussed_in_filing",
+      "object": "Networking",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DLR",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DLR",
+      "predicate": "discussed_in_filing",
+      "object": "Networking",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DLR/transcripts",
+  "origin": {
+    "leaf": "273454751afd433f1388de1303af921b80d18a5595e4691c163e18fc472a131e",
+    "parent": "3e3388854b7b81487fdbc51d53cb3845fc6fcf6616870c48e4a06ce8a4d702ed",
+    "timestamp": "2026-04-12T03:13:07.827Z",
+    "source": "facts:DLR",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/273454751afd433f1388de1303af921b80d18a5595e4691c163e18fc472a131e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:07.827Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

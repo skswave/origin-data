@@ -1,0 +1,129 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BKR",
+  "name": "Baker Hughes Co",
+  "cik": "0001701605",
+  "summary": "Baker Hughes Company is an energy technology company operating in over 120 countries, providing products and services across the energy and industrial value chain. Its two segments, Oilfield Services & Equipment (OFSE) and Industrial & Energy Technology (IET), deliver drilling, completions, artificial lift, subsea systems, gas turbines, compression, LNG equipment, industrial software, and emissions-reduction solutions including CCUS, hydrogen, and geothermal technologies.",
+  "products": [
+    {
+      "name": "Drilling Services",
+      "type": "service",
+      "description": "Directional drilling, logging-while-drilling, surface logging, and remote operations for well construction."
+    },
+    {
+      "name": "Drill Bits",
+      "type": "hardware",
+      "description": "Polycrystalline, roller cone, hybrid, and in-bit sensing drill bits for oilfield operations."
+    },
+    {
+      "name": "Completions & Intervention Systems",
+      "type": "hardware",
+      "description": "Wellbore construction, upper/lower completions, unconventional multistage completions, and workover systems."
+    },
+    {
+      "name": "Electrical Submersible Pumping Systems",
+      "type": "hardware",
+      "description": "Artificial lift systems including ESPs, surface pumping systems, rigless deployment, sensors, and gauges."
+    },
+    {
+      "name": "Aquaness Wholesale Chemicals",
+      "type": "service",
+      "description": "Upstream, downstream, and specialty oilfield and industrial chemicals."
+    },
+    {
+      "name": "Subsea Trees and Controls",
+      "type": "hardware",
+      "description": "Subsea trees, controls, manifolds, wellheads, and premium casing connectors for subsea operations."
+    },
+    {
+      "name": "Flexible Pipe Systems",
+      "type": "hardware",
+      "description": "Subsea risers, flowlines, jumpers, and reinforced thermoplastic pipe for onshore/offshore applications."
+    },
+    {
+      "name": "Gas Technology Equipment",
+      "type": "hardware",
+      "description": "Aero-derivative and heavy-duty gas turbines, steam turbines, centrifugal and reciprocating compressors, and generators."
+    },
+    {
+      "name": "LNG Equipment & Services",
+      "type": "hardware",
+      "description": "Compression, power generation, and turnkey solutions for LNG liquefaction and regasification projects."
+    },
+    {
+      "name": "Industrial Software (iCenter, Bently Nevada, Reuter-Stokes, Waygate)",
+      "type": "software",
+      "description": "Asset performance management, condition monitoring, non-destructive testing, and industrial inspection software and hardware."
+    },
+    {
+      "name": "CCUS Solutions",
+      "type": "service",
+      "description": "Integrated carbon capture, utilization, and storage solutions for energy and industrial customers."
+    },
+    {
+      "name": "Hydrogen Solutions",
+      "type": "service",
+      "description": "Products and services for hydrogen production, transportation, storage, and distribution."
+    },
+    {
+      "name": "Clean Power Solutions",
+      "type": "hardware",
+      "description": "Lower-carbon intensity power generation solutions integrating renewable energy sources."
+    },
+    {
+      "name": "OFSE Digital Group",
+      "type": "platform",
+      "description": "Digital tools combining domain expertise with technology to improve operational safety, performance, and sustainability."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Fervo Energy",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership focused on geothermal energy development.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Frontier Carbon Solutions",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership advancing carbon capture solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "HIF Global",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership focused on e-fuels technology development.",
+      "start_date": null
+    },
+    {
+      "partner_name": "NET Power",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership advancing clean power technology.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Cactus, Inc.",
+      "partnership_type": "strategic",
+      "description": "Joint venture announced June 2025; Baker Hughes contributed surface pressure control business, formation completed January 1, 2026.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BKR/profile",
+  "origin": {
+    "leaf": "172a8c8b364f95b6d73edb72ed8924ef39c0f29f499c1ac0f8d02282cbaa4ee3",
+    "parent": "266635aa0e44da8cb9798bc257ab140061e6175c63d384a6cf8521431cc4f70c",
+    "timestamp": "2026-04-12T03:12:54.771Z",
+    "source": "profile:0001701605",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/172a8c8b364f95b6d73edb72ed8924ef39c0f29f499c1ac0f8d02282cbaa4ee3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.771Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

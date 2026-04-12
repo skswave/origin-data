@@ -1,0 +1,73 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BESS",
+  "name": "Bimergen Energy Corp",
+  "cik": "0001066764",
+  "summary": "Bimergen Energy Corporation is a development-stage renewable energy company focused on developing utility-scale Battery Energy Storage System (BESS) and solar energy projects across the United States. The company owns 23 BESS development projects with estimated cumulative storage capacity of 1.965 GW and 13 solar projects with 1.640 GW anticipated capacity. It plans to generate revenue through energy arbitrage, tolling agreements, and ancillary grid services including frequency regulation and voltage support.",
+  "products": [
+    {
+      "name": "Utility-scale BESS Projects",
+      "type": "hardware",
+      "description": "23 development-stage battery energy storage system projects with estimated cumulative capacity of 1.965 GW across the United States."
+    },
+    {
+      "name": "Solar Energy Projects",
+      "type": "hardware",
+      "description": "13 development-stage solar energy projects with anticipated cumulative generation capacity of 1.640 GW across the United States."
+    },
+    {
+      "name": "Energy Arbitrage Services",
+      "type": "service",
+      "description": "Storing low-cost electricity during off-peak hours and dispatching during peak demand periods to capture price differentials."
+    },
+    {
+      "name": "Grid Ancillary Services",
+      "type": "service",
+      "description": "Frequency regulation, voltage support, peak shaving, and emergency backup services to stabilize the electrical grid."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "RelyEZ",
+      "partnership_type": "strategic",
+      "description": "Battery supplier committed up to $50 million including initial $10 million funding to a joint venture with Bimergen.",
+      "start_date": null
+    },
+    {
+      "partner_name": "GridSpan",
+      "partnership_type": "strategic",
+      "description": "Joint venture partner with RelyEZ providing project-level funding arrangements for qualifying BESS projects.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Energy Independent Partners (EIP)",
+      "partnership_type": "development",
+      "description": "Provides pre-construction and pre-operational services including financing qualification, RTB status, and marketing of Development Projects at $0.035 per watt.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Emergen Energy LLC",
+      "partnership_type": "strategic",
+      "description": "Source of the acquired portfolio of 23 BESS and 13 solar development-stage projects acquired in April 2024.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BESS/profile",
+  "origin": {
+    "leaf": "0c67c09fde35ac115efcf704f915ac3194be49f3b0e07327693b36e225a0bef2",
+    "parent": "92bed1de863d79a77395f62830eea411a2cdcac5ed942479b159e3d1dc1d9c92",
+    "timestamp": "2026-04-12T03:12:58.363Z",
+    "source": "profile:0001066764",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0c67c09fde35ac115efcf704f915ac3194be49f3b0e07327693b36e225a0bef2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.363Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

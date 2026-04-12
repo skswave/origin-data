@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HGAS",
+  "name": "Global Gas Corp",
+  "cik": "0001817232",
+  "exchange": "OTC",
+  "sic": "2810",
+  "sic_description": "Industrial Inorganic Chemicals",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Overview Global Gas is a nascent pure-play hydrogen and carbon recovery project developer and industrial gas supplier that has commenced initial operations and is building a growing project development pipeline. Since its inception, Global Gas has worked to establish relationships in the form of channel checks with non-exclusive independent equipment suppliers and discussions with vendors, but the Company has not yet generated any revenue or reached final terms with any paying customers o...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HGAS",
+  "origin": {
+    "leaf": "585a7bb0f28d102163834ab30c872b30fdbdd19dc77c23d8bdeab89875372d41",
+    "parent": "404f34c6fe135f429a7a26caeb94cb7f465bbb0b94b36a920c07c136af2c6a52",
+    "timestamp": "2026-04-12T03:12:53.742Z",
+    "source": "0001213900-25-026224",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/585a7bb0f28d102163834ab30c872b30fdbdd19dc77c23d8bdeab89875372d41",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.742Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

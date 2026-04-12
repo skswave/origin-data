@@ -1,0 +1,66 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BOW",
+  "name": "Bowhead Specialty Holdings Inc.",
+  "cik": "0002002473",
+  "summary": "Bowhead Specialty Holdings Inc. is a commercial specialty property and casualty insurance company founded in 2020. It offers casualty, professional liability, healthcare liability, and small-business (Baleen Specialty) insurance products primarily on an excess and surplus lines basis. Products are distributed through wholesale and retail channels via two models: a craft underwriting model for complex risks and a digital model for smaller, scalable risks. Policies are issued on AmFam paper and 100% reinsured to Bowhead's own insurance subsidiary.",
+  "products": [
+    {
+      "name": "Casualty Insurance",
+      "type": "service",
+      "description": "Primary and excess general liability and environmental liability coverage for construction, manufacturing, real estate, hospitality, and other industries via wholesale channels."
+    },
+    {
+      "name": "Professional Liability Insurance",
+      "type": "service",
+      "description": "Management liability, D&O, E&O, EPL, fiduciary, crime, and cyber liability products for financial institutions and nonprofits on admitted and E&S basis."
+    },
+    {
+      "name": "Healthcare Liability Insurance",
+      "type": "service",
+      "description": "Professional, general, and management liability coverage for hospitals, medical facilities, senior care providers, and managed care organizations."
+    },
+    {
+      "name": "Baleen Specialty",
+      "type": "platform",
+      "description": "Technology-powered digital underwriting for small to mid-sized non-admitted general liability risks in construction and real estate via wholesale-only distribution."
+    },
+    {
+      "name": "Express",
+      "type": "service",
+      "description": "Digital underwriting model for small cyber liability and miscellaneous professional liability products launched in 2025."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "American Family Mutual Insurance Company, S.I. (AmFam)",
+      "partnership_type": "strategic",
+      "description": "Strategic partner providing insurance paper for policy issuance in all 50 states; policies issued under AmFam name and 100% reinsured to Bowhead's subsidiary BICI.",
+      "start_date": null
+    },
+    {
+      "partner_name": "GPC Partners Investments (SPV III) LP (Gallatin Point Capital)",
+      "partnership_type": "strategic",
+      "description": "Private equity fund that provided founding capital for Bowhead at inception in September 2020.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BOW/profile",
+  "origin": {
+    "leaf": "e46d0f4adc33a4b3d9ffed22bd4264b33b41c34013862672f3b2138adfa65c04",
+    "parent": "b1ea9b42729ea1de6d0aa7ccf7275ea1b2ab96dddfd01cfa353215fa8ea8b1f5",
+    "timestamp": "2026-04-12T03:12:56.149Z",
+    "source": "profile:0002002473",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e46d0f4adc33a4b3d9ffed22bd4264b33b41c34013862672f3b2138adfa65c04",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.149Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

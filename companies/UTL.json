@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "UTL",
+  "name": "UNITIL CORP",
+  "cik": "0000755001",
+  "exchange": "NYSE",
+  "sic": "4931",
+  "sic_description": "Electric & Other Services Combined",
+  "state_of_incorporation": "NH",
+  "headquarters": "Hampton, New Hampshire",
+  "founded": "1984",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Unitil Corporation is a public utility holding company incorporated in New Hampshire in 1984. It distributes electricity and natural gas to approximately 215,100 customers across New Hampshire, Massachusetts, and Maine through five distribution utilities: Unitil Energy, Fitchburg, Northern Utilities, Bangor Natural Gas, and Maine Natural Gas. It also operates Granite State, an interstate natural gas transmission pipeline. Total operating revenue was $536.0 million in 2025, with net utility plant of $1.8 billion.",
+  "tags": [
+    "electric-distribution-utility",
+    "natural-gas-distribution-utility",
+    "interstate-natural-gas-transmission-pipeline",
+    "wholesale-electric-power",
+    "non-regulated-energy-services",
+    "real-estate-management",
+    "revenue-decoupling-mechanisms",
+    "ferc-approved-interstate-pipeline-rates"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/UTL",
+  "origin": {
+    "leaf": "110d18c2a68be778fc3d5e38a6c0ff2c4a86ab3c82befa8de38377df02637902",
+    "parent": "9838d9a70c091528a487a9ce9b47bf837f5b9562769d41bfed93d9bac4ffcb99",
+    "timestamp": "2026-04-12T03:12:51.134Z",
+    "source": "0001193125-26-042983",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/110d18c2a68be778fc3d5e38a6c0ff2c4a86ab3c82befa8de38377df02637902",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.134Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

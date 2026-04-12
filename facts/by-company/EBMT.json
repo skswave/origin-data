@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "EBMT",
+  "total_facts": 6,
+  "by_type": {
+    "topic_mention": 6
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "EBMT",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EBMT",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EBMT",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.7999999999999999,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EBMT",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EBMT",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EBMT",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EBMT/transcripts",
+  "origin": {
+    "leaf": "108d8cf31efd85a90e31de372d290bee7b37e6c7ce67f0923e13009c64fe9d0e",
+    "parent": "43fe8ba045a6aa86ff8ad78ae1aff704b8fae7217569d3c5398555bc427b33ae",
+    "timestamp": "2026-04-12T03:14:40.967Z",
+    "source": "facts:EBMT",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/108d8cf31efd85a90e31de372d290bee7b37e6c7ce67f0923e13009c64fe9d0e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:40.967Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

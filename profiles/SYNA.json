@@ -1,0 +1,70 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SYNA",
+  "name": "SYNAPTICS Inc",
+  "cik": "0000817720",
+  "summary": "Synaptics Incorporated designs and delivers AI-enabled edge semiconductor solutions including touch, display, biometrics, wireless connectivity, and processor products. The company offers the Astra family of edge AI processors, Veros wireless connectivity solutions (Wi-Fi, Bluetooth, BLE, Zigbee, Thread, Matter, UWB, GPS/GNSS), Natural ID fingerprint products, DisplayLink/DisplayPort video interface solutions, and automotive touch/display technologies. Synaptics serves OEMs across IoT, PC, mobile, enterprise, and automotive markets operating as a fabless semiconductor company.",
+  "products": [
+    {
+      "name": "Synaptics Astra",
+      "type": "hardware",
+      "description": "AI-native edge processor family including MPU and MCU solutions with AI/ML toolkits for IoT applications."
+    },
+    {
+      "name": "Veros",
+      "type": "hardware",
+      "description": "Wireless connectivity solutions supporting Wi-Fi, Bluetooth, BLE, Zigbee, Thread, Matter, UWB, GPS, GNSS, and ULE."
+    },
+    {
+      "name": "Natural ID",
+      "type": "hardware",
+      "description": "Capacitive-based fingerprint identification products for notebook PCs, PC peripherals, and automobiles."
+    },
+    {
+      "name": "DisplayLink",
+      "type": "hardware",
+      "description": "Video interface solutions for connectivity to external displays with broad protocol and OS compatibility."
+    },
+    {
+      "name": "Astra Machina Foundation Series",
+      "type": "platform",
+      "description": "Modular development kits supporting SL-Series embedded processors and SR100 Series MCUs for rapid prototyping."
+    },
+    {
+      "name": "Automotive Touch and Display",
+      "type": "hardware",
+      "description": "Integrated touch, display, local dimming, and driver sensing technologies for automotive applications."
+    },
+    {
+      "name": "Mobile Touch Solutions",
+      "type": "hardware",
+      "description": "Advanced touch solutions for smartphones and tablets with OLED support, backed by over 500 touch-related patents."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Broadcom Inc.",
+      "partnership_type": "licensing",
+      "description": "Acquired assets and non-exclusive licenses for Wi-Fi technology including Wi-Fi 8, UWB, GPS/GNSS products in January 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SYNA/profile",
+  "origin": {
+    "leaf": "3d82b48b6104a84a2a7b25c7dc5e91ef113c9db8488608df4c175921b39d0a76",
+    "parent": "d77b0b103bd8faf97ae2c62a62088ebab9644726f610675f084a0649e39d4c4f",
+    "timestamp": "2026-04-12T03:12:55.525Z",
+    "source": "profile:0000817720",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3d82b48b6104a84a2a7b25c7dc5e91ef113c9db8488608df4c175921b39d0a76",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.525Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

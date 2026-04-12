@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PFHO",
+  "name": "PACIFIC HEALTH CARE ORGANIZATION INC",
+  "cik": "0001138476",
+  "exchange": "OTC",
+  "sic": "8090",
+  "sic_description": "Services-Misc Health & Allied Services, NEC",
+  "state_of_incorporation": "UT",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Pacific Health Care Organization, Inc. (PHCO) operates through wholly owned subsidiaries Medex Healthcare, Inc., Medex Managed Care, Inc., and Medex Medical Management, Inc. The company provides workers' compensation-related services, including managed care and medical management solutions. It serves customers seeking cost reduction in workers' compensation claims and related healthcare administration, competing in the workers' compensation managed care industry.",
+  "tags": [
+    "workers'-compensation-managed-care",
+    "medical-management"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PFHO",
+  "origin": {
+    "leaf": "8fe6c2f51012f1211b17ada9ac67c7c7212a0d0b98be13c38de441a5bf99610e",
+    "parent": "d102baaec21e2a93e54785abf2930eee3a764b828fd5582f9f9627825434dd88",
+    "timestamp": "2026-04-12T03:12:52.973Z",
+    "source": "0001185185-26-000897",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8fe6c2f51012f1211b17ada9ac67c7c7212a0d0b98be13c38de441a5bf99610e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.973Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

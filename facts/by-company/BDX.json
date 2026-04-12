@@ -1,0 +1,124 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "BDX",
+  "total_facts": 8,
+  "by_type": {
+    "topic_mention": 8
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BDX",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 26,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BDX",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 54,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BDX",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 26,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BDX",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 54,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BDX",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 26,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BDX",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 54,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BDX",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BDX",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BDX/transcripts",
+  "origin": {
+    "leaf": "cc1b45f8f6f72c84631ce65c4ab054b906ddffbab2b4be6a0e20342b93f578df",
+    "parent": "e8b4d75e338536ded9f70d59c51e9aa2aa9d241805f47b8d15aab4766f87a6b6",
+    "timestamp": "2026-04-12T03:13:08.414Z",
+    "source": "facts:BDX",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cc1b45f8f6f72c84631ce65c4ab054b906ddffbab2b4be6a0e20342b93f578df",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:08.414Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

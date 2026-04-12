@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "COP",
+  "name": "CONOCOPHILLIPS",
+  "cik": "0001163165",
+  "exchange": "NYSE",
+  "sic": "2911",
+  "sic_description": "Petroleum Refining",
+  "state_of_incorporation": "DE",
+  "headquarters": "Houston, Texas",
+  "founded": "2002",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "ConocoPhillips is an independent exploration and production (E&P) company headquartered in Houston, Texas, operating in 14 countries. The company explores for, produces, transports, and markets crude oil, bitumen, natural gas, NGLs, and LNG. Its portfolio includes unconventional plays in North America (Delaware Basin, Eagle Ford, Bakken, Midland Basin), conventional assets in Europe, Africa, and Asia, LNG developments, and oil sands in Canada. Total 2025 production was 2,375 MBOED with total assets of approximately $122 billion.",
+  "tags": [
+    "alaska-upstream-oil-and-gas",
+    "lower-48-unconventional-oil-and-gas",
+    "canada-oil-sands-and-conventional",
+    "europe,-middle-east-and-north-africa-oil-and-gas",
+    "asia-pacific-oil-and-gas",
+    "lng-markets",
+    "sagd-(steam-assisted-gravity-drainage)",
+    "fifo-(first-in,-first-out)",
+    "lifo-(last-in,-first-out)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 9900,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/COP",
+  "origin": {
+    "leaf": "8beccdf9acdb471a58eba6b19a071ee422a909ae89037cc744b5ccc0523e3c63",
+    "parent": "692897bb606db47a96f511df5f96c4a156f80ee61e320b2abc1271b6d70292d0",
+    "timestamp": "2026-04-12T03:12:50.296Z",
+    "source": "0001163165-26-000009",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8beccdf9acdb471a58eba6b19a071ee422a909ae89037cc744b5ccc0523e3c63",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.296Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

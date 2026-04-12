@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "data_wallet",
   "label": "Data Wallet",
-  "companies": 3,
-  "total_mentions": 20,
+  "companies": 34,
+  "total_mentions": 109,
   "results": [
     {
       "ticker": "BAC",
@@ -21,27 +21,219 @@
       ]
     },
     {
+      "ticker": "V",
+      "company": "VISA INC.",
+      "mentions": 6,
+      "quarters": [
+        "Q1_FY2026",
+        "Q3_FY2025",
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "APCX",
+      "company": "AppTech Payments Corp.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ASFH",
+      "company": "ASIAFIN HOLDINGS CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CHPT",
+      "company": "ChargePoint Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EMPD",
+      "company": "Empery Digital Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "FISV",
+      "company": "FISERV INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GTII",
+      "company": "GLOBAL TECH INDUSTRIES GROUP, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HMMR",
+      "company": "HAMMER TECHNOLOGY HOLDINGS CORP.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "IDAI",
+      "company": "T Stamp Inc",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MGTI",
+      "company": "MGT CAPITAL INVESTMENTS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "MQ",
+      "company": "Marqeta, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "OLB",
+      "company": "OLB GROUP, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "OSPN",
+      "company": "OneSpan Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PSQH",
+      "company": "PSQ Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "PTLO",
+      "company": "Portillo's Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RELY",
+      "company": "Remitly Global, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ROC",
+      "company": "Rank One Computing Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RPMT",
+      "company": "REGO PAYMENT ARCHITECTURES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RVYL",
+      "company": "RYVYL Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "RWAX",
+      "company": "TAP REAL ESTATE TECHNOLOGIES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "SOLC",
+      "company": "Canary Marinade Solana ETF",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TGL",
+      "company": "TREASURE GLOBAL INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TWAV",
+      "company": "TaoWeave, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "USBC",
+      "company": "USBC, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "VAVX",
+      "company": "VanEck Avalanche ETF",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "WT",
+      "company": "WisdomTree, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ZCAR",
+      "company": "Zoomcar Holdings, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GME",
+      "company": "GameStop Corp.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "AXP",
+      "company": "AMERICAN EXPRESS CO",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "LOW",
       "company": "LOWES COMPANIES INC",
       "mentions": 1,
       "quarters": [
         "Q4_FY2025"
       ]
+    },
+    {
+      "ticker": "SYF",
+      "company": "Synchrony Financial",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "USB",
+      "company": "US BANCORP \\DE\\",
+      "mentions": 1,
+      "quarters": []
     }
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=data_wallet",
   "origin": {
-    "leaf": "963dc63f04c655d0a97c83f04e847008d8e4c8db01eb8fc6a1652701c2651082",
+    "leaf": "ac72ea25f1ff3f401df38dfd9ae9c07b5f37f06611185ed9edf41dfc5b0af899",
     "parent": "ed0d270f1b7b278c0c0c173842e9489e0501be3eedcbfd74117008fbbb9489f0",
-    "timestamp": "2026-04-12T02:43:09.119Z",
+    "timestamp": "2026-04-12T03:13:01.497Z",
     "source": "topic:data_wallet",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/963dc63f04c655d0a97c83f04e847008d8e4c8db01eb8fc6a1652701c2651082",
+    "verify": "https://origin.rootz.global/api/verify/ac72ea25f1ff3f401df38dfd9ae9c07b5f37f06611185ed9edf41dfc5b0af899",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.119Z",
+    "exported_at": "2026-04-12T03:13:01.497Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "COHN",
+  "name": "Cohen & Co Inc.",
+  "cik": "0001270436",
+  "summary": "Cohen & Co Inc. (COHN) is a financial services firm involved in asset management and capital markets activities. The company manages investment funds, including SPAC Series Funds, and acts as an asset manager and sponsor in SPAC (Special Purpose Acquisition Company) activities. It also engages in investments in SPAC entities and SPAC sponsor entities.",
+  "products": [
+    {
+      "name": "SPAC Series Funds",
+      "type": "service",
+      "description": "Investment funds focused on SPAC-related investments, managed by Cohen & Co."
+    },
+    {
+      "name": "Asset Management",
+      "type": "service",
+      "description": "Cohen & Co acts as asset manager for various investment vehicles including SPAC-related entities."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/COHN/profile",
+  "origin": {
+    "leaf": "c4d759d16450f47804a02bc01442df8fd164b3c365369efd78c00a3b6f26d3a6",
+    "parent": "a5ed44afb12d2bb811431230e8f1e98a5c1b846a3de5607bcf87192c93103a5e",
+    "timestamp": "2026-04-12T03:12:57.957Z",
+    "source": "profile:0001270436",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c4d759d16450f47804a02bc01442df8fd164b3c365369efd78c00a3b6f26d3a6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.957Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NOBH",
+  "name": "NOBILITY HOMES INC",
+  "cik": "0000072205",
+  "summary": "Nobility Homes, Inc. is a Florida corporation incorporated in 1967 that designs, manufactures, and sells manufactured and modular homes through its wholly owned retail subsidiary, Prestige Home Centers, Inc., which operates ten retail sales centers in north and central Florida. Homes are sold under trade names including Kingswood, Richwood, Tropic Isle, Regency Manor, and Tropic Manor, ranging from 464 to 2,650 square feet, priced from approximately $90,000 to $250,000. Nobility also sells wholesale to approximately 30 manufactured home communities and independent dealers.",
+  "products": [
+    {
+      "name": "Single-wide Manufactured Homes",
+      "type": "hardware",
+      "description": "Homes in 12, 14, and 16-foot widths, 35 to 72 feet in length, sold under multiple trade names."
+    },
+    {
+      "name": "Double-wide Manufactured Homes",
+      "type": "hardware",
+      "description": "Homes in 20, 24, 26, 28, and 32-foot widths, 32 to 72 feet in length."
+    },
+    {
+      "name": "Triple-wide Manufactured Homes",
+      "type": "hardware",
+      "description": "Homes 42 feet wide, ranging from 60 to 72 feet in length."
+    },
+    {
+      "name": "Quad Unit Manufactured Homes",
+      "type": "hardware",
+      "description": "Four-section homes with two 28-foot-wide sections in varying lengths."
+    },
+    {
+      "name": "On-frame Modular Homes",
+      "type": "hardware",
+      "description": "Floor plans built as on-frame modular homes compliant with Florida Building Code."
+    },
+    {
+      "name": "A.N.S.I. Park Models",
+      "type": "hardware",
+      "description": "Park models less than 400 square feet approved to ANSI standards, including exposure D homes."
+    },
+    {
+      "name": "Retail Insurance and Mortgage Services",
+      "type": "service",
+      "description": "Mountain Financial, Inc. provides property, casualty, automobile, and extended home warranty insurance as independent agent for Prestige customers."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NOBH/profile",
+  "origin": {
+    "leaf": "7224bb80be70dd48dbd094688f3f3ff6ddc6c9be1480bf175cc063ece7f4b118",
+    "parent": "067aa7235f5e1d93bbe0ab60fc68255644fc3c8d1df301b27ff8a0c3bc85fe9a",
+    "timestamp": "2026-04-12T03:12:57.430Z",
+    "source": "profile:0000072205",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7224bb80be70dd48dbd094688f3f3ff6ddc6c9be1480bf175cc063ece7f4b118",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.430Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CSL",
+  "name": "CARLISLE COMPANIES INC",
+  "cik": "0000790051",
+  "summary": "Carlisle Companies Incorporated is a leading supplier of innovative building envelope products and solutions for energy-efficient buildings. Operating through two segments, Carlisle Construction Materials (CCM) and Carlisle Weatherproofing Technologies (CWT), the company manufactures and supplies commercial roofing systems including EPDM, TPO, PVC membranes, polyiso insulation, architectural metals, waterproofing products, air and vapor barriers, spray polyurethane foam, and expanded polystyrene insulation, primarily for U.S. and European commercial and residential construction markets.",
+  "products": [
+    {
+      "name": "EPDM Roofing Membranes",
+      "type": "hardware",
+      "description": "Single-ply ethylene propylene diene monomer roofing membranes sold under Carlisle SynTec, Versico, Weatherbond, Resitrix and Hertalan brands."
+    },
+    {
+      "name": "TPO Roofing Membranes",
+      "type": "hardware",
+      "description": "Thermoplastic polyolefin single-ply roofing membranes for commercial construction markets."
+    },
+    {
+      "name": "PVC Roofing Membranes",
+      "type": "hardware",
+      "description": "Polyvinyl chloride single-ply roofing membranes for commercial and building applications."
+    },
+    {
+      "name": "Polyisocyanurate Insulation",
+      "type": "hardware",
+      "description": "Polyiso insulation sold in warranted and non-warranted systems for commercial roofing."
+    },
+    {
+      "name": "Architectural Metal Roofing",
+      "type": "hardware",
+      "description": "Architectural metal and roof garden systems for commercial construction markets."
+    },
+    {
+      "name": "Hunter Panels",
+      "type": "hardware",
+      "description": "Roofing insulation products sold under the Hunter Panels brand in the United States."
+    },
+    {
+      "name": "Waterproofing and Moisture Protection Products",
+      "type": "hardware",
+      "description": "High-performance waterproofing products for the building envelope under the CWT segment."
+    },
+    {
+      "name": "Air and Vapor Barriers",
+      "type": "hardware",
+      "description": "Integrated air and vapor barrier systems for building envelope construction projects."
+    },
+    {
+      "name": "Spray Polyurethane Foam Systems",
+      "type": "hardware",
+      "description": "Spray polyurethane foam and coating systems for building envelope insulation and protection."
+    },
+    {
+      "name": "Expanded Polystyrene Insulation",
+      "type": "hardware",
+      "description": "Block-molded expanded polystyrene and other insulation products for the building envelope."
+    },
+    {
+      "name": "Protective Roofing Underlayments",
+      "type": "hardware",
+      "description": "Protective roofing underlayments for residential and commercial building construction."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CSL/profile",
+  "origin": {
+    "leaf": "32cae34456d31f617c34c7962234cc6a97dbb66dd616ffff0577a899de26b422",
+    "parent": "e1f07b0ad800b02920fcdbb61106d80e230eabb273507b5214b1ce297118a2dd",
+    "timestamp": "2026-04-12T03:12:54.971Z",
+    "source": "profile:0000790051",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/32cae34456d31f617c34c7962234cc6a97dbb66dd616ffff0577a899de26b422",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.971Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EACO",
+  "name": "EACO CORP",
+  "cik": "0000784539",
+  "summary": "EACO Corporation is a Florida-based holding company operating primarily through its wholly-owned subsidiary Bisco Industries, Inc. and its Canadian subsidiary Bisco Industries Limited. Bisco is a distributor of electronic components (spacers, standoffs, card guides, fuses, connectors, cable components) and fasteners serving OEMs in aerospace, circuit board, communication, computer, fabrication, instrumentation, industrial equipment, and marine industries. Bisco operates 51 sales offices and seven distribution centers across the U.S. and Canada, plus one office in the Philippines.",
+  "products": [
+    {
+      "name": "Electronic Components",
+      "type": "hardware",
+      "description": "Spacers, standoffs, card guides, ejectors, component holders, fuses, circuit board connectors, and cable components distributed to OEMs."
+    },
+    {
+      "name": "Fasteners and Hardware",
+      "type": "hardware",
+      "description": "Commercial and mil-spec fasteners and hardware sold to aerospace, fabrication, and industrial equipment industries."
+    },
+    {
+      "name": "Kitting and Assembly Services",
+      "type": "service",
+      "description": "Customized services including special packaging, bin stocking, kitting, assembly, bar coding, and electronic requisitioning."
+    },
+    {
+      "name": "Integrated Supply Programs",
+      "type": "service",
+      "description": "Tailored supply chain solutions for OEM production needs including integrated supply and electronic requisitioning."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EACO/profile",
+  "origin": {
+    "leaf": "5445907e778b6e128c79b1c95daa4b7a6495847c302c6241e1fa05247995735d",
+    "parent": "3d45c3bbfe381b9b37ddf9e5a29ae2597ea62ec0e6fd365b57cfb96b6d5e2135",
+    "timestamp": "2026-04-12T03:12:56.522Z",
+    "source": "profile:0000784539",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5445907e778b6e128c79b1c95daa4b7a6495847c302c6241e1fa05247995735d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.522Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

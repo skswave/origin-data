@@ -1,0 +1,81 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NWPP",
+  "name": "NEW PEOPLES BANKSHARES INC",
+  "cik": "0001163389",
+  "summary": "New Peoples Bankshares, Inc. is a Virginia financial holding company headquartered in Honaker, Virginia, operating primarily through New Peoples Bank, Inc. The Bank offers commercial loans, residential mortgages, consumer loans, construction loans, deposit accounts, and investment services via New Peoples Financial Services division. It also provides insurance referral services through NPB Insurance Services, Inc. and title insurance through a minority stake in Lonesome Pine Title Agency, LLC. The Bank operates 17 full-service branches across Virginia, West Virginia, North Carolina, and Tennessee.",
+  "products": [
+    {
+      "name": "Commercial Loans",
+      "type": "service",
+      "description": "Loans for working capital, business expansion, equipment purchase for businesses in the market area."
+    },
+    {
+      "name": "Residential Mortgage Loans",
+      "type": "service",
+      "description": "Fixed and variable rate first and second mortgage loans, construction loans, and home equity lines of credit."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "Installment loans for personal, family, and household purposes including home improvement and debt consolidation."
+    },
+    {
+      "name": "Deposit Accounts",
+      "type": "service",
+      "description": "Business and personal checking and savings accounts with 24-hour ATM access and online banking."
+    },
+    {
+      "name": "Investment Services",
+      "type": "service",
+      "description": "Fixed and variable annuities, fee-based asset management, and other investment products via New Peoples Financial Services division."
+    },
+    {
+      "name": "Insurance Referral Services",
+      "type": "service",
+      "description": "Revenue generated through referral of insurance services via NPB Insurance Services, Inc."
+    },
+    {
+      "name": "Title Insurance",
+      "type": "service",
+      "description": "Title insurance services through 39% membership interest in Lonesome Pine Title Agency, LLC."
+    },
+    {
+      "name": "Internet Banking",
+      "type": "platform",
+      "description": "Online platform for account access, transfers, bill pay, stop payments, check orders, and deposit account opening."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Osaic Institutions, Inc.",
+      "partnership_type": "strategic",
+      "description": "Broker-dealer relationship enabling New Peoples Financial Services division to offer investment products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Lonesome Pine Title Agency, LLC",
+      "partnership_type": "strategic",
+      "description": "NPB Insurance Services holds 39% membership interest providing title insurance services.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NWPP/profile",
+  "origin": {
+    "leaf": "40c5e620977e614d59c424e8f88d6210ea3af17439a262db9e8f8d23266834ce",
+    "parent": "7e9b19241e2bda91bea8aef800cd4b4a5502932e6c35bfc83b451613408252e3",
+    "timestamp": "2026-04-12T03:12:57.434Z",
+    "source": "profile:0001163389",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/40c5e620977e614d59c424e8f88d6210ea3af17439a262db9e8f8d23266834ce",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.434Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WSR",
+  "name": "Whitestone REIT",
+  "cik": "0001175535",
+  "summary": "Whitestone REIT is a Maryland-based real estate investment trust that owns and operates Community Centered Properties—commercially diverse retail and mixed-use properties in culturally diverse, high-growth metropolitan markets in Texas and Arizona. As of December 31, 2025, the company wholly owned 56 properties totaling approximately 4.9 million square feet of GLA, with tenants in specialty retail, grocery, restaurants, medical, educational, financial services, and entertainment sectors.",
+  "products": [
+    {
+      "name": "Community Centered Properties",
+      "type": "service",
+      "description": "Commercially diverse retail and mixed-use properties leased to tenants serving culturally diverse neighborhoods in Texas and Arizona metropolitan markets."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Pillarstone Capital REIT Operating Partnership LP",
+      "partnership_type": "strategic",
+      "description": "Whitestone contributed properties to Pillarstone OP; exercised redemption notice in January 2024 and received $33.4 million settlement in December 2025 via bankruptcy proceedings.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WSR/profile",
+  "origin": {
+    "leaf": "c3ca047b0aa9c3823e53572ecd4906bb1d02970b574e407ac70181405c04f609",
+    "parent": "5f4c22f346c4fe173ceb7038be5934a0f025d5a7549939f3dee31d3ffce3743d",
+    "timestamp": "2026-04-12T03:12:56.089Z",
+    "source": "profile:0001175535",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c3ca047b0aa9c3823e53572ecd4906bb1d02970b574e407ac70181405c04f609",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.089Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

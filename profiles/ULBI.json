@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ULBI",
+  "name": "ULTRALIFE CORP",
+  "cik": "0000875657",
+  "summary": "Ultralife Corporation designs and manufactures power solutions and communications systems for government, defense, and commercial customers worldwide. Products include non-rechargeable Lithium Manganese Dioxide and Lithium Thionyl Chloride batteries, rechargeable Lithium-ion and NiMH batteries, charging systems, RF amplifiers, vehicle amplifier-adaptors, man-portable systems, and integrated communications electronics. The company sells through OEMs, defense distributors, and directly to U.S. and foreign defense departments, with operations in North America, Europe, and Asia.",
+  "products": [
+    {
+      "name": "Lithium 9-volt Battery",
+      "type": "hardware",
+      "description": "Non-rechargeable Li-MnO2 battery used in smoke alarms, wireless security systems, and intensive care monitors."
+    },
+    {
+      "name": "Ultralife HiRate Cylindrical Battery",
+      "type": "hardware",
+      "description": "Non-rechargeable lithium battery sold to military and OEMs for radios, night vision, targeting, and thermal imaging devices."
+    },
+    {
+      "name": "Ultralife Thin Cell Battery",
+      "type": "hardware",
+      "description": "Non-rechargeable lithium thin cell battery for industrial, medical, and military specialty applications."
+    },
+    {
+      "name": "Lithium Thionyl Chloride Battery",
+      "type": "hardware",
+      "description": "Sold under Electrochem and Ultralife brands for utility meters, automotive electronics, and downhole drilling devices."
+    },
+    {
+      "name": "Rechargeable Lithium-ion Battery",
+      "type": "hardware",
+      "description": "Custom-sized rechargeable batteries for communications, medical, and portable electronic device applications."
+    },
+    {
+      "name": "NiMH Rechargeable Battery",
+      "type": "hardware",
+      "description": "Nickel Metal Hydride rechargeable batteries for various portable electronic applications."
+    },
+    {
+      "name": "Charging Systems",
+      "type": "hardware",
+      "description": "Battery charging systems sold as part of the Battery & Energy Products segment."
+    },
+    {
+      "name": "Uninterruptable Power Supplies",
+      "type": "hardware",
+      "description": "UPS units included within the Battery & Energy Products segment offerings."
+    },
+    {
+      "name": "RF Amplifiers",
+      "type": "hardware",
+      "description": "Military communications RF amplifiers designed for rugged field environments."
+    },
+    {
+      "name": "Vehicle Amplifier-Adaptor (VAA)",
+      "type": "hardware",
+      "description": "Vehicle-mounted communications systems supporting U.S. Army and Special Operations programs."
+    },
+    {
+      "name": "Man-Portable Communications Systems",
+      "type": "hardware",
+      "description": "Integrated portable communications systems for military field use."
+    },
+    {
+      "name": "Integrated Communications Systems",
+      "type": "hardware",
+      "description": "Fixed and vehicle-application communications and electronics systems for military and commercial use."
+    },
+    {
+      "name": "Rugged IT Case Systems",
+      "type": "hardware",
+      "description": "Commercial products integrating IT equipment and power conversion into rugged cases for automotive, cellular, and manufacturing industries."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Ultralife Batteries India Private Limited (India JV)",
+      "partnership_type": "strategic",
+      "description": "51%-owned joint venture with Indian distributor partner for assembling Ultralife products and managing local sales throughout India.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ULBI/profile",
+  "origin": {
+    "leaf": "0f416a0f2cfabfa34c04a3d7930be9a4e83d3001d20d91bf723e78bf804f10d0",
+    "parent": "6efb1fbe06f85d55a165c59df41ec0143ab110e6d5a2484ec55252adc079735d",
+    "timestamp": "2026-04-12T03:12:57.370Z",
+    "source": "profile:0000875657",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0f416a0f2cfabfa34c04a3d7930be9a4e83d3001d20d91bf723e78bf804f10d0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.370Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

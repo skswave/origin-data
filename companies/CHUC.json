@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CHUC",
+  "name": "Charlie's Holdings, Inc.",
+  "cik": "0001134765",
+  "exchange": "OTC",
+  "sic": "2833",
+  "sic_description": "Medicinal Chemicals & Botanical Products",
+  "state_of_incorporation": "NV",
+  "headquarters": "Huntington Beach, California",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Charlie's Holdings, Inc. is a premium vapor products company that formulates, markets, and distributes proprietary e-liquids, electronic nicotine delivery systems (ENDS), and alternative alkaloid vapor products. Key brands include SBX (containing Metatine, a non-nicotine alkaloid), Pacha, and PACHAMAMA disposables and e-liquids. The company is investing in AI-powered blockchain-based age-gating technology via a licensing agreement with IKE Tech LLC to support FDA Premarket Tobacco Applications for flavored nicotine vapor products.",
+  "tags": [
+    "non-combustible-nicotine-related-products",
+    "alternative-alkaloid-(non-nicotine)-vapor-products",
+    "premium-e-liquids",
+    "electronic-nicotine-delivery-systems-(ends)",
+    "domestic-us-retail-vapor-market",
+    "international-vapor-market",
+    "iso-class-7-manufacturing-certification",
+    "bluetooth-low-energy-(ble)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CHUC",
+  "origin": {
+    "leaf": "3ec81e55e574ea4075bfe651ed783333b6cd52df029892207d0636300ee6215f",
+    "parent": "136ec6710cb619381dc9981dc3a7b73303cb633382faf6331daad335b5ebc200",
+    "timestamp": "2026-04-12T03:12:52.325Z",
+    "source": "0001437749-26-010761",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3ec81e55e574ea4075bfe651ed783333b6cd52df029892207d0636300ee6215f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.325Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

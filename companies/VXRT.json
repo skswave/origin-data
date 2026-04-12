@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "VXRT",
+  "name": "Vaxart, Inc.",
+  "cik": "0000072444",
+  "exchange": "OTC",
+  "sic": "2836",
+  "sic_description": "Biological Products, (No Diagnostic Substances)",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "2004",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Vaxart, Inc. is a clinical-stage biotechnology company focused on developing oral recombinant vaccines using its proprietary VAAST platform. The company's tablet vaccines use a non-replicating Ad5 vector to deliver antigens and adjuvants to the small intestine, targeting mucosal and systemic immunity. Pipeline candidates address norovirus, COVID-19, influenza, and HPV-related cervical cancer. No products are currently approved or marketed.",
+  "tags": [
+    "infectious-disease-vaccines",
+    "norovirus-prevention",
+    "covid-19-prevention",
+    "influenza-prevention",
+    "hpv-related-cancer-therapeutics",
+    "mucosal-vaccine-delivery",
+    "non-replicating-adenovirus-type-5-(ad5)-vector",
+    "toll-like-receptor-3-(tlr3)-agonist-dsrna-adjuvant",
+    "enteric-coated-tablet-delivery"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/VXRT",
+  "origin": {
+    "leaf": "b479a14ed8169b8d7c40db44877675ae8413afc2c19c7950bf6ed9bbc90b4de9",
+    "parent": "04d881be9950fe9285e4e2af3f57c81040bfa83f7ebe80eddbf1156b2038b2da",
+    "timestamp": "2026-04-12T03:12:52.060Z",
+    "source": "0001437749-26-008023",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b479a14ed8169b8d7c40db44877675ae8413afc2c19c7950bf6ed9bbc90b4de9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.060Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

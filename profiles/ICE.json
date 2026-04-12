@@ -1,0 +1,107 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ICE",
+  "name": "Intercontinental Exchange, Inc.",
+  "cik": "0001571949",
+  "summary": "Intercontinental Exchange, Inc. (ICE) is a leading global provider of technology and data to financial institutions, corporations, and government entities. ICE operates regulated exchanges, clearing houses, and data services across three segments: Exchanges (futures, equities, ETFs via NYSE), Fixed Income and Data Services (pricing, indices, CDS clearing, analytics), and Mortgage Technology (digital workflow tools for U.S. residential mortgage lifecycle). Founded in 2000, ICE is a Fortune 500 company operating 13 regulated exchanges and six clearing houses globally.",
+  "products": [
+    {
+      "name": "Brent Crude Oil Futures",
+      "type": "platform",
+      "description": "Flagship energy futures contract serving as cornerstone of a global oil network with over 800 related crude and refined oil products."
+    },
+    {
+      "name": "ICE Bonds",
+      "type": "platform",
+      "description": "Electronic fixed income trading platform supporting click-to-trade, RFQ, and auction protocols including portfolio auctions."
+    },
+    {
+      "name": "ICE Clear Credit",
+      "type": "service",
+      "description": "CDS clearing house supporting over 700 Single Name CDS reference entities and over 180 Index CDS instruments."
+    },
+    {
+      "name": "ICE Clear Europe",
+      "type": "service",
+      "description": "Clearing house for energy, agricultural, interest rates and equity index futures and options contracts based in the U.K."
+    },
+    {
+      "name": "ICE Global Network",
+      "type": "platform",
+      "description": "Multi-asset class connectivity solution offering secure, low-latency data delivery across asset classes."
+    },
+    {
+      "name": "ICE Data Indices",
+      "type": "service",
+      "description": "Fixed income index complex built on evaluated pricing and reference data covering millions of financial instruments."
+    },
+    {
+      "name": "NYSE",
+      "type": "platform",
+      "description": "Hybrid market combining technology and human judgment for equities, ETFs and options; hosts ~70% of S&P 500 companies."
+    },
+    {
+      "name": "Mortgage Technology Platform",
+      "type": "platform",
+      "description": "Digital workflow tools covering U.S. residential mortgage lifecycle from application through closing, servicing and secondary market."
+    },
+    {
+      "name": "Fixed Income Evaluated Pricing",
+      "type": "service",
+      "description": "End-of-day and continuous pricing on over three million fixed income securities across ~150 countries and 80 currencies."
+    },
+    {
+      "name": "Environmental Markets",
+      "type": "platform",
+      "description": "Futures and options for carbon cap-and-trade, renewable fuel standards, and climate-related risk management products."
+    },
+    {
+      "name": "NYSE FAANG+ Index",
+      "type": "service",
+      "description": "Equity index product offered as part of ICE's financial futures and options suite."
+    },
+    {
+      "name": "ETF Hub",
+      "type": "platform",
+      "description": "Workflow solution within fixed income and data analytics offerings supporting ETF-related operations."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "MSCI",
+      "partnership_type": "licensing",
+      "description": "ICE offers equity futures and options contracts based on MSCI indices including Emerging Market and ESG indices.",
+      "start_date": null
+    },
+    {
+      "partner_name": "FTSE",
+      "partnership_type": "licensing",
+      "description": "ICE offers equity futures and options contracts based on FTSE indices.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Export Development Canada",
+      "partnership_type": "strategic",
+      "description": "Provides default insurance backing a $200 million letter of credit for ICE NGX's $215 million guaranty fund.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ICE/profile",
+  "origin": {
+    "leaf": "b9e53ceac9325ba59c5aebb8868f64216bd8a4325c36ee3f6abb4dc9f7780886",
+    "parent": "22e43f113cbeed849e9ecc6ed39f4c30724bed58f35dacbdd77f770e4c3ad45f",
+    "timestamp": "2026-04-12T03:12:54.732Z",
+    "source": "profile:0001571949",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b9e53ceac9325ba59c5aebb8868f64216bd8a4325c36ee3f6abb4dc9f7780886",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.732Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

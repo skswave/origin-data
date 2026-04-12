@@ -1,0 +1,147 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GEOS",
+  "name": "GEOSPACE TECHNOLOGIES CORP",
+  "cik": "0001001115",
+  "summary": "Geospace Technologies Corporation designs and manufactures technology solutions across three segments: Smart Water, Energy Solutions, and Intelligent Industrial. Products include Hydroconn smart water connector cables, Aquana remote shutoff valves, wireless seismic data acquisition systems (Pioneer, OBX, Mariner), OptoSeis fiber optic sensing, SADAR border/perimeter security systems, Heartbeat Detector technology, imaging products, and specialized contract manufacturing services. The company serves water utilities, oil and gas, defense, and industrial markets.",
+  "products": [
+    {
+      "name": "Hydroconn",
+      "type": "hardware",
+      "description": "Waterproof connector cables used in Automated Meter Reading (AMR) and Advanced Metering Infrastructure (AMI) applications."
+    },
+    {
+      "name": "Aquana",
+      "type": "hardware",
+      "description": "Remote disconnect water valves and IoT platform for leak/burst monitoring and remote water shutoff."
+    },
+    {
+      "name": "Pioneer",
+      "type": "hardware",
+      "description": "Ultralight wireless land-based seismic data acquisition sensor product."
+    },
+    {
+      "name": "OBX",
+      "type": "hardware",
+      "description": "Ocean bottom wireless seismic data acquisition system deployable in unlimited channel configurations."
+    },
+    {
+      "name": "Mariner",
+      "type": "hardware",
+      "description": "Cable-free four-channel autonomous shallow water ocean bottom seismic recorder, deployable to 750 meters for up to 70 days."
+    },
+    {
+      "name": "Mariner Deep",
+      "type": "hardware",
+      "description": "Deepwater wireless seismic acquisition node operable for 200 days in water as deep as 3,450 meters."
+    },
+    {
+      "name": "OptoSeis",
+      "type": "hardware",
+      "description": "Fiber optic sensing technology for high-definition permanent reservoir monitoring on land and ocean-bottom applications."
+    },
+    {
+      "name": "Insight by OptoSeis",
+      "type": "hardware",
+      "description": "Passive all-optical downhole sensor network with no electronics downhole, rated for 150C environments."
+    },
+    {
+      "name": "SADAR",
+      "type": "hardware",
+      "description": "Proprietary real-time detection system for border/perimeter security, tunneling detection, and movement monitoring."
+    },
+    {
+      "name": "Heartbeat Detector",
+      "type": "hardware",
+      "description": "Heartbeat detection security technology identifying people hidden in vehicles, proven 99% effective by national laboratories."
+    },
+    {
+      "name": "Seismic borehole acquisition systems",
+      "type": "hardware",
+      "description": "Fiber optic augmented wireline systems for reservoir monitoring including hydraulic fracturing measurement."
+    },
+    {
+      "name": "Imaging products",
+      "type": "hardware",
+      "description": "Electronic pre-press products using direct thermal, direct-to-screen, and digital inkjet technologies for graphics and printing industries."
+    },
+    {
+      "name": "Hydroconn",
+      "type": "hardware",
+      "description": "Smart water connector cables used in AMR/AMI applications for remote utility meter data collection."
+    },
+    {
+      "name": "Aquana",
+      "type": "hardware",
+      "description": "Remote shutoff water valves and IoT platform for leak/burst monitoring in multi-family and commercial properties."
+    },
+    {
+      "name": "Pioneer",
+      "type": "hardware",
+      "description": "Ultralight land-based wireless (nodal) seismic data acquisition sensor system."
+    },
+    {
+      "name": "OBX",
+      "type": "hardware",
+      "description": "Ocean bottom wireless seismic data acquisition system deployable in unlimited channel configurations."
+    },
+    {
+      "name": "Mariner",
+      "type": "hardware",
+      "description": "Shallow water, cable-free, four-channel autonomous ocean bottom seismic recorder operating up to 70 days at 750 meters depth."
+    },
+    {
+      "name": "Mariner Deep",
+      "type": "hardware",
+      "description": "Deepwater wireless seismic acquisition node operating 200 days in water as deep as 3,450 meters."
+    },
+    {
+      "name": "OptoSeis",
+      "type": "hardware",
+      "description": "Fiber optic sensing technology for high-definition permanent reservoir monitoring in land and marine applications."
+    },
+    {
+      "name": "Insight by OptoSeis",
+      "type": "hardware",
+      "description": "Passive, all-optical downhole sensor network for high-temperature applications up to 150C."
+    },
+    {
+      "name": "SADAR",
+      "type": "hardware",
+      "description": "Proprietary detection system for border/perimeter security, tunneling detection, and movement monitoring in real-time."
+    },
+    {
+      "name": "Heartbeat Detector",
+      "type": "hardware",
+      "description": "Heartbeat detection security technology identifying people hidden in vehicles, proven 99% effective, using proprietary geophone sensors."
+    },
+    {
+      "name": "Imaging Products",
+      "type": "hardware",
+      "description": "Electronic pre-press products using direct thermal imaging, direct-to-screen printing, and digital inkjet technologies for commercial and industrial graphics."
+    },
+    {
+      "name": "Seismic Borehole Acquisition Systems",
+      "type": "hardware",
+      "description": "Fiber optic augmented wireline systems for reservoir monitoring including hydraulic fracturing measurement."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GEOS/profile",
+  "origin": {
+    "leaf": "dcf47ebf3b6d3a613ba1fe60d3aac14293efb3e9d4a9d92d328fb311121a1bec",
+    "parent": "be8fd39b900d26be41cc55d5e1ae8210ddb0a51ed7cfb214145968c68cec6d70",
+    "timestamp": "2026-04-12T03:12:57.164Z",
+    "source": "profile:0001001115",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dcf47ebf3b6d3a613ba1fe60d3aac14293efb3e9d4a9d92d328fb311121a1bec",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.164Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

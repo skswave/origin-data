@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BETA",
+  "name": "BETA Technologies, Inc.",
+  "cik": "0001784570",
+  "exchange": "NYSE",
+  "sic": "3721",
+  "sic_description": "Aircraft",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "The provided text is an SEC Exhibit 31.2 Sarbanes-Oxley Section 302 certification signed by Herman Cueto, Chief Financial Officer of BETA Technologies, Inc. It does not contain a business description. No specific products, services, or operational details about BETA Technologies, Inc. are disclosed in this excerpt.",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BETA",
+  "origin": {
+    "leaf": "8018331acd226adcc3598dd26294f46687047f78a754e4b03b3628e8a112bf11",
+    "parent": "ed7428a4f927b347ef9fa7f3592a182cc581202cc52f30c04abd7a49c5ff7f23",
+    "timestamp": "2026-04-12T03:12:50.727Z",
+    "source": "0001628280-26-015838",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8018331acd226adcc3598dd26294f46687047f78a754e4b03b3628e8a112bf11",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.727Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SQFT",
+  "name": "Presidio Property Trust, Inc.",
+  "cik": "0001080657",
+  "summary": "Presidio Property Trust, Inc. (SQFT) is an internally-managed REIT incorporated in Maryland, publicly traded on Nasdaq. The Company owns commercial office and industrial properties located in Colorado, North Dakota, California, Maryland, and Texas, serving approximately 131 commercial tenants. It also acquires model homes from homebuilders in sale-leaseback triple-net transactions through its PPT Model Homes subsidiary, operating across Alabama, Texas, Tennessee, and Arizona.",
+  "products": [
+    {
+      "name": "Commercial Office/Industrial Properties",
+      "type": "service",
+      "description": "Multi-tenant commercial properties leased to approximately 131 tenants across Colorado, North Dakota, California, Maryland, and Texas."
+    },
+    {
+      "name": "Model Home Properties",
+      "type": "service",
+      "description": "Sale-leaseback triple-net lease arrangements with homebuilders for model homes across Alabama, Texas, Tennessee, and Arizona."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Dubose Model Homes USA",
+      "partnership_type": "strategic",
+      "description": "Company acquired certain assets and rights from Dubose Model Homes USA in March 2010 to start its model home business.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SQFT/profile",
+  "origin": {
+    "leaf": "393b4372cbeaf2f3ca554008f2692abd9a44b8ffc20673785ef8feacf51f17d0",
+    "parent": "a970422582b4164ce7a077baaa991424cf426fbd0038308adb76ed8510cb2d5b",
+    "timestamp": "2026-04-12T03:12:58.929Z",
+    "source": "profile:0001080657",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/393b4372cbeaf2f3ca554008f2692abd9a44b8ffc20673785ef8feacf51f17d0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.929Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

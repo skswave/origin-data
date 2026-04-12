@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RIVN",
+  "name": "Rivian Automotive, Inc. / DE",
+  "cik": "0001874178",
+  "summary": "Rivian Automotive, Inc. is a Delaware-incorporated electric vehicle manufacturer that designs and produces electric trucks, SUVs, and commercial delivery vans. The company develops vehicles including consumer-facing products and commercial fleet vehicles, alongside associated software and services. Rivian has a strategic relationship with Volkswagen Group and has received investment from major partners. The company operates a manufacturing facility and focuses on EV technology, software platforms, and sustainable transportation solutions.",
+  "products": [
+    {
+      "name": "Electric Truck (R1T)",
+      "type": "hardware",
+      "description": "Consumer-facing electric pickup truck produced by Rivian."
+    },
+    {
+      "name": "Electric SUV (R1S)",
+      "type": "hardware",
+      "description": "Consumer-facing electric sport utility vehicle produced by Rivian."
+    },
+    {
+      "name": "Electric Delivery Van (EDV)",
+      "type": "hardware",
+      "description": "Commercial electric delivery van designed for fleet operations."
+    },
+    {
+      "name": "Vehicle Software & Services",
+      "type": "software",
+      "description": "Software and services platform accompanying Rivian's electric vehicles."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Volkswagen Group",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership involving expected future investments in Rivian by Volkswagen Group.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RIVN/profile",
+  "origin": {
+    "leaf": "cf73397683d1bd465b79bb26d2c49c1ad66a268e1332179b6bb434a9dd485a3b",
+    "parent": "359231a1487151ccb95676d7c49db7f39bf22754d9cce897eb673423924a4dea",
+    "timestamp": "2026-04-12T03:12:54.916Z",
+    "source": "profile:0001874178",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cf73397683d1bd465b79bb26d2c49c1ad66a268e1332179b6bb434a9dd485a3b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.916Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

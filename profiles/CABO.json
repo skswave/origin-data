@@ -1,0 +1,75 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CABO",
+  "name": "Cable One, Inc.",
+  "cik": "0001632127",
+  "summary": "Cable One, Inc. (doing business as Sparklight) is a broadband communications provider serving approximately 1.0 million residential and business customers across 24 Western, Midwestern, and Southern states. The company delivers data, video, and voice services via fiber-to-the-premises and hybrid fiber-coaxial networks, focusing primarily on residential data (60.1% of revenues), business data (15.3%), and residential video (12.5%) in non-metropolitan, secondary, and tertiary markets.",
+  "products": [
+    {
+      "name": "Residential Data (Internet)",
+      "type": "service",
+      "description": "High-speed broadband internet service delivered via fiber or HFC network, offering some of the fastest speeds in their markets."
+    },
+    {
+      "name": "Business Data",
+      "type": "service",
+      "description": "Data connectivity services targeting small, enterprise, and wholesale business customers with high-margin products."
+    },
+    {
+      "name": "Residential Video",
+      "type": "service",
+      "description": "Traditional and IPTV video service, including Sparklight TV, a cloud-based internet protocol video streaming service."
+    },
+    {
+      "name": "Residential Voice",
+      "type": "service",
+      "description": "Residential voice services, experiencing declining revenues due to increasing use of wireless alternatives."
+    },
+    {
+      "name": "Intelligent Wi-Fi",
+      "type": "service",
+      "description": "Wi-Fi service offering for residential data customers, part of growing related services."
+    },
+    {
+      "name": "Network Security Solutions",
+      "type": "service",
+      "description": "Security solutions offered as a related service alongside residential data subscriptions."
+    },
+    {
+      "name": "Mobile Service (Pilot)",
+      "type": "service",
+      "description": "Pilot mobile service offering launched in Q4 2025 via a mobile virtual network enabler in select markets."
+    },
+    {
+      "name": "Sparklight TV",
+      "type": "platform",
+      "description": "IPTV video service allowing customers to stream video channels from the cloud via the Sparklight TV app."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Mobile virtual network enabler (unnamed)",
+      "partnership_type": "strategic",
+      "description": "Partnership to launch a pilot mobile service offering in several Cable One markets during Q4 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CABO/profile",
+  "origin": {
+    "leaf": "020dca14530c299d0c0311bec7092134200d3f319b68689f85f45e09d8e8569f",
+    "parent": "04ce43e676580d57a342fd648e5571311f5fd32e96454b658adae043d6ca3c4d",
+    "timestamp": "2026-04-12T03:12:56.349Z",
+    "source": "profile:0001632127",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/020dca14530c299d0c0311bec7092134200d3f319b68689f85f45e09d8e8569f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.349Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

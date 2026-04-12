@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SDSYA",
+  "name": "SOUTH DAKOTA SOYBEAN PROCESSORS LLC",
+  "cik": "0001163609",
+  "summary": "South Dakota Soybean Processors LLC (SDSP) is an agricultural processing company that processes soybeans into soybean meal and soybean oil. The company operates as a limited liability company and files with the SEC under ticker SDSYA. Based on the filing structure, SDSP is engaged in soybean processing operations, producing commodity agricultural products for sale in relevant markets.",
+  "products": [
+    {
+      "name": "Soybean Meal",
+      "type": "hardware",
+      "description": "Processed soybean product derived from soybean crushing operations"
+    },
+    {
+      "name": "Soybean Oil",
+      "type": "hardware",
+      "description": "Vegetable oil extracted during soybean processing operations"
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SDSYA/profile",
+  "origin": {
+    "leaf": "77541957b4a291bcd83586082ec73f97eddc848827a9b773127b580e50ebcda1",
+    "parent": "94b87d90c6b6458027a60bdd6e62ddd0a9882afd3363335e66feb251789242c6",
+    "timestamp": "2026-04-12T03:12:56.909Z",
+    "source": "profile:0001163609",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/77541957b4a291bcd83586082ec73f97eddc848827a9b773127b580e50ebcda1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.909Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

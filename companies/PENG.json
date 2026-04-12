@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PENG",
+  "name": "Penguin Solutions, Inc.",
+  "cik": "0001616533",
+  "exchange": "Nasdaq",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0829",
+  "summary": "Penguin Solutions, Inc. is an end-to-end technology company providing computing, memory, and LED solutions. The company designs, builds, deploys, and manages high-performance, high-availability enterprise solutions across three segments: Advanced Computing (via Penguin Computing), Integrated Memory (via SMART Modular Technologies), and Optimized LED (via Cree LED). It also offers fault-tolerant computing through Stratus Technologies. With over two decades of experience, Penguin Solutions serves customers requiring complex AI, enterprise, and government computing infrastructure.",
+  "tags": [
+    "advanced-computing",
+    "integrated-memory",
+    "optimized-led",
+    "artificial-intelligence",
+    "enterprise-it",
+    "government-/-federal",
+    "high-performance-computing"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 2900,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PENG",
+  "origin": {
+    "leaf": "ed1f1c54941ace06f4e44d81c6c9e33417990d321be4f2f188bc2740f8379da7",
+    "parent": "c422bf110cb5bd0d910cfda987b93607229d208502f85a8cd70eb182ed1b46bd",
+    "timestamp": "2026-04-12T03:12:51.141Z",
+    "source": "0001616533-25-000061",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ed1f1c54941ace06f4e44d81c6c9e33417990d321be4f2f188bc2740f8379da7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.141Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

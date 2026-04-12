@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NORD",
+  "name": "Nordicus Partners Corp",
+  "cik": "0001011060",
+  "summary": "Nordicus Partners Corporation is a U.S. publicly listed business accelerator and holding company focused on Nordic life sciences companies. It acquires and accelerates preclinical biotechnology firms targeting unmet medical needs. Its portfolio includes Orocidin A/S, developing QR-01 for aggressive periodontitis, and Bio-Convert A/S, developing QR-02 for oral leukoplakia treatment. The company also holds a 4.99% interest in Mag Mile Capital, a commercial real estate mortgage banking firm.",
+  "products": [
+    {
+      "name": "QR-01",
+      "type": "platform",
+      "description": "Proprietary mucoadhesive oral topical treatment for aggressive periodontitis developed by Orocidin A/S, currently in preclinical stage."
+    },
+    {
+      "name": "QR-02",
+      "type": "platform",
+      "description": "Novel proprietary mucoadhesive oral topical formulation for oral leukoplakia developed by Bio-Convert A/S, preclinical stage."
+    },
+    {
+      "name": "QR-01",
+      "type": "platform",
+      "description": "Proprietary first-of-its-kind mucoadhesive oral topical treatment for aggressive periodontitis developed by Orocidin A/S."
+    },
+    {
+      "name": "QR-02",
+      "type": "platform",
+      "description": "Novel proprietary mucoadhesive oral topical formulation to treat and reduce dysplasia in oral leukoplakia, developed by Bio-Convert A/S."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Mag Mile Capital, Inc.",
+      "partnership_type": "strategic",
+      "description": "Nordicus acquired a 4.99% interest in this full-service commercial real estate mortgage banking firm headquartered in Chicago.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Mag Mile Capital, Inc.",
+      "partnership_type": "strategic",
+      "description": "Company acquired a 4.99% interest in this full-service commercial real estate mortgage banking firm headquartered in Chicago.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Danish Medicines Agency (DKMA)",
+      "partnership_type": "development",
+      "description": "Bio-Convert A/S received positive scientific advice from DKMA regarding QR-02, paving the way toward a First in Human trial.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NORD/profile",
+  "origin": {
+    "leaf": "f5e02d2e6997bcd2e14bbe003aa2e0bccbbcc9259a25b570692c5938d03239d8",
+    "parent": "5f4ff5ae4e685aebddb46c8d00c973691b485d7ebabfc091dfcd30f6987aafc7",
+    "timestamp": "2026-04-12T03:12:57.699Z",
+    "source": "profile:0001011060",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f5e02d2e6997bcd2e14bbe003aa2e0bccbbcc9259a25b570692c5938d03239d8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.699Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

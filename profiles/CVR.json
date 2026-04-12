@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CVR",
+  "name": "CHICAGO RIVET & MACHINE CO",
+  "cik": "0000019871",
+  "summary": "Chicago Rivet & Machine Co. is a manufacturer based in Warrenville, Illinois. The company produces rivets and operates rivet machine equipment. The filing references executive compensation, security ownership, and governance disclosures, but limited product detail is provided in this section. The company has no equity compensation plans and files annual reports with the SEC under ticker CVR.",
+  "products": [
+    {
+      "name": "Rivets",
+      "type": "hardware",
+      "description": "Manufactured rivets as indicated by company name and business nature."
+    },
+    {
+      "name": "Rivet Machines",
+      "type": "hardware",
+      "description": "Rivet machine equipment as indicated by company name Chicago Rivet & Machine Co."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CVR/profile",
+  "origin": {
+    "leaf": "a0b8dfd8eaf79595367ca9eeafdd4938e7546a9bbfa7506adad6e3b4a3973ce4",
+    "parent": "73cb0c580e3d820f6ba07448c8b1150a3e9d276336d4cc1899683bea9f2c1a35",
+    "timestamp": "2026-04-12T03:12:58.543Z",
+    "source": "profile:0000019871",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a0b8dfd8eaf79595367ca9eeafdd4938e7546a9bbfa7506adad6e3b4a3973ce4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.543Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

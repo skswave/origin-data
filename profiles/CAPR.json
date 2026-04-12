@@ -1,0 +1,81 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CAPR",
+  "name": "CAPRICOR THERAPEUTICS, INC.",
+  "cik": "0001133869",
+  "summary": "Capricor Therapeutics, Inc. is a Delaware-based biotechnology company focused on developing cell and exosome-based therapeutics for Duchenne muscular dystrophy (DMD) and other diseases with significant unmet medical need. Its lead product candidate, Deramiocel, is a cardiosphere-derived cell (CDC) therapy with a BLA under FDA review (PDUFA date: August 22, 2026). The company also advances its exosome platform (StealthX) for infectious diseases, monogenic diseases, and other indications through collaborations with NIH, DoD, Johns Hopkins, and others.",
+  "products": [
+    {
+      "name": "Deramiocel",
+      "type": "platform",
+      "description": "Cardiosphere-derived cell (CDC) therapy for Duchenne muscular dystrophy targeting cardiac and skeletal muscle complications via immunomodulatory, anti-inflammatory, pro-angiogenic, and anti-fibrotic mechanisms."
+    },
+    {
+      "name": "StealthX",
+      "type": "platform",
+      "description": "Exosome-based therapeutic and vaccine platform leveraging RNA biology, protein engineering, and targeted delivery for infectious diseases, monogenic diseases, and other indications."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Nippon Shinyaku",
+      "partnership_type": "strategic",
+      "description": "Exclusive distributor for Deramiocel in DMD in the United States and Japan.",
+      "start_date": null
+    },
+    {
+      "partner_name": "National Institutes of Health (NIH)",
+      "partnership_type": "development",
+      "description": "Collaboration supporting exosome platform research and development.",
+      "start_date": null
+    },
+    {
+      "partner_name": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "partnership_type": "development",
+      "description": "Collaboration supporting exosome-based research, including infectious disease applications.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Johns Hopkins University (JHU)",
+      "partnership_type": "development",
+      "description": "External collaboration supporting exosome platform research.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Department of Defense (DoD)",
+      "partnership_type": "development",
+      "description": "Collaboration supporting exosome platform development.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Army Institute of Surgical Research (USAISR)",
+      "partnership_type": "development",
+      "description": "Collaboration supporting exosome platform research.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Cedars-Sinai Medical Center (CSMC)",
+      "partnership_type": "development",
+      "description": "External collaboration supporting exosome platform research.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CAPR/profile",
+  "origin": {
+    "leaf": "ac1152b30024260cf4c804e89e4d3f420b2695d0f736a0926215861fa4575d01",
+    "parent": "986c1123eb45f817a0ef4b0be7b270a1fee600e7d4f888e4d27b6ee2088f6ebd",
+    "timestamp": "2026-04-12T03:12:55.724Z",
+    "source": "profile:0001133869",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ac1152b30024260cf4c804e89e4d3f420b2695d0f736a0926215861fa4575d01",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.724Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

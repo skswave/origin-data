@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GORO",
+  "name": "GOLD RESOURCE CORP",
+  "cik": "0001160791",
+  "summary": "Gold Resource Corporation (GORO) is a mining company focused on gold and other precious metals production. The company operates the Don David Gold Mine (DDGM) and is developing the Back Forty Project. Its business involves mining, processing, and production of gold and related commodities, with ongoing feasibility studies, engineering, permitting, and project financing activities.",
+  "products": [
+    {
+      "name": "Gold Production",
+      "type": "service",
+      "description": "Gold extracted and processed from the Don David Gold Mine (DDGM)."
+    },
+    {
+      "name": "Back Forty Project",
+      "type": "service",
+      "description": "A mining development project undergoing feasibility study, engineering, permitting, and project financing."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GORO/profile",
+  "origin": {
+    "leaf": "2751d459cb1711869ababddbc5696d8e50d4eff5db79adeb6a06923387ef5757",
+    "parent": "86b31cde547e9c05db85260212cbd17e25dcab2f7081c15677586e15d781c116",
+    "timestamp": "2026-04-12T03:12:57.019Z",
+    "source": "profile:0001160791",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2751d459cb1711869ababddbc5696d8e50d4eff5db79adeb6a06923387ef5757",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.019Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

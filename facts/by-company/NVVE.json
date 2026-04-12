@@ -1,0 +1,112 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "NVVE",
+  "total_facts": 7,
+  "by_type": {
+    "topic_mention": 7
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVVE",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVVE",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVVE",
+      "predicate": "discussed_in_filing",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVVE",
+      "predicate": "discussed_in_filing",
+      "object": "Artificial Intelligence",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVVE",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVVE",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVVE",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NVVE/transcripts",
+  "origin": {
+    "leaf": "40193d368beb6112c8de0fac77313053ab299757471c95fd581f21bf28348963",
+    "parent": "233e3f6026fcbcd2e1c02855e86d0124d01ecb50717ec62211f8112e70b9d2bb",
+    "timestamp": "2026-04-12T03:15:36.043Z",
+    "source": "facts:NVVE",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/40193d368beb6112c8de0fac77313053ab299757471c95fd581f21bf28348963",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:15:36.043Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

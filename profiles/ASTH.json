@@ -1,0 +1,78 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ASTH",
+  "name": "Astrana Health, Inc.",
+  "cik": "0001083446",
+  "summary": "Astrana Health, Inc. (formerly Apollo Medical Holdings, Inc.) is a Delaware-based healthcare company operating through consolidated subsidiaries and affiliated entities, including Independent Practice Associations (IPAs), medical corporations, and management services organizations (MSOs). The company participates in value-based care programs including ACO REACH, Medicare Shared Savings Program (MSSP), and the ACO LEAD Model, and acquired certain businesses and assets of Prospect Medical Holdings, Inc.",
+  "products": [
+    {
+      "name": "ACO REACH Program",
+      "type": "service",
+      "description": "Participation in CMS ACO Realizing Equity, Access, and Community Health Model for value-based Medicare care."
+    },
+    {
+      "name": "Medicare Shared Savings Program (MSSP)",
+      "type": "service",
+      "description": "Participation in CMS Medicare Shared Savings Program for coordinated value-based care delivery."
+    },
+    {
+      "name": "ACO LEAD Model",
+      "type": "service",
+      "description": "Participation in CMS ACO Long-term Enhanced ACO Design Model for advanced value-based care."
+    },
+    {
+      "name": "Management Services Organization (MSO)",
+      "type": "service",
+      "description": "Administrative and management services provided to affiliated physician groups and IPAs."
+    },
+    {
+      "name": "Independent Practice Association (IPA)",
+      "type": "service",
+      "description": "Physician network management and capitation-based care coordination services."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "AHMC Healthcare Inc.",
+      "partnership_type": "strategic",
+      "description": "Affiliated healthcare organization referenced in company glossary.",
+      "start_date": null
+    },
+    {
+      "partner_name": "CAIPA MSO, LLC",
+      "partnership_type": "strategic",
+      "description": "MSO entity affiliated with the company's operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Collaborative Health Systems, LLC",
+      "partnership_type": "strategic",
+      "description": "Includes Golden Triangle Physician Alliance and Heritage Physician Networks, referenced as CHS.",
+      "start_date": null
+    },
+    {
+      "partner_name": "LaSalle Medical Associates",
+      "partnership_type": "strategic",
+      "description": "Affiliated medical group referenced in company operations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ASTH/profile",
+  "origin": {
+    "leaf": "b5324ddb7a601bf56d9504407510fd62b68422d6b51efb68ab681687d3e5b0a9",
+    "parent": "4a0b7b4e80c38e9c704509ddc14fa22cc3effb94ac6e1092d0902327f3565c8e",
+    "timestamp": "2026-04-12T03:12:55.864Z",
+    "source": "profile:0001083446",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b5324ddb7a601bf56d9504407510fd62b68422d6b51efb68ab681687d3e5b0a9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.864Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

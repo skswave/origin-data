@@ -1,0 +1,88 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "PCG",
+  "total_facts": 5,
+  "by_type": {
+    "topic_mention": 5
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "PCG",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 52,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PCG",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 52,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PCG",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 50,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PCG",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PCG",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PCG/transcripts",
+  "origin": {
+    "leaf": "0f963c60bc5fc0f00d42c6808ed3abaf98b482f4d9897c1ba174a9970000ecab",
+    "parent": "aef95a790b23291d68e696484cecf597d7766cb60f1f21e3aba00df4aa22d89d",
+    "timestamp": "2026-04-12T03:13:10.555Z",
+    "source": "facts:PCG",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0f963c60bc5fc0f00d42c6808ed3abaf98b482f4d9897c1ba174a9970000ecab",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:10.555Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GENC",
+  "name": "GENCOR INDUSTRIES INC",
+  "cik": "0000064472",
+  "summary": "Gencor Industries, Inc. is a leading U.S. manufacturer of heavy machinery for highway construction and environmental control. Core products include hot mix asphalt plants, asphalt pavers (Blaw-Knox brand), combustion systems, and fluid heat transfer systems (Hy-Way Heat and Beverley lines). Products are sold via company sales representatives and independent dealers primarily to highway construction companies. The company also holds patents on counter flow drum mix technology and operates the world's oldest asphalt plant line (H&B, since 1894).",
+  "products": [
+    {
+      "name": "Hot Mix Asphalt Plants",
+      "type": "hardware",
+      "description": "Plants used in production of asphalt paving materials, including H&B product line dating to 1894."
+    },
+    {
+      "name": "Asphalt Pavers (Blaw-Knox)",
+      "type": "hardware",
+      "description": "Highway class asphalt pavers under the Blaw-Knox brand, acquired from Volvo in 2020."
+    },
+    {
+      "name": "Combustion Systems",
+      "type": "hardware",
+      "description": "Large burners handling solid, liquid, or gaseous fuels for asphalt, aggregate drying, kilns, and incinerators."
+    },
+    {
+      "name": "Fluid Heat Transfer Systems",
+      "type": "hardware",
+      "description": "Hy-Way Heat and Beverley thermal fluid heaters and specialty storage tanks for industrial and petrochemical applications."
+    },
+    {
+      "name": "Hot-Mix Storage Silos",
+      "type": "hardware",
+      "description": "Related asphalt plant equipment including silos, fabric filtration systems, and cold feed bins."
+    },
+    {
+      "name": "Batch Plants",
+      "type": "hardware",
+      "description": "Asphalt batch plant equipment manufactured alongside continuous process drum mix plants."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Carbontronics, LLC",
+      "partnership_type": "strategic",
+      "description": "1998 agreements to design, manufacture, sell, and install four synthetic fuel production plants; Company received membership interests in two synthetic fuel entities.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GENC/profile",
+  "origin": {
+    "leaf": "a0d3cc337119bfa9ee55057d6c8982680e1c3ee97a28ed86088e82af5ab4fd91",
+    "parent": "c9b375873c290fa892b8096c9feb3921c1ff70ee0925b90f0e79b55016bdbce1",
+    "timestamp": "2026-04-12T03:12:56.960Z",
+    "source": "profile:0000064472",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a0d3cc337119bfa9ee55057d6c8982680e1c3ee97a28ed86088e82af5ab4fd91",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.960Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

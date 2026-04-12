@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "GSG",
+  "name": "iShares S&P GSCI Commodity-Indexed Trust",
+  "cik": "0001332174",
+  "exchange": "NYSE",
+  "sic": "6221",
+  "sic_description": "Commodity Contracts Brokers & Dealers",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "iShares S&P GSCI Commodity-Indexed Trust (GSG) is a Delaware statutory trust that issues shares representing fractional undivided beneficial interests in its net assets. The Trust holds long positions in exchange-traded index futures contracts on the S&P GSCI Excess Return Index, along with cash and U.S. Treasury securities as collateral, seeking to track the S&P GSCI Total Return Index before fees and expenses.",
+  "tags": [
+    "commodity-futures-markets",
+    "exchange-traded-funds-/-retail-investment-products",
+    "institutional-investment"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/GSG",
+  "origin": {
+    "leaf": "911fe14e9e795494b0b2bcee425ebf7eaea3c5ce3f11dafd2964e90c6d8b9700",
+    "parent": "bfe432fd3b4a38b557ccc58cd4631defd96b52d8eda47b4012ea12022e296120",
+    "timestamp": "2026-04-12T03:12:50.889Z",
+    "source": "0001437749-26-006060",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/911fe14e9e795494b0b2bcee425ebf7eaea3c5ce3f11dafd2964e90c6d8b9700",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.889Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

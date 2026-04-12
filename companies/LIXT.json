@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LIXT",
+  "name": "LIXTE BIOTECHNOLOGY HOLDINGS, INC.",
+  "cik": "0001335105",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "LIXTE Biotechnology Holdings, Inc. is a clinical-stage biopharmaceutical and proton cancer therapy company. Its primary asset is LB-100, a small molecule inhibitor of protein phosphatase 2A (PP2A) being tested in clinical trials for ovarian clear cell carcinoma, metastatic MSS colon cancer, and advanced soft tissue sarcoma. The company is also the majority shareholder of Liora Technologies Europe Ltd., which is developing the LiGHT System, an electronically controlled proton therapy system for treating tumors.",
+  "tags": [
+    "oncology",
+    "cancer-immunotherapy",
+    "proton-cancer-therapy",
+    "clinical-stage-biopharmaceuticals"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LIXT",
+  "origin": {
+    "leaf": "73875babb82fa5da96a015551f538a7fc6cad9dfa6b26875fdd788913cec69d1",
+    "parent": "626a45376c351bd70aeb699acae320650fbd94b18362ef65bf90c6bf42a23e95",
+    "timestamp": "2026-04-12T03:12:52.771Z",
+    "source": "0001493152-26-014052",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/73875babb82fa5da96a015551f538a7fc6cad9dfa6b26875fdd788913cec69d1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.771Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

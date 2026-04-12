@@ -1,0 +1,143 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "JVA",
+  "name": "COFFEE HOLDING CO INC",
+  "cik": "0001007019",
+  "summary": "Coffee Holding Co., Inc. is an integrated wholesale coffee roaster and dealer based in Staten Island, New York. The company operates across three core segments: wholesale green coffee (unroasted beans sold to roasters and coffee shops), private label coffee (roasted and packaged under customer brand names), and branded coffee (sold under eight proprietary and licensed brand names). Products are distributed to supermarkets, wholesalers, and retail customers across the United States and select Asian markets.",
+  "products": [
+    {
+      "name": "Wholesale Green Coffee",
+      "type": "service",
+      "description": "Unroasted raw beans imported globally, sold to roasters and coffee shop operators; over 90 specialty offerings."
+    },
+    {
+      "name": "Private Label Coffee",
+      "type": "service",
+      "description": "Coffee roasted, blended, and packaged under customers' specifications and brand names for supermarkets and wholesalers."
+    },
+    {
+      "name": "Branded Coffee",
+      "type": "service",
+      "description": "Coffee roasted and packaged under eight proprietary and licensed brand names across multiple market segments."
+    },
+    {
+      "name": "Tabletop Coffee Roasting Equipment",
+      "type": "hardware",
+      "description": "Small-scale coffee roasting equipment sold to customers through the Sonofresco subsidiary."
+    },
+    {
+      "name": "Cafe Caribe",
+      "type": "service",
+      "description": "Specialty espresso coffee brand targeting Latin consumers; historically the company's leading brand by poundage."
+    },
+    {
+      "name": "Cafe Supremo",
+      "type": "service",
+      "description": "Specialty espresso coffee brand priced for price-sensitive Latin espresso drinkers."
+    },
+    {
+      "name": "S&W Coffee",
+      "type": "service",
+      "description": "Roasted whole bean and ground coffee sold under the S&W trademark licensed from Del Monte Corporation."
+    },
+    {
+      "name": "Harmony Bay",
+      "type": "service",
+      "description": "Coffee brand acquired through Comfort Foods, Inc.; part of ongoing branded coffee growth strategy."
+    },
+    {
+      "name": "Wholesale Green Coffee",
+      "type": "service",
+      "description": "Unroasted raw beans imported globally and sold to roasters and coffee shop operators; includes over 90 specialty coffee offerings."
+    },
+    {
+      "name": "Private Label Coffee",
+      "type": "service",
+      "description": "Coffee roasted, blended, packaged and sold under customer specifications and brand names, including supermarkets."
+    },
+    {
+      "name": "Branded Coffee",
+      "type": "service",
+      "description": "Coffee roasted and packaged under eight proprietary and licensed brand names across multiple market segments."
+    },
+    {
+      "name": "Cafe Caribe",
+      "type": "service",
+      "description": "Specialty espresso coffee brand targeting espresso drinkers and Latin consumers."
+    },
+    {
+      "name": "Cafe Supremo",
+      "type": "service",
+      "description": "Specialty espresso coffee priced for price-sensitive Latin espresso drinkers."
+    },
+    {
+      "name": "S&W Coffee",
+      "type": "service",
+      "description": "Roasted whole bean and ground coffee sold under licensed S&W trademark for retail distribution."
+    },
+    {
+      "name": "Harmony Bay",
+      "type": "service",
+      "description": "Coffee brand acquired through Comfort Foods, Inc.; part of ongoing branded coffee growth strategy."
+    },
+    {
+      "name": "Tabletop Coffee Roasting Equipment",
+      "type": "hardware",
+      "description": "Small tabletop coffee roasting equipment sold to customers through subsidiary Sonofresco."
+    },
+    {
+      "name": "Single Cup Coffee Pods",
+      "type": "service",
+      "description": "Single-serve coffee pod products offered as part of the company's diversified product portfolio."
+    },
+    {
+      "name": "Instant Coffees",
+      "type": "service",
+      "description": "Instant coffee products offered across the company's product range."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Del Monte Corporation",
+      "partnership_type": "licensing",
+      "description": "Exclusive license to use the S&W trademark in the U.S. and approved countries for roasted whole bean and ground coffee retail sales.",
+      "start_date": null
+    },
+    {
+      "partner_name": "The Ryl Company LLC",
+      "partnership_type": "strategic",
+      "description": "Company invested $850,000 for a non-controlling minority interest in December 2025; passive investment with no management involvement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Del Monte Corporation",
+      "partnership_type": "licensing",
+      "description": "Exclusive license to use the S&W trademark in the United States and approved countries for roasted whole bean and ground coffee retail distribution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "The Ryl Company LLC",
+      "partnership_type": "strategic",
+      "description": "Company invested $850,000 for a non-controlling minority interest in December 2025; passive investment with no management involvement.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/JVA/profile",
+  "origin": {
+    "leaf": "276e5a8e2c2ccbc242e229ce536d5b69c18f7596fc5890d03c61851698fb23d7",
+    "parent": "5e5c0e8b22f79a6fde3787bcef791c4fe1c4294249e98cb634ae6cf5fdfebd84",
+    "timestamp": "2026-04-12T03:12:58.165Z",
+    "source": "profile:0001007019",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/276e5a8e2c2ccbc242e229ce536d5b69c18f7596fc5890d03c61851698fb23d7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.165Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

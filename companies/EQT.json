@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EQT",
+  "name": "EQT Corp",
+  "cik": "0000033213",
+  "exchange": "NYSE",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "PA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PARTI General We are a vertically integrated natural gas company with upstream, gathering and transmission operations focused in the Appalachian Basin. As of December31, 2025, we had 28.0 Tcfe of proved natural gas, NGLs and oil reserves across approximately 2.3 million gross acres and approximately 2,945 miles of pipeline infrastructure. In addition, we own an investment in Series A of Mountain Valley Pipeline, LLC (MVP A), which owns the Mountain Valley Pipeline (MVP Mainline), a 303-mile-long...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EQT",
+  "origin": {
+    "leaf": "46ee967a14678030530bfe30b257fb27713a4e79555e3eabc09943f444bfdb07",
+    "parent": "08362c24336620d8f70759782a6aaca4ced38bfbf25da8150078d37f03b032ab",
+    "timestamp": "2026-04-12T03:12:50.359Z",
+    "source": "0000033213-26-000018",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/46ee967a14678030530bfe30b257fb27713a4e79555e3eabc09943f444bfdb07",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.359Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

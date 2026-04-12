@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "QXO",
+  "name": "QXO, Inc.",
+  "cik": "0001236275",
+  "summary": "QXO, Inc. is a building products distribution company, formerly known as SilverSun Technologies. After completing the acquisition of Beacon Roofing Supply on April 29, 2025, QXO became the largest publicly-traded distributor of roofing, waterproofing, and complementary building products in North America. QXO Building Products operates approximately 600 branches across all 50 U.S. states and seven Canadian provinces, serving over 110,000 residential and non-residential customers with exterior building products.",
+  "products": [
+    {
+      "name": "Roofing Products Distribution",
+      "type": "service",
+      "description": "Distribution of professional-grade roofing products for residential and commercial customers across North America."
+    },
+    {
+      "name": "Waterproofing Products Distribution",
+      "type": "service",
+      "description": "Distribution of waterproofing building products to residential and non-residential customers."
+    },
+    {
+      "name": "Complementary Building Products Distribution",
+      "type": "service",
+      "description": "Distribution of siding, insulation, plywood/OSB, and windows and doors to contractors and builders."
+    },
+    {
+      "name": "Technology Solutions and Professional Services",
+      "type": "software",
+      "description": "Pre-acquisition business providing software, consulting, programming, training and technical support to manufacturing, distribution and services industries."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/QXO/profile",
+  "origin": {
+    "leaf": "fb206cf3171fbdd44a97b769e6ac4a84612f8f7ba87304ed5b5cbc498c8697bb",
+    "parent": "7204bd961de0f5cd754755f09e911ec9fb512f21fbf1435b83649ecb216d9f78",
+    "timestamp": "2026-04-12T03:12:54.968Z",
+    "source": "profile:0001236275",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fb206cf3171fbdd44a97b769e6ac4a84612f8f7ba87304ed5b5cbc498c8697bb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.968Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

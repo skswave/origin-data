@@ -1,0 +1,107 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UNB",
+  "name": "UNION BANKSHARES INC",
+  "cik": "0000706863",
+  "summary": "Union Bankshares, Inc. is a Vermont-based one-bank holding company whose sole subsidiary is Union Bank, a state-chartered community bank founded in 1891. Operating 18 branch locations and three loan centers across northern Vermont and northern New Hampshire, Union Bank offers retail and commercial banking, municipal financing, SBA loans, residential and commercial real estate loans, online cash management, merchant services, and wealth management and trust services.",
+  "products": [
+    {
+      "name": "Commercial Loans",
+      "type": "service",
+      "description": "Business loans for plant and equipment, working capital, real estate renovation, and other commercial purposes."
+    },
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Loans on income-producing properties including commercial construction loans."
+    },
+    {
+      "name": "SBA Guaranteed Loans",
+      "type": "service",
+      "description": "Small Business Administration guaranteed lending products for business customers."
+    },
+    {
+      "name": "Residential Construction and Mortgage Loans",
+      "type": "service",
+      "description": "Home construction financing and residential mortgage lending products."
+    },
+    {
+      "name": "Municipal Financing",
+      "type": "service",
+      "description": "Loans and excess deposits secured by FHLB letters of credit for local municipalities and school districts."
+    },
+    {
+      "name": "Online Cash Management Services",
+      "type": "platform",
+      "description": "Includes ACH origination, wire transfers, positive pay, account reconciliation, and night depository."
+    },
+    {
+      "name": "Wealth Management and Trust Services",
+      "type": "service",
+      "description": "Personal and institutional wealth management and trust services offered through Union's Wealth Management Group."
+    },
+    {
+      "name": "Retail Deposit Accounts",
+      "type": "service",
+      "description": "Checking, savings, money market, CDs, IRA/SEP/KEOGH, and Health Savings accounts for individuals."
+    },
+    {
+      "name": "Telephone, Internet, and Mobile Banking",
+      "type": "platform",
+      "description": "Digital banking services including bill pay, mobile app, and online account opening."
+    },
+    {
+      "name": "Merchant Credit Card Services",
+      "type": "service",
+      "description": "Deposit and immediate credit of sales drafts for merchant customers."
+    },
+    {
+      "name": "Remote Deposit Capture",
+      "type": "service",
+      "description": "Remote check deposit service for merchant customers."
+    },
+    {
+      "name": "Debit MasterCard and ATM Cards",
+      "type": "service",
+      "description": "Debit and ATM card services for retail customers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "FHLB (Federal Home Loan Bank)",
+      "partnership_type": "strategic",
+      "description": "Source of borrowings and FHLB letters of credit used to secure municipal deposits.",
+      "start_date": null
+    },
+    {
+      "partner_name": "CDARS",
+      "partnership_type": "strategic",
+      "description": "Used for purchasing brokered deposits as an additional funding source.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ICS",
+      "partnership_type": "strategic",
+      "description": "Used for purchasing brokered deposits as an additional funding source.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UNB/profile",
+  "origin": {
+    "leaf": "2b477b192f05148ee699fe16e396bde2157d85e2ae7c8fb97da579763f1444d2",
+    "parent": "9e98fa1b7480ae84806125e77455f1b11bf6351d0c35c155174858678c81bbef",
+    "timestamp": "2026-04-12T03:12:57.355Z",
+    "source": "profile:0000706863",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2b477b192f05148ee699fe16e396bde2157d85e2ae7c8fb97da579763f1444d2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.355Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

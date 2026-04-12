@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "MSI",
+  "company": "Motorola Solutions, Inc.",
+  "title": "MSI Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 553,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "MSI free cash flow",
+      "predicate": "reported",
+      "object": "$2.8 billion",
+      "value": 2.8,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MSI EPS",
+      "predicate": "reported",
+      "object": "$3.86",
+      "value": 3.86,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MSI EPS",
+      "predicate": "reported",
+      "object": "$12.75",
+      "value": 12.75,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MSI",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MSI",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/MSI/transcripts",
+  "origin": {
+    "leaf": "d9d936de544a24da306dd53481f3ac8570f1d9dc495b34bbf7368d0e0548c969",
+    "parent": "da66f2674ea308742584806f229fee2598742f568ce321d31ba4afe2c520da6cf883d5d6448f6cb1a28cc57bb60b7933",
+    "timestamp": "2026-04-12T03:13:01.092Z",
+    "source": "transcript:MSI_msi_q4_and_fy_2025_earnings_snapshot.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d9d936de544a24da306dd53481f3ac8570f1d9dc495b34bbf7368d0e0548c969",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.092Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

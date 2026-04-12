@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "USEG",
+  "name": "US ENERGY CORP",
+  "cik": "0000101594",
+  "summary": "US Energy Corp (USEG) is an energy company engaged in the exploration, development, and production of industrial gas, oil, and natural gas. The company pursues drilling programs with industry partners, seeks acquisition opportunities in oil and natural gas properties, and is working toward becoming an operator of industrial gas, oil, and natural gas properties.",
+  "products": [
+    {
+      "name": "Industrial Gas",
+      "type": "service",
+      "description": "Exploration and production of industrial gas from operated and non-operated properties."
+    },
+    {
+      "name": "Oil",
+      "type": "service",
+      "description": "Exploration, development, and production of crude oil through partnerships and drilling programs."
+    },
+    {
+      "name": "Natural Gas",
+      "type": "service",
+      "description": "Exploration, development, and production of natural gas through industry partner drilling programs."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Industry partners (unnamed)",
+      "partnership_type": "development",
+      "description": "Drilling programs with industry partners involving working and net revenue interests and payout-based milestone agreements.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/USEG/profile",
+  "origin": {
+    "leaf": "41ac019dbb0ad615cfa05e8e19ab3ac3e5a4ff3cf72e1f49671c26ed67acaff9",
+    "parent": "ba531d4a6eaa425e9609277da35ead895ca3148d00cc9886038f3fdada957085",
+    "timestamp": "2026-04-12T03:12:57.840Z",
+    "source": "profile:0000101594",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/41ac019dbb0ad615cfa05e8e19ab3ac3e5a4ff3cf72e1f49671c26ed67acaff9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.840Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

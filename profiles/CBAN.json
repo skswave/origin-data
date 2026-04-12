@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CBAN",
+  "name": "COLONY BANKCORP INC",
+  "cik": "0000711669",
+  "summary": "Colony Bankcorp, Inc. is a Georgia-based bank holding company operating through its wholly-owned subsidiary, Colony Bank, a Georgia state-chartered bank. The company provides commercial banking services including lending, deposit products, and mortgage banking services across Georgia, Alabama, Florida, and neighboring markets. Services include business banking, real estate lending, and mortgage origination.",
+  "products": [
+    {
+      "name": "Commercial Lending",
+      "type": "service",
+      "description": "Business loans and credit facilities for commercial clients and real estate developers."
+    },
+    {
+      "name": "Deposit Products",
+      "type": "service",
+      "description": "Retail and business deposit accounts offered through Colony Bank branches."
+    },
+    {
+      "name": "Mortgage Banking Services",
+      "type": "service",
+      "description": "Mortgage origination, servicing, and related financial products for residential and commercial clients."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CBAN/profile",
+  "origin": {
+    "leaf": "9c4c32277cc268941f55a3724b495846ab543c3f8198c07381ab81d1679d2013",
+    "parent": "beff76bdda3fa48942ad5430075804f8fc03f4dddccc5359ea40e1b760bf0df9",
+    "timestamp": "2026-04-12T03:12:56.477Z",
+    "source": "profile:0000711669",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9c4c32277cc268941f55a3724b495846ab543c3f8198c07381ab81d1679d2013",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.477Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

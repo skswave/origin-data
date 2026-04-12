@@ -1,0 +1,107 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AITX",
+  "name": "Artificial Intelligence Technology Solutions Inc.",
+  "cik": "0001498148",
+  "summary": "Artificial Intelligence Technology Solutions Inc. (AITX), through its subsidiary Robotic Assistance Devices Inc. (RAD), delivers AI-powered security and facility management solutions combining intelligent hardware robots (ROAMEO, ROSA, AVA, TOM, RADDOG, HERO, RIO, RADCam, RAM) with software platforms including SARA Agentic AI and ROSS firearm detection. Solutions are offered primarily as recurring monthly subscriptions with minimum 12-month contracts, targeting commercial and public sector clients in the global security and facility management markets.",
+  "products": [
+    {
+      "name": "SARA (Speaking Autonomous Responsive Agent)",
+      "type": "platform",
+      "description": "Agentic AI platform powered by large language models enabling RAD devices to speak, listen, interpret, and take autonomous action in real time."
+    },
+    {
+      "name": "ROAMEO",
+      "type": "hardware",
+      "description": "Mobile autonomous security robot designed for patrolling corporate campuses and similar environments."
+    },
+    {
+      "name": "RADDOG",
+      "type": "hardware",
+      "description": "Mobile security robot solution offered as part of RAD's mobile solutions portfolio."
+    },
+    {
+      "name": "HERO",
+      "type": "hardware",
+      "description": "Mobile security device included in RAD's mobile solutions lineup."
+    },
+    {
+      "name": "AVA",
+      "type": "hardware",
+      "description": "Access and entry control device enabling efficient gate access control and real-time delivery processing."
+    },
+    {
+      "name": "TOM",
+      "type": "hardware",
+      "description": "Access and entry solution designed for visitor greeting and front desk engagement."
+    },
+    {
+      "name": "ROSA",
+      "type": "hardware",
+      "description": "Stationary autonomous security device deployed to deter incidents such as vehicle damage and graffiti."
+    },
+    {
+      "name": "RIO",
+      "type": "hardware",
+      "description": "Stationary security device included in RAD's stationary solutions portfolio."
+    },
+    {
+      "name": "RADCam",
+      "type": "hardware",
+      "description": "Stationary camera-based security device offered by RAD."
+    },
+    {
+      "name": "RAM",
+      "type": "hardware",
+      "description": "Stationary security solution included in RAD's stationary product lineup."
+    },
+    {
+      "name": "ROSS",
+      "type": "software",
+      "description": "Firearm detection software solution offered as part of AITX's software and intelligence portfolio."
+    },
+    {
+      "name": "RAD Light My Way",
+      "type": "hardware",
+      "description": "Security solution deployed at hospital networks to improve staff safety."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "GXO",
+      "partnership_type": "strategic",
+      "description": "Global logistics leader deploying RAD robotic solutions to deliver cost-effective security within logistics operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "EPIC Security Works",
+      "partnership_type": "strategic",
+      "description": "RAD channel partner customizing 24-hour solutions using RAD technology to reduce reliance on manpower.",
+      "start_date": null
+    },
+    {
+      "partner_name": "USA Security",
+      "partnership_type": "strategic",
+      "description": "RAD authorized dealer deploying ROSA units with projected client savings of ~$300,000 over three years.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AITX/profile",
+  "origin": {
+    "leaf": "74a11d5b65e44b82e59c45c88fcf345018fe6be730013c35167ba74b16d1a752",
+    "parent": "b3d099795a3fd3f88ab4c4d12aabf0325a4f9499d85681e915d8c606ff68642b",
+    "timestamp": "2026-04-12T03:12:58.180Z",
+    "source": "profile:0001498148",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/74a11d5b65e44b82e59c45c88fcf345018fe6be730013c35167ba74b16d1a752",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.180Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

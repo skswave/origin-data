@@ -1,0 +1,88 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "LION",
+  "total_facts": 5,
+  "by_type": {
+    "topic_mention": 5
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "LION",
+      "predicate": "discussed_in_filing",
+      "object": "Supply Chain",
+      "value": 15,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LION",
+      "predicate": "discussed_in_filing",
+      "object": "Supply Chain",
+      "value": 15,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LION",
+      "predicate": "discussed_in_filing",
+      "object": "Supply Chain",
+      "value": 15,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LION",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LION",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LION/transcripts",
+  "origin": {
+    "leaf": "01cf5a04b3a3b94d5f991de4be6a125c6a34cb9abe62adf0ff150e357ebba8f2",
+    "parent": "f8235ed4e6a452f3668a42055fa4a841f437b3136a3ae92ca03ca57f111d44db",
+    "timestamp": "2026-04-12T03:13:43.526Z",
+    "source": "facts:LION",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/01cf5a04b3a3b94d5f991de4be6a125c6a34cb9abe62adf0ff150e357ebba8f2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:43.527Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

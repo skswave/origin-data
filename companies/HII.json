@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HII",
+  "name": "HUNTINGTON INGALLS INDUSTRIES, INC.",
+  "cik": "0001501585",
+  "exchange": "NYSE",
+  "sic": "3730",
+  "sic_description": "Ship & Boat Building & Repairing",
+  "state_of_incorporation": "DE",
+  "headquarters": "Newport News, Virginia",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Huntington Ingalls Industries (HII) is America's largest shipbuilder, designing and constructing nuclear and non-nuclear naval vessels including aircraft carriers, submarines, amphibious assault ships, destroyers, and Coast Guard cutters. Through its Mission Technologies segment, HII also provides C5ISR systems, cybersecurity, AI/ML, unmanned autonomous systems, and live/virtual/constructive training solutions primarily to the U.S. Government and Department of Defense.",
+  "tags": [
+    "u.s.-navy-shipbuilding",
+    "u.s.-coast-guard-shipbuilding",
+    "nuclear-aircraft-carrier-maintenance-and-overhaul",
+    "nuclear-submarine-construction",
+    "defense-technology-and-c5isr",
+    "cybersecurity-and-electronic-warfare",
+    "unmanned-autonomous-systems",
+    "military-training-solutions",
+    "nuclear-support-services"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 44000,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HII",
+  "origin": {
+    "leaf": "8ffa495aa3cbd9186e604b8f0c856af972b64b354d09b6a8fa609e30ed3840b0",
+    "parent": "c3756355cbb41d69bb85bb0e456c52d1c2d5e61f8d18cb7f331c01eb864c6d66",
+    "timestamp": "2026-04-12T03:12:50.448Z",
+    "source": "0001501585-26-000006",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8ffa495aa3cbd9186e604b8f0c856af972b64b354d09b6a8fa609e30ed3840b0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.448Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ATEX",
+  "name": "Anterix Inc.",
+  "cik": "0001304492",
+  "exchange": "Nasdaq",
+  "sic": "4813",
+  "sic_description": "Telephone Communications (No Radiotelephone)",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": ", Item 1A. Risk Factors and Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations within this Annual Report may cause our actual results, performance or achievements to differ materially from any future results, performance or achievements expressed or implied by these forward-looking statements. Therefore, you are cautioned not to place undue reliance on such statements. Further, any forward-looking statement speaks only as of the date on which it is made,...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ATEX",
+  "origin": {
+    "leaf": "50c950fb4933f2e3a119765cbfd8ea31ff34f7a0b9656c1866a85067fae5e2d3",
+    "parent": "851847eb0e10a485ec13ab5dd6ebc9403c87e9a47b4ad1747d962044a6621670",
+    "timestamp": "2026-04-12T03:12:51.222Z",
+    "source": "0001304492-25-000056",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/50c950fb4933f2e3a119765cbfd8ea31ff34f7a0b9656c1866a85067fae5e2d3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.222Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

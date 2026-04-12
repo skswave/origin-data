@@ -1,0 +1,118 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LARK",
+  "name": "LANDMARK BANCORP INC",
+  "cik": "0001141688",
+  "summary": "Landmark Bancorp, Inc. is a Delaware-incorporated financial holding company headquartered in Manhattan, Kansas, owning Landmark National Bank and Landmark Risk Management, Inc. The Bank offers one-to-four family residential real estate loans, commercial loans, CRE loans, agricultural loans, construction and land loans, and deposit services including checking, savings, and money market accounts. It operates 29 branch offices across 23 Kansas communities and one loan production office in Kansas City, Missouri, with approximately $1.6 billion in total assets as of December 31, 2024.",
+  "products": [
+    {
+      "name": "One-to-Four Family Residential Real Estate Loans",
+      "type": "service",
+      "description": "Fixed and variable rate residential mortgage loans, majority sold in secondary market with some retained in portfolio."
+    },
+    {
+      "name": "Commercial and CRE Loans",
+      "type": "service",
+      "description": "Loans to small- and medium-sized owner-operated businesses including commercial real estate financing."
+    },
+    {
+      "name": "Agricultural Loans",
+      "type": "service",
+      "description": "Loans supporting agricultural operations in Kansas markets including crop production and feedlot operations."
+    },
+    {
+      "name": "Construction and Land Loans",
+      "type": "service",
+      "description": "Short-term loans (under 18 months) for residential and commercial real estate development, limited to 80% of appraised value."
+    },
+    {
+      "name": "SBA Loans",
+      "type": "service",
+      "description": "Small Business Administration loans as part of the Bank's product mix for small businesses."
+    },
+    {
+      "name": "Consumer Deposit Accounts",
+      "type": "service",
+      "description": "Checking, savings, and money market accounts forming the Bank's core deposit base."
+    },
+    {
+      "name": "Captive Insurance",
+      "type": "service",
+      "description": "Landmark Risk Management, Inc. provides property and casualty insurance to the Company and Bank where coverage is unavailable or uneconomical."
+    },
+    {
+      "name": "One-to-Four Family Residential Real Estate Loans",
+      "type": "service",
+      "description": "Fixed and variable rate mortgage loans, with most fixed-rate loans sold in the secondary market."
+    },
+    {
+      "name": "Commercial and CRE Loans",
+      "type": "service",
+      "description": "Loans targeting owner-operated businesses including commercial real estate and SBA lending."
+    },
+    {
+      "name": "Agricultural Loans",
+      "type": "service",
+      "description": "Loans supporting agricultural activities in Kansas markets."
+    },
+    {
+      "name": "Construction and Land Loans",
+      "type": "service",
+      "description": "Short-term loans for residential and commercial real estate development, typically less than 18 months."
+    },
+    {
+      "name": "Deposit Accounts",
+      "type": "service",
+      "description": "Checking, savings, and money market accounts insured by the FDIC."
+    },
+    {
+      "name": "Captive Insurance (Landmark Risk Management, Inc.)",
+      "type": "service",
+      "description": "Nevada-based captive providing property and casualty insurance to the Company and the Bank."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Federal Home Loan Bank of Topeka",
+      "partnership_type": "strategic",
+      "description": "Bank is a member of FHLB of Topeka, providing access to funding and liquidity resources.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Federal Reserve Bank of Kansas City",
+      "partnership_type": "strategic",
+      "description": "Bank is a member of the Federal Reserve Bank of Kansas City.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Federal Home Loan Bank of Topeka",
+      "partnership_type": "strategic",
+      "description": "Bank is a member providing access to funding and other FHLB resources.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Federal Reserve Bank of Kansas City",
+      "partnership_type": "strategic",
+      "description": "Bank is a member subject to Federal Reserve reserve requirements and regulations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LARK/profile",
+  "origin": {
+    "leaf": "48bbbc3780a595569cd5863e39d5fb55d3cfd0b69e24f9dc4c483036a5be1cf7",
+    "parent": "40cc866ad2088606fb346023ec13a1492a67d5c57d34769b8b6414c95bd698ce",
+    "timestamp": "2026-04-12T03:12:57.189Z",
+    "source": "profile:0001141688",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/48bbbc3780a595569cd5863e39d5fb55d3cfd0b69e24f9dc4c483036a5be1cf7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.189Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

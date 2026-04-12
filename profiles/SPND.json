@@ -1,0 +1,78 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SPND",
+  "name": "SPINDLETOP OIL & GAS CO",
+  "cik": "0000867038",
+  "summary": "Spindletop Oil & Gas Co. is an independent oil and gas company engaged in exploration, development, production, and acquisition of oil and natural gas, operating primarily in Texas across five states. Through subsidiary Prairie Pipeline Co., it gathers and markets natural gas via owned pipelines. It also leases commercial office space in Dallas, Texas. Operations are concentrated in the Fort Worth Basin, East Texas, and other basins.",
+  "products": [
+    {
+      "name": "Crude Oil",
+      "type": "service",
+      "description": "Produced from operated and non-operated wells across Texas, Oklahoma, Alabama, New Mexico, and Louisiana."
+    },
+    {
+      "name": "Natural Gas",
+      "type": "service",
+      "description": "Produced and marketed from multiple basins, primarily the Fort Worth Basin in North Texas."
+    },
+    {
+      "name": "Natural Gas Gathering",
+      "type": "service",
+      "description": "Gathering and marketing of natural gas through subsidiary Prairie Pipeline Co. via owned pipelines in Texas."
+    },
+    {
+      "name": "Commercial Real Estate Leasing",
+      "type": "service",
+      "description": "Leasing of office space in Company-owned two-story building in Dallas, Texas to third-party tenants."
+    },
+    {
+      "name": "Oilfield Equipment Rental",
+      "type": "service",
+      "description": "Rental of oilfield equipment through a Company subsidiary."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Energy Transfer Crude Marketing, LLC",
+      "partnership_type": "strategic",
+      "description": "Largest purchaser of Company's oil and natural gas, representing 18% of sales in 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Enlink Gas Marketing, LTD.",
+      "partnership_type": "strategic",
+      "description": "Purchaser of Company's oil and natural gas, representing 9% of sales in 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Giant NRG Co., LP",
+      "partnership_type": "strategic",
+      "description": "Purchaser of Company's oil and natural gas, representing 7% of sales in 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bedrock Energy Partners",
+      "partnership_type": "strategic",
+      "description": "Purchaser of Company's oil and natural gas, representing 6% of sales in 2024.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SPND/profile",
+  "origin": {
+    "leaf": "66198f6f7fa8cd3d335495ed720b6ef043fcbf827f1004bf9f0fa31bb1d1d8ca",
+    "parent": "1c08ec083f134526e82e52bb6aced34e6df30b73bf4630d4c1a0cec7ffce7fb4",
+    "timestamp": "2026-04-12T03:12:57.960Z",
+    "source": "profile:0000867038",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/66198f6f7fa8cd3d335495ed720b6ef043fcbf827f1004bf9f0fa31bb1d1d8ca",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.960Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

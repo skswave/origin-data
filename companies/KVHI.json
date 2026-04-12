@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "KVHI",
+  "name": "KVH INDUSTRIES INC \\DE\\",
+  "cik": "0001007587",
+  "exchange": "Nasdaq",
+  "sic": "4899",
+  "sic_description": "Communications Services, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Cautionary Statement Regarding Forward-Looking Information In addition to historical facts, this annual report contains forward-looking statements. Forward-looking statements are merely our current predictions of future events. These statements are inherently uncertain, and actual events could differ materially from our predictions. Important factors that could cause actual events to vary from our predictions include those discussed in this annual report under the headings Item 7. Managements Di...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/KVHI",
+  "origin": {
+    "leaf": "24abb193eb85158ffc03e5f6cef61de7ff04fe66117ab90317ffb8cc718fa059",
+    "parent": "ec689fefa4630a40805f7c7dce877b2ca315be24d52017805ddbf68ed60a6785",
+    "timestamp": "2026-04-12T03:12:51.959Z",
+    "source": "0001007587-26-000004",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/24abb193eb85158ffc03e5f6cef61de7ff04fe66117ab90317ffb8cc718fa059",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.959Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

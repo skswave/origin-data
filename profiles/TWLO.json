@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TWLO",
+  "name": "TWILIO INC",
+  "cik": "0001447669",
+  "summary": "Twilio Inc. provides a cloud communications platform that enables businesses to embed messaging, voice, email, and video interactions into customer-facing applications via APIs. Its platform combines communications APIs (Programmable Messaging, Programmable Voice, SendGrid Email), software products (digital engagement centers, marketing campaigns, user authentication), customer data capabilities, and AI-powered orchestration. As of December 31, 2025, Twilio served over 402,000 Active Customer Accounts ranging from SMBs to large enterprises across numerous industries.",
+  "products": [
+    {
+      "name": "Twilio Programmable Messaging",
+      "type": "platform",
+      "description": "API to send and receive SMS, MMS, RCS, and OTT messages globally across various sender types."
+    },
+    {
+      "name": "Twilio Programmable Voice",
+      "type": "platform",
+      "description": "API enabling developers to build solutions to make, manage, and receive phone calls globally via browser, app, or phone."
+    },
+    {
+      "name": "Twilio SendGrid Email",
+      "type": "platform",
+      "description": "API and no-code UI for email delivery at scale, built on a proprietary mail transfer agent with inbox optimization."
+    },
+    {
+      "name": "Marketing Campaigns",
+      "type": "software",
+      "description": "No-code email campaign product built on SendGrid infrastructure with design tools, list management, and dynamic content."
+    },
+    {
+      "name": "User Authentication and Identity",
+      "type": "software",
+      "description": "Solutions enabling businesses to verify and authenticate users with advanced compliance and regulatory management support."
+    },
+    {
+      "name": "Twilio Super Network",
+      "type": "platform",
+      "description": "Software layer interconnecting global communications networks and inbox providers, optimizing quality and cost of communications."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "WhatsApp",
+      "partnership_type": "strategic",
+      "description": "Twilio Programmable Messaging supports WhatsApp as an over-the-top messaging channel for customers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Facebook Messenger",
+      "partnership_type": "strategic",
+      "description": "Twilio Programmable Messaging supports Facebook Messenger as an over-the-top messaging channel for customers.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TWLO/profile",
+  "origin": {
+    "leaf": "e05bba105c672d7c42b1a803214b8e48219920b71678eaf300cd7888f2b8d2bf",
+    "parent": "27b08ca1dd9bc7531073c638172072b81545954bd828d6088034c37ca20136bc",
+    "timestamp": "2026-04-12T03:12:54.909Z",
+    "source": "profile:0001447669",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e05bba105c672d7c42b1a803214b8e48219920b71678eaf300cd7888f2b8d2bf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.909Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

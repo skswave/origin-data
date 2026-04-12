@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "WMB",
+  "name": "WILLIAMS COMPANIES, INC.",
+  "cik": "0000107263",
+  "exchange": "NYSE",
+  "sic": "4922",
+  "sic_description": "Natural Gas Transmission",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I This report includes information for multiple registrants, specifically The Williams Companies, Inc. (Williams), as well as Transcontinental Gas Pipe Line Company, LLC (Transco) and Northwest Pipeline LLC (NWP) both of which are wholly owned subsidiaries of Williams (collectively, the Registrants). References to subsidiaries by name, including equity-method investees, Transco, and NWP, refer exclusively to those businesses and operations. General Williams is an energy company committed to...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/WMB",
+  "origin": {
+    "leaf": "de68c6401302d106177da45bd3c66e225d4992a92112639e1a7449e1346ceb73",
+    "parent": "d666c5e3acdd872a029504889a2d8b394c596ff9513be8446a216ccd2cf952bb",
+    "timestamp": "2026-04-12T03:12:50.318Z",
+    "source": "0000107263-26-000006",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/de68c6401302d106177da45bd3c66e225d4992a92112639e1a7449e1346ceb73",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.318Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

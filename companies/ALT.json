@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ALT",
+  "name": "Altimmune, Inc.",
+  "cik": "0001326190",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Altimmune, Inc. is a late clinical-stage biopharmaceutical company developing novel therapies for serious liver diseases. Its lead product candidate, pemvidutide (formerly ALT-801), is a balanced 1:1 glucagon/GLP-1 dual receptor agonist in clinical development for metabolic dysfunction-associated steatohepatitis (MASH), alcohol use disorder (AUD), and alcohol-associated liver disease (ALD). As of December 31, 2025, over 700 patients have been exposed to pemvidutide across 8 completed and 2 ongoing clinical studies.",
+  "tags": [
+    "metabolic-dysfunction-associated-steatohepatitis-(mash)",
+    "alcohol-use-disorder-(aud)",
+    "alcohol-associated-liver-disease-(ald)",
+    "metabolic-dysfunction-associated-liver-disease-(masld)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ALT",
+  "origin": {
+    "leaf": "94342c7a792d6c14e3b535da79cc6df6431419f0c36f36f4d99314a6340072a1",
+    "parent": "3687ae0a7845c1df3d6ae51d33e34191dd96cfddabc56441462cf1b3558cd4ec",
+    "timestamp": "2026-04-12T03:12:51.486Z",
+    "source": "0001326190-26-000018",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/94342c7a792d6c14e3b535da79cc6df6431419f0c36f36f4d99314a6340072a1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.486Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "KLNG",
+  "name": "Koil Energy Solutions, Inc.",
+  "cik": "0001110607",
+  "exchange": "OTC",
+  "sic": "3533",
+  "sic_description": "Oil & Gas Field Machinery & Equipment",
+  "state_of_incorporation": "NV",
+  "headquarters": "Houston, Texas",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Koil Energy Solutions, Inc. is a Nevada-based energy services company providing equipment and support services to offshore energy and marine industries. Core offerings include steel tube flying leads (LSFL), umbilical termination assemblies, bend stiffener latchers, spooling services, testing and commissioning, storage management, and equipment refurbishment. Products serve major integrated, large independent, and foreign national energy companies in offshore oil and gas, with capabilities applicable to offshore wind, hydrogen, and LNG markets.",
+  "tags": [
+    "offshore-oil-and-gas",
+    "offshore-wind",
+    "offshore-wave-energy",
+    "hydrogen",
+    "liquefied-natural-gas-(lng)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/KLNG",
+  "origin": {
+    "leaf": "f2c2dca4b8a0e48014826d741698c7a3cbe9a0ea6760b1330200e88f9bcf651e",
+    "parent": "e64d145881371821056e8685708b39f5f246a55d6c420d7f88a730cd11270c07",
+    "timestamp": "2026-04-12T03:12:52.797Z",
+    "source": "0001683168-26-002462",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f2c2dca4b8a0e48014826d741698c7a3cbe9a0ea6760b1330200e88f9bcf651e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.797Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

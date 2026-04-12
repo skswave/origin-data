@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PAGP",
+  "name": "PLAINS GP HOLDINGS LP",
+  "cik": "0001581990",
+  "summary": "BusinessMember srt:ScenarioForecastMember 2026-03-31 0001581990 us-gaap:DiscontinuedOperationsHeldforsaleMember pagp:NGLBusinessMember 2025-12-31 0001581990 us-gaap:DiscontinuedOperationsHeldforsaleMember pagp:NGLBusinessMember 2024-12-31 0001581990 us-gaap:ProductMember us-gaap:DiscontinuedOperationsHeldforsaleMember pagp:NGLBusinessMember 2025-01-01 2025-12-31 0001581990 us-gaap:ProductMember us-gaap:DiscontinuedOperationsHeldforsaleMember pagp:NGLBusinessMember 2024-01-01 2024-12-31 000158199...",
+  "live_api": "https://origin.rootz.global/api/company/PAGP/profile",
+  "origin": {
+    "leaf": "7363c3f54922a31ce80c2ba3f5cbb861ed2cf71e4adade17f6d351949bec9558",
+    "parent": "48d22024682c4eb001e7559ade4d0179c8ea56801a82ba896af70f875eeaf6d7",
+    "timestamp": "2026-04-12T03:12:55.225Z",
+    "source": "profile:0001581990",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7363c3f54922a31ce80c2ba3f5cbb861ed2cf71e4adade17f6d351949bec9558",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.225Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CNC",
+  "name": "CENTENE CORP",
+  "cik": "0001071739",
+  "exchange": "NYSE",
+  "sic": "6324",
+  "sic_description": "Hospital & Medical Service Plans",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I OVERVIEW Our mission is to transform the health of the communities we serve, one person at a time. As the nation's largest managed care company focused on underserved populations, Centene is committed to helping people live healthier lives. Centene offers affordable and high-quality products to more than 1 in 15 individuals across the nation, including Medicaid and Medicare members (including Medicare Prescription Drug Plans) as well as individuals and families served by the Health Insura...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CNC",
+  "origin": {
+    "leaf": "795823ce3d592241318e88957318435dfe8536c51b719ef0fea26bf8f01f3ed2",
+    "parent": "c5f7c3a2b01737c8454b10e88603420077c332a49ff962826939b0370b197da8",
+    "timestamp": "2026-04-12T03:12:50.440Z",
+    "source": "0001071739-26-000049",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/795823ce3d592241318e88957318435dfe8536c51b719ef0fea26bf8f01f3ed2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.440Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "COF",
+  "name": "CAPITAL ONE FINANCIAL CORP",
+  "cik": "0000927628",
+  "summary": "Capital One Financial Corporation is a Delaware corporation that operates under the 2004 Stock Incentive Plan, granting performance unit awards to executives. The provided filing excerpt is an equity compensation agreement for CEO Richard D. Fairbank, detailing performance unit vesting tied to Total Shareholder Return (TSR) relative to a peer group over a three-year performance period from January 1, 2026 to December 31, 2028.",
+  "products": [
+    {
+      "name": "2004 Stock Incentive Plan Performance Unit Award",
+      "type": "service",
+      "description": "Equity compensation instrument granting performance units to executives, vesting based on TSR relative to a defined peer group over a three-year performance period."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/COF/profile",
+  "origin": {
+    "leaf": "d1c732e56f38ca68946aa04d08cc398ff72173039e93d332850a1a76ae34700f",
+    "parent": "7038c545cb5e884a00c9d532035790ff2b84102e8cb7f0d2d37136fe4973e6c0",
+    "timestamp": "2026-04-12T03:12:54.719Z",
+    "source": "profile:0000927628",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d1c732e56f38ca68946aa04d08cc398ff72173039e93d332850a1a76ae34700f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.719Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

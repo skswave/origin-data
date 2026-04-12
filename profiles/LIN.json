@@ -1,0 +1,107 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LIN",
+  "name": "LINDE PLC",
+  "cik": "0001707925",
+  "summary": "Linde plc is the largest industrial gas company worldwide, producing and distributing atmospheric gases (oxygen, nitrogen, argon, rare gases) and process gases (hydrogen, helium, carbon dioxide, carbon monoxide, electronic gases, specialty gases, acetylene). The company also designs and builds industrial gas production plants including air separation, hydrogen, olefin, and natural gas plants. Linde serves healthcare, chemicals, energy, manufacturing, metals, mining, food and beverage, and electronics industries, with approximately 64% of 2025 sales outside the United States.",
+  "products": [
+    {
+      "name": "Oxygen",
+      "type": "hardware",
+      "description": "Atmospheric gas produced via cryogenic or non-cryogenic air separation for industrial and medical use."
+    },
+    {
+      "name": "Nitrogen",
+      "type": "hardware",
+      "description": "Atmospheric gas produced via air separation, distributed on-site, merchant bulk, or packaged cylinders."
+    },
+    {
+      "name": "Argon",
+      "type": "hardware",
+      "description": "Atmospheric gas produced as part of cryogenic air separation process."
+    },
+    {
+      "name": "Hydrogen",
+      "type": "hardware",
+      "description": "Process gas produced via SMR, ATR, or electrolysis; includes conventional, low-carbon (blue), and renewable (green) variants."
+    },
+    {
+      "name": "Helium",
+      "type": "hardware",
+      "description": "Sourced from helium-rich natural gas streams in the US and internationally, distributed in bulk and cylinders."
+    },
+    {
+      "name": "Carbon Dioxide",
+      "type": "hardware",
+      "description": "Sourced as industrial by-product, purified to commercial and food-grade quality."
+    },
+    {
+      "name": "Carbon Monoxide",
+      "type": "hardware",
+      "description": "Produced via SMR or ATR of natural gas or naphtha feedstock."
+    },
+    {
+      "name": "Acetylene",
+      "type": "hardware",
+      "description": "Sourced as chemical by-product or produced from calcium carbide and water."
+    },
+    {
+      "name": "Specialty Gases and Mixtures",
+      "type": "hardware",
+      "description": "Wide range of specialty gases and mixtures distributed in cylinders for various industries."
+    },
+    {
+      "name": "Rare Gases (Krypton, Neon, Xenon)",
+      "type": "hardware",
+      "description": "Produced as part of cryogenic air separation process."
+    },
+    {
+      "name": "Air Separation Plants",
+      "type": "hardware",
+      "description": "Engineered plants designed and built by Linde for production of atmospheric gases."
+    },
+    {
+      "name": "Hydrogen and Synthesis Gas Plants",
+      "type": "hardware",
+      "description": "Engineered plants for hydrogen and synthesis gas production sold to customers or operated by Linde."
+    },
+    {
+      "name": "Olefin and Natural Gas Plants",
+      "type": "hardware",
+      "description": "Engineered processing plants for petrochemical and natural gas industries."
+    },
+    {
+      "name": "VPSA Technology",
+      "type": "platform",
+      "description": "Vacuum pressure swing adsorption technology for on-site production of gaseous oxygen and nitrogen."
+    },
+    {
+      "name": "Membrane Separation Technology",
+      "type": "platform",
+      "description": "Non-cryogenic technology for on-site production of gaseous oxygen and nitrogen."
+    },
+    {
+      "name": "Digital Services and Solutions",
+      "type": "service",
+      "description": "Digital offerings to increase plant efficiency and performance for engineering customers."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LIN/profile",
+  "origin": {
+    "leaf": "13118726c9dc09cc441eabf36e198edcef715bc994f73a7cb0e2674c2a1dc9e0",
+    "parent": "d11dc7302ac8c4825c75028b3ee7e355b69adf2dc27e9bef7f17e794aa37f5b9",
+    "timestamp": "2026-04-12T03:12:54.691Z",
+    "source": "profile:0001707925",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/13118726c9dc09cc441eabf36e198edcef715bc994f73a7cb0e2674c2a1dc9e0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.691Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

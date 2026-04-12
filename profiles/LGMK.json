@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LGMK",
+  "name": "LogicMark, Inc.",
+  "cik": "0001566826",
+  "summary": "LogicMark, Inc. (LGMK) provides personal emergency response systems (PERS), health communications devices, and IoT technology forming a connected care platform. Products include two-way voice communication pendants, fall detection devices, and mobile safety apps sold direct-to-consumer via eCommerce and Amazon, through dealers and resellers, and directly to the U.S. Veterans Health Administration (VHA). The company has sold over 900,000 PERS devices since 2012, with over 700,000 sold to the U.S. government.",
+  "products": [
+    {
+      "name": "Guardian Alert 911 Plus",
+      "type": "hardware",
+      "description": "Two-way voice pendant with fall detection, 4G cellular, 911 direct dial, no monthly fee, IP-67 water-resistant."
+    },
+    {
+      "name": "Freedom Alert",
+      "type": "hardware",
+      "description": "Two-way voice landline-based in-home pendant with 911 forwarding, up to 600ft range, no monthly fee."
+    },
+    {
+      "name": "Freedom Alert Mini",
+      "type": "hardware",
+      "description": "4G LTE mobile PERS device with fall detection, GPS, geofencing, 24/7 monitoring, monthly monitoring fee."
+    },
+    {
+      "name": "Freedom Alert Max",
+      "type": "hardware",
+      "description": "4G LTE PERS unit and cellular phone with fall detection, GPS, geofencing, emergency caregiver video, and unlimited calling."
+    },
+    {
+      "name": "LifeSentry Monitored PERS",
+      "type": "hardware",
+      "description": "Monitored PERS product sold direct-to-consumers through the Company's website beginning in 2023."
+    },
+    {
+      "name": "Aster",
+      "type": "platform",
+      "description": "On-the-go personal safety app with 24/7 monitoring and Bluetooth button, released in early 2024."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "U.S. Veterans Health Administration (VHA)",
+      "partnership_type": "strategic",
+      "description": "Long-standing direct sales partnership; over 700,000 PERS devices sold to VHA since 2012.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. General Services Administration (GSA)",
+      "partnership_type": "strategic",
+      "description": "Five-year GSA Agreement awarded July 2021, renewable up to 25 years, enabling sales to federal, state, and local governments.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LGMK/profile",
+  "origin": {
+    "leaf": "07e5eaa802da4af9b31150d7a45a73c824c8f9d5bf4efeef1728f8ded39735ee",
+    "parent": "29d5cb0d9a32a01cb5bbe5dfa31580235bf0dafe87f65ffd940257ae92bea801",
+    "timestamp": "2026-04-12T03:12:59.230Z",
+    "source": "profile:0001566826",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/07e5eaa802da4af9b31150d7a45a73c824c8f9d5bf4efeef1728f8ded39735ee",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.230Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

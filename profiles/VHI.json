@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VHI",
+  "name": "VALHI INC /DE/",
+  "cik": "0000059255",
+  "summary": "Valhi, Inc. is a holding company operating through subsidiaries in three segments: Chemicals (Kronos Worldwide, a leading global TiO2 pigment producer selling to ~3,000 customers in 100 countries), Component Products (CompX International, manufacturer of security products and marine accessories), and Real Estate Management and Development (BMI and LandWell, developing commercial, industrial, and residential land in Henderson, Nevada).",
+  "products": [
+    {
+      "name": "Titanium Dioxide (TiO2) Pigments",
+      "type": "hardware",
+      "description": "White inorganic pigment used in paints, plastics, paper, fibers, ceramics, inks, cosmetics, and pharmaceuticals."
+    },
+    {
+      "name": "Security Products",
+      "type": "hardware",
+      "description": "Locks and security products for postal, recreational transportation, office furniture, cabinetry, tool storage, and healthcare industries."
+    },
+    {
+      "name": "Wake Enhancement Systems",
+      "type": "hardware",
+      "description": "Wake enhancement systems, stainless steel exhaust systems, gauges, throttle controls, and trim tabs for recreational marine industry."
+    },
+    {
+      "name": "Land Development",
+      "type": "service",
+      "description": "Commercial, industrial, and residential land development in Henderson, Nevada through LandWell Company."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Venator Investments, Ltd.",
+      "partnership_type": "strategic",
+      "description": "Kronos held a 50% joint venture interest in Louisiana Pigment Company, L.P. with Venator prior to acquiring Venator's stake in July 2024.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VHI/profile",
+  "origin": {
+    "leaf": "d9909777b4352db7cfa5c2aa3f35d553f42c240368f8b4cb0d031eb14ecc8f18",
+    "parent": "3ce3892c51fdd44395cb5b59dcf7a7227454795ed31b8463e823d199ba29e971",
+    "timestamp": "2026-04-12T03:12:56.510Z",
+    "source": "profile:0000059255",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d9909777b4352db7cfa5c2aa3f35d553f42c240368f8b4cb0d031eb14ecc8f18",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.510Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

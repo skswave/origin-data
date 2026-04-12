@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LWAY",
+  "name": "Lifeway Foods, Inc.",
+  "cik": "0000814586",
+  "summary": "Lifeway Foods, Inc. is a food and beverage company that produces and sells kefir and other cultured dairy products. The company markets these products to consumers through retail channels. Lifeway is subject to commodity pricing, competition, and regulatory factors typical of the food manufacturing industry.",
+  "products": [
+    {
+      "name": "Kefir",
+      "type": "service",
+      "description": "Cultured dairy beverage product sold to consumers through retail channels."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LWAY/profile",
+  "origin": {
+    "leaf": "e810f0b13b6dfa9f6d35892c3e3b6a7dc12d0cbac328c93af1ca49119e4e1994",
+    "parent": "58d2f2e59e5ee838ff5f63386c9dd33c2ed2131590e29699f274f959acc4291a",
+    "timestamp": "2026-04-12T03:12:56.758Z",
+    "source": "profile:0000814586",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e810f0b13b6dfa9f6d35892c3e3b6a7dc12d0cbac328c93af1ca49119e4e1994",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.758Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "KTCC",
+  "name": "KEY TRONIC CORP",
+  "cik": "0000719733",
+  "summary": "Key Tronic Corporation is a contract manufacturer providing integrated electronic and mechanical engineering, precision plastic molding, sheet metal fabrication, printed circuit board assembly, component sourcing, worldwide logistics, and product testing. Originally founded as a computer keyboard manufacturer, the company now serves OEM customers across multiple industries from facilities in the United States, Mexico, China, and Vietnam, differentiating itself through vertical integration and design engineering support.",
+  "products": [
+    {
+      "name": "Printed Circuit Board Assembly",
+      "type": "service",
+      "description": "SMT and pin through hole PCB assembly for OEM customers"
+    },
+    {
+      "name": "Precision Plastic Molding",
+      "type": "service",
+      "description": "Injection molding and liquid injection molding for product components"
+    },
+    {
+      "name": "Sheet Metal Fabrication",
+      "type": "service",
+      "description": "Precision metal stamping, fabricating, finishing, and painting"
+    },
+    {
+      "name": "Product Design and Engineering",
+      "type": "service",
+      "description": "Research, development, and engineering support including prototype design"
+    },
+    {
+      "name": "Complex Product Assembly",
+      "type": "service",
+      "description": "Full product assembly and automated functional testing for OEM products"
+    },
+    {
+      "name": "Worldwide Logistics",
+      "type": "service",
+      "description": "Component sourcing, procurement, and global supply-chain management"
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/KTCC/profile",
+  "origin": {
+    "leaf": "26180a4b4b8d54376f287d7c31ff5df33d4869b69fc4451b567e100fe064ec09",
+    "parent": "e8a35ad8c60a327021c7cbd4010137fb9b7424480c61316d4ba7159f690a93c3",
+    "timestamp": "2026-04-12T03:12:58.063Z",
+    "source": "profile:0000719733",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/26180a4b4b8d54376f287d7c31ff5df33d4869b69fc4451b567e100fe064ec09",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.063Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

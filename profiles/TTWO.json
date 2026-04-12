@@ -1,0 +1,113 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TTWO",
+  "name": "TAKE TWO INTERACTIVE SOFTWARE INC",
+  "cik": "0000946581",
+  "summary": "Take-Two Interactive Software is a leading developer, publisher, and marketer of interactive entertainment globally. The company develops, operates, and publishes products through Rockstar Games, 2K, and Zynga labels. Key franchises include Grand Theft Auto (445M+ units sold), Red Dead Redemption 2 (70M+ units), and NBA 2K. Products span console, PC, and mobile platforms, with revenue from game sales, in-game purchases, virtual currency, live services, and advertising.",
+  "products": [
+    {
+      "name": "Grand Theft Auto V",
+      "type": "software",
+      "description": "Action/adventure game released in 2013, sold-in over 210 million units worldwide, includes Grand Theft Auto Online."
+    },
+    {
+      "name": "Grand Theft Auto VI",
+      "type": "software",
+      "description": "Upcoming title planned for release May 26, 2026, during fiscal year 2027."
+    },
+    {
+      "name": "Grand Theft Auto Online",
+      "type": "platform",
+      "description": "Online multiplayer component of Grand Theft Auto V with ongoing live services and virtual currency."
+    },
+    {
+      "name": "GTA+",
+      "type": "service",
+      "description": "Membership program offering rotating benefits including access to classic Rockstar Games titles."
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "type": "software",
+      "description": "Action/adventure game with over 70 million units sold worldwide; critically and commercially acclaimed."
+    },
+    {
+      "name": "NBA 2K",
+      "type": "software",
+      "description": "Sports simulation franchise; major revenue driver across console, PC, and mobile platforms."
+    },
+    {
+      "name": "NBA 2K Online",
+      "type": "platform",
+      "description": "Top online PC sports game in China, offered through partnership with Tencent."
+    },
+    {
+      "name": "Civilization: Eras and Allies",
+      "type": "software",
+      "description": "Strategy game offered in China through partnership with Tencent."
+    },
+    {
+      "name": "L.A. Noire",
+      "type": "software",
+      "description": "Action/adventure franchise published by Rockstar Games."
+    },
+    {
+      "name": "Max Payne",
+      "type": "software",
+      "description": "Action franchise published by Rockstar Games."
+    },
+    {
+      "name": "Midnight Club",
+      "type": "software",
+      "description": "Racing franchise published by Rockstar Games."
+    },
+    {
+      "name": "Red Dead Redemption",
+      "type": "software",
+      "description": "Action/adventure franchise published by Rockstar Games."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Tencent",
+      "partnership_type": "strategic",
+      "description": "Partnership to offer NBA 2K Online and Civilization: Eras and Allies in China.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Sony",
+      "partnership_type": "OEM",
+      "description": "Products developed and published for PlayStation 4 and PlayStation 5 platforms.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Microsoft",
+      "partnership_type": "OEM",
+      "description": "Products developed and published for Xbox One and Xbox Series X|S platforms.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Nintendo",
+      "partnership_type": "OEM",
+      "description": "Products developed and published for the Nintendo Switch platform.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TTWO/profile",
+  "origin": {
+    "leaf": "46fb9c5b5cc95eaa9f241482ac41397a35218b61f998bd3b8181feb17e0c5c59",
+    "parent": "340af82ecc5a4df3cea3016361874681b032fb2d635d22d0a808f05dbcfa0229",
+    "timestamp": "2026-04-12T03:12:54.813Z",
+    "source": "profile:0000946581",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/46fb9c5b5cc95eaa9f241482ac41397a35218b61f998bd3b8181feb17e0c5c59",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.813Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

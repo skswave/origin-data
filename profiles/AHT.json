@@ -1,0 +1,58 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AHT",
+  "name": "ASHFORD HOSPITALITY TRUST INC",
+  "cik": "0001232582",
+  "summary": "Ashford Hospitality Trust, Inc. is a Maryland corporation and real estate investment trust (REIT) focused on the lodging and hospitality industry. The company owns and invests in hotel properties across the United States. It is externally advised by Ashford Hospitality Advisors LLC and utilizes affiliated service providers including Remington Lodging & Hospitality for hotel management and Premier Project Management for capital projects.",
+  "products": [
+    {
+      "name": "Hotel Property Ownership",
+      "type": "service",
+      "description": "Ownership and investment in lodging/hotel properties operated as a REIT."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Ashford Hospitality Advisors LLC (Ashford LLC)",
+      "partnership_type": "strategic",
+      "description": "External advisor managing the company's business and investment strategy.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Remington Lodging & Hospitality, LLC",
+      "partnership_type": "strategic",
+      "description": "Affiliated hotel management company providing lodging operations services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Premier Project Management LLC",
+      "partnership_type": "strategic",
+      "description": "Affiliated company providing capital project management services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Braemar Hotels & Resorts Inc.",
+      "partnership_type": "strategic",
+      "description": "Related party with potential conflicts of interest noted in the filing.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AHT/profile",
+  "origin": {
+    "leaf": "9a1df11f8c1cbb4e143c11b9f3d6a403715f6732eb27544d23e97e83e9cb4fc2",
+    "parent": "2fb1383ca4305f77991bca84007ba4210a6bc8e5ffe9c90182744b2c7151e93d",
+    "timestamp": "2026-04-12T03:12:58.284Z",
+    "source": "profile:0001232582",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9a1df11f8c1cbb4e143c11b9f3d6a403715f6732eb27544d23e97e83e9cb4fc2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.284Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

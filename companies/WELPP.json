@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "WELPP",
+  "name": "WISCONSIN ELECTRIC POWER CO",
+  "cik": "0000107815",
+  "exchange": "OTC",
+  "sic": "4911",
+  "sic_description": "Electric Services",
+  "state_of_incorporation": "WI",
+  "headquarters": "Milwaukee, Wisconsin",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Wisconsin Electric Power Company (WE) is a regulated utility providing electric and natural gas service. It operates electric generation facilities including coal, natural gas combustion turbines, reciprocating engines, biomass, solar, wind, and battery storage assets. WE also distributes natural gas through local distribution infrastructure. The company operates under the WEC Energy Group corporate umbrella and is regulated by the PSCW and FERC.",
+  "tags": [
+    "electric-utility",
+    "natural-gas-distribution",
+    "renewable-energy",
+    "regulated-energy-markets",
+    "clean-air-act-(caa)",
+    "mercury-and-air-toxics-standards-(mats)",
+    "national-ambient-air-quality-standards-(naaqs)",
+    "steam-electric-effluent-limitation-guidelines-(elg)",
+    "coal-combustion-residual-(ccr)-regulations",
+    "zero-liquid-discharge-(zld)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/WELPP",
+  "origin": {
+    "leaf": "ef4151380857037fd78d92a9365d7bc08bc8759f9158f5b3cb9a215ce4a4ee78",
+    "parent": "a1c61ad61aedb16c46935294905c7c606614f25934574285ebe4bda53a7858de",
+    "timestamp": "2026-04-12T03:12:54.268Z",
+    "source": "0000107815-26-000003",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ef4151380857037fd78d92a9365d7bc08bc8759f9158f5b3cb9a215ce4a4ee78",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.268Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

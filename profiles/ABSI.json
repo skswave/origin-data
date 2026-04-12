@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ABSI",
+  "name": "Absci Corp",
+  "cik": "0001672688",
+  "summary": "Overview We are a clinical-stage biopharmaceutical company using an AI-native approach to develop differentiated antibody therapeutics. Our integrated drug creation platform combines Origin-1, our generative design model, with rapid validation using our lab-in-the-loop. We focus on underexplored mechanisms where unmet medical need is high and competition is low. We have advanced our first two programs from AI design to IND (or foreign equivalent) in around two years with a total investment of ap...",
+  "live_api": "https://origin.rootz.global/api/company/ABSI/profile",
+  "origin": {
+    "leaf": "5a98ed0e7b07ac2171a69a29a8e32b3bcb976a40f044fa884fdcbcac7187d894",
+    "parent": "73d277e0eb1f328cc07c2148ef3804de6f743159f8d218a5abbf6fad6471f9a4",
+    "timestamp": "2026-04-12T03:12:56.433Z",
+    "source": "profile:0001672688",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5a98ed0e7b07ac2171a69a29a8e32b3bcb976a40f044fa884fdcbcac7187d894",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.433Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

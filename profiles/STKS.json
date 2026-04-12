@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "STKS",
+  "name": "ONE Group Hospitality, Inc.",
+  "cik": "0001399520",
+  "summary": "ONE Group Hospitality, Inc. (ticker: STKS) is a hospitality company that develops and operates upscale and polished casual dining restaurants and lounges. The company is known for its STK steakhouse brand, offering a modern dining experience. It operates owned, managed, and licensed food and beverage venues across various locations.",
+  "products": [
+    {
+      "name": "STK Steakhouse",
+      "type": "service",
+      "description": "Upscale steakhouse restaurant brand offering modern dining and lounge experiences."
+    },
+    {
+      "name": "Food and Beverage Management Services",
+      "type": "service",
+      "description": "Managed and licensed food and beverage venue operations for third-party properties."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/STKS/profile",
+  "origin": {
+    "leaf": "a3cacccec165b6b4164dc8a9ea40c28f22269cded8d28abbb3f0bd8974e3dc9a",
+    "parent": "128c9eb99d8ba116242f0bb452f649567bb28c3a78b5358d9f9e4aac55f5a145",
+    "timestamp": "2026-04-12T03:12:57.754Z",
+    "source": "profile:0001399520",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a3cacccec165b6b4164dc8a9ea40c28f22269cded8d28abbb3f0bd8974e3dc9a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.754Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

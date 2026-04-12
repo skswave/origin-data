@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MFIN",
+  "name": "MEDALLION FINANCIAL CORP",
+  "cik": "0001000209",
+  "exchange": "Nasdaq",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Medallion Financial Corp. is a Delaware-incorporated specialty finance company operating through subsidiaries including Medallion Bank (FDIC-insured industrial bank). It originates consumer loans for recreational vehicles, boats, collector cars, and home improvements, as well as commercial subordinated loans to lower middle market businesses. It also provides loan origination services to fintech strategic partners and historically originated taxi medallion loans. Total assets were $2.96 billion as of December 31, 2025.",
+  "tags": [
+    "consumer-recreation-lending-(rvs,-boats,-collector-cars)",
+    "consumer-home-improvement-lending",
+    "commercial-lower-middle-market-lending",
+    "fintech-strategic-partnership-loan-origination",
+    "taxi-medallion-lending-(historical)",
+    "e-sign-compliant-electronic-signatures"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MFIN",
+  "origin": {
+    "leaf": "a95c55fd2c188a902d2299dc47fba615e728ac5f20d489156111eeb22667d0a1",
+    "parent": "848b266c5324759c63b42f97e765e29400b8c0825dc3d2af6c442798f14bc84c",
+    "timestamp": "2026-04-12T03:12:51.896Z",
+    "source": "0001193125-26-100121",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a95c55fd2c188a902d2299dc47fba615e728ac5f20d489156111eeb22667d0a1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.896Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

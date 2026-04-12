@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FMCB",
+  "name": "FARMERS & MERCHANTS BANCORP",
+  "cik": "0001085913",
+  "summary": "Farmers & Merchants Bancorp (FMCB) is a Delaware-registered bank holding company organized in 1999, operating through its wholly-owned subsidiary Farmers & Merchants Bank of Central California (founded 1916). The Bank provides commercial, real estate, agricultural, and consumer loans, equipment leases, deposit products, credit cards, lockbox services, electronic funds transfers, and investment products through 30 full-service branches across California's Central Valley and San Francisco Bay Area counties.",
+  "products": [
+    {
+      "name": "Commercial Loans",
+      "type": "service",
+      "description": "Term loans, lines of credit, letters of credit, and working capital financing for businesses."
+    },
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Lending products secured by commercial real estate properties."
+    },
+    {
+      "name": "Agribusiness Loans",
+      "type": "service",
+      "description": "Agricultural financing products for agribusiness customers."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "Automobile financing, lines of credit, home improvement and home equity lines of credit."
+    },
+    {
+      "name": "Residential Real Estate Loans",
+      "type": "service",
+      "description": "Financing products for individual residential real estate purchases."
+    },
+    {
+      "name": "Equipment Leases",
+      "type": "service",
+      "description": "Equipment leasing products offered to business customers."
+    },
+    {
+      "name": "Deposit Products",
+      "type": "service",
+      "description": "Checking, savings, money market, time certificates of deposit, IRAs, and online banking."
+    },
+    {
+      "name": "Credit Card Program",
+      "type": "service",
+      "description": "Credit card program available for merchants and consumers."
+    },
+    {
+      "name": "Lockbox and Collection Services",
+      "type": "service",
+      "description": "Specialized lockbox and other collection services for commercial accounts."
+    },
+    {
+      "name": "Electronic Funds Transfers",
+      "type": "service",
+      "description": "Domestic and international wire transfers and automated clearinghouse services."
+    },
+    {
+      "name": "Investment Products",
+      "type": "service",
+      "description": "Mutual funds and annuities offered through a third-party provider with investment advisors."
+    },
+    {
+      "name": "Online Banking",
+      "type": "platform",
+      "description": "Online account access and account reconciliation for business and personal customers."
+    },
+    {
+      "name": "Investment Sweep",
+      "type": "service",
+      "description": "Investment sweep services for commercial account customers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party investment advisor provider",
+      "partnership_type": "strategic",
+      "description": "Third party employs investment advisors to offer mutual funds and annuities to Bank customers.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FMCB/profile",
+  "origin": {
+    "leaf": "24b42a672ae8c57e6d9c54cc90ede55efa5ba86cb9592309316a2826c02bbe03",
+    "parent": "02c6db268971e246e2f8d0b5bdff39d621c74de38d75bc7d7054a9b65c29682c",
+    "timestamp": "2026-04-12T03:12:56.118Z",
+    "source": "profile:0001085913",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/24b42a672ae8c57e6d9c54cc90ede55efa5ba86cb9592309316a2826c02bbe03",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.118Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

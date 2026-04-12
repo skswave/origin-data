@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HOFT",
+  "name": "HOOKER FURNISHINGS Corp",
+  "cik": "0001077688",
+  "exchange": "Nasdaq",
+  "sic": "2510",
+  "sic_description": "Household Furniture",
+  "state_of_incorporation": "VA",
+  "headquarters": null,
+  "founded": "1924",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0131",
+  "summary": "Hooker Furnishings Corporation, incorporated in Virginia in 1924, is a designer, marketer, and importer of casegoods, leather furniture, fabric-upholstered furniture, lighting, accessories, and home decor for residential, hospitality, and contract markets. The company operates through three segments: Hooker Branded, Home Meridian, and Domestic Upholstery, with brands including Hooker Furniture, Pulaski Furniture, Samuel Lawrence, Bradington-Young, HF Custom, Shenandoah Furniture, and Sunset West. It also domestically manufactures premium custom upholstered and outdoor furniture.",
+  "tags": [
+    "residential-furnishings",
+    "hospitality-furnishings",
+    "contract-furnishings",
+    "senior-and-assisted-living-facilities",
+    "outdoor-furniture"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HOFT",
+  "origin": {
+    "leaf": "7d37c1b0778eb668ab8738b553f2b4de4dae57dadcf432da3ee4e0401d07e100",
+    "parent": "02c676391023c31e8db1b8fa22500b9d400deb30aa1f612bd3fcef5f74a6541e",
+    "timestamp": "2026-04-12T03:12:52.080Z",
+    "source": "0001185185-25-000321",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7d37c1b0778eb668ab8738b553f2b4de4dae57dadcf432da3ee4e0401d07e100",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.080Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

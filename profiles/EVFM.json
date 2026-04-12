@@ -1,0 +1,45 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EVFM",
+  "name": "Evofem Biosciences, Inc.",
+  "cik": "0001618835",
+  "summary": "Evofem Biosciences, Inc. is a San Diego-based commercial-stage biopharmaceutical company focused on women's sexual and reproductive health. Its primary product, PHEXX (lactic acid, citric acid and potassium bitartrate vaginal gel), is the first FDA-approved non-hormonal prescription contraceptive vaginal gel, launched in September 2020. The company also commercializes SOLOSEC (secnidazole 2g oral granules), a single-dose oral antimicrobial for bacterial vaginosis and trichomoniasis, acquired in July 2024 and relaunched in November 2024.",
+  "products": [
+    {
+      "name": "PHEXX (lactic acid, citric acid and potassium bitartrate vaginal gel)",
+      "type": "service",
+      "description": "First and only FDA-approved non-hormonal prescription contraceptive vaginal gel, used 0-60 minutes prior to intercourse, launched in the U.S. in September 2020."
+    },
+    {
+      "name": "SOLOSEC (secnidazole 2g oral granules)",
+      "type": "service",
+      "description": "FDA-approved single-dose oral antimicrobial for treatment of bacterial vaginosis and trichomoniasis in patients 12 years of age and older."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Pharma 1 Drug Store, LLC",
+      "partnership_type": "licensing",
+      "description": "Licensed commercial rights to PHEXX (July 2024) and SOLOSEC (May 2025) in the MENA and GCC regions; Pharma 1 filed for UAE regulatory approval of PHEXX in June 2025 and SOLOSEC in September 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EVFM/profile",
+  "origin": {
+    "leaf": "f08f04301964d3bf5f4c8ca8e208c517d31310e6ab1f8640e01661ae8870d36f",
+    "parent": "dd9ee19de857f6afca502726ac7a0817ddfb393e08675557f20f511ccb3739b9",
+    "timestamp": "2026-04-12T03:12:59.126Z",
+    "source": "profile:0001618835",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f08f04301964d3bf5f4c8ca8e208c517d31310e6ab1f8640e01661ae8870d36f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.126Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

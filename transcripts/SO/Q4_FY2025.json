@@ -1,0 +1,173 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "SO",
+  "company": "SOUTHERN CO",
+  "title": "SO Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 5365,
+  "speakers": [
+    {
+      "name": "Southern Company",
+      "title": "Operating Revenues   $ 6,981   $ 6,341   10",
+      "firm": "981   $ 6",
+      "speaker_type": "other",
+      "mention_count": 56
+    },
+    {
+      "name": "Total",
+      "title": "As Reported   $ (0",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 25
+    },
+    {
+      "name": "Net Income",
+      "title": "Excluding Items” in the table below, Southern Company earned $612 million, or $0",
+      "firm": "Southern Company earned $612 million",
+      "speaker_type": "other",
+      "mention_count": 17
+    },
+    {
+      "name": "Southern Company Gas",
+      "title": "Operating Revenues   $ 1,492   $ 1,236   20",
+      "firm": "492   $ 1",
+      "speaker_type": "other",
+      "mention_count": 12
+    },
+    {
+      "name": "Alabama Power",
+      "title": "Operating Revenues   $ 1,937   $ 1,751   10",
+      "firm": "937   $ 1",
+      "speaker_type": "other",
+      "mention_count": 7
+    },
+    {
+      "name": "Southern Power",
+      "title": "Operating Revenues   $   472   $   417   13",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 7
+    },
+    {
+      "name": "Georgia Power",
+      "title": "Operating Revenues   $ 2,713   $ 2,586   4",
+      "firm": "713   $ 2",
+      "speaker_type": "other",
+      "mention_count": 4
+    },
+    {
+      "name": "Mississippi Power",
+      "title": "Operating Revenues   $   394   $   345   14",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 4
+    },
+    {
+      "name": "Change  Earnings Per Share",
+      "title": "As Reported (1)   $ 0",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 2
+    },
+    {
+      "name": "ATLANTA",
+      "title": "Southern Company today reported fourth-quarter earnings of $416 million, or $0",
+      "firm": "or $0",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "SO",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 13,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SO EPS",
+      "predicate": "reported",
+      "object": "$0.38",
+      "value": 0.38,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SO",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SO",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SO",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SO",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SO",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai_compute"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/SO/transcripts",
+  "origin": {
+    "leaf": "42190cccf7c1c8bd37e44af3d41599351e236ed2a8498349c23dbd455d7dc92c",
+    "parent": "fe5a56179541075bc7e3cb984f427dfc9f4b1da5da6f3703d963381b31117f26b994a48a12c1dfa6c89b814fe7cb227e",
+    "timestamp": "2026-04-12T03:13:01.205Z",
+    "source": "transcript:SO_SO-Earnings-Release-Q4-2025.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/42190cccf7c1c8bd37e44af3d41599351e236ed2a8498349c23dbd455d7dc92c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.205Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

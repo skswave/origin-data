@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EVTC",
+  "name": "EVERTEC, Inc.",
+  "cik": "0001559865",
+  "exchange": "NYSE",
+  "sic": "7374",
+  "sic_description": "Services-Computer Processing & Data Preparation",
+  "state_of_incorporation": "PR",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Except as otherwise indicated or unless the context otherwise requires, (a) the terms EVERTEC, we, us, our, our Company and the Company refer to EVERTEC, Inc. and its subsidiaries on a consolidated basis and, (b) the term EVERTEC Group refers to EVERTEC Group, LLC and its predecessor entities and their subsidiaries on a consolidated basis. EVERTEC Inc.s subsidiaries include Holdings, EVERTEC Group; EVERTEC Dominicana, SAS; Evertec Chile Holdings SpA; Evertec Chile SpA; Evertec Chile Global SpA; ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EVTC",
+  "origin": {
+    "leaf": "ac5b904cea5a288eb712f51ff102e02799a08fd68bcbc3aa5dd0f0378ffe6557",
+    "parent": "73791c8f3e58e23680a629d0dba325b4d2cd13ad574e33e112cb939f5e8fb518",
+    "timestamp": "2026-04-12T03:12:50.915Z",
+    "source": "0001559865-26-000012",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ac5b904cea5a288eb712f51ff102e02799a08fd68bcbc3aa5dd0f0378ffe6557",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.915Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

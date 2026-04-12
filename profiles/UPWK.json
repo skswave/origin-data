@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UPWK",
+  "name": "UPWORK, INC",
+  "cik": "0001627475",
+  "summary": "Upwork Inc. operates work marketplace platforms connecting businesses with global talent across freelance, agency, fractional, and payrolled work types. Its core offering is the Upwork Marketplace, a human and AI-powered platform for on-demand skilled talent across 10,000+ skills in 130+ categories. Its subsidiary Lifted provides enterprise contingent workforce solutions including independent contractor, AOR, EOR, staff augmentation, and managed services. With customers in 180+ countries, Upwork enabled $4.0 billion GSV for the year ended December 31, 2025.",
+  "products": [
+    {
+      "name": "Upwork Marketplace",
+      "type": "platform",
+      "description": "Human and AI-powered work marketplace connecting businesses with on-demand skilled independent talent worldwide across 10,000+ skills."
+    },
+    {
+      "name": "Lifted",
+      "type": "service",
+      "description": "Enterprise-focused subsidiary providing contingent workforce solutions including sourcing, contracting, compliance, and payment across multiple engagement models."
+    },
+    {
+      "name": "Upwork Payroll",
+      "type": "service",
+      "description": "Enables clients to work with talent found on Upwork as employees through third-party staffing providers."
+    },
+    {
+      "name": "Uma (Upwork's Mindful AI)",
+      "type": "software",
+      "description": "AI-based solution offered as part of Upwork's platform and workforce solutions portfolio."
+    },
+    {
+      "name": "Connects",
+      "type": "platform",
+      "description": "Virtual tokens required for talent to bid on projects and purchase ad products on the Upwork Marketplace."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party staffing providers",
+      "partnership_type": "strategic",
+      "description": "Upwork partners with third-party staffing firms to employ talent under Upwork Payroll and Managed Services arrangements.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UPWK/profile",
+  "origin": {
+    "leaf": "615469f1020bf1267807522c3d1c67526d62fedc2b5ee7c98bda137a718c876f",
+    "parent": "2e5d8c51045cf67638862d36b1947075effdb03f71dd0154ec8a614ad60d3b7a",
+    "timestamp": "2026-04-12T03:12:55.839Z",
+    "source": "profile:0001627475",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/615469f1020bf1267807522c3d1c67526d62fedc2b5ee7c98bda137a718c876f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.839Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

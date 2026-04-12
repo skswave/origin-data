@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PRSU",
+  "name": "Pursuit Attractions & Hospitality, Inc.",
+  "cik": "0000884219",
+  "summary": "Pursuit Attractions and Hospitality, Inc. is a global attractions and hospitality company operating 17 sightseeing attractions and 29 lodges across the U.S., Canada, Iceland, and Costa Rica. Offerings include gondola rides, glacier tours, wildlife cruises, geothermal lagoons, eco-luxury resorts, aerial tramways, suspension bridges, and guided tours in iconic national park destinations, complemented by food and beverage, retail, and transportation services.",
+  "products": [
+    {
+      "name": "Banff Gondola",
+      "type": "service",
+      "description": "Mountain gondola transporting visitors to 7,000+ feet above sea level on Sulphur Mountain, Banff, Alberta."
+    },
+    {
+      "name": "Columbia Icefield Adventure and Ice Odyssey",
+      "type": "service",
+      "description": "Glacier tours on Athabasca Glacier using specially designed Ice Explorer vehicles and intimate Ice Odyssey experience."
+    },
+    {
+      "name": "Columbia Icefield Skywalk",
+      "type": "service",
+      "description": "1,312-foot guided walkway with 98-foot glass-floored observation deck overlooking Sunwapta Valley, Jasper National Park."
+    },
+    {
+      "name": "Lake Minnewanka Cruise",
+      "type": "service",
+      "description": "Interpretive boat cruises, small boat rentals, and charter fishing on Lake Minnewanka in the Canadian Rockies."
+    },
+    {
+      "name": "Maligne Lake Cruise",
+      "type": "service",
+      "description": "Interpretive boat tours, marina, and watercraft rentals at Maligne Lake, largest lake in Jasper National Park."
+    },
+    {
+      "name": "Golden Skybridge",
+      "type": "service",
+      "description": "Two suspension bridges with zip line, canyon challenge course, and mountain coaster in Golden, British Columbia."
+    },
+    {
+      "name": "Jasper SkyTram",
+      "type": "service",
+      "description": "Aerial tramway ascending to 8,081 feet on Whistlers Mountain offering 360-degree views and hiking trail access."
+    },
+    {
+      "name": "Open Top Touring",
+      "type": "service",
+      "description": "Guided sightseeing tours of Banff in custom open-topped automobiles inspired by 1930s-era local tours."
+    },
+    {
+      "name": "Kenai Fjords Tours",
+      "type": "service",
+      "description": "Wildlife, whale watching, and glacier cruises in Kenai Fjords National Park ranging from half-day to full-day trips."
+    },
+    {
+      "name": "Glacier Raft Company",
+      "type": "service",
+      "description": "Guided fishing and river rafting trips in West Glacier, Montana, near Glacier National Park."
+    },
+    {
+      "name": "Flyover Attractions",
+      "type": "service",
+      "description": "Immersive flying journey experiences using flight motion seats and a 65-foot spherical screen with special effects."
+    },
+    {
+      "name": "Sky Lagoon",
+      "type": "service",
+      "description": "Oceanfront geothermal lagoon in Kopavogur, Iceland featuring a 70-meter infinity-edge lagoon and Skjol Ritual wellness experience."
+    },
+    {
+      "name": "Tabacon Thermal Resort & Spa",
+      "type": "service",
+      "description": "570-acre eco-luxury rainforest resort in Costa Rica with 105 rooms, thermal rivers, spa, and culinary experiences."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Brogent Technologies Inc.",
+      "partnership_type": "strategic",
+      "description": "Definitive agreement signed January 21, 2026 to sell all Flyover Attractions to Brogent for approximately $78.4 million in cash.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PRSU/profile",
+  "origin": {
+    "leaf": "4f466e8bd3d483121c942493e24dca5c58d3704d85e3aecadfb132ff9783b84c",
+    "parent": "2c3065fad020702a7ed94d04faee5461073c62b2324f1b1ac64923ed86bf4119",
+    "timestamp": "2026-04-12T03:12:55.987Z",
+    "source": "profile:0000884219",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4f466e8bd3d483121c942493e24dca5c58d3704d85e3aecadfb132ff9783b84c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.987Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

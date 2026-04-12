@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SCKT",
+  "name": "SOCKET MOBILE, INC.",
+  "cik": "0000944075",
+  "summary": "Socket Mobile, Inc. designs and markets data capture products, primarily barcode scanners, for mobile computing applications. The company's products are intended to work with third-party hardware and software platforms and are distributed through various channels. Socket Mobile serves markets requiring mobile data collection, including emerging standards such as RFID and Near Field Communications (NFC) for data capture solutions.",
+  "products": [
+    {
+      "name": "Barcode Scanners",
+      "type": "hardware",
+      "description": "Data capture devices designed for mobile computing environments supporting barcode scanning applications."
+    },
+    {
+      "name": "RFID/Near Field Communications Data Capture Products",
+      "type": "hardware",
+      "description": "Data capture products supporting emerging RFID and NFC standards for mobile data collection."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SCKT/profile",
+  "origin": {
+    "leaf": "f722713cb8900bad6e442fdb79f7c18141aa32c10d80ca6085c0fea481ed972b",
+    "parent": "2d8c36e26ce22f707665d3a831e2507a7b674cb497bcd069b322cb72dfc32822",
+    "timestamp": "2026-04-12T03:12:58.680Z",
+    "source": "profile:0000944075",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f722713cb8900bad6e442fdb79f7c18141aa32c10d80ca6085c0fea481ed972b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.680Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NEM",
+  "name": "NEWMONT Corp /DE/",
+  "cik": "0001164727",
+  "exchange": "NYSE",
+  "sic": "1040",
+  "sic_description": "Gold and Silver Ores",
+  "state_of_incorporation": "DE",
+  "headquarters": "Denver, Colorado",
+  "founded": "1921",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Newmont Corporation, incorporated in 1921 and headquartered in Denver, Colorado, is the world's leading gold mining company. It produces gold, copper, silver, lead, and zinc from operations in the United States, Australia, Papua New Guinea, Ghana, Suriname, Argentina, Dominican Republic, Chile, Peru, Ecuador, Mexico, and Canada. As of December 31, 2025, Newmont held attributable proven and probable gold reserves of 118.2 million ounces and an aggregate land position of approximately 19,200 square miles.",
+  "tags": [
+    "gold-mining-and-production",
+    "copper-mining-and-production",
+    "silver-mining-and-production",
+    "lead-mining-and-production",
+    "zinc-mining-and-production",
+    "precious-and-base-metals-markets",
+    "global-industry-standard-on-tailings-management-(gistm)",
+    "national-pollutant-discharge-elimination-system-(npdes)",
+    "u.s.-federal-mine-safety-and-health-act-of-1977-(mine-act)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NEM",
+  "origin": {
+    "leaf": "ebc697c0c35f4429c5eefa47e70aa68910b2d598289a449f21c1ddc685a4c5a7",
+    "parent": "9bcd483df0e490c8fb48a1ae6fb28e18691ee53a5b4f5fb6889a287118428c5f",
+    "timestamp": "2026-04-12T03:12:50.309Z",
+    "source": "0001164727-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ebc697c0c35f4429c5eefa47e70aa68910b2d598289a449f21c1ddc685a4c5a7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.309Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

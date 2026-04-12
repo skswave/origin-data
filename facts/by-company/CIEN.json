@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "CIEN",
+  "total_facts": 12,
+  "by_type": {
+    "topic_mention": 12
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CIEN",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 50,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CIEN",
+      "predicate": "discussed_in_filing",
+      "object": "Networking",
+      "value": 35,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "networking",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CIEN",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 50,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CIEN",
+      "predicate": "discussed_in_filing",
+      "object": "Networking",
+      "value": 35,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "networking",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CIEN",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 50,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CIEN",
+      "predicate": "discussed_in_filing",
+      "object": "Networking",
+      "value": 35,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "networking",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CIEN",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CIEN",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CIEN",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CIEN",
+      "predicate": "discussed_in_filing",
+      "object": "Artificial Intelligence",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CIEN",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CIEN",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CIEN/transcripts",
+  "origin": {
+    "leaf": "4874e9e4de8fbe06d00869f07e279a98e2e507d9545871dd8a7bdeb6895c6b7f",
+    "parent": "b9c482cb3883a52814a15ba38856986e0dbb7f89d183da8e3cba174a5c980270",
+    "timestamp": "2026-04-12T03:13:08.590Z",
+    "source": "facts:CIEN",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4874e9e4de8fbe06d00869f07e279a98e2e507d9545871dd8a7bdeb6895c6b7f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:08.590Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

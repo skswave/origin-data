@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EOG",
+  "name": "EOG RESOURCES INC",
+  "cik": "0000821189",
+  "exchange": "NYSE",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1985",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "EOG Resources, Inc. is a Delaware corporation that explores for, develops, produces, and markets crude oil, natural gas liquids (NGLs), and natural gas. Operations are primarily in major U.S. producing basins including the Delaware Basin, South Texas (Eagle Ford and Dorado plays), Appalachian Basin (Utica play), and Rocky Mountain area, as well as offshore Trinidad, onshore Bahrain, and onshore United Arab Emirates.",
+  "tags": [
+    "u.s.-crude-oil-and-natural-gas-exploration-and-production",
+    "gulf-coast-crude-oil-export-markets",
+    "trinidad-natural-gas-and-crude-oil-markets",
+    "bahrain-gas-exploration",
+    "united-arab-emirates-unconventional-oil-exploration",
+    "midwest-and-northeast-u.s.-natural-gas-markets",
+    "three-dimensional-seismic-data",
+    "microseismic-data",
+    "reservoir-simulation-models",
+    "horizontal-drilling",
+    "formation-evaluation-technologies"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EOG",
+  "origin": {
+    "leaf": "57d317cc2b39004df42e5903af8781dd38491d2dc2a1b0e0f9196615de16b348",
+    "parent": "30fd9e489f50ebc96926415fc1d6d4b5076873503e27d135ad62db45fcda4a5a",
+    "timestamp": "2026-04-12T03:12:50.324Z",
+    "source": "0000821189-26-000054",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/57d317cc2b39004df42e5903af8781dd38491d2dc2a1b0e0f9196615de16b348",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.324Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

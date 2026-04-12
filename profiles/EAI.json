@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EAI",
+  "name": "ENTERGY ARKANSAS, LLC",
+  "cik": "0000007323",
+  "summary": "Entergy Arkansas, LLC (EAI) is a subsidiary of Entergy Corporation operating within the Entergy system of companies. The filing excerpt pertains to the Cash Balance Equalization Plan of Entergy Corporation and Subsidiaries, an unfunded nonqualified benefit plan providing retirement benefits to eligible non-bargaining management employees that exceed IRS limits under the qualified Cash Balance Plan for Non-Bargaining Employees.",
+  "products": [
+    {
+      "name": "Cash Balance Equalization Plan",
+      "type": "service",
+      "description": "Unfunded nonqualified supplemental retirement plan providing benefits to non-bargaining management employees exceeding IRS qualified plan limits."
+    },
+    {
+      "name": "Cash Balance Equalization Plan",
+      "type": "service",
+      "description": "Unfunded nonqualified retirement benefit plan providing eligible non-bargaining management employees benefits exceeding IRS Section 415 and 401(a)(17) limits under the qualified Cash Balance Plan."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EAI/profile",
+  "origin": {
+    "leaf": "8a4cc09ecc29fa8cf0d0b5963f474a5eb52ef68224378fdd9f8628f0d945abe6",
+    "parent": "26a4d3c773fcca75a8e2925f0d10e4f35f66548e63e315f0d020938092b8acb8",
+    "timestamp": "2026-04-12T03:12:56.040Z",
+    "source": "profile:0000007323",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8a4cc09ecc29fa8cf0d0b5963f474a5eb52ef68224378fdd9f8628f0d945abe6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.040Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TRV",
+  "name": "TRAVELERS COMPANIES, INC.",
+  "cik": "0000086312",
+  "summary": "The Travelers Companies, Inc. is a holding company operating through numerous insurance subsidiaries offering property casualty insurance, casualty and surety products, commercial insurance, personal insurance (auto, home, marine), excess and surplus lines, specialty insurance, and reinsurance. It operates in the United States, Canada, United Kingdom, Ireland, Bermuda, and Brazil through entities including The Travelers Indemnity Company, St. Paul Fire and Marine Insurance Company, and Travelers Casualty and Surety Company.",
+  "products": [
+    {
+      "name": "Property Casualty Insurance",
+      "type": "service",
+      "description": "Insurance coverage for property and casualty risks offered through multiple subsidiaries across the U.S. and internationally."
+    },
+    {
+      "name": "Casualty and Surety Insurance",
+      "type": "service",
+      "description": "Casualty and surety bond products offered through Travelers Casualty and Surety Company and related entities."
+    },
+    {
+      "name": "Personal Insurance",
+      "type": "service",
+      "description": "Auto and home insurance products offered through Travelers Personal Insurance Company and related subsidiaries."
+    },
+    {
+      "name": "Marine Insurance",
+      "type": "service",
+      "description": "Marine insurance coverage provided through The Travelers Home and Marine Insurance Company and Travelers Marine LLC."
+    },
+    {
+      "name": "Excess and Surplus Lines Insurance",
+      "type": "service",
+      "description": "Specialty excess and surplus lines coverage offered through Travelers Excess and Surplus Lines Company."
+    },
+    {
+      "name": "Commercial Insurance",
+      "type": "service",
+      "description": "Commercial insurance products offered through Travelers Commercial Insurance Company and related subsidiaries."
+    },
+    {
+      "name": "Specialty Insurance",
+      "type": "service",
+      "description": "Specialty insurance products offered through Travelers Specialty Insurance Company and Northland Insurance Company."
+    },
+    {
+      "name": "Reinsurance",
+      "type": "service",
+      "description": "Reinsurance products offered through Junto Resseguros S.A., a Brazilian affiliate."
+    },
+    {
+      "name": "Digital Insurance Platform (Zensurance)",
+      "type": "platform",
+      "description": "Canadian digital insurance brokerage platform operated through Zensurance Inc. and Zensurance Brokers Inc."
+    },
+    {
+      "name": "Cyber Insurance (Corvus)",
+      "type": "service",
+      "description": "Cyber insurance products and services offered through Corvus Insurance Holdings LLC and related entities."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Junto Holding Brasil S.A.",
+      "partnership_type": "strategic",
+      "description": "Travelers holds a 49.5% interest in Brazilian holding company with subsidiaries Junto Seguros S.A. and Junto Resseguros S.A.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Junto Holding Latam S.A.",
+      "partnership_type": "strategic",
+      "description": "Travelers holds a 49.5% interest in this Brazilian company alongside its Junto Brasil partnership.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TRV/profile",
+  "origin": {
+    "leaf": "cd66c5da5d707187ab2ed250b90c0bb62557ec7994cf7c723afd3f21447ef5ae",
+    "parent": "8e45ab19ed40690dbac4da4f2a8ae63cc9d95e783c69b0554900224ffd0a4524",
+    "timestamp": "2026-04-12T03:12:54.764Z",
+    "source": "profile:0000086312",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cd66c5da5d707187ab2ed250b90c0bb62557ec7994cf7c723afd3f21447ef5ae",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.764Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

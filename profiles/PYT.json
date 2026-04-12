@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PYT",
+  "name": "PPLUS Trust Series GSC-2",
+  "cik": "0001294808",
+  "summary": "PPLUS Trust Series GSC-2 (ticker: PYT) is a statutory trust registered with the SEC under CIK 0001294808. The Item 1 Business section of its 10-K filing states 'Not Applicable,' providing no specific description of business operations, products, or services. Based solely on the filing text provided, no further factual characterization of the company's activities can be made.",
+  "live_api": "https://origin.rootz.global/api/company/PYT/profile",
+  "origin": {
+    "leaf": "3fd34acdccefdb498b1620b3ef465a7aa6f10f281a7ff4c60a88268fa1b0efec",
+    "parent": "6df8a6c3b4e10d95ea9931a106154059087c2a950dd6fc3caee93da0e682278b",
+    "timestamp": "2026-04-12T03:12:59.567Z",
+    "source": "profile:0001294808",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3fd34acdccefdb498b1620b3ef465a7aa6f10f281a7ff4c60a88268fa1b0efec",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.567Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

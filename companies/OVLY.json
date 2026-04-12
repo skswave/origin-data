@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "OVLY",
+  "name": "Oak Valley Bancorp",
+  "cik": "0001431567",
+  "exchange": "Nasdaq",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "CA",
+  "headquarters": "Oakdale, California",
+  "founded": "1991",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Oak Valley Bancorp is a California bank holding company and parent of Oak Valley Community Bank, a state-chartered bank founded in 1991 and headquartered in Oakdale, California. The Bank offers commercial and real estate loans, business and personal deposit accounts, SBA lending, lines of credit, online banking, mobile banking, remote deposit capture, merchant services, and wire transfers. It serves individuals and small to medium-sized businesses across California's Central Valley and Eastern Sierras through nineteen full-service branches.",
+  "tags": [
+    "california-central-valley",
+    "eastern-sierras",
+    "small-to-medium-sized-businesses",
+    "individual-consumers",
+    "commercial-real-estate",
+    "agricultural-communities"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/OVLY",
+  "origin": {
+    "leaf": "65f590517a4b6129a52b1d4636198d93646927e5ff4bdd5575ecd1cfa3e23f20",
+    "parent": "23f2018bb3d053d62a6c665b7e6a568935043a1969c8a2dd220f071296b3789c",
+    "timestamp": "2026-04-12T03:12:51.754Z",
+    "source": "0001437749-26-009757",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/65f590517a4b6129a52b1d4636198d93646927e5ff4bdd5575ecd1cfa3e23f20",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.754Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

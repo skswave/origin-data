@@ -1,0 +1,65 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MFIN",
+  "name": "MEDALLION FINANCIAL CORP",
+  "cik": "0001000209",
+  "summary": "Medallion Financial Corp. is a Delaware-incorporated specialty finance company operating through subsidiaries including Medallion Bank (FDIC-insured industrial bank). It originates consumer loans for recreational vehicles, boats, collector cars, and home improvements, as well as commercial subordinated loans to lower middle market businesses. It also provides loan origination services to fintech strategic partners and historically originated taxi medallion loans. Total assets were $2.96 billion as of December 31, 2025.",
+  "products": [
+    {
+      "name": "Recreation Loans",
+      "type": "service",
+      "description": "Fixed-rate consumer loans for RVs, boats, collector cars, and other recreational equipment; 63% of loans receivable as of Dec 31, 2025."
+    },
+    {
+      "name": "Home Improvement Loans",
+      "type": "service",
+      "description": "Fixed-rate installment loans for window, siding, roof replacement, swimming pools, and other home improvement projects; 32% of loans receivable."
+    },
+    {
+      "name": "Commercial Loans",
+      "type": "service",
+      "description": "Subordinated loans of $2.5M-$6.0M to U.S. lower middle market businesses for acquisitions, recapitalizations, and growth; 5% of loans receivable."
+    },
+    {
+      "name": "Strategic Partnership Loan Origination",
+      "type": "service",
+      "description": "Loan origination and sale services for fintech partners; originated $771.6M in 2025, loans sold without recourse within specified timeframe."
+    },
+    {
+      "name": "Taxi Medallion Loans",
+      "type": "service",
+      "description": "Historically originated taxi medallion loans in NYC metro area; now less than 0.2% of assets as of Dec 31, 2025."
+    },
+    {
+      "name": "Mezzanine Financing (Medallion Capital)",
+      "type": "service",
+      "description": "SBIC-operated mezzanine financing business for small to mid-size businesses."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Fintech companies (unnamed)",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership program launched in 2019 to originate and sell loans facilitated by fintech partners; $771.6M originated in 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MFIN/profile",
+  "origin": {
+    "leaf": "8d398c3e68e640ca440fbb47be454e3f37f2dcd6b70e7ded5dc260433a3b9a94",
+    "parent": "5bfd974468df48e2e8756e029174be0157d90154c73a5244549b6d5005475597",
+    "timestamp": "2026-04-12T03:12:57.004Z",
+    "source": "profile:0001000209",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8d398c3e68e640ca440fbb47be454e3f37f2dcd6b70e7ded5dc260433a3b9a94",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.004Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

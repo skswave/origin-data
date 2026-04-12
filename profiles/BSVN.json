@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BSVN",
+  "name": "Bank7 Corp.",
+  "cik": "0001746129",
+  "summary": "Bank7 Corp. is a bank holding company headquartered in Oklahoma City, Oklahoma, operating through its wholly-owned subsidiary Bank7. It runs twelve full-service branches in Oklahoma, Texas, and Kansas, serving business owners and entrepreneurs. Key services include commercial real estate lending, hospitality lending, energy lending, commercial and industrial lending, consumer lending, and deposit banking products including checking, money market, certificates of deposit, and savings accounts.",
+  "products": [
+    {
+      "name": "Commercial Real Estate Lending",
+      "type": "service",
+      "description": "Loans secured by commercial real estate properties for business customers."
+    },
+    {
+      "name": "Hospitality Lending",
+      "type": "service",
+      "description": "Specialized lending products targeting the hospitality industry."
+    },
+    {
+      "name": "Energy Lending",
+      "type": "service",
+      "description": "Loan products focused on energy sector businesses and projects."
+    },
+    {
+      "name": "Commercial and Industrial Lending",
+      "type": "service",
+      "description": "Loans for commercial and industrial business purposes."
+    },
+    {
+      "name": "Consumer Lending",
+      "type": "service",
+      "description": "Personal loans including residential real estate, auto loans, personal lines of credit, and installment loans."
+    },
+    {
+      "name": "Commercial Deposit Services",
+      "type": "service",
+      "description": "Commercial checking, money market, and other business deposit accounts."
+    },
+    {
+      "name": "Retail Deposit Services",
+      "type": "service",
+      "description": "Certificates of deposit, money market, checking, savings, NOW accounts, and ATM access."
+    },
+    {
+      "name": "Internet and Mobile Banking",
+      "type": "platform",
+      "description": "Online and mobile banking products for retail and commercial customers."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BSVN/profile",
+  "origin": {
+    "leaf": "94a060f2e8aa7acdf66bcc1ae0ce281f76e02fa32f713b10c9e65559fc2e5046",
+    "parent": "00fa8d4652d4a887f412e439f1f5a373293b76af3ce42c0d28c2c0646f8035af",
+    "timestamp": "2026-04-12T03:12:56.556Z",
+    "source": "profile:0001746129",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/94a060f2e8aa7acdf66bcc1ae0ce281f76e02fa32f713b10c9e65559fc2e5046",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.556Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

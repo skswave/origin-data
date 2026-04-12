@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "FCFS",
+  "name": "FirstCash Holdings, Inc.",
+  "cik": "0000840489",
+  "exchange": "Nasdaq",
+  "sic": "5900",
+  "sic_description": "Retail-Miscellaneous Retail",
+  "state_of_incorporation": "DE",
+  "headquarters": "Fort Worth, Texas",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "FirstCash Holdings, Inc. is the leading operator of pawn stores in the U.S., Latin America, and the U.K., operating over 3,300 pawnshops as of December 31, 2025. The Company provides non-recourse pawn loans collateralized by personal property such as jewelry, electronics, tools, and appliances, and sells pre-owned merchandise. It also operates AFF, a retail point-of-sale payment solutions business offering lease-to-own and retail financing products across a network of merchant partners.",
+  "tags": [
+    "u.s.-pawn-lending-and-retail-(29-states-and-district-of-columbia)",
+    "latin-america-pawn-lending-and-retail-(mexico,-guatemala,-el-salvador,-colombia)",
+    "u.k.-pawn-lending-and-retail-(england,-scotland,-wales)",
+    "retail-point-of-sale-payment-solutions-(u.s.)",
+    "unbanked-and-under-banked-consumers",
+    "credit-constrained-consumers"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/FCFS",
+  "origin": {
+    "leaf": "bc7a5e5ecd3f81013a94998bc9f17d512a8135e5529b5ae673d9b3e69c276c17",
+    "parent": "3b5c952d505228d600bdf7ab0dcc02f5db2f3f1fd2336d8209bd1809a3ff7fa9",
+    "timestamp": "2026-04-12T03:12:50.531Z",
+    "source": "0000840489-26-000032",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bc7a5e5ecd3f81013a94998bc9f17d512a8135e5529b5ae673d9b3e69c276c17",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.531Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "GVA",
+  "name": "GRANITE CONSTRUCTION INC",
+  "cik": "0000861459",
+  "exchange": "NYSE",
+  "sic": "1600",
+  "sic_description": "Heavy Construction Other Than Bldg Const - Contractors",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Introduction Granite Construction Company was incorporated in 1922. In 1990, Granite Construction Incorporated was formed as the holding company for Granite Construction Company and its wholly-owned and consolidated subsidiaries and was incorporated in Delaware. Unless otherwise indicated, the terms we, us, our, Company and Granite refer to Granite Construction Incorporated and its wholly-owned and consolidated subsidiaries. We deliver infrastructure solutions for public and private clien...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 200,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/GVA",
+  "origin": {
+    "leaf": "4a0d0e812405dade238bc50270a10a47d4fa82ecfad29b1f231559ddd4f70e31",
+    "parent": "450e2a1a83391f4f3360826141564e777f101f48d0f911158c276c8472d2a6f5",
+    "timestamp": "2026-04-12T03:12:50.626Z",
+    "source": "0000861459-26-000004",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4a0d0e812405dade238bc50270a10a47d4fa82ecfad29b1f231559ddd4f70e31",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.626Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

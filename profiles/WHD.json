@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WHD",
+  "name": "Cactus, Inc.",
+  "cik": "0001699136",
+  "summary": "General Cactus, Inc. (Cactus Inc.) was incorporated on February 17, 2017 as a Delaware corporation for the purpose of completing an initial public offering of equity, which was completed on February 12, 2018 (our IPO). We began operating in August 2011 following the formation of Cactus Wellhead, LLC (Cactus LLC) in part by Scott Bender and Joel Bender, who have owned or operated wellhead manufacturing businesses since the late 1970s. \"The Company\" is primarily engaged in the design, manufacture,...",
+  "live_api": "https://origin.rootz.global/api/company/WHD/profile",
+  "origin": {
+    "leaf": "54cdc396d1b8fb6cbc1993687c586b1e88c3d43a2af6a12ebb7d3fa3521ab7b8",
+    "parent": "32c050185e0143a1696044239dc4940f087f5f7a4f42dac5977a2c8d4163c706",
+    "timestamp": "2026-04-12T03:12:55.445Z",
+    "source": "profile:0001699136",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/54cdc396d1b8fb6cbc1993687c586b1e88c3d43a2af6a12ebb7d3fa3521ab7b8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.445Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

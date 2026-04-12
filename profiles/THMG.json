@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "THMG",
+  "name": "THUNDER MOUNTAIN GOLD INC",
+  "cik": "0000711034",
+  "summary": "Thunder Mountain Gold, Inc. is a Nevada-based mineral exploration company focused on gold and other metals. Its primary asset is the South Mountain Project in Idaho, operated through subsidiary South Mountain Mines, Inc. The company also evaluates the Trout Creek Project in Nevada. It conducts geophysical, geochemical, and drilling exploration activities with no current production or revenue.",
+  "products": [
+    {
+      "name": "South Mountain Project",
+      "type": "service",
+      "description": "Gold and mineral exploration project in Idaho operated via Mining Lease with Option to Purchase through subsidiary SMMI."
+    },
+    {
+      "name": "Trout Creek Project",
+      "type": "service",
+      "description": "Mineral exploration property in Lander County, Nevada, being evaluated through geophysical and geochemical studies."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "MFD Investment Holdings SA",
+      "partnership_type": "strategic",
+      "description": "Swiss-based firm granted option to earn 10% interest in South Mountain Project by contributing $1,000,000 in project-related expenditures and technical support.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Idaho State Gold Company II LLC",
+      "partnership_type": "strategic",
+      "description": "Minority member of Owyhee Gold Territory LLC (OGT), receives $5,000 annual advance royalty and potential option payment up to $5 million.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/THMG/profile",
+  "origin": {
+    "leaf": "54f0776ab1bbc7f0b96f215c84591ea85eae7292c0983b5cf3ca388d42c1a284",
+    "parent": "bcff583aeb549f78651861f629c65ac71c7eb4b3580dac661d7af9c6cb2275e3",
+    "timestamp": "2026-04-12T03:12:57.621Z",
+    "source": "profile:0000711034",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/54f0776ab1bbc7f0b96f215c84591ea85eae7292c0983b5cf3ca388d42c1a284",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.621Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

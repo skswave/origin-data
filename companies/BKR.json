@@ -1,0 +1,59 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BKR",
+  "name": "Baker Hughes Co",
+  "cik": "0001701605",
+  "exchange": "Nasdaq",
+  "sic": "3533",
+  "sic_description": "Oil & Gas Field Machinery & Equipment",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Baker Hughes Company is an energy technology company operating in over 120 countries, providing products and services across the energy and industrial value chain. Its two segments, Oilfield Services & Equipment (OFSE) and Industrial & Energy Technology (IET), deliver drilling, completions, artificial lift, subsea systems, gas turbines, compression, LNG equipment, industrial software, and emissions-reduction solutions including CCUS, hydrogen, and geothermal technologies.",
+  "tags": [
+    "upstream-oil-&-gas",
+    "midstream-/-lng",
+    "downstream-/-refining-&-petrochemical",
+    "power-generation-&-utilities",
+    "industrial-manufacturing",
+    "data-centers",
+    "hydrogen",
+    "carbon-capture,-utilization-and-storage-(ccus)",
+    "geothermal-energy",
+    "renewable-energy",
+    "pulp-&-paper",
+    "food-&-beverage",
+    "automotive",
+    "marine-&-aerospace"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BKR",
+  "origin": {
+    "leaf": "3e2c8926681526903fc4c7e3bcce2eddc51a8128c3cb2f4f2ee3ae4c98c2ff7f",
+    "parent": "aa32728204aa0971c604c1f15d13bd52000a055e33f989723f4b85759bd20536",
+    "timestamp": "2026-04-12T03:12:50.337Z",
+    "source": "0001701605-26-000007",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3e2c8926681526903fc4c7e3bcce2eddc51a8128c3cb2f4f2ee3ae4c98c2ff7f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.337Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

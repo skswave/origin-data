@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ELA",
+  "name": "Envela Corp",
+  "cik": "0000701719",
+  "summary": "Envela Corporation is a recommerce and recycling company operating in the contiguous United States. It sources, resells, and recycles luxury hard assets including precious metals, jewelry, and bullion, as well as electronic devices and harvested parts through IT asset disposition (ITAD) services. The company sells through retail stores, online channels, and wholesale channels, serving both individual customers and business partners seeking asset disposition or product return services.",
+  "products": [
+    {
+      "name": "Luxury Hard Assets Recommerce",
+      "type": "service",
+      "description": "Buying, selling, and consigning jewelry, precious metals, and bullion through retail, online, and wholesale channels."
+    },
+    {
+      "name": "IT Asset Disposition (ITAD)",
+      "type": "service",
+      "description": "Disposition and recycling of electronic devices and harvested parts for business partners."
+    },
+    {
+      "name": "Bullion Online Merchandising",
+      "type": "platform",
+      "description": "Online sales initiative for bullion and luxury hard assets."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ELA/profile",
+  "origin": {
+    "leaf": "624e3a847862282b6ce1d765c7ea02f75130eeef1f0abf046c595679e63a696e",
+    "parent": "9a153f3bd954caeb867abf0927c7d8ee1fa74b240b4d5ad8acb3203272fbd87c",
+    "timestamp": "2026-04-12T03:12:56.467Z",
+    "source": "profile:0000701719",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/624e3a847862282b6ce1d765c7ea02f75130eeef1f0abf046c595679e63a696e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.467Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

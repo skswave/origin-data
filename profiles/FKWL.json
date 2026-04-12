@@ -1,0 +1,75 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FKWL",
+  "name": "FRANKLIN WIRELESS CORP",
+  "cik": "0000722572",
+  "summary": "Franklin Wireless Corp (doing business as Franklin Access) is a global provider of integrated wireless solutions using 5G and 4G LTE technologies, including mobile hotspots, fixed wireless routers, and mobile device management (MDM) solutions. The company serves wireless operators, strategic partners, and distributors primarily in North America and Asia. It holds a 66.3% stake in R&D subsidiary Franklin Technology Inc. (FTI) in Seoul and a 60% stake in Sigbeat Inc. in San Diego.",
+  "products": [
+    {
+      "name": "5G/4G LTE Wi-Fi Mobile Hotspot",
+      "type": "hardware",
+      "description": "Portable Wi-Fi hotspot routers providing wireless Internet access with 5G/4G support for multiple devices simultaneously."
+    },
+    {
+      "name": "5G/4G Fixed Wireless Routers",
+      "type": "hardware",
+      "description": "Enhanced routing gateway supporting wired and wireless connectivity as a Cable or DSL service replacement."
+    },
+    {
+      "name": "4G/5G M2M Gateway",
+      "type": "hardware",
+      "description": "Gateway supporting 4G and 5G networks for machine-to-machine communication in industrial and remote monitoring applications (in development)."
+    },
+    {
+      "name": "On-Device Artificial Intelligence (AI)",
+      "type": "hardware",
+      "description": "AI capabilities integrated directly into devices for real-time edge data processing and decision-making for IoT applications (in development)."
+    },
+    {
+      "name": "Quvo Family Guardian - Parental Controls",
+      "type": "software",
+      "description": "Comprehensive parental control features for managing and monitoring children's internet and application usage."
+    },
+    {
+      "name": "Quvo Family Guardian - Senior Care",
+      "type": "software",
+      "description": "Monitoring and assistance features tailored for the safety and well-being of elderly family members."
+    },
+    {
+      "name": "JEXtream MDM",
+      "type": "platform",
+      "description": "Cloud-based telecom grade mobile device management platform ensuring security, compliance, and efficient operation across mobile environments."
+    },
+    {
+      "name": "JEXtream NMS",
+      "type": "platform",
+      "description": "Network Management System providing tools for monitoring, managing, and optimizing network performance and connectivity."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Sigbeat Inc. EMS partner",
+      "partnership_type": "strategic",
+      "description": "Electronic Manufacturing Services partner holding 40% of joint venture Sigbeat Inc., formed for worldwide telecom module sales and marketing.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FKWL/profile",
+  "origin": {
+    "leaf": "a7526ca0cc37276ec3defa03d956b5b0049de964dd82ea44db14db48020e0073",
+    "parent": "3412cad60912982ddf0d689358dfc4de14ab2e6edbe70f86a5ed9cedeb5c828b",
+    "timestamp": "2026-04-12T03:12:57.868Z",
+    "source": "profile:0000722572",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a7526ca0cc37276ec3defa03d956b5b0049de964dd82ea44db14db48020e0073",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.868Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

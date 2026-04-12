@@ -1,0 +1,124 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "FIGR",
+  "total_facts": 8,
+  "by_type": {
+    "topic_mention": 8
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "FIGR",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FIGR",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.9199999999999999,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FIGR",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.9199999999999999,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FIGR",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FIGR",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FIGR",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FIGR",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "FIGR",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FIGR/transcripts",
+  "origin": {
+    "leaf": "c9205a545b0997925e2d07b1db4fc7f6fe7da8b21bf9950c9c09d1c2987e4b57",
+    "parent": "255cbb738c8c776941209162758c5be4ecc8967694739e67274ffdacc281dea9",
+    "timestamp": "2026-04-12T03:13:27.455Z",
+    "source": "facts:FIGR",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c9205a545b0997925e2d07b1db4fc7f6fe7da8b21bf9950c9c09d1c2987e4b57",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:27.455Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

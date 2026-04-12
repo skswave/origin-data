@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TRAD",
+  "name": "APEX Tech Acquisition Inc.",
+  "cik": "0002085485",
+  "exchange": null,
+  "sic": "6770",
+  "sic_description": "Blank Checks",
+  "state_of_incorporation": "E9",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0831",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TRAD",
+  "origin": {
+    "leaf": "10c42b69ed2519db009ff012c321b77ee6ec1ab0ad86635ae2395af8bbaf6d17",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:53.875Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/10c42b69ed2519db009ff012c321b77ee6ec1ab0ad86635ae2395af8bbaf6d17",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.875Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

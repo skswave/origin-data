@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EGHT",
+  "name": "8X8 INC /DE/",
+  "cik": "0001023731",
+  "exchange": "Nasdaq",
+  "sic": "7374",
+  "sic_description": "Services-Computer Processing & Data Preparation",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "Overview 8x8, Inc. (8x8) is a global provider of integrated customer experience and business communications solutions, purpose-built to unify customer and employee engagement across the enterprise. Our Platform for CX combines contact center, business communications, and application programmable interfaces, or APIs, for communications into a single, secure, AI-powered system that delivers seamless, data-driven interactions. Designed for agility and scale, our platform helps businesses eliminate ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 10000,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EGHT",
+  "origin": {
+    "leaf": "1157de7fb3d35497c1ca67a094b951c370c3b5481d4ee4885bde06b7f8bb0948",
+    "parent": "3f3ce44307cb6f79e6ff2c9ae095972824a8cd2970ee06ce4fdfb67f8394e519",
+    "timestamp": "2026-04-12T03:12:51.835Z",
+    "source": "0001023731-25-000039",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1157de7fb3d35497c1ca67a094b951c370c3b5481d4ee4885bde06b7f8bb0948",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.835Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

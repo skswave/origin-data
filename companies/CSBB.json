@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CSBB",
+  "name": "CSB Bancorp, Inc.",
+  "cik": "0000880417",
+  "exchange": "OTC",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "OH",
+  "headquarters": "Millersburg, Ohio",
+  "founded": "1879",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "CSB Bancorp, Inc. is an Ohio-based financial holding company operating through its wholly owned subsidiary, The Commercial and Savings Bank (chartered 1879), and CSB Investment Services, LLC. The Bank provides retail and commercial banking services including checking and savings accounts, time deposits, IRAs, personal loans, commercial loans, real estate mortgage loans, installment loans, safe deposit facilities, brokerage, and trust services to customers in Holmes, Stark, Tuscarawas, Wayne, and surrounding Ohio counties.",
+  "tags": [
+    "retail-banking",
+    "commercial-banking",
+    "commercial-real-estate-lending",
+    "residential-real-estate-lending",
+    "consumer-lending",
+    "trust-and-fiduciary-services",
+    "investment-brokerage",
+    "insurance",
+    "northeast-ohio-community-banking"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 190,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CSBB",
+  "origin": {
+    "leaf": "91cdc7818ba7117a42666dbfa092c0ab430f67dbcf8353c24249e43f2a14c03c",
+    "parent": "34d645c6794556394ec3d236a2c3f97b709a4b5bd0c680239642ea9853c96d07",
+    "timestamp": "2026-04-12T03:12:52.010Z",
+    "source": "0001193125-26-108381",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/91cdc7818ba7117a42666dbfa092c0ab430f67dbcf8353c24249e43f2a14c03c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.010Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PINS",
+  "name": "PINTEREST, INC.",
+  "cik": "0001506293",
+  "summary": "Pinterest, Inc. operates a visual discovery and inspiration platform where users find ideas related to their interests, tastes, and life moments. The platform is accessible via web and mobile applications, offering features such as a Save button and browser extensions. Pinterest monetizes primarily through advertising, offering advertisers tools to reach users. The company also operates Shuffles, a separate application. Pinterest serves users, advertisers, creators, and publishers globally.",
+  "products": [
+    {
+      "name": "Pinterest",
+      "type": "platform",
+      "description": "Visual discovery and inspiration platform accessible via web and mobile for finding and saving ideas."
+    },
+    {
+      "name": "Shuffles",
+      "type": "platform",
+      "description": "Separate Pinterest application distinct from the main MAU count."
+    },
+    {
+      "name": "Save Button",
+      "type": "software",
+      "description": "Browser extension allowing users to save content from across the web to Pinterest."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Amazon Web Services (AWS)",
+      "partnership_type": "strategic",
+      "description": "Provider of the vast majority of Pinterest's compute, storage, data transfer, and other infrastructure services.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PINS/profile",
+  "origin": {
+    "leaf": "f24f24d95aa20e14090d32f24402f572810fb83ceee6e9d20bd92a71c1f7e1ee",
+    "parent": "2524eb44edf8d5d0c3e08194cf8f4c4ee4760ac6c9593dec3d8de321e9fb5a1f",
+    "timestamp": "2026-04-12T03:12:55.002Z",
+    "source": "profile:0001506293",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f24f24d95aa20e14090d32f24402f572810fb83ceee6e9d20bd92a71c1f7e1ee",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.002Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PKE",
+  "name": "PARK AEROSPACE CORP",
+  "cik": "0000076267",
+  "summary": "Park Aerospace Corp. develops and manufactures advanced composite materials, film adhesives, and lightning strike protection materials for global aerospace markets. Products include thermoset prepregs using proprietary resin formulations combined with various reinforcements. The company also designs and fabricates composite structures, assemblies, and low-volume tooling. It serves jet engine manufacturers, commercial and military aircraft OEMs, UAV producers, and rocket motor customers. Manufacturing and R&D are located in Newton, Kansas.",
+  "products": [
+    {
+      "name": "Advanced Composite Prepregs",
+      "type": "hardware",
+      "description": "Thermoset curing prepregs using proprietary epoxy, phenolic, polyester, cyanate ester, and polyimide resin formulations with woven and unidirectional reinforcements."
+    },
+    {
+      "name": "Film Adhesives",
+      "type": "hardware",
+      "description": "Aerospace-grade film adhesives used in composite structure manufacturing."
+    },
+    {
+      "name": "Lightning Strike Protection Materials",
+      "type": "hardware",
+      "description": "Specialty materials providing lightning strike protection for composite aerospace structures."
+    },
+    {
+      "name": "SigmaStrut and AlphaStrut",
+      "type": "hardware",
+      "description": "Proprietary composite strut product lines targeting prototype, special mission, and legacy aircraft spares markets."
+    },
+    {
+      "name": "Specialty Ablative Materials",
+      "type": "hardware",
+      "description": "Materials for rocket motor heat shields, nozzles, and exhaust gas management devices using carbonized rayon fabric reinforcements."
+    },
+    {
+      "name": "Radome Materials",
+      "type": "hardware",
+      "description": "Specially designed composite materials for radome applications minimizing signal loss and distortion."
+    },
+    {
+      "name": "Composite Structures and Assemblies",
+      "type": "service",
+      "description": "Design, fabrication, and assembly of composite parts and low-volume tooling for aerospace customers, including build-to-print services."
+    },
+    {
+      "name": "RAYCARB C2B NG Distribution",
+      "type": "service",
+      "description": "Exclusive North American distribution of ArianeGroup's RAYCARB C2B NG ablative composite material for rocketry and missile systems."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "ArianeGroup SAS",
+      "partnership_type": "strategic",
+      "description": "Park is the exclusive North American distributor of ArianeGroup's RAYCARB C2B NG ablative material; Park also agreed to advance up to €4,587,000 to fund ArianeGroup's additional manufacturing equipment.",
+      "start_date": null
+    },
+    {
+      "partner_name": "GE Aerospace",
+      "partnership_type": "OEM",
+      "description": "GE Aerospace affiliate and non-affiliate subtier suppliers accounted for 39.8%, 37.7%, and 41.2% of Park's total worldwide net sales in fiscal 2025, 2024, and 2023 respectively.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PKE/profile",
+  "origin": {
+    "leaf": "1101f910bf1db5c45185b880960a590f4017b32a2509fd5af7cdda69e35e10b7",
+    "parent": "fd30219d73b3a536845a443e05829bcaaab4f2bf3b9f2a25dde70e4b116ab129",
+    "timestamp": "2026-04-12T03:12:56.325Z",
+    "source": "profile:0000076267",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1101f910bf1db5c45185b880960a590f4017b32a2509fd5af7cdda69e35e10b7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.325Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FBCD",
+  "name": "FBC Holding, Inc.",
+  "cik": "0001370816",
+  "summary": "FBC Holding, Inc. is a Nevada holding company operating through its Bomb Factory division, focused on marketing and distributing exclusively licensed and patented extreme sports products. Its flagship product is the FBC Flowboard, a 14-wheel skateboard with a patented Deep Carve System retailing at $89.99. The company also licenses the Snowskate and Snowchuck products, targeting extreme sports enthusiasts in specialty and mass retail channels.",
+  "products": [
+    {
+      "name": "FBC Flowboard",
+      "type": "hardware",
+      "description": "14-wheel skateboard with patented Deep Carve System allowing 45-degree carving turns, retails at $89.99, available in 32-inch and 36-inch models."
+    },
+    {
+      "name": "Snowskate",
+      "type": "hardware",
+      "description": "Skateboard that converts to a snowskate by swapping wheels for patent-pending skis fitting on existing truck sets."
+    },
+    {
+      "name": "Snowchuck",
+      "type": "hardware",
+      "description": "Patented snowball maker and launcher allowing one-handed snowball making and throwing without hand getting cold."
+    },
+    {
+      "name": "DuoRail",
+      "type": "hardware",
+      "description": "Unique rail system for skateboarders that instantly switches from round to flat top rail, developed by Kevin Wright."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Sport Technology, Inc.",
+      "partnership_type": "licensing",
+      "description": "Exclusive licensing rights to develop, market and sell Flowboard, Flow Saucer, and Snowskate products, formalized November 21, 2012.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Michael Kern",
+      "partnership_type": "strategic",
+      "description": "Consulting agreement for development, marketing and sale of licensed extreme sports products; Kern serves as VP of Marketing and Distribution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "AiroUSA, Inc.",
+      "partnership_type": "strategic",
+      "description": "Affiliation through COO Kevin Wright, who sells skateboards and apparel through AiroUSA, a Colorado corporation.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FBCD/profile",
+  "origin": {
+    "leaf": "2de8d507144149a39a748ed66632131b2064e6c5f97ee771ab9a034937702ed9",
+    "parent": "3440e061e8ad5529d1524c6de753da1ddfe6c3bc0c2d3bcc5cdbf9213a6fa86a",
+    "timestamp": "2026-04-12T03:12:59.142Z",
+    "source": "profile:0001370816",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2de8d507144149a39a748ed66632131b2064e6c5f97ee771ab9a034937702ed9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.142Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

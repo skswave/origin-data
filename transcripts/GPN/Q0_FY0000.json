@@ -1,0 +1,160 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "GPN",
+  "company": "GLOBAL PAYMENTS INC",
+  "title": "GPN   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 2550,
+  "speakers": [
+    {
+      "name": "Genius",
+      "title": "New Hardware  Flexible, modular design to grow with our customers  © 2026 Global Payments Inc",
+      "firm": "modular design to grow with our customers  © 2026 Global Payments",
+      "speaker_type": "other",
+      "mention_count": 7
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "GPN",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "GPN",
+      "predicate": "guided",
+      "object": "Expect to deliver $200 million",
+      "value": 200,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "GPN",
+      "predicate": "stated",
+      "object": "we believe that the plans and expectations reflected in any forward-looking statements are based on reasonable assumptions, we can give no assurance that our pl",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GPN",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GPN",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GPN",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GPN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GPN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GPN",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GPN",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GPN",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GPN",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/GPN/transcripts",
+  "origin": {
+    "leaf": "2aeb08c1bc082a50471a9b1a117b42532cb37e0c1e3e67277786579e161f87d6",
+    "parent": "d352d778bfd4bb13c77a2103a945d48f14398f3583c699d0783b4ca9e49eb901b688611d4ad4b673037c58fe630a28e1",
+    "timestamp": "2026-04-12T03:13:00.781Z",
+    "source": "transcript:GPN_4Q+2025+Earnings+Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2aeb08c1bc082a50471a9b1a117b42532cb37e0c1e3e67277786579e161f87d6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.781Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

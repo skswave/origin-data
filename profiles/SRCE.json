@@ -1,0 +1,33 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SRCE",
+  "name": "1ST SOURCE CORP",
+  "cik": "0000034782",
+  "summary": "The provided text is an auditor consent exhibit (Exhibit 23) from 1st Source Corporation's 10-K filing, not a business description. It documents Forvis Mazars, LLP's consent to incorporate their audit reports into various SEC registration statements. No specific business operations, products, or services of 1st Source Corporation are described in this excerpt.",
+  "partnerships": [
+    {
+      "partner_name": "Forvis Mazars, LLP",
+      "partnership_type": "strategic",
+      "description": "Independent registered public accounting firm providing audit reports for 1st Source Corporation's consolidated financial statements and internal control over financial reporting.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SRCE/profile",
+  "origin": {
+    "leaf": "a78b89a47cdc44f805b3a5c80d778c9209537eeb1f8626baeedcf8ec1b2ee696",
+    "parent": "cb9552df23fcec9c23414f7364eb6f96a11e67da881c16ec9bb451e912693c49",
+    "timestamp": "2026-04-12T03:12:55.744Z",
+    "source": "profile:0000034782",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a78b89a47cdc44f805b3a5c80d778c9209537eeb1f8626baeedcf8ec1b2ee696",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.744Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

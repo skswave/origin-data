@@ -1,0 +1,85 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ARLP",
+  "name": "ALLIANCE RESOURCE PARTNERS LP",
+  "cik": "0001086600",
+  "summary": "Alliance Resource Partners, L.P. (ARLP) is a diversified energy company primarily engaged in coal mining operations through its subsidiary Alliance Coal, LLC. It produces bituminous coal for electricity generation and steel production, and holds oil & gas mineral interests through Alliance Minerals, LLC. ARLP also operates coal minerals interests via Alliance Resource Properties and has other growth investments including technology subsidiaries under the Matrix Group.",
+  "products": [
+    {
+      "name": "Bituminous Coal",
+      "type": "service",
+      "description": "Coal used primarily to generate electricity and to make coke for the steel industry, with heat value ranging between 10,500 and 15,500 Btus per pound."
+    },
+    {
+      "name": "Metallurgical Coal",
+      "type": "service",
+      "description": "Coal primarily used in the production of steel."
+    },
+    {
+      "name": "Oil & Gas Mineral Interests",
+      "type": "service",
+      "description": "Royalty and mineral interests in oil and gas properties held through Alliance Minerals, LLC and subsidiaries."
+    },
+    {
+      "name": "Matrix Group Technology Products",
+      "type": "hardware",
+      "description": "Technology products and services provided through Alliance Design, ASI, and Matrix Design subsidiaries."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Ascend Elements, Inc.",
+      "partnership_type": "strategic",
+      "description": "ARLP has an investment relationship with Ascend Elements, Inc.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Infinitum Electric, Inc.",
+      "partnership_type": "strategic",
+      "description": "ARLP has an investment relationship with Infinitum Electric, Inc.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Gavin Generation Holdings A, LP",
+      "partnership_type": "strategic",
+      "description": "ARLP has an investment relationship with Gavin Generation.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Francis Renewable Energy, LLC",
+      "partnership_type": "strategic",
+      "description": "ARLP has an investment relationship with Francis Renewable Energy.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bluegrass Minerals Management, LLC",
+      "partnership_type": "strategic",
+      "description": "ARLP has a relationship with Bluegrass Minerals Management.",
+      "start_date": null
+    },
+    {
+      "partner_name": "CSX Transportation, Inc.",
+      "partnership_type": "strategic",
+      "description": "CSX referenced as a transportation partner for coal operations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ARLP/profile",
+  "origin": {
+    "leaf": "85ad116c7043b52a83b54dff50512ddf4a3c54ed45ceb3cb92886eeb185bf750",
+    "parent": "57f1e594f4df8fdf7840bdfcc0044c33d1aa359b38916d0a71602568930e329c",
+    "timestamp": "2026-04-12T03:12:55.407Z",
+    "source": "profile:0001086600",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/85ad116c7043b52a83b54dff50512ddf4a3c54ed45ceb3cb92886eeb185bf750",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.407Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

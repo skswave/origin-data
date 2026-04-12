@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "IDR",
+  "name": "Idaho Strategic Resources, Inc.",
+  "cik": "0001030192",
+  "exchange": "NYSE",
+  "sic": "1040",
+  "sic_description": "Gold and Silver Ores",
+  "state_of_incorporation": "ID",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Idaho Strategic Resources, Inc. (IDR) is a mining company focused on gold and critical minerals exploration and production. The company operates properties in Idaho, with activities spanning mineral exploration, development, and extraction. IDR is involved in the gold mining sector as well as strategic and critical minerals relevant to domestic resource needs.",
+  "tags": [
+    "gold-mining",
+    "critical-minerals"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/IDR",
+  "origin": {
+    "leaf": "fe3e9d5c70f34189b1ff56144fda3fef5e1a930010ea0e9599641757a0fc1afc",
+    "parent": "e7503955945faddf3c4423b94bf0da4bcd76a40a61855efa2e9877f2bc8b3a3a",
+    "timestamp": "2026-04-12T03:12:51.382Z",
+    "source": "0001654954-26-002560",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fe3e9d5c70f34189b1ff56144fda3fef5e1a930010ea0e9599641757a0fc1afc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.382Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SENR",
+  "name": "Strategic Environmental & Energy Resources, Inc.",
+  "cik": "0001576197",
+  "summary": "Strategic Environmental & Energy Resources, Inc. (SEER) assembles environmental and clean-technology businesses providing waste management, renewable energy, and environmental compliance solutions across North America and international markets. Its subsidiaries include MV Technologies (H2S biogas scrubbers, RNG conditioning), SEER Environmental Materials (biochar production kilns), Paragon Waste Solutions (CoronaLux medical waste destruction technology), and PelleChar (biochar-containing soil amendment pellets). SEER is also pursuing decarbonization technologies and monetization of biochar carbon credits.",
+  "products": [
+    {
+      "name": "H2SPlus",
+      "type": "hardware",
+      "description": "Patented dry scrubber system for managing hydrogen sulfide in biogas and landfill gas operations."
+    },
+    {
+      "name": "OdorFilter",
+      "type": "hardware",
+      "description": "Proprietary dry scrubber solution for odor and H2S management in biogas and petroleum processing."
+    },
+    {
+      "name": "CoronaLux",
+      "type": "hardware",
+      "description": "Patented pyrolytic and non-thermal plasma waste destruction technology for hazardous medical and biological waste."
+    },
+    {
+      "name": "Biochar Production Kilns",
+      "type": "hardware",
+      "description": "Biochar production kilns and related equipment manufactured and sold via joint venture license with Biochar Now, LLC."
+    },
+    {
+      "name": "PelleChar Pellets",
+      "type": "hardware",
+      "description": "Proprietary soil amendment pellets containing Biochar Now product for landscaping and agriculture markets."
+    },
+    {
+      "name": "RNG Conditioning Systems",
+      "type": "hardware",
+      "description": "Proprietary systems to condition biogas for use as renewable natural gas for transportation fuel and pipeline injection."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Biochar Now, LLC",
+      "partnership_type": "licensing",
+      "description": "Joint venture license agreement for biochar production kiln manufacturing and facility operation in northeast Texas.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Eco Tadweer",
+      "partnership_type": "strategic",
+      "description": "Joint venture (Eco SEER Saudi) to market and monetize SEER's technologies in and around the Kingdom of Saudi Arabia.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Amlon Holdings",
+      "partnership_type": "strategic",
+      "description": "SEER sold North American patent rights for CoronaLux in a stock transaction and holds a small minority interest in Amlon Holdings.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SENR/profile",
+  "origin": {
+    "leaf": "bd79f3507d855ae7c36df865f48b0e4ae54fbcff204fc6e64821523fc72e4fd1",
+    "parent": "bb46f28b7b17a085040d4ca5c3375ac2609517b141eef35ae0b2cdf3649006e6",
+    "timestamp": "2026-04-12T03:12:58.975Z",
+    "source": "profile:0001576197",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bd79f3507d855ae7c36df865f48b0e4ae54fbcff204fc6e64821523fc72e4fd1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.975Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

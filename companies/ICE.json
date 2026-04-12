@@ -1,0 +1,58 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ICE",
+  "name": "Intercontinental Exchange, Inc.",
+  "cik": "0001571949",
+  "exchange": "NYSE",
+  "sic": "6200",
+  "sic_description": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "2000",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Intercontinental Exchange, Inc. (ICE) is a leading global provider of technology and data to financial institutions, corporations, and government entities. ICE operates regulated exchanges, clearing houses, and data services across three segments: Exchanges (futures, equities, ETFs via NYSE), Fixed Income and Data Services (pricing, indices, CDS clearing, analytics), and Mortgage Technology (digital workflow tools for U.S. residential mortgage lifecycle). Founded in 2000, ICE is a Fortune 500 company operating 13 regulated exchanges and six clearing houses globally.",
+  "tags": [
+    "energy-futures-and-options",
+    "agricultural-and-metals-futures-and-options",
+    "financial-futures-and-options",
+    "cash-equities-and-equity-options",
+    "fixed-income-data-and-analytics",
+    "cds-clearing",
+    "u.s.-residential-mortgage-technology",
+    "etf-listings-and-trading",
+    "environmental-and-carbon-markets",
+    "multi-asset-class-data-and-connectivity",
+    "request-for-quotation-(rfq)",
+    "central-counterparty-(ccp)-clearing",
+    "national-market-system-plans-(nms-plans)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ICE",
+  "origin": {
+    "leaf": "135060d3d4c928271beb91462d019c8ab88b6428b293b4b1122d4f5c7cb1a28e",
+    "parent": "fadb5470bbc122212d644afe43fdca5d511c7fcbe3bb1c3cbad86470bf13e205",
+    "timestamp": "2026-04-12T03:12:50.318Z",
+    "source": "0001571949-26-000004",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/135060d3d4c928271beb91462d019c8ab88b6428b293b4b1122d4f5c7cb1a28e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.318Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

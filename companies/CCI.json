@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CCI",
+  "name": "CROWN CASTLE INC.",
+  "cik": "0001051470",
+  "exchange": "NYSE",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Crown Castle Inc. (CCI) is a real estate investment trust (REIT) that owns, operates, and leases shared wireless infrastructure in the United States, primarily cell towers. The company provides site rental services to wireless carriers and other tenants, enabling them to deploy and expand their networks. Crown Castle is also in the process of selling its Fiber Business.",
+  "tags": [
+    "u.s.-wireless-infrastructure",
+    "shared-tower-leasing",
+    "telecommunications"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CCI",
+  "origin": {
+    "leaf": "16abd167f1ac5a4451322e3bb2cca2ca6228674c6a7f03461cbdb0784d50b37c",
+    "parent": "8193834cae8e51044bff79c60553d26d5ae143004cc9b080674bb649fb0f2950",
+    "timestamp": "2026-04-12T03:12:50.367Z",
+    "source": "0001051470-26-000016",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/16abd167f1ac5a4451322e3bb2cca2ca6228674c6a7f03461cbdb0784d50b37c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.367Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

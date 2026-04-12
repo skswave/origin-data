@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ORI",
+  "name": "OLD REPUBLIC INTERNATIONAL CORP",
+  "cik": "0000074260",
+  "exchange": "NYSE",
+  "sic": "6351",
+  "sic_description": "Surety Insurance",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Item 1 - Business ($ in Millions, Except Share Data) (a) General Description of Business. Old Republic International Corporation is a Chicago-based holding company engaged in the business of insurance underwriting and related services. It conducts its business through a number of operating companies, which utilize one or more insurance company subsidiaries to issue their policies, and is organized into two segments: Specialty Insurance and Title Insurance. References herein to such segmen...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ORI",
+  "origin": {
+    "leaf": "81fde51b58a9448f0790f03f60953e5efbfae1d812da8b19ef569527e91fe112",
+    "parent": "f150afff64df2594a38c1fbd389ac443b689bfb842dc45f9b5a085d0b8ef937b",
+    "timestamp": "2026-04-12T03:12:50.506Z",
+    "source": "0000074260-26-000008",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/81fde51b58a9448f0790f03f60953e5efbfae1d812da8b19ef569527e91fe112",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.506Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

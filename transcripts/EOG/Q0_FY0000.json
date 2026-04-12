@@ -1,0 +1,152 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "EOG",
+  "company": "EOG RESOURCES INC",
+  "title": "EOG   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 16490,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "EOG",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 23,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EOG",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "EOG",
+      "predicate": "guided",
+      "object": "guidance midpoints  •   Delivered net cash provided by operating activities of $2.6 billion",
+      "value": 2.6,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "EOG",
+      "predicate": "guided",
+      "object": "Outlook  •   Announced $6.5 billion",
+      "value": 6.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EOG",
+      "predicate": "stated",
+      "object": "We expect higher overall activity in the Utica and Dorado, as well as continued advancement of exploration prospects in the UAE and Bahrain",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "EOG",
+      "predicate": "guided",
+      "object": "FY 2025 are adjusted from Impairments (GAAP) for FY 2025 by excluding $657 million",
+      "value": 657,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "EOG",
+      "predicate": "guided",
+      "object": "FY 2024 are adjusted from Impairments (GAAP) for FY 2024 by excluding $291 million",
+      "value": 291,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EOG",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EOG",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EOG",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EOG",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EOG",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/EOG/transcripts",
+  "origin": {
+    "leaf": "e320ca732e6098fcf1bca3f11ae70c4555f175ec9c9a960b84790eff0ee29014",
+    "parent": "96728117e2401a1bc6502e6887adbe586ccfaef503e21bb8c74539bb60f5fc48af2bb98082810ad360df7bc049b60ef2",
+    "timestamp": "2026-04-12T03:13:00.744Z",
+    "source": "transcript:EOG_4Q_2025_Earnings_Press_Release.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e320ca732e6098fcf1bca3f11ae70c4555f175ec9c9a960b84790eff0ee29014",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.744Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

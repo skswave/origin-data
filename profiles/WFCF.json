@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WFCF",
+  "name": "Where Food Comes From, Inc.",
+  "cik": "0001360565",
+  "summary": "Where Food Comes From, Inc. (WFCF) is a leading third-party verification provider for food production practices in North America, supporting approximately 17,500 farmers, ranchers, processors, retailers, and restaurants. The company conducts on-site and desk audits to verify claims such as gluten-free, non-GMO, non-hormone treated, and humane handling across beef, lamb, pork, poultry, fish, dairy, eggs, produce, nuts, grains, and wine. It also offers professional consulting services and a Source Verified retail labeling program connecting consumers to food sources.",
+  "products": [
+    {
+      "name": "Third-Party Verification Audits",
+      "type": "service",
+      "description": "On-site and desk audits verifying food production claims such as non-GMO, gluten-free, non-hormone treated, and humane handling for livestock, aquaculture, crops, and other food products."
+    },
+    {
+      "name": "Where Food Comes From Source Verified Labeling Program",
+      "type": "platform",
+      "description": "Retail and restaurant labeling program using product attribute verification to connect consumers to food sources via product labels and web-based information sharing."
+    },
+    {
+      "name": "Professional Consulting Services",
+      "type": "service",
+      "description": "Consulting services specific to the food and agricultural industry generating incremental revenue and driving sustainable value creation."
+    },
+    {
+      "name": "Technology Solutions",
+      "type": "platform",
+      "description": "Technology solutions for data capture, process improvement, and communicating customer values and practices to consumers in the food and agricultural industry."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Tyson Fresh Meats",
+      "partnership_type": "strategic",
+      "description": "WFCF serves as a third-party auditor for Tyson's Climate-Smart Beef Program, collecting and verifying farm management and operational data to track beef emissions at the individual animal level.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WFCF/profile",
+  "origin": {
+    "leaf": "7ae6e2d86ba7b986d96927479290651b67f245685b7c52a17c2c6c59fe4caa6a",
+    "parent": "4ab45a6161ea755a3750c47dda5dd237f4011f9e81781a96b5a2f99ab6e82da6",
+    "timestamp": "2026-04-12T03:12:57.650Z",
+    "source": "profile:0001360565",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7ae6e2d86ba7b986d96927479290651b67f245685b7c52a17c2c6c59fe4caa6a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.650Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

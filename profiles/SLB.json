@@ -1,0 +1,97 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SLB",
+  "name": "SLB LIMITED/NV",
+  "cik": "0000087347",
+  "summary": "SLB is a global technology company providing energy services and solutions across more than 100 countries. It operates through four divisions: Digital (cloud platforms, AI, seismic data), Reservoir Performance (wireline, stimulation, intervention), Well Construction (drilling, measurements, fluids, equipment), and Production Systems (subsea, artificial lift, completions, valves). SLB also offers Data Center Solutions and carbon capture via SLB Capturi. In 2025, it acquired ChampionX, a leader in chemistry solutions and artificial lift.",
+  "products": [
+    {
+      "name": "Delfi",
+      "type": "platform",
+      "description": "Cloud-based digital platform for energy workflows and reservoir development planning."
+    },
+    {
+      "name": "Lumi",
+      "type": "platform",
+      "description": "Cloud technology platform supporting digital energy solutions."
+    },
+    {
+      "name": "Petrel",
+      "type": "software",
+      "description": "Domain-focused application for reservoir simulation and well planning, offered as SaaS or perpetual license."
+    },
+    {
+      "name": "Techlog",
+      "type": "software",
+      "description": "Specialized application for subsurface data analysis offered as SaaS or perpetual license."
+    },
+    {
+      "name": "Performance Live",
+      "type": "service",
+      "description": "Digital service delivery centers for real-time monitoring and remote decision making in field operations."
+    },
+    {
+      "name": "SLB OneSubsea",
+      "type": "hardware",
+      "description": "Integrated subsea solutions including wellheads, trees, manifolds, and control systems via joint venture."
+    },
+    {
+      "name": "Electrical Submersible Pumps",
+      "type": "hardware",
+      "description": "Artificial lift systems for oil and gas production optimization."
+    },
+    {
+      "name": "Data Center Solutions",
+      "type": "hardware",
+      "description": "Modular data center enclosures, cooling systems, and critical infrastructure for hyperscalers and enterprises."
+    },
+    {
+      "name": "SLB Capturi",
+      "type": "service",
+      "description": "Carbon capture solutions and technologies for hard-to-abate industries including cement and waste-to-energy."
+    },
+    {
+      "name": "Digital Exploration Library",
+      "type": "service",
+      "description": "Licensed seismic surveys and subsurface data supporting exploration, development, and carbon storage decisions."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Aker Solutions ASA",
+      "partnership_type": "strategic",
+      "description": "Owns 20% of SLB OneSubsea joint venture providing integrated subsea solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Subsea7 S.A.",
+      "partnership_type": "strategic",
+      "description": "Owns 10% of SLB OneSubsea joint venture for subsea production systems.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Aker Carbon Capture",
+      "partnership_type": "strategic",
+      "description": "Joint venture partner in SLB Capturi (80% SLB-owned) for industrial carbon capture solutions.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SLB/profile",
+  "origin": {
+    "leaf": "e30e429fae83e3ca3f55210a7b7105dab9c2297ead672802a461bfe22d4c6799",
+    "parent": "c16b6a3c211591350f51d55dae38e07423e9133edb9bce3200d1985443ff7461",
+    "timestamp": "2026-04-12T03:12:54.745Z",
+    "source": "profile:0000087347",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e30e429fae83e3ca3f55210a7b7105dab9c2297ead672802a461bfe22d4c6799",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.745Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

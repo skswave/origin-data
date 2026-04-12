@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NSFDF",
+  "name": "NXT Energy Solutions Inc.",
+  "cik": "0001009922",
+  "summary": "NXT Energy Solutions Inc. (formerly Energy Exploration Technologies Inc.) is a technology company that uses its proprietary airborne Stress Field Detection (SFD) Survey System for oil and gas exploration. The SFD system remotely identifies subsurface structural anomalies associated with potential hydrocarbon traps. NXT provides SFD survey services to oil and gas clients for a fee, including fixed monetary components and/or Gross Overriding Royalties, and also sells identified Prospect Areas to clients.",
+  "products": [
+    {
+      "name": "SFD Survey System",
+      "type": "hardware",
+      "description": "Airborne remote-sensing survey technology using SFD sensors and integrated data acquisition, conditioning, processing, and interpretation subsystems to identify oil and gas prospect areas."
+    },
+    {
+      "name": "SFD Data Interpretation Software",
+      "type": "software",
+      "description": "Customized software used in the SFD data acquisition system, written and modified by outside consulting programmers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "George Liszicasz",
+      "partnership_type": "licensing",
+      "description": "Amended and Restated Technical Service Agreement executed December 31, 2005, securing Liszicasz's SFD technology expertise and know-how for 10 additional years.",
+      "start_date": null
+    },
+    {
+      "partner_name": "GLJ Petroleum Consultants Ltd.",
+      "partnership_type": "strategic",
+      "description": "Conducted independent review and verification of NXT's SFD survey results, releasing a report in December 2005 to demonstrate commercial value of the technology.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NSFDF/profile",
+  "origin": {
+    "leaf": "068e1682d4671fdf87e70d7718d3efa110865c5de168cd1f9d1498c839d6c4fa",
+    "parent": "41db808156ffbd976936d0e9ece1f764667148651578296dcdc0716888fd6a51",
+    "timestamp": "2026-04-12T03:12:57.928Z",
+    "source": "profile:0001009922",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/068e1682d4671fdf87e70d7718d3efa110865c5de168cd1f9d1498c839d6c4fa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.928Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

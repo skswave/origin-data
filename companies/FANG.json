@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "FANG",
+  "name": "Diamondback Energy, Inc.",
+  "cik": "0001539838",
+  "exchange": "Nasdaq",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "BusinessAcquisitionsMember 2025-01-01 2025-12-31 0001539838 us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember fang:NonCoreAssetsSeriesOfIndividuallyImmaterialTransactionsMember 2025-12-31 0001539838 us-gaap:SeriesOfIndividuallyImmaterialAssetAcquisitionsMember 2025-01-01 2025-12-31 0001539838 fang:ViperMember fang:SitioAcquisitionMember 2025-08-19 2025-08-19 0001539838 fang:ViperMember fang:SitioAcquisitionMember 2025-08-19 0001539838 fang:ViperMember fang:SitioAcquisitionPerm...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/FANG",
+  "origin": {
+    "leaf": "6f71bd16e78b824de2802218b303b9168f7875c26aec569cc37d9e46dbac049b",
+    "parent": "ee596ccf614a2658ab4ce73dc7ded50b17498c0af8b805def89dc099ad2e4571",
+    "timestamp": "2026-04-12T03:12:50.341Z",
+    "source": "0001539838-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6f71bd16e78b824de2802218b303b9168f7875c26aec569cc37d9e46dbac049b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.341Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

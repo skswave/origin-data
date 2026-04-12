@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CHDN",
+  "name": "Churchill Downs Inc",
+  "cik": "0000020212",
+  "summary": "PART I Overview Churchill Downs Incorporated (\"CDI\" or the \"Company\") has been creating extraordinary entertainment experiences for over 150 years, beginning with the Companys most iconic and enduring asset, the Kentucky Derby. Headquartered in Louisville, Kentucky, CDI has expanded through the acquisition, development, and operation of live and historical racing entertainment venues, the growth of the online wagering businesses, and the acquisition, development, and operation of regional casino...",
+  "live_api": "https://origin.rootz.global/api/company/CHDN/profile",
+  "origin": {
+    "leaf": "34923e1b47d493775de9bd232204c10211ea31b15254a19f88a5fa309dd3c7ad",
+    "parent": "a92d20c2f3eadad0f55d2c2d97ff30820d2cc21fb6f23f07a1260b761f771244",
+    "timestamp": "2026-04-12T03:12:55.186Z",
+    "source": "profile:0000020212",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/34923e1b47d493775de9bd232204c10211ea31b15254a19f88a5fa309dd3c7ad",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.186Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

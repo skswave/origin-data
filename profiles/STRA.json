@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "STRA",
+  "name": "Strategic Education, Inc.",
+  "cik": "0001013934",
+  "summary": "Strategic Education, Inc. (STRA) is a for-profit higher education company operating postsecondary educational institutions. The company offers undergraduate and graduate degree programs, primarily through online delivery, and operates in the United States as well as Australia and New Zealand. Its institutions serve students seeking career-focused education and are subject to Title IV federal financial aid programs under the Higher Education Act.",
+  "products": [
+    {
+      "name": "Undergraduate Degree Programs",
+      "type": "service",
+      "description": "Career-focused undergraduate education offered primarily online through postsecondary institutions."
+    },
+    {
+      "name": "Graduate Degree Programs",
+      "type": "service",
+      "description": "Graduate-level education programs offered primarily online through postsecondary institutions."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/STRA/profile",
+  "origin": {
+    "leaf": "229079f6adc7e3936d5a397db1efa08d02e5dad96cd81032e8dce3f39173c5f2",
+    "parent": "e2ad73e25c93281d3e8fd477f7facff4c2fdbb78dc33d52cb60e4ce9dfbb358c",
+    "timestamp": "2026-04-12T03:12:55.682Z",
+    "source": "profile:0001013934",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/229079f6adc7e3936d5a397db1efa08d02e5dad96cd81032e8dce3f39173c5f2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.682Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

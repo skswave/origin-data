@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ED",
+  "name": "CONSOLIDATED EDISON INC",
+  "cik": "0001047862",
+  "summary": "PART I Item1:Business Overview Consolidated Edison, Inc. (Con Edison), incorporated in New York State in 1997, is a holding company that owns all of the outstanding common stock of Consolidated Edison Company of New York, Inc. (CECONY), Orange and Rockland Utilities, Inc. (O&R) and Con Edison Transmission, Inc. As used in this report, the term the Companies refers to Con Edison and CECONY, and the term the Utilities refers to CECONY and O&R. Con Edison CECONY O&R Con Edison Transmission RECO Con...",
+  "live_api": "https://origin.rootz.global/api/company/ED/profile",
+  "origin": {
+    "leaf": "2c016dd673feb0f9926cee934988bc49d2fd122f966970d065f5bde2a90502d4",
+    "parent": "7666f48874d0521fece3f5756e5522728714602f88ff4654f64af57f1ca6b876",
+    "timestamp": "2026-04-12T03:12:54.802Z",
+    "source": "profile:0001047862",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2c016dd673feb0f9926cee934988bc49d2fd122f966970d065f5bde2a90502d4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.802Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

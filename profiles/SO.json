@@ -1,0 +1,101 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SO",
+  "name": "SOUTHERN CO",
+  "cik": "0000092122",
+  "summary": "Southern Company is a leading energy company serving the southeastern United States. It operates through traditional electric utilities (Alabama Power, Georgia Power, Mississippi Power), Southern Power (competitive generation), and Southern Company Gas (natural gas distribution via Nicor Gas, Atlanta Gas Light, Virginia Natural Gas, and Chattanooga Gas). The company provides electric generation, transmission, distribution, and natural gas distribution services to residential, commercial, and industrial customers.",
+  "products": [
+    {
+      "name": "Electric Generation and Distribution",
+      "type": "service",
+      "description": "Electric power generation, transmission, and distribution through Alabama Power, Georgia Power, and Mississippi Power."
+    },
+    {
+      "name": "Natural Gas Distribution",
+      "type": "service",
+      "description": "Natural gas distribution services via Nicor Gas, Atlanta Gas Light, Virginia Natural Gas, and Chattanooga Gas."
+    },
+    {
+      "name": "Competitive Wholesale Generation",
+      "type": "service",
+      "description": "Southern Power provides competitive wholesale electric generation including solar, wind, and battery storage."
+    },
+    {
+      "name": "Southern Linc Wireless",
+      "type": "service",
+      "description": "Wireless communications services provided by Southern Communications Services, Inc., doing business as Southern Linc."
+    },
+    {
+      "name": "PowerSecure Services",
+      "type": "service",
+      "description": "Energy solutions and distributed infrastructure services provided by PowerSecure, Inc."
+    },
+    {
+      "name": "Retail Natural Gas Marketing",
+      "type": "service",
+      "description": "SouthStar Energy Services markets retail natural gas in Georgia as a certificated Marketer."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Oglethorpe Power Corporation (OPC)",
+      "partnership_type": "strategic",
+      "description": "Co-owner of Plant Vogtle Units 3 and 4 as part of the Vogtle Owners group.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Municipal Electric Authority of Georgia (MEAG Power)",
+      "partnership_type": "strategic",
+      "description": "Co-owner of Plant Vogtle Units 3 and 4 as part of the Vogtle Owners group.",
+      "start_date": null
+    },
+    {
+      "partner_name": "City of Dalton, Georgia",
+      "partnership_type": "strategic",
+      "description": "Co-owner of Plant Vogtle Units 3 and 4 as part of the Vogtle Owners group.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Southern Electric Generating Company (SEGCO)",
+      "partnership_type": "strategic",
+      "description": "50% owned by each of Alabama Power and Georgia Power for joint generation purposes.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Southern Natural Gas Company (SNG)",
+      "partnership_type": "strategic",
+      "description": "Southern Company Gas holds a 50% ownership interest in this pipeline system.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Dalton Pipeline",
+      "partnership_type": "strategic",
+      "description": "Southern Company Gas holds a 50% undivided ownership interest in this Georgia pipeline facility.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Department of Energy (DOE)",
+      "partnership_type": "strategic",
+      "description": "Georgia Power entered a loan guarantee agreement with DOE for Plant Vogtle Units 3 and 4 construction financing.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SO/profile",
+  "origin": {
+    "leaf": "346755aaee14d0f4def266c136fa7dee3ddd87fdafb2e2e273287243c0ce0225",
+    "parent": "0a0d0a05b6bb98b5d463e0aec39966784d4b3c7b46eee27b6407f6ad08cea33e",
+    "timestamp": "2026-04-12T03:12:54.721Z",
+    "source": "profile:0000092122",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/346755aaee14d0f4def266c136fa7dee3ddd87fdafb2e2e273287243c0ce0225",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.721Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

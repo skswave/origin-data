@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AMT",
+  "name": "AMERICAN TOWER CORP /MA/",
+  "cik": "0001053507",
+  "exchange": "NYSE",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "American Tower Corporation is one of the largest global REITs and a leading independent owner, operator, and developer of multitenant communications real estate. The company leases space on communications sites—including towers, DAS networks, and data centers—to wireless service providers, broadcast companies, government agencies, and enterprises. As of December 31, 2025, its portfolio included 149,686 communications sites across the U.S., Canada, Africa, APAC, Europe, and Latin America, plus 30 data center facilities in the United States.",
+  "tags": [
+    "u.s.-&-canada-wireless-communications-infrastructure",
+    "africa-&-asia-pacific-communications-infrastructure",
+    "europe-communications-infrastructure",
+    "latin-america-communications-infrastructure",
+    "u.s.-data-center-colocation",
+    "radio-and-television-broadcast",
+    "government-and-municipal-communications",
+    "wireless-data-providers"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AMT",
+  "origin": {
+    "leaf": "a4858630251505ba915fc8fa3b135fe8633504de2ebb4c13e19b729770104117",
+    "parent": "d14179da5a58caedc81217d2ca2eec2a5a222d1fa084a806d986c29be8766620",
+    "timestamp": "2026-04-12T03:12:50.322Z",
+    "source": "0001053507-26-000035",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a4858630251505ba915fc8fa3b135fe8633504de2ebb4c13e19b729770104117",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.323Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

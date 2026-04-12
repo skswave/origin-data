@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AIMTF",
+  "name": "Aimfinity Investment Corp. I",
+  "cik": "0001903464",
+  "exchange": "OTC",
+  "sic": "6770",
+  "sic_description": "Blank Checks",
+  "state_of_incorporation": "E9",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AIMTF",
+  "origin": {
+    "leaf": "8605f4d337632b8c00d9657a1ca2a0d2c0e0612e719776c19167d743aa57f6e3",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:53.948Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8605f4d337632b8c00d9657a1ca2a0d2c0e0612e719776c19167d743aa57f6e3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.948Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

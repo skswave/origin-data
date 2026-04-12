@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SAR",
+  "name": "SARATOGA INVESTMENT CORP.",
+  "cik": "0001377936",
+  "summary": "Saratoga Investment Corp. is a specialty finance company providing customized financing solutions to U.S. middle-market businesses (companies with EBITDA of $2M–$50M). It primarily invests in senior and unitranche leveraged loans, mezzanine debt, and equity via direct lending and loan syndication. As of February 28, 2025, it held $1,191.5M in total assets across 48 portfolio companies, with portfolio composition of 88.7% first lien term loans, managed externally by Saratoga Investment Advisors, LLC.",
+  "products": [
+    {
+      "name": "Senior/Unitranche Leveraged Loans",
+      "type": "service",
+      "description": "First lien senior secured term loans to U.S. middle-market companies for ownership changes, acquisitions, recapitalizations, and growth."
+    },
+    {
+      "name": "Mezzanine Debt",
+      "type": "service",
+      "description": "Unsecured subordinated debt investments in middle-market companies to generate current income and capital appreciation."
+    },
+    {
+      "name": "Equity Investments",
+      "type": "service",
+      "description": "Equity stakes in private U.S. middle-market companies as part of broader financing solutions."
+    },
+    {
+      "name": "Saratoga Investment Corp. CLO 2013-1, Ltd.",
+      "type": "platform",
+      "description": "Collateralized loan obligation fund holding $527.1M in senior secured first lien term loans; Saratoga holds subordinated notes."
+    },
+    {
+      "name": "Saratoga Senior Loan Fund I JV LLC (SLF JV)",
+      "type": "platform",
+      "description": "Joint venture with fair value of $19.6M as of February 28, 2025."
+    },
+    {
+      "name": "Saratoga Investment Corp. Senior Loan Fund 2022-1, Ltd.",
+      "type": "platform",
+      "description": "Structured finance vehicle; Saratoga holds Class E Note with fair value of $12.3M as of February 28, 2025."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Saratoga Investment Advisors, LLC",
+      "partnership_type": "strategic",
+      "description": "External investment manager and advisor, affiliated with Saratoga Partners, a middle-market private equity firm.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Saratoga Partners",
+      "partnership_type": "strategic",
+      "description": "Middle-market private equity firm affiliated with external manager Saratoga Investment Advisors, LLC.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SAR/profile",
+  "origin": {
+    "leaf": "776016ac3cfc33df3d5e19ef97d38fbba9596d24023434e8d906be069c5eed42",
+    "parent": "e9e70cf2ef894d34a72161ee975f37e2223972d1ada871d5ca72c5170acb1743",
+    "timestamp": "2026-04-12T03:12:56.603Z",
+    "source": "profile:0001377936",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/776016ac3cfc33df3d5e19ef97d38fbba9596d24023434e8d906be069c5eed42",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.603Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

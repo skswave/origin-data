@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "INFQ",
+  "name": "Infleqtion, Inc.",
+  "cik": "0002007825",
+  "exchange": "NYSE",
+  "sic": "7374",
+  "sic_description": "Services-Computer Processing & Data Preparation",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Glossary As used in this Item 1, unless the context indicates or otherwise requires, the following terms have the following meanings: coherence refers to the ability of a quantum system to maintain a well-defined phase relationship between different states in a superposition (when qubits are in multiple states at the same time). contextual machine learning or CML refers to techniques that enable machine learning models to process large amounts of data simultaneously. entanglement refers t...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/INFQ",
+  "origin": {
+    "leaf": "138c1f5b90b0a6e15ac5ce51dbe21ef1e936015f134ad4b90585363f1e422629",
+    "parent": "3ba3b722bd76b692973723649c0ad39fe2da3443c01146efce20c5120699031a",
+    "timestamp": "2026-04-12T03:12:50.872Z",
+    "source": "0001193125-26-134544",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/138c1f5b90b0a6e15ac5ce51dbe21ef1e936015f134ad4b90585363f1e422629",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.872Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CHEC",
+  "name": "Chenghe Acquisition III Co.",
+  "cik": "0002047177",
+  "summary": "Chenghe Acquisition III Co. is a blank check company incorporated as a Cayman Islands exempted company. Its sole business purpose is to effect a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses, targeting Asian markets or global businesses with a presence in Asia, particularly in e-commerce and consumer sectors. It completed its IPO on September 17, 2025, raising $126.5 million in gross proceeds.",
+  "products": [
+    {
+      "name": "Public Units",
+      "type": "service",
+      "description": "IPO units each consisting of one Class A Ordinary Share and one-half of one redeemable Public Warrant, sold at $10.00 per unit."
+    },
+    {
+      "name": "Private Placement Units",
+      "type": "service",
+      "description": "Units sold in a private placement to co-sponsors and underwriters at $10.00 per unit, consisting of shares and warrants."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "BTIG, LLC",
+      "partnership_type": "strategic",
+      "description": "Underwriter for the IPO who also purchased 126,500 Private Placement Units concurrently with IPO closing.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Odyssey Transfer and Trust Company",
+      "partnership_type": "strategic",
+      "description": "Acts as trustee for the trust account established for the benefit of public shareholders.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Chenghe Group Ltd.",
+      "partnership_type": "strategic",
+      "description": "Affiliated investment holding company with advisory practice; co-sponsors are affiliated with Chenghe Group.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CHEC/profile",
+  "origin": {
+    "leaf": "ab0bc8a46cc95fa9afcb4b46be32fb38ec57a2a27bcdf773b255fdbbaee49152",
+    "parent": "88350ffa5b64e975fe59f6260eee8f0984430634c77622b5f4bbe5c1cf26e519",
+    "timestamp": "2026-04-12T03:12:57.093Z",
+    "source": "profile:0002047177",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ab0bc8a46cc95fa9afcb4b46be32fb38ec57a2a27bcdf773b255fdbbaee49152",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.093Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

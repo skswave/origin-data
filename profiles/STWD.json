@@ -1,0 +1,91 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "STWD",
+  "name": "STARWOOD PROPERTY TRUST, INC.",
+  "cik": "0001465128",
+  "summary": "Starwood Property Trust, Inc. (STWD) is a real estate investment trust (REIT) that operates across multiple segments including commercial and residential lending, infrastructure lending, investing and servicing, and commercial real estate ownership. The company originates and acquires commercial mortgage loans, CMBS, residential loans, B-Notes, mezzanine loans, CLOs, and infrastructure loans primarily in the power and midstream oil and gas industries. It is externally managed by SPT Management, LLC, an affiliate of Starwood Capital Group Global, L.P.",
+  "products": [
+    {
+      "name": "Commercial Mortgage Loans",
+      "type": "service",
+      "description": "Origination and acquisition of loans secured by commercial real estate properties."
+    },
+    {
+      "name": "CMBS Investments",
+      "type": "service",
+      "description": "Investment in commercial mortgage-backed securities including subordinated tranches."
+    },
+    {
+      "name": "Residential Loans",
+      "type": "service",
+      "description": "Acquisition and origination of residential loans including non-QM loans."
+    },
+    {
+      "name": "RMBS Investments",
+      "type": "service",
+      "description": "Investment in residential mortgage-backed securities."
+    },
+    {
+      "name": "Infrastructure Loans",
+      "type": "service",
+      "description": "Lending to infrastructure projects concentrated in power and midstream oil and gas industries."
+    },
+    {
+      "name": "B-Notes",
+      "type": "service",
+      "description": "Acquisition of privately negotiated subordinate commercial real estate debt instruments."
+    },
+    {
+      "name": "Mezzanine Loans",
+      "type": "service",
+      "description": "Origination of mezzanine loans secured by income-producing commercial properties."
+    },
+    {
+      "name": "CLOs",
+      "type": "service",
+      "description": "Sponsorship and investment in junior securities of collateralized loan obligations."
+    },
+    {
+      "name": "Net Lease Properties",
+      "type": "service",
+      "description": "Investment in commercial properties subject to net leases."
+    },
+    {
+      "name": "Special Servicing",
+      "type": "service",
+      "description": "Commercial real estate loan special servicing activities within the Investing and Servicing Segment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Starwood Capital Group Global, L.P.",
+      "partnership_type": "strategic",
+      "description": "Parent organization providing management services through affiliate SPT Management, LLC under a management agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "SPT Management, LLC",
+      "partnership_type": "strategic",
+      "description": "External manager of Starwood Property Trust, affiliate of Starwood Capital Group, providing operational and management services.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/STWD/profile",
+  "origin": {
+    "leaf": "b9b22698bbad5fa9fbbd86c76d8284392b36520d55a17d006f53bcd7f614099c",
+    "parent": "6047df7707e13c88c9d597a0341a5d1e35ba3672a015d250e6652b318905c6ab",
+    "timestamp": "2026-04-12T03:12:55.172Z",
+    "source": "profile:0001465128",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b9b22698bbad5fa9fbbd86c76d8284392b36520d55a17d006f53bcd7f614099c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.172Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

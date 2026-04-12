@@ -1,0 +1,99 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ENVB",
+  "name": "Enveric Biosciences, Inc.",
+  "cik": "0000890821",
+  "summary": "Enveric Biosciences, Inc. is a biotechnology company focused on developing next-generation, small-molecule neuroplastogenic therapeutics for psychiatric and neurological disorders. Its lead candidate, EB-003, a novel DMT derivative, is designed to selectively engage 5-HT2A and 5-HT1B receptors to deliver antidepressant and anxiolytic effects without hallucinogenic properties. The company leverages a proprietary drug discovery platform and patent-protected chemical library (Psybrary) to advance non-hallucinogenic psychedelic-inspired compounds through preclinical and clinical development.",
+  "products": [
+    {
+      "name": "EB-003",
+      "type": "platform",
+      "description": "Lead drug candidate; novel DMT derivative targeting 5-HT2A and 5-HT1B receptors for depression and neuropsychiatric disorders without hallucinogenic effects."
+    },
+    {
+      "name": "EVM301 Series",
+      "type": "platform",
+      "description": "Lead drug program comprising non-hallucinogenic neuroplastogenic small molecules including EB-003 for mental health disorders."
+    },
+    {
+      "name": "EVM401 Series",
+      "type": "platform",
+      "description": "Pipeline drug series targeting addiction and neuropsychiatric disorders with non-hallucinogenic molecules."
+    },
+    {
+      "name": "Psybrary",
+      "type": "platform",
+      "description": "Proprietary library of psychedelic-inspired chemical structures used to identify and develop drug candidates for mental health conditions."
+    },
+    {
+      "name": "EB-003",
+      "type": "platform",
+      "description": "Lead drug candidate, a novel DMT derivative targeting 5-HT2A and 5-HT1B receptors for antidepressant and anxiolytic effects without hallucinations."
+    },
+    {
+      "name": "EVM301 Series",
+      "type": "platform",
+      "description": "Lead program comprising non-hallucinogenic neuroplastogenic compounds including EB-003 for treatment of mental health disorders."
+    },
+    {
+      "name": "EVM401 Series",
+      "type": "platform",
+      "description": "Pipeline series of non-hallucinogenic molecules targeting addiction and neuropsychiatric disorders."
+    },
+    {
+      "name": "Psybrary",
+      "type": "platform",
+      "description": "MagicMed's proprietary library of psychedelic-inspired chemical structures used for drug candidate discovery and development."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "MagicMed Industries Inc.",
+      "partnership_type": "acquisition",
+      "description": "Acquired MagicMed via amalgamation, gaining access to the Psybrary compound library.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Diverse Biotech",
+      "partnership_type": "licensing",
+      "description": "Licensed-in conjugates targeting pain relief for osteoarthritis, rheumatoid arthritis, and cancer via subsidiary Akos Biosciences, Inc.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Jay Pharma Inc.",
+      "partnership_type": "acquisition",
+      "description": "Acquired Jay Pharma Inc. via tender offer in December 2020, leading to company rename to Enveric Biosciences.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Diverse Biotech",
+      "partnership_type": "licensing",
+      "description": "Paid-up license for cannabinoid conjugates targeting pain conditions including osteoarthritis, rheumatoid arthritis, and cancer, sublicensed through Akos Biosciences, Inc.",
+      "start_date": null
+    },
+    {
+      "partner_name": "MagicMed Industries Inc.",
+      "partnership_type": "acquisition",
+      "description": "Acquired via amalgamation in September 2021, providing access to the Psybrary proprietary compound library.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ENVB/profile",
+  "origin": {
+    "leaf": "668c3d4e7a4e82f0bbea17e59d43f7439436a5081c42ca3b7814d1441a483c10",
+    "parent": "bf56b43051be46c5fc68937fb1a29e9169111589f16b940734b2b02cb1f29f0e",
+    "timestamp": "2026-04-12T03:12:58.982Z",
+    "source": "profile:0000890821",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/668c3d4e7a4e82f0bbea17e59d43f7439436a5081c42ca3b7814d1441a483c10",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.982Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

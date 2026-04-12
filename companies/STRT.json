@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "STRT",
+  "name": "STRATTEC SECURITY CORP",
+  "cik": "0000933034",
+  "exchange": "Nasdaq",
+  "sic": "3714",
+  "sic_description": "Motor Vehicle Parts & Accessories",
+  "state_of_incorporation": "WI",
+  "headquarters": "Milwaukee, Wisconsin",
+  "founded": "1995",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0628",
+  "summary": "Strattec Security Corporation, incorporated in 1995 with over 100 years of automotive industry history, designs and manufactures automotive security and access products. Products include mechanical and electronic locks and keys, fobs, passive entry/start systems, digital keys, power sliding doors, power tailgates, lift gate systems, power deck lids, steering wheel switches, e-shifters, and door handles. The company serves North American OEMs including General Motors, Ford, and Stellantis, with operations in Milwaukee, Wisconsin and multiple facilities in Juarez and Leon, Mexico.",
+  "tags": [
+    "north-american-automotive-oem",
+    "light-truck-oem",
+    "automotive-aftermarket",
+    "transportation-industry-oem",
+    "non-automotive-customers",
+    "usmca"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/STRT",
+  "origin": {
+    "leaf": "5ea45d3c7419c28e779d9bc779eac390ab042b773b10d2e5a18ecfe52543c80a",
+    "parent": "52c15f1d3aac7ff1c5ac42c0a73673a6eb3b6dafd27fa37fe77bd9137985068d",
+    "timestamp": "2026-04-12T03:12:51.630Z",
+    "source": "0000950170-25-111218",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5ea45d3c7419c28e779d9bc779eac390ab042b773b10d2e5a18ecfe52543c80a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.630Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ZCAR",
+  "name": "Zoomcar Holdings, Inc.",
+  "cik": "0001854275",
+  "summary": "Zoomcar Holdings, Inc. operates a peer-to-peer car sharing marketplace platform targeting emerging markets, connecting vehicle owners (Hosts) with individuals seeking short and medium-term vehicle rentals (Guests). The company facilitates vehicle bookings through a scalable digital platform, primarily operating in India via its subsidiary Zoomcar India Private Limited. Zoomcar completed a Business Combination with IOAC (Innovative International Acquisition Corp) on December 28, 2023, becoming a publicly traded Delaware corporation.",
+  "products": [
+    {
+      "name": "Zoomcar Peer-to-Peer Car Sharing Platform",
+      "type": "platform",
+      "description": "Digital marketplace connecting vehicle owners (Hosts) with individuals (Guests) seeking short and medium-term vehicle rentals in emerging markets."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "ACM Zoomcar Convert LLC",
+      "partnership_type": "strategic",
+      "description": "Referenced entity associated with the company's financial or conversion arrangements.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ZCAR/profile",
+  "origin": {
+    "leaf": "75266dd0abb7228ab5bad7a04e09062000a5b1ba4fc16190d748eaf581e0d1fc",
+    "parent": "c9dc381f22698555c109bff7390ceb0ece61adbb31e85d0955e38f38107d0883",
+    "timestamp": "2026-04-12T03:12:59.185Z",
+    "source": "profile:0001854275",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/75266dd0abb7228ab5bad7a04e09062000a5b1ba4fc16190d748eaf581e0d1fc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.185Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

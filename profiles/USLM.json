@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "USLM",
+  "name": "UNITED STATES LIME & MINERALS INC",
+  "cik": "0000082020",
+  "summary": "United States Lime & Minerals, Inc. is a manufacturer of lime and limestone products incorporated in 1950, headquartered in Dallas, Texas. The company operates quarries and underground mines in Arkansas, Colorado, Louisiana, Missouri, Oklahoma, and Texas, producing crushed limestone, pulverized limestone, quicklime, hydrated lime, and lime slurry. It serves construction, industrial, environmental, metals, agriculture, roof shingle manufacturing, and oil and gas services industries, with approximately 675 customers across the United States.",
+  "products": [
+    {
+      "name": "Crushed Limestone",
+      "type": "hardware",
+      "description": "Used primarily in construction aggregates, transported by truck and rail within 400 miles of plants."
+    },
+    {
+      "name": "Pulverized Limestone (PLS)",
+      "type": "hardware",
+      "description": "Ground calcium carbonate used in roof shingles, asphalt, agriculture feeds, glass production, and flue gas treatment."
+    },
+    {
+      "name": "Quicklime",
+      "type": "hardware",
+      "description": "Calcium oxide produced by calcination; used in metal processing, flue gas treatment, soil stabilization, and water treatment."
+    },
+    {
+      "name": "Hydrated Lime",
+      "type": "hardware",
+      "description": "Calcium hydroxide used in water treatment, soil stabilization, flue gas treatment, and oil and gas drilling mud conditioning."
+    },
+    {
+      "name": "Lime Slurry",
+      "type": "hardware",
+      "description": "Suspended solution of calcium hydroxide used primarily in soil stabilization for highway, road, and building construction."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/USLM/profile",
+  "origin": {
+    "leaf": "b34edb95273192fc1ad8e638657c36f8712a2fba39a7e89e76f4378c64e6abb5",
+    "parent": "bbdbc5e98ad6e9a9d8cf0135e7d3feb3771a654d48e10d38f57e9e5e3d972f54",
+    "timestamp": "2026-04-12T03:12:55.389Z",
+    "source": "profile:0000082020",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b34edb95273192fc1ad8e638657c36f8712a2fba39a7e89e76f4378c64e6abb5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.389Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

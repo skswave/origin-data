@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SLP",
+  "name": "Simulations Plus, Inc.",
+  "cik": "0001023459",
+  "exchange": "Nasdaq",
+  "sic": "7373",
+  "sic_description": "Services-Computer Integrated Systems Design",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0831",
+  "summary": "Simulations Plus, Inc. (SLP) is a California corporation. Based on this excerpt alone, which is an SEC certification (Exhibit 31.1) rather than the Item 1 Business Description, no specific products or services are described. The filing confirms Shawn OConnor serves as Chief Executive Officer and Principal Executive Officer, and the company maintains disclosure controls and internal controls over financial reporting as required by the Sarbanes-Oxley Act.",
+  "tags": [
+    "exchange-act-rules-13a-15(e)-and-15d-15(e)",
+    "exchange-act-rules-13a-15(f)-and-15d-15(f)",
+    "generally-accepted-accounting-principles-(gaap)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SLP",
+  "origin": {
+    "leaf": "8800341fb8b3ce947ba10461a095ebb0ade1accf1cc33102a933684239b67274",
+    "parent": "d0ad4516b378f331825eb4421457ed8bfc8517f12d9c608b525dca8ee112f05e",
+    "timestamp": "2026-04-12T03:12:51.818Z",
+    "source": "0001023459-25-000060",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8800341fb8b3ce947ba10461a095ebb0ade1accf1cc33102a933684239b67274",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.818Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

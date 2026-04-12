@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "S",
+  "name": "SentinelOne, Inc.",
+  "cik": "0001583708",
+  "summary": "SentinelOne provides the Singularity Platform, an AI-powered autonomous cybersecurity platform for enterprises. The platform uses Static AI, Behavioral AI, and Streaming AI models to prevent, detect, and respond to cyberattacks across endpoints, cloud workloads, identity credentials, IoT devices, and unmanaged devices. It features Purple AI for generative AI-driven security operations and a Singularity Data Lake for storing and querying petabytes of security data. Revenue was $1.0 billion in fiscal 2026.",
+  "products": [
+    {
+      "name": "Singularity Platform",
+      "type": "platform",
+      "description": "AI-powered autonomous cybersecurity platform covering endpoints, cloud workloads, identity, IoT, and unmanaged devices with multi-tenancy support."
+    },
+    {
+      "name": "Purple AI",
+      "type": "software",
+      "description": "Generative AI technology that unifies platform experience, supercharges security operations, and delivers threat-hunting capabilities."
+    },
+    {
+      "name": "Singularity Data Lake",
+      "type": "platform",
+      "description": "Proprietary cloud-based data stack enabling ingestion, correlation, and querying of petabytes of structured and unstructured security data."
+    },
+    {
+      "name": "Static AI",
+      "type": "software",
+      "description": "AI model that predicts file-based attacks including zero-day threats with precision in milliseconds."
+    },
+    {
+      "name": "Behavioral AI",
+      "type": "software",
+      "description": "AI model that models, maps, monitors, and links behaviors to create contextual narratives called Storylines for threat detection."
+    },
+    {
+      "name": "Streaming AI",
+      "type": "software",
+      "description": "AI model that detects anomalies by correlating multiple data feeds with external and internal data sources."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/S/profile",
+  "origin": {
+    "leaf": "5384d89aacc6451a8d7b7a2537b1580510d4afb05f117ba739d25355c572aa64",
+    "parent": "9640aaae6b96f1208068dbc5bff27334bc8f59158051471ae790b586fe904be5",
+    "timestamp": "2026-04-12T03:12:55.324Z",
+    "source": "profile:0001583708",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5384d89aacc6451a8d7b7a2537b1580510d4afb05f117ba739d25355c572aa64",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.324Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

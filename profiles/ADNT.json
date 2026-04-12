@@ -1,0 +1,113 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ADNT",
+  "name": "Adient plc",
+  "cik": "0001670541",
+  "summary": "Adient plc is a global leader in automotive seating supply, designing, manufacturing, and delivering complete seat systems and components for passenger cars, commercial vehicles, and light trucks. Products include complete seating systems, frames, mechanisms, foam, head restraints, armrests, and trim covers. Adient operates approximately 200 manufacturing, assembly, or sequencing facilities in 29 countries, serving all major global OEMs with more than 65,000 employees worldwide.",
+  "products": [
+    {
+      "name": "Complete Seating Systems",
+      "type": "hardware",
+      "description": "Full seat assemblies delivered just-in-time or in-sequence to automotive OEM assembly lines."
+    },
+    {
+      "name": "Seat Frames and Mechanisms",
+      "type": "hardware",
+      "description": "Metal structural components and adjustment mechanisms for automotive seats."
+    },
+    {
+      "name": "Seating Foam",
+      "type": "hardware",
+      "description": "Foam components used in automotive seat cushions and backs."
+    },
+    {
+      "name": "Trim Covers",
+      "type": "hardware",
+      "description": "Fabric and material seat covers for automotive seating applications."
+    },
+    {
+      "name": "Head Restraints and Armrests",
+      "type": "hardware",
+      "description": "Safety and comfort components integrated into automotive seating systems."
+    },
+    {
+      "name": "Core Product Portfolio (CPP)",
+      "type": "platform",
+      "description": "Global strategy for part and design reuse enabling modular, scalable seating systems and interchangeable components."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Guangzhou Automobile Group Co., Ltd.",
+      "partnership_type": "OEM",
+      "description": "Joint venture partnership for automotive seating in China.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Beijing Automobile Group Co., Ltd.",
+      "partnership_type": "OEM",
+      "description": "Joint venture partnership for automotive seating in China.",
+      "start_date": null
+    },
+    {
+      "partner_name": "FAW Group Corporation",
+      "partnership_type": "OEM",
+      "description": "Joint venture partnership for automotive seating in China.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BMW",
+      "partnership_type": "OEM",
+      "description": "Longstanding automotive seating supply relationship.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Mercedes-Benz Group",
+      "partnership_type": "OEM",
+      "description": "Longstanding automotive seating supply relationship.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ford Motor Company",
+      "partnership_type": "OEM",
+      "description": "Longstanding automotive seating supply relationship.",
+      "start_date": null
+    },
+    {
+      "partner_name": "General Motors Company",
+      "partnership_type": "OEM",
+      "description": "Longstanding automotive seating supply relationship.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Volkswagen Group",
+      "partnership_type": "OEM",
+      "description": "Longstanding automotive seating supply relationship.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Toyota Motor Corporation",
+      "partnership_type": "OEM",
+      "description": "Longstanding automotive seating supply relationship.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ADNT/profile",
+  "origin": {
+    "leaf": "5916fed0476dad3073cd462da38581a1c1593245b375c749e6ee10c6fa408886",
+    "parent": "b0991889c54638a785059b602e509d8562b743987648a79a7699a5005a277101",
+    "timestamp": "2026-04-12T03:12:55.774Z",
+    "source": "profile:0001670541",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5916fed0476dad3073cd462da38581a1c1593245b375c749e6ee10c6fa408886",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.774Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

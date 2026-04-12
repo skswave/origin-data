@@ -1,0 +1,86 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SKY",
+  "name": "Champion Homes, Inc.",
+  "cik": "0000090896",
+  "summary": "Champion Homes, Inc. (formerly Skyline Champion Corporation) is a leading North American producer of factory-built housing with approximately $2.5 billion in net sales for fiscal 2025. The company designs and builds manufactured and modular homes, park model RVs, ADUs, and modular buildings. It operates 48 manufacturing facilities across 20 U.S. states and three Canadian provinces, and runs retail sales centers, construction services, transportation, and a financing joint venture.",
+  "products": [
+    {
+      "name": "Manufactured Homes",
+      "type": "hardware",
+      "description": "Factory-built homes sold under multiple brand names across the U.S. and Canada."
+    },
+    {
+      "name": "Modular Homes",
+      "type": "hardware",
+      "description": "Modular homes built for single and multi-family markets; company claims number one U.S. modular builder position."
+    },
+    {
+      "name": "Park Model RVs",
+      "type": "hardware",
+      "description": "Park model RVs sold under brands including Athens Park and Shore Park."
+    },
+    {
+      "name": "Accessory Dwelling Units (ADUs)",
+      "type": "hardware",
+      "description": "Factory-built ADUs for residential markets."
+    },
+    {
+      "name": "Modular Buildings",
+      "type": "hardware",
+      "description": "Modular buildings for single and multi-family markets."
+    },
+    {
+      "name": "Champion Financing",
+      "type": "service",
+      "description": "Manufactured housing dealer floor plan and consumer retail financing products via joint venture with Triad Financial Services."
+    },
+    {
+      "name": "Champion Construction",
+      "type": "service",
+      "description": "Construction services to install and set up factory-built homes."
+    },
+    {
+      "name": "Star Fleet Trucking",
+      "type": "service",
+      "description": "Transportation services for the manufactured housing and other industries from multiple U.S. dispatch locations."
+    },
+    {
+      "name": "Retail Sales Centers",
+      "type": "service",
+      "description": "72 active company-owned retail sales centers under Regional Homes, Titan Factory Direct, and Champion Homes Center brands."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Triad Financial Services",
+      "partnership_type": "strategic",
+      "description": "Joint venture called Champion Financing providing manufactured housing dealer floor plan and consumer retail financing products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ECN Capital Corp.",
+      "partnership_type": "strategic",
+      "description": "Company holds an investment in ECN Capital Corp., referenced as a financial risk item.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SKY/profile",
+  "origin": {
+    "leaf": "ef07823718c43f0f0f01965a8c450f3b9e20b4a958da55bae0e16b74addf5d11",
+    "parent": "58e59cd4504d6f88dbc52e03833d50600cb13159c47fe840fff097a22714b7c9",
+    "timestamp": "2026-04-12T03:12:55.347Z",
+    "source": "profile:0000090896",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ef07823718c43f0f0f01965a8c450f3b9e20b4a958da55bae0e16b74addf5d11",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.347Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

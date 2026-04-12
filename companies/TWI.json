@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TWI",
+  "name": "TITAN INTERNATIONAL INC",
+  "cik": "0000899751",
+  "exchange": "NYSE",
+  "sic": "3312",
+  "sic_description": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "state_of_incorporation": "IL",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Titan International, Inc. (TWI) manufactures wheels, tires, and undercarriage systems for agricultural equipment, earthmoving/construction equipment, and consumer products. The company sells to OEM customers and aftermarkets globally. Its subsidiary Titan Specialty (formerly The Carlstar Group, LLC) expands its specialty tire offerings. Products include off-highway tires and wheels used in farming, construction, and mining applications.",
+  "tags": [
+    "agricultural-equipment",
+    "earthmoving/construction-equipment",
+    "consumer-products"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TWI",
+  "origin": {
+    "leaf": "9e080af48bf550cbef27cbaee838f728d6b2e5b527abb3ce104162a57e1cd895",
+    "parent": "71b18e52e63fa6839f412b021a3639e3bd2b2946584b9b424761dfec711a9f8f",
+    "timestamp": "2026-04-12T03:12:51.445Z",
+    "source": "0000899751-26-000007",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9e080af48bf550cbef27cbaee838f728d6b2e5b527abb3ce104162a57e1cd895",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.445Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

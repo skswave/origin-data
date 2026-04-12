@@ -1,0 +1,81 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TACT",
+  "name": "TRANSACT TECHNOLOGIES INC",
+  "cik": "0001017303",
+  "summary": "TransAct Technologies Incorporated designs, develops, and markets software-driven technology and printing solutions for food service technology (FST), point of sale (POS) automation, and casino and gaming markets. Key products include the BOHA! suite of terminals and cloud-based SaaS applications for back-of-house restaurant operations, the Ithaca 9000 POS printer used primarily by McDonald's, and EPICENTRAL casino gaming printers. The company sells to OEMs, value-added resellers, distributors, and directly to end users across the Americas, Europe, Middle East, Africa, Asia, and the Pacific.",
+  "products": [
+    {
+      "name": "BOHA! Terminal / Terminal 2 / Terminal 2 LTE",
+      "type": "hardware",
+      "description": "Touchscreen terminals with integrated thermal printers for food rotation, grab-and-go, and nutritional labels in food service back-of-house operations."
+    },
+    {
+      "name": "BOHA! WorkStation",
+      "type": "hardware",
+      "description": "Back-of-house workstation using an iPad or Android tablet with thermal print mechanisms for food service labeling."
+    },
+    {
+      "name": "BOHA! SaaS Applications",
+      "type": "software",
+      "description": "Cloud-based subscription applications for temperature monitoring, checklists, task lists, and labeling accessed on Android and iOS devices."
+    },
+    {
+      "name": "BOHA! Enterprise Management System",
+      "type": "platform",
+      "description": "System allowing over-the-air OS updates and restricting approved functions on BOHA! touchscreen devices."
+    },
+    {
+      "name": "Ithaca 9000",
+      "type": "hardware",
+      "description": "Thermal POS printer used primarily by McDonald's and other QSRs at checkout counters and self-service kiosks."
+    },
+    {
+      "name": "EPICENTRAL",
+      "type": "platform",
+      "description": "Casino and gaming printing solution sold under the EPICENTRAL brand name."
+    },
+    {
+      "name": "AccuDate",
+      "type": "hardware",
+      "description": "Product sold under the AccuDate brand, part of TransAct's food service and labeling solutions."
+    },
+    {
+      "name": "TransAct Services Group (TSG)",
+      "type": "service",
+      "description": "Provides spare parts, service, labels, and accessories to TransAct's installed base of customers worldwide."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Avery Dennison Corporation",
+      "partnership_type": "licensing",
+      "description": "TransAct acquired a perpetual, royalty-free license to the source code for the BOHA! software previously licensed from Avery Dennison, with transition services support.",
+      "start_date": null
+    },
+    {
+      "partner_name": "McDonald's",
+      "partnership_type": "OEM",
+      "description": "Primary customer for the Ithaca 9000 POS printer used at checkout counters and self-service kiosks.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TACT/profile",
+  "origin": {
+    "leaf": "cb2fea8b2c377b74d2f3a574f57cd51ea2ef51108c446ca42834d8262d7047f7",
+    "parent": "47883205ab31116dfd73fef5e4ed47c432d6c5926db0bc6a7fedf4024a04def7",
+    "timestamp": "2026-04-12T03:12:58.008Z",
+    "source": "profile:0001017303",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cb2fea8b2c377b74d2f3a574f57cd51ea2ef51108c446ca42834d8262d7047f7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.008Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

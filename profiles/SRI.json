@@ -1,0 +1,95 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SRI",
+  "name": "STONERIDGE INC",
+  "cik": "0001043337",
+  "summary": "Stoneridge, Inc. is a global supplier of electronics systems and technologies for commercial, automotive, off-highway, and agricultural vehicle markets. Founded in 1965, the company produces actuators, sensors, switches, connectors, advanced driver information systems, vision systems (including the MirrorEye camera monitor system), connectivity and compliance solutions, vehicle tracking devices, telematics solutions, and multimedia devices. Products are sold to OEMs, Tier 1 suppliers, and aftermarket distributors across 21 locations in 14 countries.",
+  "products": [
+    {
+      "name": "MirrorEye",
+      "type": "hardware",
+      "description": "Camera monitor system providing enhanced vehicle visibility, blind spot elimination, and improved nighttime visibility for commercial vehicles."
+    },
+    {
+      "name": "Actuators",
+      "type": "hardware",
+      "description": "Enable OEMs to deploy power functions in vehicles, integrating switching and control functions including park lock and front-axle disconnect."
+    },
+    {
+      "name": "Sensors",
+      "type": "hardware",
+      "description": "Employed in vehicle systems such as emissions, safety, powertrain, braking, climate control, steering, suspension, and EV thermal management."
+    },
+    {
+      "name": "Switches and Connectors",
+      "type": "hardware",
+      "description": "Transmit signals to activate specific vehicle functions; used in user-activated and hidden capacities."
+    },
+    {
+      "name": "Advanced Driver Information Solutions",
+      "type": "hardware",
+      "description": "Collect, store, and display vehicle information such as speed, pressure, maintenance data, and operator performance."
+    },
+    {
+      "name": "Connectivity and Compliance Solutions",
+      "type": "hardware",
+      "description": "Products collecting and displaying vehicle data including trip information, driver messages, and vehicle performance data."
+    },
+    {
+      "name": "Control Modules",
+      "type": "hardware",
+      "description": "Electronic control modules designed for commercial vehicle and off-highway markets."
+    },
+    {
+      "name": "Vehicle Tracking Devices and Monitoring Services",
+      "type": "service",
+      "description": "Tracking devices and monitoring services sold directly to corporate and individual customers primarily in South America."
+    },
+    {
+      "name": "Telematics Solutions",
+      "type": "platform",
+      "description": "Fleet management telematics solutions sold through aftermarket and OEM channels primarily in the Brazilian market."
+    },
+    {
+      "name": "Vehicle Security Alarms and Convenience Accessories",
+      "type": "hardware",
+      "description": "Security alarms and convenience products including parking sensors and rearview cameras for automotive markets."
+    },
+    {
+      "name": "Multimedia and Infotainment Devices",
+      "type": "hardware",
+      "description": "Infotainment and multimedia devices sold primarily through Stoneridge Brazil segment."
+    },
+    {
+      "name": "Driver Information Systems",
+      "type": "hardware",
+      "description": "Driver information systems designed and manufactured by Stoneridge Brazil for automotive and commercial vehicle markets."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Orlaco",
+      "partnership_type": "development",
+      "description": "Acquired in 2017; partner on development of MirrorEye camera monitor system.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SRI/profile",
+  "origin": {
+    "leaf": "0f326041c2f6f4b394732b8dbdca9397d66b8af4b91fa9e938ce189294728610",
+    "parent": "39f3a0843613754115787d80a05b0aca95e2f0332ae877586dfced251a4ed0a1",
+    "timestamp": "2026-04-12T03:12:57.251Z",
+    "source": "profile:0001043337",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0f326041c2f6f4b394732b8dbdca9397d66b8af4b91fa9e938ce189294728610",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.251Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "JOUT",
+  "name": "JOHNSON OUTDOORS INC",
+  "cik": "0000788329",
+  "summary": "Johnson Outdoors is a global manufacturer and marketer of branded outdoor recreation products organized into three segments: Fishing (Minn Kota trolling motors, Humminbird sonar/GPS, Cannon downriggers), Camping & Watercraft Recreation (Jetboil cooking systems, Old Town canoes/kayaks, Carlisle paddles), and Diving (SCUBAPRO regulators, buoyancy compensators, dive computers, wetsuits). Products are sold through specialty retailers, OEM boat manufacturers, distributors, and direct-to-consumer channels globally. The company was incorporated in Wisconsin in 1987.",
+  "products": [
+    {
+      "name": "Minn Kota",
+      "type": "hardware",
+      "description": "Electric trolling motors, marine battery chargers, and shallow water anchors for fishing boats"
+    },
+    {
+      "name": "Humminbird",
+      "type": "hardware",
+      "description": "Sonar and GPS equipment for fish finding, navigation, and marine cartography"
+    },
+    {
+      "name": "Cannon",
+      "type": "hardware",
+      "description": "Downriggers for controlled-depth fishing"
+    },
+    {
+      "name": "Jetboil",
+      "type": "hardware",
+      "description": "Portable outdoor cooking systems including single and two burner stoves and accessories"
+    },
+    {
+      "name": "Old Town",
+      "type": "hardware",
+      "description": "Canoes, kayaks, and advanced personal watercraft equipment for recreation, touring, and angling"
+    },
+    {
+      "name": "Carlisle",
+      "type": "hardware",
+      "description": "Branded paddles sold as accessories for paddling activities"
+    },
+    {
+      "name": "SCUBAPRO",
+      "type": "hardware",
+      "description": "Complete line of underwater diving and snorkeling equipment including regulators, buoyancy compensators, dive computers, wetsuits, masks, fins, and snorkels"
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Tracker",
+      "partnership_type": "OEM",
+      "description": "OEM boat brand that sells products incorporating Johnson Outdoors fishing equipment",
+      "start_date": null
+    },
+    {
+      "partner_name": "Skeeter",
+      "partnership_type": "OEM",
+      "description": "OEM boat brand that sells products incorporating Johnson Outdoors fishing equipment",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ranger",
+      "partnership_type": "OEM",
+      "description": "OEM boat brand that sells products incorporating Johnson Outdoors fishing equipment",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/JOUT/profile",
+  "origin": {
+    "leaf": "3a9c3504dbfb30b201caccc5351a33ebcaf99d94556f4a95d2ff0d6e8dc59592",
+    "parent": "42437569fb2c6f2c6d3440e712568c7605d210a2313ca3964a390ac5625bf2f6",
+    "timestamp": "2026-04-12T03:12:56.384Z",
+    "source": "profile:0000788329",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3a9c3504dbfb30b201caccc5351a33ebcaf99d94556f4a95d2ff0d6e8dc59592",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.384Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

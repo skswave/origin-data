@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "BTGO",
+  "total_facts": 6,
+  "by_type": {
+    "topic_mention": 6
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BTGO",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BTGO",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BTGO",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BTGO",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BTGO",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BTGO",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BTGO/transcripts",
+  "origin": {
+    "leaf": "a19d7b8e91be8dfdda880e2d586ed859cb0a4f188b9cef4b778b686f01a7b752",
+    "parent": "b5a125a272045d4dbe88293729b299ef1de78170f6d63e5da9e45c30b55e8bd6",
+    "timestamp": "2026-04-12T03:14:03.241Z",
+    "source": "facts:BTGO",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a19d7b8e91be8dfdda880e2d586ed859cb0a4f188b9cef4b778b686f01a7b752",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:03.241Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

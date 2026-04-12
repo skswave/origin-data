@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "USDP",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "USDP",
+      "predicate": "discussed_in_filing",
+      "object": "AI Compute",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "ai_compute",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "USDP",
+      "predicate": "discussed_in_filing",
+      "object": "AI Compute",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "ai_compute",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "USDP",
+      "predicate": "discussed_in_filing",
+      "object": "AI Compute",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "ai_compute",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/USDP/transcripts",
+  "origin": {
+    "leaf": "7e1b4d82f1931c39ba20f1b1ec9be529c7b1d8a03fbad5e58ab79154e92c8f3b",
+    "parent": "a1a3332f77524232fd03e5ec9ce94981f57fa84bd0c05ac85dcd27a9fb713874",
+    "timestamp": "2026-04-12T03:15:59.162Z",
+    "source": "facts:USDP",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7e1b4d82f1931c39ba20f1b1ec9be529c7b1d8a03fbad5e58ab79154e92c8f3b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:15:59.162Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

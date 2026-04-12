@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SIEB",
+  "name": "SIEBERT FINANCIAL CORP",
+  "cik": "0000065596",
+  "summary": "Siebert Financial Corp. is a financial services holding company operating through wholly-owned and majority-owned subsidiaries. The company is engaged in the securities industry, offering brokerage and related financial services. It operates in areas including retail brokerage, clearing functions, and related financial services, serving individual and institutional clients while subject to extensive regulatory oversight.",
+  "products": [
+    {
+      "name": "Retail Brokerage Services",
+      "type": "service",
+      "description": "Securities brokerage services provided to individual and institutional clients."
+    },
+    {
+      "name": "Clearing Services",
+      "type": "service",
+      "description": "Clearing functions for securities transactions, with associated liability and operational risk management."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SIEB/profile",
+  "origin": {
+    "leaf": "09ff7cf6bb8a4b4ad08f48e13ef5f973d2a276cb41205cffb58aff25b3adcafb",
+    "parent": "1e0ab6664a4903b6c8fc087dbec9b8b2a2c773630d184f8d31c47b612d6b4016",
+    "timestamp": "2026-04-12T03:12:57.546Z",
+    "source": "profile:0000065596",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/09ff7cf6bb8a4b4ad08f48e13ef5f973d2a276cb41205cffb58aff25b3adcafb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.546Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

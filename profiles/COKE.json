@@ -1,0 +1,109 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "COKE",
+  "name": "Coca-Cola Consolidated, Inc.",
+  "cik": "0000317540",
+  "summary": "Coca-Cola Consolidated, Inc. is the largest Coca-Cola bottler in the United States, distributing, marketing, and manufacturing nonalcoholic beverages across 14 states and the District of Columbia, serving approximately 60 million consumers. Approximately 85% of bottle/can sales volume consists of The Coca-Cola Company products, including Coca-Cola, Sprite, and Dasani. The company also distributes Monster Energy and Dr Pepper products, offering sparkling and still beverages in bottle/can and post-mix formats.",
+  "products": [
+    {
+      "name": "Coca-Cola (and variants)",
+      "type": "service",
+      "description": "Principal sparkling carbonated beverage distributed and manufactured under The Coca-Cola Company agreements."
+    },
+    {
+      "name": "Sprite / Sprite Zero Sugar",
+      "type": "service",
+      "description": "Sparkling beverage products of The Coca-Cola Company distributed by the Company."
+    },
+    {
+      "name": "Dasani",
+      "type": "service",
+      "description": "Bottled water still beverage product of The Coca-Cola Company."
+    },
+    {
+      "name": "fairlife",
+      "type": "service",
+      "description": "Still beverage product of The Coca-Cola Company distributed by the Company."
+    },
+    {
+      "name": "BODYARMOR",
+      "type": "service",
+      "description": "Still beverage (sports drink) product of The Coca-Cola Company distributed by the Company."
+    },
+    {
+      "name": "Monster Energy",
+      "type": "service",
+      "description": "Energy drink distributed under agreement with Monster Energy Company."
+    },
+    {
+      "name": "Dr Pepper (and variants)",
+      "type": "service",
+      "description": "Sparkling beverage distributed and certain brands manufactured under agreement with Keurig Dr Pepper Inc."
+    },
+    {
+      "name": "Gold Peak",
+      "type": "service",
+      "description": "Ready-to-drink tea still beverage product of The Coca-Cola Company."
+    },
+    {
+      "name": "Topo Chico",
+      "type": "service",
+      "description": "Sparkling water beverage product of The Coca-Cola Company."
+    },
+    {
+      "name": "Post-mix products",
+      "type": "service",
+      "description": "Fountain syrups dispensed through equipment mixing with water, sold to fountain retailers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "The Coca-Cola Company",
+      "partnership_type": "licensing",
+      "description": "Comprehensive beverage agreements granting exclusive rights to distribute, promote, market, sell, and manufacture Coca-Cola branded products in specified territories.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Coca-Cola Refreshments USA, LLC (CCR)",
+      "partnership_type": "licensing",
+      "description": "Party to CBA; Company makes quarterly acquisition-related sub-bottling payments to CCR for exclusive distribution rights.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Monster Energy Company",
+      "partnership_type": "licensing",
+      "description": "Distribution agreement granting rights to distribute certain Monster Energy products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Keurig Dr Pepper Inc.",
+      "partnership_type": "licensing",
+      "description": "Distribution and certain manufacturing agreements for Dr Pepper beverage brands and post-mix products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "CONA Services LLC",
+      "partnership_type": "strategic",
+      "description": "Member of CONA; receives business process and IT services including the Coke One North America (CONA) system for DSD and manufacturing operations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/COKE/profile",
+  "origin": {
+    "leaf": "b2a3544cc7ce4d6dc3de81a38c2168f632efee5ad503bec71dd23e04f35defc3",
+    "parent": "abd7dc0ae2b1975296cba34ea37ebeca67836f1e6f97ed338fe7d4afdc192157",
+    "timestamp": "2026-04-12T03:12:54.988Z",
+    "source": "profile:0000317540",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b2a3544cc7ce4d6dc3de81a38c2168f632efee5ad503bec71dd23e04f35defc3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.988Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

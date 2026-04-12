@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "L",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "L",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 61,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "L",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 61,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "L",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 61,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/L/transcripts",
+  "origin": {
+    "leaf": "60386d447ac2f8b60ebcc86b5e43cc83204c13edf416b5cfc5b6b5cd9e3c6656",
+    "parent": "2863fded8a49e7ca3b9a7ea7d927b059e0d9ec8b8d446c183a63d4003c7df9ff",
+    "timestamp": "2026-04-12T03:13:14.964Z",
+    "source": "facts:L",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/60386d447ac2f8b60ebcc86b5e43cc83204c13edf416b5cfc5b6b5cd9e3c6656",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:14.964Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

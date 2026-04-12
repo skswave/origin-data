@@ -1,0 +1,144 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BXC",
+  "name": "BlueLinx Holdings Inc.",
+  "cik": "0001301787",
+  "summary": "BlueLinx Holdings Inc. is a leading wholesale two-step distributor of residential and commercial building products in the United States. It purchases products from manufacturers and distributes them to dealers, pro dealers, national home centers, cooperatives, and specialty distributors. Its portfolio spans specialty products (engineered wood, siding, millwork, outdoor living, industrial) and structural products (lumber, plywood, OSB, rebar, remesh), serving all 50 U.S. states from 57 branch cities.",
+  "products": [
+    {
+      "name": "Engineered Wood Products (EWP)",
+      "type": "hardware",
+      "description": "Specialty structural wood components distributed to dealers and builders across the U.S."
+    },
+    {
+      "name": "Siding",
+      "type": "hardware",
+      "description": "Exterior cladding products distributed under branded and private-label SKUs."
+    },
+    {
+      "name": "Millwork",
+      "type": "hardware",
+      "description": "Finished wood products including doors, windows, and trim distributed to local markets."
+    },
+    {
+      "name": "Outdoor Living Products",
+      "type": "hardware",
+      "description": "Decking, railing, and related products for residential outdoor construction."
+    },
+    {
+      "name": "Specialty Lumber and Panels",
+      "type": "hardware",
+      "description": "Premium lumber and panel products for specialty construction applications."
+    },
+    {
+      "name": "Industrial Products",
+      "type": "hardware",
+      "description": "Building materials sold to industrial manufacturers through specialty distribution channels."
+    },
+    {
+      "name": "Structural Lumber",
+      "type": "hardware",
+      "description": "Commodity lumber used for structural support in residential and commercial construction."
+    },
+    {
+      "name": "Plywood",
+      "type": "hardware",
+      "description": "Structural panel product distributed primarily for construction framing and sheathing."
+    },
+    {
+      "name": "Oriented Strand Board (OSB)",
+      "type": "hardware",
+      "description": "Commodity structural panel product used in construction projects."
+    },
+    {
+      "name": "Rebar and Remesh",
+      "type": "hardware",
+      "description": "Steel reinforcement products distributed for construction applications."
+    },
+    {
+      "name": "Value-Added Services",
+      "type": "service",
+      "description": "Includes LTL delivery, job site delivery, EWP design, milling, fabrication, take-off, and EDI order processing."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Allura",
+      "partnership_type": "strategic",
+      "description": "Supplier of building products distributed through BlueLinx's network.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Arauco",
+      "partnership_type": "strategic",
+      "description": "Manufacturer whose products are distributed by BlueLinx.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fiberon",
+      "partnership_type": "strategic",
+      "description": "Supplier of outdoor living products distributed through BlueLinx.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Georgia-Pacific",
+      "partnership_type": "strategic",
+      "description": "Leading manufacturer whose building products are distributed by BlueLinx.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Huber Engineered Woods",
+      "partnership_type": "strategic",
+      "description": "Supplier of engineered wood products distributed through BlueLinx.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Louisiana-Pacific",
+      "partnership_type": "strategic",
+      "description": "Manufacturer whose building products are distributed by BlueLinx.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Oldcastle APG",
+      "partnership_type": "strategic",
+      "description": "Supplier whose products are distributed through BlueLinx's network.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ply Gem",
+      "partnership_type": "strategic",
+      "description": "Manufacturer of building products distributed by BlueLinx.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Roseburg",
+      "partnership_type": "strategic",
+      "description": "Lumber and panel manufacturer whose products are distributed by BlueLinx.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Westlake Royal",
+      "partnership_type": "strategic",
+      "description": "Supplier of building products distributed through BlueLinx's network.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BXC/profile",
+  "origin": {
+    "leaf": "f49881db2a7c4fed0ae8611a34cee843598038c908a35279273d7ea42bf0eb96",
+    "parent": "79eca065bb1595b38cc6429ebc40f8ef8e3da151e6215fbef0da7c3a1169404b",
+    "timestamp": "2026-04-12T03:12:56.472Z",
+    "source": "profile:0001301787",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f49881db2a7c4fed0ae8611a34cee843598038c908a35279273d7ea42bf0eb96",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.472Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

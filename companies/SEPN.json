@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SEPN",
+  "name": "Septerna, Inc.",
+  "cik": "0001984086",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Septerna, Inc. is a clinical-stage biopharmaceutical company focused on discovering and developing oral small molecule therapeutics targeting G protein-coupled receptors (GPCRs). The company utilizes its proprietary Native Complex Platform to develop product candidates including SEP-479 and SEP-631. Septerna has a partnership with Novo Nordisk A/S to develop oral small molecule therapies for metabolic-related diseases targeting GLP-1, GIP, and glucagon receptors for obesity, type 2 diabetes, and related conditions.",
+  "tags": [
+    "obesity",
+    "type-2-diabetes",
+    "metabolic-related-diseases"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SEPN",
+  "origin": {
+    "leaf": "bce6f1c754b176e48fd38c11244bdfdb31460e1c1b853ace46e255f7cb3d1666",
+    "parent": "9a6409fde15d3763b249812bf5aadbdaa0cdf444c14e8cde5f3029e319279afe",
+    "timestamp": "2026-04-12T03:12:51.084Z",
+    "source": "0001193125-26-098507",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bce6f1c754b176e48fd38c11244bdfdb31460e1c1b853ace46e255f7cb3d1666",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.084Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

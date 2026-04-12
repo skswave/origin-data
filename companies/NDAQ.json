@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NDAQ",
+  "name": "NASDAQ, INC.",
+  "cik": "0001120193",
+  "exchange": "Nasdaq",
+  "sic": "6200",
+  "sic_description": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Nasdaq, Inc. operates global exchanges and provides financial technology solutions. It operates The Nasdaq Stock Market, multiple U.S. options exchanges (Nasdaq PHLX, Nasdaq ISE, Nasdaq GEMX, Nasdaq MRX, Nasdaq BX Options, The Nasdaq Options Market), and Nordic/Baltic exchanges under Nasdaq Nordic and Nasdaq Baltic brands. It also offers clearing via Nasdaq Clearing AB, and technology/data services including SaaS solutions through its Adenza acquisition, serving capital markets participants worldwide.",
+  "tags": [
+    "u.s.-equity-markets",
+    "u.s.-options-markets",
+    "nordic-and-baltic-equity-markets",
+    "financial-technology-(fintech)-/-saas",
+    "capital-markets-infrastructure",
+    "exchange-traded-products-(etps/etfs)",
+    "market-data-services",
+    "regulation-nms-(regulation-national-market-system)",
+    "regulation-sci-(systems-compliance-and-integrity)",
+    "mifid-ii-(markets-in-financial-instruments-directive)",
+    "mifir-(markets-in-financial-instruments-regulation)",
+    "emir-(european-market-infrastructure-regulation)",
+    "asc-(accounting-standards-codification)",
+    "u.s.-gaap",
+    "sofr-(secured-overnight-financing-rate)",
+    "gics-(global-industry-classification-standard)",
+    "utp-plan-(joint-sro-plan-for-nasdaq-listed-securities)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NDAQ",
+  "origin": {
+    "leaf": "816e514fd8ec49c7f6a916d0c4489741c6a8e434b9ae348fbeedad448fa21322",
+    "parent": "f5c295e461a523ac45d77363620591b855b04c439bfa0a70b6105b7aafa685fa",
+    "timestamp": "2026-04-12T03:12:50.347Z",
+    "source": "0001628280-26-007703",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/816e514fd8ec49c7f6a916d0c4489741c6a8e434b9ae348fbeedad448fa21322",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.347Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

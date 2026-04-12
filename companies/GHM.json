@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "GHM",
+  "name": "GRAHAM CORP",
+  "cik": "0000716314",
+  "exchange": "NYSE",
+  "sic": "3560",
+  "sic_description": "General Industrial Machinery & Equipment",
+  "state_of_incorporation": "DE",
+  "headquarters": "Batavia, NY",
+  "founded": "1936",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "Graham Corporation is a global leader in design and manufacture of mission-critical fluid, power, heat transfer, and vacuum technologies for Defense, Energy & Process, and Space industries. Products include ejectors, surface condensers, turbomachinery, cryogenic pumps, heat exchangers, and turbopumps. Headquartered in Batavia, NY, with subsidiaries Barber-Nichols (CO), P3 Technologies (FL), GVHTT (China), and GIPL (India). Defense sales represent 58% of fiscal 2025 revenue; domestic sales 81%.",
+  "tags": [
+    "defense",
+    "energy-&-process",
+    "space",
+    "aerospace",
+    "cryogenic",
+    "new-energy",
+    "medical"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/GHM",
+  "origin": {
+    "leaf": "df6a5afb1b528123fe5af44070a1c128fcc0be73f2c216fee9b0689e764be901",
+    "parent": "3b73c6fabed06bf60c08b82053c1fe43d6fe2c90256699d59b8eeebff0cbb04a",
+    "timestamp": "2026-04-12T03:12:51.159Z",
+    "source": "0000950170-25-083450",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/df6a5afb1b528123fe5af44070a1c128fcc0be73f2c216fee9b0689e764be901",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.159Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

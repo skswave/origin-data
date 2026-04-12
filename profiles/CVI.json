@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CVI",
+  "name": "CVR ENERGY INC",
+  "cik": "0001376139",
+  "summary": "CVR Energy Inc is an independent petroleum refiner and nitrogen fertilizer manufacturer. The company operates petroleum refineries producing gasoline, diesel, jet fuel, and other refined products, as well as nitrogen fertilizer facilities producing ammonia and UAN (urea ammonium nitrate). CVR Energy also has operations in renewables including renewable diesel and biodiesel. Its refineries are located in the midcontinent United States, serving Group 3 and surrounding markets.",
+  "products": [
+    {
+      "name": "Gasoline",
+      "type": "hardware",
+      "description": "Refined petroleum product produced at CVR's midcontinent refineries for transportation fuel markets."
+    },
+    {
+      "name": "Diesel Fuel / ULSD",
+      "type": "hardware",
+      "description": "Ultra low sulfur diesel and distillate refined products produced for transportation and commercial markets."
+    },
+    {
+      "name": "Jet Fuel",
+      "type": "hardware",
+      "description": "Refined petroleum product produced at CVR's refineries for aviation fuel markets."
+    },
+    {
+      "name": "Ammonia",
+      "type": "hardware",
+      "description": "Direct application nitrogen fertilizer and industrial building block produced at nitrogen fertilizer facilities."
+    },
+    {
+      "name": "UAN",
+      "type": "hardware",
+      "description": "Urea ammonium nitrate aqueous solution used as a fertilizer, produced at nitrogen fertilizer facilities."
+    },
+    {
+      "name": "Renewable Diesel",
+      "type": "hardware",
+      "description": "Advanced biofuel chemically identical to petroleum diesel, produced from renewable feedstocks using heat, pressure, and hydrogen."
+    },
+    {
+      "name": "Biodiesel",
+      "type": "hardware",
+      "description": "Renewable fuel manufactured from vegetable oils, animal fats, or recycled restaurant grease for use in diesel vehicles."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CVI/profile",
+  "origin": {
+    "leaf": "4776884c4c75c8538a38776364f61a045c4bcbca80538413e0cbed31c512fa76",
+    "parent": "c14215fc581a47e441c18267e93e2bb9bd390c026f702c277da1fd6260060bbb",
+    "timestamp": "2026-04-12T03:12:55.431Z",
+    "source": "profile:0001376139",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4776884c4c75c8538a38776364f61a045c4bcbca80538413e0cbed31c512fa76",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.431Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

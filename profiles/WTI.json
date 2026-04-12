@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WTI",
+  "name": "W&T OFFSHORE INC",
+  "cik": "0001288403",
+  "summary": "W&T Offshore Inc. (WTI) is an independent oil and natural gas company engaged in the acquisition, exploration, and production of hydrocarbons. The company operates primarily in the Gulf of Mexico, focusing on offshore drilling and production activities. W&T Offshore produces crude oil, natural gas, and natural gas liquids from its Gulf of Mexico properties.",
+  "products": [
+    {
+      "name": "Crude Oil",
+      "type": "service",
+      "description": "Offshore crude oil production from Gulf of Mexico properties."
+    },
+    {
+      "name": "Natural Gas",
+      "type": "service",
+      "description": "Offshore natural gas production from Gulf of Mexico properties."
+    },
+    {
+      "name": "Natural Gas Liquids",
+      "type": "service",
+      "description": "Production and sale of natural gas liquids from Gulf of Mexico operations."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WTI/profile",
+  "origin": {
+    "leaf": "ea09d0d9cfbc53c4c23c5526fd43a1d45bf6b51759df5f237f944dd7731cc95e",
+    "parent": "e1c9bbfc63e122d1f7d7cbb98de78025a15a5fec5c852c7a267b99ddf8d476f5",
+    "timestamp": "2026-04-12T03:12:56.356Z",
+    "source": "profile:0001288403",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ea09d0d9cfbc53c4c23c5526fd43a1d45bf6b51759df5f237f944dd7731cc95e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.356Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

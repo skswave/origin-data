@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CAC",
+  "name": "CAMDEN NATIONAL CORP",
+  "cik": "0000750686",
+  "exchange": "Nasdaq",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "ME",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Overview . Camden National Corporation (hereafter referred to as we, our, us, or the Company) is a publicly-held bank holding company, with $7.0 billion in assets at December 31, 2025, incorporated under the laws of the State of Maine and headquartered in Camden, Maine. Camden National Bank (the Bank), a wholly-owned subsidiary of the Company, was founded in 1875. The Company was founded in 1984, went public in 1997, and is registered with NASDAQ Global Market (NASDAQ) under the ticker sy...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 683,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CAC",
+  "origin": {
+    "leaf": "71e039af47635ac5e6fa0f3008bccef762450852a524cac8608283b02a58b9e3",
+    "parent": "af8762bc600247890ab3158102c4f2cb1e4817f284391306dfc10970f9495142",
+    "timestamp": "2026-04-12T03:12:51.178Z",
+    "source": "0000750686-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/71e039af47635ac5e6fa0f3008bccef762450852a524cac8608283b02a58b9e3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.178Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

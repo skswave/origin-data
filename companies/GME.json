@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "GME",
+  "name": "GameStop Corp.",
+  "cik": "0001326380",
+  "exchange": "NYSE",
+  "sic": "5734",
+  "sic_description": "Retail-Computer & Computer Software Stores",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0201",
+  "summary": "GameStop Corp. is a retailer offering games, collectibles, and entertainment products through physical stores and ecommerce platforms. As of January 31, 2026, it operated 2,206 stores across the United States, Australia, and Europe under the GameStop, EB Games, Micromania, and Zing Pop Culture brands. The company sells new and pre-owned hardware, accessories, software, and collectibles, while also pursuing a capital allocation strategy including investments in equity securities, fixed income, and Bitcoin.",
+  "tags": [
+    "video-game-retail",
+    "pre-owned-gaming-products",
+    "collectibles-and-pop-culture-products",
+    "digital-gaming-content",
+    "capital-allocation-and-acquisitions"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/GME",
+  "origin": {
+    "leaf": "616fa3383f9f5e6b1d279435b96b2ebdf3aba82f5429ad898455017e430fe564",
+    "parent": "d8a4b985706f88d2650274721ff5693aaebb4b392e167ee52fe92984f7444b47",
+    "timestamp": "2026-04-12T03:12:50.497Z",
+    "source": "0001326380-26-000013",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/616fa3383f9f5e6b1d279435b96b2ebdf3aba82f5429ad898455017e430fe564",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.497Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

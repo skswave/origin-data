@@ -1,0 +1,88 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MCO",
+  "name": "MOODYS CORP /DE/",
+  "cik": "0001059556",
+  "summary": "Moody's Corporation is a global provider of credit ratings, research, and risk assessment tools operating through two segments: Moody's Investors Service (MIS), which provides credit ratings across corporate finance, structured finance, financial institutions, and public/infrastructure finance; and Moody's Analytics (MA), which offers decision solutions, research and insights, and data and information products supporting banking, insurance, and KYC workflows.",
+  "products": [
+    {
+      "name": "Moody's Investors Service (MIS)",
+      "type": "service",
+      "description": "Credit rating agency providing ratings across corporate finance, structured finance, financial institutions, and public/project/infrastructure finance."
+    },
+    {
+      "name": "Decision Solutions",
+      "type": "platform",
+      "description": "Subscription-based solutions supporting banking, insurance, and KYC workflows using data and research components."
+    },
+    {
+      "name": "Research and Insights",
+      "type": "service",
+      "description": "Research and analytical content for financial market participants within the MA segment."
+    },
+    {
+      "name": "Data and Information",
+      "type": "platform",
+      "description": "Provides vast data sets on companies and securities via data feeds and data applications products."
+    },
+    {
+      "name": "Moody's Local",
+      "type": "platform",
+      "description": "Ratings platform focused on providing credit rating services in Latin American capital markets."
+    },
+    {
+      "name": "Net Zero Assessments",
+      "type": "service",
+      "description": "Independent assessment of an entity's carbon transition plan relative to a global net zero pathway."
+    },
+    {
+      "name": "Numerated",
+      "type": "platform",
+      "description": "Commercial lending platform acquired by Moody's in November 2024."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "CCXI (China Cheng Xin International Credit Rating Co. Ltd.)",
+      "partnership_type": "strategic",
+      "description": "Moody's owns 30% of CCXI, the first and largest domestic credit rating agency approved by the People's Bank of China.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ICRA Limited",
+      "partnership_type": "strategic",
+      "description": "Provider of credit ratings and research in India; Moody's holds an interest in ICRA.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BitSight",
+      "partnership_type": "strategic",
+      "description": "Moody's acquired a minority investment in BitSight in 2021; provides cyber risk ratings and analytics.",
+      "start_date": null
+    },
+    {
+      "partner_name": "GCR (Global Credit Rating Company Limited)",
+      "partnership_type": "strategic",
+      "description": "Domestic credit rating agency spanning Africa; Moody's acquired a controlling financial interest in July 2024.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MCO/profile",
+  "origin": {
+    "leaf": "3efe5932e4ef80d9a0a12ed911358f3c13042b5e56076ae396d3be5c4c4c62cd",
+    "parent": "966585295f87d180d24cf920583598d6718a604cca9ace17b92fc207cda0d841",
+    "timestamp": "2026-04-12T03:12:54.744Z",
+    "source": "profile:0001059556",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3efe5932e4ef80d9a0a12ed911358f3c13042b5e56076ae396d3be5c4c4c62cd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.744Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

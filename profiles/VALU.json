@@ -1,0 +1,126 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VALU",
+  "name": "VALUE LINE INC",
+  "cik": "0000717720",
+  "summary": "Value Line, Inc. is a New York-based investment research company that produces investment periodicals, publications, and proprietary research including The Value Line Investment Survey. It markets research tools, investment analysis software, and financial databases to individual investors, professionals, and institutions. The company also holds non-voting revenue and profits interests in EULAV Asset Management (EAM), which manages the Value Line Mutual Funds and provides distribution, marketing, and administrative services.",
+  "products": [
+    {
+      "name": "The Value Line Investment Survey",
+      "type": "service",
+      "description": "Flagship weekly print and daily digital investment periodical providing stock analysis, Timeliness and Safety ranks."
+    },
+    {
+      "name": "The Value Line Investment Survey - Small and Mid-Cap",
+      "type": "service",
+      "description": "Comprehensive research service covering small and mid-cap equity securities."
+    },
+    {
+      "name": "The Value Line 600",
+      "type": "service",
+      "description": "Comprehensive reference periodical publication covering 600 investment securities."
+    },
+    {
+      "name": "The Value Line Fund Advisor Plus",
+      "type": "service",
+      "description": "Comprehensive research service covering mutual funds with statistical and text analysis."
+    },
+    {
+      "name": "Value Line Select",
+      "type": "service",
+      "description": "Targeted monthly newsletter highlighting a stock with strong return potential and reasonable risk."
+    },
+    {
+      "name": "Value Line Select: Dividend Income & Growth",
+      "type": "service",
+      "description": "Targeted newsletter covering dividend-paying stocks with good growth potential."
+    },
+    {
+      "name": "Value Line Select: ETFs",
+      "type": "service",
+      "description": "Monthly newsletter recommending a new ETF for purchase each month."
+    },
+    {
+      "name": "The Value Line Special Situations Service",
+      "type": "service",
+      "description": "In-depth research on selected small and mid-cap stocks."
+    },
+    {
+      "name": "The Value Line M&A Service",
+      "type": "service",
+      "description": "Recommends stocks of companies Value Line believes may be acquired by corporations or private equity."
+    },
+    {
+      "name": "The Value Line Climate Change Investing Service",
+      "type": "service",
+      "description": "Recommends stocks expected to benefit from addressing climate change challenges."
+    },
+    {
+      "name": "The Value Line Information You Should Know Wealth Newsletter",
+      "type": "service",
+      "description": "Newsletter providing information on various personal finance topics."
+    },
+    {
+      "name": "The Value Line Research Center",
+      "type": "platform",
+      "description": "Online platform allowing subscribers to access most Company research and publications at a packaged price."
+    },
+    {
+      "name": "The Value Line Investment Analyzer",
+      "type": "software",
+      "description": "Investment analysis software with data sorting and filtering tools."
+    },
+    {
+      "name": "The Value Line ETFs Service",
+      "type": "software",
+      "description": "Investment analysis software focused on ETFs with data sorting and filtering tools."
+    },
+    {
+      "name": "DataFile",
+      "type": "service",
+      "description": "Current and historical financial database offered to institutional and professional subscribers via Internet."
+    },
+    {
+      "name": "Estimates & Projections",
+      "type": "service",
+      "description": "Financial estimates and projections database for institutional subscribers available via Internet."
+    },
+    {
+      "name": "Mutual Funds",
+      "type": "service",
+      "description": "Mutual fund financial database for institutional and professional subscribers available via Internet."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "EULAV Asset Management (EAM Trust)",
+      "partnership_type": "strategic",
+      "description": "Value Line holds non-voting revenue and profits interests in EAM, which manages the Value Line Funds and provides distribution, marketing, and administrative services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "EULAV Securities LLC (ES)",
+      "partnership_type": "strategic",
+      "description": "Wholly-owned subsidiary of EAM serving as distributor for the Value Line Funds.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VALU/profile",
+  "origin": {
+    "leaf": "5b62085aaba24c9e6ebbabc8aa8a26af083fb26e837b863bf496363ebe296c4c",
+    "parent": "74034c551b9485555578570f99be08cbbaaf41cb23f51ee518c83a91923305b0",
+    "timestamp": "2026-04-12T03:12:56.660Z",
+    "source": "profile:0000717720",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5b62085aaba24c9e6ebbabc8aa8a26af083fb26e837b863bf496363ebe296c4c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.660Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

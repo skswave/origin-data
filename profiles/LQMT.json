@@ -1,0 +1,45 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LQMT",
+  "name": "LIQUIDMETAL TECHNOLOGIES INC",
+  "cik": "0001141240",
+  "summary": "Liquidmetal Technologies, Inc. is a materials technology and manufacturing company focused on developing and commercializing products made from proprietary amorphous alloys. The company leverages unique atomic structures in its Liquidmetal alloys to deliver superior strength, hardness, corrosion resistance, and net-shape molding capabilities. It pursues commercialization through its own manufacturing subsidiary in China, third-party manufacturing partners, and licensing arrangements targeting applications where amorphous alloys can replace titanium, stainless steel, and other high-performance crystalline materials.",
+  "products": [
+    {
+      "name": "Liquidmetal Bulk Amorphous Alloys",
+      "type": "hardware",
+      "description": "Proprietary amorphous alloys offering high strength, hardness, elasticity, corrosion resistance, and net-shape molding for precision components across various industries."
+    },
+    {
+      "name": "Thermoplastic Molded Components",
+      "type": "hardware",
+      "description": "Near-to-net shaped components produced via thermoplastic molding of bulk Liquidmetal alloys, reducing post-processing and machining costs."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "California Institute of Technology (Caltech)",
+      "partnership_type": "licensing",
+      "description": "Liquidmetal holds an exclusive license from Caltech to commercialize bulk amorphous alloy technology first developed there in 1993.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LQMT/profile",
+  "origin": {
+    "leaf": "a2c144e0e85acb5575b3e7b3ab24f1f6663e6e6bc58831dcc9002ed7ededad8d",
+    "parent": "a2c5a3cb8f1f59bffe28e5f72af47be4f59fd42f97fceae04224021a3f9311e7",
+    "timestamp": "2026-04-12T03:12:57.414Z",
+    "source": "profile:0001141240",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a2c144e0e85acb5575b3e7b3ab24f1f6663e6e6bc58831dcc9002ed7ededad8d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.414Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

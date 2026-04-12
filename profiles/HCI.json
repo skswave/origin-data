@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HCI",
+  "name": "HCI Group, Inc.",
+  "cik": "0001400810",
+  "summary": "HCI Group, Inc. is an insurance holding company primarily engaged in property and casualty insurance. The company offers homeowners insurance and related products. It operates with a focus on managing risk through reinsurance arrangements and is subject to state insurance regulations. HCI is listed on a stock exchange under the ticker HCI and files with the SEC under CIK 0001400810.",
+  "products": [
+    {
+      "name": "Insurance Policies",
+      "type": "service",
+      "description": "Property and casualty insurance products subject to regulatory oversight and reinsurance arrangements."
+    },
+    {
+      "name": "Homeowners Insurance",
+      "type": "service",
+      "description": "Property and casualty insurance products including homeowners insurance policies."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HCI/profile",
+  "origin": {
+    "leaf": "84b2bf8298c716eb03d6f8fcacf40c04dcb4d14eb00193e41cf1e055b22ef697",
+    "parent": "07118677ffd5e26daa9a893ee3b363c3431ddb503765b91de3c9b07b284ad779",
+    "timestamp": "2026-04-12T03:12:55.655Z",
+    "source": "profile:0001400810",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/84b2bf8298c716eb03d6f8fcacf40c04dcb4d14eb00193e41cf1e055b22ef697",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.655Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

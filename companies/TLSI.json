@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TLSI",
+  "name": "TriSalus Life Sciences, Inc.",
+  "cik": "0001826667",
+  "exchange": "Nasdaq",
+  "sic": "3841",
+  "sic_description": "Surgical & Medical Instruments & Apparatus",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "TriSalus Life Sciences, Inc. is an oncology-focused medical technology company that develops innovative drug delivery technologies for solid tumors. Its flagship product, the TriNav Infusion System, uses Pressure-Enabled Drug Delivery (PEDD) technology for interventional radiology procedures including TACE and TARE. The company also develops nelitolimod, an investigational TLR9 agonist, and the PRVI device for pancreatic tumor treatment, generating $45.2 million in TriNav revenue in 2025.",
+  "tags": [
+    "oncology---liver-cancer-(hcc,-icc,-liver-metastases)",
+    "oncology---pancreatic-cancer-(pdac)",
+    "interventional-radiology",
+    "uterine-artery-embolization",
+    "thyroid-artery-embolization",
+    "prostate-embolization",
+    "genicular-artery-embolization-for-osteoarthritis",
+    "fda-510(k)-clearance",
+    "toll-like-receptor-9-(tlr9)-agonist-platform",
+    "immune-checkpoint-inhibitor-(cpi)-combination-therapy"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TLSI",
+  "origin": {
+    "leaf": "73d57e84b6bb8d7c3fc79bc1010e3e30bcef4ab617523fd920d0892a5e6d71b5",
+    "parent": "65ff366ec53a91e0ad49d39edfae97ab7e48bf7e12277081c40e16bcf8e52196",
+    "timestamp": "2026-04-12T03:12:51.800Z",
+    "source": "0001628280-26-015163",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/73d57e84b6bb8d7c3fc79bc1010e3e30bcef4ab617523fd920d0892a5e6d71b5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.800Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

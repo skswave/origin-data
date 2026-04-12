@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SACH",
+  "name": "Sachem Capital Corp.",
+  "cik": "0001682220",
+  "exchange": "NYSE",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "NY",
+  "headquarters": null,
+  "founded": "2016",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Sachem Capital Corp. is a Connecticut-based real estate finance company and REIT that specializes in originating, underwriting, funding, servicing, and managing short-term (one to three years) loans secured by first mortgage liens on real property. Known as 'hard money loans,' they target real estate investors and developers financing acquisition, renovation, rehabilitation, and development of residential or commercial properties. Revenue comes primarily from interest and origination, servicing, and extension fees.",
+  "tags": [
+    "residential-real-estate-finance",
+    "commercial-real-estate-finance",
+    "hard-money-lending",
+    "real-estate-investment-and-development-financing"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SACH",
+  "origin": {
+    "leaf": "c3b94437a367e403c6fd93ae9e24a279f4920ca1da7f8cdb0384020ef566bdfb",
+    "parent": "f5603aaaec118871126861067c082ec344517039f25c0b72be1fa390066b243f",
+    "timestamp": "2026-04-12T03:12:52.541Z",
+    "source": "0001682220-26-000014",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c3b94437a367e403c6fd93ae9e24a279f4920ca1da7f8cdb0384020ef566bdfb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.541Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

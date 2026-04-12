@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HYDTF",
+  "name": "Hydreight Technologies Inc.",
+  "cik": "0001958389",
+  "exchange": "OTC",
+  "sic": null,
+  "sic_description": null,
+  "state_of_incorporation": "A1",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HYDTF",
+  "origin": {
+    "leaf": "13d4c1eae64f04bac2ed0638f5cac4f59e3f53d95e56f75d5b7c5c6d9d871d0f",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:52.262Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/13d4c1eae64f04bac2ed0638f5cac4f59e3f53d95e56f75d5b7c5c6d9d871d0f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.262Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

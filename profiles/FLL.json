@@ -1,0 +1,61 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FLL",
+  "name": "FULL HOUSE RESORTS INC",
+  "cik": "0000891482",
+  "summary": "Full House Resorts Inc. is a casino and hospitality company that owns and operates multiple gaming properties. Its portfolio includes Chamonix (a casino resort in Colorado), American Place (a temporary and planned permanent casino facility), and Grand Lodge Casino at the Hyatt Lake Tahoe complex. The company also holds sports wagering contracts with third-party providers and invests in capital improvements across its properties.",
+  "products": [
+    {
+      "name": "Chamonix Casino Resort",
+      "type": "service",
+      "description": "Casino resort property targeting the Colorado Springs and southern Denver markets."
+    },
+    {
+      "name": "American Place",
+      "type": "service",
+      "description": "Casino facility operating in temporary form with a permanent facility under development."
+    },
+    {
+      "name": "Grand Lodge Casino",
+      "type": "service",
+      "description": "Casino located within the Hyatt Lake Tahoe complex, currently undergoing renovation-related disruptions."
+    },
+    {
+      "name": "Sports Wagering Contracts",
+      "type": "service",
+      "description": "Sports wagering operations conducted via contracts with third-party providers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Hyatt",
+      "partnership_type": "strategic",
+      "description": "Grand Lodge Casino is housed within the Hyatt Lake Tahoe complex.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Third-party sports wagering providers",
+      "partnership_type": "licensing",
+      "description": "Sports wagering contracts with third-party providers for wagering operations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FLL/profile",
+  "origin": {
+    "leaf": "c3942ac09c43b5056101c73d30c7928a47b62a8d3a2b87984e0adfa3b3557726",
+    "parent": "1edfcd1ba32db85adb75f66a14a7bf9d841ca2f342827b51aaa6146f620350ab",
+    "timestamp": "2026-04-12T03:12:57.513Z",
+    "source": "profile:0000891482",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c3942ac09c43b5056101c73d30c7928a47b62a8d3a2b87984e0adfa3b3557726",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.513Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

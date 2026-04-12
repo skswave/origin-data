@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BKTI",
+  "name": "BK Technologies Corp",
+  "cik": "0000002186",
+  "summary": "BK Technologies Corporation (BKTI) is a holding company that, through its operating subsidiary BK Technologies, Inc., designs, manufactures, and markets public safety communications products. Its Radio product group offers P25-compliant two-way land mobile radios (portable and mobile) for government, public safety, and military customers. Its Solutions product group offers BKONE-branded smartphone applications operating over public cellular networks to enhance situational awareness and coordination for first responders.",
+  "products": [
+    {
+      "name": "BKR Series Radios",
+      "type": "hardware",
+      "description": "P25-compliant two-way land mobile radios operating in VHF, UHF, and 700-800 MHz bands for public safety and government users."
+    },
+    {
+      "name": "KNG Series Radios",
+      "type": "hardware",
+      "description": "Legacy P25 digital and analog two-way land mobile radios for government and public safety markets."
+    },
+    {
+      "name": "BKONE",
+      "type": "platform",
+      "description": "Smartphone application platform operating over public cellular networks providing situational awareness and coordination tools for first responders including law enforcement, fire, and EMS."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BKTI/profile",
+  "origin": {
+    "leaf": "6f53d63511cc95fe4cdcc8588258532bf817e190ecb2c7bbc39197fe32b8a60f",
+    "parent": "e73944a6f29ffe771dfe7dba4c9710a0b23145eaefdb5517ab939d8bac4515d0",
+    "timestamp": "2026-04-12T03:12:56.802Z",
+    "source": "profile:0000002186",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6f53d63511cc95fe4cdcc8588258532bf817e190ecb2c7bbc39197fe32b8a60f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.802Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

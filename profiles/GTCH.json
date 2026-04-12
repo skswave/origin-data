@@ -1,0 +1,89 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GTCH",
+  "name": "GBT Technologies Inc.",
+  "cik": "0001471781",
+  "summary": "GBT Technologies Inc. (GTCH), incorporated in Nevada in 2009, develops IoT and AI-enabled networking and tracking technologies through its 50% subsidiary GBT Tokenize Corp. Products and services include wireless mesh network platforms, intelligent human body vitals devices, asset-tracking IoT, RF-based computer vision systems for 2D/3D imaging, IT consulting services, technology licensing, and e-commerce sales of electronic products.",
+  "products": [
+    {
+      "name": "Wireless Mesh Network Platform",
+      "type": "platform",
+      "description": "IoT and AI-enabled wireless mesh network technology for tracking and networking applications."
+    },
+    {
+      "name": "Intelligent Human Body Vitals Device",
+      "type": "hardware",
+      "description": "A vital signs monitoring device developed by GBT Tokenize based on its Technology Portfolio."
+    },
+    {
+      "name": "Asset-Tracking IoT",
+      "type": "hardware",
+      "description": "IoT-based asset tracking solution targeting growing markets."
+    },
+    {
+      "name": "RF-Based Computer Vision System",
+      "type": "hardware",
+      "description": "Advanced radio frequency system using radio waves to create 2D and 3D images of stationary and moving objects."
+    },
+    {
+      "name": "Avant-AI!",
+      "type": "software",
+      "description": "AI technology developed by GBT Tokenize and sold to Avant Technologies Inc. in April 2023."
+    },
+    {
+      "name": "IT Consulting Services",
+      "type": "service",
+      "description": "Provision of IT consulting services as part of the Company's technology offerings."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Tokenize-It, S.A.",
+      "partnership_type": "development",
+      "description": "Joint venture forming GBT Tokenize Corp to develop advanced mobile chip, tracking, radio, AI, and mesh technologies.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Magic Internacional Argentina FC, S.L.",
+      "partnership_type": "strategic",
+      "description": "Partner in the GBT Tokenize joint venture under the 2022 and 2023 Tokenize Agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Mahaser LTD.",
+      "partnership_type": "strategic",
+      "description": "Revenue Sharing Agreement for e-commerce sales in the USA, effective March 2022 and terminated July 2023.",
+      "start_date": null
+    },
+    {
+      "partner_name": "VisionWave Technologies Inc.",
+      "partnership_type": "licensing",
+      "description": "Patent Purchase Agreement for ML-driven radio wave transmission and 2D/3D imaging IP, with Tokenize receiving 50% of VisionWave shares.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Avant Technologies Inc.",
+      "partnership_type": "strategic",
+      "description": "GBT Tokenize sold Avant-AI! technology to Avant Technologies, receiving 26,000,000 shares of Avant common stock.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GTCH/profile",
+  "origin": {
+    "leaf": "d952f7563c5ac980485ca6d36f7aa25547e756edb926f8ce433c04c28fc30897",
+    "parent": "e97e789153f5415bdf2e7274cb284502b2def653b009b37e21cac29eae61a42b",
+    "timestamp": "2026-04-12T03:12:59.056Z",
+    "source": "profile:0001471781",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d952f7563c5ac980485ca6d36f7aa25547e756edb926f8ce433c04c28fc30897",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.056Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

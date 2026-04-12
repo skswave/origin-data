@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MBI",
+  "name": "MBIA INC",
+  "cik": "0000814585",
+  "exchange": "NYSE",
+  "sic": "6351",
+  "sic_description": "Surety Insurance",
+  "state_of_incorporation": "CT",
+  "headquarters": null,
+  "founded": "1986",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "MBIA Inc. is a Connecticut-based financial guarantee insurance holding company operating through subsidiaries National Public Finance Guarantee Corporation and MBIA Insurance Corporation. National provides unconditional and irrevocable financial guarantee insurance on U.S. public finance obligations, with $22.3 billion gross par outstanding as of December 31, 2025. MBIA Corp. covers international and structured finance markets with $2.1 billion gross par outstanding. Both subsidiaries are running off existing insured portfolios and are not writing new financial guarantee policies outside remediation activities.",
+  "tags": [
+    "u.s.-public-finance",
+    "international-finance",
+    "structured-finance"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MBI",
+  "origin": {
+    "leaf": "013c1166b03843d65a7432083617e94d9c732939526a542a05dc563423c795e0",
+    "parent": "6c6b9d664d8a1c283ca43d8d66755e7b19f4b604de737364d1519eb7a5ecb445",
+    "timestamp": "2026-04-12T03:12:51.699Z",
+    "source": "0001193125-26-076834",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/013c1166b03843d65a7432083617e94d9c732939526a542a05dc563423c795e0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.699Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

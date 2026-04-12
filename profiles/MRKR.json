@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MRKR",
+  "name": "Marker Therapeutics, Inc.",
+  "cik": "0001094038",
+  "summary": "Marker Therapeutics, Inc. (MRKR) is a clinical-stage biopharmaceutical company focused on developing multi-antigen recognizing T cell (MAR-T) therapies, formerly known as multiTAA-specific T cells, for cancer treatment. The company leverages its MAR-T cell platform to develop product candidates targeting multiple tumor-associated antigens. Marker maintains a key collaboration with Baylor College of Medicine (BCM) to support its research and development programs.",
+  "products": [
+    {
+      "name": "MAR-T cell therapies",
+      "type": "platform",
+      "description": "Multi-antigen recognizing T cell therapies (formerly multiTAA) targeting multiple tumor-associated antigens for cancer treatment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Baylor College of Medicine",
+      "partnership_type": "development",
+      "description": "Collaboration supporting research and development of MAR-T cell therapies and other product candidates.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MRKR/profile",
+  "origin": {
+    "leaf": "212677d80b50717f82b127b557d7888e9039191e03c6893c638df416b1fc39ac",
+    "parent": "ddf4902d1cacf496dabbc453d5c6718892f85874a1c7f86e143411b09a77df0c",
+    "timestamp": "2026-04-12T03:12:58.319Z",
+    "source": "profile:0001094038",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/212677d80b50717f82b127b557d7888e9039191e03c6893c638df416b1fc39ac",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.319Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

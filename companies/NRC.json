@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NRC",
+  "name": "NATIONAL RESEARCH CORP",
+  "cik": "0000070487",
+  "exchange": "Nasdaq",
+  "sic": "8731",
+  "sic_description": "Services-Commercial Physical & Biological Research",
+  "state_of_incorporation": "DE",
+  "headquarters": "Lincoln, Nebraska",
+  "founded": "1981",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "NRC Health (National Research Corporation) provides subscription-based healthcare experience management solutions to healthcare organizations across the United States. Founded in 1981, the company offers AI-enabled products across four solution categories: Patient Experience, Consumer Experience, Employee Experience, and Market Experience. Its platform collects, analyzes, and delivers feedback from patients, consumers, and clinicians to help healthcare systems improve operations, compliance, and patient loyalty.",
+  "tags": [
+    "healthcare-patient-experience-management",
+    "healthcare-consumer-experience-management",
+    "healthcare-employee-experience-management",
+    "healthcare-market-research-and-brand-analytics",
+    "healthcare-reputation-management",
+    "healthcare-governance-and-strategy",
+    "cahps-(consumer-assessment-of-healthcare-providers-and-systems)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NRC",
+  "origin": {
+    "leaf": "38cab9d5f5fc48b9ccbfa5041757dbb57b56f46369d82dec50d812a58933197e",
+    "parent": "d134391411332220d51f59d0f897ef965e95392f82178d74a2ef8e5ff589d317",
+    "timestamp": "2026-04-12T03:12:51.506Z",
+    "source": "0001437749-26-007002",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/38cab9d5f5fc48b9ccbfa5041757dbb57b56f46369d82dec50d812a58933197e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.506Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

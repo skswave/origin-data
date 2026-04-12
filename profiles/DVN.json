@@ -1,0 +1,73 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DVN",
+  "name": "DEVON ENERGY CORP/DE",
+  "cik": "0001090012",
+  "summary": "Devon Energy Corporation is an independent oil and natural gas exploration and production company headquartered in Oklahoma City, Oklahoma. The company produces oil, natural gas, and natural gas liquids (NGLs) primarily from operations in the United States, including the Anadarko Basin, Delaware Basin (New Mexico/Texas), Rockies, and other domestic basins. Devon also engages in marketing and midstream activities related to its production.",
+  "products": [
+    {
+      "name": "Crude Oil",
+      "type": "service",
+      "description": "Exploration and production of crude oil from U.S. onshore basins."
+    },
+    {
+      "name": "Natural Gas",
+      "type": "service",
+      "description": "Exploration and production of natural gas from U.S. onshore basins."
+    },
+    {
+      "name": "Natural Gas Liquids (NGLs)",
+      "type": "service",
+      "description": "Exploration and production of NGLs from U.S. onshore basins."
+    },
+    {
+      "name": "Marketing and Midstream Services",
+      "type": "service",
+      "description": "Marketing and midstream activities including gas, oil, and NGL revenues."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "QL Capital Partners LP",
+      "partnership_type": "strategic",
+      "description": "Partnership related to Cotton Draw Midstream as of December 31, 2023.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Howard Energy Partners",
+      "partnership_type": "strategic",
+      "description": "WPX and Howard Energy Partners agreement referenced in filing.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fervo",
+      "partnership_type": "strategic",
+      "description": "Investment or partnership referenced with balance as of December 31, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Matterhorn",
+      "partnership_type": "strategic",
+      "description": "Investment or partnership referenced with balances as of June 30 and December 31, 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DVN/profile",
+  "origin": {
+    "leaf": "cc0e5cf10a2bb36b3f3264e5e385b36dcaebed438d0b0bf4ca5731831227fc99",
+    "parent": "d81914011251c7da96091a4b75146af35e63416dab187a1fe7eb94924a319d72",
+    "timestamp": "2026-04-12T03:12:54.836Z",
+    "source": "profile:0001090012",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cc0e5cf10a2bb36b3f3264e5e385b36dcaebed438d0b0bf4ca5731831227fc99",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.836Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

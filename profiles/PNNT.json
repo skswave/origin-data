@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PNNT",
+  "name": "PENNANTPARK INVESTMENT CORP",
+  "cik": "0001383414",
+  "summary": "PennantPark Investment Corporation is a Business Development Company (BDC) that invests primarily in first lien secured debt, second lien secured debt, subordinated debt, and equity of privately held middle-market companies. It operates through subsidiaries including SBIC Fund, Taxable Subsidiary, and participates in joint ventures PSLF and PTSF II. It is managed by PennantPark Investment Advisers, LLC and administered by PennantPark Investment Administration, LLC.",
+  "products": [
+    {
+      "name": "First Lien Secured Debt",
+      "type": "service",
+      "description": "Senior secured loans to middle-market companies."
+    },
+    {
+      "name": "Second Lien Secured Debt",
+      "type": "service",
+      "description": "Second priority secured loans to middle-market companies."
+    },
+    {
+      "name": "Subordinated Debt",
+      "type": "service",
+      "description": "Subordinated debt investments in middle-market companies."
+    },
+    {
+      "name": "Equity Investments",
+      "type": "service",
+      "description": "Equity stakes in privately held middle-market companies."
+    },
+    {
+      "name": "PSLF",
+      "type": "platform",
+      "description": "PennantPark Senior Loan Fund, LLC, an unconsolidated joint venture."
+    },
+    {
+      "name": "PTSF II",
+      "type": "platform",
+      "description": "PennantPark-TSO Senior Loan Fund II, LP, an unconsolidated limited partnership."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Truist Bank",
+      "partnership_type": "strategic",
+      "description": "Multi-currency amended and restated senior secured revolving credit facility provider.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BNP Paribas",
+      "partnership_type": "strategic",
+      "description": "Prior revolving credit facility provider before deconsolidation of Funding I.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PNNT/profile",
+  "origin": {
+    "leaf": "03980c4459bc008e9c4a948b6eebfc1a01b3e5ba90b8dbdb424606f07f42bc27",
+    "parent": "aa2bd0351606918f68c6c8f2539ced789956f5fec8b69eb4278182a4cf1d90f8",
+    "timestamp": "2026-04-12T03:12:56.762Z",
+    "source": "profile:0001383414",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/03980c4459bc008e9c4a948b6eebfc1a01b3e5ba90b8dbdb424606f07f42bc27",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.762Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

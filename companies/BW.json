@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BW",
+  "name": "Babcock & Wilcox Enterprises, Inc.",
+  "cik": "0001630805",
+  "exchange": "NYSE",
+  "sic": "3433",
+  "sic_description": "Heating Equipment, Except Electric & Warm Air Furnaces",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "We are a globally-focused energy technologies provider with nearly 160 years of experience providing diversified energy and emissions control solutions to a broad range of industrial, electrical utility, municipal and other customers. We support global energy needs and baseload power demand by providing advanced technologies that utilize coal, natural gas, hydrogen, waste and biomass to produce energy, environmental solutions and carbon capture systems. Our proven platforms help utilities, data ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 1650,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BW",
+  "origin": {
+    "leaf": "94054c388c843cef4f05116bb9c3afda70a966e6959921a4e85370d6d3c96759",
+    "parent": "5658960b53c704621760694d960f8c0c17f1cb74ce49064f6b26aece9f261f77",
+    "timestamp": "2026-04-12T03:12:50.897Z",
+    "source": "0001630805-26-000018",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/94054c388c843cef4f05116bb9c3afda70a966e6959921a4e85370d6d3c96759",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.897Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

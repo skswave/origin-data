@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BXMT",
+  "name": "BLACKSTONE MORTGAGE TRUST, INC.",
+  "cik": "0001061630",
+  "exchange": "NYSE",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Blackstone Mortgage Trust, Inc. (BXMT) is a real estate finance company that originates and acquires senior loans collateralized by commercial real estate in North America, Europe, and Australia. It operates as a real estate investment trust (REIT) and is managed by an affiliate of Blackstone. Its primary business involves mortgage lending and investment in real estate-related assets, funded through various financing arrangements and capital markets activities.",
+  "tags": [
+    "commercial-real-estate-lending",
+    "real-estate-capital-markets",
+    "north-american-real-estate",
+    "european-real-estate",
+    "australian-real-estate"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BXMT",
+  "origin": {
+    "leaf": "62c0129ca754b1fd2076b95a1e2a7a689284e68ef5f7befdc7e7cd825c71e53a",
+    "parent": "e98a0b9efa87cfd4e24a3c62daac9b642d6d090b8471ef5c99c5d04628cb267a",
+    "timestamp": "2026-04-12T03:12:50.750Z",
+    "source": "0001061630-26-000009",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/62c0129ca754b1fd2076b95a1e2a7a689284e68ef5f7befdc7e7cd825c71e53a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.750Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

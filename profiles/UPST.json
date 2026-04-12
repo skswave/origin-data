@@ -1,0 +1,61 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UPST",
+  "name": "Upstart Holdings, Inc.",
+  "cik": "0001647639",
+  "summary": "Upstart Holdings, Inc. is an AI-powered lending marketplace founded in 2012 that facilitates personal loans, auto loans, and home equity lines of credit (HELOCs). Using proprietary AI models, Upstart aims to improve credit risk assessment beyond traditional FICO-based systems, enabling higher approval rates and lower interest rates. Loans are funded through a network of bank and credit union lending partners, institutional investors, securitization programs, and balance sheet holdings. In 2025, 91% of loans on its platform were fully automated.",
+  "products": [
+    {
+      "name": "Upstart AI Lending Marketplace",
+      "type": "platform",
+      "description": "AI-powered marketplace facilitating personal, auto, and HELOC loans with automated underwriting and risk separation."
+    },
+    {
+      "name": "Upstart Auto Finance Software",
+      "type": "software",
+      "description": "Software used by auto dealerships to facilitate automotive retail lending through Upstart's platform."
+    },
+    {
+      "name": "Upstart.com",
+      "type": "platform",
+      "description": "Primary consumer-facing portal for accessing Upstart-powered loans."
+    },
+    {
+      "name": "Securitization and Pass-Through Programs",
+      "type": "service",
+      "description": "Programs allowing institutional investors to invest in securities collateralized by Upstart-powered loans."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Banks and Credit Unions (lending partners)",
+      "partnership_type": "strategic",
+      "description": "Lending partners retain or purchase loans originated on Upstart's marketplace; accounted for 26% of loan principal in 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Institutional Investors",
+      "partnership_type": "strategic",
+      "description": "Institutional investors purchase loans and invest in securitizations; accounted for 64% of loan principal in 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UPST/profile",
+  "origin": {
+    "leaf": "40aad6c1985a0014a4e9bf1992d21881d244e44386924ea15170991ba02c10fa",
+    "parent": "0d6a9929443647cbb0ff7a99ce1645e959e7a7007b4260531e35e8b123b11e56",
+    "timestamp": "2026-04-12T03:12:55.556Z",
+    "source": "profile:0001647639",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/40aad6c1985a0014a4e9bf1992d21881d244e44386924ea15170991ba02c10fa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.556Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

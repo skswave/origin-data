@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CQP",
+  "name": "Cheniere Energy Partners, L.P.",
+  "cik": "0001383650",
+  "summary": "Cheniere Energy Partners, L.P. (CQP) is a master limited partnership focused on LNG-related infrastructure. Through subsidiaries including SPL, SPLNG, and CTPL, the Partnership operates LNG liquefaction and regasification terminal facilities and natural gas pipelines. It sells LNG under Sale and Purchase Agreements (SPAs) and integrated production marketing (IPM) agreements, delivering LNG on a free-on-board basis to domestic and international customers.",
+  "products": [
+    {
+      "name": "LNG Liquefaction",
+      "type": "service",
+      "description": "Cooling natural gas into liquefied natural gas via refrigerant compressor Train facilities for export."
+    },
+    {
+      "name": "LNG Regasification",
+      "type": "service",
+      "description": "Regasification of imported LNG back into natural gas at terminal facilities."
+    },
+    {
+      "name": "Natural Gas Pipeline Transportation",
+      "type": "service",
+      "description": "Transportation of natural gas via pipeline infrastructure operated through subsidiary CTPL."
+    },
+    {
+      "name": "LNG Sale and Purchase Agreements (SPAs)",
+      "type": "service",
+      "description": "Long-term LNG sales contracts delivered on a free-on-board basis at the export terminal."
+    },
+    {
+      "name": "IPM Agreements",
+      "type": "service",
+      "description": "Integrated production marketing agreements purchasing gas from producers and selling on global LNG or natural gas index pricing."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "SPLNG",
+      "partnership_type": "strategic",
+      "description": "Subsidiary operating LNG regasification terminal; CQP receives cash distributions from SPLNG.",
+      "start_date": null
+    },
+    {
+      "partner_name": "SPL",
+      "partnership_type": "strategic",
+      "description": "Subsidiary operating LNG liquefaction facilities; CQP receives cash distributions from SPL.",
+      "start_date": null
+    },
+    {
+      "partner_name": "CTPL",
+      "partnership_type": "strategic",
+      "description": "Subsidiary operating natural gas pipeline facilities supporting LNG terminal operations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CQP/profile",
+  "origin": {
+    "leaf": "22555bef8236ba6244bd5cc25e4d5f4d7d8d8a45e1c87d47efb0d5f6f0ecf061",
+    "parent": "8a3ab34242d1c794c51bc9c4f479de78756baa982e047ac457a6e0e61ef78912",
+    "timestamp": "2026-04-12T03:12:54.836Z",
+    "source": "profile:0001383650",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/22555bef8236ba6244bd5cc25e4d5f4d7d8d8a45e1c87d47efb0d5f6f0ecf061",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.836Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

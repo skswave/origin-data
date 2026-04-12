@@ -1,0 +1,59 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HPQ",
+  "name": "HP INC",
+  "cik": "0000047217",
+  "exchange": "NYSE",
+  "sic": "3570",
+  "sic_description": "Computer & office Equipment",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1031",
+  "summary": "HP Inc. is a global technology company operating in over 170 countries, offering personal computing devices, printing hardware, supplies, services, and subscriptions. Products include AI PCs, workstations, notebooks, desktops, office and home printers, large-format graphics solutions, and 3D printing systems. HP serves consumers, SMBs, enterprises, and public sector customers through Personal Systems, Printing, and Corporate Investments segments.",
+  "tags": [
+    "personal-computing",
+    "printing",
+    "3d-printing-and-additive-manufacturing",
+    "gaming",
+    "hybrid-work",
+    "graphics-and-industrial-printing",
+    "endpoint-security",
+    "education-and-public-sector",
+    "small-and-medium-sized-business",
+    "enterprise",
+    "microsoft-windows",
+    "google-chrome-os",
+    "ai-deep-learning-for-malware-detection",
+    "containment-and-isolation-technology-for-endpoint-security"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HPQ",
+  "origin": {
+    "leaf": "299130c6528a9ee3430aaecd473a2f34e39e87b802f7a19cfe991384d488f542",
+    "parent": "471448d0d5b454dc89540be03f080b9b7c25817d632e467562bd15aa00ebd352",
+    "timestamp": "2026-04-12T03:12:50.276Z",
+    "source": "0000047217-25-000071",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/299130c6528a9ee3430aaecd473a2f34e39e87b802f7a19cfe991384d488f542",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.276Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

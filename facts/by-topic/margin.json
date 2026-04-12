@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "margin",
   "label": "Margin",
-  "companies": 9,
-  "total_mentions": 112,
+  "companies": 22,
+  "total_mentions": 179,
   "results": [
     {
       "ticker": "AMD",
@@ -18,9 +18,51 @@
       "quarters": []
     },
     {
+      "ticker": "VIAV",
+      "company": "VIAVI SOLUTIONS INC.",
+      "mentions": 12,
+      "quarters": []
+    },
+    {
+      "ticker": "OKTA",
+      "company": "Okta, Inc.",
+      "mentions": 11,
+      "quarters": []
+    },
+    {
+      "ticker": "EFX",
+      "company": "EQUIFAX INC",
+      "mentions": 10,
+      "quarters": []
+    },
+    {
       "ticker": "UPS",
       "company": "UNITED PARCEL SERVICE INC",
       "mentions": 9,
+      "quarters": []
+    },
+    {
+      "ticker": "ONTO",
+      "company": "ONTO INNOVATION INC.",
+      "mentions": 7,
+      "quarters": []
+    },
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "mentions": 7,
+      "quarters": []
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum Holdings Inc.",
+      "mentions": 5,
+      "quarters": []
+    },
+    {
+      "ticker": "PAYX",
+      "company": "PAYCHEX INC",
+      "mentions": 5,
       "quarters": []
     },
     {
@@ -48,6 +90,18 @@
       "quarters": []
     },
     {
+      "ticker": "EQIX",
+      "company": "EQUINIX INC",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "ETSY",
+      "company": "ETSY INC",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "KLAC",
       "company": "KLA CORP",
       "mentions": 2,
@@ -58,21 +112,45 @@
       "company": "COCA COLA CO",
       "mentions": 2,
       "quarters": []
+    },
+    {
+      "ticker": "PLD",
+      "company": "Prologis, Inc.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "SHOP",
+      "company": "SHOPIFY INC.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "PNC",
+      "company": "PNC FINANCIAL SERVICES GROUP, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "PSA",
+      "company": "Public Storage",
+      "mentions": 1,
+      "quarters": []
     }
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=margin",
   "origin": {
-    "leaf": "43f99290f01920a6d9d5e889f8d219d45f8a63e4c93fcf4a56b36af609c0264e",
+    "leaf": "d0430beee836dfb7cc4c52a89349de36a085ada1ce82704acdc5031dc868b12e",
     "parent": "077c8f4629ee733964d96931dd35d5f51ac33c8584936f8717a74e0fa5c8ef20",
-    "timestamp": "2026-04-12T02:43:09.165Z",
+    "timestamp": "2026-04-12T03:13:01.542Z",
     "source": "topic:margin",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/43f99290f01920a6d9d5e889f8d219d45f8a63e4c93fcf4a56b36af609c0264e",
+    "verify": "https://origin.rootz.global/api/verify/d0430beee836dfb7cc4c52a89349de36a085ada1ce82704acdc5031dc868b12e",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.165Z",
+    "exported_at": "2026-04-12T03:13:01.542Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

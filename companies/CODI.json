@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CODI",
+  "name": "Compass Diversified Holdings",
+  "cik": "0001345126",
+  "exchange": "NYSE",
+  "sic": "2510",
+  "sic_description": "Household Furniture",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Compass Diversified Holdings (CODI) is a publicly traded holding company that acquires and manages a diverse group of middle-market businesses across consumer and industrial sectors. Operating through Compass Group Diversified Holdings LLC, it controls multiple operating subsidiaries and is managed externally by Compass Group Management LLC (CGM). The company finances operations through a $600 million revolving credit facility and a $400 million term loan under its 2022 Credit Facility.",
+  "tags": [
+    "middle-market-acquisitions",
+    "consumer-branded-businesses",
+    "industrial-businesses"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CODI",
+  "origin": {
+    "leaf": "50c8a1c05a6b8a2b4ac3ffe989e648eac0bcb5a546e48c9237459c6f47dbb944",
+    "parent": "db172835b61a9bf9d5309ebc2d51968a650c122622058722cde49775b4c9bf6b",
+    "timestamp": "2026-04-12T03:12:51.308Z",
+    "source": "0001345126-26-000026",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/50c8a1c05a6b8a2b4ac3ffe989e648eac0bcb5a546e48c9237459c6f47dbb944",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.308Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

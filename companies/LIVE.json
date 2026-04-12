@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LIVE",
+  "name": "LIVE VENTURES Inc",
+  "cik": "0001045742",
+  "exchange": "Nasdaq",
+  "sic": "5900",
+  "sic_description": "Retail-Miscellaneous Retail",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "Live Ventures Incorporated is a diversified holding company operating through multiple subsidiaries. Based on the filing structure, the company engages in various business segments. The Item 1 Business section references pages 2-12 but the full operational details were not included in the provided text excerpt, limiting factual extraction of specific products and services.",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LIVE",
+  "origin": {
+    "leaf": "ca1cf1e5723e88f1020c28acbaf3315496eeea3f0ad8b7d09bda8ea08bb4814f",
+    "parent": "779dca7fa6a195b17437af29d3c4b82a426a38dd6f1ee7d38ecc95b87f68f3b9",
+    "timestamp": "2026-04-12T03:12:52.649Z",
+    "source": "0001628280-25-057711",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ca1cf1e5723e88f1020c28acbaf3315496eeea3f0ad8b7d09bda8ea08bb4814f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.649Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

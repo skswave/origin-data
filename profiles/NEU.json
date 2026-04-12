@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NEU",
+  "name": "NEWMARKET CORP",
+  "cik": "0001282637",
+  "summary": "NewMarket Corporation is a holding company whose subsidiaries manufacture and sell specialty chemicals. Afton Chemical produces petroleum additives (lubricant and fuel additives) sold globally to oil companies and blenders. Ethyl markets antiknock compounds in North America and performs contracted manufacturing. AMPAC manufactures specialty materials for solid rocket motors in aerospace and defense. Calca produces ultra-pure hydrazine for aerospace and defense propellant applications. NewMarket Development manages approximately 50 acres of Virginia real property.",
+  "products": [
+    {
+      "name": "Lubricant Additives",
+      "type": "hardware",
+      "description": "Formulated additive packages including detergents, dispersants, antiwear agents, viscosity modifiers, and antioxidants for engine oils, transmission, axle, and industrial fluids."
+    },
+    {
+      "name": "Fuel Additives",
+      "type": "hardware",
+      "description": "Chemical components and formulated packages that help refiners meet fuel specifications and improve performance of gasoline, diesel, and biofuels."
+    },
+    {
+      "name": "Antiknock Compounds",
+      "type": "hardware",
+      "description": "Marketed by Ethyl in North America; Ethyl also provides contracted manufacturing and related services to Afton and third parties."
+    },
+    {
+      "name": "Specialty Materials for Solid Rocket Motors",
+      "type": "hardware",
+      "description": "AMPAC manufactures specialty materials used in solid rocket motors for space launch and military defense applications."
+    },
+    {
+      "name": "Ultra Pure and High-Purity Hydrazine",
+      "type": "hardware",
+      "description": "Calca produces hydrazine products used as mission-critical propellants in aerospace and defense applications."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NEU/profile",
+  "origin": {
+    "leaf": "cc90e1455b1b0a8223ed157a92bfbe56feddbdc032e6f97483d7f5b8a9713a68",
+    "parent": "49179cb77a94c7f194dfdc9ad7d10b24cff903b81fb39cd34389416fd51e94ca",
+    "timestamp": "2026-04-12T03:12:55.201Z",
+    "source": "profile:0001282637",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cc90e1455b1b0a8223ed157a92bfbe56feddbdc032e6f97483d7f5b8a9713a68",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.201Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

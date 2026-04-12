@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HOV",
+  "name": "HOVNANIAN ENTERPRISES INC",
+  "cik": "0000357294",
+  "summary": "Hovnanian Enterprises, Inc. designs, constructs, markets, and sells single-family detached homes, attached townhomes, condominiums, urban infill, and active lifestyle homes in planned residential developments across 27 markets in 13 states. Founded in 1959, the company also provides financial services including mortgage origination and title services. It operates through three homebuilding segments—Northeast, Southeast, and West—and has delivered over 382,000 homes since inception.",
+  "products": [
+    {
+      "name": "Single-family detached homes",
+      "type": "service",
+      "description": "Designed and constructed homes sold to first-time, move-up, luxury, and active lifestyle buyers."
+    },
+    {
+      "name": "Attached townhomes and condominiums",
+      "type": "service",
+      "description": "Multi-unit residential homes sold in planned residential developments."
+    },
+    {
+      "name": "Urban infill homes",
+      "type": "service",
+      "description": "Homes built in urban infill locations as part of planned residential developments."
+    },
+    {
+      "name": "Active lifestyle homes",
+      "type": "service",
+      "description": "Homes designed for active lifestyle and empty nester buyers."
+    },
+    {
+      "name": "Mortgage loan origination",
+      "type": "service",
+      "description": "Mortgage loans provided to homebuilding customers through financial services operations."
+    },
+    {
+      "name": "Title services",
+      "type": "service",
+      "description": "Title services provided to homebuilding customers through financial services operations."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Blackstone Real Estate Advisors",
+      "partnership_type": "strategic",
+      "description": "Joint venture to own and develop Town & Country Homes existing residential communities, entered in 2005.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Building Talent Foundation (BTF)",
+      "partnership_type": "strategic",
+      "description": "Founding member; supports education and careers for underrepresented groups in residential construction.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HOV/profile",
+  "origin": {
+    "leaf": "020a78d3303d86204d374cf29f701884aef95b78c707bf62a12202db5584a85a",
+    "parent": "d800e1f0c014a99347ee4657a7c43f24871848d2df7cf5730bcd7392e9cc19bf",
+    "timestamp": "2026-04-12T03:12:56.218Z",
+    "source": "profile:0000357294",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/020a78d3303d86204d374cf29f701884aef95b78c707bf62a12202db5584a85a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.218Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

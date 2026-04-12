@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PAXH",
+  "name": "PREAXIA HEALTH CARE PAYMENT SYSTEMS INC.",
+  "cik": "0001350156",
+  "summary": "PreAxia Health Care Payment Systems Inc. is a Nevada-incorporated fintech company operating through Canadian subsidiaries. It offers a cloud-based Health Spending Account (HSA) management platform for employers and employees, handling cardholder management, reconciliation, financial settlement, and reporting. Through its new Zane Inc. CA subsidiary, it is developing an AI-powered personal financial management super-app targeting Generation Z, featuring a High-Interest Super Account, Smart Debit Card, and MoneyNet distributed financial network.",
+  "products": [
+    {
+      "name": "PreAxia HSA Management Platform",
+      "type": "platform",
+      "description": "Cloud-based platform for processing and managing Health Spending Accounts, including cardholder management, reconciliation, financial settlement, and customer reporting."
+    },
+    {
+      "name": "High-Interest Super Account (HISA)",
+      "type": "service",
+      "description": "Combined checking, savings, and investment account offering 10% APY average while keeping funds instantly accessible."
+    },
+    {
+      "name": "Smart Debit Card",
+      "type": "hardware",
+      "description": "Debit card that enforces daily spending limits based on predictive budgeting and automatically builds credit."
+    },
+    {
+      "name": "MoneyNet",
+      "type": "platform",
+      "description": "Distributed financial network that monitors user accounts across institutions to prevent overdrafts, maximize returns, and minimize fees."
+    },
+    {
+      "name": "Zane AI Personal Financial Super-App",
+      "type": "software",
+      "description": "AI-powered personal financial management app targeting Generation Z, functioning as a personal AI banker."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PAXH/profile",
+  "origin": {
+    "leaf": "0731d018815060912dfd8cf36a9fbc9350b13e8f51aedb6e1bad9bb01df0bbce",
+    "parent": "ea7c0a172e70afeec352ac0fd0495a672383cc99c42c6ad74c5c29e10f5a1037",
+    "timestamp": "2026-04-12T03:12:58.541Z",
+    "source": "profile:0001350156",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0731d018815060912dfd8cf36a9fbc9350b13e8f51aedb6e1bad9bb01df0bbce",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.541Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

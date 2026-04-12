@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "VHI",
+  "name": "VALHI INC /DE/",
+  "cik": "0000059255",
+  "exchange": "NYSE",
+  "sic": "2810",
+  "sic_description": "Industrial Inorganic Chemicals",
+  "state_of_incorporation": "DE",
+  "headquarters": "Dallas, Texas",
+  "founded": "1932",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Valhi, Inc. is a holding company operating through subsidiaries in three segments: Chemicals (Kronos Worldwide, a leading global TiO2 pigment producer selling to ~3,000 customers in 100 countries), Component Products (CompX International, manufacturer of security products and marine accessories), and Real Estate Management and Development (BMI and LandWell, developing commercial, industrial, and residential land in Henderson, Nevada).",
+  "tags": [
+    "titanium-dioxide-pigments",
+    "security-and-component-products",
+    "recreational-marine-accessories",
+    "real-estate-development",
+    "paints-and-coatings",
+    "plastics",
+    "paper",
+    "cosmetics-and-pharmaceuticals"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/VHI",
+  "origin": {
+    "leaf": "6c6f84bacca1afc8baf07ff494098bd0ff0b2e9820c8a4e060e1edd71d52694f",
+    "parent": "c7898d4d4fe9de930e9047ac37f2573178f80c96b9a83d196f7a982da849c30e",
+    "timestamp": "2026-04-12T03:12:51.484Z",
+    "source": "0001104659-26-025847",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6c6f84bacca1afc8baf07ff494098bd0ff0b2e9820c8a4e060e1edd71d52694f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.484Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

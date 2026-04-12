@@ -1,0 +1,107 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "QNTO",
+  "name": "QUAINT OAK BANCORP, INC.",
+  "cik": "0001391933",
+  "summary": "Quaint Oak Bancorp, Inc. is a Pennsylvania-based savings and loan holding company for Quaint Oak Bank, a chartered savings bank founded in 1926. The company offers commercial real estate loans, commercial business loans, residential mortgage loans, multi-family loans, construction loans, home equity loans, mortgage banking, title abstract, insurance services, and international correspondent banking through offices in Southampton, Allentown, and Philadelphia, Pennsylvania.",
+  "products": [
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Loans secured by commercial real estate, including SBA loans, totaling $309.7 million at December 31, 2025."
+    },
+    {
+      "name": "Commercial Business Loans",
+      "type": "service",
+      "description": "Business lending totaling $96.3 million, representing 17.6% of total loan portfolio at December 31, 2025."
+    },
+    {
+      "name": "Residential Mortgage Loans",
+      "type": "service",
+      "description": "One-to-four family residential loans including owner-occupied and non-owner-occupied properties totaling $70.5 million."
+    },
+    {
+      "name": "Quaint Oak Mortgage",
+      "type": "service",
+      "description": "Provides conventional, FHA, VA, and USDA mortgage loans underwritten to GSE-guidelines for sale in the secondary market."
+    },
+    {
+      "name": "Oakmont Commercial",
+      "type": "service",
+      "description": "Specializes in commercial real estate loans for small businesses primarily on the East Coast, sold in the secondary market."
+    },
+    {
+      "name": "Quaint Oak Insurance",
+      "type": "service",
+      "description": "Offers comprehensive home, auto, life, and business insurance coverage."
+    },
+    {
+      "name": "Quaint Oak Abstract",
+      "type": "service",
+      "description": "Provides title insurance and title abstract services."
+    },
+    {
+      "name": "International Correspondent Banking",
+      "type": "service",
+      "description": "Facilitates U.S. dollar payments for one international banking entity; $4.4 million in deposits as of December 31, 2025."
+    },
+    {
+      "name": "Multi-Family Residential Loans",
+      "type": "service",
+      "description": "Loans for properties with five or more residential units, totaling $40.8 million at December 31, 2025."
+    },
+    {
+      "name": "Construction Loans",
+      "type": "service",
+      "description": "Construction financing totaling $23.5 million, or 4.3% of total loan portfolio at December 31, 2025."
+    },
+    {
+      "name": "Home Equity Loans",
+      "type": "service",
+      "description": "Home equity lending totaling $5.4 million, or 1.0% of total loan portfolio at December 31, 2025."
+    },
+    {
+      "name": "Deposit Products",
+      "type": "service",
+      "description": "Certificates of deposit, business checking, and money market accounts; approximately 42% of deposits from outside Pennsylvania."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Federal Home Loan Bank of Pittsburgh",
+      "partnership_type": "strategic",
+      "description": "Quaint Oak Bank is a member of FHLB of Pittsburgh, one of 11 regional banks in the Federal Home Loan Bank System.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Pennsylvania-based national commercial bank (unnamed)",
+      "partnership_type": "strategic",
+      "description": "Correspondent banking relationship to facilitate cash transactions at Quaint Oak Bank's primarily cashless branch offices.",
+      "start_date": null
+    },
+    {
+      "partner_name": "One international banking entity (unnamed)",
+      "partnership_type": "strategic",
+      "description": "Partnership established in March 2022 to facilitate U.S. dollar payments through international correspondent banking operations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/QNTO/profile",
+  "origin": {
+    "leaf": "5c576a7fe1da468325cbd72f974b88eaf7008ee1f1d78db2afb2abe8f60fe941",
+    "parent": "1de1e39016901fc6d1ffaf4bdf1a570c9a8958545954d14191b302132da7c21d",
+    "timestamp": "2026-04-12T03:12:57.897Z",
+    "source": "profile:0001391933",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5c576a7fe1da468325cbd72f974b88eaf7008ee1f1d78db2afb2abe8f60fe941",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.897Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

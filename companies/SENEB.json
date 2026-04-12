@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SENEB",
+  "name": "Seneca Foods Corp",
+  "cik": "0000088948",
+  "exchange": "Nasdaq",
+  "sic": "2033",
+  "sic_description": "Canned, Fruits, Veg, Preserves, Jams & Jellies",
+  "state_of_incorporation": "NY",
+  "headquarters": "Fairport, New York",
+  "founded": "1949",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "Seneca Foods Corporation, founded in 1949 and headquartered in Fairport, New York, is a leading provider of packaged fruits and vegetables operating 26 main U.S. facilities. The company manufactures canned, frozen, and jarred produce and snack chips, selling private label and branded products under names including Seneca, Libby's, Green Giant, Aunt Nellie's, CherryMan, and READ to retailers, foodservice distributors, industrial customers, and export markets in approximately 55 countries.",
+  "tags": [
+    "retail-grocery-(supermarkets,-mass-merchandisers,-club-stores,-dollar-stores)",
+    "foodservice-distributors-and-restaurant-chains",
+    "industrial-food-manufacturers-and-repackagers",
+    "export-markets-(~55-countries)",
+    "federal,-state,-and-local-government-food-programs"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SENEB",
+  "origin": {
+    "leaf": "16ce400d4898c42220301e744e9c9aca19b596f370025d810cb4fadfec270c3d",
+    "parent": "2c8118f5a0094261b3e3f25264736d86aaebc0fbe3d7d4695000c2b8472de18f",
+    "timestamp": "2026-04-12T03:12:51.133Z",
+    "source": "0001437749-25-020197",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/16ce400d4898c42220301e744e9c9aca19b596f370025d810cb4fadfec270c3d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.133Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

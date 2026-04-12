@@ -1,0 +1,66 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ENRT",
+  "name": "Enertopia Corp.",
+  "cik": "0001346022",
+  "summary": "Enertopia Corp. is a Nevada-incorporated company focused on lithium exploration at its 88 unpatented mineral lode claims (1,818 acres) in Esmeralda County, Nevada, and green technology intellectual property. The company holds three granted patents and one pending patent, including the Enertopia Rainmaker (water collection via PV panels), an EMS battery monitoring system, and an Oxyhydrogen Production System. It also holds a 76% ownership interest in CapNtrack technology.",
+  "products": [
+    {
+      "name": "Enertopia Rainmaker",
+      "type": "hardware",
+      "description": "System that cools PV panel backsides below dew point to condense atmospheric moisture and collect water; patent #12231085 issued."
+    },
+    {
+      "name": "EMS (Energy Monitoring System)",
+      "type": "hardware",
+      "description": "Battery monitoring technology that helps increase the life and health of monitored battery packs; patent #12149091 issued."
+    },
+    {
+      "name": "CapNtrack",
+      "type": "platform",
+      "description": "Technology in which Enertopia holds a 76% ownership interest; specific function not detailed in filing."
+    },
+    {
+      "name": "Scalable Automated Oxyhydrogen Production, Storage, and Utilization System",
+      "type": "hardware",
+      "description": "Provisional patent filed for on-grid or off-grid oxyhydrogen production system; renewable energy with water vapor byproduct."
+    },
+    {
+      "name": "West Tonopah Lithium Project",
+      "type": "service",
+      "description": "Lithium exploration project with 212,000 tonnes LCE indicated and 420,000 tonnes LCE inferred mineral resources in Esmeralda County, NV."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Cypress Development Corp (Century Lithium)",
+      "partnership_type": "strategic",
+      "description": "Sold Clayton Valley lithium project on May 5, 2022 for $1,050,000 cash and 3,000,000 shares of Cypress Development Corp.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Davidson & Company LLP",
+      "partnership_type": "strategic",
+      "description": "Independent registered public accounting firm appointed for the year ending August 31, 2023.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ENRT/profile",
+  "origin": {
+    "leaf": "ffd5450253d488dcd203b9d87d643b2cb4463b16470522e63d10ab6db70e97f9",
+    "parent": "395cfe1b96cef6d1986e68f11e7d55a6761e3316f2b975716ea6279b4efd411c",
+    "timestamp": "2026-04-12T03:12:59.148Z",
+    "source": "profile:0001346022",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ffd5450253d488dcd203b9d87d643b2cb4463b16470522e63d10ab6db70e97f9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.148Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

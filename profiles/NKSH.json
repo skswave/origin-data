@@ -1,0 +1,91 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NKSH",
+  "name": "NATIONAL BANKSHARES INC",
+  "cik": "0000796534",
+  "summary": "National Bankshares, Inc. (NBI) is a Virginia-based financial holding company organized in 1986, operating primarily through its wholly-owned subsidiary The National Bank of Blacksburg (NBB). NBB offers retail and commercial banking services including loans, deposits, trust and wealth management, and debit/credit cards through 28 banking locations across southwest, western and central Virginia. NBI also owns National Bankshares Financial Services, Inc. (NBFS), which provides non-deposit investment and insurance products.",
+  "products": [
+    {
+      "name": "Commercial and Agricultural Loans",
+      "type": "service",
+      "description": "Lending products for small and mid-sized businesses and agricultural customers."
+    },
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Loans for commercial real estate and construction projects."
+    },
+    {
+      "name": "Residential Real Estate and Home Equity Loans",
+      "type": "service",
+      "description": "Mortgage and home equity lending products for individuals."
+    },
+    {
+      "name": "Consumer Loan Products",
+      "type": "service",
+      "description": "Various consumer lending options offered to individuals."
+    },
+    {
+      "name": "Deposit Accounts",
+      "type": "service",
+      "description": "Interest-bearing and non-interest bearing demand, money market, savings, CDs, HSAs, and IRAs."
+    },
+    {
+      "name": "Wealth Management and Trust Services",
+      "type": "service",
+      "description": "Trust, estate, and wealth management services for individuals and businesses."
+    },
+    {
+      "name": "Non-Deposit Investment Products",
+      "type": "service",
+      "description": "Investment products offered through NBFS in cooperation with Osaic, Inc."
+    },
+    {
+      "name": "Insurance Products",
+      "type": "service",
+      "description": "Insurance products offered through NBFS in cooperation with Bearing Insurance Group, LLC."
+    },
+    {
+      "name": "Online, Mobile and Telephone Banking",
+      "type": "platform",
+      "description": "Digital and telephone banking access for customers."
+    },
+    {
+      "name": "Business and Consumer Debit and Credit Cards",
+      "type": "service",
+      "description": "Debit and credit card products for business and individual customers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Osaic, Inc.",
+      "partnership_type": "strategic",
+      "description": "NBFS works with Osaic, Inc. to provide non-deposit investment products to customers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bearing Insurance Group, LLC",
+      "partnership_type": "strategic",
+      "description": "NBFS partners with Bearing Insurance Group, LLC to offer insurance products to customers.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NKSH/profile",
+  "origin": {
+    "leaf": "f61194eb7f2b3b6c5633f1a43999abe9eb17e4ee5c76d71e3f0892d4c1d94c19",
+    "parent": "563ab7b82c4907bb314b715d00da6fef7ee86ca76e4946f08a66b801d4dd6a99",
+    "timestamp": "2026-04-12T03:12:56.921Z",
+    "source": "profile:0000796534",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f61194eb7f2b3b6c5633f1a43999abe9eb17e4ee5c76d71e3f0892d4c1d94c19",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.921Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

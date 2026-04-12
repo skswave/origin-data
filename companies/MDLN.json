@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MDLN",
+  "name": "Medline Inc.",
+  "cik": "0002046386",
+  "exchange": "Nasdaq",
+  "sic": "3841",
+  "sic_description": "Surgical & Medical Instruments & Apparatus",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "General Medline Inc. (together with its subsidiaries, Medline, the Company, we, ours and us) is the largest provider of medical-surgical (med-surg) products and supply chain solutions serving all points of care, based on total net sales of med-surg products. Medline was founded in 1966 and today delivers mission-critical products used daily across the full range of care settings, from hospitals and surgery centers to physician offices and post-acute facilities. Our mission is to make healthcare ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 45000,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MDLN",
+  "origin": {
+    "leaf": "9ef4df7639c03cbf956c7f4203ae8ba59bad31d658a84010fb01527eb49e963f",
+    "parent": "85bcdb59056d47a1e9edf89a1d9fce2f3b93385c8ce41552d4223314372e5681",
+    "timestamp": "2026-04-12T03:12:50.365Z",
+    "source": "0002046386-26-000009",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9ef4df7639c03cbf956c7f4203ae8ba59bad31d658a84010fb01527eb49e963f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.365Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

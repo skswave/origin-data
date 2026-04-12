@@ -1,0 +1,467 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "HPQ",
+  "company": "HP INC",
+  "title": "HPQ Q1 FY2026 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2026",
+  "call_date": null,
+  "word_count": 11589,
+  "speakers": [
+    {
+      "name": "Karen L. Parkhill",
+      "title": "Executive Vice President &   Chief Financial Officer, HP, Inc.",
+      "firm": "HP",
+      "speaker_type": "executive",
+      "mention_count": 22
+    },
+    {
+      "name": "Ketan Patel",
+      "title": "President - Personal Systems, HP, Inc.",
+      "firm": "HP",
+      "speaker_type": "executive",
+      "mention_count": 9
+    },
+    {
+      "name": "Wamsi Mohan",
+      "title": "Analyst, BofA Securities, Inc.",
+      "firm": "BofA Securities",
+      "speaker_type": "analyst",
+      "mention_count": 6
+    },
+    {
+      "name": "Amit Daryanani",
+      "title": "Analyst, Evercore ISI  Ananda Baruah  Analyst, Loop Capital Markets LLC",
+      "firm": "Loop Capital Markets",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Alok",
+      "title": "Finance, Global Treasurer and Head of Investor  Relations, HP, Inc.  Bruce Dale Broussard  Interim Chief Executive Officer & Director, HP, Inc.  Karen L. Parkhill  Executive Vice President &   Chief Financial Officer, HP, Inc.  Ketan Patel  President - Personal Systems, HP, Inc., Juyal  Senior Vice President",
+      "firm": "Global Treasurer and Head of Investor  Relations",
+      "speaker_type": "executive",
+      "mention_count": 4
+    },
+    {
+      "name": "Krish Sankar",
+      "title": "Analyst, TD Cowen  Erik W. Woodring  Analyst, Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Katherine Murphy",
+      "title": "Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Asiya Merchant",
+      "title": "Analyst, Citigroup Global Markets Canada, Inc.",
+      "firm": "Citigroup Global Markets Canada",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Aaron Rakers",
+      "title": "Analyst, Wells Fargo Securities LLC",
+      "firm": "Wells Fargo Securities",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Alok Juyal",
+      "title": "Senior Vice President - Finance, Global Treasurer and Head of Investor  Relations, HP, Inc.",
+      "firm": "Global Treasurer and Head of Investor  Relations",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "Samik Chatterjee",
+      "title": "Analyst, JPM organ Securities LLC",
+      "firm": "JPM organ Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "David Vogt",
+      "title": "Analyst, UBS Securities LLC",
+      "firm": "UBS Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPQ",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 37,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPQ",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPQ",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPQ",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPQ total revenue",
+      "predicate": "reported",
+      "object": "$14.4 billion",
+      "value": 14.4,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPQ gross margin",
+      "predicate": "reported",
+      "object": "$19.6 percent",
+      "value": 19.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPQ gross margin",
+      "predicate": "reported",
+      "object": "$6.9 percent",
+      "value": 6.9,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPQ gross margin",
+      "predicate": "reported",
+      "object": "$18.3 percent",
+      "value": 18.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HPQ EPS",
+      "predicate": "reported",
+      "object": "$0.81",
+      "value": 0.81,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPQ",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "HPQ",
+      "predicate": "guided",
+      "object": "guidance range of $2.8 billion",
+      "value": 2.8,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "We believe there   is enormous value in  integrating devices, software, and services to work as a unified experience",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "We expect this volatility to remain throughout fiscal 2026  and likely into fiscal 2027",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "we believe   the market will rationalize over time, we have already been implementing a number of mitigation  measures",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "We expect that the memory situation will normalize at some point",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "We expect above - seasonal  revenue perfo rmance to continue in our fiscal Q2, driven largely by the pricing actions we have taken, with  revenue growth then m",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "we expect to  drive growth in Big Tank and industrial print to help offset",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "we expect Print revenue to be in line with normal  seasonality",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "we expect both non - GAAP OI&E and Corporate Other to be  roughly flat year - over - year for the remainder of the year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "we expect non - GAAP diluted net earnings per share to be in   the range of $0",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "we expect to see that largest impact in the second half",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "We believe now that about 60% has refr eshed to - date",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "we expect our  margins for the rest of the year to be below our   long - term range",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "we believe we've got the supply that we need to meet our plans and execute on  our strategy at this point",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "we believe we need to execute our plans for the rest of the year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "we expect any weakness in PC industry unit  shipments to weigh on the attach of monitors, keyboards, headsets, et cetera?  ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "we expect OpEx for FY 2026 to be roughly flat year - over - year in dollars",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HPQ",
+      "predicate": "stated",
+      "object": "we expect it to moderate   –   to still grow, but moderate into the back half",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "HPQ",
+      "predicate": "guided",
+      "object": "FY  2028 with $300 million",
+      "value": 300,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPQ",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "HPQ",
+      "predicate": "mentioned",
+      "object": "Microsoft",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "HPQ",
+      "predicate": "mentioned",
+      "object": "OpenAI",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPQ",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPQ",
+      "predicate": "discussed",
+      "object": "Robotics",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "robotics"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HPQ",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/HPQ/transcripts",
+  "origin": {
+    "leaf": "6d609e5033ca84dc97165a8429ae83168ff24850d3e4c4c3f77732b451119615",
+    "parent": "2f4a81d91ddf6874dfb7e1a3a001d7f2d3334c98d8fdacd008a4a23cd13b9a17ed99aa418492b51a516e8908687c4b4e",
+    "timestamp": "2026-04-12T03:13:00.791Z",
+    "source": "transcript:HPQ_HPQ-Q1-2026-Transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6d609e5033ca84dc97165a8429ae83168ff24850d3e4c4c3f77732b451119615",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.791Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

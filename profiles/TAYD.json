@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TAYD",
+  "name": "TAYLOR DEVICES, INC.",
+  "cik": "0000096536",
+  "summary": "Taylor Devices, Inc., incorporated in New York in 1955, designs, develops, manufactures, and markets shock absorption, rate control, and energy storage devices. Products include Seismic Dampers, Fluidicshoks, Crane and Industrial Buffers, Self-Adjusting Shock Absorbers, Liquid Die Springs, Vibration Dampers, Machined Springs, Custom Shock and Vibration Isolators, and Custom Actuators, serving aerospace, defense, industrial, and structural markets.",
+  "products": [
+    {
+      "name": "Seismic Dampers",
+      "type": "hardware",
+      "description": "Devices designed to mitigate earthquake effects on structures; represent a substantial portion of company sales."
+    },
+    {
+      "name": "Fluidicshoks",
+      "type": "hardware",
+      "description": "Compact shock absorbers up to 19,200 inch-pound capacity in 12 standard sizes for defense, aerospace, and commercial industries."
+    },
+    {
+      "name": "Crane and Industrial Buffers",
+      "type": "hardware",
+      "description": "Large shock absorbers up to 10,890,000 inch-pound capacity in 50+ sizes for cranes, truck docks, and industrial applications."
+    },
+    {
+      "name": "Self-Adjusting Shock Absorbers",
+      "type": "hardware",
+      "description": "Automatically adjust to different impact conditions; designed for high-cycle heavy industry applications."
+    },
+    {
+      "name": "Liquid Die Springs",
+      "type": "hardware",
+      "description": "Component parts used in machinery and equipment for manufacture of tools and dies."
+    },
+    {
+      "name": "Vibration Dampers",
+      "type": "hardware",
+      "description": "Control response of electronics and optical systems subjected to air, ship, or spacecraft vibration in aerospace and defense."
+    },
+    {
+      "name": "Machined Springs",
+      "type": "hardware",
+      "description": "Precisely controlled mechanical springs for aerospace applications requiring custom features unavailable in conventional wound coil springs."
+    },
+    {
+      "name": "Custom Shock and Vibration Isolators",
+      "type": "hardware",
+      "description": "Configurations including liquid springs, fluid dampers, elastomeric springs, and Pumpkin Mounts for defense applications."
+    },
+    {
+      "name": "Custom Actuators",
+      "type": "hardware",
+      "description": "Gas-charged, high-pressure actuators with custom features for special aerospace and defense applications."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TAYD/profile",
+  "origin": {
+    "leaf": "bd8f9e8858bca668352edb96ce3bbc22d8fb377418472574387e672d9f8968e4",
+    "parent": "dbab19d01602397b306a18cb48b794e7106bd213d7270e1d0dca7f52db129ea6",
+    "timestamp": "2026-04-12T03:12:57.070Z",
+    "source": "profile:0000096536",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bd8f9e8858bca668352edb96ce3bbc22d8fb377418472574387e672d9f8968e4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.070Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

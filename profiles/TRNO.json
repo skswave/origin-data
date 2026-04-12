@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TRNO",
+  "name": "Terreno Realty Corp",
+  "cik": "0001476150",
+  "summary": "Terreno Realty Corporation acquires, owns, and operates industrial real estate in six major coastal U.S. markets: New York City/Northern New Jersey, Los Angeles, Miami, San Francisco Bay Area, Seattle, and Washington, D.C. The company invests in warehouse/distribution, flex (light industrial and R&D), transshipment, and improved land properties. As of December 31, 2025, Terreno owned 309 buildings aggregating approximately 19.8 million square feet and 46 improved land parcels, leased to 683 customers.",
+  "products": [
+    {
+      "name": "Warehouse/Distribution Facilities",
+      "type": "service",
+      "description": "Single and multiple tenant industrial facilities with dock-high/grade-level doors, truck courts, and 18-36 ft clear heights; ~80.5% of annualized base rent."
+    },
+    {
+      "name": "Flex Facilities",
+      "type": "service",
+      "description": "Light industrial and R&D properties serving tenants under 10,000 sq ft with combined office and warehouse/manufacturing use; ~3.4% of annualized base rent."
+    },
+    {
+      "name": "Transshipment Facilities",
+      "type": "service",
+      "description": "Truck terminals and transshipment facilities with high dock-high door counts and staging for high-volume truck activity; ~6.0% of annualized base rent."
+    },
+    {
+      "name": "Improved Land",
+      "type": "service",
+      "description": "Industrial outdoor storage parcels used for truck, trailer, and car parking, with potential future redevelopment; ~10.1% of annualized base rent."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party property managers (local)",
+      "partnership_type": "strategic",
+      "description": "Terreno utilizes local third-party property managers for day-to-day property management of its portfolio properties.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TRNO/profile",
+  "origin": {
+    "leaf": "a97b7af5c1702bdbbdf471a2ed2e5546e168207aae54c61fff9ca041a11efb9f",
+    "parent": "5ff2223c076853dc9e3b115bb20234caaa244e19f5d98b317794f6ad7d51a1bd",
+    "timestamp": "2026-04-12T03:12:55.173Z",
+    "source": "profile:0001476150",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a97b7af5c1702bdbbdf471a2ed2e5546e168207aae54c61fff9ca041a11efb9f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.173Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

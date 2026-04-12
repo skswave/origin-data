@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HTFL",
+  "name": "Heartflow, Inc.",
+  "cik": "0001464521",
+  "summary": "Heartflow, Inc. provides AI-powered software for diagnosing and managing coronary artery disease (CAD). Its Heartflow Platform uses deep learning and computational fluid dynamics applied to coronary CT angiography (CCTA) images to generate personalized 3D heart models. Products include Heartflow FFR CT Analysis, Heartflow Plaque Analysis, and Heartflow RoadMap Analysis. As of December 31, 2025, the platform has assessed CAD in over 600,000 patients across more than 1,465 U.S. accounts.",
+  "products": [
+    {
+      "name": "Heartflow RoadMap Analysis",
+      "type": "software",
+      "description": "FDA-cleared anatomic visualization tool that improves CCTA read times by 25% and increases consistency between reviewing physicians by ~40%."
+    },
+    {
+      "name": "Heartflow FFR CT Analysis",
+      "type": "software",
+      "description": "Flagship product providing patient-specific interactive 3D coronary artery reconstruction with blood flow quantification derived from a single CCTA scan."
+    },
+    {
+      "name": "Heartflow Plaque Analysis",
+      "type": "software",
+      "description": "Software product that quantifies plaque volume and characterizes plaque composition from CCTA images to support risk stratification and treatment planning."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HTFL/profile",
+  "origin": {
+    "leaf": "37aa942f04f606f77b20a99316488dbbe29301ba8854519e464cda1e1f70c77b",
+    "parent": "c4b77170e38a1e7eddaba15fe00f3bc14504032c77bd06e641de13a76f1e5056",
+    "timestamp": "2026-04-12T03:12:55.634Z",
+    "source": "profile:0001464521",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/37aa942f04f606f77b20a99316488dbbe29301ba8854519e464cda1e1f70c77b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.634Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

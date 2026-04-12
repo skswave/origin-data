@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SCKT",
+  "name": "SOCKET MOBILE, INC.",
+  "cik": "0000944075",
+  "exchange": "Nasdaq",
+  "sic": "3571",
+  "sic_description": "Electronic Computers",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Socket Mobile, Inc. designs and markets data capture products, primarily barcode scanners, for mobile computing applications. The company's products are intended to work with third-party hardware and software platforms and are distributed through various channels. Socket Mobile serves markets requiring mobile data collection, including emerging standards such as RFID and Near Field Communications (NFC) for data capture solutions.",
+  "tags": [
+    "mobile-computing",
+    "barcode-data-capture",
+    "rfid/near-field-communications",
+    "rfid",
+    "near-field-communications-(nfc)",
+    "barcode"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SCKT",
+  "origin": {
+    "leaf": "3eab8a09f3187cd3faefb16acfea394a3e90736f6e6e91c276f33849c010298f",
+    "parent": "21fd62bff46cc05d16ed5be5784d0d961ed2afbb602a98c937e543cccb044c82",
+    "timestamp": "2026-04-12T03:12:53.270Z",
+    "source": "0000944075-26-000027",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3eab8a09f3187cd3faefb16acfea394a3e90736f6e6e91c276f33849c010298f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.270Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

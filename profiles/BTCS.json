@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BTCS",
+  "name": "BTCS Inc.",
+  "cik": "0001436229",
+  "summary": "BTCS Inc. is a U.S.-based, Nasdaq-listed blockchain technology company focused on revenue generation through blockchain infrastructure and decentralized finance (DeFi) activities, primarily on the Ethereum network. The company operates three business lines: NodeOps (Ethereum validator node operations earning staking rewards), Builder+ (proprietary block building for transaction optimization), and Imperium (launched 2025, deploying digital assets into DeFi protocols as liquidity provider). BTCS uses an integrated capital strategy combining ATM equity offerings, convertible notes, and ETH-backed DeFi borrowing.",
+  "products": [
+    {
+      "name": "NodeOps",
+      "type": "service",
+      "description": "Ethereum validator node operations performing transaction validation, attestation, and block proposals to earn ETH-denominated staking rewards."
+    },
+    {
+      "name": "Builder+",
+      "type": "platform",
+      "description": "Proprietary block-building operations that construct optimized transaction blocks for submission to Ethereum validators, earning fees from successfully proposed blocks."
+    },
+    {
+      "name": "Imperium",
+      "type": "platform",
+      "description": "DeFi business line deploying ETH and stablecoins into decentralized lending, borrowing, and liquidity provision protocols to generate variable on-chain revenues."
+    },
+    {
+      "name": "StakeSeeker",
+      "type": "platform",
+      "description": "Legacy technology service platform discontinued in 2024."
+    },
+    {
+      "name": "ChainQ",
+      "type": "platform",
+      "description": "Legacy technology service platform discontinued in 2025."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BTCS/profile",
+  "origin": {
+    "leaf": "7cdba156dae6d3ec0f60fdc8d92ae74c975e188bd90f60dd943b157316298384",
+    "parent": "101aa59182b77d4949f87d2c64c1472e7d8f7435b1080257c519157b14754b1b",
+    "timestamp": "2026-04-12T03:12:57.622Z",
+    "source": "profile:0001436229",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7cdba156dae6d3ec0f60fdc8d92ae74c975e188bd90f60dd943b157316298384",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.622Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WRB",
+  "name": "BERKLEY W R CORP",
+  "cik": "0000011544",
+  "summary": "W. R. Berkley Corporation is a Delaware-incorporated insurance holding company and one of the largest commercial lines writers in the United States. It operates in two segments: Insurance (excess and surplus lines, admitted lines, specialty personal lines in the U.S. and internationally) and Reinsurance & Monoline Excess (facultative and treaty reinsurance globally). The company operates 60 businesses across the U.S., Asia, Australia, Canada, Europe, Mexico, Scandinavia, South America, and the UK, with net premiums written of $12.7 billion in 2025.",
+  "products": [
+    {
+      "name": "Excess & Surplus Lines Insurance",
+      "type": "service",
+      "description": "Covers complex or unique risks outside standard market guidelines, including premises operations, auto, property, and professional liability."
+    },
+    {
+      "name": "Industry Specialty Insurance",
+      "type": "service",
+      "description": "Specialty coverages tailored to specific industries, offered on admitted or non-admitted basis in the U.S. and internationally."
+    },
+    {
+      "name": "Product Specialty Insurance",
+      "type": "service",
+      "description": "Specific lines such as workers compensation and professional liability, including risk management and loss control services."
+    },
+    {
+      "name": "Regional Commercial Insurance",
+      "type": "service",
+      "description": "Standard commercial insurance products for small-to-midsized businesses in 45 U.S. states and Washington D.C."
+    },
+    {
+      "name": "Facultative Reinsurance",
+      "type": "service",
+      "description": "Individual risk reinsurance provided in the U.S., Asia Pacific, Australia, Continental Europe, South Africa, and the UK."
+    },
+    {
+      "name": "Treaty Reinsurance",
+      "type": "service",
+      "description": "Portfolio-level reinsurance solutions offered across multiple international markets."
+    },
+    {
+      "name": "Fee-Based Services",
+      "type": "service",
+      "description": "Claims, administrative, and consulting services provided by certain insurance segment businesses."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WRB/profile",
+  "origin": {
+    "leaf": "21a2a4e01d0f52311197798198c7c8eb6b108a294e8ea7ff214d22ec29f44fbf",
+    "parent": "faff0d54e0116fb8d74952a176d87d1f5273f9f3e56f2a479a4d1fff498e6c06",
+    "timestamp": "2026-04-12T03:12:54.868Z",
+    "source": "profile:0000011544",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/21a2a4e01d0f52311197798198c7c8eb6b108a294e8ea7ff214d22ec29f44fbf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.868Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

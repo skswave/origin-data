@@ -1,0 +1,65 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ANET",
+  "name": "Arista Networks, Inc.",
+  "cik": "0001596532",
+  "summary": "Arista Networks designs and sells cloud networking solutions including hardware switches, routers, and software platforms. Its flagship Extensible Operating System (EOS) underpins a network-as-a-service portfolio spanning AI Centers, Data Centers, Campus, and WAN environments. Arista serves Cloud and AI Titans, AI and Specialty Providers, and Enterprise customers globally, offering products across Core networking, Cognitive Adjacencies (campus and routing), and Cognitive Networks (software and services).",
+  "products": [
+    {
+      "name": "Extensible Operating System (EOS)",
+      "type": "software",
+      "description": "State-oriented network operating system that underpins Arista's entire product portfolio and network-as-a-service platform."
+    },
+    {
+      "name": "Network Data Lake (NetDL)",
+      "type": "platform",
+      "description": "Data platform providing real-time telemetry and intelligent automation across Arista's networking infrastructure."
+    },
+    {
+      "name": "Switching Platforms",
+      "type": "hardware",
+      "description": "High-speed Ethernet switches for AI, cloud, and data center environments supporting leaf-spine architectures."
+    },
+    {
+      "name": "Routing Platforms",
+      "type": "hardware",
+      "description": "Routing hardware supporting WAN and campus network connectivity as part of Cognitive Adjacencies portfolio."
+    },
+    {
+      "name": "Campus Networking Solutions",
+      "type": "hardware",
+      "description": "Networking products targeting enterprise campus environments under the Cognitive Adjacencies category."
+    },
+    {
+      "name": "Cognitive Networks (Software and Services)",
+      "type": "service",
+      "description": "Software and services offerings providing automated diagnostics, telemetry, and network management capabilities."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Ultra Ethernet Consortium",
+      "partnership_type": "strategic",
+      "description": "Arista aligns with the Ultra Ethernet Consortium standard for Scale Out AI networking, replacing proprietary InfiniBand approaches.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ANET/profile",
+  "origin": {
+    "leaf": "95ac36d3ae4a93d0ba5f5e430e1e91f7f5c61a43d90a3e76e5bde887a0f64b53",
+    "parent": "632ef38a81611cb8fc7a7a0f4e3470903074fccc59580238d1e0c01fef6f5ab3",
+    "timestamp": "2026-04-12T03:12:54.702Z",
+    "source": "profile:0001596532",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/95ac36d3ae4a93d0ba5f5e430e1e91f7f5c61a43d90a3e76e5bde887a0f64b53",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.702Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

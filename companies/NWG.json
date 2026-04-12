@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NWG",
+  "name": "NatWest Group plc",
+  "cik": "0000844150",
+  "exchange": "NYSE",
+  "sic": "6029",
+  "sic_description": "Commercial Banks, NEC",
+  "state_of_incorporation": "X0",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NWG",
+  "origin": {
+    "leaf": "df9c1d8a7359e12e4e6ab405ad54adc145b63cf0397898f46738bab7528444c3",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:50.338Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/df9c1d8a7359e12e4e6ab405ad54adc145b63cf0397898f46738bab7528444c3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.338Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

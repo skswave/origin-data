@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NMEX",
+  "name": "NORTHERN MINERALS & EXPLORATION LTD.",
+  "cik": "0001415744",
+  "summary": "Northern Minerals & Exploration Ltd. is a Nevada-incorporated emerging natural resource company engaged in oil and gas production in central Texas and gold and silver exploration in northern Nevada. It operates through subsidiaries including Kathis Energy LLC (Texas oil and gas drilling) and ENMEX Operations LLC (Mexico real estate development), though both subsidiaries report no operational activity to date.",
+  "products": [
+    {
+      "name": "Oil and Gas Production",
+      "type": "service",
+      "description": "Oil and gas production operations in central Texas through subsidiary Kathis Energy LLC."
+    },
+    {
+      "name": "Gold and Silver Exploration",
+      "type": "service",
+      "description": "Exploration for gold and silver in northern Nevada."
+    },
+    {
+      "name": "Real Estate Development",
+      "type": "service",
+      "description": "Prospective real estate development projects in Mexico through ENMEX Operations LLC, with no activity to date."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Kathis Energy Fund 1, LP",
+      "partnership_type": "strategic",
+      "description": "Limited partnership formed in Texas to raise funds from investors for oil and gas drilling projects.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NMEX/profile",
+  "origin": {
+    "leaf": "5ba31317ae0201761d4722a772aa632731bafbfe9480111a260f51db07959008",
+    "parent": "82b9c3df93c3dfbc7009dd3de539db81e74fe1680187218c989eeb3948be200b",
+    "timestamp": "2026-04-12T03:12:58.443Z",
+    "source": "profile:0001415744",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5ba31317ae0201761d4722a772aa632731bafbfe9480111a260f51db07959008",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.443Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

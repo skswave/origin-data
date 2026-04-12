@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ROST",
+  "name": "ROSS STORES, INC.",
+  "cik": "0000745732",
+  "summary": "Ross Stores, Inc. operates two off-price retail apparel and home fashion brands: Ross Dress for Less and dds DISCOUNTS. As of January 31, 2026, the company operated 1,904 Ross stores in 44 states, D.C., Guam, and Puerto Rico, and 363 dds DISCOUNTS stores in 22 states. Ross offers brand-name apparel, accessories, footwear, and home fashions at 20%-60% below department store prices; dds DISCOUNTS targets lower-to-moderate income households at 20%-70% below moderate department and discount store prices.",
+  "products": [
+    {
+      "name": "Ross Dress for Less",
+      "type": "service",
+      "description": "Off-price retail chain offering brand-name apparel, accessories, footwear, and home fashions at 20%-60% below department and specialty store regular prices, targeting middle-income households."
+    },
+    {
+      "name": "dds DISCOUNTS",
+      "type": "service",
+      "description": "Off-price retail chain offering moderately-priced apparel, accessories, footwear, and home fashions at 20%-70% below moderate department and discount store prices, targeting lower-to-moderate income households."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ROST/profile",
+  "origin": {
+    "leaf": "e383b17dd00bbd26bc754743bf62fd86955686063410051c1b13d7f15172a149",
+    "parent": "5067b12b473d40b11611c7420d9d264913406441ddac5e9efd068c581ddf2c33",
+    "timestamp": "2026-04-12T03:12:54.757Z",
+    "source": "profile:0000745732",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e383b17dd00bbd26bc754743bf62fd86955686063410051c1b13d7f15172a149",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.757Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

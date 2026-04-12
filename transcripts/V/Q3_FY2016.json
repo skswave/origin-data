@@ -1,0 +1,151 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "V",
+  "company": "VISA INC.",
+  "title": "V Q3 FY2016 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2016",
+  "call_date": null,
+  "word_count": 3377,
+  "speakers": [
+    {
+      "name": "Revenue",
+      "title": "Q3 2016  US$ in millions, except percentages  Note: We did not include Visa Europe’s financial results in our unaudited consolidated statements of operations from the acquisi tion date, June 21, 2016, through June 30, 2016 as the  impact is immaterial",
+      "firm": "except percentages  Note: We did not include Visa Europe’s financial results in our unaudited consolidated statements of operations from the acquisi tion date",
+      "speaker_type": "other",
+      "mention_count": 16
+    },
+    {
+      "name": "Adjusted Operating Expenses",
+      "title": "Q3 2016  US$ in millions, except percentages  Note: We did not include Visa Europe’s financial results in our unaudited consolidated statements of operations from the acquisi tion date, June 21, 2016, through June 30, 2016 as the  impact is immaterial",
+      "firm": "except percentages  Note: We did not include Visa Europe’s financial results in our unaudited consolidated statements of operations from the acquisi tion date",
+      "speaker_type": "other",
+      "mention_count": 3
+    },
+    {
+      "name": "Adjusted Operating Margin",
+      "title": "Q3 2016  US$ in millions, except percentages  Note: We did not include Visa Europe’s financial results in our unaudited consolidated statements of operations from the acquisi tion date, June 21, 2016, through June 30, 2016 as the  impact is immaterial",
+      "firm": "except percentages  Note: We did not include Visa Europe’s financial results in our unaudited consolidated statements of operations from the acquisi tion date",
+      "speaker_type": "other",
+      "mention_count": 2
+    },
+    {
+      "name": "Revenue Detail",
+      "title": "Q3 2016  US$ in millions, except percentages  Note: We did not include Visa Europe’s financial results in our unaudited consolidated statements of operations from the acquisi tion date, June 21, 2016, through June 30, 2016 as the  impact is immaterial",
+      "firm": "except percentages  Note: We did not include Visa Europe’s financial results in our unaudited consolidated statements of operations from the acquisi tion date",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "V free cash flow",
+      "predicate": "reported",
+      "object": "$2.0 billion",
+      "value": 2,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "V free cash flow",
+      "predicate": "reported",
+      "object": "$4.4 billion",
+      "value": 4.4,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "V",
+      "predicate": "stated",
+      "object": "we believe the presentation of adjusted financial results excluding the following items, all of which are related to the acquisition of Visa Europe, provides a ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "V",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/V/transcripts",
+  "origin": {
+    "leaf": "185d485a2aa7d231fe3c974b136de9e47ca6cf10422662396e622c67f3d9a311",
+    "parent": "9fe02a4bd114f7b6862d1cb8d7e79f8e6f95ffc02affe0ad4219fd9c61cdacaa490b4a8d1df253473efa56f8d26aabc3",
+    "timestamp": "2026-04-12T03:13:01.276Z",
+    "source": "transcript:V_Visa-Inc.-Q3-2016-Financial-Results-Conference-Call-Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/185d485a2aa7d231fe3c974b136de9e47ca6cf10422662396e622c67f3d9a311",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.276Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

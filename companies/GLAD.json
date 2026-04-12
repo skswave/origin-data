@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "GLAD",
+  "name": "GLADSTONE CAPITAL CORP",
+  "cik": "0001143513",
+  "exchange": "Nasdaq",
+  "sic": null,
+  "sic_description": null,
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "Gladstone Capital Corp (GLAD) is a business development company (BDC) that operates as a regulated investment company (RIC) under the Internal Revenue Code. It provides debt and equity financing to small and mid-sized private companies in the United States. The company is externally managed by Gladstone Management Corporation (the Adviser) and focuses on generating income and capital gains through its investment portfolio.",
+  "tags": [
+    "small-and-mid-sized-private-companies",
+    "business-development-company-(bdc)-market",
+    "capital-markets"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/GLAD",
+  "origin": {
+    "leaf": "9402527a6ca2ca4dbca4e41d88dc22a16cde9cb352f5aee18057bb76ee666213",
+    "parent": "81687868777f5282afde3fe768bf0f4cf4339375b5c80024f39b08b2e3bc1e94",
+    "timestamp": "2026-04-12T03:12:51.496Z",
+    "source": "0001143513-25-000015",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9402527a6ca2ca4dbca4e41d88dc22a16cde9cb352f5aee18057bb76ee666213",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.496Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

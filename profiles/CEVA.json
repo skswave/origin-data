@@ -1,0 +1,81 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CEVA",
+  "name": "CEVA INC",
+  "cik": "0001173489",
+  "summary": "CEVA Inc. is a silicon and software intellectual property (IP) licensing company enabling Physical AI across connect, sense, and infer layers. It licenses processor IP, wireless connectivity platforms (Bluetooth, Wi-Fi, UWB, 5G, cellular IoT), AI/ML inference engines, and sensor fusion software to semiconductor and OEM customers for integration into ASICs, ASSPs, and SoCs. CEVA's IP is embedded in approximately 2 billion devices annually, with over 20 billion cumulative units shipped since 2003.",
+  "products": [
+    {
+      "name": "Ceva Waves Bluetooth",
+      "type": "platform",
+      "description": "Hardware IP and software stacks supporting Bluetooth and 802.15.4 standards for TWS earbuds, wearables, toys, and smart home devices."
+    },
+    {
+      "name": "Ceva Waves Wi-Fi",
+      "type": "platform",
+      "description": "Scalable subsystems supporting Wi-Fi 4 through Wi-Fi 7 for high-performance and low-power embedded designs."
+    },
+    {
+      "name": "Ceva Waves UWB",
+      "type": "platform",
+      "description": "MAC/PHY IP enabling precise ranging, secure localization, indoor navigation, and Doppler-based presence detection."
+    },
+    {
+      "name": "Ceva Waves Links",
+      "type": "platform",
+      "description": "Integrated multi-radio platforms with coexistence algorithms for Bluetooth, Wi-Fi, UWB on shared RF frontends."
+    },
+    {
+      "name": "Ceva Waves DragonFly",
+      "type": "platform",
+      "description": "Turnkey NB-IoT modem platforms with GNSS support for smart metering, asset tracking, and industrial IoT."
+    },
+    {
+      "name": "CevaXC20",
+      "type": "hardware",
+      "description": "DSP supporting 5G/5G-Advanced baseband for mobile broadband, RedCap, and IoT devices."
+    },
+    {
+      "name": "PentaG2",
+      "type": "platform",
+      "description": "Platform supporting 5G/5G-Advanced baseband processing for user equipment."
+    },
+    {
+      "name": "PentaGRAN",
+      "type": "platform",
+      "description": "Carrier-grade Layer 1 PHY processing platform for small cells, Open RAN, private networks, and satellite communications."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "DSP Group, Inc.",
+      "partnership_type": "strategic",
+      "description": "CEVA was formed from the combination of DSP Group's DSP IP licensing division and Parthus Technologies in November 2002.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Parthus Technologies plc",
+      "partnership_type": "strategic",
+      "description": "Merged with DSP Group's IP division in November 2002 to form CEVA as a dedicated pure-play IP licensing company.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CEVA/profile",
+  "origin": {
+    "leaf": "36ea31adea023082ca1140ec6ce487a9c625c9f614d70154bda98cba6f866d05",
+    "parent": "93d74aed27c1979ff7688c1ae2f417c8bfb1147915338643aafe4d70c2ec0754",
+    "timestamp": "2026-04-12T03:12:56.351Z",
+    "source": "profile:0001173489",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/36ea31adea023082ca1140ec6ce487a9c625c9f614d70154bda98cba6f866d05",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.351Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

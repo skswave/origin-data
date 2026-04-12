@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IVDN",
+  "name": "INNOVATIVE DESIGNS INC",
+  "cik": "0001190370",
+  "summary": "Innovative Designs, Inc. is a Delaware-incorporated company operating two business segments: house wrap for the building construction industry and cold weather clothing. Both segments use Insultex, a low-density polyethylene closed-cell foam with thermal, buoyancy, and scent-blocking properties. The company holds a license agreement with the Ketut Group for Insultex, sells products online and through distributors, and has worldwide distribution rights except Korea and Japan.",
+  "products": [
+    {
+      "name": "House Wrap (R-3 and R-6)",
+      "type": "hardware",
+      "description": "Multi-ply weatherization membrane made from Insultex providing moisture vapor transmission, air/water resistance, and R-value insulation for residential construction."
+    },
+    {
+      "name": "Arctic Armor Line",
+      "type": "hardware",
+      "description": "Cold weather jacket, bib, and gloves containing three layers of Insultex providing buoyancy, windproof, waterproof, and sub-zero temperature protection."
+    },
+    {
+      "name": "Swimeez Floating Swimwear",
+      "type": "hardware",
+      "description": "Swimwear with Insultex interior lining designed as a swim aid; discontinued in 2010, sold from existing inventory only."
+    },
+    {
+      "name": "Hunting Apparel Line",
+      "type": "hardware",
+      "description": "Hunting apparel using Insultex for near-total scent blocking; discontinued in 2010, sold from existing inventory only."
+    },
+    {
+      "name": "Insultex Material (Bulk)",
+      "type": "hardware",
+      "description": "Raw Insultex material sold in bulk to non-competing customers within the company's worldwide distribution jurisdiction."
+    },
+    {
+      "name": "House Wrap Tape",
+      "type": "hardware",
+      "description": "Tape product designed for use with the Insultex-based House Wrap product line."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Ketut Group",
+      "partnership_type": "licensing",
+      "description": "License and manufacturing agreement granting Innovative Designs worldwide Insultex distribution rights (excluding Korea and Japan) with fixed pricing for ten-year terms.",
+      "start_date": null
+    },
+    {
+      "partner_name": "The Hive Agency",
+      "partnership_type": "strategic",
+      "description": "Agency engaged to assist in designing and continuously developing the company's website at www.idigear.com.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IVDN/profile",
+  "origin": {
+    "leaf": "9729c1ee02d50474ca4eedf6acd86b96f06ced6e34b50986caf1e6e8cebaa51b",
+    "parent": "4ea50d8123e22d021a181d23effb2b3a87d787ef587f90977011968596f4384b",
+    "timestamp": "2026-04-12T03:12:58.416Z",
+    "source": "profile:0001190370",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9729c1ee02d50474ca4eedf6acd86b96f06ced6e34b50986caf1e6e8cebaa51b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.416Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

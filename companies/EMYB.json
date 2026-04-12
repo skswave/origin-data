@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EMYB",
+  "name": "Embassy Bancorp, Inc.",
+  "cik": "0001449794",
+  "exchange": "OTC",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "PA",
+  "headquarters": "Hanover Township, Pennsylvania",
+  "founded": "2001",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Embassy Bancorp, Inc. is a Pennsylvania bank holding company that owns Embassy Bank For The Lehigh Valley, a community bank serving consumers, businesses, and professionals in Lehigh and Northampton Counties, PA. It offers checking, savings, money market, and time deposits, along with commercial real estate loans, residential mortgages, home equity products, consumer loans, ACH origination, cash management, mobile banking, and merchant processing services.",
+  "tags": [
+    "consumer-banking",
+    "commercial-banking",
+    "small-and-mid-size-businesses-(revenues-under-$30-million)",
+    "legal-and-medical-professionals",
+    "residential-mortgage-borrowers",
+    "lehigh-and-northampton-counties,-pennsylvania"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EMYB",
+  "origin": {
+    "leaf": "fdbdec8e6ddf8ae80b7df976f04f6b5ce0964d594a3df4ebe6b6bc295a533d33",
+    "parent": "9f5b0c3d09821c273083610828a1cdc30b8800cb256c38cf13d96e60151d1777",
+    "timestamp": "2026-04-12T03:12:52.049Z",
+    "source": "0001449794-26-000003",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fdbdec8e6ddf8ae80b7df976f04f6b5ce0964d594a3df4ebe6b6bc295a533d33",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.049Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

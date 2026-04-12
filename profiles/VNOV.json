@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VNOV",
+  "name": "VitaNova Life Sciences Corp",
+  "cik": "0001699709",
+  "summary": "Yijia Group Corp. (operating as VitaNova Life Sciences Corp) is a Nevada corporation providing two business segments: consulting advisory services in management, accounting, and finance; and healthcare products and services through its wholly owned subsidiary Nutripeak Trading Corporation. Core healthcare products are anti-aging supplements that boost NAD+ levels to promote anti-aging, energy metabolism, cognitive function, and cellular repair, complemented by personalized health consultation and nutrition planning services.",
+  "products": [
+    {
+      "name": "NAD+ Anti-Aging Products",
+      "type": "hardware",
+      "description": "Supplements that increase NAD+ levels to promote anti-aging, enhance energy metabolism, improve cognitive function, and strengthen cellular repair."
+    },
+    {
+      "name": "Health Consultation Services",
+      "type": "service",
+      "description": "Personalized health advice, supplement recommendations, and customized nutrition and wellness plans based on individual customer needs."
+    },
+    {
+      "name": "Consulting Advisory Services",
+      "type": "service",
+      "description": "Management business, accounting, and finance consulting services for domestic and international clients."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VNOV/profile",
+  "origin": {
+    "leaf": "edea27f584084e41a51eb9ef877dbd3482cf2c4ba5b4e3aadea14e50e79ee781",
+    "parent": "8f44c80ee9fa2a8908bee505ba1c1c81179b1cf0ec26faa7059c6d985df1ba18",
+    "timestamp": "2026-04-12T03:12:57.910Z",
+    "source": "profile:0001699709",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/edea27f584084e41a51eb9ef877dbd3482cf2c4ba5b4e3aadea14e50e79ee781",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.910Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

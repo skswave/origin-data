@@ -1,0 +1,65 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CARV",
+  "name": "CARVER BANCORP INC",
+  "cik": "0001016178",
+  "summary": "Carver Bancorp, Inc. is a Delaware holding company for Carver Federal Savings Bank, a federally chartered savings bank founded in 1948 to serve African-American communities in New York City. The Bank offers deposit products, commercial and multifamily mortgages, business loans, debit cards, online banking, bill pay, and the Carver Community Cash suite for unbanked consumers including check cashing, wire transfers, prepaid cards, and money orders. It operates seven branches in Brooklyn, Manhattan, and Queens.",
+  "products": [
+    {
+      "name": "Demand, Savings and Time Deposits",
+      "type": "service",
+      "description": "Deposit products for consumers, businesses, and governmental agencies in New York City."
+    },
+    {
+      "name": "Commercial and Multifamily Mortgages",
+      "type": "service",
+      "description": "Mortgage loan products covering commercial real estate and multifamily asset classes."
+    },
+    {
+      "name": "Business Loans",
+      "type": "service",
+      "description": "Commercial business lending products for local businesses in the Bank's market area."
+    },
+    {
+      "name": "Carver Community Cash",
+      "type": "service",
+      "description": "Suite of financial products for unbanked/underbanked consumers including check cashing, wire transfers, bill payment, reloadable prepaid cards, and money orders."
+    },
+    {
+      "name": "Online and Telephone Banking",
+      "type": "platform",
+      "description": "Digital and phone-based banking services including online account opening, online bill pay, and telephone banking."
+    },
+    {
+      "name": "Debit Cards",
+      "type": "service",
+      "description": "Debit card products offered to Bank customers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Federal Home Loan Bank of New York",
+      "partnership_type": "strategic",
+      "description": "Member institution; the Bank uses FHLB-NY for borrowings and funding of mortgage products.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CARV/profile",
+  "origin": {
+    "leaf": "52d9db0becd870d8dc97cca411f692b77973e1799fb93ebfed3825352fe51f2d",
+    "parent": "165d8446717c47206179b9d7e6184aaa66c880fef1fd0763cc4e2e1e3bf56994",
+    "timestamp": "2026-04-12T03:12:59.903Z",
+    "source": "profile:0001016178",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/52d9db0becd870d8dc97cca411f692b77973e1799fb93ebfed3825352fe51f2d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.903Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "gpu_product",
   "label": "Gpu Product",
-  "companies": 6,
-  "total_mentions": 73,
+  "companies": 10,
+  "total_mentions": 130,
   "results": [
     {
       "ticker": "NVDA",
@@ -14,6 +14,27 @@
         "Q2_FY2026",
         "Q3_FY2026",
         "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "SMCI",
+      "company": "Super Micro Computer, Inc.",
+      "mentions": 33,
+      "quarters": []
+    },
+    {
+      "ticker": "DAL",
+      "company": "DELTA AIR LINES, INC.",
+      "mentions": 20,
+      "quarters": [
+        "Q3_FY2025",
+        "Q4_FY2025",
+        "Q1_FY2022",
+        "Q1_FY2025",
+        "Q3_FY2023",
+        "Q4_FY2023",
+        "Q4_FY2024",
+        "Q2_FY2022"
       ]
     },
     {
@@ -50,25 +71,37 @@
       ]
     },
     {
+      "ticker": "CSCO",
+      "company": "CISCO SYSTEMS, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "UPS",
       "company": "UNITED PARCEL SERVICE INC",
       "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "mentions": 1,
       "quarters": []
     }
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=gpu_product",
   "origin": {
-    "leaf": "ae735f7e9d228b29eae81a5577908798502c1269784eea1746cdae9eff501c78",
+    "leaf": "7710303bbf13ff06981376e939fc8cea4534bfc6e86bafcef31ffb70df8195f6",
     "parent": "85462694c0e54d736de6433ed85cb2b5a50198968ec91f2bb99d06e9ef6b4c18",
-    "timestamp": "2026-04-12T02:43:09.137Z",
+    "timestamp": "2026-04-12T03:13:01.517Z",
     "source": "topic:gpu_product",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/ae735f7e9d228b29eae81a5577908798502c1269784eea1746cdae9eff501c78",
+    "verify": "https://origin.rootz.global/api/verify/7710303bbf13ff06981376e939fc8cea4534bfc6e86bafcef31ffb70df8195f6",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.137Z",
+    "exported_at": "2026-04-12T03:13:01.517Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

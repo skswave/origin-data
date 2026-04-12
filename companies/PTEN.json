@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PTEN",
+  "name": "PATTERSON UTI ENERGY INC",
+  "cik": "0000889900",
+  "exchange": "Nasdaq",
+  "sic": "1381",
+  "sic_description": "Drilling Oil & Gas Wells",
+  "state_of_incorporation": "DE",
+  "headquarters": "Houston, Texas",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Patterson-UTI Energy, Inc. is a Houston, Texas-based provider of drilling and completion services to oil and natural gas exploration and production companies in the United States and select international markets. The company operates three segments: drilling services (contract drilling, directional drilling), completion services (hydraulic fracturing, wireline, cementing, power solutions), and drilling products (drill bits, downhole tools) serving over 30 countries.",
+  "tags": [
+    "oil-and-natural-gas-exploration-and-production",
+    "geothermal-energy",
+    "mining",
+    "marine-industry",
+    "energy-services---united-states",
+    "energy-services---international-(colombia,-ecuador,-middle-east,-saudi-arabia,-argentina,-oman)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PTEN",
+  "origin": {
+    "leaf": "fb1d2480af8de8490f0dda2cc44f25d53ccf916a291c48ee01e32f585eccadca",
+    "parent": "b6983ac8fdadc523fbad389f46c5fcde3df992c8fb7513e896f355556ec00a66",
+    "timestamp": "2026-04-12T03:12:50.689Z",
+    "source": "0000889900-26-000013",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fb1d2480af8de8490f0dda2cc44f25d53ccf916a291c48ee01e32f585eccadca",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.689Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

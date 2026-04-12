@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "REFR",
+  "name": "RESEARCH FRONTIERS INC",
+  "cik": "0000793524",
+  "summary": "Research Frontiers Inc (REFR) is a technology licensing company that develops and licenses its patented SPD-SmartGlass technology, which enables light control in windows, skylights, sunroofs, mirrors, and displays. The company does not manufacture products itself but licenses its suspended particle device (SPD) technology to manufacturers for use in automotive, architectural, aircraft, and marine applications.",
+  "products": [
+    {
+      "name": "SPD-SmartGlass",
+      "type": "platform",
+      "description": "Suspended particle device technology enabling electronically controllable light and glare reduction in glass and film products."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/REFR/profile",
+  "origin": {
+    "leaf": "273703b76ec0db5d4d381e2bf6bca6007ce1f05aeeef459a36c82c6b449be25a",
+    "parent": "a9d869313fa1429dbc552daa71f9ed73632cc042c699925bd6f59fae8a143316",
+    "timestamp": "2026-04-12T03:12:58.026Z",
+    "source": "profile:0000793524",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/273703b76ec0db5d4d381e2bf6bca6007ce1f05aeeef459a36c82c6b449be25a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.026Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

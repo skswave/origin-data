@@ -1,0 +1,127 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DAIO",
+  "name": "DATA I/O CORP",
+  "cik": "0000351998",
+  "summary": "Data I/O Corporation is a global provider of advanced programming, security deployment, and IP protection solutions for electronics manufacturing. The company designs, manufactures, and sells automated and manual programming systems (PSV family), security deployment systems (SentriX), and programming engines (LumenX, FlashCORE) targeting flash memory, microcontrollers, secure elements, and authentication devices. Customers include OEMs, EMS contract manufacturers, and programming centers in automotive, IoT, industrial, and consumer electronics markets.",
+  "products": [
+    {
+      "name": "PSV2800 Automated Programming System",
+      "type": "hardware",
+      "description": "Dedicated high-volume manufacturing programming system in a lower cost platform."
+    },
+    {
+      "name": "PSV7000 Automated Programming System",
+      "type": "hardware",
+      "description": "Well-adopted automated programming system for automotive electronics and security deployment upgrades."
+    },
+    {
+      "name": "PSV5000 Automated Programming System",
+      "type": "hardware",
+      "description": "Mid-range capacity and flexibility automated programming system supporting security deployment."
+    },
+    {
+      "name": "PSV3500 Automated Programming System",
+      "type": "hardware",
+      "description": "Lower cost platform for basic automated programming needs."
+    },
+    {
+      "name": "SentriX Security Deployment System",
+      "type": "platform",
+      "description": "Software license or pay-per-part system for provisioning keys and certificates into secure elements and microcontrollers."
+    },
+    {
+      "name": "LumenX",
+      "type": "hardware",
+      "description": "Highest performance programming engine supporting eMMC, UFS, NAND FLASH, microcontrollers, and serial FLASH devices."
+    },
+    {
+      "name": "FlashCORE",
+      "type": "hardware",
+      "description": "Programming engine available in automated and manual programming systems."
+    },
+    {
+      "name": "FlashPAK III",
+      "type": "hardware",
+      "description": "Manual programming system with four sockets, parallel programming, and network control via Ethernet."
+    },
+    {
+      "name": "Tasklink for Windows",
+      "type": "software",
+      "description": "Universal job setup tool available across automated and manual programming system families."
+    },
+    {
+      "name": "ConneX Service Software",
+      "type": "software",
+      "description": "Enables connected factory integration and automation for PSV systems."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Borg Warner",
+      "partnership_type": "OEM",
+      "description": "Notable OEM customer in automotive electronics segment.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bosch",
+      "partnership_type": "OEM",
+      "description": "Notable OEM customer in automotive electronics segment.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Tesla",
+      "partnership_type": "OEM",
+      "description": "Notable OEM customer in automotive/IoT electronics segment.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Foxconn",
+      "partnership_type": "OEM",
+      "description": "Notable EMS contract manufacturer customer.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Flex",
+      "partnership_type": "OEM",
+      "description": "Notable EMS contract manufacturer customer.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Jabil",
+      "partnership_type": "OEM",
+      "description": "Notable EMS contract manufacturer customer.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Arrow",
+      "partnership_type": "OEM",
+      "description": "Notable programming center partner customer.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Avnet",
+      "partnership_type": "OEM",
+      "description": "Notable programming center partner customer.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DAIO/profile",
+  "origin": {
+    "leaf": "76e7cc78bf49cd801e8845cfe3ac5dc6a9c1158bd4fe379b2703834f2e1e647d",
+    "parent": "0237ff422134442386b4893cd5def34f5cb3b9b77a203ef19f24d3f343fb5a5b",
+    "timestamp": "2026-04-12T03:12:58.169Z",
+    "source": "profile:0000351998",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/76e7cc78bf49cd801e8845cfe3ac5dc6a9c1158bd4fe379b2703834f2e1e647d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.169Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

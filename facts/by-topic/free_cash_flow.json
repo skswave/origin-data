@@ -2,14 +2,48 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "free_cash_flow",
   "label": "Free Cash Flow",
-  "companies": 18,
-  "total_mentions": 75,
+  "companies": 33,
+  "total_mentions": 144,
   "results": [
+    {
+      "ticker": "DAL",
+      "company": "DELTA AIR LINES, INC.",
+      "mentions": 23,
+      "quarters": [
+        "Q3_FY2025",
+        "Q4_FY2025",
+        "Q1_FY2022",
+        "Q1_FY2024",
+        "Q1_FY2025",
+        "Q2_FY2023",
+        "Q2_FY2024",
+        "Q2_FY2025",
+        "Q3_FY2023",
+        "Q4_FY2023",
+        "Q4_FY2024",
+        "Q2_FY2022"
+      ]
+    },
     {
       "ticker": "CRM",
       "company": "Salesforce, Inc.",
       "mentions": 14,
       "quarters": []
+    },
+    {
+      "ticker": "V",
+      "company": "VISA INC.",
+      "mentions": 14,
+      "quarters": [
+        "Q1_FY2016",
+        "Q1_FY2018",
+        "Q2_FY2016",
+        "Q2_FY2018",
+        "Q3_FY2016",
+        "Q3_FY2017",
+        "Q3_FY2018",
+        "Q4_FY2017"
+      ]
     },
     {
       "ticker": "WMT",
@@ -43,12 +77,46 @@
       ]
     },
     {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "mentions": 7,
+      "quarters": [
+        "Q1_FY2026",
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies Inc.",
+      "mentions": 6,
+      "quarters": [
+        "Q1_FY2025",
+        "Q3_FY2025",
+        "Q4_FY2025",
+        "Q2_FY2025"
+      ]
+    },
+    {
+      "ticker": "MSI",
+      "company": "Motorola Solutions, Inc.",
+      "mentions": 5,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "MMM",
       "company": "3M CO",
       "mentions": 4,
       "quarters": [
         "Q4_FY2025"
       ]
+    },
+    {
+      "ticker": "SMCI",
+      "company": "Super Micro Computer, Inc.",
+      "mentions": 3,
+      "quarters": []
     },
     {
       "ticker": "AMZN",
@@ -58,6 +126,12 @@
         "Q3_FY2025",
         "Q4_FY2025"
       ]
+    },
+    {
+      "ticker": "ICE",
+      "company": "Intercontinental Exchange, Inc.",
+      "mentions": 2,
+      "quarters": []
     },
     {
       "ticker": "INTC",
@@ -102,6 +176,12 @@
       "quarters": []
     },
     {
+      "ticker": "VIAV",
+      "company": "VIAVI SOLUTIONS INC.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "XOM",
       "company": "EXXON MOBIL CORP",
       "mentions": 2,
@@ -128,27 +208,75 @@
       "quarters": []
     },
     {
+      "ticker": "EFX",
+      "company": "EQUIFAX INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "EOG",
+      "company": "EOG RESOURCES INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "KEYS",
+      "company": "Keysight Technologies, Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q1_FY2026"
+      ]
+    },
+    {
       "ticker": "KLAC",
       "company": "KLA CORP",
       "mentions": 1,
       "quarters": [
         "Q2_FY2023"
       ]
+    },
+    {
+      "ticker": "LHX",
+      "company": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "RVTY",
+      "company": "REVVITY, INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "W",
+      "company": "Wayfair Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
     }
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=free_cash_flow",
   "origin": {
-    "leaf": "3c5b6867a8360e43d8b896cf4ee81309ff414d7dbb8753828337a1e1bf5fd9a0",
+    "leaf": "8dce0255508a95951bd8150385840cc0262f6ff463a4555efa77ee2e22f30084",
     "parent": "cb31c9d249e8b75789b0fd713e11329fa038d1fd75b909861cccce376f169ea1",
-    "timestamp": "2026-04-12T02:43:09.134Z",
+    "timestamp": "2026-04-12T03:13:01.512Z",
     "source": "topic:free_cash_flow",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/3c5b6867a8360e43d8b896cf4ee81309ff414d7dbb8753828337a1e1bf5fd9a0",
+    "verify": "https://origin.rootz.global/api/verify/8dce0255508a95951bd8150385840cc0262f6ff463a4555efa77ee2e22f30084",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.134Z",
+    "exported_at": "2026-04-12T03:13:01.512Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

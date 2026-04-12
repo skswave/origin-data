@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BVS",
+  "name": "Bioventus Inc.",
+  "cik": "0001665988",
+  "summary": "Bioventus Inc. (BVS) is a medical device and biologics company focused on orthobiologics and surgical solutions. The company develops and commercializes products for bone healing, pain treatment, and surgical procedures. Its portfolio includes treatments for musculoskeletal conditions, targeting areas such as joint pain, bone repair, and soft tissue repair, serving healthcare providers across multiple therapeutic segments.",
+  "live_api": "https://origin.rootz.global/api/company/BVS/profile",
+  "origin": {
+    "leaf": "c87043d75720fd44817c7e48610d9c54897a6fbc3006ddcbf2d73be5607d6cfa",
+    "parent": "2635f26ab21fa89366fddd9aeabd6e090d30df3e39e2091faa512f0f50786053",
+    "timestamp": "2026-04-12T03:12:56.261Z",
+    "source": "profile:0001665988",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c87043d75720fd44817c7e48610d9c54897a6fbc3006ddcbf2d73be5607d6cfa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.261Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

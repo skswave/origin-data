@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CNTHP",
+  "name": "CONNECTICUT LIGHT & POWER CO",
+  "cik": "0000023426",
+  "summary": "Connecticut Light and Power Company (CL&P) is a regulated electric utility and wholly owned subsidiary of Northeast Utilities, serving approximately 1.2 million residential, commercial, and industrial customers in 149 cities and towns across 4,400 square miles in Connecticut. CL&P is engaged in the purchase, delivery, and sale of electricity. It does not own any electric generation facilities and is subject to regulation by PURA and FERC.",
+  "products": [
+    {
+      "name": "Electric Distribution Service",
+      "type": "service",
+      "description": "Delivery of electricity to residential, commercial, and industrial customers in Connecticut."
+    },
+    {
+      "name": "Standard Service (SS) Rates",
+      "type": "service",
+      "description": "Electric generation supply service for customers with less than 500 kilowatts of demand who have not chosen competitive suppliers."
+    },
+    {
+      "name": "Last Resort Service (LRS) Rates",
+      "type": "service",
+      "description": "Electric generation supply service for customers with 500 kilowatts or more of demand who have not chosen competitive suppliers."
+    },
+    {
+      "name": "System Resiliency Program",
+      "type": "service",
+      "description": "Program costs recovered through the federally-mandated congestion charge on customer bills."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CNTHP/profile",
+  "origin": {
+    "leaf": "43119c6f6be004771a70e916da8e9598c5ce2f213a3106ccfae2c862a9592eba",
+    "parent": "7cb8d359c221c2b90ef9cae60f554f7813975eb5ed54c8aef6e28f10e2ac0392",
+    "timestamp": "2026-04-12T03:12:59.786Z",
+    "source": "profile:0000023426",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/43119c6f6be004771a70e916da8e9598c5ce2f213a3106ccfae2c862a9592eba",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.786Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

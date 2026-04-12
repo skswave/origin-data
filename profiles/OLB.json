@@ -1,0 +1,76 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "OLB",
+  "name": "OLB GROUP, INC.",
+  "cik": "0001314196",
+  "summary": "The OLB Group, Inc. is a FinTech company providing integrated business solutions to merchants across the United States. Its core offerings include payment processing via eVance (an ISO), the OmniSoft cloud-based business management platform, the SecurePay payment gateway, CrowdPay white-label crowdfunding platform, Moola Cloud debit and calling card platforms targeting underbanked communities, and DMINT Bitcoin mining operations in Selmer, Tennessee.",
+  "products": [
+    {
+      "name": "OmniSoft",
+      "type": "platform",
+      "description": "Cloud-based business management platform for merchants to manage inventory, track sales, and process transactions online or in-store."
+    },
+    {
+      "name": "eVance",
+      "type": "service",
+      "description": "Independent sales organization providing credit and debit card payment processing solutions to merchants throughout the United States."
+    },
+    {
+      "name": "SecurePay",
+      "type": "platform",
+      "description": "PCI-compliant payment gateway and virtual terminal certified by Visa and MasterCard, supporting Level II, Level III, and 3D Secure."
+    },
+    {
+      "name": "CrowdPay",
+      "type": "platform",
+      "description": "White-label capital raising platform for small and midsized businesses supporting Regulation CF, Regulation D, and Regulation A+ offerings."
+    },
+    {
+      "name": "Crowd Ignition",
+      "type": "software",
+      "description": "Web-based crowdfunding software for broker-dealers, merchant banks, and law firms to market offerings and collect payments under SEC regulations."
+    },
+    {
+      "name": "Moola Cloud",
+      "type": "platform",
+      "description": "Debit and calling card platform targeting underbanked communities with digital wallet, mobile app, and cash reload capabilities at ~31,600 US locations."
+    },
+    {
+      "name": "DMINT Bitcoin Mining",
+      "type": "hardware",
+      "description": "Bitcoin mining operation using ASIC-based Antminer S19J Pro computers at a data center in Selmer, Tennessee, with capacity for up to 5,000 machines."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Top five merchant processors (three unnamed)",
+      "partnership_type": "strategic",
+      "description": "eVance leverages relationships with three of the top five US merchant processors representing a majority of the merchant processing market.",
+      "start_date": null
+    },
+    {
+      "partner_name": "SDI Black 001, LLC",
+      "partnership_type": "strategic",
+      "description": "Seller of 80.01% membership interest in Moola Cloud (f/k/a Cuentas SDI, LLC) per Membership Interest Purchase Agreement dated June 15, 2023.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/OLB/profile",
+  "origin": {
+    "leaf": "dfdd0e207decb4b0556ad7a1a76d3b4ece87803c1894410f3753acd59cce0839",
+    "parent": "674252daebefbc117c957a07075cc9a24123b3accac408b6fa31c8b473204803",
+    "timestamp": "2026-04-12T03:12:58.609Z",
+    "source": "profile:0001314196",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dfdd0e207decb4b0556ad7a1a76d3b4ece87803c1894410f3753acd59cce0839",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.609Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

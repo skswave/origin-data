@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SIGA",
+  "name": "SIGA TECHNOLOGIES INC",
+  "cik": "0001010086",
+  "summary": "SIGA Technologies Inc is a commercial-stage pharmaceutical company focused on health security. Its primary product is TPOXX (tecovirimat), an antiviral treatment for smallpox and related orthopoxvirus diseases. SIGA supplies TPOXX to the U.S. government under the BARDA Contract with the Biomedical Advanced Research and Development Authority, and also markets TPOXX internationally in the nascent biodefense market.",
+  "products": [
+    {
+      "name": "TPOXX (tecovirimat)",
+      "type": "service",
+      "description": "Antiviral drug for treatment of smallpox and orthopoxvirus diseases, supplied to U.S. and international governments."
+    },
+    {
+      "name": "TPOXX (tecovirimat)",
+      "type": "service",
+      "description": "Antiviral treatment for smallpox and orthopoxvirus diseases, supplied to U.S. and international government customers for biodefense stockpiling."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "U.S. Biomedical Advanced Research and Development Authority (BARDA)",
+      "partnership_type": "strategic",
+      "description": "Procurement contract (19C BARDA Contract) for supply of TPOXX to the U.S. Government.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BARDA (U.S. Biomedical Advanced Research and Development Authority)",
+      "partnership_type": "strategic",
+      "description": "SIGA holds the 19C BARDA Contract for supply and development of TPOXX to the U.S. government.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SIGA/profile",
+  "origin": {
+    "leaf": "f913c4b15eadd720e23149391b254d1826b38e7e7b537832002807d5c5830e3b",
+    "parent": "98f6587eb7bbe2b721f9a24255bcb06636d968b47c0bae8e24ca1288af48ba54",
+    "timestamp": "2026-04-12T03:12:56.547Z",
+    "source": "profile:0001010086",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f913c4b15eadd720e23149391b254d1826b38e7e7b537832002807d5c5830e3b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.547Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

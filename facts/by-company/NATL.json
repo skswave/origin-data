@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "NATL",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "NATL",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 32,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NATL",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 32,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NATL",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 32,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NATL/transcripts",
+  "origin": {
+    "leaf": "55bda1dd8e009786c0a505bd0a0242199d164502221139c8f44412e8f00cb41e",
+    "parent": "25510216570eb55fadcf4f676819c296d41ffa4a66fbc7cf680ee0f8c3bafc87",
+    "timestamp": "2026-04-12T03:13:40.899Z",
+    "source": "facts:NATL",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/55bda1dd8e009786c0a505bd0a0242199d164502221139c8f44412e8f00cb41e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:40.899Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

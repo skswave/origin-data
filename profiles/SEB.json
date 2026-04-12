@@ -1,0 +1,98 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SEB",
+  "name": "SEABOARD CORP /DE/",
+  "cik": "0000088121",
+  "summary": "Seaboard Corporation is a diversified conglomerate operating in agricultural, energy, and ocean transport businesses. It engages in hog production, pork processing, and biodiesel/renewable diesel production in the U.S.; commodity trading and grain processing in Africa and South America; cargo shipping services in the Caribbean and Central and South America; electric power generation in the Dominican Republic; and holds a 52.5% equity investment in Butterball, LLC, a turkey products producer.",
+  "products": [
+    {
+      "name": "Pork Products",
+      "type": "hardware",
+      "description": "Pork sold to further processors, foodservice operators, distributors, and grocery stores in U.S. and internationally."
+    },
+    {
+      "name": "Renewable Natural Gas",
+      "type": "service",
+      "description": "Swine-derived renewable natural gas produced from hog operations and anaerobic digester lagoons at farms in Texas, Oklahoma, and Kansas."
+    },
+    {
+      "name": "Biodiesel and Renewable Diesel",
+      "type": "hardware",
+      "description": "Biodiesel produced in Oklahoma and Missouri; renewable diesel produced in Kansas under Seaboard Energy, LLC."
+    },
+    {
+      "name": "Cargo Shipping Services",
+      "type": "service",
+      "description": "Dry, refrigerated, and other cargo shipping between the U.S. and 27 countries in the Caribbean and Central and South America."
+    },
+    {
+      "name": "Electric Power Generation",
+      "type": "service",
+      "description": "Electricity generated for the Dominican Republic power grid via two barges, EDM II and EDM III."
+    },
+    {
+      "name": "Turkey Products",
+      "type": "hardware",
+      "description": "Turkey products supplied to retail stores, foodservice outlets, and industrial entities via equity investment in Butterball, LLC."
+    },
+    {
+      "name": "Agricultural Commodity Trading and Milling",
+      "type": "service",
+      "description": "Trading of grains and oilseeds, milling of flour, animal feed, and animal-based proteins across 26 countries primarily in Africa and South America."
+    },
+    {
+      "name": "Sugar and Alcohol",
+      "type": "hardware",
+      "description": "Sugar and alcohol produced at a vertically integrated facility in Argentina with nearly 70,000 acres of cultivated sugarcane land."
+    },
+    {
+      "name": "Environmental Credits (RINs, LCFS)",
+      "type": "service",
+      "description": "Renewable identification numbers and Low Carbon Fuel Standard credits generated from biofuel production and sold to third parties."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Triumph Foods, LLC",
+      "partnership_type": "strategic",
+      "description": "50% joint venture partner in Seaboard Triumph Foods, LLC (STF), operating a pork processing plant in Iowa.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Triumph Foods, LLC",
+      "partnership_type": "strategic",
+      "description": "50% co-owner in Dailys Premium Meats, LLC, producing raw and pre-cooked bacon in Utah, Montana, and Missouri.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Triumph Foods, LLC",
+      "partnership_type": "strategic",
+      "description": "50% co-owner in Seaboard de Mexico USA LLC, operating a ham-boning and processing plant in Mexico.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Butterball, LLC",
+      "partnership_type": "strategic",
+      "description": "Seaboard holds a non-controlling 52.5% equity method investment in Butterball, a national turkey products supplier.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SEB/profile",
+  "origin": {
+    "leaf": "1b6629b9cee7604275b0495d57f129645a06cd5068400731d06062c7fb3da7c7",
+    "parent": "72ee1533a11d1320d2d53bb4cede70b3447e6fc3c57a24314cb405c1153d9d42",
+    "timestamp": "2026-04-12T03:12:55.248Z",
+    "source": "profile:0000088121",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1b6629b9cee7604275b0495d57f129645a06cd5068400731d06062c7fb3da7c7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.248Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

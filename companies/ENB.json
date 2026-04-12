@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ENB",
+  "name": "ENBRIDGE INC",
+  "cik": "0000895728",
+  "exchange": "NYSE",
+  "sic": "4610",
+  "sic_description": "Pipe Lines (No Natural Gas)",
+  "state_of_incorporation": "A0",
+  "headquarters": "Calgary, Alberta",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Enbridge Inc. is a Canadian energy infrastructure company operating liquids pipelines, gas transmission, gas distribution and storage, and renewable power generation businesses. It transports crude oil, natural gas, and natural gas liquids (NGL) across North America, distributes natural gas through regulated utilities in Canada and the US, and generates renewable energy including wind and solar power.",
+  "tags": [
+    "crude-oil-and-ngl-transportation",
+    "natural-gas-transmission",
+    "natural-gas-distribution",
+    "natural-gas-storage",
+    "renewable-power-generation",
+    "liquefied-natural-gas-(lng)",
+    "renewable-natural-gas-(rng)",
+    "output-based-pricing-system-(obps)",
+    "alberta-technology-innovation-and-emissions-reduction-regulation-(tier)",
+    "us-gaap"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ENB",
+  "origin": {
+    "leaf": "90ed96ff88582fadb6e0d8545c9455e954f48fc207b99769104c48faebb00045",
+    "parent": "464d4713812256f923f6e38a6fde9564ac1db7463c73c02f04bc1f1c82a628c9",
+    "timestamp": "2026-04-12T03:12:50.309Z",
+    "source": "0001193125-26-049810",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/90ed96ff88582fadb6e0d8545c9455e954f48fc207b99769104c48faebb00045",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.309Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

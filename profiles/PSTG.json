@@ -1,0 +1,88 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PSTG",
+  "name": "Everpure, Inc.",
+  "cik": "0001474432",
+  "summary": "Everpure, Inc. (formerly Pure Storage) is a global technology company providing an integrated storage and data management platform. The company offers flash-based storage systems, the Everpure Platform for unified data management across on-premises, hybrid, and public cloud environments, Portworx for Kubernetes/container storage, and Evergreen//One storage-as-a-service subscription. It serves enterprise and hyperscale customers, supporting AI workloads, cloud-native applications, and modern data infrastructure modernization using DirectFlash and QLC flash technology.",
+  "products": [
+    {
+      "name": "Everpure Platform",
+      "type": "platform",
+      "description": "Unified storage and data management platform virtualizing data across on-premises, hybrid, public cloud, and edge environments."
+    },
+    {
+      "name": "Everpure Fusion",
+      "type": "software",
+      "description": "Next-generation software virtualizing storage and data management into a unified cloud-like experience across on-premises, cloud, and hosted environments."
+    },
+    {
+      "name": "Evergreen//One",
+      "type": "service",
+      "description": "Outcome-based storage-as-a-service subscription offering SLAs across capacity, performance, efficiency, availability, and durability."
+    },
+    {
+      "name": "Portworx",
+      "type": "software",
+      "description": "Enterprise Kubernetes/container data platform providing primary container storage, backup, disaster recovery, and migration."
+    },
+    {
+      "name": "DirectFlash Module (DFM)",
+      "type": "hardware",
+      "description": "Integrated flash hardware modules, including 300TB DFM, enabling direct-to-NAND flash management with high density and efficiency."
+    },
+    {
+      "name": "Everpure Cloud",
+      "type": "service",
+      "description": "Cloud services available on Azure and AWS enabling hybrid-cloud operationalization for traditional and cloud-native applications."
+    },
+    {
+      "name": "Enterprise Data Cloud (EDC)",
+      "type": "platform",
+      "description": "Architectural approach for centrally managing virtualized cloud of data with unified control spanning on-premises and public cloud."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Microsoft Azure",
+      "partnership_type": "strategic",
+      "description": "Everpure Cloud services available on Azure to support hybrid-cloud environments.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Amazon Web Services",
+      "partnership_type": "strategic",
+      "description": "Everpure Cloud services available on AWS to support hybrid-cloud environments.",
+      "start_date": null
+    },
+    {
+      "partner_name": "QLC flash partners",
+      "partnership_type": "development",
+      "description": "Collaboration with key QLC flash partners to advance the density roadmap for DirectFlash modules.",
+      "start_date": null
+    },
+    {
+      "partner_name": "1touch",
+      "partnership_type": "strategic",
+      "description": "Pending acquisition of 1touch referenced in forward-looking statements.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PSTG/profile",
+  "origin": {
+    "leaf": "5df03d0b880d219bdae05b8ddcb9654ad671975c0e50fad560500fffd67abd3a",
+    "parent": "7ef64f15f1602ba62cd1aa2118d58213ae50a7105e5fbbeeb077eb4ef4b9fe2a",
+    "timestamp": "2026-04-12T03:12:54.906Z",
+    "source": "profile:0001474432",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5df03d0b880d219bdae05b8ddcb9654ad671975c0e50fad560500fffd67abd3a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.906Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

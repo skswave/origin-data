@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SEVN",
+  "name": "Seven Hills Realty Trust",
+  "cik": "0001452477",
+  "exchange": "Nasdaq",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PARTI Our Company. Seven Hills Realty Trust is a Maryland REIT that focuses primarily on originating and investing in floating rate first mortgage loans that range from $15.0 million to $75.0 million, secured by middle market transitional CRE properties that have values up to $100.0 million. We define transitional CRE as commercial properties subject to redevelopment or repositioning activities that are expected to increase the value of the properties. As of December31, 2025, we had a portfolio ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 900,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SEVN",
+  "origin": {
+    "leaf": "ec907424792306c42ab81eed2d322f88bb02a1f8f4a7d8b13037efd509645496",
+    "parent": "fc05cff92769b0250534230a7d86f13f3e517107516e7b66e0b4968f74c6d433",
+    "timestamp": "2026-04-12T03:12:51.934Z",
+    "source": "0001452477-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ec907424792306c42ab81eed2d322f88bb02a1f8f4a7d8b13037efd509645496",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.934Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TRAK",
+  "name": "ReposiTrak, Inc.",
+  "cik": "0000050471",
+  "summary": "ReposiTrak, Inc. (formerly Park City Group) is a SaaS company operating a B2B e-commerce, compliance & traceability, and supply chain management platform. It serves retailers, wholesalers, distributors, and suppliers primarily in the U.S. food, convenience store, and general merchandise sectors. Its three core solution suites—Compliance Management, ReposiTrak Traceability Network (RTN), and Supply Chain Solutions—help customers manage supplier compliance, meet FDA FSMA 204 traceability requirements, and improve supply chain efficiency.",
+  "products": [
+    {
+      "name": "ReposiTrak Compliance Management",
+      "type": "platform",
+      "description": "Helps customers vet suppliers and reduce regulatory, legal, and criminal risk by ensuring supplier compliance with food safety regulations including FSMA."
+    },
+    {
+      "name": "ReposiTrak Traceability Network (RTN)",
+      "type": "platform",
+      "description": "Lowest-cost traceability solution capturing and sharing KDEs at each CTE as required by FSMA Section 204(d), connecting suppliers to wholesalers and retailers."
+    },
+    {
+      "name": "ReposiTrak Supply Chain Solutions",
+      "type": "platform",
+      "description": "Helps customers manage supplier interactions, source new suppliers faster, and improve supply chain efficiency while lowering working capital, labor costs, and waste."
+    },
+    {
+      "name": "Audit Management Solution",
+      "type": "software",
+      "description": "Provides GMP and GFSI-approved audits, improving quality and safety through corrective actions management and documentation."
+    },
+    {
+      "name": "MarketPlace",
+      "type": "platform",
+      "description": "Supplier discovery and B2B e-commerce solution integrated into the ReposiTrak platform."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Leavitt Partners, LP",
+      "partnership_type": "strategic",
+      "description": "Company acquired 75% interest in ReposiTrak from Leavitt Partners in June 2015, then purchased remaining 25% via share exchange.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TRAK/profile",
+  "origin": {
+    "leaf": "20e21da27f59e39beca04111de9009dafe93c636a10ab3aa2a7d676815adb20e",
+    "parent": "b270af9af9382948e66a7e50a39f566479e1d56fdd8eaec6fab78ff2787e9080",
+    "timestamp": "2026-04-12T03:12:57.239Z",
+    "source": "profile:0000050471",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/20e21da27f59e39beca04111de9009dafe93c636a10ab3aa2a7d676815adb20e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.239Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

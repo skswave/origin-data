@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SAFE",
+  "name": "Safehold Inc.",
+  "cik": "0001095651",
+  "exchange": "NYSE",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PARTI Explanatory Notefor Purposes of the \"Safe Harbor Provisions\" of Section21E of the Securities Exchange Act of 1934, as amended Certain statements in this report, other than purely historical information, including estimates, projections, statements relating to our business plans, objectives and expected operating results, and the assumptions upon which those statements are based, are \"forward-looking statements\" within the meaning of the Private Securities Litigation Reform Act of 1995, Sec...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SAFE",
+  "origin": {
+    "leaf": "3c081cd55825ce2995f7eeb10363c608e10fa7ffa7127c5950851729c49cc5e7",
+    "parent": "416c70b95052429d2181dc4432ed6b20374633e478eabecb3405577b1cc6e3ef",
+    "timestamp": "2026-04-12T03:12:51.122Z",
+    "source": "0001095651-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3c081cd55825ce2995f7eeb10363c608e10fa7ffa7127c5950851729c49cc5e7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.122Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

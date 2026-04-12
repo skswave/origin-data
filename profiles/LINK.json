@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LINK",
+  "name": "INTERLINK ELECTRONICS INC",
+  "cik": "0000828146",
+  "summary": "Interlink Electronics, Inc. is a global provider of advanced sensing technologies and printed electronics solutions enabling Human-Machine Interface (HMI) devices and IoT applications. Products include FSR force/touch sensors, piezoelectric sensors, membrane keypads, smart textile sensors, and electrochemical gas/environmental sensors. The company serves medical, industrial, automotive, consumer electronics, wearables, and environmental monitoring markets from facilities in California, Singapore, China, Scotland, and the UK.",
+  "products": [
+    {
+      "name": "FSR (Force-Sensing Resistor) Sensors",
+      "type": "hardware",
+      "description": "Printed force-sensing resistor sensors for HMI applications in gaming, smartphones, rugged notebooks, and automotive systems."
+    },
+    {
+      "name": "HMI Technology Platforms",
+      "type": "platform",
+      "description": "Multi-modal sensing platforms integrating force, capacitive, resistive, and piezoelectric technologies for medical, industrial, and automotive markets."
+    },
+    {
+      "name": "Membrane Keypads and Printed Electronics",
+      "type": "hardware",
+      "description": "Customized membrane keypads, graphic overlays, printed electronic circuits, and industrial labeling solutions for industrial and defense applications."
+    },
+    {
+      "name": "Smart Textiles and Conductive Transfers",
+      "type": "hardware",
+      "description": "Sensors and electronics integrated into textiles for heated garments, PPE, medical wearables, and automotive textile sensing."
+    },
+    {
+      "name": "Piezoelectric Polymer Film Sensors",
+      "type": "hardware",
+      "description": "Ultra-thin electroactive polymer film sensors for vibration sensing, impact detection, flow detection, and vital sign monitoring."
+    },
+    {
+      "name": "Electrochemical Gas Sensors",
+      "type": "hardware",
+      "description": "Miniature, low-power electrochemical sensors detecting a wide range of gases for IoT, industrial safety, and environmental monitoring."
+    },
+    {
+      "name": "Eco Sensors Ozone Monitors",
+      "type": "hardware",
+      "description": "Complete ozone monitoring instruments for environmental and air quality applications."
+    },
+    {
+      "name": "Air Quality Modules",
+      "type": "hardware",
+      "description": "Smart city air quality monitoring modules for community health and environmental compliance."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LINK/profile",
+  "origin": {
+    "leaf": "32e8a19c49f2a25886c0d2bbd6c306e921705077e00ea952e408a58e3255a758",
+    "parent": "7fbefcf9135279df7de3a1865b7c28ce916fd3d6fbc31718ac6ef9bb5fb47527",
+    "timestamp": "2026-04-12T03:12:57.859Z",
+    "source": "profile:0000828146",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/32e8a19c49f2a25886c0d2bbd6c306e921705077e00ea952e408a58e3255a758",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.859Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

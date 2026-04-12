@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "POCI",
+  "name": "PRECISION OPTICS CORPORATION, INC.",
+  "cik": "0000867840",
+  "summary": "Precision Optics Corporation, Inc. (POCI) has been a developer and manufacturer of advanced optical instruments since 1982, operating in medical devices and defense/aerospace markets. The company produces endoscopes, endocouplers, Microprecision lenses, micro medical cameras, CMOS-based digital imaging endoscopes (including single-use designs), and custom optical assemblies. Through its Ross Optical division, it supplies custom optical components and assemblies. Its four business areas are systems manufacturing, engineering and product development, Ross Optical, and a micro-optics laboratory.",
+  "products": [
+    {
+      "name": "Microprecision Lenses",
+      "type": "hardware",
+      "description": "Ultra-small optical lenses enabling millimeter-sized endoscopes with high image quality for minimally invasive surgery."
+    },
+    {
+      "name": "Micro Medical Cameras",
+      "type": "hardware",
+      "description": "Millimeter-scale digital cameras using CMOS sensor technology for medical imaging and single-use endoscopic applications."
+    },
+    {
+      "name": "Endoscopes and Endocouplers",
+      "type": "hardware",
+      "description": "Traditional and digital imaging endoscopes including single-use designs for minimally invasive surgical procedures."
+    },
+    {
+      "name": "Unity Imaging Platform",
+      "type": "platform",
+      "description": "Modular baseline CMOS endoscopic system with customizable sub-components for reusable and single-use endoscopic systems, launched January 2025."
+    },
+    {
+      "name": "Ross Optical Components and Assemblies",
+      "type": "hardware",
+      "description": "Custom optical components including lenses, prisms, mirrors, windows, and mechano-optical assemblies with thin-film coatings for military, medical, and industrial markets."
+    },
+    {
+      "name": "Defense/Aerospace Optical Assemblies",
+      "type": "hardware",
+      "description": "Custom optical systems for defense and aerospace applications including satellite network communications."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Ross Optical Industries, Inc.",
+      "partnership_type": "OEM",
+      "description": "Acquired operating assets June 2019; expanded optical components and assemblies business for military, medical, and industrial markets.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Lighthouse Imaging, LLC",
+      "partnership_type": "strategic",
+      "description": "Acquired operating assets October 2021; expanded electrical engineering capabilities for end-to-end medical visualization devices.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/POCI/profile",
+  "origin": {
+    "leaf": "1996e54b1ede6d65355029a95aa2148c49b46b5dd467de85b1f54b00a9f91c69",
+    "parent": "babca34c0ea80a9e8b7cc05947009e398037dc238c3ef69f997f2c6e536c4914",
+    "timestamp": "2026-04-12T03:12:58.004Z",
+    "source": "profile:0000867840",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1996e54b1ede6d65355029a95aa2148c49b46b5dd467de85b1f54b00a9f91c69",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.004Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

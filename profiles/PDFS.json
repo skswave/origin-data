@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PDFS",
+  "name": "PDF SOLUTIONS INC",
+  "cik": "0001120914",
+  "summary": "PDF Solutions, Inc. provides comprehensive data solutions for the semiconductor and electronics ecosystems, offering software, SaaS, engineering services, and hardware systems. Key products include the PDF Solutions Platform, DirectScan (e-beam inspection), eProbe inline inspection, Cimetrix connectivity/control software, and secureWISE secure data exchange network. Revenue comes from Platform fees (licenses, SaaS, engineering) and Volume-based fees (Cimetrix runtime licenses, secureWISE data, Gainshare royalties). Customers include IDMs, fabless companies, foundries, OSATs, equipment manufacturers, EMS, ODMs, and system houses.",
+  "products": [
+    {
+      "name": "PDF Solutions Platform",
+      "type": "platform",
+      "description": "AI-ready data platform for semiconductor manufacturing analytics, integrating characterization, process development, and high-volume manufacturing data."
+    },
+    {
+      "name": "DirectScan System",
+      "type": "hardware",
+      "description": "Voltage contrast e-beam inspection system combined with design layout analysis to identify systematic failures inline."
+    },
+    {
+      "name": "eProbe",
+      "type": "hardware",
+      "description": "Inline inspection tool designed to test over 60 trillion vias per year per tool and detect defects in 3D structures."
+    },
+    {
+      "name": "Characterization Vehicle (CV) Systems",
+      "type": "hardware",
+      "description": "Test chip systems generating tens of thousands of experiments and billions of measurements per wafer for process characterization."
+    },
+    {
+      "name": "Cimetrix",
+      "type": "software",
+      "description": "Connectivity and control software for semiconductor manufacturing equipment; approximately 8,000 pieces of equipment shipped with it enabled in 2025."
+    },
+    {
+      "name": "secureWISE",
+      "type": "platform",
+      "description": "Secure data exchange network connecting over 300 manufacturing locations and 100+ equipment OEMs with end-to-end encryption and zero trust architecture."
+    },
+    {
+      "name": "Sapience Manufacturing Hub",
+      "type": "software",
+      "description": "Internal orchestration solution integrating MES, ERP, PLM, and EDA tools to eliminate data wrangling in manufacturing workflows."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PDFS/profile",
+  "origin": {
+    "leaf": "47e56821cd9e10a08c4960428f4949d2b0f9f9ad27faf61e66976bc0a35660be",
+    "parent": "7bd27f1a3cea560e08cae83edb95470cd2f8a11246276a3a5b00a7a882a5b341",
+    "timestamp": "2026-04-12T03:12:55.884Z",
+    "source": "profile:0001120914",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/47e56821cd9e10a08c4960428f4949d2b0f9f9ad27faf61e66976bc0a35660be",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.884Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

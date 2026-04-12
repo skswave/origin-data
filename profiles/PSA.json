@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PSA",
+  "name": "Public Storage",
+  "cik": "0001393311",
+  "summary": "Public Storage (PSA) is a real estate investment trust (REIT) that operates self-storage facilities. Based on the provided SEC 10-K filing excerpt, the section shown is an exhibit containing a Rule 13a-14(a) certification by CEO Joseph D. Russell, Jr., and does not contain detailed business description information about specific products, services, or operations.",
+  "live_api": "https://origin.rootz.global/api/company/PSA/profile",
+  "origin": {
+    "leaf": "c09ff8f6736d299be725ce710fadbfa5767b53a88fa3802dcf9f7c729b1cebea",
+    "parent": "c65d54011af76cef468eca158f067081140ce04bcec4f381a8a99ff678a1f9e5",
+    "timestamp": "2026-04-12T03:12:54.790Z",
+    "source": "profile:0001393311",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c09ff8f6736d299be725ce710fadbfa5767b53a88fa3802dcf9f7c729b1cebea",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.790Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MDNC",
+  "name": "Medinotec Inc.",
+  "cik": "0001931055",
+  "summary": "Medinotec Inc. is a Nevada-incorporated medical device company that develops and manufactures devices for vascular and airway diseases, including stents and the Trachealator. Manufacturing occurs in Johannesburg, South Africa through subsidiary DISA Medinotec Proprietary Limited. Products are sold via distributor partners in South Africa, Namibia, Mauritius, the Middle East, Europe, South America, portions of Asia, and the United States following FDA approval of the Trachealator in November 2021.",
+  "products": [
+    {
+      "name": "Trachealator",
+      "type": "hardware",
+      "description": "Airway medical device that received FDA approval in November 2021, now being sold in the United States."
+    },
+    {
+      "name": "Vascular Stents",
+      "type": "hardware",
+      "description": "Stents developed for the international market for treatment of coronary artery disease and vascular diseases."
+    },
+    {
+      "name": "Cardiology Distribution Products",
+      "type": "hardware",
+      "description": "International medical device products distributed under contracts secured from third-party medical device companies."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Innovative Outcomes",
+      "partnership_type": "strategic",
+      "description": "US distribution partner for the Trachealator; relationship included a revolving credit facility up to $750,000 but was later separated due to strategic misalignment.",
+      "start_date": null
+    },
+    {
+      "partner_name": "DISA Life Sciences",
+      "partnership_type": "strategic",
+      "description": "South African sub-distributor appointed to facilitate sales of Medinotec's in-house manufactured brands within South Africa.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Minoan Medical Proprietary Limited",
+      "partnership_type": "strategic",
+      "description": "Previous distributor that facilitated introduction to international cardiology distribution contracts before DISA Medinotec assumed responsibility.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MDNC/profile",
+  "origin": {
+    "leaf": "f333ebc7c5d1967156218663eceb484054e420f87b0789b7b5958dff16ecd250",
+    "parent": "3817ba4e33dde7338c4fbceacc7c15e83f332d23ac79b65fd10e1e3b5bb534c0",
+    "timestamp": "2026-04-12T03:12:57.723Z",
+    "source": "profile:0001931055",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f333ebc7c5d1967156218663eceb484054e420f87b0789b7b5958dff16ecd250",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.723Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

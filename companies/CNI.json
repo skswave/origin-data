@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CNI",
+  "name": "CANADIAN NATIONAL RAILWAY CO",
+  "cik": "0000016868",
+  "exchange": "NYSE",
+  "sic": "4011",
+  "sic_description": "Railroads, Line-Haul Operating",
+  "state_of_incorporation": "A8",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CNI",
+  "origin": {
+    "leaf": "fe35995f4cfd9a5c5adcb808ab2d41d1330538b0608e2d5662bbdcab808ec42b",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:50.335Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fe35995f4cfd9a5c5adcb808ab2d41d1330538b0608e2d5662bbdcab808ec42b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.335Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AUBN",
+  "name": "AUBURN NATIONAL BANCORPORATION, INC",
+  "cik": "0000750574",
+  "exchange": "Nasdaq",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "DE",
+  "headquarters": "Auburn, Alabama",
+  "founded": "1907",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Auburn National Bancorporation, Inc. is a Delaware-incorporated bank holding company controlling AuburnBank, an Alabama state member bank founded in 1907. The Bank operates in East Alabama, primarily Lee County, offering checking, savings, certificates of deposit, residential mortgage lending, commercial and consumer loans, ATM services, Visa Checkcards, online banking, bill payment, and electronic banking services through 7 branches and a main office in Auburn, Opelika, Notasulga, and Valley, Alabama.",
+  "tags": [
+    "retail-banking",
+    "commercial-banking",
+    "residential-mortgage-lending",
+    "consumer-lending",
+    "east-alabama-/-lee-county",
+    "visa-payment-network",
+    "plus-atm-network"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AUBN",
+  "origin": {
+    "leaf": "9b450127efa0696c6647f46442fea1906cddf909e430ee85f1004c88a664eccf",
+    "parent": "3ef656209baff5a87c9d4504d6e0b9be39b678a083f373f8d6a9554a9cae1510",
+    "timestamp": "2026-04-12T03:12:52.293Z",
+    "source": "0001193125-26-111012",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9b450127efa0696c6647f46442fea1906cddf909e430ee85f1004c88a664eccf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.293Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

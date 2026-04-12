@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PHYS",
+  "name": "Sprott Physical Gold Trust",
+  "cik": "0001477049",
+  "exchange": "NYSE",
+  "sic": "6221",
+  "sic_description": "Commodity Contracts Brokers & Dealers",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": null,
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PHYS",
+  "origin": {
+    "leaf": "733a4f6307c3e65f0428adbccbd0c4ba03959683ebbd2a20d0dec681bc8449f7",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:50.434Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/733a4f6307c3e65f0428adbccbd0c4ba03959683ebbd2a20d0dec681bc8449f7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.434Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

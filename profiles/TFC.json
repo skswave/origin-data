@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TFC",
+  "name": "TRUIST FINANCIAL CORP",
+  "cik": "0000092230",
+  "summary": "Truist Financial Corporation is a bank holding company that provides a wide range of financial products and services through its subsidiary Truist Bank, a North Carolina-chartered bank. Its offerings include consumer and small business banking, wholesale banking, mortgage services, loan origination, deposit accounts, investment securities, and insurance-related services. It operates two primary segments: Consumer and Small Business Banking (CSBB) and Wholesale Banking (WB).",
+  "products": [
+    {
+      "name": "Consumer and Small Business Banking",
+      "type": "service",
+      "description": "Retail banking products including deposits, loans, and financial services for consumers and small businesses."
+    },
+    {
+      "name": "Wholesale Banking",
+      "type": "service",
+      "description": "Banking and financial services for commercial and institutional clients."
+    },
+    {
+      "name": "Mortgage Services",
+      "type": "service",
+      "description": "Mortgage loan origination, servicing, and related products including mortgage servicing rights (MSR)."
+    },
+    {
+      "name": "Deposit Accounts",
+      "type": "service",
+      "description": "Various deposit products including certificates of deposit and core deposits."
+    },
+    {
+      "name": "Investment Securities",
+      "type": "service",
+      "description": "Available-for-sale and held-to-maturity investment securities including MBS and agency securities."
+    },
+    {
+      "name": "Derivative Financial Instruments",
+      "type": "service",
+      "description": "Interest rate and other derivative products for hedging and risk management purposes."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TFC/profile",
+  "origin": {
+    "leaf": "1b5499015aadcf3007201eb0e38d4b413953f4601a7b9efde657b888b72cd03c",
+    "parent": "ca8c706c4ea0fbedae5229d3af633c548a8e251cf72af69813d1bf32d3e83143",
+    "timestamp": "2026-04-12T03:12:54.772Z",
+    "source": "profile:0000092230",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1b5499015aadcf3007201eb0e38d4b413953f4601a7b9efde657b888b72cd03c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.772Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

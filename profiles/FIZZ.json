@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FIZZ",
+  "name": "NATIONAL BEVERAGE CORP",
+  "cik": "0000069891",
+  "summary": "National Beverage Corp. produces and distributes a portfolio of beverages including LaCroix sparkling water, Rip It energy drinks, Everfresh and Mr. Pure juices, Clear Fruit water beverages, and carbonated soft drinks Shasta and Faygo. Operating twelve U.S. production facilities, the company controls vertical integration from flavor crafting to distribution across take-home, convenience, and food-service channels, primarily targeting health-conscious consumers in the United States.",
+  "products": [
+    {
+      "name": "LaCroix Sparkling Water",
+      "type": "hardware",
+      "description": "Zero-calorie, zero-sweetener, zero-sodium naturally-essenced sparkling water available in 26 flavors."
+    },
+    {
+      "name": "Rip It Energy Drinks",
+      "type": "hardware",
+      "description": "Energy fuel available in 21 flavors including zero sugar options and 2 oz. sugar-free shots."
+    },
+    {
+      "name": "Everfresh / Mr. Pure Juices",
+      "type": "hardware",
+      "description": "100% juice and juice drinks in classic and exotic flavors in 16 oz. glass bottles."
+    },
+    {
+      "name": "Everfresh Premier Varietals",
+      "type": "hardware",
+      "description": "Premium apple juice line derived from specific apple varieties, positioned for supermarket produce sections."
+    },
+    {
+      "name": "Clear Fruit",
+      "type": "hardware",
+      "description": "Non-carbonated water beverage enhanced with fruit flavors, available in 13 flavors and two bottle sizes."
+    },
+    {
+      "name": "Shasta",
+      "type": "hardware",
+      "description": "135-year-old carbonated soft drink brand featuring multiple flavors including new Zero Sugar varieties."
+    },
+    {
+      "name": "Faygo",
+      "type": "hardware",
+      "description": "115-year-old carbonated soft drink brand with unique regional flavors celebrated especially in the Midwest."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FIZZ/profile",
+  "origin": {
+    "leaf": "bad95a7224374828547a9ad4960722205b755f4aa88695907e9b376fce5dd115",
+    "parent": "154e9e9c776ec651d8df906da628104a2af6178c56f1792ef75ccac3c9215bfb",
+    "timestamp": "2026-04-12T03:12:55.465Z",
+    "source": "profile:0000069891",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bad95a7224374828547a9ad4960722205b755f4aa88695907e9b376fce5dd115",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.465Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

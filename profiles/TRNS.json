@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TRNS",
+  "name": "TRANSCAT INC",
+  "cik": "0000099302",
+  "summary": "Transcat, Inc. is a leading provider of accredited calibration services, cost control and optimization services, and distribution and rental of professional grade handheld test, measurement, and control instrumentation. Serving approximately 30,000 customers, the company operates through two segments: Service (calibration, repair, inspection, preventative maintenance, consulting) and Distribution (selling/renting 75,000+ instruments from ~400 brands). It focuses on highly regulated industries including life sciences, pharmaceutical, biotechnology, aerospace, defense, energy, and industrial manufacturing.",
+  "products": [
+    {
+      "name": "Calibration Services",
+      "type": "service",
+      "description": "Accredited calibration, repair, inspection, preventative maintenance, and analytical qualifications across 33 Calibration Service Centers in the US, Puerto Rico, Canada, and Ireland."
+    },
+    {
+      "name": "CalTrak",
+      "type": "platform",
+      "description": "Proprietary asset management system used to process a majority of calibration and related service orders."
+    },
+    {
+      "name": "C3 (Customer Portal)",
+      "type": "platform",
+      "description": "Online customer portal providing access to service management and instrumentation resources."
+    },
+    {
+      "name": "Transcat Solutions (formerly NEXA)",
+      "type": "service",
+      "description": "Asset management services for biopharmaceutical industry covering calibration, maintenance, reliability, CMMS, quality/compliance, and validation."
+    },
+    {
+      "name": "Test, Measurement and Control Instruments",
+      "type": "hardware",
+      "description": "Distribution and rental of 75,000+ national and proprietary brand instruments from approximately 400 leading brands sold globally."
+    },
+    {
+      "name": "Equipment Kitting",
+      "type": "service",
+      "description": "Value-added equipment bundling service especially valued in the power generation sector."
+    },
+    {
+      "name": "Mobile Calibration Laboratories",
+      "type": "hardware",
+      "description": "Fleet of mobile labs providing calibration services at customer sites lacking space or utility capabilities."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TRNS/profile",
+  "origin": {
+    "leaf": "977fd5abb28c14616194f4230e48a3de849ab48c6800ab47adb212af4a63c364",
+    "parent": "6b129c7a68f721c2f798009961aa797e6ef26d40209449aeb35e986dd2452db2",
+    "timestamp": "2026-04-12T03:12:56.188Z",
+    "source": "profile:0000099302",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/977fd5abb28c14616194f4230e48a3de849ab48c6800ab47adb212af4a63c364",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.188Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

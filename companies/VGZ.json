@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "VGZ",
+  "name": "VISTA GOLD CORP",
+  "cik": "0000783324",
+  "exchange": "NYSE",
+  "sic": "1040",
+  "sic_description": "Gold and Silver Ores",
+  "state_of_incorporation": null,
+  "headquarters": "Englewood, Colorado",
+  "founded": "1983",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Vista Gold Corp. is a development-stage gold mining company whose primary asset is the Mt Todd Gold Project in Northern Territory, Australia. The company does not generate cash flows from mining operations. Mt Todd is a large gold deposit with a 30-year mine life, targeting 15,000 tonnes per day processing capacity, with an after-tax NPV of $1.1 billion at $2,500/oz gold.",
+  "tags": [
+    "gold-mining",
+    "mineral-exploration-and-development",
+    "s-k-1300-(item-1300-of-regulation-s-k)",
+    "ni-43-101-standards-of-disclosure-for-mineral-projects"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 14,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/VGZ",
+  "origin": {
+    "leaf": "60a93d327a558684471eb476b97237b0d1d6f0580ed2090d50d20bbc8e46c5e7",
+    "parent": "e6129a02625f32324382fa054b20a1fe180dc86867538132c67082cad0c70cfe",
+    "timestamp": "2026-04-12T03:12:51.734Z",
+    "source": "0000783324-26-000009",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/60a93d327a558684471eb476b97237b0d1d6f0580ed2090d50d20bbc8e46c5e7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.734Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

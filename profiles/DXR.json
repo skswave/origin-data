@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DXR",
+  "name": "DAXOR CORP",
+  "cik": "0000027367",
+  "summary": "Daxor Corporation is a medical device manufacturing company providing biotechnology services. Its primary product is the BVA-100 Blood Volume Analyzer, used with the Volumex single-use radiopharmaceutical injection and collection kit to measure human blood volume with 98% accuracy within 60-90 minutes. The company also offers cryobanking services for blood and semen storage through subsidiaries Scientific Medical Systems and Idant, and manufactures next-generation BVA-100 models at its Oak Ridge, Tennessee facility.",
+  "products": [
+    {
+      "name": "BVA-100 Blood Volume Analyzer",
+      "type": "hardware",
+      "description": "CLIA-rated medium complexity instrument measuring human blood volume with 98% accuracy within 60-90 minutes, used for diagnosing heart failure, kidney failure, hypertension, and syncope."
+    },
+    {
+      "name": "Volumex",
+      "type": "service",
+      "description": "Single-use radiopharmaceutical diagnostic injection and collection kit using iodine-131 albumin tracer, used in conjunction with the BVA-100 Blood Volume Analyzer."
+    },
+    {
+      "name": "Cryobanking Services",
+      "type": "service",
+      "description": "Blood and semen storage services offered through subsidiaries Scientific Medical Systems and Idant."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "FDA-licensed radiopharmaceutical manufacturer",
+      "partnership_type": "OEM",
+      "description": "Performs injection kit filling for Daxor's Volumex kits.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DXR/profile",
+  "origin": {
+    "leaf": "33616993e8b7d494763246b6337a4adc61f53e8483f938e5b616b1794a7d335a",
+    "parent": "ea89b4a33160ea09bf93b7c021c445de5ee6dd3ff81e22ca2b29a6adc6f06c7b",
+    "timestamp": "2026-04-12T03:12:57.746Z",
+    "source": "profile:0000027367",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/33616993e8b7d494763246b6337a4adc61f53e8483f938e5b616b1794a7d335a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.746Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

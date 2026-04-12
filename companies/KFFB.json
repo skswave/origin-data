@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "KFFB",
+  "name": "Kentucky First Federal Bancorp",
+  "cik": "0001297341",
+  "exchange": "Nasdaq",
+  "sic": "6035",
+  "sic_description": "Savings Institution, Federally Chartered",
+  "state_of_incorporation": null,
+  "headquarters": "Hazard, Kentucky",
+  "founded": "2005",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": "Kentucky First Federal Bancorp is a mid-tier savings institution holding company operating two community-oriented savings banks in Kentucky: First Federal Savings and Loan Association of Hazard and First Federal Savings Bank of Kentucky. The company primarily attracts deposits from the general public and originates adjustable-rate and fixed-rate mortgage loans secured by one- to four-family residential real estate, as well as home equity loans, church loans, commercial real estate, and multi-family property loans.",
+  "tags": [
+    "residential-mortgage-lending",
+    "community-banking",
+    "eastern-kentucky-(perry,-letcher,-knott,-breathitt,-leslie,-clay-counties)",
+    "central-kentucky-(franklin,-boyle,-garrard-counties)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/KFFB",
+  "origin": {
+    "leaf": "02137d08d0eff1aece4cfd038b5b692a27eccdf982959cce01e2d9f534ac715a",
+    "parent": "193c8913ce7598963c5f28ae06a489b4aeb2eb7e8aceb47b61c4768e206244d3",
+    "timestamp": "2026-04-12T03:12:52.667Z",
+    "source": "0001213900-25-093967",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/02137d08d0eff1aece4cfd038b5b692a27eccdf982959cce01e2d9f534ac715a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.667Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

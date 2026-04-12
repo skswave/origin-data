@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "OXSQ",
+  "name": "Oxford Square Capital Corp.",
+  "cik": "0001259429",
+  "exchange": "Nasdaq",
+  "sic": null,
+  "sic_description": null,
+  "state_of_incorporation": "MD",
+  "headquarters": "Greenwich, Connecticut",
+  "founded": "2003",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Oxford Square Capital Corp. (OXSQ) is a closed-end, non-diversified business development company (BDC) focused on maximizing total portfolio return. It invests primarily in corporate debt securities and collateralized loan obligation (CLO) structured finance investments, including CLO equity and junior debt tranches, warehouse facilities, and publicly traded debt and equity securities. Portfolio companies are generally below investment grade. Capital is used by borrowers for organic growth, acquisitions, recapitalizations, and working capital.",
+  "tags": [
+    "corporate-loan-market-(broadly-and-narrowly-syndicated)",
+    "collateralized-loan-obligation-(clo)-structured-finance-market",
+    "below-investment-grade-debt-securities-market",
+    "business-development-company-(bdc)-market"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/OXSQ",
+  "origin": {
+    "leaf": "06d94365210afc7b809411ec26b20e3fc54bbb7c422c855173fbc5444e4930ab",
+    "parent": "774256c8ccd1453dfcda9c1524cbbffd43aa2c6c01954c0d40469a2a91f5f66c",
+    "timestamp": "2026-04-12T03:12:52.031Z",
+    "source": "0001213900-26-024280",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/06d94365210afc7b809411ec26b20e3fc54bbb7c422c855173fbc5444e4930ab",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.031Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

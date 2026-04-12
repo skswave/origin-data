@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MNOV",
+  "name": "MEDICINOVA INC",
+  "cik": "0001226616",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "MediciNova, Inc. is a biopharmaceutical company focused on developing novel therapeutics for serious diseases with unmet medical needs, targeting the U.S. market. Its primary product candidates are MN-166 (ibudilast) for neurological disorders including progressive multiple sclerosis, ALS, chemotherapy-induced peripheral neuropathy, and glioblastoma, and MN-001 (tipelukast) for fibrotic and metabolic disorders including NAFLD and hypertriglyceridemia. The company has no approved products and relies on clinical-stage development.",
+  "tags": [
+    "progressive-multiple-sclerosis",
+    "amyotrophic-lateral-sclerosis",
+    "nonalcoholic-fatty-liver-disease-(nafld)",
+    "hypertriglyceridemia",
+    "chemotherapy-induced-peripheral-neuropathy",
+    "degenerative-cervical-myelopathy",
+    "glioblastoma",
+    "acute-respiratory-distress-syndrome-(ards)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MNOV",
+  "origin": {
+    "leaf": "471755fa4f393ca6d1dd8419b7f1761e7020614c2b08d34c7d0d86885f5c467d",
+    "parent": "f07080a67476fe39f5dd984683f1f679fb43dc656d9027aee23c5f01cd6168d5",
+    "timestamp": "2026-04-12T03:12:52.404Z",
+    "source": "0001193125-26-100432",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/471755fa4f393ca6d1dd8419b7f1761e7020614c2b08d34c7d0d86885f5c467d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.404Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

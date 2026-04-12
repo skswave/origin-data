@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HSTC",
+  "name": "HST Global, Inc.",
+  "cik": "0000797564",
+  "exchange": "OTC",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "HST Global, Inc. (HSTC) is a company whose Item 1 Business Description section was not provided in the supplied filing excerpt. The document only contains a header reference to the 10-K filing ('hstc2024auditedfinancial.htm PDF to EDGAR') with no substantive business description text included in the provided content.",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HSTC",
+  "origin": {
+    "leaf": "05888da86ca249568c526adfdbdfc5a33b115fb0a2e91f65c6f7210c595df468",
+    "parent": "0b805b0c39f65063f7fac04a19021461e5ab24a31598dd7699a41bcc4356caa1",
+    "timestamp": "2026-04-12T03:12:54.315Z",
+    "source": "0000797564-25-000003",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/05888da86ca249568c526adfdbdfc5a33b115fb0a2e91f65c6f7210c595df468",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.315Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

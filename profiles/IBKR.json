@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IBKR",
+  "name": "Interactive Brokers Group, Inc.",
+  "cik": "0001381197",
+  "summary": "PART I ITEM 1. B USINESS O verview Interactive Brokers Group, Inc. (IBG, Inc. or the Company) is an automated global broker. We custody and service accounts for hedge and mutual funds, exchange-traded funds (ETFs), registered investment advisors, proprietary trading groups, introducing brokers and individual investors. We specialize in routing orders and executing and processing trades in stocks, options, futures, foreign exchange instruments (forex), bonds, mutual funds, ETFs, precious metals, ...",
+  "live_api": "https://origin.rootz.global/api/company/IBKR/profile",
+  "origin": {
+    "leaf": "1fe34f136417f1b29c8c067b2a2d38f1c83f66e6fb70622bc68c651989b41c48",
+    "parent": "4f79f991be4f55f9accf196925b0b0b60e810f5b626ed35e38e223c5733b440d",
+    "timestamp": "2026-04-12T03:12:54.718Z",
+    "source": "profile:0001381197",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1fe34f136417f1b29c8c067b2a2d38f1c83f66e6fb70622bc68c651989b41c48",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.718Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

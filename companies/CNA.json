@@ -1,0 +1,59 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CNA",
+  "name": "CNA FINANCIAL CORP",
+  "cik": "0000021175",
+  "exchange": "NYSE",
+  "sic": "6331",
+  "sic_description": "Fire, Marine & Casualty Insurance",
+  "state_of_incorporation": "DE",
+  "headquarters": "Chicago, Illinois (implied by Illinois Department of Insurance as global group-wide supervisor",
+  "founded": "1967",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "CNA Financial Corporation is an insurance holding company incorporated in 1967. It offers commercial property and casualty coverages including surety, as well as warranty, risk management information services, and claims administration. Products are marketed through independent agents, retail and wholesale brokers, and managing general underwriters to small, medium, and large businesses, insurance companies, associations, and professionals across the U.S., Canada, U.K., Continental Europe, and Lloyd's of London.",
+  "tags": [
+    "commercial-property-&-casualty-insurance",
+    "specialty-insurance",
+    "international-insurance",
+    "life-&-group-insurance",
+    "surety",
+    "small,-medium-and-large-businesses",
+    "associations-and-professionals",
+    "lloyd's-of-london-market",
+    "solvency-ii",
+    "solvency-uk",
+    "insurance-capital-standard-(ics)",
+    "group-capital-calculation-(gcc)",
+    "aggregation-method-(am)",
+    "comframe-(iais-common-framework)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 6600,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CNA",
+  "origin": {
+    "leaf": "4c2fe5730ae029f6be493357798f84132c2411e9355933cf28e0bb7717a32d11",
+    "parent": "0126ae85b9c0171d155948889aac5ac840983e593f3eff21ff300be5ea82e944",
+    "timestamp": "2026-04-12T03:12:50.474Z",
+    "source": "0000021175-26-000011",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4c2fe5730ae029f6be493357798f84132c2411e9355933cf28e0bb7717a32d11",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.474Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

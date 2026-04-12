@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "WKC",
+  "name": "WORLD KINECT CORP",
+  "cik": "0000789460",
+  "exchange": "NYSE",
+  "sic": "5172",
+  "sic_description": "Wholesale-Petroleum & Petroleum Products (No Bulk Stations)",
+  "state_of_incorporation": "FL",
+  "headquarters": "Miami, Florida",
+  "founded": "1984",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "World Kinect Corporation is a global energy management company incorporated in Florida in 1984. It provides fuel fulfillment and related services across aviation, marine, and land transportation sectors. Services include fuel management, ground handling, dispatch, trip support, price risk management, and sustainability products. It also supplies natural gas and is expanding into sustainable aviation fuel and lower-carbon alternatives for maritime customers.",
+  "tags": [
+    "aviation",
+    "marine",
+    "land-transportation",
+    "commercial-and-industrial",
+    "government-and-military",
+    "natural-gas"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/WKC",
+  "origin": {
+    "leaf": "3d9a619f2491f2a971f3931b0826fc85aefc279e30b599c39e8f0d92cc08badf",
+    "parent": "343db01cc8de3dd618c9d01e647dcefc5e4a7f3623ee1c8710b40b920724a532",
+    "timestamp": "2026-04-12T03:12:51.028Z",
+    "source": "0000789460-26-000015",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3d9a619f2491f2a971f3931b0826fc85aefc279e30b599c39e8f0d92cc08badf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.028Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

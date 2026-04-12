@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VNDA",
+  "name": "Vanda Pharmaceuticals Inc.",
+  "cik": "0001347178",
+  "summary": "Vanda Pharmaceuticals Inc. is a global biopharmaceutical company focused on developing and commercializing innovative therapies for high unmet medical needs. Its commercial products include Fanapt (iloperidone) for schizophrenia and bipolar I disorder, HETLIOZ (tasimelteon) for Non-24-Hour Sleep-Wake Disorder and Smith-Magenis syndrome, PONVORY (ponesimod) for relapsing forms of multiple sclerosis, and NEREUS (tradipitant) for prevention of vomiting induced by motion. The company also has pipeline candidates including Bysanti (milsaperidone) and imsidolimab.",
+  "products": [
+    {
+      "name": "Fanapt (iloperidone)",
+      "type": "service",
+      "description": "Oral tablets approved for treatment of schizophrenia and acute treatment of manic or mixed episodes associated with bipolar I disorder."
+    },
+    {
+      "name": "HETLIOZ (tasimelteon)",
+      "type": "service",
+      "description": "Capsules and oral suspension for Non-24-Hour Sleep-Wake Disorder and nighttime sleep disturbances in Smith-Magenis syndrome."
+    },
+    {
+      "name": "PONVORY (ponesimod)",
+      "type": "service",
+      "description": "Tablets for treatment of adults with relapsing forms of multiple sclerosis, including clinically isolated syndrome and relapsing-remitting disease."
+    },
+    {
+      "name": "NEREUS (tradipitant)",
+      "type": "service",
+      "description": "Capsules for prevention of vomiting induced by motion; also under review for GLP-1 receptor agonist-induced vomiting and gastroparesis."
+    },
+    {
+      "name": "Bysanti (milsaperidone)",
+      "type": "service",
+      "description": "Pipeline candidate with NDA filed for bipolar I disorder, schizophrenia, and major depressive disorder."
+    },
+    {
+      "name": "imsidolimab",
+      "type": "service",
+      "description": "Pipeline candidate under FDA review for treatment of generalized pustular psoriasis."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VNDA/profile",
+  "origin": {
+    "leaf": "fb192f86f1fb80224702bef4f70172465f5d29ea40319b2d02d8b13e75bedb23",
+    "parent": "68a11fa482af6199496ac3ebc3017064a2feadd8e1bd66ffd7d5ea282c551b97",
+    "timestamp": "2026-04-12T03:12:56.507Z",
+    "source": "profile:0001347178",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fb192f86f1fb80224702bef4f70172465f5d29ea40319b2d02d8b13e75bedb23",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.507Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

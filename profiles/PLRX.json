@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PLRX",
+  "name": "PLIANT THERAPEUTICS, INC.",
+  "cik": "0001746473",
+  "summary": "Pliant Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on discovering and developing novel therapies for fibrosis and related diseases. The company develops integrin-based therapeutics, with product candidates targeting fibrotic conditions. Pliant has pursued orphan drug and Fast Track designations for its pipeline and has engaged in research collaborations and license agreements to advance its drug development programs.",
+  "products": [
+    {
+      "name": "Integrin-based therapeutics (pipeline)",
+      "type": "platform",
+      "description": "Novel integrin-targeting product candidates designed to treat fibrosis and related diseases, with some candidates holding orphan drug and Fast Track designations."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Undisclosed collaborators",
+      "partnership_type": "development",
+      "description": "Future collaborators referenced for developing, obtaining regulatory approval for, and commercializing product candidates; no specific named partners cited in this section.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PLRX/profile",
+  "origin": {
+    "leaf": "16f8a44d21cbe5daa7f89282845b005220d1f571db6de5c8dfa87815e8fb8059",
+    "parent": "9c7dde781e1d7253e5cc7cc99960613427080aad57b37e729b5d711ae18f5a46",
+    "timestamp": "2026-04-12T03:12:57.542Z",
+    "source": "profile:0001746473",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/16f8a44d21cbe5daa7f89282845b005220d1f571db6de5c8dfa87815e8fb8059",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.542Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

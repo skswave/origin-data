@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TPHS",
+  "name": "Trinity Place Holdings Inc.",
+  "cik": "0000724742",
+  "exchange": "OTC",
+  "sic": "6512",
+  "sic_description": "Opeators of  Nonresidential Buildings",
+  "state_of_incorporation": "DE",
+  "headquarters": "New York, New York",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Trinity Place Holdings Inc. is a real estate holding, investment, development, and asset management company. Its assets include 77 Greenwich Street in Lower Manhattan (a 90-unit residential condominium tower with retail space and an elementary school), a 105-unit multi-family property at 237 11th Street in Brooklyn, and a retail property in Paramus, NJ. It also holds intellectual property including FilenesBasement.com, the Stanley Blacker brand, and the Running of the Brides trademark.",
+  "tags": [
+    "residential-real-estate",
+    "commercial-real-estate",
+    "retail-real-estate",
+    "consumer-intellectual-property"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TPHS",
+  "origin": {
+    "leaf": "6384cc96522ea653484c2d2e86d633d4361f016a8f80754e12d0461e7205590b",
+    "parent": "bd45314abc79bca69dafe2a22dfd5915f8ea47c50d331f10230b9bed424b6165",
+    "timestamp": "2026-04-12T03:12:54.419Z",
+    "source": "0001558370-25-003553",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6384cc96522ea653484c2d2e86d633d4361f016a8f80754e12d0461e7205590b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.419Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "FGPR",
+  "name": "FERRELLGAS PARTNERS L P",
+  "cik": "0000922358",
+  "exchange": "OTC",
+  "sic": "5900",
+  "sic_description": "Retail-Miscellaneous Retail",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0731",
+  "summary": "Ferrellgas Partners, L.P. is a propane distribution company that sells propane and other gas liquids to residential, industrial/commercial, and agricultural customers (retail sales), as well as to portable tank exchange customers and bulk wholesale buyers (wholesale sales). The company also sells bulk propane to third-party distributors and refined fuel. It operates through its subsidiary Ferrellgas, L.P. as the operating partnership, with Ferrellgas, Inc. serving as general partner.",
+  "tags": [
+    "residential-propane",
+    "industrial/commercial-propane",
+    "agricultural-propane",
+    "wholesale-propane",
+    "portable-tank-exchange",
+    "refined-fuel"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/FGPR",
+  "origin": {
+    "leaf": "350de28cccfdeeb7857f740639d17e0b64d50a8793b258688ea1c7bbd4c8b870",
+    "parent": "116de0774eb64b05679e73ba0257c17d6b60e3015f8836138e96eea4104fa2db",
+    "timestamp": "2026-04-12T03:12:51.481Z",
+    "source": "0001104659-25-099508",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/350de28cccfdeeb7857f740639d17e0b64d50a8793b258688ea1c7bbd4c8b870",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.481Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

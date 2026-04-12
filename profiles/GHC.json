@@ -1,0 +1,157 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GHC",
+  "name": "Graham Holdings Co",
+  "cik": "0000104889",
+  "summary": "Graham Holdings Company is a diversified holding company with operations spanning educational services (via Kaplan, Inc.), television broadcasting (seven stations), healthcare (specialty pharmacy, home health, hospice, applied behavior analysis, allergy/asthma physician services, aesthetics, and SaaS), manufacturing (commercial building products, electrical solutions, lifting solutions, utility parts), automotive dealerships (eight dealerships), restaurants, custom framing, marketing solutions, media publications including Slate and Foreign Policy magazines, and podcast/audio monetization platforms.",
+  "products": [
+    {
+      "name": "Kaplan International",
+      "type": "service",
+      "description": "Educational services including pathways, language training, professional certifications, and higher education across Europe, Middle East, Asia Pacific, and North America."
+    },
+    {
+      "name": "Kaplan Higher Education (KHE)",
+      "type": "service",
+      "description": "Managed non-academic services including analytics, marketing, advising, and admissions support for online university programs."
+    },
+    {
+      "name": "Kaplan Supplemental Education (SE)",
+      "type": "service",
+      "description": "Exam preparation, professional licensure, certification, and continuing education for students and professionals in North America."
+    },
+    {
+      "name": "Kaplan Assessments / SQE",
+      "type": "service",
+      "description": "Sole authorized assessment provider for the Solicitors Qualifying Examination (SQE) in England and Wales."
+    },
+    {
+      "name": "Ontrack",
+      "type": "platform",
+      "description": "Continuing professional development platform offering tailored corporate short courses and continuing education with approximately 48,700 subscribers."
+    },
+    {
+      "name": "Prelum",
+      "type": "service",
+      "description": "Exploratory programs for high school students focused on professional careers, college majors, and previewing college courses."
+    },
+    {
+      "name": "Social Media Management Tools",
+      "type": "software",
+      "description": "Tools designed to connect TV newsrooms with their audiences, provided by the television broadcasting segment."
+    },
+    {
+      "name": "Healthcare SaaS",
+      "type": "software",
+      "description": "Healthcare software-as-a-service technology offered through the company's healthcare segment."
+    },
+    {
+      "name": "Podcast Monetization Platform",
+      "type": "platform",
+      "description": "SaaS platform enabling podcasters and media companies to monetize audio content through paid subscriptions, memberships, and audiobooks."
+    },
+    {
+      "name": "Slate and Foreign Policy Magazines",
+      "type": "service",
+      "description": "Media publications operated as part of the company's other businesses segment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Wake Forest University",
+      "partnership_type": "strategic",
+      "description": "KNA provides managed services including analytics, marketing, advising, and admissions support for online programs.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Creighton University",
+      "partnership_type": "strategic",
+      "description": "KNA provides managed services for online programs offered at the university.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Lynn University",
+      "partnership_type": "strategic",
+      "description": "KNA provides managed services for online programs offered at the university.",
+      "start_date": null
+    },
+    {
+      "partner_name": "University of Massachusetts Global",
+      "partnership_type": "strategic",
+      "description": "KNA provides managed services for online programs offered at the university.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Purdue University Global",
+      "partnership_type": "strategic",
+      "description": "KNA provides managed services for online programs offered at Purdue Global.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Purdue University",
+      "partnership_type": "strategic",
+      "description": "KNA provides managed services for online programs offered at Purdue University.",
+      "start_date": null
+    },
+    {
+      "partner_name": "University of Essex",
+      "partnership_type": "strategic",
+      "description": "Kaplan Open Learning operates as an online institution in partnership with University of Essex.",
+      "start_date": null
+    },
+    {
+      "partner_name": "University of Liverpool",
+      "partnership_type": "strategic",
+      "description": "Kaplan Open Learning operates as an online institution in partnership with University of Liverpool.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Murdoch University",
+      "partnership_type": "strategic",
+      "description": "Kaplan Australia Pathways operates a college in partnership with Murdoch University.",
+      "start_date": null
+    },
+    {
+      "partner_name": "University of Newcastle",
+      "partnership_type": "strategic",
+      "description": "Kaplan Australia Pathways operates a college in partnership with the University of Newcastle.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Adelaide University",
+      "partnership_type": "strategic",
+      "description": "Kaplan Australia Pathways operates a college in partnership with Adelaide University.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Massey University College",
+      "partnership_type": "strategic",
+      "description": "Kaplan New Zealand operates in partnership with Massey University College in Auckland.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Solicitors Regulation Authority (SRA)",
+      "partnership_type": "licensing",
+      "description": "SRA awarded Kaplan UK the contract in 2018 to be the sole authorized assessment provider for the SQE.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GHC/profile",
+  "origin": {
+    "leaf": "c969a79e02d0822d4a0a30702b3887fb3267866b69515dcdc5905bc72c0dd827",
+    "parent": "bc483dcdb956c1580f63f0ca77b15ac7bdbbc4d8d5eb64fac1a6a0d765cfcee5",
+    "timestamp": "2026-04-12T03:12:55.308Z",
+    "source": "profile:0000104889",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c969a79e02d0822d4a0a30702b3887fb3267866b69515dcdc5905bc72c0dd827",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.308Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

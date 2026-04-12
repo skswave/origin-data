@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "FRD",
+  "name": "FRIEDMAN INDUSTRIES INC",
+  "cik": "0000039092",
+  "exchange": "Nasdaq",
+  "sic": "3310",
+  "sic_description": "Steel Works, Blast Furnaces & Rolling & Finishing Mills",
+  "state_of_incorporation": "TX",
+  "headquarters": "Lone Star, Texas",
+  "founded": "1965",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "Friedman Industries, Incorporated is a Texas-based manufacturer and processor of steel products operating in two segments: flat-roll products and tubular products. The flat-roll segment operates five hot-rolled coil processing facilities across Arkansas, Alabama, Indiana, Illinois, and Texas, producing sheet and plate steel. The tubular segment, Texas Tubular Products, operates two electric resistance welded pipe mills in Lone Star, Texas, manufacturing line pipe, oil country pipe, and structural pipe ranging from 2 3/8 OD to 8 5/8 OD.",
+  "tags": [
+    "steel-distribution",
+    "oil-and-gas-(tubular/pipe)",
+    "steel-fabrication-and-manufacturing",
+    "construction-and-structural-steel",
+    "railroad,-barge,-tank,-trailer,-and-container-manufacturing",
+    "american-petroleum-institute-(api)-licensing-for-line-pipe",
+    "american-petroleum-institute-(api)-licensing-for-oil-country-pipe"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 271,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/FRD",
+  "origin": {
+    "leaf": "3e28bcb52b971184bdb64ed79725253b94575c970f1e13d38f71ecc69d04d832",
+    "parent": "64a6a0c4a4bd316af2181aa86c7e0e1c750ffe2e92ad83eb511ee735df442783",
+    "timestamp": "2026-04-12T03:12:52.112Z",
+    "source": "0001437749-25-020219",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3e28bcb52b971184bdb64ed79725253b94575c970f1e13d38f71ecc69d04d832",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.112Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

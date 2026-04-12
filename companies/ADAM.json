@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ADAM",
+  "name": "ADAMAS TRUST, INC.",
+  "cik": "0001273685",
+  "exchange": "Nasdaq",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": "2003",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Adamas Trust, Inc. (formerly New York Mortgage Trust, Inc.) is an internally-managed REIT focused on deploying capital across real estate and capital markets. It owns and manages a diversified portfolio of mortgage-related single-family and multi-family assets, Agency RMBS, non-Agency RMBS, residential loans, and business purpose loans. Through its wholly-owned subsidiary Constructive Loans, LLC, it originates business purpose loans for residential real estate investors, operating in 48 states.",
+  "tags": [
+    "single-family-residential-real-estate",
+    "multi-family-real-estate",
+    "agency-mortgage-backed-securities",
+    "non-agency-mortgage-backed-securities",
+    "business-purpose-lending",
+    "commercial-mortgage-backed-securities",
+    "asset-backed-securities"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ADAM",
+  "origin": {
+    "leaf": "7fac38a992289b3fc838df317010d0868e62121dc007a06756c227eb6c8afb5d",
+    "parent": "757bd84242082749b3764e85bd1838c700fb1d91784c78911f66613a77582b9d",
+    "timestamp": "2026-04-12T03:12:51.254Z",
+    "source": "0001273685-26-000029",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7fac38a992289b3fc838df317010d0868e62121dc007a06756c227eb6c8afb5d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.254Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

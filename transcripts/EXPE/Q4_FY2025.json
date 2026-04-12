@@ -1,0 +1,162 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "EXPE",
+  "company": "Expedia Group, Inc.",
+  "title": "EXPE Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 4008,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EXPE",
+      "predicate": "stated",
+      "object": "We believe Adjusted EBITDA is a useful measure for analysts and investors to evaluate our future on-going performance as this measure allows a more meaningful c",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EXPE",
+      "predicate": "stated",
+      "object": "we believe that by excluding certain items, such as stock-based compensation and acquisition-related impacts, Adjusted EBITDA corresponds more closely to the ca",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EXPE",
+      "predicate": "stated",
+      "object": "We believe Adjusted Net Income (Loss) is useful to investors because it represents Expedia Group's combined results, taking into account depreciation, which man",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EXPE",
+      "predicate": "stated",
+      "object": "we believe this tax rate provides better consistency across reporting periods and produces results that are reflective of Expedia Group’s long-term effective ta",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EXPE",
+      "predicate": "stated",
+      "object": "We believe Adjusted EPS is useful to investors because it represents, on a per share basis, Expedia Group's consolidated results, taking into account depreciati",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "EXPE",
+      "predicate": "stated",
+      "object": "we believe is an ongoing cost of doing business, as well as other items which are not allocated to the operating businesses such as interest expense, taxes, for",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EXPE",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/EXPE/transcripts",
+  "origin": {
+    "leaf": "aee8fe07a07682d6d34afa52c2b3525def70a8d8e6b9b2fcd8ba318dc69cdd8e",
+    "parent": "1ace5f47ccdeee999d822c1e621b96f3492a0e45a43791c703d067a9a4326b3d8b1b4f409aed7f271146cf58091dc9eb",
+    "timestamp": "2026-04-12T03:13:00.748Z",
+    "source": "transcript:EXPE_EXPE-Q4-2025-Earnings-Presentation-FINAL.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/aee8fe07a07682d6d34afa52c2b3525def70a8d8e6b9b2fcd8ba318dc69cdd8e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.748Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

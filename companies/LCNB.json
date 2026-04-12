@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LCNB",
+  "name": "LCNB CORP",
+  "cik": "0001074902",
+  "exchange": "Nasdaq",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "OH",
+  "headquarters": "Lebanon, Ohio",
+  "founded": "1877",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "LCNB Corp. is an Ohio-based financial holding company headquartered in Lebanon, Ohio, operating primarily through its wholly-owned subsidiary LCNB National Bank. The Bank offers commercial and industrial loans, real estate loans, agricultural loans, consumer loans, SBA loans, wealth management and trust services, fiduciary services, investment management, security brokerage services through LPL Financial, and various deposit and electronic banking services across Southwestern and South Central Ohio and Northern Kentucky.",
+  "tags": [
+    "community-banking",
+    "retail-banking",
+    "commercial-banking",
+    "wealth-management-and-trust-services",
+    "residential-mortgage-lending",
+    "consumer-lending",
+    "southwestern-ohio",
+    "south-central-ohio",
+    "northern-kentucky",
+    "basel-iii-capital-ratios"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LCNB",
+  "origin": {
+    "leaf": "ec4756bd792328e999d74c0ec827e255d5615f7428134b37ad6f46742a4e6a12",
+    "parent": "595385cebe5aa71e0b2535b1e303999e0a251a19332afa8acf21c835dc4dbad6",
+    "timestamp": "2026-04-12T03:12:51.855Z",
+    "source": "0001437749-26-007758",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ec4756bd792328e999d74c0ec827e255d5615f7428134b37ad6f46742a4e6a12",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.855Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

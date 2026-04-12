@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SBFM",
+  "name": "Sunshine Biopharma Inc.",
+  "cik": "0001402328",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "CO",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Sunshine Biopharma Inc. is a pharmaceutical company with two Canadian subsidiaries: Nora Pharma Inc., which markets 71 generic prescription drugs in Canada across oncology, cardiovascular, CNS, and other areas, and Sunshine Biopharma Canada Inc., which develops and sells OTC supplements. The company also conducts proprietary drug development including K1.1 mRNA (liver cancer) and SBFM-PL4 (SARS Coronavirus protease inhibitor), both in animal testing stages.",
+  "tags": [
+    "canadian-generic-pharmaceuticals",
+    "oncology",
+    "antiviral-therapeutics",
+    "otc-supplements",
+    "gmp-(good-manufacturing-practice)",
+    "ands-(abbreviated-new-drug-submission)",
+    "lnp-(lipid-nanoparticle)-delivery-technology",
+    "pct-(patent-cooperation-treaty)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SBFM",
+  "origin": {
+    "leaf": "30edba30fbf1d4aedee0338c6d6416980caf9539c3363e29b915d139ef6f7484",
+    "parent": "8963df3ef42eba85aed90f42e26ccc2a0853175b05007825b9553fc6f9f1d135",
+    "timestamp": "2026-04-12T03:12:53.372Z",
+    "source": "0001683168-26-002644",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/30edba30fbf1d4aedee0338c6d6416980caf9539c3363e29b915d139ef6f7484",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.372Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

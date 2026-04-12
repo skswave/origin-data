@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EAI",
+  "name": "ENTERGY ARKANSAS, LLC",
+  "cik": "0000007323",
+  "exchange": "NYSE",
+  "sic": "4911",
+  "sic_description": "Electric Services",
+  "state_of_incorporation": "TX",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Entergy Arkansas, LLC (EAI) is a subsidiary of Entergy Corporation operating within the Entergy system of companies. The filing excerpt pertains to the Cash Balance Equalization Plan of Entergy Corporation and Subsidiaries, an unfunded nonqualified benefit plan providing retirement benefits to eligible non-bargaining management employees that exceed IRS limits under the qualified Cash Balance Plan for Non-Bargaining Employees.",
+  "tags": [
+    "electric-utility",
+    "employee-benefits-/-nonqualified-deferred-compensation"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EAI",
+  "origin": {
+    "leaf": "0800a4c55d01f66388a05af2e50bc0bd03e81b0854a181832d1c246cdbc8bfe7",
+    "parent": "e1fa13ae2941269de2fa4a09a6e75177b6fb784e06900d58356febbdb19520ce",
+    "timestamp": "2026-04-12T03:12:51.135Z",
+    "source": "0000065984-20-000069",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0800a4c55d01f66388a05af2e50bc0bd03e81b0854a181832d1c246cdbc8bfe7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.135Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

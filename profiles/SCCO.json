@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SCCO",
+  "name": "SOUTHERN COPPER CORP/",
+  "cik": "0001001838",
+  "summary": "Southern Copper Corporation is one of the largest integrated copper producers in the world, operating mining, smelting, and refining facilities in Peru and Mexico. The company produces copper, molybdenum, zinc, silver, gold, and lead through open-pit and underground mines. Key operations include Toquepala and Cuajone mines in Peru and La Caridad, Buenavista, and IMMSA units in Mexico. The company believes it holds the largest copper reserves in the world.",
+  "products": [
+    {
+      "name": "Copper cathodes",
+      "type": "hardware",
+      "description": "Refined copper produced via smelting and electrolytic refining or SX-EW technology."
+    },
+    {
+      "name": "Molybdenum concentrate",
+      "type": "hardware",
+      "description": "By-product from copper mining used in alloy steels, fertilizers, dyes, and reagents."
+    },
+    {
+      "name": "Zinc",
+      "type": "hardware",
+      "description": "Produced from open-pit and underground mines, used for corrosion protection and die casting."
+    },
+    {
+      "name": "Silver",
+      "type": "hardware",
+      "description": "Refined silver produced at precious metals plants in Ilo, Peru and La Caridad, Mexico."
+    },
+    {
+      "name": "Gold",
+      "type": "hardware",
+      "description": "Produced as a by-product at precious metals plants in Peru and Mexico."
+    },
+    {
+      "name": "Copper rod",
+      "type": "hardware",
+      "description": "Refined copper rod produced at the La Caridad rod plant in Mexico."
+    },
+    {
+      "name": "Sulfuric acid",
+      "type": "hardware",
+      "description": "By-product of copper smelting operations in Peru."
+    },
+    {
+      "name": "Lead",
+      "type": "hardware",
+      "description": "Produced by IMMSA underground mining unit in Mexico."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SCCO/profile",
+  "origin": {
+    "leaf": "6ec4c62a0918a74d0435dcd3771c310d3b778756e2b6b224714e16b743980235",
+    "parent": "8072b732fbf4776c1833d10fe6dec4902fe99b87da7317f630c2f6476f781744",
+    "timestamp": "2026-04-12T03:12:54.707Z",
+    "source": "profile:0001001838",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6ec4c62a0918a74d0435dcd3771c310d3b778756e2b6b224714e16b743980235",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.707Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

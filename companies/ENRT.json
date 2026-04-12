@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ENRT",
+  "name": "Enertopia Corp.",
+  "cik": "0001346022",
+  "exchange": "OTC",
+  "sic": "1000",
+  "sic_description": "Metal Mining",
+  "state_of_incorporation": "NV",
+  "headquarters": "Kelowna, British Columbia",
+  "founded": "2004",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0831",
+  "summary": "Enertopia Corp. is a Nevada-incorporated company focused on lithium exploration at its 88 unpatented mineral lode claims (1,818 acres) in Esmeralda County, Nevada, and green technology intellectual property. The company holds three granted patents and one pending patent, including the Enertopia Rainmaker (water collection via PV panels), an EMS battery monitoring system, and an Oxyhydrogen Production System. It also holds a 76% ownership interest in CapNtrack technology.",
+  "tags": [
+    "lithium-exploration-and-mining",
+    "green-technology-/-clean-technology",
+    "renewable-energy",
+    "electric-vehicle-(ev)-technology",
+    "battery-monitoring-technology",
+    "national-instrument-43-101-(mineral-resource-reporting)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ENRT",
+  "origin": {
+    "leaf": "26b8840d51a4580f9c7e204e49ab978e4a8a14e88757d48e7420259780b3a3f3",
+    "parent": "ad3ba2327bcade2e20aeb373d2d4769b4736bb8062e8db20d3ee4b70570c528a",
+    "timestamp": "2026-04-12T03:12:53.656Z",
+    "source": "0001062993-25-017347",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/26b8840d51a4580f9c7e204e49ab978e4a8a14e88757d48e7420259780b3a3f3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.656Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

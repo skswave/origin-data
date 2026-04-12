@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PLAG",
+  "name": "Planet Green Holdings Corp.",
+  "cik": "0001117057",
+  "summary": "Planet Green Holdings Corp. is a Nevada holding company headquartered in Flushing, NY, conducting operations through subsidiaries in the PRC and Canada. The company engages in diverse business activities including consumer products, chemical products, and online advertising. Key subsidiaries include Jingshan Sanhe (new energy technologies), Hubei Shengsili Biotechnology, Xianning Bozhuang (tea products), Shandong Yunchu (supply chain), Shanghai Shuning (advertising), and Fast Approach Inc. (online advertising in Canada).",
+  "products": [
+    {
+      "name": "Chemical Products",
+      "type": "hardware",
+      "description": "Chemical products sold through subsidiaries including Bless Chemical and related entities."
+    },
+    {
+      "name": "Tea Products",
+      "type": "hardware",
+      "description": "Tea products produced and sold by Xianning Bozhuang Tea Products Co., Ltd."
+    },
+    {
+      "name": "New Energy Technologies",
+      "type": "hardware",
+      "description": "New energy technology products produced by Jingshan Sanhe Luckysky New Energy Technologies Co., Ltd."
+    },
+    {
+      "name": "Online Advertising",
+      "type": "platform",
+      "description": "Online advertising services provided by Fast Approach Inc. in Canada and Shanghai Shuning in China."
+    },
+    {
+      "name": "Supply Chain Services",
+      "type": "service",
+      "description": "Supply chain services provided by Shandong Yunchu Supply Chain Co., Ltd."
+    },
+    {
+      "name": "Biotechnology Products",
+      "type": "hardware",
+      "description": "Biotechnology products produced by Hubei Shengsili Biotechnology Co., Ltd."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PLAG/profile",
+  "origin": {
+    "leaf": "94f577aeb4d0b70e813f96c40bab177ffe7ad01634a2dd08a398379a05c7e8eb",
+    "parent": "538aca8b396922ebeb114323b92b08c3d0b76fd737165b094ae8559dbee9e611",
+    "timestamp": "2026-04-12T03:12:58.244Z",
+    "source": "profile:0001117057",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/94f577aeb4d0b70e813f96c40bab177ffe7ad01634a2dd08a398379a05c7e8eb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.244Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

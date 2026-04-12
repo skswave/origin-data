@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ASB",
+  "name": "ASSOCIATED BANC-CORP",
+  "cik": "0000007789",
+  "exchange": "NYSE",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "WI",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PARTI General Associated Banc-Corp is a bank holding company registered pursuant to the BHC Act. Our bank subsidiary, Associated Bank, traces its history back to the founding of the Bank of Neenah in 1861. We were incorporated in Wisconsin in 1964 and were inactive until 1969 when permission was received from the Federal Reserve to acquire three banks. At December31, 2025, we owned one nationally chartered commercial bank headquartered in Green Bay, Wisconsin, which serves local communities acro...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ASB",
+  "origin": {
+    "leaf": "71dbd07621bae084634c4d437fafe8f12e7e33b763ef41fe546944e2574529a0",
+    "parent": "bccd03a3e17849733ee78b968fa0c7889163a91e903b0f560935618d2e79cd62",
+    "timestamp": "2026-04-12T03:12:50.680Z",
+    "source": "0000007789-26-000071",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/71dbd07621bae084634c4d437fafe8f12e7e33b763ef41fe546944e2574529a0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.680Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

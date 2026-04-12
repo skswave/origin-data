@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "FDCT",
+  "name": "FDCTECH, INC.",
+  "cik": "0001722731",
+  "exchange": "OTC",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "2016",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "FDCTech, Inc. is a Delaware-incorporated financial technology company providing software solutions and business services to OTC brokerages and financial services industries. Its flagship Condor Trading Technology supports multi-asset trading, risk management, and pricing for forex, equities, commodities, and digital assets. Through subsidiaries AML (Malta), APL (UK), ADS (Australia), and ATECH (Cyprus), the company operates across investment brokerage, wealth management, and technology segments globally.",
+  "tags": [
+    "otc-online-brokerages",
+    "retail-forex-trading",
+    "wealth-management",
+    "investment-brokerage",
+    "digital-assets",
+    "european-financial-markets",
+    "uk-financial-markets",
+    "australian-financial-markets",
+    "german-retail-investor-market",
+    "french-retail-investor-market",
+    "mifid-ii/mifir",
+    "esma-regulations"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/FDCT",
+  "origin": {
+    "leaf": "ea3312ddd6ba67aaf0beeaefab7da133113763a48ef1e3c9dd622a285f3f6b54",
+    "parent": "759a7c17c344e99307517f3eecef3cb9f5f0cf9b187190e12808a7f4e2606290",
+    "timestamp": "2026-04-12T03:12:53.086Z",
+    "source": "0001641172-25-001853",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ea3312ddd6ba67aaf0beeaefab7da133113763a48ef1e3c9dd622a285f3f6b54",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.086Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

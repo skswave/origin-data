@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "KEYS",
+  "name": "Keysight Technologies, Inc.",
+  "cik": "0001601046",
+  "exchange": "NYSE",
+  "sic": "3823",
+  "sic_description": "Industrial Instruments For Measurement, Display, and Control",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1031",
+  "summary": "Keysight Technologies, Inc. is a technology company with significant subsidiaries operating across the Netherlands, Luxembourg, Singapore, Delaware, the United Kingdom, and through Spirent Communications Plc. The filing excerpt lists subsidiary entities but does not detail specific products or services within this section. Keysight is known for electronic test and measurement equipment, software, and services.",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/KEYS",
+  "origin": {
+    "leaf": "f29f490d71928aff3313ddea3f3ce55e04a6736b7ebdd2519e74067cc24da185",
+    "parent": "2fc87ddf62be0c4bb0632996572fcebf4ab8da32cfababb1fbd5e00e4363f2b6",
+    "timestamp": "2026-04-12T03:12:50.347Z",
+    "source": "0001601046-25-000127",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f29f490d71928aff3313ddea3f3ce55e04a6736b7ebdd2519e74067cc24da185",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.347Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

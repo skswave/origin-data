@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TULP",
+  "name": "BLOOMIA HOLDINGS, INC.",
+  "cik": "0000875355",
+  "summary": "Bloomia Holdings (formerly Lendway, Inc.) is a specialty agricultural company and majority owner of Bloomia, one of the largest producers of fresh cut tulips in the United States. Bloomia hydroponically grows tulips from bulbs purchased in the Netherlands and Southern Hemisphere, nurturing over 95 million stems annually in 2024, and sells fresh cut tulip stems to mass-market retailers primarily on the U.S. East Coast, with operations also in the Netherlands and South Africa.",
+  "products": [
+    {
+      "name": "Fresh Cut Tulip Stems",
+      "type": "service",
+      "description": "Hydroponically grown fresh cut tulip stems sourced from bulbs and sold to mass-market U.S. retailers, offering longer shelf life than imported stems."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Araucania Flowers S.A.",
+      "partnership_type": "strategic",
+      "description": "Bloomia holds a 30% minority ownership interest in this Chile-based greenhouse that grows tulips hydroponically year-round, selling to retailers in Chile and Brazil.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TULP/profile",
+  "origin": {
+    "leaf": "261835c4dcfa667e5251cda82e0e5d4f17d817fe8e9560c248e9e019a79fa093",
+    "parent": "f30c294f607362ade35e3fab8fa9c203b474e4110723a6df73915584d6c2974f",
+    "timestamp": "2026-04-12T03:12:58.649Z",
+    "source": "profile:0000875355",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/261835c4dcfa667e5251cda82e0e5d4f17d817fe8e9560c248e9e019a79fa093",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.649Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "III",
+  "name": "Information Services Group Inc.",
+  "cik": "0001371489",
+  "exchange": "Nasdaq",
+  "sic": "8742",
+  "sic_description": "Services-Management Consulting Services",
+  "state_of_incorporation": "DE",
+  "headquarters": "Stamford, CT",
+  "founded": "2006",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Information Services Group, Inc. (ISG) is a global AI-centered technology research and advisory firm serving over 900 clients, including 75 of the world's top 100 enterprises. Founded in 2006, ISG provides digital transformation advisory, sourcing advisory, cloud and data analytics, managed governance, market intelligence, and proprietary platforms (ISG GovernX, ISG Inform, ISG Tango) to private and public sector clients across the Americas, Europe, and Asia-Pacific.",
+  "tags": [
+    "digital-transformation-advisory",
+    "technology-research-and-advisory",
+    "sourcing-advisory",
+    "cloud-and-data-analytics",
+    "managed-governance-and-risk-services",
+    "public-sector",
+    "private-sector-enterprises",
+    "banking",
+    "insurance",
+    "smart-manufacturing"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 1500,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/III",
+  "origin": {
+    "leaf": "91c1e1310fc0c72da4a1ec81d502c9871e42731545dd76437f1731fd66eeb906",
+    "parent": "6b13ed41090a84bb8952952a824dba1b532f32d91b437db0682c1fa880350743",
+    "timestamp": "2026-04-12T03:12:51.939Z",
+    "source": "0001104659-26-024573",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/91c1e1310fc0c72da4a1ec81d502c9871e42731545dd76437f1731fd66eeb906",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.939Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

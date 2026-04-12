@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AAME",
+  "name": "ATLANTIC AMERICAN CORP",
+  "cik": "0000008177",
+  "summary": "Atlantic American Corporation is a Georgia-based insurance holding company incorporated in 1968. It operates through two primary subsidiaries: American Southern Insurance Company (property and casualty), offering commercial automobile, general liability, and surety bond coverage in 32 states and D.C.; and Bankers Fidelity (life and health), offering Medicare supplement, life insurance, and accident and health products across 46 states through approximately 6,243 licensed independent agents.",
+  "products": [
+    {
+      "name": "Commercial Automobile Insurance",
+      "type": "service",
+      "description": "Bodily injury, property damage liability, uninsured motorist, and physical damage coverage for commercial accounts and government fleets."
+    },
+    {
+      "name": "General Liability Insurance",
+      "type": "service",
+      "description": "Bodily injury and property damage liability coverage for premises and completed operations for general business classes."
+    },
+    {
+      "name": "Surety Bonds",
+      "type": "service",
+      "description": "Guarantees fulfillment of contractual obligations including subdivision construction, school bus contracts, and performance and payment bonds."
+    },
+    {
+      "name": "Medicare Supplement Insurance",
+      "type": "service",
+      "description": "Coverage for expenses not covered by Medicare, including copayments and deductibles; offers 8 of 10 standardized plans under OBRA 1990."
+    },
+    {
+      "name": "Life Insurance",
+      "type": "service",
+      "description": "Non-participating individual and group whole life insurance policies with various riders and options."
+    },
+    {
+      "name": "Vantage Flex Plus",
+      "type": "service",
+      "description": "A hospital indemnity plan offered by Bankers Fidelity as a differentiated health insurance product."
+    },
+    {
+      "name": "Vantage Recovery",
+      "type": "service",
+      "description": "Short-term care insurance product offered by Bankers Fidelity."
+    },
+    {
+      "name": "Group Whole Life with Chronic Illness Rider",
+      "type": "service",
+      "description": "Group whole life insurance product featuring a chronic illness rider offered through Bankers Fidelity."
+    },
+    {
+      "name": "Other Accident and Health Insurance",
+      "type": "service",
+      "description": "Individual and group policies covering cancer, critical illness, short-term nursing care, disability, and accident/hospital cash benefits."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AAME/profile",
+  "origin": {
+    "leaf": "efcf10be9c92901b72ec320a4c5508245ba5168bab87da2e18a19977e9864aa3",
+    "parent": "ba2ecd825645823f5b5ad58e766be74eed9b6a5ca3750a0b305a6834343bfbed",
+    "timestamp": "2026-04-12T03:12:57.841Z",
+    "source": "profile:0000008177",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/efcf10be9c92901b72ec320a4c5508245ba5168bab87da2e18a19977e9864aa3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.841Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "PLTR",
+  "company": "Palantir Technologies Inc.",
+  "title": "PLTR Q2 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 4418,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "PLTR",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PLTR",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PLTR",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "PLTR gross margin",
+      "predicate": "reported",
+      "object": "$27 percent",
+      "value": 27,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "PLTR gross margin",
+      "predicate": "reported",
+      "object": "$46 percent",
+      "value": 46,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "PLTR gross margin",
+      "predicate": "reported",
+      "object": "$21 percent",
+      "value": 21,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "PLTR gross margin",
+      "predicate": "reported",
+      "object": "$22 percent",
+      "value": 22,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "PLTR gross margin",
+      "predicate": "reported",
+      "object": "$57 percent",
+      "value": 57,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "PLTR free cash flow",
+      "predicate": "reported",
+      "object": "$569 million",
+      "value": 569,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "PLTR EPS",
+      "predicate": "reported",
+      "object": "$0.16",
+      "value": 0.16,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "PLTR EPS",
+      "predicate": "reported",
+      "object": "$0.13.",
+      "value": 0.13,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "PLTR",
+      "predicate": "guided",
+      "object": "expect:   For full year 2025, we expect: FY 2025 Adjusted income from opera\u001eons of between $1.912 billion",
+      "value": 1.912,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "PLTR",
+      "predicate": "stated",
+      "object": "we expect:   For full year 2025, we expect: FY 2025 Adjusted income from opera\u001eons of between $1",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "PLTR",
+      "predicate": "guided",
+      "object": "FY 2025 Adjusted income from opera\u001eons of between $1.912 billion",
+      "value": 1.912,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PLTR",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PLTR",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PLTR",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PLTR",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/PLTR/transcripts",
+  "origin": {
+    "leaf": "269c660ab35b4435109d2905b7587737da5dc46f39ac32ff144c113b50e285e4",
+    "parent": "7f0a731db486ceb46d37a26fb0f44ece0439de8fcb72b163fa4fee9875471cb495b1a9b14e810b59fa77560dd08a8900",
+    "timestamp": "2026-04-12T03:13:01.116Z",
+    "source": "transcript:PLTR_Palantir%20Q2%202025%20Business%20Update.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/269c660ab35b4435109d2905b7587737da5dc46f39ac32ff144c113b50e285e4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.116Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

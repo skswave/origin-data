@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "KFY",
+  "name": "KORN FERRY",
+  "cik": "0000056679",
+  "exchange": "NYSE",
+  "sic": "7361",
+  "sic_description": "Services-Employment Agencies",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0430",
+  "summary": "Korn Ferry is a global consulting firm offering talent and organizational performance solutions. It provides executive search, professional recruiting, RPO, leadership development, organizational consulting, and digital talent products. Its Korn Ferry Talent Suite includes products like Architect, Assess, Pay, Recruit, and Sell. In fiscal 2025, the company generated $2,730.1 million in fee revenue, serving clients across 51 countries through 103 offices.",
+  "tags": [
+    "executive-search",
+    "professional-search-&-interim",
+    "recruitment-process-outsourcing-(rpo)",
+    "organizational-consulting",
+    "leadership-&-professional-development",
+    "total-rewards",
+    "digital-talent-solutions",
+    "board-&-ceo-advisory-services"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 9253,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/KFY",
+  "origin": {
+    "leaf": "8093ab9ad5a6f2bbc9db83ec4fd029c502ff096619f2a9427f6accd0553f0a5e",
+    "parent": "d56ae4c8a657f0e09a636fe42ca2930e25a37b4816dd43e5078eb2d1d13a1eb4",
+    "timestamp": "2026-04-12T03:12:50.746Z",
+    "source": "0001628280-25-033260",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8093ab9ad5a6f2bbc9db83ec4fd029c502ff096619f2a9427f6accd0553f0a5e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.746Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

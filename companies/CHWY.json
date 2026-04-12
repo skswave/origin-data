@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CHWY",
+  "name": "Chewy, Inc.",
+  "cik": "0001766502",
+  "exchange": "NYSE",
+  "sic": "5961",
+  "sic_description": "Retail-Catalog & Mail-Order Houses",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0201",
+  "summary": "Overview Chewy, Inc. began operating as Chewy.com in 2011 and Chewy.com, LLC was formed as a Delaware limited liability company in October 2013. On March 16, 2016, Chewy.com, LLC converted from a Delaware limited liability company to a Delaware corporation and changed its name to Chewy, Inc. Chewy, Inc. completed the initial public offering of its Class A common stock, par value $0.01 per share (the Class A common stock), on June 18, 2019. Unless the context requires otherwise, references in thi...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CHWY",
+  "origin": {
+    "leaf": "c6783ae73c711c666b3590efcf914f6990b9c4bc77419d7e5064dd7e34008e89",
+    "parent": "1e1df4d08ee4f66684be7df0735d1f46d02d27fa3dc19390189b7923408f5585",
+    "timestamp": "2026-04-12T03:12:50.487Z",
+    "source": "0001766502-26-000034",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c6783ae73c711c666b3590efcf914f6990b9c4bc77419d7e5064dd7e34008e89",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.487Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

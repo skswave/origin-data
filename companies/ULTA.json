@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ULTA",
+  "name": "Ulta Beauty, Inc.",
+  "cik": "0001403568",
+  "exchange": "Nasdaq",
+  "sic": "5990",
+  "sic_description": "Retail-Retail Stores, NEC",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": "1990",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0131",
+  "summary": "Ulta Beauty, Inc. is an international specialty beauty retailer founded in Illinois in 1990. It is the largest specialty beauty retailer in the U.S., offering cosmetics, fragrance, skin care, hair care, wellness products, and salon services across prestige, mass, and salon price points. It operates over 1,500 U.S. stores, digital platforms, and has international presence through Space NK (U.K. and Ireland), a Mexico joint venture, and a Middle East franchise.",
+  "tags": [
+    "u.s.-specialty-beauty-retail",
+    "u.k.-and-ireland-luxury-beauty-retail",
+    "mexico-beauty-retail-(joint-venture)",
+    "middle-east-beauty-retail-(franchise)",
+    "prestige-beauty",
+    "mass-beauty",
+    "professional-salon-products-and-services",
+    "wellness-and-bath-products"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ULTA",
+  "origin": {
+    "leaf": "a72b67c78f9606d954385ed90ff7c6e606eb8e70c57547c0ddbbb652135f9af4",
+    "parent": "7badc9ecc877598749a4bfc13c6a5237a8cf7aff3f44329ef46804da00ca583f",
+    "timestamp": "2026-04-12T03:12:50.401Z",
+    "source": "0001104659-26-035243",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a72b67c78f9606d954385ed90ff7c6e606eb8e70c57547c0ddbbb652135f9af4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.401Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GWRS",
+  "name": "Global Water Resources, Inc.",
+  "cik": "0001434728",
+  "summary": "Global Water Resources, Inc. (GWRS) is a water resource management company operating regulated water, wastewater, and recycled water utilities exclusively in Arizona. The company owns and operates multiple utility subsidiaries including GW-Santa Cruz, GW-Palo Verde, GW-Farmers, GW-Hassayampa, GW-Belmont, GW-Turner, GW-Saguaro, and GW-Ocotillo, providing water and wastewater services primarily concentrated within a single municipality in Arizona, with operations subject to regulation by the Arizona Corporation Commission (ACC).",
+  "products": [
+    {
+      "name": "Water Distribution Service",
+      "type": "service",
+      "description": "Regulated potable water supply and distribution to residential and commercial customers in Arizona."
+    },
+    {
+      "name": "Wastewater Collection and Treatment",
+      "type": "service",
+      "description": "Regulated wastewater collection, treatment, and disposal services including the Southwest Plant facility."
+    },
+    {
+      "name": "Recycled Water Service",
+      "type": "service",
+      "description": "Recycled water services provided as part of integrated water resource management operations."
+    },
+    {
+      "name": "Automated Meter Infrastructure (AMI)",
+      "type": "hardware",
+      "description": "Automated meter infrastructure technology deployed across utility service areas."
+    },
+    {
+      "name": "Water Distribution Service",
+      "type": "service",
+      "description": "Regulated potable water supply and distribution to residential and commercial customers in Arizona service areas."
+    },
+    {
+      "name": "Wastewater Treatment Service",
+      "type": "service",
+      "description": "Regulated wastewater collection and treatment services including the Southwest Plant facility in Pinal County."
+    },
+    {
+      "name": "Recycled Water Service",
+      "type": "service",
+      "description": "Recycled water utility services provided through regulated subsidiaries in Arizona."
+    },
+    {
+      "name": "Automated Meter Infrastructure (AMI)",
+      "type": "hardware",
+      "description": "Automated meter infrastructure technology deployed for utility monitoring and management."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Northern Trust Company",
+      "partnership_type": "strategic",
+      "description": "Revolving credit facility (Revolver) provided by The Northern Trust Company, an Illinois banking corporation.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Water Infrastructure Finance Authority of Arizona (WIFA)",
+      "partnership_type": "strategic",
+      "description": "Financial authority referenced in connection with water infrastructure financing in Arizona.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Northern Trust Company",
+      "partnership_type": "strategic",
+      "description": "Illinois banking corporation providing revolving credit facility (Revolver) to the company.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Water Infrastructure Finance Authority of Arizona (WIFA)",
+      "partnership_type": "strategic",
+      "description": "Arizona authority involved in water infrastructure financing for the company.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GWRS/profile",
+  "origin": {
+    "leaf": "cfd331aaf91167c74cd48c8902b92e37960f0d5b006e220c476156f59cf316cf",
+    "parent": "29ed4ed80196ec64d571b72a7aa771ffa4a05852176645d7e7bf207c68a3b47b",
+    "timestamp": "2026-04-12T03:12:56.963Z",
+    "source": "profile:0001434728",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cfd331aaf91167c74cd48c8902b92e37960f0d5b006e220c476156f59cf316cf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.963Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

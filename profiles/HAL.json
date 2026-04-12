@@ -1,0 +1,120 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HAL",
+  "name": "HALLIBURTON CO",
+  "cik": "0000045012",
+  "summary": "Halliburton Company is one of the world's largest providers of products and services to the energy industry, operating through two segments: Completion and Production, and Drilling and Evaluation. Founded in 1919, the company offers cementing, stimulation, hydraulic fracturing, artificial lift, drilling fluids, directional drilling, wireline logging, and digital/AI solutions to major, national, and independent oil and gas producers in more than 70 countries.",
+  "products": [
+    {
+      "name": "Artificial Lift",
+      "type": "service",
+      "description": "Maximizes reservoir and wellbore recovery using lifting technology and intelligent field management, including electrical submersible pumps."
+    },
+    {
+      "name": "Cementing",
+      "type": "service",
+      "description": "Bonds wells and well casing while isolating fluid zones and maximizing wellbore stability; also provides casing equipment."
+    },
+    {
+      "name": "Completion Tools",
+      "type": "hardware",
+      "description": "Downhole solutions including liner hanger systems, sand control, multilateral systems, and intelligent well completions."
+    },
+    {
+      "name": "Multi-Chem",
+      "type": "service",
+      "description": "Customized specialty chemicals and services for completion, production, midstream, and downstream to optimize flow assurance and integrity."
+    },
+    {
+      "name": "Pipeline & Process Services",
+      "type": "service",
+      "description": "Pre-commissioning, commissioning, maintenance, and decommissioning services for onshore and offshore pipelines and process plants."
+    },
+    {
+      "name": "Production Enhancement",
+      "type": "service",
+      "description": "Stimulation and sand control services including hydraulic fracturing, acidizing, and fluids for unconsolidated reservoirs."
+    },
+    {
+      "name": "Production Solutions",
+      "type": "service",
+      "description": "Well intervention solutions including coiled tubing, hydraulic workover units, downhole tools, pumping, and nitrogen services."
+    },
+    {
+      "name": "Baroid",
+      "type": "service",
+      "description": "Drilling fluid systems, completion fluids, solids control, specialized testing equipment, and waste management for drilling operations."
+    },
+    {
+      "name": "Drill Bits and Services",
+      "type": "hardware",
+      "description": "Roller cone bits, fixed cutter bits, hole enlargement tools, and coring equipment for drilling wells."
+    },
+    {
+      "name": "Halliburton Project Management",
+      "type": "service",
+      "description": "Integrated solutions leveraging well construction, completion, and intervention services including project and asset management."
+    },
+    {
+      "name": "Landmark Software and Services",
+      "type": "software",
+      "description": "Cloud-based digital services and AI solutions for subsurface insights, integrated well construction, and reservoir and production management."
+    },
+    {
+      "name": "Sperry Drilling",
+      "type": "service",
+      "description": "Directional and horizontal drilling, measurement-while-drilling, logging-while-drilling, and rig site information systems."
+    },
+    {
+      "name": "Testing and Subsea",
+      "type": "service",
+      "description": "Dynamic reservoir information acquisition, well testing, fluid sampling, subsea safety systems, and managed pressure drilling solutions."
+    },
+    {
+      "name": "Wireline and Perforating",
+      "type": "service",
+      "description": "Open-hole logging, cased-hole and slickline services, perforating, pipe recovery, and well intervention services."
+    },
+    {
+      "name": "Zeus IQ Electric Fracturing Platform",
+      "type": "hardware",
+      "description": "Electric fracturing platform used in North America; 50% of North American fracturing fleet transitioned to Zeus electric pumps as of 2025."
+    },
+    {
+      "name": "iCruise Rotary Steerable Systems",
+      "type": "hardware",
+      "description": "Rotary steerable drilling system utilized to maximize value in North America operations."
+    },
+    {
+      "name": "LOGIX Automation",
+      "type": "platform",
+      "description": "Automation technology deployed for drilling and well construction efficiency in North America."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "VoltaGrid",
+      "partnership_type": "strategic",
+      "description": "Strategic collaboration around behind-the-meter power generation, highlighted as a 2026 focus area.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HAL/profile",
+  "origin": {
+    "leaf": "e48f5ff8c32e209673bba4df8c8900c59ca6a064b7d5eda3164cd1cbd107707d",
+    "parent": "bc3eda34c386e52cc2637f2f5c6a141c582f4d773cce6122747492c41a351fd1",
+    "timestamp": "2026-04-12T03:12:54.829Z",
+    "source": "profile:0000045012",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e48f5ff8c32e209673bba4df8c8900c59ca6a064b7d5eda3164cd1cbd107707d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.829Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BMNM",
+  "name": "BIMINI CAPITAL MANAGEMENT, INC.",
+  "cik": "0001275477",
+  "exchange": "OTC",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Bimini Capital Management, Inc. is a Maryland-based specialty finance company operating in two segments: investing in Agency mortgage-backed securities (MBS) and Orchid Island Capital common stock through its subsidiary Royal Palm Capital, LLC; and serving as external manager of Orchid Island Capital, Inc. through Bimini Advisors, LLC. Agency MBS include pass-through certificates, CMOs, IOs, IIOs, and POs guaranteed by Fannie Mae, Freddie Mac, or Ginnie Mae, backed by single-family residential mortgage loans.",
+  "tags": [
+    "agency-mortgage-backed-securities",
+    "external-asset-management",
+    "single-family-residential-mortgage-finance",
+    "reit-management"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BMNM",
+  "origin": {
+    "leaf": "40b0e4e122282234059e6ab873cd378a64414c66d73f4d6bed5794b127e57415",
+    "parent": "d0dcb5f7648ed4cc4273daa42031cf212f1d3cd55f17e1b136a73652ee55bd39",
+    "timestamp": "2026-04-12T03:12:52.771Z",
+    "source": "0001437749-26-008139",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/40b0e4e122282234059e6ab873cd378a64414c66d73f4d6bed5794b127e57415",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.771Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

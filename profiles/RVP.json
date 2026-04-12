@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RVP",
+  "name": "RETRACTABLE TECHNOLOGIES INC",
+  "cik": "0000946563",
+  "summary": "Retractable Technologies Inc (RVP) designs and manufactures safety medical products, with a focus on retractable needle and syringe devices. The company develops products for the safety market aimed at reducing needlestick injuries. It maintains patent protection on its devices and relies on third-party manufacturing and supplier arrangements to produce and distribute its medical safety products.",
+  "products": [
+    {
+      "name": "Retractable Safety Syringes",
+      "type": "hardware",
+      "description": "Safety syringes with retractable needle mechanisms designed to reduce needlestick injuries in medical settings."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party manufacturers/suppliers",
+      "partnership_type": "strategic",
+      "description": "Company maintains third-party manufacturing and supplier arrangements for production of its safety devices.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RVP/profile",
+  "origin": {
+    "leaf": "18fff1ccec07aedd0b27f42da552c41a967d92469976eef2bb53f66e75daad31",
+    "parent": "ebcbf503ef5e1ffab21d2976051e1217ddacfcc4be56c4d5e1d1eb3e3287e079",
+    "timestamp": "2026-04-12T03:12:58.257Z",
+    "source": "profile:0000946563",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/18fff1ccec07aedd0b27f42da552c41a967d92469976eef2bb53f66e75daad31",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.257Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

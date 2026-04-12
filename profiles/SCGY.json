@@ -1,0 +1,87 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SCGY",
+  "name": "SCIENTIFIC ENERGY, INC",
+  "cik": "0001276531",
+  "summary": "Scientific Energy, Inc. is a Utah-incorporated company operating primarily through subsidiaries in food ordering and delivery (Macau, via Aomi App), graphite product sales (via Graphite Energy, Inc.), and physical gold trading (via 50%-owned Gold Gold Gold Limited in Hong Kong). Its flagship subsidiary MED holds approximately 70% market share in Macau food delivery, generating over 10 million transactions and ~$141.4M gross merchandise volume in 2024.",
+  "products": [
+    {
+      "name": "Aomi App",
+      "type": "platform",
+      "description": "Mobile food and grocery ordering and delivery platform operating in Macau connecting merchants, consumers, and delivery riders."
+    },
+    {
+      "name": "WeChat Mini Program",
+      "type": "platform",
+      "description": "Third-party mini app integration allowing customers to access Aomi platform services without a separate download."
+    },
+    {
+      "name": "Goldeck App",
+      "type": "platform",
+      "description": "Physical gold trading platform offering one-stop services including gold trading, deposits, and withdrawals in Hong Kong."
+    },
+    {
+      "name": "Graphite Sales Business",
+      "type": "service",
+      "description": "Graphite ore and product sales business operated by wholly-owned subsidiary Graphite Energy, Inc., incorporated in Florida."
+    },
+    {
+      "name": "Flash Sales Service",
+      "type": "service",
+      "description": "Limited-time deep-discount sales on the Aomi platform allowing merchants to clear inventory to exclusive members."
+    },
+    {
+      "name": "In-Store Service",
+      "type": "service",
+      "description": "Online-to-offline service where users find store deals online and redeem them at physical locations for dining, entertainment, and more."
+    },
+    {
+      "name": "Group Dining Services (Hong Kong)",
+      "type": "service",
+      "description": "Corporate group dining platform in Hong Kong offering meal delivery and physical Webite Space dining locations."
+    },
+    {
+      "name": "Webite Space",
+      "type": "service",
+      "description": "Physical shared kitchen-and-cafe locations in Hong Kong offering meal selections; 4 locations opened by end of 2024."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Cityhill Limited / Elate Holdings Limited",
+      "partnership_type": "strategic",
+      "description": "50-50 joint venture established in 2018 to operate Gold Gold Gold Limited (3G), a physical gold trading platform in Hong Kong.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Madagascar Graphite Limited (MGL)",
+      "partnership_type": "strategic",
+      "description": "Base Agreement for Purchase of Graphite Ore signed January 2024 to ensure long-term graphite ore supply, amended March 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Meituan Dianping",
+      "partnership_type": "strategic",
+      "description": "MED was Meituan Dianping's exclusive business partner in Macau in 2015.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SCGY/profile",
+  "origin": {
+    "leaf": "165ad683363ba1a606df6e96338f55d59b11ac07f4a1227850199aac9aca35cf",
+    "parent": "3834778e302d59ae5089d8ea9b3bfd716f3cc2e7455b87149b1a1b7d3b68849d",
+    "timestamp": "2026-04-12T03:12:59.908Z",
+    "source": "profile:0001276531",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/165ad683363ba1a606df6e96338f55d59b11ac07f4a1227850199aac9aca35cf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.908Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

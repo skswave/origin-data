@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ARMP",
+  "name": "Armata Pharmaceuticals, Inc.",
+  "cik": "0000921114",
+  "summary": "Armata Pharmaceuticals, Inc. is a late clinical-stage biotechnology company developing high-purity, pathogen-specific bacteriophage therapeutics for antibiotic-resistant and difficult-to-treat bacterial infections. Its pipeline includes AP-PA02, an inhaled phage targeting Pseudomonas aeruginosa in cystic fibrosis, and AP-SA02, targeting Staphylococcus aureus. The company has completed three Phase 2 randomized, double-blind, placebo-controlled clinical trials and operates a cGMP-compliant bacteriophage manufacturing facility in Los Angeles.",
+  "products": [
+    {
+      "name": "AP-PA02",
+      "type": "platform",
+      "description": "Inhaled bacteriophage therapeutic targeting Pseudomonas aeruginosa, primarily for chronic pulmonary infections in cystic fibrosis patients."
+    },
+    {
+      "name": "AP-SA02",
+      "type": "platform",
+      "description": "Bacteriophage therapeutic targeting Staphylococcus aureus for acute systemic bacterial infections."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Cystic Fibrosis Foundation",
+      "partnership_type": "development",
+      "description": "Collaboration supporting development of phage therapeutics for cystic fibrosis-related bacterial infections.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Department of Defense",
+      "partnership_type": "strategic",
+      "description": "Partnership including a $26.2 million DoD award supporting bacteriophage therapeutic development.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ARMP/profile",
+  "origin": {
+    "leaf": "f656cc554d32379a7a7d81556dda1c1459bbcf75fac2e4434687e6a5d23fefa3",
+    "parent": "d76cd48c27c97ae54746ef4016b4cb1cc63b156727c39dd40769ad84461839fc",
+    "timestamp": "2026-04-12T03:12:56.575Z",
+    "source": "profile:0000921114",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f656cc554d32379a7a7d81556dda1c1459bbcf75fac2e4434687e6a5d23fefa3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.575Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

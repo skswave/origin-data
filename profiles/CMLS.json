@@ -1,0 +1,96 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CMLS",
+  "name": "CUMULUS MEDIA INC",
+  "cik": "0001058623",
+  "summary": "Cumulus Media is an audio-first media company reaching approximately 250 million listeners monthly. It operates 400 owned-and-operated radio stations across 84 markets, distributes nationally-syndicated programming via Westwood One across 9,500+ affiliated stations, and runs the Cumulus Podcast Network. The company generates revenue through broadcast radio advertising, digital advertising (podcasting, streaming, digital marketing services), and other revenue including events and content licensing.",
+  "products": [
+    {
+      "name": "Westwood One",
+      "type": "platform",
+      "description": "Largest audio network in America distributing syndicated sports, news, talk, and entertainment to 9,500+ affiliated stations."
+    },
+    {
+      "name": "Cumulus Podcast Network",
+      "type": "platform",
+      "description": "Network of original personality-driven podcasts monetized through national and local ad sales teams."
+    },
+    {
+      "name": "Cumulus C-Suite",
+      "type": "service",
+      "description": "Digital marketing services portfolio including email marketing, geo-targeted display, video solutions, and search engine marketing."
+    },
+    {
+      "name": "Boost",
+      "type": "service",
+      "description": "Digital marketing suite offering website building, social media management, reputation management, listing management, and SEO."
+    },
+    {
+      "name": "Streaming Audio Network",
+      "type": "platform",
+      "description": "One of the largest streaming audio advertising networks in the U.S., including internet simulcasts of owned and operated radio stations."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Katz Media Group, Inc.",
+      "partnership_type": "strategic",
+      "description": "Outsourced national spot advertising sales for Cumulus owned-and-operated stations in exchange for commission.",
+      "start_date": null
+    },
+    {
+      "partner_name": "NFL",
+      "partnership_type": "licensing",
+      "description": "Exclusive radio broadcast partnership providing national reach and advertising opportunities.",
+      "start_date": null
+    },
+    {
+      "partner_name": "NCAA",
+      "partnership_type": "licensing",
+      "description": "Exclusive radio broadcast partnership enabling national and local advertising campaigns.",
+      "start_date": null
+    },
+    {
+      "partner_name": "AP News",
+      "partnership_type": "strategic",
+      "description": "Content partnership for nationally-syndicated news programming distributed via Westwood One.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Academy of Country Music Awards",
+      "partnership_type": "strategic",
+      "description": "Content partnership for nationally-syndicated entertainment programming.",
+      "start_date": null
+    },
+    {
+      "partner_name": "The Masters",
+      "partnership_type": "strategic",
+      "description": "Content partnership for nationally-syndicated sports programming via Westwood One.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Infinity Sports Network",
+      "partnership_type": "strategic",
+      "description": "Content partnership for nationally-syndicated sports programming distributed via Westwood One.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CMLS/profile",
+  "origin": {
+    "leaf": "6661809a98c1b0a6885618f1310d89dbaf57fd7d341c7031150bfb3f8636fd1e",
+    "parent": "e02057982422b3f8a81e23ec573ffc0347381fdfbb549f948ad0e611f0e461ca",
+    "timestamp": "2026-04-12T03:12:59.286Z",
+    "source": "profile:0001058623",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6661809a98c1b0a6885618f1310d89dbaf57fd7d341c7031150bfb3f8636fd1e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.286Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

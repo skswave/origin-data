@@ -1,0 +1,59 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "VSH",
+  "name": "VISHAY INTERTECHNOLOGY INC",
+  "cik": "0000103730",
+  "exchange": "NYSE",
+  "sic": "3670",
+  "sic_description": "Electronic Components & Accessories",
+  "state_of_incorporation": "DE",
+  "headquarters": "Malvern, Pennsylvania",
+  "founded": "1962",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Vishay Intertechnology, Inc. manufactures one of the world's largest portfolios of discrete semiconductors and passive electronic components. Products include MOSFETs, diodes, optoelectronic components, resistors, inductors, and capacitors. These components serve automotive, industrial, computing, consumer, telecommunications, military, aerospace, and healthcare markets worldwide. Founded in 1962, Vishay grew through organic development and strategic acquisitions, becoming a global leader in wire wound power shunts, power inductors, tantalum capacitors, power rectifiers, low-voltage power MOSFETs, and infrared components.",
+  "tags": [
+    "automotive",
+    "industrial",
+    "computing",
+    "consumer",
+    "telecommunications",
+    "military",
+    "aerospace",
+    "healthcare",
+    "factory-automation",
+    "5g-infrastructure",
+    "artificial-intelligence-(ai)",
+    "smart-grid-infrastructure",
+    "internet-of-things-(iot)",
+    "electric-vehicles"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/VSH",
+  "origin": {
+    "leaf": "ca9c3f2a0be0a6e0a08cb74efd0b008248654df7646e719dc44f119fa711a5be",
+    "parent": "6833d38fe7f2befd7d0622ce948563e4dfe9f940508faaf963894248a351da54",
+    "timestamp": "2026-04-12T03:12:50.834Z",
+    "source": "0000103730-26-000019",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ca9c3f2a0be0a6e0a08cb74efd0b008248654df7646e719dc44f119fa711a5be",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.834Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

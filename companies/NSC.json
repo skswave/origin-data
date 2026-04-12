@@ -1,0 +1,58 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NSC",
+  "name": "NORFOLK SOUTHERN CORP",
+  "cik": "0000702165",
+  "exchange": "NYSE",
+  "sic": "4011",
+  "sic_description": "Railroads, Line-Haul Operating",
+  "state_of_incorporation": "VA",
+  "headquarters": "Atlanta, Georgia",
+  "founded": "1980",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Norfolk Southern Corporation is an Atlanta, Georgia-based freight railroad company operating approximately 19,100 route miles in 22 states and the District of Columbia. It transports raw materials, intermediate products, and finished goods via three commodity groups: merchandise (63% of revenues, including agriculture, chemicals, metals, automotive), intermodal (25%), and coal (12%). It operates the most extensive intermodal network in the eastern U.S. and serves Atlantic and Gulf Coast ports for overseas freight.",
+  "tags": [
+    "freight-rail-transportation",
+    "intermodal-logistics",
+    "coal-transport",
+    "automotive-transport",
+    "agricultural-products-transport",
+    "chemical-transport",
+    "metals-and-construction-materials-transport",
+    "international-port-freight",
+    "centralized-traffic-control",
+    "automatic-block-signals",
+    "cab-signals",
+    "interoperable-train-control-messaging",
+    "advanced-train-control-system"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 19300,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NSC",
+  "origin": {
+    "leaf": "2405af8344b29e7056b7a55e73710a834bcc182562756b2fa57a8be93c89aed9",
+    "parent": "883e2c47b870ef362beadf2ce7e1a4df0cbae3184cc31517606c03f9deeb7fa5",
+    "timestamp": "2026-04-12T03:12:50.334Z",
+    "source": "0001628280-26-006268",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2405af8344b29e7056b7a55e73710a834bcc182562756b2fa57a8be93c89aed9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.334Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "BMBN",
+  "total_facts": 15,
+  "by_type": {
+    "topic_mention": 9,
+    "metric": 6
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMBN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 13,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMBN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 13,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMBN",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 13,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BMBN EPS",
+      "predicate": "reported_in_filing",
+      "object": "$1.21",
+      "value": 1.21,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "eps",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BMBN EPS",
+      "predicate": "reported_in_filing",
+      "object": "$1.15",
+      "value": 1.15,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "eps",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BMBN EPS",
+      "predicate": "reported_in_filing",
+      "object": "$1.21",
+      "value": 1.21,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "eps",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BMBN EPS",
+      "predicate": "reported_in_filing",
+      "object": "$1.15",
+      "value": 1.15,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "eps",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BMBN EPS",
+      "predicate": "reported_in_filing",
+      "object": "$1.21",
+      "value": 1.21,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "eps",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BMBN EPS",
+      "predicate": "reported_in_filing",
+      "object": "$1.15",
+      "value": 1.15,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "eps",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMBN",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMBN",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMBN",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMBN",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMBN",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMBN",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BMBN/transcripts",
+  "origin": {
+    "leaf": "fc6afc75a96d38041ef80381cf46f9b92a252f3385f1bb799071843ca3a9e977",
+    "parent": "fbb1823fd931afb1bf433bc9e67d9f20a708aff84c6d7989c2122a3fe7023381",
+    "timestamp": "2026-04-12T03:14:41.136Z",
+    "source": "facts:BMBN",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fc6afc75a96d38041ef80381cf46f9b92a252f3385f1bb799071843ca3a9e977",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:41.136Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

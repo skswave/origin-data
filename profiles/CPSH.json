@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CPSH",
+  "name": "CPS TECHNOLOGIES CORP/DE/",
+  "cik": "0000814676",
+  "summary": "CPS Technologies Corp. is a Massachusetts-based advanced materials company founded in 1984 that designs, manufactures, and sells high-performance material solutions using proprietary metal matrix composite (MMC) technology. Key products include AlSiC baseplates and heat spreaders for power electronics, hermetic packaging for aerospace and defense, and HybridTech Armor for military platforms. Customers include major global electronics OEMs across transportation, energy, automotive, electronics, telecommunications, aerospace, and defense markets.",
+  "products": [
+    {
+      "name": "AlSiC MMC Baseplates and Heat Spreaders",
+      "type": "hardware",
+      "description": "Custom aluminum silicon carbide components for thermal management in power semiconductor modules used in motor control, EVs, and HVDC systems."
+    },
+    {
+      "name": "Hermetic Packaging",
+      "type": "hardware",
+      "description": "AlSiC-based hermetic packages for high-reliability microelectronics in aerospace, defense, space, and satellite applications including GPS systems."
+    },
+    {
+      "name": "HybridTech Armor",
+      "type": "hardware",
+      "description": "Lightweight MMC-based ballistic armor panels for naval vessels, ground vehicles, and aircraft, offering multi-hit capability and reduced weight versus steel."
+    },
+    {
+      "name": "AlMax (Fiber Reinforced Aluminum)",
+      "type": "hardware",
+      "description": "Licensed FRA material marketed as AlMax, stronger and more durable than neat aluminum, based on exclusive license from Triton Systems."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Triton Systems",
+      "partnership_type": "licensing",
+      "description": "Worldwide exclusive licensing agreement for Fiber Reinforced Aluminum (FRA) technology, marketed by CPS as AlMax, announced March 2024.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CPSH/profile",
+  "origin": {
+    "leaf": "155d5254b1a5499445782bf70ed6af9257adf34a478393cc97cd9dee404fe277",
+    "parent": "b2b07f7b3cbe6786c31693d0e54dd6ccc0c36c3d501eeff12f9ff2ca751a9cb9",
+    "timestamp": "2026-04-12T03:12:57.649Z",
+    "source": "profile:0000814676",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/155d5254b1a5499445782bf70ed6af9257adf34a478393cc97cd9dee404fe277",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.649Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

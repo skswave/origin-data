@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CELU",
+  "name": "Celularity Inc",
+  "cik": "0001752828",
+  "summary": "Celularity Inc. is a regenerative and cellular medicines company focused on aging-related and degenerative diseases, leveraging placental biology. Its commercial biomaterials business includes Biovance 3L (tri-layer decellularized dehydrated amniotic membrane) and Rebound product lines sold directly and through distributors. The company also develops placental-derived cellular therapy candidates for cancer, infectious, and degenerative diseases, and operates its own manufacturing and storage facility.",
+  "products": [
+    {
+      "name": "Biovance 3L",
+      "type": "hardware",
+      "description": "Tri-layer decellularized, dehydrated human amniotic membrane biomaterial product."
+    },
+    {
+      "name": "Rebound",
+      "type": "hardware",
+      "description": "Biomaterial product sold directly and through distribution network."
+    },
+    {
+      "name": "Interfyl",
+      "type": "hardware",
+      "description": "Biomaterial product in Celularity's portfolio."
+    },
+    {
+      "name": "CentaFlex",
+      "type": "hardware",
+      "description": "Biomaterial product in Celularity's portfolio."
+    },
+    {
+      "name": "Celularity IMPACT",
+      "type": "platform",
+      "description": "Celularity platform referenced as a trademark in the filing."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Distribution partners (unnamed)",
+      "partnership_type": "strategic",
+      "description": "Third-party distributors used for sale of biomaterials products including Biovance 3L and Rebound.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CELU/profile",
+  "origin": {
+    "leaf": "54be6dab3a92b08b7912891db0a705acfe4d4a9895d4d97a33f9f3c8966eb92d",
+    "parent": "691061d37e0f0a859d73b6e5863c4baf39df8101abb57b3d50e22e2a0102d7cc",
+    "timestamp": "2026-04-12T03:12:57.943Z",
+    "source": "profile:0001752828",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/54be6dab3a92b08b7912891db0a705acfe4d4a9895d4d97a33f9f3c8966eb92d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.943Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LINK",
+  "name": "INTERLINK ELECTRONICS INC",
+  "cik": "0000828146",
+  "exchange": "Nasdaq",
+  "sic": "3577",
+  "sic_description": "Computer Peripheral Equipment, NEC",
+  "state_of_incorporation": "NV",
+  "headquarters": "Fremont, California",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Interlink Electronics, Inc. is a global provider of advanced sensing technologies and printed electronics solutions enabling Human-Machine Interface (HMI) devices and IoT applications. Products include FSR force/touch sensors, piezoelectric sensors, membrane keypads, smart textile sensors, and electrochemical gas/environmental sensors. The company serves medical, industrial, automotive, consumer electronics, wearables, and environmental monitoring markets from facilities in California, Singapore, China, Scotland, and the UK.",
+  "tags": [
+    "medical",
+    "industrial",
+    "automotive",
+    "consumer-electronics",
+    "wearables",
+    "environmental-monitoring",
+    "defense",
+    "smart-cities",
+    "iot"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LINK",
+  "origin": {
+    "leaf": "62cb2677db20087fe081373786002a0dc562d3be03821515d7dd9852988372d9",
+    "parent": "a145eca907c2d63eea03ef2fb756adbfbb84395a285982ba98102f0eb334b1d3",
+    "timestamp": "2026-04-12T03:12:52.569Z",
+    "source": "0001104659-26-035244",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/62cb2677db20087fe081373786002a0dc562d3be03821515d7dd9852988372d9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.569Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

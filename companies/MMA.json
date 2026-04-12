@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MMA",
+  "name": "MIXED MARTIAL ARTS GROUP LTD",
+  "cik": "0001981519",
+  "exchange": "NYSE",
+  "sic": "7380",
+  "sic_description": "Services-Miscellaneous Business Services",
+  "state_of_incorporation": "C3",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MMA",
+  "origin": {
+    "leaf": "12df8c66c7f9ff501785194a5fa430dce82576b3d4baea6a1a515b7969ff316b",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:53.043Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/12df8c66c7f9ff501785194a5fa430dce82576b3d4baea6a1a515b7969ff316b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.043Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

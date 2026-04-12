@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AWK",
+  "name": "American Water Works Company, Inc.",
+  "cik": "0001410636",
+  "exchange": "NYSE",
+  "sic": "4941",
+  "sic_description": "Water Supply",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I The Company With a history dating back to 1886, American Water is the largest and most geographically diverse, publicly-traded water and wastewater utility company in the United States, as measured by both operating revenues and population served. A holding company originally incorporated in Delaware in 1936, the Company employs approximately 7,000 professionals who provide drinking water, wastewater and other related services to approximately 14 million people in 24 states. The Company c...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AWK",
+  "origin": {
+    "leaf": "209a1d873e6deede3958423d71d50d275b877050d47d4c3ff989b2e6d02978ed",
+    "parent": "7b573da26ef83a4145611937bb294d3e561b56b4b53f8bc091dc93ec98e5f2b6",
+    "timestamp": "2026-04-12T03:12:50.389Z",
+    "source": "0001410636-26-000034",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/209a1d873e6deede3958423d71d50d275b877050d47d4c3ff989b2e6d02978ed",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.389Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

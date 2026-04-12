@@ -1,0 +1,80 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LVS",
+  "name": "LAS VEGAS SANDS CORP",
+  "cik": "0001300514",
+  "summary": "Las Vegas Sands Corp. (LVS) is a Fortune 500 company and leading global developer and operator of Integrated Resorts featuring premium accommodations, casino gaming, retail malls, convention and exhibition (MICE) facilities, celebrity chef restaurants, and entertainment. It owns and operates properties in Macao (through 74.80% ownership of Sands China Ltd.) including The Venetian Macao, The Londoner Macao, The Parisian Macao, Four Seasons Macao, and Sands Macao, as well as Marina Bay Sands in Singapore.",
+  "products": [
+    {
+      "name": "The Venetian Macao Resort Hotel",
+      "type": "service",
+      "description": "Themed Integrated Resort in Macao featuring gaming, hotels, MICE, retail, and dining."
+    },
+    {
+      "name": "The Londoner Macao",
+      "type": "service",
+      "description": "Europe-themed Integrated Resort on the Cotai Strip with replicas of Houses of Parliament and Elizabeth Tower."
+    },
+    {
+      "name": "The Parisian Macao",
+      "type": "service",
+      "description": "Themed Integrated Resort featuring an iconic replica of the Eiffel Tower and related attractions."
+    },
+    {
+      "name": "The Plaza Macao and Four Seasons Hotel Macao",
+      "type": "service",
+      "description": "Integrated Resort in Macao featuring Four Seasons branded hotel accommodations and gaming."
+    },
+    {
+      "name": "Sands Macao",
+      "type": "service",
+      "description": "Integrated Resort in Macao offering gaming and hospitality amenities."
+    },
+    {
+      "name": "Marina Bay Sands",
+      "type": "service",
+      "description": "Iconic Integrated Resort in Singapore serving as a major tourist, business, and retail destination."
+    },
+    {
+      "name": "Sands ECO360",
+      "type": "service",
+      "description": "Global sustainability program focused on energy efficiency, waste reduction, water conservation, and responsible sourcing."
+    },
+    {
+      "name": "Sands Cares",
+      "type": "service",
+      "description": "Charitable giving and community engagement program driving social impact initiatives."
+    },
+    {
+      "name": "Paiza",
+      "type": "service",
+      "description": "Exclusive VIP brand associated with luxury amenities, private gaming salons, and invitation-only clubs across LVS properties."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Four Seasons",
+      "partnership_type": "strategic",
+      "description": "Hotel brand partnership for The Plaza Macao and Four Seasons Hotel Macao property.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LVS/profile",
+  "origin": {
+    "leaf": "3aad025a493bbd377d95ebc114225067c7b48466f189321f181220ec8c414597",
+    "parent": "4bfcf33eee6c8036503bf3258ea9b98ee6feec76ae3212db7ee891f4564b5fcb",
+    "timestamp": "2026-04-12T03:12:54.815Z",
+    "source": "profile:0001300514",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3aad025a493bbd377d95ebc114225067c7b48466f189321f181220ec8c414597",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.815Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

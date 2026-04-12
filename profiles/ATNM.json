@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ATNM",
+  "name": "Actinium Pharmaceuticals, Inc.",
+  "cik": "0001388320",
+  "summary": "Actinium Pharmaceuticals, Inc. is a clinical-stage biopharmaceutical company developing targeted radiopharmaceutical therapeutics for oncology. Its pipeline includes ATNM-400 (non-PSMA solid tumor candidate), Actimab-A (CD33-targeted for AML/MDS and MDSC-targeting in solid tumors), Iomab-B (CD45-targeted bone marrow transplant conditioning), and Iomab-ACT (conditioning for cell and gene therapies). The company has treated over 500 patients across 15+ clinical trials and maintains an end-to-end radiopharmaceutical supply chain.",
+  "products": [
+    {
+      "name": "ATNM-400",
+      "type": "platform",
+      "description": "Novel non-PSMA targeted radiopharmaceutical with pan-tumor potential across mCRPC, NSCLC, and breast cancer."
+    },
+    {
+      "name": "Actimab-A",
+      "type": "platform",
+      "description": "CD33-targeted radiotherapy for AML/MDS and MDSC-depleting agent in solid tumors combined with checkpoint inhibitors."
+    },
+    {
+      "name": "Iomab-B",
+      "type": "platform",
+      "description": "CD45-targeted conditioning agent for bone marrow transplant in relapsed/refractory AML patients; Phase 2/3 ready."
+    },
+    {
+      "name": "Iomab-ACT",
+      "type": "platform",
+      "description": "CD45-targeted conditioning agent for CAR-T and other cell and gene therapies; three active clinical trials underway."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "National Cancer Institute (NCI)",
+      "partnership_type": "development",
+      "description": "Partnership to develop Actimab-A as a therapeutic backbone for AML and MDS.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ATNM/profile",
+  "origin": {
+    "leaf": "b2cd4bbe89838da860738388901bcc824cc95808a0a9ded3d128d070ac6d6a8f",
+    "parent": "3d2dd1767223bf87b3dbdae2ad997118f2f54b9e6ddf0568647baaa2e0d546bc",
+    "timestamp": "2026-04-12T03:12:58.038Z",
+    "source": "profile:0001388320",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b2cd4bbe89838da860738388901bcc824cc95808a0a9ded3d128d070ac6d6a8f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.038Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

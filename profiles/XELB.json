@@ -1,0 +1,112 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "XELB",
+  "name": "XCel Brands, Inc.",
+  "cik": "0001083220",
+  "summary": "Xcel Brands, Inc. is a media and consumer products company engaged in the design, licensing, marketing, live streaming, and social commerce sales of branded apparel, footwear, accessories, fine jewelry, home goods, and other consumer products. Its brand portfolio includes Halston, Judith Ripka, C Wonder, TowerHill by Christie Brinkley, LB70 by Lloyd Boston, Longaberger, and Isaac Mizrahi. The company distributes through interactive television (QVC, HSN, JTV), e-commerce, social commerce, and traditional brick-and-mortar retail channels, generating over $5 billion in retail sales via live streaming.",
+  "products": [
+    {
+      "name": "Halston Brand",
+      "type": "service",
+      "description": "Licensed fashion brand offering apparel through department stores, e-commerce, interactive television, and specialty retailers via master license with G-III Apparel Group."
+    },
+    {
+      "name": "Judith Ripka Brand",
+      "type": "service",
+      "description": "Luxury jewelry brand featuring 18 karat gold, sterling silver, precious colored jewels, and diamonds, licensed to JTV in 2023."
+    },
+    {
+      "name": "C Wonder Brand",
+      "type": "service",
+      "description": "Women's clothing, footwear, jewelry, and accessories brand available through HSN, known for bold colors and prints."
+    },
+    {
+      "name": "TowerHill by Christie Brinkley",
+      "type": "service",
+      "description": "Co-branded fashion collaboration launched on HSN in May 2024, with plans for broader licensing starting 2025."
+    },
+    {
+      "name": "LB70 by Lloyd Boston",
+      "type": "service",
+      "description": "Co-branded fashion collaboration launched on HSN in August 2024, with planned accessories and additional retail distribution in 2025."
+    },
+    {
+      "name": "Longaberger Brand",
+      "type": "service",
+      "description": "Iconic American heritage home and collectibles brand, managed via 50% ownership, focused on digital live-streaming and social commerce."
+    },
+    {
+      "name": "Isaac Mizrahi Brand",
+      "type": "service",
+      "description": "Iconic American fashion brand operated through 17.5% ownership interest in IM Topco, LLC, with ongoing service agreement."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "G-III Apparel Group",
+      "partnership_type": "licensing",
+      "description": "Long-term master license agreement for the Halston brand covering premium department stores, e-commerce, and specialty retailers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "JTV (Americas Collectible Network)",
+      "partnership_type": "licensing",
+      "description": "License agreement for Judith Ripka fine jewelry e-commerce and wholesale operations, effective first quarter 2023.",
+      "start_date": null
+    },
+    {
+      "partner_name": "HSN",
+      "partnership_type": "licensing",
+      "description": "License agreements for supply of products under certain brands including C Wonder, TowerHill, and LB70.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Christie Brinkley",
+      "partnership_type": "strategic",
+      "description": "Co-branded collaboration for TowerHill by Christie Brinkley brand launched on HSN in May 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Lloyd Boston",
+      "partnership_type": "strategic",
+      "description": "Co-branded collaboration for LB70 by Lloyd Boston brand launched on HSN in August 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Hilco Global",
+      "partnership_type": "strategic",
+      "description": "50% business venture partnership for the Longaberger brand, acquired in November 2019.",
+      "start_date": null
+    },
+    {
+      "partner_name": "IM Topco, LLC",
+      "partnership_type": "strategic",
+      "description": "Xcel holds 17.5% noncontrolling interest and contributes to Isaac Mizrahi brand operations via service agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ORME Live Inc.",
+      "partnership_type": "strategic",
+      "description": "Xcel owns 19% interest in ORME, a short-form video and social commerce marketplace that launched in April 2024.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/XELB/profile",
+  "origin": {
+    "leaf": "b852bc67b7447fca5ff7c7e2b254417ccb7cd37d629d1d54c13de898a0fd0bd1",
+    "parent": "c8443bf1ccd0d8ce702098c030698e7e83639035391de7b0f35d6d1b647c3a83",
+    "timestamp": "2026-04-12T03:12:58.565Z",
+    "source": "profile:0001083220",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b852bc67b7447fca5ff7c7e2b254417ccb7cd37d629d1d54c13de898a0fd0bd1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.565Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

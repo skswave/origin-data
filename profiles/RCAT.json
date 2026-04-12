@@ -1,0 +1,76 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RCAT",
+  "name": "Red Cat Holdings, Inc.",
+  "cik": "0000748268",
+  "summary": "Red Cat Holdings, Inc. is a U.S.-based provider of advanced all-domain drone and robotic solutions for defense, national security, and commercial applications. The company develops American-made hardware and software supporting military, government, and public safety operations across air, land, and sea. Key products include the Black Widow and Teal 2 small unmanned aircraft systems (sUAS), the FANG drone, FlightWave Edge 130 Blue, and the SWIFT uncrewed surface vessel (USV), serving U.S. Army and allied defense customers.",
+  "products": [
+    {
+      "name": "Black Widow",
+      "type": "hardware",
+      "description": "Next-generation sUAS for U.S. Army Short Range Reconnaissance with selectable integrated AI software capabilities, purpose-built for defense and security."
+    },
+    {
+      "name": "Teal 2",
+      "type": "hardware",
+      "description": "Blue UAS Certified sUAS for combat soldiers, police, firefighters, wildlife managers, and industrial inspectors."
+    },
+    {
+      "name": "FANG",
+      "type": "hardware",
+      "description": "Small unmanned aircraft system developed under Teal Drones division."
+    },
+    {
+      "name": "FlightWave Edge 130 Blue",
+      "type": "hardware",
+      "description": "sUAS product under the FlightWave division targeting defense and commercial applications."
+    },
+    {
+      "name": "SWIFT",
+      "type": "platform",
+      "description": "Uncrewed surface vessel (USV) providing multi-domain maritime tactical capabilities for defense applications."
+    },
+    {
+      "name": "Skypersonic",
+      "type": "platform",
+      "description": "Drone solutions subsidiary offering unmanned systems capabilities as part of Red Cat's product family."
+    },
+    {
+      "name": "Propware",
+      "type": "software",
+      "description": "Software subsidiary providing drone-related software solutions under Red Cat Holdings."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "NSF International Strategic Registrations (NSF-ISR)",
+      "partnership_type": "strategic",
+      "description": "Certification body that awarded Teal Drones AS9100 aerospace and defense quality management certification in July 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Army Project Management Office for Uncrewed Aircraft Systems",
+      "partnership_type": "strategic",
+      "description": "Conducted test and evaluation leading to Teal's selection for U.S. Army Short Range Reconnaissance Program of Record.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RCAT/profile",
+  "origin": {
+    "leaf": "64c86e105fe22cfa14c433db0bb34968a3090cca0b922862952696ec0ce23464",
+    "parent": "a02d05d22c3d074828473868b97efd5982850927606fb9f819cb78b35017e300",
+    "timestamp": "2026-04-12T03:12:55.781Z",
+    "source": "profile:0000748268",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/64c86e105fe22cfa14c433db0bb34968a3090cca0b922862952696ec0ce23464",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.781Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SAFX",
+  "name": "XCF Global, Inc.",
+  "cik": "0002019793",
+  "exchange": "Nasdaq",
+  "sic": "2860",
+  "sic_description": "Industrial Organic Chemicals",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I . This description contains certain forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from the results discussed in the forward-looking statements as a result of certain of the risks set forth herein. We assume no obligation to update any forward-looking statements contained herein. Overview Unless otherwise stated herein or unless the context otherwise requires, the terms we , us , our , XCF , and the Company refer to XCF Global, ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SAFX",
+  "origin": {
+    "leaf": "3b84b4e586c2a84cb726876e9581ef766b865f805c22dd6e571cd573b72c8b03",
+    "parent": "8fddc633147eca4030c2280f30cebeaf7c409586183807a0b9f513e19703894c",
+    "timestamp": "2026-04-12T03:12:52.276Z",
+    "source": "0001493152-26-014280",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3b84b4e586c2a84cb726876e9581ef766b865f805c22dd6e571cd573b72c8b03",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.276Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HPQ",
+  "name": "HP INC",
+  "cik": "0000047217",
+  "summary": "HP Inc. is a global technology company operating in over 170 countries, offering personal computing devices, printing hardware, supplies, services, and subscriptions. Products include AI PCs, workstations, notebooks, desktops, office and home printers, large-format graphics solutions, and 3D printing systems. HP serves consumers, SMBs, enterprises, and public sector customers through Personal Systems, Printing, and Corporate Investments segments.",
+  "products": [
+    {
+      "name": "AI PCs and Workstations",
+      "type": "hardware",
+      "description": "Z-line workstations and AI PCs with integrated AI acceleration from Intel, AMD, and NVIDIA GPUs."
+    },
+    {
+      "name": "Commercial PC Portfolio",
+      "type": "hardware",
+      "description": "Pro, Elite, Dragonfly, Chromebook, thin clients, and retail POS systems for enterprise and SMB customers."
+    },
+    {
+      "name": "Consumer PC Portfolio",
+      "type": "hardware",
+      "description": "Omni, Omen, Victus, Spectre, Envy, Pavilion, and Chromebook PCs for gaming, learning, and home use."
+    },
+    {
+      "name": "Office Printers",
+      "type": "hardware",
+      "description": "Security-enhanced office printers for SMBs, public sector, and large enterprises, including OEM hardware."
+    },
+    {
+      "name": "Home Printers",
+      "type": "hardware",
+      "description": "Innovative security-enhanced printing products for home, home business, and micro business customers."
+    },
+    {
+      "name": "Graphics Solutions",
+      "type": "hardware",
+      "description": "Large-format, commercial, and industrial printers and presses for print service providers and packaging converters."
+    },
+    {
+      "name": "3D Printing & Personalization",
+      "type": "hardware",
+      "description": "Additive manufacturing solutions and supplies for commercial and industrial digital manufacturing."
+    },
+    {
+      "name": "Supplies",
+      "type": "hardware",
+      "description": "Ink and laser cartridges and other consumable products for HP printers."
+    },
+    {
+      "name": "Endpoint Security Software",
+      "type": "software",
+      "description": "Hardware-enforced endpoint security software for HP and non-HP PCs using AI deep-learning malware detection."
+    },
+    {
+      "name": "Lifecycle Services",
+      "type": "service",
+      "description": "Support, deployment, configuration, and extended warranty services for PCs and mobility installed base."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Microsoft",
+      "partnership_type": "strategic",
+      "description": "HP supports Windows operating system across its PC platforms.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Google",
+      "partnership_type": "strategic",
+      "description": "HP supports Chrome OS across its PC platforms, including Chromebook lines.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Intel",
+      "partnership_type": "strategic",
+      "description": "HP incorporates Intel processors with integrated AI acceleration in its platforms.",
+      "start_date": null
+    },
+    {
+      "partner_name": "AMD",
+      "partnership_type": "strategic",
+      "description": "HP incorporates AMD processors with integrated AI acceleration in its platforms.",
+      "start_date": null
+    },
+    {
+      "partner_name": "NVIDIA",
+      "partnership_type": "strategic",
+      "description": "HP uses NVIDIA GPUs for advanced graphics and compute workloads in its devices.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HPQ/profile",
+  "origin": {
+    "leaf": "5bc3aa67abf7be70627d32b4aa072c852668aec8330d504195520a8d66bbb643",
+    "parent": "7676c9ba6074b1465f5680d271233b58876d6b8320bc7ee40a030500687a52c9",
+    "timestamp": "2026-04-12T03:12:54.664Z",
+    "source": "profile:0000047217",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5bc3aa67abf7be70627d32b4aa072c852668aec8330d504195520a8d66bbb643",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.664Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

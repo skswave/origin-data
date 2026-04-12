@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "APA",
+  "name": "APA Corp",
+  "cik": "0001841666",
+  "summary": "APA Corp (CIK: 0001841666) is an oil and gas exploration and production company operating across multiple geographic segments including the United States, Egypt, and the North Sea. The company produces oil, natural gas, and natural gas liquids (NGLs). It sells production revenues through customers such as the Egyptian General Petroleum Company and manages commodity contracts across its operating segments.",
+  "products": [
+    {
+      "name": "Crude Oil Production",
+      "type": "service",
+      "description": "Exploration and production of crude oil across US, Egypt, and North Sea segments."
+    },
+    {
+      "name": "Natural Gas Production",
+      "type": "service",
+      "description": "Exploration and production of natural gas across US, Egypt, and North Sea segments."
+    },
+    {
+      "name": "Natural Gas Liquids (NGLs)",
+      "type": "service",
+      "description": "Production and sale of natural gas liquids across operating segments."
+    },
+    {
+      "name": "Purchased Oil and Gas",
+      "type": "service",
+      "description": "Third-party oil and gas purchases and resales across US, Egypt, and North Sea segments."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Egyptian General Petroleum Company",
+      "partnership_type": "strategic",
+      "description": "Major customer representing a significant concentration of oil and gas production revenues in Egypt.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/APA/profile",
+  "origin": {
+    "leaf": "cc7e2f5e8fab32aa6e5795443ae1ecb1b71c2e5e1a5bc86c299b0f3d5a2ed0c6",
+    "parent": "9baa8312ef49bf97fe91c1062a8d0268de7c39ea9709eff5ab380f8cc9d55281",
+    "timestamp": "2026-04-12T03:12:54.955Z",
+    "source": "profile:0001841666",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cc7e2f5e8fab32aa6e5795443ae1ecb1b71c2e5e1a5bc86c299b0f3d5a2ed0c6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.955Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

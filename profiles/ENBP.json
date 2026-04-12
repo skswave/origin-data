@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ENBP",
+  "name": "ENB Financial Corp",
+  "cik": "0001437479",
+  "summary": "ENB Financial Corp is a bank holding company headquartered in Ephrata, Lancaster County, Pennsylvania. Through its wholly owned subsidiary Ephrata National Bank (ENB), it provides commercial banking services including demand accounts, savings and time deposits, secured and unsecured commercial, real estate, and consumer loans. Additional services include trust and investment advisory through ENB Wealth Solutions, insurance through ENB Insurance, electronic funds transfer, ATMs, debit/credit cards, internet banking, mobile banking, and remote deposit capture to individuals and small-to-medium-sized businesses.",
+  "products": [
+    {
+      "name": "Commercial Loans",
+      "type": "service",
+      "description": "Secured and unsecured commercial loans offered to businesses in the market area."
+    },
+    {
+      "name": "Real Estate Loans",
+      "type": "service",
+      "description": "Secured real estate loans for personal and commercial clients."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "Secured and unsecured consumer lending products."
+    },
+    {
+      "name": "Demand, Savings, and Time Deposits",
+      "type": "service",
+      "description": "Full range of deposit account products for individuals and businesses."
+    },
+    {
+      "name": "ENB Wealth Solutions",
+      "type": "service",
+      "description": "Full complement of trust and investment advisory services."
+    },
+    {
+      "name": "ENB Insurance",
+      "type": "service",
+      "description": "Full-service insurance agency offering broad range of commercial and personal insurance products."
+    },
+    {
+      "name": "ENB Bank on the Go!",
+      "type": "platform",
+      "description": "Mobile banking app available for iPhone and Android devices."
+    },
+    {
+      "name": "Internet Banking with Bill Pay and Wire Transfer",
+      "type": "platform",
+      "description": "Online banking platform including bill pay, wire transfers, and remote deposit capture."
+    },
+    {
+      "name": "MasterCard Debit and Visa/MasterCard Credit Cards",
+      "type": "service",
+      "description": "Debit and credit card products offered to customers."
+    },
+    {
+      "name": "Electronic Funds Transfer and ATMs",
+      "type": "service",
+      "description": "Direct deposit, direct payments, and ATM access for customer convenience."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ENBP/profile",
+  "origin": {
+    "leaf": "7f660230647c5d2fbcbc8e25bd7e1f0e05d4b15450f364d1527ad8ccb6157e49",
+    "parent": "9d19f3714507b17ac2692114da22caa4302b42e7120e95e8c5e8acbef7a9609b",
+    "timestamp": "2026-04-12T03:12:57.234Z",
+    "source": "profile:0001437479",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7f660230647c5d2fbcbc8e25bd7e1f0e05d4b15450f364d1527ad8ccb6157e49",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.234Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

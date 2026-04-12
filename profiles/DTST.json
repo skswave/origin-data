@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DTST",
+  "name": "Data Storage Corp",
+  "cik": "0001419951",
+  "summary": "Corporate Overview The Company is a leading provider of enterprise cloud and business continuity solutions, specializing in fully managed cloud hosting, disaster recovery, cybersecurity, and IT automation services. DSC leverages its expertise through its subsidiaries: CloudFirst Technologies Corporation (CloudFirst Technologies), CloudFirst Europe Ltd. (CloudFirst Europe and, together with CloudFirst Technologies, CloudFirst) , and Nexxis Inc. (Nexxis). Through its CloudFirst platform built on I...",
+  "live_api": "https://origin.rootz.global/api/company/DTST/profile",
+  "origin": {
+    "leaf": "6de1c760a871e90acc6c81fec1c9e456a1b65038cb984318f2241eb9a82f9543",
+    "parent": "0d4028ef46ee156e9e97451ee6fab0b1dce117669cc4872db55bbfbf42305249",
+    "timestamp": "2026-04-12T03:12:58.084Z",
+    "source": "profile:0001419951",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6de1c760a871e90acc6c81fec1c9e456a1b65038cb984318f2241eb9a82f9543",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.084Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

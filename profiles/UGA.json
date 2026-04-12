@@ -1,0 +1,46 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UGA",
+  "name": "United States Gasoline Fund, LP",
+  "cik": "0001396878",
+  "summary": "United States Gasoline Fund, LP (UGA) is a Delaware limited partnership and commodity pool that issues limited partnership interests (shares) traded on NYSE Arca. UGA seeks to track daily changes in the spot price of RBOB gasoline by investing primarily in gasoline futures contracts on NYMEX and ICE Futures, supported by collateral holdings, with USCF LLC serving as general partner and manager.",
+  "products": [
+    {
+      "name": "UGA Shares",
+      "type": "platform",
+      "description": "Exchange-traded limited partnership interests tracking daily percentage changes in RBOB gasoline spot prices via futures contracts, traded on NYSE Arca."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "ALPS Distributors, Inc.",
+      "partnership_type": "strategic",
+      "description": "Serves as marketing agent for UGA; fees paid by USCF.",
+      "start_date": null
+    },
+    {
+      "partner_name": "The Bank of New York Mellon",
+      "partnership_type": "strategic",
+      "description": "Serves as administrator, custodian, and provides accounting and transfer agent services for UGA since April 1, 2020.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UGA/profile",
+  "origin": {
+    "leaf": "2802d3fe569cd4baf72271b401db4b1742b972142217ca911dc87a2c1c4f4fcb",
+    "parent": "9cf8d9a52076aa610c422db6d9e531a04363ecff2ce0ee76d84cd4a9d98504e9",
+    "timestamp": "2026-04-12T03:12:59.570Z",
+    "source": "profile:0001396878",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2802d3fe569cd4baf72271b401db4b1742b972142217ca911dc87a2c1c4f4fcb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.570Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

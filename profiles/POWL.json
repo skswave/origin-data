@@ -1,0 +1,91 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "POWL",
+  "name": "POWELL INDUSTRIES INC",
+  "cik": "0000080420",
+  "summary": "Powell Industries, Inc. is a Delaware corporation founded in 1947 that develops, designs, manufactures, and services custom-engineered equipment and systems for distributing, controlling, and monitoring electrical energy. Products include integrated power control room substations, E-Houses, switchgear, motor control centers, medium-voltage circuit breakers, and monitoring systems. The company primarily serves oil and gas, petrochemical, electric utility, and commercial/industrial markets, with operations headquartered in Houston, Texas and international subsidiaries in Canada, the UK, and internationally.",
+  "products": [
+    {
+      "name": "Integrated Power Control Room Substations (PCRs)",
+      "type": "hardware",
+      "description": "Custom-engineered modular substations for electrical power distribution and control."
+    },
+    {
+      "name": "Electrical Houses (E-Houses)",
+      "type": "hardware",
+      "description": "Custom-engineered modular electrical equipment enclosures for industrial applications."
+    },
+    {
+      "name": "Distribution Switchgear and Control Gear",
+      "type": "hardware",
+      "description": "Traditional and arc-resistant medium-voltage switchgear for power distribution and protection."
+    },
+    {
+      "name": "Medium-Voltage Circuit Breakers",
+      "type": "hardware",
+      "description": "Vacuum circuit breakers for medium-voltage electrical systems up to 38,000 volts."
+    },
+    {
+      "name": "Motor Control Centers",
+      "type": "hardware",
+      "description": "Assemblies for controlling and protecting electric motors in industrial environments."
+    },
+    {
+      "name": "Monitoring and Control Communications Systems",
+      "type": "platform",
+      "description": "Systems for monitoring and controlling electrical energy distribution and equipment."
+    },
+    {
+      "name": "Switches and Bus Duct Systems",
+      "type": "hardware",
+      "description": "Electrical switching and bus duct components for power distribution systems."
+    },
+    {
+      "name": "SCADA Remote Terminal Units (RTUs)",
+      "type": "hardware",
+      "description": "RTUs for electrical substation control and automation in generation, transmission, and distribution, via Remsdaq acquisition."
+    },
+    {
+      "name": "Spare Parts and Retrofit Components",
+      "type": "service",
+      "description": "Replacement and retrofit parts for existing and obsolete switchgear systems."
+    },
+    {
+      "name": "Field Service and Commissioning",
+      "type": "service",
+      "description": "Inspection, installation, commissioning, modification, and repair services for electrical systems."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Original Equipment Manufacturers (OEMs)",
+      "partnership_type": "OEM",
+      "description": "Powell develops channels to electrical markets through OEM arrangements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Engineering, Procurement and Construction (EPC) firms",
+      "partnership_type": "strategic",
+      "description": "Products and services sold through EPC firms on behalf of end users.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/POWL/profile",
+  "origin": {
+    "leaf": "54ae62079fd8085d9c488c507f52182ad1f8e059b35d4b95ed38fd1b42357f70",
+    "parent": "1c13bf980f82435f1b07ee112e06bcdb487a3a8baddf4ae8344687f894a57eaf",
+    "timestamp": "2026-04-12T03:12:55.171Z",
+    "source": "profile:0000080420",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/54ae62079fd8085d9c488c507f52182ad1f8e059b35d4b95ed38fd1b42357f70",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.171Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

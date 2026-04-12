@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UEEC",
+  "name": "United Health Products, Inc.",
+  "cik": "0001096938",
+  "summary": "United Health Products, Inc. (UEEC) develops, manufactures, and markets CelluSTAT, a patented hemostatic gauze derived from chemically treated cotton cellulose. The product holds FDA 510(k) approval (2012) for superficial wound bleeding and is pending FDA Class III Premarket Approval (PMA) for human surgical use. The company targets hospitals, surgery centers, first responders, military, hemodialysis centers, dental offices, and veterinary hospitals, and is evaluating sale, merger, or commercial partnership options.",
+  "products": [
+    {
+      "name": "CelluSTAT Hemostatic Gauze",
+      "type": "hardware",
+      "description": "Patented hemostatic gauze derived from cotton cellulose; FDA 510(k) approved for superficial bleeding; pending Class III PMA for internal surgical use."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UEEC/profile",
+  "origin": {
+    "leaf": "d5bee23b6edfe942094b33577eecb6cb542ce86ac8d85da81ca915d586c58036",
+    "parent": "f40c9f37331a522209cc58fc1e4f4bdc705006f69d1b310815d7aaa7d918c7eb",
+    "timestamp": "2026-04-12T03:12:58.449Z",
+    "source": "profile:0001096938",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d5bee23b6edfe942094b33577eecb6cb542ce86ac8d85da81ca915d586c58036",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.449Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

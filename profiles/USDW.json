@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "USDW",
+  "name": "MADE IN USA INC.",
+  "cik": "0001977837",
+  "summary": "Alixo-Yolloo Corporation, incorporated in Nevada in 2019, provides music-recognition services via its mobile application 'Alixo,' which identifies music tracks from short microphone-recorded samples using advanced neural network algorithms against a library of 50 million tracks. The company also offers an API rental service enabling third-party applications to integrate music recognition functionality. The app is available on Google Play and the API is accessible via alixo-yolloo.com.",
+  "products": [
+    {
+      "name": "Alixo",
+      "type": "software",
+      "description": "Mobile app that identifies music tracks from short audio samples recorded via microphone, available on Google Play."
+    },
+    {
+      "name": "API Rental Service",
+      "type": "service",
+      "description": "API allowing third-party music recognition and listening applications to integrate neural network-based music recognition functionality."
+    },
+    {
+      "name": "Proprietary Database",
+      "type": "platform",
+      "description": "Neural network database matching recorded audio against a library of 50 million tracks, acquired August 2024."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/USDW/profile",
+  "origin": {
+    "leaf": "435d8f67d8cc1ef17fc5e7dfdbcac220b062d13d81240888d53363ba3b030330",
+    "parent": "e7261ac808c68c09971cb470c74be4a474008079991d9437bd11587e727ba28a",
+    "timestamp": "2026-04-12T03:12:59.472Z",
+    "source": "profile:0001977837",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/435d8f67d8cc1ef17fc5e7dfdbcac220b062d13d81240888d53363ba3b030330",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.472Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

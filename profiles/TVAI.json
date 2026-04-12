@@ -1,0 +1,45 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TVAI",
+  "name": "Thayer Ventures Acquisition Corp II",
+  "cik": "0001872228",
+  "summary": "Thayer Ventures Acquisition Corporation II is a blank check company incorporated as a Cayman Islands exempt company, formed for the purpose of effecting a merger, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses. It has generated no operating revenues and focuses on identifying acquisition targets in the travel and transportation industries, leveraging its management team's investment experience in those sectors.",
+  "products": [
+    {
+      "name": "Units (IPO)",
+      "type": "service",
+      "description": "Each Unit consists of one Class A ordinary share and one right to receive one-tenth of one Class A ordinary share upon consummation of an initial business combination, sold at $10.00 per unit."
+    },
+    {
+      "name": "Private Placement Units",
+      "type": "service",
+      "description": "362,500 units sold to the Sponsor at $10.00 per unit in a private placement concurrent with the IPO, generating $3,625,000 in proceeds."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Continental Stock Transfer & Trust Company",
+      "partnership_type": "strategic",
+      "description": "Acts as trustee maintaining the U.S.-based trust account holding $201,250,000 in net proceeds for the benefit of public shareholders.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TVAI/profile",
+  "origin": {
+    "leaf": "3b28467178d93eea5d9b0d1f9cab0b8f10143eb201181049e2bc07a96fc6432c",
+    "parent": "3e0c1e0e7e2d7ed60e2ee14b22379b95b802676918e15c7a6d80d60307940a3e",
+    "timestamp": "2026-04-12T03:12:56.808Z",
+    "source": "profile:0001872228",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3b28467178d93eea5d9b0d1f9cab0b8f10143eb201181049e2bc07a96fc6432c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.808Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

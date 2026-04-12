@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AMS",
+  "name": "AMERICAN SHARED HOSPITAL SERVICES",
+  "cik": "0000744825",
+  "summary": "American Shared Hospital Services (AMS) provides shared-service and turnkey solutions for advanced radiosurgery and radiation therapy equipment to hospitals and medical facilities. The company has a significant investment in proton beam radiation therapy business and offers capital-intensive medical equipment services. AMS operates under shared-service models, enabling healthcare providers to access high-cost treatment technology.",
+  "products": [
+    {
+      "name": "Radiosurgery Services",
+      "type": "service",
+      "description": "Shared-service radiosurgery equipment and solutions provided to hospitals and medical facilities."
+    },
+    {
+      "name": "Proton Beam Radiation Therapy",
+      "type": "service",
+      "description": "Proton beam radiation therapy services and equipment investments for cancer treatment at medical facilities."
+    },
+    {
+      "name": "Radiation Therapy Services",
+      "type": "service",
+      "description": "Turnkey radiation therapy equipment and services offered to healthcare providers on a shared-service basis."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AMS/profile",
+  "origin": {
+    "leaf": "d82877bd1a39d184ceb19c96e8bfae00a005ee50199e1605bfb1bd0d72cc1b1d",
+    "parent": "4108ce075ffa4e03c64320d19241ed9f48017b5e94e499f990d7aa7fb578b53a",
+    "timestamp": "2026-04-12T03:12:58.578Z",
+    "source": "profile:0000744825",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d82877bd1a39d184ceb19c96e8bfae00a005ee50199e1605bfb1bd0d72cc1b1d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.578Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

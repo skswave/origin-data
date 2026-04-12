@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ATLO",
+  "name": "AMES NATIONAL CORP",
+  "cik": "0001132651",
+  "exchange": "Nasdaq",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "X1",
+  "headquarters": "Ames, Iowa",
+  "founded": "1975",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Ames National Corporation is an Iowa bank holding company owning 100% of six community banks: First National Bank, State Bank & Trust Co., Boone Bank & Trust Co., Reliance State Bank, United Bank & Trust Co., and Iowa State Savings Bank. Operating in central, north-central, and south-central Iowa, the company offers commercial, agricultural, and residential lending, deposit accounts, wealth management, merchant card processing, cash management, safe deposit boxes, wire transfers, and trust services to small-to-medium sized businesses and individuals.",
+  "tags": [
+    "small-to-medium-sized-businesses",
+    "agricultural-lending",
+    "residential-real-estate",
+    "commercial-real-estate",
+    "consumer-banking",
+    "wealth-management-and-trust-services",
+    "public-entities"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 233,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ATLO",
+  "origin": {
+    "leaf": "3f01005c8a3a6aa7b24f17e48a10c955e3ca98c5704c0916f16b0069f569943f",
+    "parent": "9d6f1cbbb3df7258487dee765449fd388b8ab73c8439aaf001e8bce348eef4b0",
+    "timestamp": "2026-04-12T03:12:51.792Z",
+    "source": "0001437749-26-007976",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3f01005c8a3a6aa7b24f17e48a10c955e3ca98c5704c0916f16b0069f569943f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.792Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

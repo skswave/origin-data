@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "APAD",
+  "total_facts": 12,
+  "by_type": {
+    "topic_mention": 12
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "APAD",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "APAD",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "APAD",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "APAD",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "APAD",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "APAD",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "APAD",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "APAD",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "APAD",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.7799999999999999,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "APAD",
+      "predicate": "discussed_in_filing",
+      "object": "Trusted Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "trusted_computing",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "APAD",
+      "predicate": "discussed_in_filing",
+      "object": "Trusted Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "trusted_computing",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "APAD",
+      "predicate": "discussed_in_filing",
+      "object": "Trusted Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "trusted_computing",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/APAD/transcripts",
+  "origin": {
+    "leaf": "0fcd53f918707db0d0816ee03b31da3add8a571b8210750ff087b4060b744f4d",
+    "parent": "0f750b41ea9584fc771b2d6f24184f67a973c3d7349c70e899ec096477cf3967",
+    "timestamp": "2026-04-12T03:14:30.326Z",
+    "source": "facts:APAD",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0fcd53f918707db0d0816ee03b31da3add8a571b8210750ff087b4060b744f4d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:30.326Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

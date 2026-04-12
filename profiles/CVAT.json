@@ -1,0 +1,78 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CVAT",
+  "name": "Cavitation Technologies, Inc.",
+  "cik": "0001376793",
+  "summary": "Cavitation Technologies, Inc. (CTi) is a Nevada-based process and product development firm that has developed, patented, and commercialized environmentally friendly technology-based systems using its patented Nano Reactor and Low Pressure Nano Reactor (LPN). The company serves markets including vegetable oil refining, water treatment, renewable fuels, wines and spirits enhancement, algae oil extraction, and oilfield produced water remediation. CTi has shipped over 200 systems domestically and internationally and operates through licensing agreements and joint ventures.",
+  "products": [
+    {
+      "name": "CTi Nano Neutralization System",
+      "type": "hardware",
+      "description": "Patented system using Nano Reactor to improve edible vegetable oil refining, reducing costs, increasing yield, and limiting chemical additives."
+    },
+    {
+      "name": "Nano Reactor",
+      "type": "hardware",
+      "description": "Core patented device used across multiple industrial liquid processing applications including oil refining, water treatment, and beverages."
+    },
+    {
+      "name": "Low Pressure Nano Reactor (LPN)",
+      "type": "hardware",
+      "description": "Newly designed reactor developed for integration into produced and frac water treatment systems in the oilfield/fracking industry."
+    },
+    {
+      "name": "Water Remediation System for Agriculture",
+      "type": "hardware",
+      "description": "System installed at Hacienda Farms to increase oxygen levels, eliminate algae, and control bacterial growth without harsh chemicals."
+    },
+    {
+      "name": "Hydro-Plasma Technology",
+      "type": "hardware",
+      "description": "New technology under development listed as a future revenue-generating initiative."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Desmet Belgium Group (formerly Desmet Ballestra)",
+      "partnership_type": "licensing",
+      "description": "Global R&D, Marketing and Technology License Agreement granting Desmet exclusive rights to market and supply CTi Nano Neutralization System for oils and fats applications worldwide.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Delaware Water Company, LLC",
+      "partnership_type": "strategic",
+      "description": "Joint venture partner in Enviro WaterTek LLC (50/50 ownership) for industrial treatment of produced and frac water in the oilfield sector.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Alchemy Beverages, Inc.",
+      "partnership_type": "strategic",
+      "description": "Business venture listed as a key plan for future revenue generation; specific details not provided in the excerpt.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Hacienda Farms (B&F Greenhouse Services, Inc.)",
+      "partnership_type": "development",
+      "description": "First agricultural water remediation system installation in Canada for trials to improve water quality and crop growth.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CVAT/profile",
+  "origin": {
+    "leaf": "177cc66c510abda694ba35919e685072dc6f89c6c5241aab80a51d5e80850b53",
+    "parent": "ec00070949dfe03dd692ff3f3603233b0f352bea1a2ee1bc5034ef941c829e77",
+    "timestamp": "2026-04-12T03:12:58.598Z",
+    "source": "profile:0001376793",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/177cc66c510abda694ba35919e685072dc6f89c6c5241aab80a51d5e80850b53",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.598Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

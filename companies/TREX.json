@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TREX",
+  "name": "TREX CO INC",
+  "cik": "0001069878",
+  "exchange": "NYSE",
+  "sic": "2400",
+  "sic_description": "Lumber & Wood Products (No Furniture)",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Trex Co Inc is a manufacturer of wood-alternative decking, railing, and outdoor living products. The company produces composite decking and railing made from reclaimed wood and recycled plastic film, marketed under the Trex brand. Trex products are sold through a network of distributors and retailers for residential and commercial outdoor applications.",
+  "tags": [
+    "residential-outdoor-living",
+    "commercial-outdoor-applications",
+    "home-improvement-and-renovation"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TREX",
+  "origin": {
+    "leaf": "71842a77776862aecf0e4a62ff0f8fc869ef1fe5bd9a0734c11766fae866f0d8",
+    "parent": "f677e484bed2dbb2ab3bc6a0835b39f89439fe16c84c1423bbff4fea45701d6c",
+    "timestamp": "2026-04-12T03:12:50.711Z",
+    "source": "0001193125-26-068732",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/71842a77776862aecf0e4a62ff0f8fc869ef1fe5bd9a0734c11766fae866f0d8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.711Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

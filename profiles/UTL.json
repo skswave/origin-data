@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UTL",
+  "name": "UNITIL CORP",
+  "cik": "0000755001",
+  "summary": "Unitil Corporation is a public utility holding company incorporated in New Hampshire in 1984. It distributes electricity and natural gas to approximately 215,100 customers across New Hampshire, Massachusetts, and Maine through five distribution utilities: Unitil Energy, Fitchburg, Northern Utilities, Bangor Natural Gas, and Maine Natural Gas. It also operates Granite State, an interstate natural gas transmission pipeline. Total operating revenue was $536.0 million in 2025, with net utility plant of $1.8 billion.",
+  "products": [
+    {
+      "name": "Electric Distribution",
+      "type": "service",
+      "description": "Local distribution of electricity to ~110,100 customers in New Hampshire and Massachusetts."
+    },
+    {
+      "name": "Natural Gas Distribution",
+      "type": "service",
+      "description": "Local distribution of natural gas to ~105,000 customers in New Hampshire, Massachusetts, and Maine."
+    },
+    {
+      "name": "Interstate Natural Gas Transmission",
+      "type": "service",
+      "description": "Granite State operates 85 miles of underground gas transmission pipeline in Maine and New Hampshire."
+    },
+    {
+      "name": "Utility Administrative Services",
+      "type": "service",
+      "description": "Unitil Service provides centralized regulatory, financial, accounting, engineering, and operations services to affiliates at cost."
+    },
+    {
+      "name": "Solar Facility",
+      "type": "service",
+      "description": "Unitil Energy solar facility on Kingston, NH land, became operational May 2025."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UTL/profile",
+  "origin": {
+    "leaf": "08b0f5bc762b8e7bca915a21c6d765e42c1f32d585a463ebb4d62dac108dbf3f",
+    "parent": "00272dae022e355b0874902d05d046e5c2e8fbb9f5a53c2f57cd297ff028bef6",
+    "timestamp": "2026-04-12T03:12:56.039Z",
+    "source": "profile:0000755001",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/08b0f5bc762b8e7bca915a21c6d765e42c1f32d585a463ebb4d62dac108dbf3f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.039Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

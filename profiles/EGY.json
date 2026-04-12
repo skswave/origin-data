@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EGY",
+  "name": "VAALCO ENERGY INC /DE/",
+  "cik": "0000894627",
+  "summary": "VAALCO Energy, Inc. is an independent crude oil and natural gas company engaged in the acquisition, exploration, development, and production of hydrocarbons. The company operates primarily offshore Gabon (Etame Marin block), in Egypt (Merged Concession covering West Bakr, West Gharib, and NW Gharib), and in Canada (Cardium formation). VAALCO produces crude oil using FPSOs and FSOs, and is involved in offshore licensing rounds in Gabon through the BWE Consortium.",
+  "products": [
+    {
+      "name": "Crude Oil Production - Gabon",
+      "type": "service",
+      "description": "Offshore crude oil production from the Etame Marin block using FPSO/FSO vessels."
+    },
+    {
+      "name": "Crude Oil Production - Egypt",
+      "type": "service",
+      "description": "Crude oil production from the Merged Concession (West Bakr, West Gharib, NW Gharib) under agreement with EGPC."
+    },
+    {
+      "name": "Crude Oil Production - Canada",
+      "type": "service",
+      "description": "Oil production from the Cardium formation in Alberta/British Columbia, Canada."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "BW Energy",
+      "partnership_type": "strategic",
+      "description": "Member of BWE Consortium provisionally awarded two blocks in Gabon's 12th Offshore Licensing Round.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Panoro Energy",
+      "partnership_type": "strategic",
+      "description": "Member of BWE Consortium provisionally awarded Niosi Marin and Guduma Marin blocks offshore Gabon.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Egyptian General Petroleum Corporation (EGPC)",
+      "partnership_type": "strategic",
+      "description": "Partner under the Merged Concession Agreement signed January 19, 2022 for Egypt operations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EGY/profile",
+  "origin": {
+    "leaf": "204e7193325136b2f7f38d49488716df22d0618aca46fa38f14045d332d018e9",
+    "parent": "06d7f100ce6b5a761dddb7ec208e4dec484ab5675de42057a6b1cdc312def8d0",
+    "timestamp": "2026-04-12T03:12:56.216Z",
+    "source": "profile:0000894627",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/204e7193325136b2f7f38d49488716df22d0618aca46fa38f14045d332d018e9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.216Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

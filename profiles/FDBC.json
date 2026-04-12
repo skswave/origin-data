@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FDBC",
+  "name": "FIDELITY D & D BANCORP INC",
+  "cik": "0001098151",
+  "summary": "Fidelity D & D Bancorp, Inc. is a Pennsylvania bank holding company headquartered in Dunmore, PA, whose wholly-owned subsidiary, The Fidelity Deposit and Discount Bank, has operated since 1903. The Bank offers traditional banking services including residential real estate, consumer, commercial and commercial real estate loans, personal and corporate trust services, and alternative financial and insurance products with asset management services across Lackawanna, Luzerne, and Northampton counties in Pennsylvania.",
+  "products": [
+    {
+      "name": "Residential Real Estate Loans",
+      "type": "service",
+      "description": "Mortgage lending secured by residential properties in Northeastern and Eastern Pennsylvania."
+    },
+    {
+      "name": "Commercial and Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Lending products for businesses and income-producing commercial properties."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "Personal lending products offered to individual customers."
+    },
+    {
+      "name": "Personal and Corporate Trust Services",
+      "type": "service",
+      "description": "Trust department offering fiduciary and estate services to individuals and corporations."
+    },
+    {
+      "name": "Alternative Financial and Insurance Products",
+      "type": "service",
+      "description": "Non-traditional financial products including insurance and asset management services."
+    },
+    {
+      "name": "Residential Real Estate Loans",
+      "type": "service",
+      "description": "Mortgage lending for residential properties concentrated in Northeastern and Eastern Pennsylvania."
+    },
+    {
+      "name": "Commercial and Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Lending products for commercial customers and income-producing commercial properties."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "Consumer lending products offered through the Bank's branch network."
+    },
+    {
+      "name": "Personal and Corporate Trust Services",
+      "type": "service",
+      "description": "Trust department providing personal and corporate trust management services."
+    },
+    {
+      "name": "Alternative Financial and Insurance Products",
+      "type": "service",
+      "description": "Asset management and insurance product offerings through the Bank."
+    },
+    {
+      "name": "Traditional Banking Services",
+      "type": "service",
+      "description": "Full range of deposit accounts and banking services offered since 1903."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FDBC/profile",
+  "origin": {
+    "leaf": "bc7e147e6cad117024f3f9fd23aaba20df8c010b0452351c4893166c350dc451",
+    "parent": "76eb13bb95b361de7f2f07c2eccfe7b94f24cf082831c3cba3b8bd105cfdb7c6",
+    "timestamp": "2026-04-12T03:12:56.857Z",
+    "source": "profile:0001098151",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bc7e147e6cad117024f3f9fd23aaba20df8c010b0452351c4893166c350dc451",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.857Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

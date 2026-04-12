@@ -1,0 +1,75 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TMUS",
+  "name": "T-Mobile US, Inc.",
+  "cik": "0001283699",
+  "summary": "T-Mobile US, Inc. is a U.S. wireless communications and broadband services provider operating under the T-Mobile, Metro by T-Mobile, and Mint Mobile brands. As of December 31, 2025, it serves 142.4 million postpaid and prepaid customers. The company offers wireless service plans, 5G fixed wireless broadband, wholesale wireless services, and sells smartphones, wearables, tablets, 5G broadband gateways, and accessories through retail stores, websites, and third-party distributors.",
+  "products": [
+    {
+      "name": "T-Mobile Wireless Service Plans",
+      "type": "service",
+      "description": "Postpaid and prepaid wireless communications service plans for consumers and businesses."
+    },
+    {
+      "name": "5G Fixed Wireless Broadband",
+      "type": "service",
+      "description": "Home broadband internet service delivered over T-Mobile's 5G network via broadband gateways."
+    },
+    {
+      "name": "Wholesale Wireless Services",
+      "type": "service",
+      "description": "Wireless network access sold to third-party partners who resell services to their own customers."
+    },
+    {
+      "name": "Metro by T-Mobile",
+      "type": "service",
+      "description": "Prepaid wireless brand offered through owned retail stores and online channels."
+    },
+    {
+      "name": "Mint Mobile",
+      "type": "service",
+      "description": "Wireless brand with services available via app and website."
+    },
+    {
+      "name": "T-Life App",
+      "type": "platform",
+      "description": "Customer-facing app enabling upgrades, add-a-line, and switching transactions digitally."
+    },
+    {
+      "name": "5G Network",
+      "type": "platform",
+      "description": "Nationwide multi-layer 5G network using low-band, mid-band, and mmWave spectrum."
+    },
+    {
+      "name": "Wireless Devices and Accessories",
+      "type": "hardware",
+      "description": "Smartphones, wearables, tablets, 5G broadband gateways sold to customers and dealers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Deutsche Telekom AG",
+      "partnership_type": "strategic",
+      "description": "Controlling stockholder of T-Mobile US, Inc.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TMUS/profile",
+  "origin": {
+    "leaf": "6a84bd3ce9f4c0d5da72685b8e4325fff908340290950cfe9e5a568d5eaaddd8",
+    "parent": "d6a9f2980bd90719d1b19629bfd505737b817f69424d604007f2e69a8a62be87",
+    "timestamp": "2026-04-12T03:12:54.690Z",
+    "source": "profile:0001283699",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6a84bd3ce9f4c0d5da72685b8e4325fff908340290950cfe9e5a568d5eaaddd8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.690Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "INTT",
+  "name": "INTEST CORP",
+  "cik": "0001036262",
+  "summary": "InTest Corporation is a diversified test and measurement company providing thermal management products, electronic test equipment, and related services. The company serves multiple end markets including semiconductor automated test equipment (ATE), Auto/Electric Vehicle, Defense/Aerospace, Industrial, Life Sciences, and Safety/Security sectors. InTest pursues growth through its VISION 2030 Strategy, focusing on market diversification beyond the semiconductor ATE market and potential acquisitions.",
+  "products": [
+    {
+      "name": "Thermal Management Products",
+      "type": "hardware",
+      "description": "Thermal products used in testing and temperature control applications across multiple industries."
+    },
+    {
+      "name": "Electronic Test Equipment",
+      "type": "hardware",
+      "description": "Electronic test and measurement equipment serving semiconductor ATE and diversified industrial markets."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/INTT/profile",
+  "origin": {
+    "leaf": "a205ae26ee4552fa4defa1b9da705d7104723ed5ae4954a1206122a0651f4353",
+    "parent": "9301c6744dc27116a7b95ee969e2f2be461f285f3d4c09fa088a5a00040e7ee2",
+    "timestamp": "2026-04-12T03:12:57.104Z",
+    "source": "profile:0001036262",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a205ae26ee4552fa4defa1b9da705d7104723ed5ae4954a1206122a0651f4353",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.104Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

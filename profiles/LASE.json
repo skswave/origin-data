@@ -1,0 +1,78 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LASE",
+  "name": "Laser Photonics Corp",
+  "cik": "0001807887",
+  "summary": "Laser Photonics Corp is a vertically integrated manufacturer of photonics-based industrial laser products headquartered in Orlando, Florida. The company offers laser blasting, cleaning, rust removal, de-coating, welding, cutting, and marking solutions targeting automotive, aerospace, shipbuilding, nuclear, and pharmaceutical industries. Following the acquisition of Control Micro Systems, Inc., it expanded into pharmaceutical laser systems for micro-drilling controlled-release tablets. It also develops the Laser Shield Anti-Drone System (LSAD) and reported net revenues of $3.415 million by December 31, 2024.",
+  "products": [
+    {
+      "name": "CleanTech Professional Portable Finishing Laser 1040 (CTPF-1040)",
+      "type": "hardware",
+      "description": "Compact, portable high-performance laser system designed for versatility, mobility, and ease of use in cleaning and surface finishing."
+    },
+    {
+      "name": "CleanTech Laser Blaster Family",
+      "type": "hardware",
+      "description": "Standardized high-power laser cleaning and rust removal systems designed to be affordable for small and mid-size companies."
+    },
+    {
+      "name": "Laser Shield Anti-Drone System (LSAD)",
+      "type": "hardware",
+      "description": "Laser defense system designed as an immediate response against small-scale unmanned aerial systems in conflict zones."
+    },
+    {
+      "name": "High Power Turbo Piercing (Cold Cutting) Laser Cutting Technology",
+      "type": "hardware",
+      "description": "Licensed laser cutting technology for manufacturing, selling, exporting, and importing products incorporating cold cutting capabilities."
+    },
+    {
+      "name": "CMS Laser Material Processing Systems",
+      "type": "hardware",
+      "description": "Turnkey laser systems for marking, cutting, drilling, and welding, including pharmaceutical micro-drilling of controlled-release tablets."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "ICT Investments, LLC",
+      "partnership_type": "licensing",
+      "description": "Perpetual worldwide exclusive license to sell Laser Photonics branded equipment for laser cleaning and rust removal in exchange for 3,000,000 shares.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fonon Technologies, Inc.",
+      "partnership_type": "licensing",
+      "description": "Exclusive worldwide license for high power turbo piercing cold cutting laser technology for $350,000 cash and 1,000,000 restricted shares.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fonon Corporation",
+      "partnership_type": "licensing",
+      "description": "Exclusive worldwide sublicensable license for laser material processing equipment and technology in exchange for 3,000,000 restricted shares.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Fonon Corporation",
+      "partnership_type": "development",
+      "description": "Joint development of the Laser Shield Anti-Drone System (LSAD) for defense against small-scale unmanned aerial systems.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LASE/profile",
+  "origin": {
+    "leaf": "032a88849d7c0da7b2bd2fc9b22f8ca5cf089b2a45b8d6b2d45a1fbb011121bf",
+    "parent": "00f3be7ac3e4a53f6cc5df05b7c8df7ec90bbc0833af2ad90f37501e36a26957",
+    "timestamp": "2026-04-12T03:12:58.194Z",
+    "source": "profile:0001807887",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/032a88849d7c0da7b2bd2fc9b22f8ca5cf089b2a45b8d6b2d45a1fbb011121bf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.194Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

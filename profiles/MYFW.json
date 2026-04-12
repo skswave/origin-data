@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MYFW",
+  "name": "First Western Financial Inc",
+  "cik": "0001327607",
+  "summary": "Part I Item 1A - Risk Factors\". The foregoing factors should not be construed as exhaustive. If one or more events related to these or other risks or uncertainties materialize, or if our underlying assumptions prove to be incorrect, actual results may differ materially from what we anticipate. Accordingly, you should not place undue reliance on any such forward-looking statements. Any forward-looking statement speaks only as of the date on which it is made, and we do not undertake any obligation...",
+  "live_api": "https://origin.rootz.global/api/company/MYFW/profile",
+  "origin": {
+    "leaf": "0c6f987632cab0cedfe5875059090a67d13a71ea66bed614b402e52872a77915",
+    "parent": "9ff507755d4cf1c30d715e6f04a0bb07fae5962387e06aa9a7ec139cdd3be7b9",
+    "timestamp": "2026-04-12T03:12:56.897Z",
+    "source": "profile:0001327607",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0c6f987632cab0cedfe5875059090a67d13a71ea66bed614b402e52872a77915",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.897Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

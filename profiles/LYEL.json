@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LYEL",
+  "name": "Lyell Immunopharma, Inc.",
+  "cik": "0001806952",
+  "summary": "Lyell Immunopharma, Inc. is a late-stage clinical cell therapy company focused on developing T cell therapies for cancer. Its lead product candidates include rondecabtagene autoleucel (ronde-cel, LYL314) and LYL273 (formerly GCC19CART). The company conducts its own manufacturing at its LyFE Manufacturing Center in Bothell, Washington, and has no approved products or product revenue to date.",
+  "products": [
+    {
+      "name": "rondecabtagene autoleucel (ronde-cel, LYL314)",
+      "type": "platform",
+      "description": "Late-stage clinical cell therapy product candidate for cancer treatment."
+    },
+    {
+      "name": "LYL273 (formerly GCC19CART)",
+      "type": "platform",
+      "description": "Cell therapy product candidate acquired from Innovative Cellular Therapeutics, targeting cancer."
+    },
+    {
+      "name": "LyFE Manufacturing Center",
+      "type": "platform",
+      "description": "Clinical manufacturing facility in Bothell, Washington used to produce drug supply for clinical trials."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Innovative Cellular Therapeutics",
+      "partnership_type": "licensing",
+      "description": "Lyell acquired rights to LYL273 (formerly GCC19CART) from Innovative Cellular Therapeutics in November 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LYEL/profile",
+  "origin": {
+    "leaf": "5b6065392f9c264b95ed72bda878c800327cf27684850de6265da9e5c85ce421",
+    "parent": "98e3816eaff91273406e176204a0e2a4944b848fe5cf0b7efe6b0ed035573e54",
+    "timestamp": "2026-04-12T03:12:56.414Z",
+    "source": "profile:0001806952",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5b6065392f9c264b95ed72bda878c800327cf27684850de6265da9e5c85ce421",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.414Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

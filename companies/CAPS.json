@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CAPS",
+  "name": "Capstone Holding Corp.",
+  "cik": "0000887151",
+  "exchange": "Nasdaq",
+  "sic": "5030",
+  "sic_description": "Wholesale-Lumber & Other Construction Materials",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Capstone Holding Corp. is a building products distribution company operating through its subsidiary Instone, the largest wholesale distributor of thin veneer stone and related masonry products in the United States. Founded over 30 years ago, Instone serves residential and commercial construction markets across 31 states, offering manufactured and natural stone products. The company is controlled by Brookstone Partners and pursues a growth strategy through organic expansion and strategic acquisitions.",
+  "tags": [
+    "residential-construction",
+    "commercial-construction",
+    "building-products-distribution"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CAPS",
+  "origin": {
+    "leaf": "936ba612c5bfbc6201c63aa1328ccf54c6b74df51b3a6565449ddd5e26080a34",
+    "parent": "abe1470748484a880dc57e2a9b48427515eba1c661dbe65c4738f52b7f233a7f",
+    "timestamp": "2026-04-12T03:12:53.332Z",
+    "source": "0001213900-25-026436",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/936ba612c5bfbc6201c63aa1328ccf54c6b74df51b3a6565449ddd5e26080a34",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.332Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

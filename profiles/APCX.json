@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "APCX",
+  "name": "AppTech Payments Corp.",
+  "cik": "0001070050",
+  "summary": "AppTech Payments Corp. is a financial technology company providing digital banking infrastructure, embedded finance, and omnichannel payment solutions. It operates the AppTech Banking Platform, a cloud-native multi-tenant system enabling digital banking, account-based processing, onboarding, and compliance for financial institutions. It also runs FinZeo, a Payments-as-a-Service business serving merchants and ISOs, and acquired Infinitus Pay, Inc. for cross-border payments and multi-currency transaction capabilities.",
+  "products": [
+    {
+      "name": "AppTech Banking Platform",
+      "type": "platform",
+      "description": "Cloud-native, multi-tenant digital banking platform enabling account creation, payment services, onboarding, compliance, and financial workflows for partner financial institutions."
+    },
+    {
+      "name": "FinZeo Payments-as-a-Service (PaaS)",
+      "type": "service",
+      "description": "Payments-as-a-Service business serving merchants, ISOs, and technology partners, contributing approximately 10-15% of total revenue in 2025."
+    },
+    {
+      "name": "Infinitus Pay Platform",
+      "type": "platform",
+      "description": "Cross-border payments and onboarding platform supporting global payment acceptance, international payouts, multi-currency transactions, and automated recipient onboarding."
+    },
+    {
+      "name": "Partner Portal",
+      "type": "software",
+      "description": "Reporting and analytics portal providing business metrics, operational insights, and client performance monitoring for partners."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Unnamed partner bank",
+      "partnership_type": "strategic",
+      "description": "First partner bank fully online and accepting clients through the AppTech Banking Platform, providing compliant digital banking infrastructure.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/APCX/profile",
+  "origin": {
+    "leaf": "1dbce8b661386e5fe6b85608bbe4321519d7263006f795f564c1853091cd82b0",
+    "parent": "5cad8bc86b82139a8f9b6efc2dd701835b47565efa49ef5122a69b7b573e213e",
+    "timestamp": "2026-04-12T03:12:58.267Z",
+    "source": "profile:0001070050",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1dbce8b661386e5fe6b85608bbe4321519d7263006f795f564c1853091cd82b0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.267Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

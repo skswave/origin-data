@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ACT",
+  "name": "Enact Holdings, Inc.",
+  "cik": "0001823529",
+  "exchange": "Nasdaq",
+  "sic": "6411",
+  "sic_description": "Insurance Agents, Brokers & Service",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Overview We are a leading private mortgage insurance company serving the United States housing finance market since 1981 with a mission to help people buy a house and keep it their home. We operate in all 50 states and the District of Columbia. Our principal mortgage insurance customers are originators of residential mortgage loans who typically determine which mortgage insurer or insurers they will use for the placement of mortgage insurance written on loans they originate. As a private ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ACT",
+  "origin": {
+    "leaf": "5229063c55bd88caec530e43352a53442e0a65bc5d376982225e7df342325376",
+    "parent": "91df52438ef0216c08473a61151c9c1017441ced5ae853b5d4a6d84e71d69164",
+    "timestamp": "2026-04-12T03:12:50.598Z",
+    "source": "0001823529-26-000060",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5229063c55bd88caec530e43352a53442e0a65bc5d376982225e7df342325376",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.598Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

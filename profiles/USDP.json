@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "USDP",
+  "name": "USD Partners LP",
+  "cik": "0001610682",
+  "summary": "USD Partners LP (USDP) is a master limited partnership that provides terminalling services for crude oil and biofuels. The company operates terminal facilities where it offers storage and throughput services, primarily for crude oil. It serves customers seeking capacity at its terminals and generates revenue through terminalling service contracts with upstream producers, refineries, and related businesses.",
+  "products": [
+    {
+      "name": "Crude Oil Terminalling Services",
+      "type": "service",
+      "description": "Storage and throughput terminalling services for crude oil at company-operated terminal facilities."
+    },
+    {
+      "name": "Biofuels Terminalling Services",
+      "type": "service",
+      "description": "Terminalling services for biofuels at company-operated terminal facilities."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "USD Group LLC (USDG)",
+      "partnership_type": "strategic",
+      "description": "Sole direct subsidiary of USD; serves as sponsor of USD Partners LP.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Energy Capital Partners",
+      "partnership_type": "strategic",
+      "description": "Energy Capital Partners III, LP and related investment vehicles affiliated with the partnership.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Goldman Sachs",
+      "partnership_type": "strategic",
+      "description": "The Goldman Sachs Group, Inc. and its affiliates are referenced in relation to the partnership.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/USDP/profile",
+  "origin": {
+    "leaf": "eef3a774007b69f6631f7e169e7c4d305e5491cb7ce570cf0f4f1a02d6e5f3ad",
+    "parent": "d124f6ed93bf5ba9cc5afdd374b02ba0190425934b8097ac6a1c1646ece5d342",
+    "timestamp": "2026-04-12T03:13:00.028Z",
+    "source": "profile:0001610682",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/eef3a774007b69f6631f7e169e7c4d305e5491cb7ce570cf0f4f1a02d6e5f3ad",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.028Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

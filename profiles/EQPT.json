@@ -1,0 +1,88 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EQPT",
+  "name": "EquipmentShare.com Inc",
+  "cik": "0001693736",
+  "summary": "EquipmentShare.com Inc is a vertically integrated construction equipment rental and technology platform founded in 2014. It operates 352 full-service branches, 9 dealership sites, and 24 building materials retail stores across 45 U.S. states. Core offerings include equipment rentals, new and used equipment sales, parts and services, and the proprietary T3 cloud-based telematics platform. The T3 platform provides real-time fleet tracking, predictive maintenance, and jobsite management. The Company also operates the OWN Program, leasing equipment from third-party owners.",
+  "products": [
+    {
+      "name": "T3 Platform",
+      "type": "platform",
+      "description": "OEM-agnostic cloud-based telematics platform providing real-time equipment tracking, predictive maintenance, remote access control, and jobsite management."
+    },
+    {
+      "name": "Equipment Rental",
+      "type": "service",
+      "description": "Rental of construction and aerial equipment from a fleet managed via the T3 platform across 352 branches in 45 states."
+    },
+    {
+      "name": "OWN Program",
+      "type": "service",
+      "description": "Capital-light fleet growth model where third-party owners purchase T3-enabled equipment leased back to EquipmentShare for rental to customers."
+    },
+    {
+      "name": "Telematics SaaS Subscriptions",
+      "type": "software",
+      "description": "Software-as-a-service subscriptions with embedded telematics hardware for fleet performance monitoring, maintenance management, and jobsite oversight."
+    },
+    {
+      "name": "New and Used Equipment Sales",
+      "type": "service",
+      "description": "Sale of new and used construction equipment to customers through branches and dealership sites."
+    },
+    {
+      "name": "Building Materials and Hardware Retail",
+      "type": "service",
+      "description": "Retail sales of building materials and hardware supplies through 24 store locations."
+    },
+    {
+      "name": "Parts, Supplies, and Services",
+      "type": "service",
+      "description": "Complementary equipment parts, supplies, maintenance services, and jobsite support offerings integrated with the T3 platform."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "JLG",
+      "partnership_type": "OEM",
+      "description": "Authorized dealer for JLG construction and aerial equipment, offering rentals, parts, and services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Takeuchi",
+      "partnership_type": "OEM",
+      "description": "Authorized dealer for Takeuchi construction equipment, offering rentals, parts, and services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Skyjack",
+      "partnership_type": "OEM",
+      "description": "Authorized dealer for Skyjack aerial equipment, offering rentals, parts, and services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Genie",
+      "partnership_type": "OEM",
+      "description": "Authorized dealer for Genie aerial equipment, offering rentals, parts, and services.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EQPT/profile",
+  "origin": {
+    "leaf": "92d4cdf19055bf58208b03ee94a5fca67157592714e325a455c64aa42c96ff9a",
+    "parent": "fbba15af83491d21fb2243a6c2a9a4e20daccfa79a3f1feabc6a5fe24550d7b1",
+    "timestamp": "2026-04-12T03:12:55.248Z",
+    "source": "profile:0001693736",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/92d4cdf19055bf58208b03ee94a5fca67157592714e325a455c64aa42c96ff9a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.248Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

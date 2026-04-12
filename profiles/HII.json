@@ -1,0 +1,106 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HII",
+  "name": "HUNTINGTON INGALLS INDUSTRIES, INC.",
+  "cik": "0001501585",
+  "summary": "Huntington Ingalls Industries (HII) is America's largest shipbuilder, designing and constructing nuclear and non-nuclear naval vessels including aircraft carriers, submarines, amphibious assault ships, destroyers, and Coast Guard cutters. Through its Mission Technologies segment, HII also provides C5ISR systems, cybersecurity, AI/ML, unmanned autonomous systems, and live/virtual/constructive training solutions primarily to the U.S. Government and Department of Defense.",
+  "products": [
+    {
+      "name": "LHA Amphibious Assault Ships",
+      "type": "hardware",
+      "description": "Large deck amphibious assault ships including LHA 8 Bougainville, LHA 9 Fallujah, and LHA 10 Helmand Province for the U.S. Navy."
+    },
+    {
+      "name": "LPD Amphibious Transport Dock Ships",
+      "type": "hardware",
+      "description": "Long-running production program of amphibious transport dock ships; currently constructing LPD 30-35."
+    },
+    {
+      "name": "Arleigh Burke Class DDG-51 Destroyers",
+      "type": "hardware",
+      "description": "Guided missile destroyers; HII is design agent and one of two builders; 36 delivered to the U.S. Navy."
+    },
+    {
+      "name": "Legend Class National Security Cutters",
+      "type": "hardware",
+      "description": "Multi-mission cutter platform designed for the U.S. Coast Guard; HII delivered NSC 10 Calhoun in 2023."
+    },
+    {
+      "name": "Gerald R. Ford Class Aircraft Carriers (CVN 78)",
+      "type": "hardware",
+      "description": "Next-generation nuclear aircraft carriers; HII is exclusive designer and builder; CVN 78-81 under various stages of completion."
+    },
+    {
+      "name": "Virginia Class Submarines (SSN 774)",
+      "type": "hardware",
+      "description": "Nuclear fast attack submarines built in partnership with Electric Boat; multiple blocks contracted and delivered."
+    },
+    {
+      "name": "Columbia Class Submarines (SSBN 826)",
+      "type": "hardware",
+      "description": "Nuclear ballistic missile submarines; HII serves as subcontractor to Electric Boat, building modules for all 12 planned boats."
+    },
+    {
+      "name": "Refueling and Complex Overhaul (RCOH)",
+      "type": "service",
+      "description": "Exclusive RCOH services for U.S. Navy nuclear aircraft carriers, covering propulsion, life restoration, and modernization over ~4 years."
+    },
+    {
+      "name": "C5ISR Systems and Operations",
+      "type": "platform",
+      "description": "Command, control, computers, communications, cyber, intelligence, surveillance, and reconnaissance systems provided by Mission Technologies segment."
+    },
+    {
+      "name": "Unmanned Autonomous Systems",
+      "type": "hardware",
+      "description": "Development and delivery of unmanned autonomous systems for defense applications through Mission Technologies segment."
+    },
+    {
+      "name": "Live, Virtual, and Constructive Training Solutions",
+      "type": "service",
+      "description": "Defense training solutions provided through Mission Technologies segment for military readiness."
+    },
+    {
+      "name": "AI/ML Battlefield Decision Tools",
+      "type": "software",
+      "description": "Application of artificial intelligence and machine learning to battlefield decisions, offered through Mission Technologies."
+    },
+    {
+      "name": "Defensive and Offensive Cyberspace and Electronic Warfare",
+      "type": "service",
+      "description": "Cyberspace strategies and electronic warfare capabilities offered through Mission Technologies segment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Electric Boat Corporation (General Dynamics)",
+      "partnership_type": "development",
+      "description": "Teaming agreement to design and build Virginia class SSN 774 submarines; HII builds specific sections, work alternates for final assembly.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Electric Boat Corporation (General Dynamics)",
+      "partnership_type": "development",
+      "description": "HII serves as subcontractor to Electric Boat for Columbia class SSBN 826 ballistic missile submarine design and module construction.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HII/profile",
+  "origin": {
+    "leaf": "8696303d97cdfb09a59138d0975e9728e122de950d0e89766e1417de8587e01a",
+    "parent": "1292e8cbac6d2fd341c707808af2446817c682cc5ec4ed891e3b08783bed5d1f",
+    "timestamp": "2026-04-12T03:12:54.954Z",
+    "source": "profile:0001501585",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8696303d97cdfb09a59138d0975e9728e122de950d0e89766e1417de8587e01a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.954Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

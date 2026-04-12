@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CTAS",
+  "name": "CINTAS CORP",
+  "cik": "0000723254",
+  "exchange": "Nasdaq",
+  "sic": "2320",
+  "sic_description": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
+  "state_of_incorporation": "WA",
+  "headquarters": null,
+  "founded": "1968",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0531",
+  "summary": "Cintas Corporation provides uniform rental and facility services, first aid and safety products, fire protection services, and uniform direct sales to over one million businesses primarily in the U.S., Canada, and Latin America. Products and services include uniforms, mats, mops, shop towels, restroom supplies, workplace water services, first aid products, eye-wash stations, safety training, fire extinguishers, sprinkler systems, and alarm testing.",
+  "tags": [
+    "uniform-rental-and-facility-services",
+    "first-aid-and-safety-services",
+    "fire-protection-services",
+    "uniform-direct-sales",
+    "small-and-mid-size-businesses",
+    "large-corporations",
+    "manufacturing-companies",
+    "service-companies",
+    "clean-air-act",
+    "clean-water-act",
+    "resource-conservation-and-recovery-act",
+    "superfund-amendments-and-reauthorization-act-of-1986"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 48300,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CTAS",
+  "origin": {
+    "leaf": "dfdc6c86f6d4ff272b29ee1dc0c9a4c8dd1c140c11288b3ba5923a94d1abcbf7",
+    "parent": "e711c7a96b81f27219edbe388463b3b060956a1083dbe38438ba483918b39fbd",
+    "timestamp": "2026-04-12T03:12:50.332Z",
+    "source": "0000723254-25-000017",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dfdc6c86f6d4ff272b29ee1dc0c9a4c8dd1c140c11288b3ba5923a94d1abcbf7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.332Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

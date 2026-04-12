@@ -1,0 +1,92 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RMTI",
+  "name": "ROCKWELL MEDICAL, INC.",
+  "cik": "0001041024",
+  "summary": "Rockwell Medical, Inc. is a healthcare company that develops, manufactures, commercializes, and distributes hemodialysis products for dialysis providers worldwide. The company supplies liquid and dry acid and bicarbonate concentrates for dialysis patients, primarily in the United States. Products are manufactured at facilities in Michigan and Texas under cGMP regulations and delivered to dialysis clinics via company trucks and third-party carriers. Rockwell serves 294 customers including all five leading U.S. dialysis providers.",
+  "products": [
+    {
+      "name": "Liquid Acid Concentrates",
+      "type": "hardware",
+      "description": "Hemodialysis liquid acid concentrates used to create dialysate for cleaning patients' blood."
+    },
+    {
+      "name": "Dry Acid Concentrates",
+      "type": "hardware",
+      "description": "Dry formulation acid concentrates for hemodialysis treatment at dialysis clinics."
+    },
+    {
+      "name": "Bicarbonate Concentrates",
+      "type": "hardware",
+      "description": "Liquid and dry bicarbonate concentrates used in hemodialysis treatment."
+    },
+    {
+      "name": "Single-Use Bicarbonate Cartridge",
+      "type": "hardware",
+      "description": "FDA 510(k)-approved single-use bicarbonate cartridge available in 720g and 900g sizes, launched February 2025."
+    },
+    {
+      "name": "Dry Acid Concentrate Mixers",
+      "type": "hardware",
+      "description": "Mixers for dry acid concentrates manufactured at Iowa facility."
+    },
+    {
+      "name": "CitraPure",
+      "type": "hardware",
+      "description": "Registered trademark hemodialysis concentrate product by Rockwell Medical."
+    },
+    {
+      "name": "Dri-Sate",
+      "type": "hardware",
+      "description": "Registered trademark dry hemodialysis concentrate product by Rockwell Medical."
+    },
+    {
+      "name": "RenalPure",
+      "type": "hardware",
+      "description": "Registered trademark hemodialysis concentrate product by Rockwell Medical."
+    },
+    {
+      "name": "SteriLyte",
+      "type": "hardware",
+      "description": "Registered trademark hemodialysis concentrate product by Rockwell Medical."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "DaVita, Inc.",
+      "partnership_type": "strategic",
+      "description": "Amended product purchase agreement extended through December 31, 2026 with increased product pricing.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Innovative Renal Care",
+      "partnership_type": "strategic",
+      "description": "Multi-year product purchase agreement signed July 2025 with one of the largest U.S. dialysis service providers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Innovatus Life Sciences Lending Fund I, LP",
+      "partnership_type": "strategic",
+      "description": "Loan and Security Agreement providing financing to Rockwell Medical.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RMTI/profile",
+  "origin": {
+    "leaf": "77903066122e7dbb2bd393eca7593f5f8bafc573dac77603038f0de3fdb562b0",
+    "parent": "80c5c2283c0e649ba427f37c4af35dd8d9e64c66dac1fbc4598645a8d53fca86",
+    "timestamp": "2026-04-12T03:12:57.982Z",
+    "source": "profile:0001041024",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/77903066122e7dbb2bd393eca7593f5f8bafc573dac77603038f0de3fdb562b0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.982Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PAMT",
+  "name": "PAMT CORP",
+  "cik": "0000798287",
+  "summary": "PAMT CORP is a holding company providing truckload dry van carrier services transporting general commodities throughout the continental United States, Mexico, and select Canadian provinces. Services include dedicated, expedited, automotive, local, regional, and long-haul truckload operations, plus brokerage and logistics services. Key freight includes automotive parts, consumer goods, and manufactured goods. The company operates 2,094 trucks and 8,020 trailers, with major customers including General Motors, Ford Motor Company, and Walmart.",
+  "products": [
+    {
+      "name": "Truckload Services",
+      "type": "service",
+      "description": "Asset-based truckload transportation including dedicated, expedited, automotive, local, regional, and long-haul services using company-owned and contractor trucks."
+    },
+    {
+      "name": "Brokerage and Logistics Services",
+      "type": "service",
+      "description": "Coordination and facilitation of freight transport using third-party equipment, expanding available capacity for customers."
+    },
+    {
+      "name": "Select CDL Driving School",
+      "type": "service",
+      "description": "Commercial driver's license training school operated as a wholly-owned subsidiary."
+    },
+    {
+      "name": "Mexico Transportation Services",
+      "type": "service",
+      "description": "Transportation services in Mexico provided under agreements with Mexican carriers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Mexican carriers",
+      "partnership_type": "strategic",
+      "description": "Agreements with Mexican carriers to provide transportation services in Mexico.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PAMT/profile",
+  "origin": {
+    "leaf": "f85967245e277781f80df0a4854b02aa3a263201e961bb2da6f4e9495279372d",
+    "parent": "3d3dbc9b4ac8b0195f97fdfed2c4262d5d739370a3a067299fafc6e50e4d047a",
+    "timestamp": "2026-04-12T03:12:57.078Z",
+    "source": "profile:0000798287",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f85967245e277781f80df0a4854b02aa3a263201e961bb2da6f4e9495279372d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.078Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

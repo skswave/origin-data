@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LYV",
+  "name": "Live Nation Entertainment, Inc.",
+  "cik": "0001335258",
+  "exchange": "NYSE",
+  "sic": "7900",
+  "sic_description": "Services-Amusement & Recreation Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Live Nation Entertainment, Inc. is a global live entertainment company operating through segments including concert promotion, venue management, and ticketing. The company promotes live music events, operates entertainment venues, and runs Ticketmaster, its ticketing business that processes ticket sales. It also has operations through subsidiaries including OCESA in Latin America via Corporación Interamericana de Entretenimiento.",
+  "tags": [
+    "live-entertainment-and-concerts",
+    "ticketing-services",
+    "venue-operations",
+    "latin-american-entertainment-(via-ocesa/cie)",
+    "gaap-(united-states-generally-accepted-accounting-principles)",
+    "asc-(accounting-standards-codification)",
+    "sofr-(secured-overnight-financing-rate)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LYV",
+  "origin": {
+    "leaf": "89c54bd5b03bf5234cc5b9f30e46ebae3f7fcb3bc178d97c2663c6c15a38eef5",
+    "parent": "8117aff5ff071f99bc6ea13b2c25c028929501e6d61e3820c9ea7819eb0f1055",
+    "timestamp": "2026-04-12T03:12:50.366Z",
+    "source": "0001335258-26-000009",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/89c54bd5b03bf5234cc5b9f30e46ebae3f7fcb3bc178d97c2663c6c15a38eef5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.366Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

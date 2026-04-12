@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DRH",
+  "name": "DiamondRock Hospitality Co",
+  "cik": "0001298946",
+  "summary": "DiamondRock Hospitality Co (DRH) is a real estate investment trust (REIT) that owns and operates hotels and resorts. The company acquires, owns, and manages a portfolio of premium lodging properties across the United States. It operates under various hotel brand franchises and management agreements, focusing on upper-upscale and luxury segments of the hospitality industry.",
+  "products": [
+    {
+      "name": "Hotel and Resort Ownership",
+      "type": "service",
+      "description": "Acquisition and ownership of premium hotels and resorts operated under management and franchise agreements."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DRH/profile",
+  "origin": {
+    "leaf": "f1a1184422b877b08a14599e6944f6ba7493dc9d80c352f413aebbc66bab9556",
+    "parent": "eaf64e2c2ceb52670127ec3257f64200cf28418de85bd85753642493609b467a",
+    "timestamp": "2026-04-12T03:12:55.673Z",
+    "source": "profile:0001298946",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f1a1184422b877b08a14599e6944f6ba7493dc9d80c352f413aebbc66bab9556",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.673Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

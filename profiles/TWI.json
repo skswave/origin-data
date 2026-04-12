@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TWI",
+  "name": "TITAN INTERNATIONAL INC",
+  "cik": "0000899751",
+  "summary": "Titan International, Inc. (TWI) manufactures wheels, tires, and undercarriage systems for agricultural equipment, earthmoving/construction equipment, and consumer products. The company sells to OEM customers and aftermarkets globally. Its subsidiary Titan Specialty (formerly The Carlstar Group, LLC) expands its specialty tire offerings. Products include off-highway tires and wheels used in farming, construction, and mining applications.",
+  "products": [
+    {
+      "name": "Agricultural Wheels and Tires",
+      "type": "hardware",
+      "description": "Wheels and tires designed for agricultural equipment used in farming applications."
+    },
+    {
+      "name": "Earthmoving/Construction Wheels and Tires",
+      "type": "hardware",
+      "description": "Wheels and tires for earthmoving and construction equipment applications."
+    },
+    {
+      "name": "Consumer Products Wheels and Tires",
+      "type": "hardware",
+      "description": "Wheels and tires for consumer-oriented equipment and vehicles."
+    },
+    {
+      "name": "Undercarriage Systems",
+      "type": "hardware",
+      "description": "Undercarriage components for off-highway equipment including construction and mining machinery."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TWI/profile",
+  "origin": {
+    "leaf": "09a7891f2d3c0e149c8e34c98d644765c315b58d226fd1c7afaa556fd7c935e4",
+    "parent": "dff27441705a256206899524b06d1beb6d03e4f8c50907c6a63883793d9f7288",
+    "timestamp": "2026-04-12T03:12:56.452Z",
+    "source": "profile:0000899751",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/09a7891f2d3c0e149c8e34c98d644765c315b58d226fd1c7afaa556fd7c935e4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.452Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

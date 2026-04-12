@@ -1,0 +1,66 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NEM",
+  "name": "NEWMONT Corp /DE/",
+  "cik": "0001164727",
+  "summary": "Newmont Corporation, incorporated in 1921 and headquartered in Denver, Colorado, is the world's leading gold mining company. It produces gold, copper, silver, lead, and zinc from operations in the United States, Australia, Papua New Guinea, Ghana, Suriname, Argentina, Dominican Republic, Chile, Peru, Ecuador, Mexico, and Canada. As of December 31, 2025, Newmont held attributable proven and probable gold reserves of 118.2 million ounces and an aggregate land position of approximately 19,200 square miles.",
+  "products": [
+    {
+      "name": "Gold",
+      "type": "hardware",
+      "description": "Primary product; mined and sold in troy ounces with 2025 average realized price of $3,498 per ounce."
+    },
+    {
+      "name": "Copper",
+      "type": "hardware",
+      "description": "Significant co-product; sold in pounds/tonnes with 2025 average realized price of $4.89 per pound."
+    },
+    {
+      "name": "Silver",
+      "type": "hardware",
+      "description": "Co-product; sold in troy ounces with 2025 average realized price of $38.92 per ounce."
+    },
+    {
+      "name": "Lead",
+      "type": "hardware",
+      "description": "Co-product; sold in pounds/tonnes with 2025 average realized price of $0.87 per pound."
+    },
+    {
+      "name": "Zinc",
+      "type": "hardware",
+      "description": "Co-product; sold in pounds/tonnes with 2025 average realized price of $1.23 per pound."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Lundin Gold Inc.",
+      "partnership_type": "strategic",
+      "description": "Newmont holds a 32% equity interest in Lundin Gold, owner of the Fruta del Norte mine, accounted for as an equity method investment.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Pueblo Viejo (40% interest)",
+      "partnership_type": "strategic",
+      "description": "Newmont holds a 40% attributable interest in the Pueblo Viejo mine, contributing to attributable gold production.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NEM/profile",
+  "origin": {
+    "leaf": "6274244e16f6677942a617b3182c053111fa583d1c4cb1ffa7e48c5dbb791501",
+    "parent": "5689f356fd7c90f23fef9c90dbb59b080108a1bb33e674666097859c46ac2e58",
+    "timestamp": "2026-04-12T03:12:54.716Z",
+    "source": "profile:0001164727",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6274244e16f6677942a617b3182c053111fa583d1c4cb1ffa7e48c5dbb791501",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.716Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RDGL",
+  "name": "VIVOS INC",
+  "cik": "0001449349",
+  "summary": "Vivos Inc. (ticker: RDGL) is a radiation oncology medical device company developing yttrium-90 (Y-90) based precision radionuclide therapy devices. Its primary products are RadioGel for treating solid tumors in humans and IsoPet for treating solid tumors in animals. The company also sells PLGA-g-PEG polymers and PrecisionGel hydrogel platforms. It collaborates with national laboratories, universities, and private corporations, and has operations in the U.S. and India.",
+  "products": [
+    {
+      "name": "RadioGel Precision Radionuclide Therapy",
+      "type": "hardware",
+      "description": "Injectable Y-90 phosphate particle-gel for precision radionuclide therapy of solid tumors in humans, classified as a medical device by the FDA."
+    },
+    {
+      "name": "IsoPet",
+      "type": "hardware",
+      "description": "Y-90-based injectable particle-gel for treating solid tumors in animals, marketed as a veterinary medical device authorized for commercial distribution."
+    },
+    {
+      "name": "PLGA-g-PEG polymers",
+      "type": "platform",
+      "description": "Polymer products sold by the company as part of its hydrogel polymer platform offerings."
+    },
+    {
+      "name": "PrecisionGel",
+      "type": "platform",
+      "description": "Hydrogel polymer platform for delivering active pharmaceutical ingredients and therapeutic agents."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Washington State University",
+      "partnership_type": "development",
+      "description": "Treated five cats for feline sarcoma; developed therapy procedures incorporated into the IsoPet product label.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Colorado State University",
+      "partnership_type": "development",
+      "description": "Demonstrated CT and PET-CT imaging of IsoPet.",
+      "start_date": null
+    },
+    {
+      "partner_name": "University of Missouri",
+      "partnership_type": "development",
+      "description": "Conducted animal study to treat canine sarcoma using IsoPet/RadioGel.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Johns Hopkins University",
+      "partnership_type": "development",
+      "description": "Completed a study on VX2 tumors in rabbits using IsoPet/RadioGel.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RDGL/profile",
+  "origin": {
+    "leaf": "c6e50b101884337d549925b38fda508415160bb72ea2bc5b8dc1138e94567230",
+    "parent": "265df43aba2d0dd67431296cb0d457686df19a21b40254316f1532e5a3bbef94",
+    "timestamp": "2026-04-12T03:12:57.924Z",
+    "source": "profile:0001449349",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c6e50b101884337d549925b38fda508415160bb72ea2bc5b8dc1138e94567230",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.924Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

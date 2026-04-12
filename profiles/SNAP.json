@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SNAP",
+  "name": "Snap Inc",
+  "cik": "0001564408",
+  "summary": "Snap Inc. operates Snapchat, a camera and messaging application that enables users to communicate through photos, videos, and messages. The company generates substantially all revenue from advertising. Products include Snapchat's camera, messaging, Stories, Spotlight, Snap Map, and augmented reality features. Snap also develops Spectacles hardware. The platform serves a global community with a focus on visual communication and augmented reality experiences.",
+  "products": [
+    {
+      "name": "Snapchat",
+      "type": "platform",
+      "description": "Camera and messaging application for visual communication via photos, videos, and messages."
+    },
+    {
+      "name": "Stories",
+      "type": "software",
+      "description": "Feature allowing users to share photo and video content viewable for 24 hours."
+    },
+    {
+      "name": "Spotlight",
+      "type": "software",
+      "description": "Short-form video content discovery feature within Snapchat."
+    },
+    {
+      "name": "Snap Map",
+      "type": "software",
+      "description": "Location-sharing and discovery feature within Snapchat."
+    },
+    {
+      "name": "Spectacles",
+      "type": "hardware",
+      "description": "Wearable camera glasses hardware product developed by Snap Inc."
+    },
+    {
+      "name": "Augmented Reality features",
+      "type": "software",
+      "description": "AR tools and lenses integrated into Snapchat for interactive visual experiences."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Google",
+      "partnership_type": "strategic",
+      "description": "Provides mobile operating system and cloud/infrastructure services for Snap's applications.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Apple",
+      "partnership_type": "strategic",
+      "description": "Provides mobile operating system services essential to Snapchat's platform functionality.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Amazon",
+      "partnership_type": "strategic",
+      "description": "Provides cloud and other core services supporting Snap's applications and platform.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SNAP/profile",
+  "origin": {
+    "leaf": "2a82011bd52f51fdb28f48891f7e5bc2fd73b2a43ad8c73f71cf27b49488b65d",
+    "parent": "00e86b498a82d915a28216f07e3185570207a8894b45640be957fd9150a5772c",
+    "timestamp": "2026-04-12T03:12:55.122Z",
+    "source": "profile:0001564408",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2a82011bd52f51fdb28f48891f7e5bc2fd73b2a43ad8c73f71cf27b49488b65d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.122Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

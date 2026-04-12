@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "DUK",
+  "name": "Duke Energy CORP",
+  "cik": "0001326160",
+  "exchange": "NYSE",
+  "sic": "4931",
+  "sic_description": "Electric & Other Services Combined",
+  "state_of_incorporation": "DE",
+  "headquarters": "Charlotte, North Carolina",
+  "founded": "2005",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Duke Energy is an energy company headquartered in Charlotte, North Carolina, incorporated in 2005. It operates two primary segments: Electric Utilities and Infrastructure (EU&I) and Gas Utilities and Infrastructure (GU&I). EU&I provides retail electric service via generation, transmission, distribution, and sale of electricity to approximately 8.7 million customers across six states in the Southeast and Midwest U.S., covering roughly 90,000 square miles. The company relies on natural gas, nuclear, coal, hydroelectric, and solar sources for generation.",
+  "tags": [
+    "retail-electric-utility-(southeast-u.s.)",
+    "retail-electric-utility-(midwest-u.s.)",
+    "wholesale-electricity",
+    "natural-gas-distribution-and-infrastructure",
+    "competitive-electricity-supply-(ohio)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/DUK",
+  "origin": {
+    "leaf": "0ce6f6f085f2be71c750b9331f9211ad3990207c9f8044cfdef084f661392463",
+    "parent": "c783a6f51996311ad0709057eab7268cb2eaca986c9e895bffeca08481dd1908",
+    "timestamp": "2026-04-12T03:12:50.313Z",
+    "source": "0001326160-26-000014",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0ce6f6f085f2be71c750b9331f9211ad3990207c9f8044cfdef084f661392463",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.313Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

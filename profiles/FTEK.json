@@ -1,0 +1,90 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FTEK",
+  "name": "FUEL TECH, INC.",
+  "cik": "0000846913",
+  "summary": "Fuel Tech, Inc. is a technology company developing and commercializing proprietary technologies for air pollution control, process optimization, water treatment, and advanced engineering services. Key products include NOxOUT and ASCR NOx reduction systems, ULTRA and U2A ammonia generation systems, Electrostatic Precipitator (ESP) solutions, Flue Gas Conditioning (FGC) systems, FUEL CHEM chemical injection programs using TIFI technology, and DGI Dissolved Gas Infusion water treatment systems. The company serves utility, industrial, and municipal customers worldwide with installations on over 2,000 NOx reduction units and 600 particulate control units globally.",
+  "products": [
+    {
+      "name": "NOxOUT",
+      "type": "hardware",
+      "description": "Selective Non-Catalytic Reduction (SNCR) system for NOx emissions reduction from combustion units."
+    },
+    {
+      "name": "ASCR Advanced Selective Catalytic Reduction",
+      "type": "hardware",
+      "description": "Advanced SCR system for NOx reduction with installations on over 2,000 units worldwide."
+    },
+    {
+      "name": "ULTRA",
+      "type": "hardware",
+      "description": "Process for safe ammonia generation from urea for use as an SCR reagent."
+    },
+    {
+      "name": "U2A",
+      "type": "hardware",
+      "description": "Urea-to-ammonia conversion process for SCR reagent supply applications."
+    },
+    {
+      "name": "UDI Urea Direct Injection",
+      "type": "hardware",
+      "description": "System providing urea reagent directly into a duct for SCR applications."
+    },
+    {
+      "name": "FUEL CHEM / TIFI",
+      "type": "service",
+      "description": "Chemical injection programs using Targeted In-Furnace Injection to control slagging, fouling, corrosion, and emissions on over 100 applications worldwide."
+    },
+    {
+      "name": "Electrostatic Precipitator (ESP)",
+      "type": "hardware",
+      "description": "Particulate control products and services with experience on units up to 700 MW, installed on over 600 units worldwide."
+    },
+    {
+      "name": "Flue Gas Conditioning (FGC)",
+      "type": "hardware",
+      "description": "Systems using SO3 and ammonia-based agents to improve ESP performance by modifying fly ash particle properties."
+    },
+    {
+      "name": "DGI Dissolved Gas Infusion",
+      "type": "hardware",
+      "description": "Water and wastewater treatment system using proprietary channel injector and patented saturator to infuse gases into water; currently in demonstration phase."
+    },
+    {
+      "name": "GSG Graduated Straightening Grid",
+      "type": "hardware",
+      "description": "Proprietary flow straightening grid technology used in air pollution control systems."
+    },
+    {
+      "name": "AIG Ammonia Injection Grid",
+      "type": "hardware",
+      "description": "Grid system for precise ammonia injection in SCR and SNCR applications."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "India licensee (unnamed)",
+      "partnership_type": "licensing",
+      "description": "Fuel Tech sells APC systems in India under a license agreement with an unspecified local partner.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FTEK/profile",
+  "origin": {
+    "leaf": "9e5a350ebf25b86b634a90f4265710db34abdb37a99e46af3401a7b421dc72cb",
+    "parent": "6d5c336247fdb7b28a61ee0f31a3ff9524929410595d38564ad014b9487a0916",
+    "timestamp": "2026-04-12T03:12:57.954Z",
+    "source": "profile:0000846913",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9e5a350ebf25b86b634a90f4265710db34abdb37a99e46af3401a7b421dc72cb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.954Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

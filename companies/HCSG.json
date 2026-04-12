@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HCSG",
+  "name": "HEALTHCARE SERVICES GROUP INC",
+  "cik": "0000731012",
+  "exchange": "Nasdaq",
+  "sic": "8050",
+  "sic_description": "Services-Nursing & Personal Care Facilities",
+  "state_of_incorporation": "PA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Healthcare Services Group Inc (HCSG) provides housekeeping, laundry, linen, facility maintenance, and dietary services to the healthcare industry, primarily long-term care providers such as nursing homes and assisted living facilities. The company manages these support services on behalf of its clients, handling staffing, training, and day-to-day operations of these departments within healthcare facilities.",
+  "tags": [
+    "long-term-care-providers",
+    "healthcare-industry",
+    "nursing-homes",
+    "assisted-living-facilities"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HCSG",
+  "origin": {
+    "leaf": "2122f37e3b101e24c81b01765e711fb62d6f1436c56acc54ee660986d7168107",
+    "parent": "57c43a4929cc8de492ba54907751b4b272428b6be253e64329a7cad184fd6262",
+    "timestamp": "2026-04-12T03:12:51.021Z",
+    "source": "0000731012-26-000009",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2122f37e3b101e24c81b01765e711fb62d6f1436c56acc54ee660986d7168107",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.021Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

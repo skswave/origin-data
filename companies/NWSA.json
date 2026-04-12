@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NWSA",
+  "name": "NEWS CORP",
+  "cik": "0001564708",
+  "exchange": "Nasdaq",
+  "sic": "2711",
+  "sic_description": "Newspapers: Publishing or  Publishing & Printing",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": "PART I OVERVIEW The Company News Corporation (the Company, News Corp, we, us, or our) is a global, diversified media and information services company focused on creating and distributing authoritative and engaging content and other products and services to consumers and businesses throughout the world.The Company comprises businesses across a range of media, including information services and news, digital real estate services and book publishing, that are distributed under some of the worlds mo...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NWSA",
+  "origin": {
+    "leaf": "d05a68762418af9361074f2fffbbc89c69700950ad9575164f9eb219bd45d261",
+    "parent": "fdb8afad89f378880960a417665d7b4aa6455c6b3e4a878049e417378ab427cb",
+    "timestamp": "2026-04-12T03:12:50.453Z",
+    "source": "0001564708-25-000419",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d05a68762418af9361074f2fffbbc89c69700950ad9575164f9eb219bd45d261",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.453Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BLNK",
+  "name": "Blink Charging Co.",
+  "cik": "0001429764",
+  "summary": "Blink Charging Co. (BLNK) owns, operates, and provides electric vehicle (EV) charging equipment and services. The company sells and deploys EV charging stations, offers various business models to Property Partners, and generates revenue through charging fees, hardware sales, occupancy fees, subscription plans, advertising fees, and long-term contracts with special purpose vehicles (SPVs). Blink also develops next-generation EV charging equipment and leverages proprietary technology to serve both property owners and EV drivers.",
+  "products": [
+    {
+      "name": "EV Charging Stations",
+      "type": "hardware",
+      "description": "Next-generation electric vehicle charging equipment sold or deployed under various ownership models."
+    },
+    {
+      "name": "Blink Network Platform",
+      "type": "platform",
+      "description": "Proprietary technology platform managing EV charging stations for Property Partners and EV drivers."
+    },
+    {
+      "name": "Subscription Plans",
+      "type": "service",
+      "description": "Subscription-based access plans for Blink-owned public charging locations."
+    },
+    {
+      "name": "EV Charging Station Occupancy Fees",
+      "type": "service",
+      "description": "Fees charged to EV drivers who remain connected beyond an allotted grace period after charging is completed."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Property Partners",
+      "partnership_type": "strategic",
+      "description": "Blink offers various business models to Property Partners for deploying EV charging stations at their locations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Special Purpose Vehicles (SPVs)",
+      "partnership_type": "strategic",
+      "description": "Blink sells hardware to SPVs and operates charging stations under long-term contracts for fees.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BLNK/profile",
+  "origin": {
+    "leaf": "9122e35bfb9e6c6e657ee490eee499f3c9184f93ea448594de69c2ee4b5440a1",
+    "parent": "42be4d6dc6902fbb22c8e32109f81198929bdc7d9f161affa1c0b0e91bf358f8",
+    "timestamp": "2026-04-12T03:12:57.535Z",
+    "source": "profile:0001429764",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9122e35bfb9e6c6e657ee490eee499f3c9184f93ea448594de69c2ee4b5440a1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.535Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

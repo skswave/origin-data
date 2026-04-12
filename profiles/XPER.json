@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "XPER",
+  "name": "Xperi Inc.",
+  "cik": "0001788999",
+  "summary": "PART I Item 1. B usiness Corporate Information The principal executive offices of Xperi Inc. (we, our, the Company, or Xperi) are located at 2190 Gold Street, San Jose, California 95002 USA. Our telephone number is +1 (408) 519-9100. We maintain a corporate website at www.xperi.com. The reference to our website address does not constitute incorporation by reference of the information contained on this website. Xperi, the Xperi logo, TiVo, the TiVo logo, DTS, the DTS logo, DTS HD, DTS Audio Proce...",
+  "live_api": "https://origin.rootz.global/api/company/XPER/profile",
+  "origin": {
+    "leaf": "68eb1f96b3feea5362ed8050a431517a73b67b89aee19cc3446ecbb3e171f70f",
+    "parent": "80a2eeecd2601fda6a6865f5d9ff7eb9652540905a021ec070afce00ee1db660",
+    "timestamp": "2026-04-12T03:12:56.839Z",
+    "source": "profile:0001788999",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/68eb1f96b3feea5362ed8050a431517a73b67b89aee19cc3446ecbb3e171f70f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.839Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

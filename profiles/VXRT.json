@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VXRT",
+  "name": "Vaxart, Inc.",
+  "cik": "0000072444",
+  "summary": "Vaxart, Inc. is a clinical-stage biotechnology company focused on developing oral recombinant vaccines using its proprietary VAAST platform. The company's tablet vaccines use a non-replicating Ad5 vector to deliver antigens and adjuvants to the small intestine, targeting mucosal and systemic immunity. Pipeline candidates address norovirus, COVID-19, influenza, and HPV-related cervical cancer. No products are currently approved or marketed.",
+  "products": [
+    {
+      "name": "Bivalent Norovirus Oral Tablet Vaccine Candidate",
+      "type": "platform",
+      "description": "VP1-based oral tablet vaccine targeting norovirus GI.1 and GII.4 strains, delivered to small intestine to induce mucosal and systemic immune responses."
+    },
+    {
+      "name": "COVID-19 Oral Tablet Vaccine Candidate",
+      "type": "platform",
+      "description": "Oral recombinant vaccine candidate targeting SARS-CoV-2 using the VAAST Ad5 vector platform."
+    },
+    {
+      "name": "Influenza Oral Tablet Vaccine Candidate",
+      "type": "platform",
+      "description": "Oral tablet vaccine candidate targeting influenza using the VAAST Ad5 vector platform."
+    },
+    {
+      "name": "HPV Therapeutic Vaccine Candidate",
+      "type": "platform",
+      "description": "Preclinical therapeutic vaccine candidate targeting cervical cancer and dysplasia caused by human papillomavirus."
+    },
+    {
+      "name": "VAAST Platform",
+      "type": "platform",
+      "description": "Proprietary oral vaccine platform using non-replicating Ad5 vector with dsRNA adjuvant delivered via enteric-coated tablet to the small intestine."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VXRT/profile",
+  "origin": {
+    "leaf": "65487d16cc22bb69b40f440474e1250c5b15d3cd6febcf1b5598860f86a0030b",
+    "parent": "128ac0a79719e1d8fe30ec4f910406ca8b2cb95aefe6082bd31534d9799a5b03",
+    "timestamp": "2026-04-12T03:12:57.213Z",
+    "source": "profile:0000072444",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/65487d16cc22bb69b40f440474e1250c5b15d3cd6febcf1b5598860f86a0030b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.213Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

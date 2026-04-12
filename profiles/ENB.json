@@ -1,0 +1,78 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ENB",
+  "name": "ENBRIDGE INC",
+  "cik": "0000895728",
+  "summary": "Enbridge Inc. is a Canadian energy infrastructure company operating liquids pipelines, gas transmission, gas distribution and storage, and renewable power generation businesses. It transports crude oil, natural gas, and natural gas liquids (NGL) across North America, distributes natural gas through regulated utilities in Canada and the US, and generates renewable energy including wind and solar power.",
+  "products": [
+    {
+      "name": "Liquids Pipelines",
+      "type": "service",
+      "description": "Transportation of crude oil and NGL across North America via pipeline networks."
+    },
+    {
+      "name": "Gas Transmission",
+      "type": "service",
+      "description": "Natural gas transmission across North America including Texas Eastern, Algonquin, and other pipelines."
+    },
+    {
+      "name": "Gas Distribution and Storage",
+      "type": "service",
+      "description": "Natural gas distribution to end customers via regulated utilities including Enbridge Gas Ontario, EOG, PSNC, and Questar."
+    },
+    {
+      "name": "Renewable Power Generation",
+      "type": "service",
+      "description": "Generation of electricity from wind, solar, and renewable natural gas (RNG) sources."
+    },
+    {
+      "name": "Renewable Natural Gas (RNG)",
+      "type": "service",
+      "description": "Production of RNG from landfill gas via Tomorrow RNG facilities operated by Morrow Renewables."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "WhiteWater / I Squared Capital",
+      "partnership_type": "strategic",
+      "description": "Joint venture partner in the Whistler Parent JV formed on May 29, 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "MPLX LP",
+      "partnership_type": "strategic",
+      "description": "Joint venture partner in the Whistler Parent JV formed on May 29, 2024.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Stonlasec8 Indigenous Investments Limited Partnership",
+      "partnership_type": "strategic",
+      "description": "First Nations Partnership in Enbridge's operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "DCP Midstream, LP",
+      "partnership_type": "strategic",
+      "description": "Midstream partnership referenced in Enbridge's business operations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ENB/profile",
+  "origin": {
+    "leaf": "14e5413bce7c6dbbf77f82bd1ccaf3a2e10e43ef6aaf469919ee09dd5f4f8882",
+    "parent": "22bda0bd070aa0916127e8df4c57bce98989a93cd1768338586b6d1f5c916f54",
+    "timestamp": "2026-04-12T03:12:54.716Z",
+    "source": "profile:0000895728",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/14e5413bce7c6dbbf77f82bd1ccaf3a2e10e43ef6aaf469919ee09dd5f4f8882",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.716Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

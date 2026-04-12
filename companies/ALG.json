@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ALG",
+  "name": "ALAMO GROUP INC",
+  "cik": "0000897077",
+  "exchange": "NYSE",
+  "sic": "3523",
+  "sic_description": "Farm Machinery & Equipment",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Unless the context otherwise requires, the terms the Company,\"Alamo Group,\" we, our and us refer to Alamo Group Inc. and its subsidiaries on a consolidated basis. General The Company is a leader in the manufacture and sale of high-quality, purpose-built industrial and vegetation management equipment. We serve end-markets such as infrastructure building and maintenance, industrial construction, public works, land maintenance, agriculture and tree care. Our products are sold to independent ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 3800,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ALG",
+  "origin": {
+    "leaf": "841b49db5bd7752ba94099cb0796e950be0d2addd498578adaf8fb6316c8f79d",
+    "parent": "cedb231dbda8df4520ef534b1e5e5274a1163bab8927479b654aa01e841dab8f",
+    "timestamp": "2026-04-12T03:12:50.892Z",
+    "source": "0000897077-26-000016",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/841b49db5bd7752ba94099cb0796e950be0d2addd498578adaf8fb6316c8f79d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.892Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

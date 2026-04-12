@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "S",
+  "name": "SentinelOne, Inc.",
+  "cik": "0001583708",
+  "exchange": "NYSE",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0131",
+  "summary": "SentinelOne provides the Singularity Platform, an AI-powered autonomous cybersecurity platform for enterprises. The platform uses Static AI, Behavioral AI, and Streaming AI models to prevent, detect, and respond to cyberattacks across endpoints, cloud workloads, identity credentials, IoT devices, and unmanaged devices. It features Purple AI for generative AI-driven security operations and a Singularity Data Lake for storing and querying petabytes of security data. Revenue was $1.0 billion in fiscal 2026.",
+  "tags": [
+    "enterprise-cybersecurity",
+    "endpoint-protection",
+    "cloud-workload-security",
+    "identity-security",
+    "iot-security",
+    "managed-security-services",
+    "incident-response",
+    "windows",
+    "macos",
+    "linux",
+    "kubernetes"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/S",
+  "origin": {
+    "leaf": "21c37c465c957d01cbeeac4dccc51682effe537bb3cfd63e4f305ce6939f6124",
+    "parent": "0b2d39fd8e2ee790dadec46af391ea73a67b2f5634d3598b4766fd2614d2884c",
+    "timestamp": "2026-04-12T03:12:50.675Z",
+    "source": "0001583708-26-000020",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/21c37c465c957d01cbeeac4dccc51682effe537bb3cfd63e4f305ce6939f6124",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.675Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

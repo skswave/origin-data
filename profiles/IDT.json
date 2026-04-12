@@ -1,0 +1,105 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IDT",
+  "name": "IDT CORP",
+  "cik": "0001005731",
+  "summary": "IDT Corporation is a fintech and communications solutions provider focused on underserved consumer and B2B markets. Key offerings include NRS, a POS platform for independent retailers; BOSS Money, a cross-border remittance service; net2phone, an AI-powered UCaaS/CCaaS platform; IDT Digital Payments for prepaid digital products; BOSS Revolution for international calling; and IDT Global for wholesale voice and SMS termination services.",
+  "products": [
+    {
+      "name": "NRS POS Platform",
+      "type": "platform",
+      "description": "Integrated POS hardware and software for independent convenience, bodega, liquor, grocery, and tobacco retailers in the U.S."
+    },
+    {
+      "name": "NRS PAY",
+      "type": "service",
+      "description": "Payment processing enabling retailers to accept credit, debit, and electronic benefit transfer payments."
+    },
+    {
+      "name": "NRS Digital Media",
+      "type": "platform",
+      "description": "Nationwide network of customer-facing screens providing advertisers access to urban, multi-cultural consumer markets."
+    },
+    {
+      "name": "NRS Insights",
+      "type": "service",
+      "description": "Transaction data and analytics service for advertisers and marketers."
+    },
+    {
+      "name": "BOSS Money",
+      "type": "service",
+      "description": "Cross-border money transfer service to 50 destination countries, accessible via app and retail agents."
+    },
+    {
+      "name": "net2phone UCaaS",
+      "type": "service",
+      "description": "Unified communications as a service for businesses primarily in North and South America."
+    },
+    {
+      "name": "net2phone CCaaS",
+      "type": "service",
+      "description": "Contact center as a service offering for businesses worldwide."
+    },
+    {
+      "name": "net2phone Coach",
+      "type": "software",
+      "description": "AI-driven workforce intelligence and coaching platform for business communications."
+    },
+    {
+      "name": "net2phone AI Agent",
+      "type": "software",
+      "description": "Customizable AI-powered agent for customer experiences across sales, support, and administrative tasks."
+    },
+    {
+      "name": "BOSS Revolution",
+      "type": "service",
+      "description": "Prepaid international long-distance voice calling service via app and retail agents, targeting immigrant communities."
+    },
+    {
+      "name": "IDT Digital Payments",
+      "type": "service",
+      "description": "Prepaid digital offerings including mobile airtime top-up, data bundles, digital gift cards, and eSIMs."
+    },
+    {
+      "name": "Zendit",
+      "type": "platform",
+      "description": "B2B prepaid-as-a-service platform enabling businesses and developers to offer prepaid digital products."
+    },
+    {
+      "name": "IDT Global",
+      "type": "service",
+      "description": "Wholesale international voice and SMS termination and outsourced traffic management for telecoms worldwide."
+    },
+    {
+      "name": "IDT Express",
+      "type": "platform",
+      "description": "Self-provisioning portal for IDT Global serving small and medium businesses."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "AT&T",
+      "partnership_type": "strategic",
+      "description": "Sold a stake in net2phone subsidiary to AT&T for approximately $1.1 billion in cash in 2000; IDT later repurchased net2phone.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IDT/profile",
+  "origin": {
+    "leaf": "580c7162b365825f3a1ce92f1e9767e86e5910a0a2030e1d821c4665b85a97af",
+    "parent": "4467aea163a2861eb38111cdf535b66f2f1432c31eba37572aeb89355818843e",
+    "timestamp": "2026-04-12T03:12:55.908Z",
+    "source": "profile:0001005731",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/580c7162b365825f3a1ce92f1e9767e86e5910a0a2030e1d821c4665b85a97af",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.908Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

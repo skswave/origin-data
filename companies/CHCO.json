@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CHCO",
+  "name": "CITY HOLDING CO",
+  "cik": "0000726854",
+  "exchange": "Nasdaq",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "WV",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I City Holding Company (the \"Company\" or \"City Holding\" or the \"Parent Company\") is a financial holding company headquartered in Charleston, West Virginia. The Company conducts its principal activities through its wholly-owned subsidiary, City National Bank of West Virginia (\"City National\"). City National provides banking, wealth and investment management and other financial solutions through its network of 96 bank branches and 934 full-time equivalent associates located in West Virginia, ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CHCO",
+  "origin": {
+    "leaf": "376141e89b05484e1ab762cdcd5e63fbf9d35cb4cfa84b874ea186400585a01e",
+    "parent": "2886a720acaedd5619d94b09c9e221d4efe188e42241af3269d5251489f54b28",
+    "timestamp": "2026-04-12T03:12:50.931Z",
+    "source": "0000726854-26-000062",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/376141e89b05484e1ab762cdcd5e63fbf9d35cb4cfa84b874ea186400585a01e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.931Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

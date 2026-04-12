@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HBIO",
+  "name": "HARVARD BIOSCIENCE INC",
+  "cik": "0001123494",
+  "summary": "Harvard Bioscience Inc. (HBIO) is a life science company that develops and sells tools and instruments for researchers. The company provides hardware and related products used in scientific research applications. Based on the 10-K filing's Item 1 section provided, detailed product and service specifics are contained in the full business description not fully excerpted here.",
+  "live_api": "https://origin.rootz.global/api/company/HBIO/profile",
+  "origin": {
+    "leaf": "b149ac58b231c4d9acbbcc84f085b7b1656f49fc0349b5614fa87936a6b08c9f",
+    "parent": "814893a381b182863457fba6776271cf53b44e6f2126e16cf8b6e75a91271fca",
+    "timestamp": "2026-04-12T03:12:58.215Z",
+    "source": "profile:0001123494",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b149ac58b231c4d9acbbcc84f085b7b1656f49fc0349b5614fa87936a6b08c9f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.215Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

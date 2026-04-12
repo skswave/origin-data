@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DTM",
+  "name": "DT Midstream, Inc.",
+  "cik": "0001842022",
+  "summary": "dtm-20251231 0001842022 FY FALSE 2025 P1Y P1Y P1Y P1Y P1Y P1Y P1Y P1Y P1Y P1Y http://fasb.org/us-gaap/2025#Revenues http://fasb.org/us-gaap/2025#Revenues http://fasb.org/us-gaap/2025#Revenues P3Y iso4217:USD xbrli:shares iso4217:USD xbrli:shares dtm:segment xbrli:pure dtm:internal_grade iso4217:CAD dtm:pipeline 0001842022 2025-01-01 2025-12-31 0001842022 2025-06-30 0001842022 2026-02-17 0001842022 2024-01-01 2024-12-31 0001842022 2023-01-01 2023-12-31 0001842022 2025-12-31 0001842022 2024-12-31 ...",
+  "live_api": "https://origin.rootz.global/api/company/DTM/profile",
+  "origin": {
+    "leaf": "2ea9b955b56b5ab9a1c6d160c3e8ca1fa71b965d59d09d4cf9a098c3cef37265",
+    "parent": "6b2fc47b79063f1ff059d8f763cfd53029916089d8b666587a2773c3b739f37a",
+    "timestamp": "2026-04-12T03:12:54.969Z",
+    "source": "profile:0001842022",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2ea9b955b56b5ab9a1c6d160c3e8ca1fa71b965d59d09d4cf9a098c3cef37265",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.969Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

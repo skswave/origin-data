@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ISSC",
+  "name": "INNOVATIVE SOLUTIONS & SUPPORT INC",
+  "cik": "0000836690",
+  "summary": "Innovative Solutions and Support, Inc. (ISSC) develops and manufactures avionics products including flight panel display systems, air data systems, ThrustSense Autothrottle, NextGen Flight Deck, COCKPIT/IP, and VMC-a Mitigation systems. The company serves both commercial and government aviation markets, providing cockpit modernization and upgrade solutions. ISSC holds domestic and international certifications for its products and targets general aviation, commercial, and military aircraft operators.",
+  "products": [
+    {
+      "name": "ThrustSense Autothrottle",
+      "type": "hardware",
+      "description": "Autothrottle system for aircraft cockpit automation and modernization."
+    },
+    {
+      "name": "COCKPIT/IP",
+      "type": "platform",
+      "description": "Integrated cockpit display and flight deck modernization platform."
+    },
+    {
+      "name": "NextGen Flight Deck",
+      "type": "hardware",
+      "description": "Advanced flight deck system designed for aircraft cockpit upgrades."
+    },
+    {
+      "name": "Air Data Systems",
+      "type": "hardware",
+      "description": "Avionics air data measurement and management products for aircraft."
+    },
+    {
+      "name": "VMC-a Mitigation",
+      "type": "hardware",
+      "description": "System designed to mitigate visual meteorological conditions-related flight risks."
+    },
+    {
+      "name": "Flight Panel Display Systems",
+      "type": "hardware",
+      "description": "Electronic flight instrument display panels for cockpit modernization."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ISSC/profile",
+  "origin": {
+    "leaf": "3d08c38d7a86f109ff885afa77be02c4187b7791e87eaec8f403669a710171ec",
+    "parent": "67522ef45d02c2b1f774552e47bb74b4979e38d8d84e1b6ff3c5f923a55f8e5b",
+    "timestamp": "2026-04-12T03:12:56.581Z",
+    "source": "profile:0000836690",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3d08c38d7a86f109ff885afa77be02c4187b7791e87eaec8f403669a710171ec",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.582Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

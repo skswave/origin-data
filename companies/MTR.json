@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MTR",
+  "name": "MESA ROYALTY TRUST/TX",
+  "cik": "0000313364",
+  "exchange": "NYSE",
+  "sic": "6792",
+  "sic_description": "Oil Royalty Traders",
+  "state_of_incorporation": "TX",
+  "headquarters": "Houston, Texas",
+  "founded": "1979",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Mesa Royalty Trust is a passive Texas trust created on November 1, 1979, that owns an overriding royalty interest equal to 11.44% of 90% of Net Proceeds from oil and gas properties in the Hugoton field of Kansas and the San Juan Basin fields of New Mexico and Colorado. The Trust converts royalty income to cash and distributes it to unitholders quarterly. It has no employees and is administered by Trustee The Bank of New York Mellon Trust Company, N.A.",
+  "tags": [
+    "oil-and-gas-royalty-interests",
+    "natural-gas-production---hugoton-basin",
+    "natural-gas-production---san-juan-basin"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MTR",
+  "origin": {
+    "leaf": "b224b7f574037b120d0ea9f1e2b667a2744b0389e858a3e7315ea36782176965",
+    "parent": "9325f92502383b13c7ddd3525a711ad35cf17aeb80419baa0db711f6cada6c5c",
+    "timestamp": "2026-04-12T03:12:53.150Z",
+    "source": "0001104659-26-036896",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b224b7f574037b120d0ea9f1e2b667a2744b0389e858a3e7315ea36782176965",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.150Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

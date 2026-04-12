@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TDW",
+  "name": "TIDEWATER INC",
+  "cik": "0000098222",
+  "exchange": "NYSE",
+  "sic": "4400",
+  "sic_description": "Water Transportation",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Unless otherwise required by the context, the terms we,us,our and the company as used herein refer to Tidewater Inc. and its consolidated subsidiaries and predecessors. About Tidewater We have provided marine and transportation services to the global offshore energy industrysince our incorporation in 1956. Our mission includes providing services to our customers with the highest level of operational performance, while complying with laws and regulations, respecting the environment and loc...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TDW",
+  "origin": {
+    "leaf": "3e68d455fb3cab52d35c21fd09354cf288582614cfa486ff33bda48328357a62",
+    "parent": "8339a718a3f3c519a6049a21b92627f41160b403af9ecb97cd0255cb169a39e8",
+    "timestamp": "2026-04-12T03:12:50.688Z",
+    "source": "0001437749-26-006391",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3e68d455fb3cab52d35c21fd09354cf288582614cfa486ff33bda48328357a62",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.688Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

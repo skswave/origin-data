@@ -1,0 +1,45 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CAPS",
+  "name": "Capstone Holding Corp.",
+  "cik": "0000887151",
+  "summary": "Capstone Holding Corp. is a building products distribution company operating through its subsidiary Instone, the largest wholesale distributor of thin veneer stone and related masonry products in the United States. Founded over 30 years ago, Instone serves residential and commercial construction markets across 31 states, offering manufactured and natural stone products. The company is controlled by Brookstone Partners and pursues a growth strategy through organic expansion and strategic acquisitions.",
+  "products": [
+    {
+      "name": "Thin Veneer Stone Products",
+      "type": "hardware",
+      "description": "Manufactured and natural thin veneer stone and related masonry products distributed to residential and commercial construction markets."
+    },
+    {
+      "name": "Toro Manufactured Stone",
+      "type": "hardware",
+      "description": "A family of manufactured stone products designed to compete with high-end alternatives on aesthetics while offering better value."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Brookstone Partners",
+      "partnership_type": "strategic",
+      "description": "Private equity group controlling Capstone, providing 25 years of building products investment expertise and acquisition support.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CAPS/profile",
+  "origin": {
+    "leaf": "0624308ff9743e4db1d890c2f17b82d892bd4049c05558651b78df070bc9b651",
+    "parent": "17870bf5451f486e9859914b0acc3c54cc032a53964c35b36299aecb2f44c2c4",
+    "timestamp": "2026-04-12T03:12:58.753Z",
+    "source": "profile:0000887151",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0624308ff9743e4db1d890c2f17b82d892bd4049c05558651b78df070bc9b651",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.753Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "USB",
+  "name": "US BANCORP \\DE\\",
+  "cik": "0000036104",
+  "summary": "U.S. Bancorp is a financial services holding company headquartered in Minneapolis, Minnesota. Through its banking subsidiary U.S. Bank National Association, it offers lending, depository services, cash management, capital markets, trust and investment management, credit card services, merchant and ATM processing, mortgage banking, insurance, brokerage, and leasing. It operates 2,075 branches across 26 states and 4,428 ATMs, serving individuals, businesses, institutional organizations, and governmental entities primarily in the Midwest and West regions.",
+  "products": [
+    {
+      "name": "Commercial and Consumer Lending",
+      "type": "service",
+      "description": "Traditional credit products, lease financing, import/export trade, asset-backed lending, agricultural finance offered domestically."
+    },
+    {
+      "name": "Depository Services",
+      "type": "service",
+      "description": "Checking accounts, savings accounts, and time certificate contracts for individuals and businesses."
+    },
+    {
+      "name": "Credit Card Services",
+      "type": "service",
+      "description": "Consumer and business credit cards, stored-value cards, debit cards, and corporate/government/purchasing card services."
+    },
+    {
+      "name": "Merchant Processing",
+      "type": "service",
+      "description": "Domestic merchant processing services directly to merchants, plus similar services in Canada and segments of Europe."
+    },
+    {
+      "name": "Mortgage Banking",
+      "type": "service",
+      "description": "Mortgage origination and servicing through banking offices, loan production offices, correspondents, brokers, and other sources."
+    },
+    {
+      "name": "Trust and Asset Management",
+      "type": "service",
+      "description": "Fiduciary and asset management services for individuals, estates, foundations, corporations, and charitable organizations."
+    },
+    {
+      "name": "Capital Markets",
+      "type": "service",
+      "description": "Capital markets services provided to corporate, governmental, wealth, and institutional clients."
+    },
+    {
+      "name": "Treasury Management",
+      "type": "service",
+      "description": "Cash management, treasury management, and receivable lock-box collection for corporate and governmental customers."
+    },
+    {
+      "name": "Digital Banking",
+      "type": "platform",
+      "description": "Online and mobile app banking services enabling a significant percentage of consumer transactions digitally."
+    },
+    {
+      "name": "Fund Administration",
+      "type": "service",
+      "description": "Fund administration services provided to a broad range of mutual and other funds, including in Europe."
+    },
+    {
+      "name": "ATM Network",
+      "type": "hardware",
+      "description": "Network of 4,428 ATMs providing 24-hour banking access across the United States."
+    },
+    {
+      "name": "Skills Academy",
+      "type": "platform",
+      "description": "Internal learning platform providing role training, job family skill development, and AI Essentials Channel for employees."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "BTIG (Condor Trading LP)",
+      "partnership_type": "strategic",
+      "description": "Pending acquisition announced January 2026 for up to $1 billion; BTIG specializes in institutional trading, investment banking, research, and brokerage.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/USB/profile",
+  "origin": {
+    "leaf": "8a80b3fa705864f2c3aa328cc0b590fc3ccd9d87609774bf6d3995f22e1ccd29",
+    "parent": "6b5931c36cf5691a95b5eb21419e5423821ba14f81bfcb8b7b8ec45dd8b751fc",
+    "timestamp": "2026-04-12T03:12:54.741Z",
+    "source": "profile:0000036104",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8a80b3fa705864f2c3aa328cc0b590fc3ccd9d87609774bf6d3995f22e1ccd29",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.741Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

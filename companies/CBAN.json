@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CBAN",
+  "name": "COLONY BANKCORP INC",
+  "cik": "0000711669",
+  "exchange": "NYSE",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "GA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Colony Bankcorp, Inc. is a Georgia-based bank holding company operating through its wholly-owned subsidiary, Colony Bank, a Georgia state-chartered bank. The company provides commercial banking services including lending, deposit products, and mortgage banking services across Georgia, Alabama, Florida, and neighboring markets. Services include business banking, real estate lending, and mortgage origination.",
+  "tags": [
+    "commercial-banking",
+    "mortgage-banking",
+    "retail-banking",
+    "real-estate-lending",
+    "business-banking"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CBAN",
+  "origin": {
+    "leaf": "e2fb70c5b20f86876a942a7480b6d40cf3c8f47caa7bc52e5532d1e4dee2a2df",
+    "parent": "a29f3a1d60952b8d72a6a3c678b5b498df242965429b43afcfafadaae2638baf",
+    "timestamp": "2026-04-12T03:12:51.461Z",
+    "source": "0000711669-26-000007",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e2fb70c5b20f86876a942a7480b6d40cf3c8f47caa7bc52e5532d1e4dee2a2df",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.461Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

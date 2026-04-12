@@ -1,0 +1,162 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EGAN",
+  "name": "EGAIN Corp",
+  "cik": "0001066194",
+  "summary": "eGain Corp provides AI-powered knowledge hub SaaS solutions to enterprises, automating customer experience through three core products: eGain AI Agent, eGain AI Knowledge Hub, and eGain Conversation Hub. The company serves large enterprises and government organizations, helping them reduce contact center costs, improve agent productivity, ensure compliance, and deliver omnichannel customer service via chat, SMS, email, social media, phone, video, fax, and letter.",
+  "products": [
+    {
+      "name": "eGain AI Agent",
+      "type": "software",
+      "description": "Enterprise-grade agentic solution that assists human agents by listening to conversations and proactively guiding them through intent identification, issue resolution, and contact wrap-up."
+    },
+    {
+      "name": "eGain AI Knowledge Hub",
+      "type": "platform",
+      "description": "Centralizes knowledge, policies, procedures, and best practices, delivering guided, personalized, and trusted answers to customers, agents, and field staff."
+    },
+    {
+      "name": "eGain Conversation Hub",
+      "type": "platform",
+      "description": "Omnichannel desktop for digital-first interaction management supporting chat, SMS, email, social media, phone, video, fax, and letter."
+    },
+    {
+      "name": "Knowledge Management for Dummies",
+      "type": "service",
+      "description": "Thought leadership publication with generative AI updates, available digitally and in print, targeting knowledge management community."
+    },
+    {
+      "name": "Innovation in 30 Days Program",
+      "type": "service",
+      "description": "30-day guided pilot in eGain Cloud at no cost, allowing businesses to experience the product with their own data and processes."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Adobe",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration connector.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Apple",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration via Apple Business Chat connector.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Atlassian",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration via Jira connector.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Avaya",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration connector.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Amazon Connect",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration connector.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Cisco",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration connector.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Facebook",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration via Facebook Messenger connector.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Five9",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration connector; also an occasional competitor.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Google",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration via Google Dialogflow connector.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Genesys",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration connector; also an occasional competitor.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Talkdesk",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration connector.",
+      "start_date": null
+    },
+    {
+      "partner_name": "IBM",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration via IBM Watson connector.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Microsoft",
+      "partnership_type": "strategic",
+      "description": "Pre-built integrations with Microsoft Dynamics, SharePoint, and Teams; also an occasional competitor.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Salesforce",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration connector; also an occasional competitor.",
+      "start_date": null
+    },
+    {
+      "partner_name": "SAP",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration connector.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ServiceNow",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration connector; also an occasional competitor.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Zendesk",
+      "partnership_type": "strategic",
+      "description": "Pre-built integration connector.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Crown Commercial Services (CCS)",
+      "partnership_type": "strategic",
+      "description": "Approved supplier on CCS G-Cloud Framework in the UK market.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EGAN/profile",
+  "origin": {
+    "leaf": "ae6c095278ba5e3a864bd0845205cf22587921457cbea00cc32000a60c0f3ebc",
+    "parent": "295f5d29567194fad6af9b1f539a1324d40b7b03b86599c8be9a81cbc920a154",
+    "timestamp": "2026-04-12T03:12:56.970Z",
+    "source": "profile:0001066194",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ae6c095278ba5e3a864bd0845205cf22587921457cbea00cc32000a60c0f3ebc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.970Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

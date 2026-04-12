@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "GTE",
+  "name": "GRAN TIERRA ENERGY INC.",
+  "cik": "0001273441",
+  "exchange": "NYSE",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "gte-20251231 0001273441 2025 FY FALSE http://grantierra.com/20251231#OilSalesMember 0.1 http://fasb.org/us-gaap/2025#LongTermDebt http://fasb.org/us-gaap/2025#LongTermDebt http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent P1Y P1Y P1Y 0.1 0.3333 0.3333 0.3333 0.05 iso4217:USD xbrli:shares iso4217:USD xbrli:shares xbrli:pure gte:segment gte:lease utr:Boe iso4217:CAD gte:instrument utr:bbl iso4217:USD ut...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/GTE",
+  "origin": {
+    "leaf": "b68abf67ffdcb8787cc0b71875d18b76edf72ab359925d7611ecc9d8a057d70f",
+    "parent": "186dac9c1466ffaf50cce7a3bca9f45c1d0dce46f11f9c92b064103576aea057",
+    "timestamp": "2026-04-12T03:12:51.654Z",
+    "source": "0001273441-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b68abf67ffdcb8787cc0b71875d18b76edf72ab359925d7611ecc9d8a057d70f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.654Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LODE",
+  "name": "Comstock Inc.",
+  "cik": "0001120970",
+  "summary": "Comstock Inc. (LODE) is a diversified natural resources company operating through three segments: Comstock Fuels (renewable fuels from biomass), Comstock Metals (solar panel recycling), and Comstock Mining (silver and gold mining in Nevada). The company develops proprietary technologies to convert biomass into renewable fuels, recycle photovoltaic solar panels for critical materials recovery, and explore mineral resources in the Comstock Lode district of Nevada.",
+  "products": [
+    {
+      "name": "Bioleum renewable fuels",
+      "type": "hardware",
+      "description": "Biomass-to-renewable-fuel conversion technology producing low carbon intensity fuels from organic biomass feedstocks."
+    },
+    {
+      "name": "Solar panel recycling",
+      "type": "service",
+      "description": "Recycling of end-of-life photovoltaic solar panels to recover critical materials and metals."
+    },
+    {
+      "name": "Silver and gold mining",
+      "type": "service",
+      "description": "Exploration and development of silver and gold mineral resources in the Comstock Lode district of Nevada."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LODE/profile",
+  "origin": {
+    "leaf": "bd788dbee0dbdd0ee16cd629954625403d9e03654260b444e74111446c8fa596",
+    "parent": "824bba3f9a513b6b3a762c0a4b9ef8844d5acd1dcb2301b95bbf74526fac1a47",
+    "timestamp": "2026-04-12T03:12:56.943Z",
+    "source": "profile:0001120970",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bd788dbee0dbdd0ee16cd629954625403d9e03654260b444e74111446c8fa596",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.943Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

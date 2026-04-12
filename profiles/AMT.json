@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AMT",
+  "name": "AMERICAN TOWER CORP /MA/",
+  "cik": "0001053507",
+  "summary": "American Tower Corporation is one of the largest global REITs and a leading independent owner, operator, and developer of multitenant communications real estate. The company leases space on communications sites—including towers, DAS networks, and data centers—to wireless service providers, broadcast companies, government agencies, and enterprises. As of December 31, 2025, its portfolio included 149,686 communications sites across the U.S., Canada, Africa, APAC, Europe, and Latin America, plus 30 data center facilities in the United States.",
+  "products": [
+    {
+      "name": "Tower Leasing",
+      "type": "service",
+      "description": "Leasing of space on owned or operated communications towers to wireless carriers and other tenants."
+    },
+    {
+      "name": "DAS Networks",
+      "type": "platform",
+      "description": "Distributed antenna system networks providing seamless in-building and outdoor wireless coverage solutions."
+    },
+    {
+      "name": "Data Center Facilities",
+      "type": "service",
+      "description": "30 operating data center facilities across eleven U.S. markets leased to enterprises, network operators, and cloud providers."
+    },
+    {
+      "name": "Tower-Related Services",
+      "type": "service",
+      "description": "Site application, zoning, permitting, structural analyses, construction management, and program management for customer deployments in the U.S."
+    },
+    {
+      "name": "Managed Networks",
+      "type": "service",
+      "description": "Management of rooftop and tower sites for property owners under various contractual arrangements."
+    },
+    {
+      "name": "Fiber and Property Interests",
+      "type": "service",
+      "description": "Leasing of fiber and other telecommunications infrastructure primarily to communications service providers and third-party tower operators."
+    },
+    {
+      "name": "Backup Power Solutions",
+      "type": "service",
+      "description": "Provision of backup power through shared generators and power solutions in select markets."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AMT/profile",
+  "origin": {
+    "leaf": "9c7cbbb3699801e199ac6533e80d0997b1f5655ed3ab0b1fd38d24175a7bf7c9",
+    "parent": "b6a7872919dcb7c513c341468bfa079c6deea4bde474ad4ecb6e9634ecf8066f",
+    "timestamp": "2026-04-12T03:12:54.741Z",
+    "source": "profile:0001053507",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9c7cbbb3699801e199ac6533e80d0997b1f5655ed3ab0b1fd38d24175a7bf7c9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.741Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

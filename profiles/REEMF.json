@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "REEMF",
+  "name": "RARE ELEMENT RESOURCES LTD",
+  "cik": "0001419806",
+  "summary": "Rare Element Resources Ltd. is focused on advancing the Bear Lodge rare earth elements (REE) project in Wyoming, which includes a mineral deposit and a planned commercial processing and separation plant. The company is operating a demonstration-scale REE processing and separation plant funded in part by the U.S. Department of Energy. It also holds a 100% interest in the Sundance Gold Project, currently on hold since 2011.",
+  "products": [
+    {
+      "name": "Bear Lodge REE Project",
+      "type": "service",
+      "description": "Rare earth elements mining, processing and separation project located near Sundance, Wyoming, including a planned commercial-scale plant."
+    },
+    {
+      "name": "Demonstration Plant",
+      "type": "hardware",
+      "description": "Demonstration-scale rare earth elements processing and separation plant used to validate proprietary technology for potential commercial-scale production."
+    },
+    {
+      "name": "Sundance Gold Project",
+      "type": "service",
+      "description": "Gold mineralization project adjacent to Bear Lodge REE Project, on hold since 2011, containing historical inferred mineral resource across three gold targets."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "General Atomics / Synchron",
+      "partnership_type": "strategic",
+      "description": "Synchron, an affiliate of General Atomics, is the Company's majority shareholder; General Atomics serves as prime contractor under the DoE Cost Share Agreement for the Demonstration Plant.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Department of Energy (DoE)",
+      "partnership_type": "development",
+      "description": "Funding partner providing financial support for the Demonstration Plant project through a Cost Share Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Wyoming Energy Authority (WEA)",
+      "partnership_type": "strategic",
+      "description": "Provided a grant for the Demonstration Plant project; remaining uncollected funds referenced in the filing.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/REEMF/profile",
+  "origin": {
+    "leaf": "b1a36c06aa6bd611b60feb7c6f42962b1595bba3587fbecca262c85b70b147ff",
+    "parent": "df1b079e828e0f03f28646dc2dab671e83d8362f74a1a9689ea920fba10f1fde",
+    "timestamp": "2026-04-12T03:12:56.369Z",
+    "source": "profile:0001419806",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b1a36c06aa6bd611b60feb7c6f42962b1595bba3587fbecca262c85b70b147ff",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.369Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

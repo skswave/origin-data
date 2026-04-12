@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TENX",
+  "name": "TENAX THERAPEUTICS, INC.",
+  "cik": "0000034956",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1967",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Tenax Therapeutics is a Phase 3, development-stage pharmaceutical company focused on developing novel cardiopulmonary therapies. Its prioritized product candidate is oral levosimendan (TNX-103), currently in two Phase 3 clinical trials (LEVEL and LEVEL-2) for pulmonary hypertension in heart failure with preserved ejection fraction (PH-HFpEF). The company has also deprioritized a Phase 3 trial of imatinib for pulmonary hypertension. Both drugs are already approved in other indications worldwide. Tenax has no approved products currently on the market.",
+  "tags": [
+    "pulmonary-hypertension",
+    "heart-failure-with-preserved-ejection-fraction-(hfpef)",
+    "cardiopulmonary-therapeutics",
+    "pharmaceutical-drug-development"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TENX",
+  "origin": {
+    "leaf": "a91af0ed2f088104858ff5f44e59b9f63813ab6acac30b4560afcb71bc98a02e",
+    "parent": "97c6eb5efd4709bfce063af17bcf0e09f96fe7efbd0293e0741e4a2cca6be379",
+    "timestamp": "2026-04-12T03:12:51.751Z",
+    "source": "0001193125-26-099393",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a91af0ed2f088104858ff5f44e59b9f63813ab6acac30b4560afcb71bc98a02e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.751Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

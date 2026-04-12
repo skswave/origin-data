@@ -1,0 +1,92 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RAIL",
+  "name": "FreightCar America, Inc.",
+  "cik": "0001320854",
+  "summary": "FreightCar America, Inc. is a diversified manufacturer and supplier of railcars and railcar components, designing and manufacturing box cars, covered hoppers, open top hoppers, gondolas, intermodal and flat cars for bulk commodities and containerized freight in North America. The company also provides railcar rebody, repair, and conversion services, and supplies railcar parts. Founded in 1901, it operates a manufacturing facility in Castaños, Coahuila, Mexico, serving financial institutions, shippers, and railroads.",
+  "products": [
+    {
+      "name": "VersaFlood Hopper Cars",
+      "type": "hardware",
+      "description": "Open-top hopper railcars in steel, stainless steel, or hybrid designs for aggregates, sand, or minerals with manual or automatic door systems."
+    },
+    {
+      "name": "Covered Hopper Cars",
+      "type": "hardware",
+      "description": "Range of covered hopper railcars from 3,282 to 6,500 cubic feet for dry bulk commodities including cement, grain, potash, and plastic pellets."
+    },
+    {
+      "name": "DynaStack Series",
+      "type": "hardware",
+      "description": "Articulated 3-unit, 53-foot well cars for intermodal doublestack transportation of international and domestic containers."
+    },
+    {
+      "name": "Steel Products Cars",
+      "type": "hardware",
+      "description": "Mill gondola and slab/coil steel railcars for transporting steel products and scrap."
+    },
+    {
+      "name": "Boxcars",
+      "type": "hardware",
+      "description": "High-capacity boxcars with 50-foot and 60-foot inside lengths for paper, lumber, wood products, and foodstuffs."
+    },
+    {
+      "name": "BethGon II Aluminum Coal Cars",
+      "type": "hardware",
+      "description": "Patented aluminum-bodied open-top coal gondola railcar with lighter weight, higher capacity, and increased durability for long-haul coal service."
+    },
+    {
+      "name": "AutoFlood III",
+      "type": "hardware",
+      "description": "Five-pocket aluminum open-top hopper coal car with patented MegaFlo automatic rapid discharge door system and optional rotary couplers."
+    },
+    {
+      "name": "Stainless Steel and Hybrid Coal Cars",
+      "type": "hardware",
+      "description": "Stainless steel and hybrid stainless steel/aluminum AutoFlood and BethGon coal cars designed for Eastern railroad coal transportation service."
+    },
+    {
+      "name": "Non-Intermodal and Bulkhead Flat Cars",
+      "type": "hardware",
+      "description": "Flat railcars ranging 64 to 89 feet for machinery, steel, pipe, wood, and bulk industrial products."
+    },
+    {
+      "name": "AVC Aluminum Vehicle Carrier",
+      "type": "hardware",
+      "description": "Railcar designed to transport commercial and light vehicles from assembly plants and ports to rail distribution centers."
+    },
+    {
+      "name": "Railcar Conversions",
+      "type": "service",
+      "description": "Rebuilding and repurposing freight car assets with over 20 conversion options; completed over 15,000 converted and rebodied railcars in the last decade."
+    },
+    {
+      "name": "Railcar Parts",
+      "type": "hardware",
+      "description": "Forged, cast, and fabricated aftermarket parts for railcars manufactured by FreightCar America and other manufacturers."
+    },
+    {
+      "name": "TruTrack Quality Process",
+      "type": "platform",
+      "description": "Digital system that tracks inspections and build progress throughout production, providing real-time visibility and a complete manufacturing record for each railcar."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RAIL/profile",
+  "origin": {
+    "leaf": "4e5b7e1b5e269d0069b4103e1e75646a8fb4183c5cf1bc00a1a95842aae14091",
+    "parent": "161e5229f909e2c9bca180b22632ed6fc630afc88bb6994e3e95e6e8a47a87d1",
+    "timestamp": "2026-04-12T03:12:57.184Z",
+    "source": "profile:0001320854",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4e5b7e1b5e269d0069b4103e1e75646a8fb4183c5cf1bc00a1a95842aae14091",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.184Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

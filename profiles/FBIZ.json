@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FBIZ",
+  "name": "FIRST BUSINESS FINANCIAL SERVICES, INC.",
+  "cik": "0001521951",
+  "summary": "First Business Financial Services, Inc. (FBIZ) is a Wisconsin-based bank holding company operating through First Business Bank (FBB). It serves small- and medium-sized businesses, professionals, and high-net-worth individuals with commercial real estate lending, commercial and industrial lending, asset-based lending, accounts receivable financing, equipment financing, floorplan financing, SBA lending, treasury management, company retirement plan services, private wealth management, and bank consulting services. As of December 31, 2025, it had $4.082 billion in total assets.",
+  "products": [
+    {
+      "name": "Commercial Real Estate Lending",
+      "type": "service",
+      "description": "Loans secured by owner-occupied, non-owner-occupied, multifamily, and construction properties; 61.0% of total gross loans."
+    },
+    {
+      "name": "Commercial and Industrial Lending",
+      "type": "service",
+      "description": "Loans secured by business assets including inventory, receivables, and equipment; 37.7% of total gross loans."
+    },
+    {
+      "name": "Asset-Based Lending",
+      "type": "service",
+      "description": "Revolving lines of credit and term loans for small- to medium-sized companies nationwide; typically $2M–$25M, 24–60 month terms."
+    },
+    {
+      "name": "Accounts Receivable Financing",
+      "type": "service",
+      "description": "Nationwide purchase of accounts receivable on full and limited non-recourse basis; $100K–$20M, 12–24 month terms."
+    },
+    {
+      "name": "Equipment Financing",
+      "type": "service",
+      "description": "Loans and leases for commercial equipment nationwide; $10K–$1M, 12–84 month terms; includes vendor and third-party channels."
+    },
+    {
+      "name": "Floorplan Financing",
+      "type": "service",
+      "description": "Financing for independent car dealerships nationwide; $1M–$20M programs with 12-month typical terms."
+    },
+    {
+      "name": "SBA Lending and Servicing",
+      "type": "service",
+      "description": "7(a), 504, and Express SBA loans as an approved Preferred Lender Program participant; $200K–$5M, 10–25 year terms."
+    },
+    {
+      "name": "Treasury Management Services",
+      "type": "service",
+      "description": "Deposit accounts, receivables collection, electronic payments, fraud protection, international payments, and foreign exchange for business clients."
+    },
+    {
+      "name": "Company Retirement Plan Services",
+      "type": "service",
+      "description": "Fiduciary and investment management for corporate retirement plans; $482.5M assets under management and administration as of December 31, 2025."
+    },
+    {
+      "name": "Private Wealth Management",
+      "type": "service",
+      "description": "Trust and estate administration, financial planning, investment management, and private banking; $3.332B assets under management and administration."
+    },
+    {
+      "name": "Bank Consulting Services",
+      "type": "service",
+      "description": "Outsourced treasury, investment portfolio, and asset liability management services for banks and financial institutions."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FBIZ/profile",
+  "origin": {
+    "leaf": "66e58ce89be51f0161c7ff271fea1569375da923c10dbf156e89501679c2c592",
+    "parent": "76baf021c2e9d481b09d7ee22c6e33be150528e64d02b9d22f7f1aa20313d0d9",
+    "timestamp": "2026-04-12T03:12:56.444Z",
+    "source": "profile:0001521951",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/66e58ce89be51f0161c7ff271fea1569375da923c10dbf156e89501679c2c592",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.445Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

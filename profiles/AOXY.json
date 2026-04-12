@@ -1,0 +1,45 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AOXY",
+  "name": "ADVANCED OXYGEN TECHNOLOGIES INC",
+  "cik": "0000352991",
+  "summary": "Advanced Oxygen Technologies, Inc. (AOXY) is a Delaware holding company with operations through two wholly owned subsidiaries: Anton Nielsen Vojens ApS (ANV), a Danish company that owns and leases commercial real estate in Vojens, Denmark to Circle K Denmark A/S (lease expires 2026), and Sharx Inc./Sharx DK ApS, which distributes Cleaver ApS products for the logistics and cargo industry across Europe, South America, and North America.",
+  "products": [
+    {
+      "name": "Commercial Real Estate Lease",
+      "type": "service",
+      "description": "ANV leases a commercial real estate facility in Vojens, Denmark to Circle K Denmark A/S under a lease expiring 2026."
+    },
+    {
+      "name": "Cleaver ApS Logistics Products",
+      "type": "hardware",
+      "description": "Sharx DK ApS distributes Cleaver ApS products designed for the logistics and cargo industry in Europe, South America, and North America."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Cleaver ApS",
+      "partnership_type": "OEM",
+      "description": "Non-exclusive distribution agreement for Cleaver ApS logistics and cargo products across Europe, South America, and North America, signed June 30, 2020.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AOXY/profile",
+  "origin": {
+    "leaf": "8ea6c4f7bfbd71d711498a948ef92be586585f45db9d25da308ec449a577121a",
+    "parent": "8fd993b1886ef5387a2668aca31ade8e0e838fb930e9a20cfc9cc0a04ca019f7",
+    "timestamp": "2026-04-12T03:12:59.260Z",
+    "source": "profile:0000352991",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8ea6c4f7bfbd71d711498a948ef92be586585f45db9d25da308ec449a577121a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.260Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BLGO",
+  "name": "BIOLARGO, INC.",
+  "cik": "0000880242",
+  "summary": "BioLargo, Inc. is a cleantech company that invents, develops, and commercializes technologies addressing air quality, water treatment, battery energy storage, and antimicrobial medical devices. Key products include CupriDyne Clean industrial odor eliminator, the Aqueous Electrostatic Concentrator (AEC) for PFAS remediation, AROS water reuse technology, the Cellinity battery energy storage system, and medical/dental antimicrobial platforms through subsidiary Clyra Medical Technologies. The company operates through multiple wholly- and partially-owned subsidiaries and also provides professional engineering services.",
+  "products": [
+    {
+      "name": "CupriDyne Clean",
+      "type": "hardware",
+      "description": "Industrial odor and VOC control product applied via misting systems at landfills, composting, and wastewater facilities."
+    },
+    {
+      "name": "Aqueous Electrostatic Concentrator (AEC)",
+      "type": "hardware",
+      "description": "Water treatment system designed to remove per- and polyfluoroalkyl substances (PFAS) from water."
+    },
+    {
+      "name": "AROS",
+      "type": "hardware",
+      "description": "Water reuse and recycling technology for industrial cooling tower water, co-developed with Garratt-Callahan."
+    },
+    {
+      "name": "Cellinity",
+      "type": "hardware",
+      "description": "Proprietary battery energy storage system designed for grid-scale and industrial energy storage applications."
+    },
+    {
+      "name": "Consumer Pet and Household Odor Products",
+      "type": "hardware",
+      "description": "Private-label odor-control products based on BioLargo technology sold by third parties under their own brand names."
+    },
+    {
+      "name": "Professional Engineering Services",
+      "type": "service",
+      "description": "Fee-for-service engineering support provided to external clients and internal business units through subsidiary BLEST."
+    },
+    {
+      "name": "Clyra Medical Antimicrobial Platform",
+      "type": "platform",
+      "description": "Medical and dental antimicrobial device platform commercialized by partially-owned subsidiary Clyra Medical Technologies, Inc."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Garratt-Callahan",
+      "partnership_type": "development",
+      "description": "Co-developed the AROS water reuse and recycling technology for industrial cooling tower applications.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Pooph Inc.",
+      "partnership_type": "licensing",
+      "description": "Exclusive license for BioLargo pet odor technology; Pooph defaulted on payments and license was revoked, resulting in litigation.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BLGO/profile",
+  "origin": {
+    "leaf": "85a03792ace2f69bfe089323637ab7752a3406530997d4f8900580cc1191df2d",
+    "parent": "28b9357117b194da9e0d0d498b051e345b71d9ffd0a3ddcc8e4897b3d0a065b5",
+    "timestamp": "2026-04-12T03:12:57.788Z",
+    "source": "profile:0000880242",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/85a03792ace2f69bfe089323637ab7752a3406530997d4f8900580cc1191df2d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.788Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

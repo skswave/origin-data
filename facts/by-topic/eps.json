@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "eps",
   "label": "Eps",
-  "companies": 50,
-  "total_mentions": 1036,
+  "companies": 95,
+  "total_mentions": 1603,
   "results": [
     {
       "ticker": "JPM",
@@ -65,6 +65,18 @@
       "quarters": []
     },
     {
+      "ticker": "MCO",
+      "company": "MOODYS CORP /DE/",
+      "mentions": 88,
+      "quarters": []
+    },
+    {
+      "ticker": "MA",
+      "company": "Mastercard Inc",
+      "mentions": 86,
+      "quarters": []
+    },
+    {
       "ticker": "LRCX",
       "company": "LAM RESEARCH CORP",
       "mentions": 58,
@@ -101,6 +113,18 @@
       ]
     },
     {
+      "ticker": "CSCO",
+      "company": "CISCO SYSTEMS, INC.",
+      "mentions": 48,
+      "quarters": []
+    },
+    {
+      "ticker": "SPGI",
+      "company": "S&P Global Inc.",
+      "mentions": 41,
+      "quarters": []
+    },
+    {
       "ticker": "ADBE",
       "company": "ADOBE INC.",
       "mentions": 38,
@@ -111,10 +135,54 @@
       ]
     },
     {
+      "ticker": "PSTG",
+      "company": "Everpure, Inc.",
+      "mentions": 33,
+      "quarters": []
+    },
+    {
       "ticker": "BAC",
       "company": "BANK OF AMERICA CORP /DE/",
       "mentions": 31,
       "quarters": []
+    },
+    {
+      "ticker": "V",
+      "company": "VISA INC.",
+      "mentions": 26,
+      "quarters": [
+        "Q1_FY2026",
+        "Q3_FY2025",
+        "Q4_FY2025",
+        "Q1_FY2022",
+        "Q1_FY2024",
+        "Q1_FY2025",
+        "Q2_FY2022",
+        "Q2_FY2023",
+        "Q2_FY2024",
+        "Q2_FY2025",
+        "Q3_FY2022",
+        "Q3_FY2023",
+        "Q3_FY2024",
+        "Q4_FY2022",
+        "Q4_FY2023",
+        "Q4_FY2024",
+        "Q1_FY2018",
+        "Q2_FY2018",
+        "Q3_FY2018",
+        "Q3_FY2020",
+        "Q4_FY2020"
+      ]
+    },
+    {
+      "ticker": "SO",
+      "company": "SOUTHERN CO",
+      "mentions": 22,
+      "quarters": [
+        "Q1_FY2025",
+        "Q3_FY2025",
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "LOW",
@@ -128,10 +196,48 @@
       ]
     },
     {
+      "ticker": "HPQ",
+      "company": "HP INC",
+      "mentions": 17,
+      "quarters": [
+        "Q1_FY2026"
+      ]
+    },
+    {
       "ticker": "NVDA",
       "company": "NVIDIA CORP",
       "mentions": 17,
       "quarters": []
+    },
+    {
+      "ticker": "SMCI",
+      "company": "Super Micro Computer, Inc.",
+      "mentions": 16,
+      "quarters": []
+    },
+    {
+      "ticker": "DAL",
+      "company": "DELTA AIR LINES, INC.",
+      "mentions": 15,
+      "quarters": [
+        "Q1_FY2026",
+        "Q4_FY2025",
+        "Q3_FY2022",
+        "Q4_FY2023",
+        "Q1_FY2023",
+        "Q2_FY2025",
+        "Q4_FY2024",
+        "Q2_FY2022"
+      ]
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise Co",
+      "mentions": 15,
+      "quarters": [
+        "Q1_FY2026",
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "KLAC",
@@ -186,6 +292,15 @@
       ]
     },
     {
+      "ticker": "USB",
+      "company": "US BANCORP \\DE\\",
+      "mentions": 12,
+      "quarters": [
+        "Q1_FY2024",
+        "Q4_FY2023"
+      ]
+    },
+    {
       "ticker": "GILD",
       "company": "GILEAD SCIENCES, INC.",
       "mentions": 11,
@@ -196,6 +311,14 @@
     {
       "ticker": "MMM",
       "company": "3M CO",
+      "mentions": 11,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "MSI",
+      "company": "Motorola Solutions, Inc.",
       "mentions": 11,
       "quarters": [
         "Q4_FY2025"
@@ -233,6 +356,31 @@
       "quarters": []
     },
     {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies Inc.",
+      "mentions": 10,
+      "quarters": [
+        "Q1_FY2025",
+        "Q3_FY2025",
+        "Q4_FY2025",
+        "Q2_FY2025"
+      ]
+    },
+    {
+      "ticker": "ILMN",
+      "company": "ILLUMINA, INC.",
+      "mentions": 9,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "KEY",
+      "company": "KEYCORP /NEW/",
+      "mentions": 9,
+      "quarters": []
+    },
+    {
       "ticker": "KO",
       "company": "COCA COLA CO",
       "mentions": 9,
@@ -247,6 +395,12 @@
         "Q1_FY2024",
         "Q3_FY2023"
       ]
+    },
+    {
+      "ticker": "ONTO",
+      "company": "ONTO INNOVATION INC.",
+      "mentions": 9,
+      "quarters": []
     },
     {
       "ticker": "TGT",
@@ -266,6 +420,12 @@
       ]
     },
     {
+      "ticker": "AEP",
+      "company": "AMERICAN ELECTRIC POWER CO INC",
+      "mentions": 7,
+      "quarters": []
+    },
+    {
       "ticker": "BMY",
       "company": "BRISTOL MYERS SQUIBB CO",
       "mentions": 7,
@@ -280,6 +440,25 @@
       "quarters": []
     },
     {
+      "ticker": "EXPE",
+      "company": "Expedia Group, Inc.",
+      "mentions": 7,
+      "quarters": [
+        "Q1_FY2025",
+        "Q3_FY2025",
+        "Q4_FY2025",
+        "Q2_FY2025"
+      ]
+    },
+    {
+      "ticker": "ITW",
+      "company": "ILLINOIS TOOL WORKS INC",
+      "mentions": 7,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "KR",
       "company": "KROGER CO",
       "mentions": 7,
@@ -288,9 +467,23 @@
       ]
     },
     {
+      "ticker": "LHX",
+      "company": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+      "mentions": 7,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "MRK",
       "company": "Merck & Co., Inc.",
       "mentions": 7,
+      "quarters": []
+    },
+    {
+      "ticker": "BMBN",
+      "company": "BENCHMARK BANKSHARES INC",
+      "mentions": 6,
       "quarters": []
     },
     {
@@ -314,12 +507,62 @@
       "quarters": []
     },
     {
+      "ticker": "AXP",
+      "company": "AMERICAN EXPRESS CO",
+      "mentions": 5,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "GPN",
+      "company": "GLOBAL PAYMENTS INC",
+      "mentions": 5,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "ICE",
+      "company": "Intercontinental Exchange, Inc.",
+      "mentions": 5,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
       "ticker": "NKE",
       "company": "NIKE, Inc.",
       "mentions": 5,
       "quarters": [
         "Q1_FY2026"
       ]
+    },
+    {
+      "ticker": "NTAP",
+      "company": "NetApp, Inc.",
+      "mentions": 5,
+      "quarters": []
+    },
+    {
+      "ticker": "XEL",
+      "company": "XCEL ENERGY INC",
+      "mentions": 5,
+      "quarters": []
+    },
+    {
+      "ticker": "DUK",
+      "company": "Duke Energy CORP",
+      "mentions": 4,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "FDX",
+      "company": "FEDEX CORP",
+      "mentions": 4,
+      "quarters": []
     },
     {
       "ticker": "GOOGL",
@@ -349,6 +592,30 @@
       "quarters": []
     },
     {
+      "ticker": "A",
+      "company": "AGILENT TECHNOLOGIES, INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ACLS",
+      "company": "AXCELIS TECHNOLOGIES INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CLAR",
+      "company": "Clarus Corp",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "EFX",
+      "company": "EQUIFAX INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "F",
       "company": "FORD MOTOR CO",
       "mentions": 3,
@@ -357,6 +624,26 @@
         "Q2_FY2019",
         "Q1_FY2019"
       ]
+    },
+    {
+      "ticker": "KEYS",
+      "company": "Keysight Technologies, Inc.",
+      "mentions": 3,
+      "quarters": [
+        "Q1_FY2026"
+      ]
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum Holdings Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TER",
+      "company": "TERADYNE, INC",
+      "mentions": 3,
+      "quarters": []
     },
     {
       "ticker": "UBER",
@@ -368,6 +655,12 @@
       "ticker": "ZTS",
       "company": "Zoetis Inc.",
       "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "BLK",
+      "company": "BlackRock, Inc.",
+      "mentions": 2,
       "quarters": []
     },
     {
@@ -383,8 +676,20 @@
       "quarters": []
     },
     {
+      "ticker": "NI",
+      "company": "NISOURCE INC.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "ORCL",
       "company": "ORACLE CORP",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "VIAV",
+      "company": "VIAVI SOLUTIONS INC.",
       "mentions": 2,
       "quarters": []
     },
@@ -413,8 +718,20 @@
       "quarters": []
     },
     {
+      "ticker": "CMS",
+      "company": "CMS ENERGY CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "COST",
       "company": "COSTCO WHOLESALE CORP /NEW",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CSX",
+      "company": "CSX CORP",
       "mentions": 1,
       "quarters": []
     },
@@ -431,6 +748,34 @@
       "quarters": []
     },
     {
+      "ticker": "PNC",
+      "company": "PNC FINANCIAL SERVICES GROUP, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "RVTY",
+      "company": "REVVITY, INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "STX",
+      "company": "Seagate Technology Holdings plc",
+      "mentions": 1,
+      "quarters": [
+        "Q2_FY2026"
+      ]
+    },
+    {
+      "ticker": "SYF",
+      "company": "Synchrony Financial",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "TMO",
       "company": "THERMO FISHER SCIENTIFIC INC.",
       "mentions": 1,
@@ -439,17 +784,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=eps",
   "origin": {
-    "leaf": "0cedab0434365f64699cca33ae366c9b2785607bcc8f2760b70f4072aa2a0235",
+    "leaf": "845b011e2906299997278fe97d17c37af43711f3be0bd0c150cab5b9f600d0f3",
     "parent": "0d3c1b5a0a5c6556cfa92ec0bf6e75068606e4b0efac5347f8aebd38be6c7c5b",
-    "timestamp": "2026-04-12T02:43:09.133Z",
+    "timestamp": "2026-04-12T03:13:01.511Z",
     "source": "topic:eps",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/0cedab0434365f64699cca33ae366c9b2785607bcc8f2760b70f4072aa2a0235",
+    "verify": "https://origin.rootz.global/api/verify/845b011e2906299997278fe97d17c37af43711f3be0bd0c150cab5b9f600d0f3",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.133Z",
+    "exported_at": "2026-04-12T03:13:01.512Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -1,0 +1,46 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UNG",
+  "name": "United States Natural Gas Fund, LP",
+  "cik": "0001376227",
+  "summary": "United States Natural Gas Fund, LP (UNG) is a Delaware limited partnership and commodity pool that issues shares traded on NYSE Arca. Its investment objective is for daily changes in per share NAV to reflect daily changes in natural gas prices at Henry Hub, as measured by the Benchmark Futures Contract (near month NYMEX natural gas futures). UNG invests primarily in natural gas futures contracts on NYMEX, ICE Futures Europe, and ICE Futures U.S., with collateral held in short-term U.S. Treasuries, cash, and cash equivalents.",
+  "products": [
+    {
+      "name": "UNG Shares",
+      "type": "platform",
+      "description": "Limited partnership interests traded on NYSE Arca providing exposure to natural gas prices via NYMEX near month futures contracts."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "ALPS Distributors, Inc.",
+      "partnership_type": "strategic",
+      "description": "Serves as the marketing agent for UNG; fees paid by USCF.",
+      "start_date": null
+    },
+    {
+      "partner_name": "The Bank of New York Mellon",
+      "partnership_type": "strategic",
+      "description": "Serves as administrator, custodian, and provides accounting and transfer agent services for UNG since April 1, 2020.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UNG/profile",
+  "origin": {
+    "leaf": "7ee5e8e84866b3ed34cf3d40145a4d115f47a7745dff18f0fc4bccb991fd6092",
+    "parent": "ef52e80c686e408ebc9cf6ae5d09f29642cc6e04fb9738ab4e292b9565f1ad38",
+    "timestamp": "2026-04-12T03:12:57.223Z",
+    "source": "profile:0001376227",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7ee5e8e84866b3ed34cf3d40145a4d115f47a7745dff18f0fc4bccb991fd6092",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.223Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

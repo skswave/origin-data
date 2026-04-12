@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "OILCF",
+  "name": "Permex Petroleum Corp",
+  "cik": "0001922639",
+  "summary": "PART I Overview We are an independent energy company engaged in the acquisition, exploration, development and production of oil and natural gas properties on private, state and federal land in the United States, primarily within the Permian Basin region of West Texas and Southeast New Mexico which includes the Midland and Delaware Basins as well as the Central Basin Platform. We focus on acquiring producing assets at a discount to market, increasing production and cash-flow through recompletion ...",
+  "live_api": "https://origin.rootz.global/api/company/OILCF/profile",
+  "origin": {
+    "leaf": "0b64ab915401eca0f32cd59790421542b45fdc506b444a8c857eff0c9ba72d15",
+    "parent": "6d81470069b0c2edb3464727b4f49b88abf650ac0948e421859a9e2ed71092d5",
+    "timestamp": "2026-04-12T03:12:59.062Z",
+    "source": "profile:0001922639",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0b64ab915401eca0f32cd59790421542b45fdc506b444a8c857eff0c9ba72d15",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.062Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

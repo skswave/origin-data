@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "NEGG",
+  "total_facts": 1,
+  "by_type": {
+    "topic_mention": 1
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "NEGG",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NEGG/transcripts",
+  "origin": {
+    "leaf": "15225f47289cca5e7f4b4a30dd2fcf6ff7aede864fe40c5d0e38367b6e07c91f",
+    "parent": "bd7dc432216b90ed5884ae141fc5480ec63ea82dfe207b8479967a2ffdc78071",
+    "timestamp": "2026-04-12T03:14:05.059Z",
+    "source": "facts:NEGG",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/15225f47289cca5e7f4b4a30dd2fcf6ff7aede864fe40c5d0e38367b6e07c91f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:14:05.059Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

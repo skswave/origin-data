@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "DYNR",
+  "name": "DYNARESOURCE, INC.",
+  "cik": "0001111741",
+  "exchange": "OTC",
+  "sic": "1000",
+  "sic_description": "Metal Mining",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1937",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "DynaResource, Inc. is a Delaware-incorporated precious metals company engaged in acquiring, investing in, developing, and producing gold and silver. Its primary asset is the San José de Gracia (SJG) mine in northern Sinaloa State, México, operated through Mexican subsidiaries. The company produces gold-silver concentrate, which is sold to a third-party processor. In 2025, it delivered 20,848 ounces of gold contained in concentrate and transitioned from Exploration Stage to Production Stage issuer.",
+  "tags": [
+    "precious-metals-mining-and-production",
+    "gold-and-silver-exploration-and-development",
+    "mexico-mining-sector",
+    "regulation-s-k-1300-(s-k-1300)-mineral-reserve-reporting-standard",
+    "london-pm-gold-fix-pricing-benchmark"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/DYNR",
+  "origin": {
+    "leaf": "1d596c6fbbebfc920b61105b69f79118fdbbe9027cd4c41026be072a31a24b71",
+    "parent": "5f914bb56b26dd8eededd61db44febcc37dcc5e73b612c0c9d8764c82a9c70bd",
+    "timestamp": "2026-04-12T03:12:52.619Z",
+    "source": "0001193125-26-138286",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1d596c6fbbebfc920b61105b69f79118fdbbe9027cd4c41026be072a31a24b71",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.619Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

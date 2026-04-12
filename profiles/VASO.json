@@ -1,0 +1,92 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VASO",
+  "name": "VASO Corp",
+  "cik": "0000839087",
+  "summary": "Vaso Corporation operates three business segments in healthcare and IT. Through VasoHealthcare, it exclusively represents GE HealthCare Technologies selling diagnostic imaging and ultrasound equipment to mid-market health providers. VasoTechnology provides managed network and security services via NetWolves. VasoMedical designs and sells proprietary cardiovascular devices including Biox Holter monitors, ARCS cloud-based ECG software, MobiCare vital-sign monitors, and EECP therapy systems for ischemic heart disease treatment in the U.S. and internationally.",
+  "products": [
+    {
+      "name": "Biox series Holter monitors",
+      "type": "hardware",
+      "description": "Ambulatory blood pressure recorders and Holter monitors for cardiovascular monitoring."
+    },
+    {
+      "name": "ARCS series software",
+      "type": "software",
+      "description": "Cloud-based SaaS analysis, reporting and communication software for ECG and blood pressure signals."
+    },
+    {
+      "name": "MobiCare",
+      "type": "hardware",
+      "description": "Multi-parameter wireless vital-sign monitoring system."
+    },
+    {
+      "name": "EECP therapy systems",
+      "type": "hardware",
+      "description": "Non-invasive outpatient treatment systems for ischemic heart disease using external counterpulsation."
+    },
+    {
+      "name": "Managed network infrastructure",
+      "type": "service",
+      "description": "Managed routers, switches and core network equipment services via NetWolves."
+    },
+    {
+      "name": "Managed network transport",
+      "type": "service",
+      "description": "FCC licensed carrier reselling services using 175+ facility partners."
+    },
+    {
+      "name": "Managed network security services",
+      "type": "service",
+      "description": "Network security management services delivered through VasoTechnology/NetWolves."
+    },
+    {
+      "name": "GEHC diagnostic imaging equipment",
+      "type": "hardware",
+      "description": "GE HealthCare diagnostic imaging and ultrasound systems sold to mid-market health providers."
+    },
+    {
+      "name": "GEHC service and training agreements",
+      "type": "service",
+      "description": "Service agreements and training services for GEHC equipment sold through VasoHealthcare."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "GE HealthCare Technologies, Inc. (GEHC)",
+      "partnership_type": "strategic",
+      "description": "Exclusive sales representation agreement for select GEHC diagnostic imaging and ultrasound equipment through December 31, 2030.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Nano-X Imaging Ltd (NNOX)",
+      "partnership_type": "strategic",
+      "description": "Purchased VasoHealthcare IT Corp. from Vaso Corporation in November 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "EECP Global Corporation / PSK",
+      "partnership_type": "strategic",
+      "description": "Vaso holds 49% minority interest in EECP Global and provides management services under a Management Service Agreement.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VASO/profile",
+  "origin": {
+    "leaf": "d5b6b14f569bfb2db7deeabb6e7a953c08f227b02eb37ad29dae7e81e9713ad4",
+    "parent": "cce392d3f440bf36cd407c2e3cdc504f5906f628e6919c3b6f4a101cb5fcb49e",
+    "timestamp": "2026-04-12T03:12:58.058Z",
+    "source": "profile:0000839087",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d5b6b14f569bfb2db7deeabb6e7a953c08f227b02eb37ad29dae7e81e9713ad4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.058Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RHI",
+  "name": "ROBERT HALF INC.",
+  "cik": "0000315213",
+  "summary": "Robert Half Inc. provides specialized talent solutions and business consulting services under the Robert Half and Protiviti brands. Services include contract and permanent placement of professionals in finance and accounting, technology, marketing and creative, legal, and administrative fields. Protiviti, a wholly owned subsidiary, offers consulting and managed solutions in regulatory compliance, finance, technology, operations, data, risk, and internal audit across more than 25 countries.",
+  "products": [
+    {
+      "name": "Contract Talent Solutions - Finance and Accounting",
+      "type": "service",
+      "description": "Contract engagement professionals in accounting, finance, and accounting operations for peak workloads and special projects."
+    },
+    {
+      "name": "Contract Talent Solutions - Technology",
+      "type": "service",
+      "description": "IT contract professionals and managed services including software development, networking, cloud, and security."
+    },
+    {
+      "name": "Contract Talent Solutions - Marketing and Creative",
+      "type": "service",
+      "description": "Creative, digital, marketing, advertising, and public relations contract professionals."
+    },
+    {
+      "name": "Contract Talent Solutions - Legal",
+      "type": "service",
+      "description": "Legal contract talent including attorneys and paralegal professionals."
+    },
+    {
+      "name": "Contract Talent Solutions - Administrative and Customer Support",
+      "type": "service",
+      "description": "Contract office and administrative personnel including executive assistants, receptionists, and customer service representatives."
+    },
+    {
+      "name": "Permanent Placement Talent Solutions",
+      "type": "service",
+      "description": "Full-time placement in finance, accounting, technology, marketing, creative, legal, and administrative fields; fees paid by employer."
+    },
+    {
+      "name": "Protiviti Consulting and Managed Solutions",
+      "type": "service",
+      "description": "Global consulting in regulatory compliance, finance, technology, operations, data, digital, legal, HR, governance, risk, and internal audit."
+    },
+    {
+      "name": "Protiviti Atlas",
+      "type": "platform",
+      "description": "Proprietary enterprise AI platform developed by Protiviti; patent pending in the United States."
+    },
+    {
+      "name": "AI Candidate Matching Engine",
+      "type": "platform",
+      "description": "Proprietary AI engine matching candidates to job listings and improving lead generation for talent solutions professionals."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Professional organizations in accounting, finance, technology, legal, and creative/marketing fields",
+      "partnership_type": "strategic",
+      "description": "Endorsements and affiliations to support marketing and recruiting efforts.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Protiviti independently owned member firms",
+      "partnership_type": "strategic",
+      "description": "Collaborative client engagements in over 25 countries through independently owned member firms.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Professional associations and complementary service and technology providers",
+      "partnership_type": "strategic",
+      "description": "Broad partner ecosystem used by Protiviti for marketing capabilities and service delivery.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RHI/profile",
+  "origin": {
+    "leaf": "f63e21df4aef36057b091f2bc4dde41e083c640e63b61eb1474f8d0879d0da84",
+    "parent": "9245a81f8fff9476fd66513ff1e9d30c7f17cf0fea637213cd9ea92765b257e7",
+    "timestamp": "2026-04-12T03:12:55.545Z",
+    "source": "profile:0000315213",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f63e21df4aef36057b091f2bc4dde41e083c640e63b61eb1474f8d0879d0da84",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.545Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FLUX",
+  "name": "Flux Power Holdings, Inc.",
+  "cik": "0001083743",
+  "summary": "Flux Power Holdings, Inc. designs, develops, manufactures, and sells advanced lithium-ion energy storage solutions for industrial and commercial electrification, primarily targeting material handling (forklifts) and airport ground support equipment (GSE). Products include modular, scalable lithium-ion battery packs paired with a proprietary wireless battery management system (BMS) and SkyBMS telemetry platform, offering alternatives to traditional lead acid and propane-based energy solutions for large fleet customers.",
+  "products": [
+    {
+      "name": "Lithium-ion Energy Storage Solutions",
+      "type": "hardware",
+      "description": "Modular and scalable lithium-ion battery packs for material handling forklifts and airport ground support equipment, replacing lead acid and propane solutions."
+    },
+    {
+      "name": "SkyBMS (Telemetry Platform)",
+      "type": "platform",
+      "description": "Proprietary wireless battery management and fleet telemetry system providing real-time monitoring, state of health reporting, and fleet asset management."
+    },
+    {
+      "name": "S-Series Battery Packs",
+      "type": "hardware",
+      "description": "Product line with UL Type EE certification, offering added safety and durability, available under OEM private label programs."
+    },
+    {
+      "name": "Mobile Energy Storage Systems",
+      "type": "hardware",
+      "description": "Modular battery packs adapted for broader industrial and commercial mobile energy storage applications beyond forklifts and GSE."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Gibraltar Business Capital, LLC (GBC)",
+      "partnership_type": "strategic",
+      "description": "Credit facility provider that Flux Power relies on for capital resources and to fund operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Unnamed largest critical battery components recycling company in the U.S.",
+      "partnership_type": "strategic",
+      "description": "Partnership aimed at enhancing the recycling process for end-of-life lithium-ion batteries.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Second tier one OEM (unnamed)",
+      "partnership_type": "OEM",
+      "description": "Second tier one OEM private label battery program added to supplement existing OEM relationships, covering the S-Series line.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FLUX/profile",
+  "origin": {
+    "leaf": "d2886e2e5caf1251211b3b99a09b099635f00bb7ceddf8907aa66bd6a3814bbb",
+    "parent": "c921c1f436bcdcd1ea82b76ee48b818b17244e06a0615d83ee7326b6d58e874a",
+    "timestamp": "2026-04-12T03:12:58.193Z",
+    "source": "profile:0001083743",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d2886e2e5caf1251211b3b99a09b099635f00bb7ceddf8907aa66bd6a3814bbb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.193Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

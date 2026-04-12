@@ -1,0 +1,96 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "KFS",
+  "name": "KINGSWAY FINANCIAL SERVICES INC",
+  "cik": "0001072627",
+  "summary": "Kingsway Financial Services Inc. is a Delaware-incorporated holding company operating through two segments: Kingsway Search Xcelerator and Extended Warranty. It owns B2B and B2C services companies including business services firms (CSuite, Ravix, Image Solutions), plumbing service providers (Bud's Plumbing, Advanced Plumbing, Southside Plumbing), industrial electric motor services (Roundhouse), nursing staffing (SNS), IT diagnostics (DDI, SPI), and extended warranty/automotive service contract businesses. The company employs a decentralized Search Fund model to acquire asset-light, recurring-revenue businesses primarily in the United States.",
+  "products": [
+    {
+      "name": "CSuite Financial Partners",
+      "type": "service",
+      "description": "Fractional and interim CFO and senior finance professional staffing, mentoring, board advisory, and executive search services."
+    },
+    {
+      "name": "Ravix Group",
+      "type": "service",
+      "description": "Outsourced fractional finance and human resources consulting including operational accounting, technical accounting, HR, and advisory services."
+    },
+    {
+      "name": "Image Solutions",
+      "type": "service",
+      "description": "IT managed services including equipment sales, and full suite IT solutions in NC, KS, GA, KY, and TN."
+    },
+    {
+      "name": "Bud's Plumbing Service",
+      "type": "service",
+      "description": "Plumbing installation, service, and repair for residential and commercial customers in Evansville, Indiana."
+    },
+    {
+      "name": "AAA Advanced Plumbing & Drain",
+      "type": "service",
+      "description": "Plumbing installation, service, and repair for residential and commercial customers in Cleveland, Ohio."
+    },
+    {
+      "name": "Southside Plumbing",
+      "type": "service",
+      "description": "Plumbing installation, service, and repair for residential and commercial customers in Omaha, Nebraska."
+    },
+    {
+      "name": "Roundhouse Electric & Equipment",
+      "type": "service",
+      "description": "Industrial-scale electric motor maintenance, repair, testing, and sales to midstream natural gas pipeline operators and utilities in the Permian Basin."
+    },
+    {
+      "name": "Extended Warranty",
+      "type": "service",
+      "description": "Automotive service contracts and extended warranty products distributed primarily in the United States."
+    },
+    {
+      "name": "Secure Nursing Service (SNS)",
+      "type": "service",
+      "description": "Nursing staffing services."
+    },
+    {
+      "name": "Digital Diagnostics Inc. (DDI)",
+      "type": "service",
+      "description": "IT diagnostics services."
+    },
+    {
+      "name": "Systems Products International (SPI)",
+      "type": "service",
+      "description": "Systems products and services."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "MainstreetBank",
+      "partnership_type": "strategic",
+      "description": "Provided $11.0 million term loan and $0.5 million revolver to finance the Roundhouse acquisition.",
+      "start_date": null
+    },
+    {
+      "partner_name": "NewburyportBank",
+      "partnership_type": "strategic",
+      "description": "Provided $3.75 million term loan and $0.5 million revolver to finance the Southside Plumbing acquisition.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/KFS/profile",
+  "origin": {
+    "leaf": "ffb8102c94b2edd810667c901be8800563a4a0b331e48ce0c26872d389d569e9",
+    "parent": "6dd7d89a076a19475c9027bf80b8e0d3dc8aea9727c4441f3005494403dfd207",
+    "timestamp": "2026-04-12T03:12:56.747Z",
+    "source": "profile:0001072627",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ffb8102c94b2edd810667c901be8800563a4a0b331e48ce0c26872d389d569e9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.747Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

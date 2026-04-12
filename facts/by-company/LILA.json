@@ -1,0 +1,88 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "LILA",
+  "total_facts": 5,
+  "by_type": {
+    "topic_mention": 5
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "LILA",
+      "predicate": "discussed_in_filing",
+      "object": "Networking",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LILA",
+      "predicate": "discussed_in_filing",
+      "object": "Networking",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LILA",
+      "predicate": "discussed_in_filing",
+      "object": "Networking",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LILA",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LILA",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LILA/transcripts",
+  "origin": {
+    "leaf": "f7f785f5df3c07b6b20c9d73f6b7617b89ca438a5b0d641ab68f230cb2ac8352",
+    "parent": "3acc9bb201002ff2c0b1e1160c523de66bdff60e3d597fcf1e77cba7d5959b8c",
+    "timestamp": "2026-04-12T03:13:51.675Z",
+    "source": "facts:LILA",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f7f785f5df3c07b6b20c9d73f6b7617b89ca438a5b0d641ab68f230cb2ac8352",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:51.675Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

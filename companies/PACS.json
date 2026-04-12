@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PACS",
+  "name": "PACS Group, Inc.",
+  "cik": "0002001184",
+  "exchange": "NYSE",
+  "sic": "8051",
+  "sic_description": "Services-Skilled Nursing Care Facilities",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Business Overview We are a leading post-acute healthcare company primarily focused on delivering high-quality skilled nursing care through a portfolio of independently operated facilities. Founded in 2013, we are one of the largest skilled nursing providers in the United States based on number of facilities. We also provide senior care, assisted living, and independent living options in some of our communities. In total, we operate 321 post-acute care facilities across 17 states serving o...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PACS",
+  "origin": {
+    "leaf": "98d97f2f321bb8519b80325cbe3430e572e292be349bfa9321f03a2ef258da3e",
+    "parent": "aea963d789141569e0cd123145f38eb54b103d01fad1fe1d698d3f70a4daf337",
+    "timestamp": "2026-04-12T03:12:50.636Z",
+    "source": "0002001184-26-000005",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/98d97f2f321bb8519b80325cbe3430e572e292be349bfa9321f03a2ef258da3e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.636Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

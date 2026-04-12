@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LGL",
+  "name": "LGL GROUP INC",
+  "cik": "0000061004",
+  "summary": "The LGL Group, Inc. is a Delaware-incorporated holding company engaged in services, merchant investment, and manufacturing. It operates through two segments: Electronic Instruments (via Precise Time and Frequency, LLC, designing and selling electronic instrument products) and Merchant Investment (investment income, gains/losses, and fee income from syndicated investments via LGL Systems Acquisition Holding Company, LLC). The company holds approximately $41.55 million in cash and marketable securities as of December 31, 2025.",
+  "products": [
+    {
+      "name": "Electronic Instruments",
+      "type": "hardware",
+      "description": "Precision electronic instrument products designed and sold by Precise Time and Frequency, LLC through organic R&D and strategic partnerships."
+    },
+    {
+      "name": "Merchant Investment Services",
+      "type": "service",
+      "description": "Investment income, gains/losses from transactions, and fee income from syndicated investments via special purpose vehicles."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "LGL Systems Acquisition Holding Company, LLC",
+      "partnership_type": "strategic",
+      "description": "Partially owned subsidiary serving as sponsor for direct investing efforts including SPAC vehicles.",
+      "start_date": null
+    },
+    {
+      "partner_name": "CLR Video LLC",
+      "partnership_type": "strategic",
+      "description": "Cable operator partnership in Kansas to buy telephone lines from Sprint and commercialize DirecTV.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LGL/profile",
+  "origin": {
+    "leaf": "454dd122aeda482107582bb7cb6b59adc45da38c69f3712201bf3cb1bf747eda",
+    "parent": "28b67d7d55162f99c50931df1adca039d1115b82b2430fb205b3403ed1c34e21",
+    "timestamp": "2026-04-12T03:12:57.936Z",
+    "source": "profile:0000061004",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/454dd122aeda482107582bb7cb6b59adc45da38c69f3712201bf3cb1bf747eda",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.936Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

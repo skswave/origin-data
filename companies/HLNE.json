@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HLNE",
+  "name": "Hamilton Lane INC",
+  "cik": "0001433642",
+  "exchange": "Nasdaq",
+  "sic": "6282",
+  "sic_description": "Investment Advice",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1991",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "Hamilton Lane Incorporated is a global private markets investment solutions provider founded in 1991, managing approximately $138 billion in discretionary AUM and $819 billion in non-discretionary AUA as of March 31, 2025. The company offers customized separate accounts, specialized commingled funds, and advisory services across private equity, private credit, real estate, infrastructure, real assets, growth equity, venture capital, and impact investing to institutional and private wealth clients worldwide.",
+  "tags": [
+    "private-equity",
+    "private-credit",
+    "real-estate",
+    "infrastructure",
+    "real-assets",
+    "growth-equity",
+    "venture-capital",
+    "impact-investing",
+    "private-wealth-/-high-net-worth-individuals",
+    "institutional-investors"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 760,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HLNE",
+  "origin": {
+    "leaf": "d9806fa1900d7f7997c4ff6c1d9aba02673719863c33ee33bf09e59d93f7cdfb",
+    "parent": "2e6c30bf44234ed6439a51c095142ffc2bef6a641b688869993c1a98dd561b2f",
+    "timestamp": "2026-04-12T03:12:50.605Z",
+    "source": "0001433642-25-000052",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d9806fa1900d7f7997c4ff6c1d9aba02673719863c33ee33bf09e59d93f7cdfb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.605Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

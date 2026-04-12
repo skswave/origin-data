@@ -1,0 +1,135 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CMTV",
+  "name": "COMMUNITY BANCORP /VT",
+  "cik": "0000718413",
+  "summary": "Community Bancorp /VT is a Vermont bank holding company operating through its subsidiary Community National Bank, founded in 1851. It provides business banking, commercial real estate lending, residential mortgage lending, retail credit, municipal banking, and retail banking services to individuals, businesses, nonprofits, and municipalities in northern and central Vermont. It also offers trust and wealth management through affiliated non-depository trust company CFSG.",
+  "products": [
+    {
+      "name": "Business Banking",
+      "type": "service",
+      "description": "Credit products, business checking, cash management, ACH/wire transfers, card processing, and remote deposit capture for businesses."
+    },
+    {
+      "name": "Commercial Real Estate Lending",
+      "type": "service",
+      "description": "Financing for commercial developers, residential builders, and community development entities including SBA 7(a) and 504 loans."
+    },
+    {
+      "name": "Residential Real Estate Lending",
+      "type": "service",
+      "description": "Conventional, FHA/VA, fixed and adjustable rate mortgage loans, construction loans, and home equity products."
+    },
+    {
+      "name": "Retail Credit",
+      "type": "service",
+      "description": "Personal, automobile, boat/recreational vehicle loans and credit cards through third-party marketing alliance."
+    },
+    {
+      "name": "Municipal and Institutional Banking",
+      "type": "service",
+      "description": "Deposit accounts, tax-exempt loans, lines of credit, and FHLBB-collateralized secured deposit products for governments and nonprofits."
+    },
+    {
+      "name": "Retail Banking",
+      "type": "service",
+      "description": "Consumer checking, savings, ATMs, debit/credit cards, night deposit, and online/mobile/telephone banking."
+    },
+    {
+      "name": "Trust and Wealth Management",
+      "type": "service",
+      "description": "Fiduciary and wealth management services offered through affiliated trust company CFSG, based in Newport, Vermont."
+    },
+    {
+      "name": "Business Banking",
+      "type": "service",
+      "description": "Credit products, business checking, cash management, ACH/wire transfer, card processing, and remote deposit capture for businesses."
+    },
+    {
+      "name": "Commercial Real Estate Lending",
+      "type": "service",
+      "description": "Financing for commercial developers, residential builders, and community development entities including SBA Section 7(a) and 504 loans."
+    },
+    {
+      "name": "Residential Real Estate Lending",
+      "type": "service",
+      "description": "Conventional, FHA/VA, fixed-rate, and adjustable-rate mortgage and home equity loan products for consumers."
+    },
+    {
+      "name": "Retail Credit",
+      "type": "service",
+      "description": "Personal, automobile, and boat/recreational vehicle loans; credit cards offered via third-party marketing alliance."
+    },
+    {
+      "name": "Municipal and Institutional Banking",
+      "type": "service",
+      "description": "Deposit accounts, tax-exempt loans, lines of credit, and secured deposit products for governments, schools, and nonprofits."
+    },
+    {
+      "name": "Retail Banking",
+      "type": "service",
+      "description": "Consumer banking including checking, savings, ATMs, debit/credit cards, night deposit, and online/mobile/telephone banking."
+    },
+    {
+      "name": "Trust and Wealth Management",
+      "type": "service",
+      "description": "Fiduciary and wealth management services offered through affiliated trust company CFSG across Vermont and New Hampshire."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Federal Home Loan Bank of Boston (FHLBB)",
+      "partnership_type": "strategic",
+      "description": "Offers secured deposit product to municipal customers collateralized by FHLBB letters of credit.",
+      "start_date": null
+    },
+    {
+      "partner_name": "National Bank of Middlebury",
+      "partnership_type": "strategic",
+      "description": "Co-owner of CFS Partners LLC, which owns trust company CFSG; holds 50% interest post-2025 redemption.",
+      "start_date": null
+    },
+    {
+      "partner_name": "SBA (Small Business Administration)",
+      "partnership_type": "strategic",
+      "description": "Recognized as Vermont's top Section 7(a) lender and top third-party 504 program lender.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Federal Home Loan Bank of Boston (FHLBB)",
+      "partnership_type": "strategic",
+      "description": "Offers secured deposit product to municipal customers collateralized by FHLBB letters of credit.",
+      "start_date": null
+    },
+    {
+      "partner_name": "National Bank of Middlebury",
+      "partnership_type": "strategic",
+      "description": "Co-owner of CFS Partners LLC, which owns trust company CFSG.",
+      "start_date": null
+    },
+    {
+      "partner_name": "SBA",
+      "partnership_type": "strategic",
+      "description": "Recognized as Vermont's top Section 7(a) program lender and top third-party Section 504 small business lender.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CMTV/profile",
+  "origin": {
+    "leaf": "b7105967a304ff2adb42249585607219106278b79646e199cc096530d17d8882",
+    "parent": "07deac39a97b2c1d53c33e01082885b29effca3a8352f4684bde3c033de2c10c",
+    "timestamp": "2026-04-12T03:12:57.079Z",
+    "source": "profile:0000718413",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b7105967a304ff2adb42249585607219106278b79646e199cc096530d17d8882",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.079Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

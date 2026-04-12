@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "OVLY",
+  "name": "Oak Valley Bancorp",
+  "cik": "0001431567",
+  "summary": "Oak Valley Bancorp is a California bank holding company and parent of Oak Valley Community Bank, a state-chartered bank founded in 1991 and headquartered in Oakdale, California. The Bank offers commercial and real estate loans, business and personal deposit accounts, SBA lending, lines of credit, online banking, mobile banking, remote deposit capture, merchant services, and wire transfers. It serves individuals and small to medium-sized businesses across California's Central Valley and Eastern Sierras through nineteen full-service branches.",
+  "products": [
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Loans for acquisition or refinancing of commercial properties including offices, warehouses, hotels, and shopping centers."
+    },
+    {
+      "name": "Construction Loans",
+      "type": "service",
+      "description": "Short-term loans for commercial, residential, and income-producing properties under construction."
+    },
+    {
+      "name": "Mini-Perm Loans",
+      "type": "service",
+      "description": "Loans financing purchase or ownership of commercial properties with 20-25 year amortization and balloon payment."
+    },
+    {
+      "name": "Equity Lines of Credit",
+      "type": "service",
+      "description": "Revolving lines of credit collateralized by junior deeds of trust on residential real properties."
+    },
+    {
+      "name": "Commercial Business Lending",
+      "type": "service",
+      "description": "Business lines of credit and term loans for working capital, operations, or asset purchases."
+    },
+    {
+      "name": "SBA Lending",
+      "type": "service",
+      "description": "Small Business Administration loan products for qualifying small businesses."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "Personal loans including automobile loans, home mortgages, credit lines, and other personal loans."
+    },
+    {
+      "name": "Business Checking and Savings Accounts",
+      "type": "service",
+      "description": "Deposit accounts designed for business customers."
+    },
+    {
+      "name": "Online Banking",
+      "type": "platform",
+      "description": "Digital banking platform for individuals and businesses."
+    },
+    {
+      "name": "Mobile Banking",
+      "type": "platform",
+      "description": "Mobile banking services for individual and business customers."
+    },
+    {
+      "name": "Remote Deposit Capture",
+      "type": "service",
+      "description": "Service allowing customers to deposit checks electronically."
+    },
+    {
+      "name": "Merchant Services",
+      "type": "service",
+      "description": "Payment processing and merchant services for business customers."
+    },
+    {
+      "name": "Wire Transfer of Funds",
+      "type": "service",
+      "description": "Domestic wire transfer services for individuals and businesses."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party mortgage provider",
+      "partnership_type": "strategic",
+      "description": "Traditional residential mortgages made available to Bank customers through an unnamed third party.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/OVLY/profile",
+  "origin": {
+    "leaf": "e37796985929b9ecd534dbf5341014c75f1b0e6edc8393fe76b23660a40109aa",
+    "parent": "76c54667b151ee42fb18768c2dcb1389a8297fe40dd968985de102e747031645",
+    "timestamp": "2026-04-12T03:12:56.821Z",
+    "source": "profile:0001431567",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e37796985929b9ecd534dbf5341014c75f1b0e6edc8393fe76b23660a40109aa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.821Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

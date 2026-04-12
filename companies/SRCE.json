@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SRCE",
+  "name": "1ST SOURCE CORP",
+  "cik": "0000034782",
+  "exchange": "Nasdaq",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "IN",
+  "headquarters": "Fort Wayne, Indiana",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "The provided text is an auditor consent exhibit (Exhibit 23) from 1st Source Corporation's 10-K filing, not a business description. It documents Forvis Mazars, LLP's consent to incorporate their audit reports into various SEC registration statements. No specific business operations, products, or services of 1st Source Corporation are described in this excerpt.",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SRCE",
+  "origin": {
+    "leaf": "c04b679d009a7a305d57e00d013bdd24f4ca41044789e7c174c7f10ad2861d11",
+    "parent": "991ad3f7dd196a05c27df257e271b39288b928996ad2ce7ef16183074ea9f5da",
+    "timestamp": "2026-04-12T03:12:50.933Z",
+    "source": "0000034782-26-000011",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c04b679d009a7a305d57e00d013bdd24f4ca41044789e7c174c7f10ad2861d11",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.933Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VEEV",
+  "name": "VEEVA SYSTEMS INC",
+  "cik": "0001393052",
+  "summary": "Veeva Systems is the leading provider of industry cloud solutions for the global life sciences industry, offering cloud software, data, and business consulting. Key products include Veeva Development Cloud, Veeva Quality Cloud, Veeva Commercial Cloud, and Veeva Data Cloud, serving pharmaceutical, biotechnology, and MedTech companies across R&D, quality, and commercial functions. Veeva operates as a Delaware public benefit corporation focused on making life sciences more productive.",
+  "products": [
+    {
+      "name": "Veeva Development Cloud",
+      "type": "platform",
+      "description": "Suite of clinical, regulatory, and safety applications built on the Veeva Vault platform for life sciences R&D."
+    },
+    {
+      "name": "Veeva Clinical Platform",
+      "type": "software",
+      "description": "Connected technology ecosystem for clinical trial execution involving patients, sites, CROs, and sponsors."
+    },
+    {
+      "name": "Veeva EDC",
+      "type": "software",
+      "description": "Electronic data capture solution for clinical trial data management."
+    },
+    {
+      "name": "Veeva CDB",
+      "type": "software",
+      "description": "Tool for aggregating, cleaning, and transforming clinical trial data."
+    },
+    {
+      "name": "Veeva eTMF",
+      "type": "software",
+      "description": "Electronic trial master file application for clinical operations."
+    },
+    {
+      "name": "Veeva CTMS",
+      "type": "software",
+      "description": "Clinical trial management system for clinical operations."
+    },
+    {
+      "name": "Veeva Safety",
+      "type": "software",
+      "description": "Suite unifying drug safety content, reporting, signal detection, and adverse event processing."
+    },
+    {
+      "name": "Veeva RIM",
+      "type": "platform",
+      "description": "Integrated regulatory information management suite for managing submissions and registration data."
+    },
+    {
+      "name": "Veeva Quality Cloud",
+      "type": "platform",
+      "description": "Unified quality applications for content management, training, QA, and QC lab solutions on Vault."
+    },
+    {
+      "name": "Veeva QMS",
+      "type": "software",
+      "description": "Quality management system for integrated quality processes in life sciences."
+    },
+    {
+      "name": "Veeva Quality Docs",
+      "type": "software",
+      "description": "Manages regulated quality content throughout its lifecycle."
+    },
+    {
+      "name": "Veeva Commercial Cloud",
+      "type": "platform",
+      "description": "Software and analytics solutions for life sciences sales, marketing, and medical affairs commercialization."
+    },
+    {
+      "name": "Vault CRM Suite",
+      "type": "platform",
+      "description": "Next-generation CRM built on Veeva Vault for pharma/biotech sales, marketing, medical, and service teams."
+    },
+    {
+      "name": "Veeva CRM",
+      "type": "software",
+      "description": "Legacy CRM product built on Salesforce platform, supported until December 31, 2029."
+    },
+    {
+      "name": "Veeva Medical",
+      "type": "software",
+      "description": "Centralizes medical inquiries and content for medical affairs teams across channels and geographies."
+    },
+    {
+      "name": "Veeva PromoMats",
+      "type": "software",
+      "description": "End-to-end content and digital asset management solution for life sciences commercial content."
+    },
+    {
+      "name": "Veeva Crossix",
+      "type": "platform",
+      "description": "Marketing analytics and audience targeting platform for biopharmaceutical brands."
+    },
+    {
+      "name": "Veeva Data Cloud",
+      "type": "platform",
+      "description": "Modern data platform with reference, deep, and transaction data for clinical and commercial operations."
+    },
+    {
+      "name": "Veeva OpenData",
+      "type": "service",
+      "description": "Customer reference data on healthcare professionals and organizations for engagement and compliance."
+    },
+    {
+      "name": "Veeva Link",
+      "type": "software",
+      "description": "Deep data platform combining software automation and human curation for key people, accounts, and insights."
+    },
+    {
+      "name": "Veeva Compass",
+      "type": "platform",
+      "description": "Suite of de-identified U.S. longitudinal patient, prescriber, and national data products."
+    },
+    {
+      "name": "Veeva AI",
+      "type": "platform",
+      "description": "Agentic AI added to Veeva Vault platform with industry-specific agents for Veeva applications."
+    },
+    {
+      "name": "Veeva Vault",
+      "type": "platform",
+      "description": "Proprietary cloud platform handling content and data, underlying most Veeva application suites."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Salesforce, Inc.",
+      "partnership_type": "licensing",
+      "description": "Veeva CRM and related applications are built on the Salesforce platform, supported until December 31, 2029.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VEEV/profile",
+  "origin": {
+    "leaf": "492a91e7e52f1b1c1a27c67ba0939ec42a652a818897efc8aeed4668bd98c9a5",
+    "parent": "755d8e4052b284a27058e6623cbeb082aeda06f9dbb94ad58ef19990c72ed932",
+    "timestamp": "2026-04-12T03:12:54.847Z",
+    "source": "profile:0001393052",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/492a91e7e52f1b1c1a27c67ba0939ec42a652a818897efc8aeed4668bd98c9a5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.847Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

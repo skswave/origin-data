@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "INFU",
+  "name": "InfuSystem Holdings, Inc",
+  "cik": "0001337013",
+  "exchange": "NYSE",
+  "sic": "3841",
+  "sic_description": "Surgical & Medical Instruments & Apparatus",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "InfuSystem Holdings, Inc. is a healthcare services company providing ambulatory infusion services and related products. The company delivers infusion therapy services to patients, primarily through pump rentals and services to oncology and other specialty practices. InfuSystem supports healthcare providers with medical equipment, including ambulatory infusion pumps, and manages billing and logistics for infusion treatments.",
+  "tags": [
+    "oncology",
+    "specialty-infusion-therapy",
+    "ambulatory-healthcare"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/INFU",
+  "origin": {
+    "leaf": "98b6e15d5168a81e1fb4fb78c8ace64faaf72149fa30e686655c5b29bf82b4e6",
+    "parent": "5c3ffef8378add21b3db29b95b7591c60deaad5fd166db8bfb5b79542e50c8f2",
+    "timestamp": "2026-04-12T03:12:51.931Z",
+    "source": "0001628280-26-012804",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/98b6e15d5168a81e1fb4fb78c8ace64faaf72149fa30e686655c5b29bf82b4e6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.931Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

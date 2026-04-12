@@ -1,0 +1,78 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "USIO",
+  "name": "Usio, Inc.",
+  "cik": "0001088034",
+  "summary": "Usio, Inc. is a cloud-based fintech payment processor providing payment acceptance and funds disbursement services to businesses, merchants, and consumers across multiple U.S. industry verticals. Since 1998, the company has offered ACH and complementary services, credit card processing, prepaid card programs, and Electronic Bill Presentment and Payment (EBPP). It supports payment facilitation, PINless debit, Remotely Created Checks, account validation, and account inquiry through a full-stack ecosystem.",
+  "products": [
+    {
+      "name": "ACH and Complementary Services",
+      "type": "service",
+      "description": "Automated Clearing House network-based electronic funds transfer including PINless debit, RCC, account validation, and account inquiry."
+    },
+    {
+      "name": "Credit Card Processing",
+      "type": "service",
+      "description": "Credit card payment acceptance and processing for merchants across multiple industry verticals."
+    },
+    {
+      "name": "Prepaid Card Programs",
+      "type": "service",
+      "description": "Prepaid card issuance and management services for businesses and consumers, dependent on Mastercard registration."
+    },
+    {
+      "name": "Electronic Bill Presentment and Payment (EBPP)",
+      "type": "platform",
+      "description": "The company's founding product enabling electronic bill presentment and payment for businesses and consumers."
+    },
+    {
+      "name": "Payment Facilitation",
+      "type": "service",
+      "description": "Full-stack payment facilitation enabling merchants to accept multiple payment methods through a single ecosystem."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Mastercard",
+      "partnership_type": "strategic",
+      "description": "Mastercard registration and financial institution sponsorship enabling prepaid card program services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Visa",
+      "partnership_type": "strategic",
+      "description": "Card network relationship required for compliance and processing operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Discover",
+      "partnership_type": "strategic",
+      "description": "Card network relationship required for compliance and processing operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Federal Reserve / Automated Clearing House network",
+      "partnership_type": "strategic",
+      "description": "ACH network relationship enabling electronic funds transfer services; subject to Federal Reserve rules.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/USIO/profile",
+  "origin": {
+    "leaf": "aab3c986d8bdb56c88671975820e6c92d907ec9c1e29b8a2ba9c4879a48cd226",
+    "parent": "4bd27e9104e7568d82bb672bc4b700f5acdf44823864c01155fcef1605389dca",
+    "timestamp": "2026-04-12T03:12:58.033Z",
+    "source": "profile:0001088034",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/aab3c986d8bdb56c88671975820e6c92d907ec9c1e29b8a2ba9c4879a48cd226",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.033Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

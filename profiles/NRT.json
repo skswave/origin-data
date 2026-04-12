@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NRT",
+  "name": "NORTH EUROPEAN OIL ROYALTY TRUST",
+  "cik": "0000072633",
+  "summary": "North European Oil Royalty Trust (NRT) is a passive grantor trust that holds overriding royalty rights covering gas and oil production in concessions and leases in Germany. It collects royalties on gas well gas, oil well gas, crude oil, condensate, and sulfur from ExxonMobil and Royal Dutch/Shell Group subsidiaries, then distributes net income quarterly to unit owners after expenses.",
+  "products": [
+    {
+      "name": "Gas well gas royalties",
+      "type": "service",
+      "description": "Royalty income collected on gas well gas sales from German concessions and leases."
+    },
+    {
+      "name": "Oil well gas royalties",
+      "type": "service",
+      "description": "Royalty income collected on oil well gas sales from German concessions and leases."
+    },
+    {
+      "name": "Crude oil royalties",
+      "type": "service",
+      "description": "Royalty income collected on crude oil sales from German concessions and leases."
+    },
+    {
+      "name": "Condensate royalties",
+      "type": "service",
+      "description": "Royalty income collected on condensate sales from German concessions and leases."
+    },
+    {
+      "name": "Sulfur royalties",
+      "type": "service",
+      "description": "Royalty income collected on sulfur sales from German concessions and leases."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "ExxonMobil Corp.",
+      "partnership_type": "licensing",
+      "description": "Royalty agreements with German subsidiaries covering gas and oil production in German concessions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Royal Dutch/Shell Group",
+      "partnership_type": "licensing",
+      "description": "Royalty agreements with German subsidiaries covering gas and oil production in German concessions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Unitarian Universalist Congregation at Shelter Rock (UUCSR)",
+      "partnership_type": "strategic",
+      "description": "Parallel royalty owner sharing costs of German consulting and accounting services for biennial royalty examinations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NRT/profile",
+  "origin": {
+    "leaf": "ca7eee95b2b06ac56dc6f5a47bc39e0019763159bee617e2acbe135c64181e7a",
+    "parent": "7fbb326f4cba16659ca02f5ba19d586503fc0dc2507b257312457fb6efc3cf51",
+    "timestamp": "2026-04-12T03:12:57.505Z",
+    "source": "profile:0000072633",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ca7eee95b2b06ac56dc6f5a47bc39e0019763159bee617e2acbe135c64181e7a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.506Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GRBK",
+  "name": "Green Brick Partners, Inc.",
+  "cik": "0001373670",
+  "summary": "Green Brick Partners, Inc. is a diversified homebuilding and land development company operating through seven builder brands in Dallas-Fort Worth, Austin, Houston, Atlanta, and Treasure Coast, Florida. The company acquires and develops land, builds single-family homes, townhomes, condos, luxury homes, and patio homes, and provides title, mortgage, and insurance agency services. As of December 31, 2025, it owned or had under contract approximately 48,900 home sites.",
+  "products": [
+    {
+      "name": "Trophy Signature Homes",
+      "type": "service",
+      "description": "Entry-level/first-time homebuyer single-family homes in DFW, Austin, and Houston, priced mid $200s to mid $700s."
+    },
+    {
+      "name": "CB JENI Homes",
+      "type": "service",
+      "description": "Townhomes in DFW market, priced mid $200s to mid $600s."
+    },
+    {
+      "name": "Normandy Homes",
+      "type": "service",
+      "description": "Single-family homes in DFW, priced mid $400s to over $1 million."
+    },
+    {
+      "name": "Southgate Homes",
+      "type": "service",
+      "description": "Luxury single-family homes in DFW, priced mid $700s to over $1.5 million."
+    },
+    {
+      "name": "Centre Living",
+      "type": "service",
+      "description": "Single-family homes and townhomes in DFW, priced mid $300s to upper $800s."
+    },
+    {
+      "name": "The Providence Group (TPG)",
+      "type": "service",
+      "description": "Townhomes, condominiums, and single-family homes in Atlanta, priced mid $400s to over $1.8 million."
+    },
+    {
+      "name": "GRBK GHO Homes",
+      "type": "service",
+      "description": "Patio homes and single-family homes in Treasure Coast, Florida, priced high $300s to over $2.8 million."
+    },
+    {
+      "name": "Title, Mortgage, and Insurance Agency Services",
+      "type": "service",
+      "description": "Ancillary financial and insurance services provided to homebuyers during the purchase process."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GRBK/profile",
+  "origin": {
+    "leaf": "f2f7ae5d97e66e27fb16b443868121c5a53090f30d6235bd009196235c4735ca",
+    "parent": "e9734d3ed900d78fb4da0d8c97af7decae7604c1d337f5c5e7c3feb54b1ab9c1",
+    "timestamp": "2026-04-12T03:12:55.510Z",
+    "source": "profile:0001373670",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f2f7ae5d97e66e27fb16b443868121c5a53090f30d6235bd009196235c4735ca",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.510Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

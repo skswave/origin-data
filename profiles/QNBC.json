@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "QNBC",
+  "name": "QNB CORP.",
+  "cik": "0000750558",
+  "summary": "QNB Corp. is a Pennsylvania bank holding company incorporated in 1984, operating through its wholly-owned subsidiary QNB Bank, a Pennsylvania-chartered commercial bank founded in 1877. The Bank operates twelve full-service community banking offices in Bucks, Montgomery, and Lehigh counties in southeastern Pennsylvania. It offers commercial loans, residential mortgage loans, consumer loans, investment securities, time deposits, demand accounts, savings accounts, money market accounts, internet banking, mobile banking, electronic bill pay, and remote deposit capture services.",
+  "products": [
+    {
+      "name": "Commercial Loans",
+      "type": "service",
+      "description": "Loans provided to businesses in the Bank's primary market area."
+    },
+    {
+      "name": "Residential Mortgage Loans",
+      "type": "service",
+      "description": "Home mortgage lending products for retail customers."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "Personal lending products for individual customers."
+    },
+    {
+      "name": "Certificates of Deposit",
+      "type": "service",
+      "description": "Time deposit products for individual and business customers."
+    },
+    {
+      "name": "Individual Retirement Accounts",
+      "type": "service",
+      "description": "Tax-advantaged retirement savings deposit accounts."
+    },
+    {
+      "name": "Money Market Accounts",
+      "type": "service",
+      "description": "Interest-bearing deposit accounts with variable rates."
+    },
+    {
+      "name": "Online Savings Account",
+      "type": "service",
+      "description": "Higher-yielding savings account available through online banking."
+    },
+    {
+      "name": "Internet and Mobile Banking",
+      "type": "platform",
+      "description": "Digital banking platform for retail and business customers."
+    },
+    {
+      "name": "Electronic Bill Pay",
+      "type": "service",
+      "description": "Online bill payment service for banking customers."
+    },
+    {
+      "name": "Remote Deposit Capture",
+      "type": "service",
+      "description": "Service allowing commercial customers to deposit checks remotely."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/QNBC/profile",
+  "origin": {
+    "leaf": "576583db662a2b7670f855b5353bc5370283971e01f88487ff2fe935d76d7e40",
+    "parent": "52589fdfe000a40ddfac8930e4dcc2fd70df20abec8da5488ae84953fe6fb71e",
+    "timestamp": "2026-04-12T03:12:57.205Z",
+    "source": "profile:0000750558",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/576583db662a2b7670f855b5353bc5370283971e01f88487ff2fe935d76d7e40",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.205Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

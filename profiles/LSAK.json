@@ -1,0 +1,129 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LSAK",
+  "name": "LESAKA TECHNOLOGIES INC",
+  "cik": "0001041514",
+  "summary": "Lesaka Technologies Inc. is a South African fintech company enabling underserviced consumers and businesses across Southern Africa to manage financial activities. It serves over 2 million consumers with banking, credit, insurance, and payout solutions; over 125,000 merchants with payment acceptance and cash management solutions; and over 750 enterprises with proprietary network capabilities for payments. Operating in South Africa, Namibia, Botswana, Zambia, and Kenya, Lesaka offers products across consumer and merchant financial lifecycles through three segments: Merchant, Consumer, and Enterprise.",
+  "products": [
+    {
+      "name": "Digital Banking App",
+      "type": "software",
+      "description": "Mobile banking application for consumers to manage deposits, spending, and bill payments."
+    },
+    {
+      "name": "Merchant Acquiring Solutions",
+      "type": "service",
+      "description": "Card payment acceptance solutions for micro-merchants and small-to-medium merchants."
+    },
+    {
+      "name": "Alternative Digital Products (ADP)",
+      "type": "platform",
+      "description": "Digital products offered at merchant locations enabling bill payments and digital transactions."
+    },
+    {
+      "name": "Cash Management and Digitalization Solutions",
+      "type": "service",
+      "description": "Cash management tools and digital accounts helping merchants track deposits and make supplier payments."
+    },
+    {
+      "name": "Small Business Lending (Cash Advances)",
+      "type": "service",
+      "description": "Access to capital for small-to-medium merchants via cash advance products."
+    },
+    {
+      "name": "Integrated POS Software and Hardware",
+      "type": "hardware",
+      "description": "Point-of-sale software and hardware solutions for the hospitality industry."
+    },
+    {
+      "name": "Biller Network",
+      "type": "platform",
+      "description": "Proprietary network connecting over 620 enterprise service providers to enable bill payment collection."
+    },
+    {
+      "name": "Cloud-Connected Cash Vaults",
+      "type": "hardware",
+      "description": "In-store cash digitization devices enabling merchants to deposit and manage cash digitally."
+    },
+    {
+      "name": "ATMs",
+      "type": "hardware",
+      "description": "ATMs placed in merchant stores to drive foot traffic and enable cash withdrawals for consumers."
+    },
+    {
+      "name": "Payments Management Account App",
+      "type": "software",
+      "description": "Digital app for merchants to manage payment accounts and financial services."
+    },
+    {
+      "name": "Adumo Platform",
+      "type": "platform",
+      "description": "Payment processing and integrated software solutions for approximately 29,000 active merchants across South Africa, Namibia, Botswana, and Kenya."
+    },
+    {
+      "name": "Recharger Prepaid Electricity Platform",
+      "type": "platform",
+      "description": "Submetering administration and payment processing for over 500,000 registered prepaid electricity meters in South Africa."
+    },
+    {
+      "name": "Consumer Insurance Solutions",
+      "type": "service",
+      "description": "Insurance products offered to consumers as part of the financial lifecycle suite."
+    },
+    {
+      "name": "Government Grant Payout Solutions",
+      "type": "service",
+      "description": "Payment solutions enabling consumers to receive South African government welfare grant disbursements."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Global Data Analytics",
+      "partnership_type": "strategic",
+      "description": "Cited as source for serviceable addressable market estimates used in business planning.",
+      "start_date": null
+    },
+    {
+      "partner_name": "McKinsey & Company",
+      "partnership_type": "strategic",
+      "description": "Cited as source for market size and opportunity estimates.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Boston Consulting Group",
+      "partnership_type": "strategic",
+      "description": "Cited for report on Africa as fastest growing fintech market globally.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Genesis Analytics",
+      "partnership_type": "strategic",
+      "description": "Cited as source for addressable market estimates.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BDO",
+      "partnership_type": "strategic",
+      "description": "Cited as source for market size estimates.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LSAK/profile",
+  "origin": {
+    "leaf": "e09a030c1c56a2d0559444a473cf1429f6a7a673be5f8821bc4510818bea35c3",
+    "parent": "989bb7e7e01ce5e12e089580da1c7734f937d182914e030d7ffc23b3cbacdcf4",
+    "timestamp": "2026-04-12T03:12:56.473Z",
+    "source": "profile:0001041514",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e09a030c1c56a2d0559444a473cf1429f6a7a673be5f8821bc4510818bea35c3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.473Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

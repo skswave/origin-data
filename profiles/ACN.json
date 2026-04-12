@@ -1,0 +1,70 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ACN",
+  "name": "Accenture plc",
+  "cik": "0001467373",
+  "summary": "Accenture plc is a global professional services company providing strategy, consulting, technology, operations, Song, and Industry X services to help enterprises reinvent through AI and digital transformation. It serves more than 9,000 clients including three-quarters of the Fortune Global 100 and 500, generating $69.7 billion in fiscal 2025 revenues. It employs approximately 779,000 people and operates across three geographic markets: Americas, EMEA, and Asia Pacific.",
+  "products": [
+    {
+      "name": "SynOps",
+      "type": "platform",
+      "description": "AI-powered, cloud-enabled platform that transforms enterprise operations through data, processes, automation and ecosystem technology partners."
+    },
+    {
+      "name": "Reinvention Services",
+      "type": "service",
+      "description": "Integrated business unit combining strategy, consulting, technology, operations, Song, and Industry X capabilities with AI and deep industry expertise."
+    },
+    {
+      "name": "Strategy and Consulting",
+      "type": "service",
+      "description": "Advisory services helping C-suite executives set strategic priorities, build digital cores, and drive enterprise reinvention."
+    },
+    {
+      "name": "Technology Services",
+      "type": "service",
+      "description": "Services covering AI, data, cloud, systems integration, application management, security, software engineering, and infrastructure."
+    },
+    {
+      "name": "Operations",
+      "type": "service",
+      "description": "Business process outsourcing for enterprise functions including finance, HR, supply chain, sourcing, and industry-specific services."
+    },
+    {
+      "name": "Song",
+      "type": "service",
+      "description": "Customer experience services spanning design, digital products, marketing, sales, commerce, and AI-powered customer service."
+    },
+    {
+      "name": "Industry X",
+      "type": "service",
+      "description": "Digital and engineering services combining manufacturing expertise with AI, digital twins, robotics, and capital project transformation."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Top 10 technology ecosystem partners",
+      "partnership_type": "strategic",
+      "description": "Accenture is the number-one partner for all top 10 ecosystem partners, among the worlds largest technology companies by revenue.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ACN/profile",
+  "origin": {
+    "leaf": "80e28321dcf6867e7323677db503c5df336cd41b026e2ac2cd99ce56b9b9b8ad",
+    "parent": "fab2ef41b2c2e9585546d71e8696283c8f9ae8c95f80119415382f918ae82a5f",
+    "timestamp": "2026-04-12T03:12:54.715Z",
+    "source": "profile:0001467373",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/80e28321dcf6867e7323677db503c5df336cd41b026e2ac2cd99ce56b9b9b8ad",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.715Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

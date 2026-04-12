@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "CNA",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CNA",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 112,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CNA",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 112,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CNA",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 112,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CNA/transcripts",
+  "origin": {
+    "leaf": "69cb6a6b284a0ec39581644122adc425708a8ffc42f6077eb1887e4d05e7b658",
+    "parent": "d992e787f71d9ade218573374ac714ed3c8163914efd5faa7cd52e2b4444cc8d",
+    "timestamp": "2026-04-12T03:13:20.770Z",
+    "source": "facts:CNA",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/69cb6a6b284a0ec39581644122adc425708a8ffc42f6077eb1887e4d05e7b658",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:20.770Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

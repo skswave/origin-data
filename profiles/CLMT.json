@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CLMT",
+  "name": "Calumet, Inc. /DE",
+  "cik": "0002013745",
+  "summary": "BusinessMember 2025-12-31 2025-12-31 0002013745 us-gaap:CorporateMember 2024-01-01 2024-12-31 0002013745 us-gaap:LimitedPartnerMember 2025-12-31 0002013745 us-gaap:GeneralPartnerMember 2025-12-31 0002013745 us-gaap:LimitedPartnerMember 2024-12-31 0002013745 us-gaap:GeneralPartnerMember 2024-12-31 0002013745 us-gaap:LimitedPartnerMember 2023-12-31 0002013745 us-gaap:GeneralPartnerMember 2023-12-31 0002013745 us-gaap:LimitedPartnerMember 2022-12-31 0002013745 us-gaap:GeneralPartnerMember 2022-12-3...",
+  "live_api": "https://origin.rootz.global/api/company/CLMT/profile",
+  "origin": {
+    "leaf": "84ad5374fdf56e6506f87793948771aa5610636fed6a5714520703923db36be2",
+    "parent": "7f2414c15a21b7f55ea81c1446d30e315bc02a9851030625367aca055a71fac9",
+    "timestamp": "2026-04-12T03:12:55.469Z",
+    "source": "profile:0002013745",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/84ad5374fdf56e6506f87793948771aa5610636fed6a5714520703923db36be2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.469Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

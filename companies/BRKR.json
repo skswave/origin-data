@@ -1,0 +1,59 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BRKR",
+  "name": "BRUKER CORP",
+  "cik": "0001109354",
+  "exchange": "Nasdaq",
+  "sic": "3826",
+  "sic_description": "Laboratory Analytical Instruments",
+  "state_of_incorporation": "DE",
+  "headquarters": "Billerica, Massachusetts",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Bruker Corporation develops, manufactures, and distributes high-performance scientific instruments and analytical solutions enabling exploration of life and materials at microscopic, molecular, and cellular levels. Products include NMR, EPR, MRI, mass spectrometry, X-ray, microscopy, and chromatography systems. The company serves life science research, biopharmaceuticals, applied markets, clinical microbiology, molecular diagnostics, and nanotechnology through four segments: BSI BioSpin, BSI CALID, BSI NANO, and BEST.",
+  "tags": [
+    "life-science-research",
+    "biopharmaceuticals",
+    "applied-markets",
+    "clinical-microbiology",
+    "molecular-diagnostics",
+    "nanotechnology",
+    "academic-and-government-research",
+    "food-and-beverage",
+    "materials-science",
+    "preclinical-imaging",
+    "proteomics-and-multiomics",
+    "spatial-and-single-cell-biology",
+    "energy-and-superconducting-technologies",
+    "fair-data-principles-(findability,-accessibility,-interoperability,-and-reusability)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BRKR",
+  "origin": {
+    "leaf": "2f8a7e29e90cf637e387e10ddd6ca4a6bdab0b0c6555a0538f6c23be2c9c6fcc",
+    "parent": "4acf3d7925e3aa7cf7ff7a46eb84c6c1aa9e6aae5eef5d103ce006cf1c3637e5",
+    "timestamp": "2026-04-12T03:12:50.610Z",
+    "source": "0001193125-26-082523",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2f8a7e29e90cf637e387e10ddd6ca4a6bdab0b0c6555a0538f6c23be2c9c6fcc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.610Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

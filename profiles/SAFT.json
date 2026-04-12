@@ -1,0 +1,86 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SAFT",
+  "name": "SAFETY INSURANCE GROUP INC",
+  "cik": "0001172052",
+  "summary": "Safety Insurance Group is a leading Massachusetts-based provider of private passenger automobile, commercial automobile, and homeowners insurance, operating exclusively in Massachusetts, New Hampshire, and Maine through four insurance subsidiaries. The company sells exclusively through independent agents and offers additional products including dwelling fire, umbrella, business owner policies, inland marine, and watercraft coverage. In 2025, total direct written premiums reached approximately $1.28 billion.",
+  "products": [
+    {
+      "name": "Private Passenger Automobile Insurance",
+      "type": "service",
+      "description": "Coverage for bodily injury, property damage, no-fault personal injury, and physical damage for private vehicles; 54.9% of 2025 direct written premiums."
+    },
+    {
+      "name": "Commercial Automobile Insurance",
+      "type": "service",
+      "description": "Coverage for bodily injury, property damage, no-fault personal injury, and physical damage for commercial vehicles; 15.2% of 2025 direct written premiums."
+    },
+    {
+      "name": "Homeowners Insurance",
+      "type": "service",
+      "description": "Coverage for dwelling, contents, and liability for homes, condominiums, and apartments; 25.2% of 2025 direct written premiums."
+    },
+    {
+      "name": "Business Owner Policies",
+      "type": "service",
+      "description": "Liability and property coverage for small and medium commercial accounts including restaurants, offices, and contractors; 2.5% of 2025 direct written premiums."
+    },
+    {
+      "name": "Personal Umbrella Insurance",
+      "type": "service",
+      "description": "Excess liability coverage over automobile, watercraft, and homeowner policies with limits of $1,000 to $5,000; 0.9% of 2025 direct written premiums."
+    },
+    {
+      "name": "Dwelling Fire Insurance",
+      "type": "service",
+      "description": "Limited homeowner-type coverage for non-owner occupied residences; 1.2% of 2025 direct written premiums."
+    },
+    {
+      "name": "Commercial Umbrella Insurance",
+      "type": "service",
+      "description": "Excess liability product for commercial automobile and business owner policy clients; 0.1% of 2025 direct written premiums."
+    },
+    {
+      "name": "Inland Marine Coverage",
+      "type": "service",
+      "description": "Endorsement coverage for jewelry, fine arts, and other items not fully covered under homeowners or business owner policies."
+    },
+    {
+      "name": "Watercraft Insurance",
+      "type": "service",
+      "description": "Coverage for small and medium pleasure craft up to 32 feet in length."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Commonwealth Automobile Reinsurers (CAR)",
+      "partnership_type": "strategic",
+      "description": "CAR compiles market statistics used by Safety Insurance to measure market share in Massachusetts automobile insurance markets.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Independent Insurance Agents and Brokers of America, Inc.",
+      "partnership_type": "strategic",
+      "description": "Provides data on independent agent market share; Safety sells exclusively through a network of 797 independent agents in 1,063 locations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SAFT/profile",
+  "origin": {
+    "leaf": "2c410abff0554e1bd1982b46880842d573544511cf6fe56f581d9b744916db6d",
+    "parent": "e7a4f8ca769d2b68f4a0ffeb43609a4a41b14d19c107a90fcd33b48692d2c387",
+    "timestamp": "2026-04-12T03:12:55.964Z",
+    "source": "profile:0001172052",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2c410abff0554e1bd1982b46880842d573544511cf6fe56f581d9b744916db6d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.964Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

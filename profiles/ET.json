@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ET",
+  "name": "Energy Transfer LP",
+  "cik": "0001276187",
+  "summary": "Energy Transfer LP is a master limited partnership that owns and operates a diversified portfolio of midstream and transportation energy assets. The company provides natural gas transportation, storage, processing, and gathering services, as well as crude oil, NGL, and refined products transportation and terminalling. Key assets include interstate pipelines, fractionation facilities, and LNG operations across the United States.",
+  "products": [
+    {
+      "name": "Natural Gas Transportation",
+      "type": "service",
+      "description": "Interstate and intrastate natural gas pipeline transportation services"
+    },
+    {
+      "name": "Natural Gas Storage",
+      "type": "service",
+      "description": "Storage of natural gas through underground and LNG storage facilities"
+    },
+    {
+      "name": "NGL Transportation and Fractionation",
+      "type": "service",
+      "description": "Transportation and fractionation of natural gas liquids including propane, butane, and natural gasoline"
+    },
+    {
+      "name": "Crude Oil Transportation",
+      "type": "service",
+      "description": "Transportation of crude oil via pipeline systems including Dakota Access"
+    },
+    {
+      "name": "Refined Products Transportation",
+      "type": "service",
+      "description": "Transportation of refined petroleum products through pipeline subsidiaries including SPLP"
+    },
+    {
+      "name": "LNG Services",
+      "type": "service",
+      "description": "Liquefied natural gas operations via Lake Charles LNG and Lake Charles LNG Export subsidiaries"
+    },
+    {
+      "name": "Natural Gas Gathering and Processing",
+      "type": "service",
+      "description": "Gathering and processing of natural gas from production areas"
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Citrus, LLC",
+      "partnership_type": "strategic",
+      "description": "50/50 joint venture owning Florida Gas Transmission Pipeline",
+      "start_date": null
+    },
+    {
+      "partner_name": "Sunoco LP",
+      "partnership_type": "strategic",
+      "description": "Joint venture ET-S Permian with Energy Transfer holding 67.5% and Sunoco LP holding 32.5%",
+      "start_date": null
+    },
+    {
+      "partner_name": "USA Compression Partners, LP",
+      "partnership_type": "strategic",
+      "description": "Publicly traded partnership and consolidated subsidiary of Energy Transfer (USAC)",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ET/profile",
+  "origin": {
+    "leaf": "d909a16987325097d28fb487f8a47f5975b17ca256d7840373c1206b4e819e82",
+    "parent": "0b82f204a817a864b726cd853415f23661e6c8d07cd2536998133fa59749c24f",
+    "timestamp": "2026-04-12T03:12:54.761Z",
+    "source": "profile:0001276187",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d909a16987325097d28fb487f8a47f5975b17ca256d7840373c1206b4e819e82",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.761Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

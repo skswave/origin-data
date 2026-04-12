@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SPGI",
+  "name": "S&P Global Inc.",
+  "cik": "0000064040",
+  "exchange": "NYSE",
+  "sic": "7320",
+  "sic_description": "Services-Consumer Credit Reporting, Collection Agencies",
+  "state_of_incorporation": "NY",
+  "headquarters": null,
+  "founded": "1925",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "S&P Global Inc. is a global provider of benchmarks, data, analytics, and workflow solutions serving capital, energy and commodity, and automotive markets. Its five segments—Market Intelligence, Ratings, Energy, Mobility, and Indices—deliver products including credit ratings, price assessments, index benchmarks, automotive data, and financial analytics. Customers include asset managers, investment banks, OEMs, insurers, governments, and commodity traders worldwide.",
+  "tags": [
+    "capital-markets",
+    "energy-and-commodity-markets",
+    "automotive-markets",
+    "insurance",
+    "government-and-regulatory",
+    "private-equity",
+    "asset-management",
+    "commercial-and-investment-banking"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 44500,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SPGI",
+  "origin": {
+    "leaf": "8bfa411d3904abc188f93d0cc00485278a56a4348221b5d31bfed809c14b82dd",
+    "parent": "461dc45391d4fdac12466089f73d8f69bb7f52175581beee34186ecfed2b28b1",
+    "timestamp": "2026-04-12T03:12:50.302Z",
+    "source": "0000064040-26-000013",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8bfa411d3904abc188f93d0cc00485278a56a4348221b5d31bfed809c14b82dd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.302Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

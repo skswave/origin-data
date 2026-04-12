@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TGTX",
+  "name": "TG THERAPEUTICS, INC.",
+  "cik": "0001001316",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "TG Therapeutics, Inc. is a commercial-stage biopharmaceutical company focused on the acquisition, development, and commercialization of novel treatments for B-cell diseases. Its lead approved product is BRIUMVI (ublituximab-xiiy) 150 mg/6 mL Injection for intravenous therapy, indicated for relapsing forms of multiple sclerosis (RMS) in the United States. The company also has additional product candidates in clinical development and relies on third-party manufacturers and licensors for its pipeline.",
+  "tags": [
+    "relapsing-forms-of-multiple-sclerosis-(rms)",
+    "b-cell-diseases",
+    "neurology",
+    "oncology/hematology"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TGTX",
+  "origin": {
+    "leaf": "78343ee2e073c20e15bebe37d8c69bd2dadac00f98a273e8757d76c68e82755c",
+    "parent": "f5290167761621ab7e9f3164d179066ec21d039e770cc2fdf6cd8c4341965a54",
+    "timestamp": "2026-04-12T03:12:50.620Z",
+    "source": "0001437749-26-006133",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/78343ee2e073c20e15bebe37d8c69bd2dadac00f98a273e8757d76c68e82755c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.620Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

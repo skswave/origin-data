@@ -1,0 +1,68 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TMGI",
+  "name": "Transglobal Management Group, Inc.",
+  "cik": "0001434601",
+  "summary": "The Marquie Group, Inc. (TMGI) is an emerging direct-to-consumer firm specializing in marketing, product development, and broadcasting. It owns Music of Your Life (MOYL), the longest-running syndicated music radio network in the world, broadcasting 24/7 to AM, FM, and HD stations across the U.S. and over the internet to 90+ countries. It also holds a 25% stake in Simply Whim, a direct-to-consumer skin care and healthy supplements brand.",
+  "products": [
+    {
+      "name": "Music of Your Life",
+      "type": "service",
+      "description": "Longest-running syndicated music radio network broadcasting 24/7 to AM, FM, HD stations in the U.S. and streaming to 90+ countries with a catalogue of 100,000+ songs."
+    },
+    {
+      "name": "Simply Whim (Whim) Health and Beauty Products",
+      "type": "service",
+      "description": "Direct-to-consumer skin care and healthy supplements brand focused on high-quality, safe, and efficacious beauty-enhancing products formulated from nature, nutrition, and science."
+    },
+    {
+      "name": "Street Talk",
+      "type": "service",
+      "description": "Syndicated feature planned for additional revenue stream, to be offered to affiliates on a monthly fee basis."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Simply Whim, Inc.",
+      "partnership_type": "strategic",
+      "description": "TMGI holds 25% of Whim common stock; Whim purchases radio commercials from TMGI for broadcast on the Music of Your Life network.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Barix",
+      "partnership_type": "OEM",
+      "description": "Provides internet audio distribution system including Reflector service for radio station affiliates with audio tone triggers for local automation computers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Digital Ocean",
+      "partnership_type": "OEM",
+      "description": "Provides node system for backhauling packet data from broadcast automation system to Reflector, ensuring 99.99% uptime and low latency.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Frontier Cable Business",
+      "partnership_type": "OEM",
+      "description": "Provides high-speed fiber optic internet connection with 99.99% uptime for broadcasting operations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TMGI/profile",
+  "origin": {
+    "leaf": "b1ddc7526eec3238a44424dd5aa5aef830e6906d7b266d2e596a485f288a43b6",
+    "parent": "25b656a90b3a8ae54a57d7558b4fa50ad00ab4e8b29510fd85a827227beff20f",
+    "timestamp": "2026-04-12T03:12:59.193Z",
+    "source": "profile:0001434601",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b1ddc7526eec3238a44424dd5aa5aef830e6906d7b266d2e596a485f288a43b6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.193Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

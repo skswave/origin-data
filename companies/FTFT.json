@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "FTFT",
+  "name": "Future FinTech Group Inc.",
+  "cik": "0001066923",
+  "exchange": "Nasdaq",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "state_of_incorporation": "FL",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Future FinTech Group Inc. is a Florida holding company primarily engaged in supply-chain financing services and trading in China. Historically a fruit juice manufacturer in the PRC, it transitioned to financial technology services including asset management in Hong Kong, cross-border money transfer in the UK, brokerage and investment banking in Hong Kong, and cryptocurrency mining in the U.S. Most non-China operations have been divested or dissolved as of late 2024.",
+  "tags": [
+    "supply-chain-financing-and-trading-in-china",
+    "asset-management-in-hong-kong",
+    "cross-border-money-transfer-in-the-uk",
+    "brokerage-and-investment-banking-in-hong-kong",
+    "cryptocurrency-mining-in-the-u.s.",
+    "e-commerce-in-china-(vie,-effectively-closed)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/FTFT",
+  "origin": {
+    "leaf": "2565f169b107d3ab11d93af69f70af331d9070d3fd85888e1d2d3b8d35f1b7bd",
+    "parent": "5f3e6efae7122d3bd2ae80205e42a7f10de95ade93dd3334e276ed36bba58ca3",
+    "timestamp": "2026-04-12T03:12:53.296Z",
+    "source": "0001213900-26-030833",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2565f169b107d3ab11d93af69f70af331d9070d3fd85888e1d2d3b8d35f1b7bd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.296Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

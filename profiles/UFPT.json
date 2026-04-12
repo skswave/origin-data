@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UFPT",
+  "name": "UFP TECHNOLOGIES INC",
+  "cik": "0000914156",
+  "summary": "UFP Technologies Inc. is a contract development and manufacturing organization specializing in single-use and single-patient medical devices. The company serves as an outsourcing partner to major medical device manufacturers, producing protective drapes for robotic surgery, advanced wound care products, infection prevention disposables, surgical and endoscopic procedure disposables, packaging for orthopedic implants, cardiac implant components, catheter dispenser coils, and biopharma drug manufacturing components.",
+  "products": [
+    {
+      "name": "Protective Drapes for Robotic Surgery",
+      "type": "hardware",
+      "description": "Single-use protective drapes designed for robotic surgical procedures to prevent infection."
+    },
+    {
+      "name": "Advanced Wound Care Products",
+      "type": "hardware",
+      "description": "Custom wound care devices and components for improved patient treatment outcomes."
+    },
+    {
+      "name": "Infection Prevention Disposables",
+      "type": "hardware",
+      "description": "Single-use disposable products designed for infection control in medical settings."
+    },
+    {
+      "name": "Surgical and Endoscopic Disposables",
+      "type": "hardware",
+      "description": "Disposable components used in minimally invasive surgical and endoscopic procedures."
+    },
+    {
+      "name": "Medical Device and Orthopedic Implant Packaging",
+      "type": "hardware",
+      "description": "Custom packaging solutions for medical devices and orthopedic implants."
+    },
+    {
+      "name": "Cardiac Implant Components",
+      "type": "hardware",
+      "description": "Precision components manufactured for use in cardiac implant devices."
+    },
+    {
+      "name": "Catheter Dispenser Coils",
+      "type": "hardware",
+      "description": "Dispenser coils used in catheter medical device assemblies."
+    },
+    {
+      "name": "Biopharma Drug Manufacturing Components",
+      "type": "hardware",
+      "description": "Specialized components supporting biopharma drug manufacturing processes."
+    },
+    {
+      "name": "Patient Handling and Comfort Products",
+      "type": "hardware",
+      "description": "Products designed for patient handling, positioning, and comfort during medical procedures."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UFPT/profile",
+  "origin": {
+    "leaf": "211b58b3a47bce30e62a0bfb8578ca7e8dc0599c04b07d7e895a17aa5eee07fa",
+    "parent": "8b6fb4e329bda9387dfff9fda0c576023ffaf074770375f4b2201889ff375d1a",
+    "timestamp": "2026-04-12T03:12:55.812Z",
+    "source": "profile:0000914156",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/211b58b3a47bce30e62a0bfb8578ca7e8dc0599c04b07d7e895a17aa5eee07fa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.812Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

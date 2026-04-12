@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BHB",
+  "name": "BAR HARBOR BANKSHARES",
+  "cik": "0000743367",
+  "exchange": "NYSE",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "ME",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "3 ITEM1A. RISK FACTORS 21 ITEM 1B. UNRESOLVED STAFF COMMENTS 34 ITEM 1C. CYBERSECURITY 34 ITEM2. PROPERTIES 36 ITEM3. LEGAL PROCEEDINGS 36 ITEM 4. MINE SAFETY DISCLOSURES 36 PARTII. ITEM5. MARKET FOR REGISTRANTS COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 37 ITEM6. [RESERVED] 39 ITEM7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 39 ITEM7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 51 ITEM8. FINANC...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BHB",
+  "origin": {
+    "leaf": "6906cb76b1cf1cb5d47b64aea6978e7f87456f40c12e7e4ecc0548e408dc8171",
+    "parent": "81fd60e6584a47f59a9ab523c19a249c37ffd654e59ecb3d7fc67c57095b1492",
+    "timestamp": "2026-04-12T03:12:51.356Z",
+    "source": "0001104659-26-027217",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6906cb76b1cf1cb5d47b64aea6978e7f87456f40c12e7e4ecc0548e408dc8171",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.356Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

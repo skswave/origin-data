@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HPE",
+  "name": "Hewlett Packard Enterprise Co",
+  "cik": "0001645590",
+  "exchange": "NYSE",
+  "sic": "3570",
+  "sic_description": "Computer & office Equipment",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1939",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1031",
+  "summary": "Hewlett Packard Enterprise (HPE) is a global technology company providing intelligent solutions from edge to cloud. Key offerings include HPE GreenLake hybrid cloud platform, AI-driven networking (including Juniper Networks portfolio), HPE Cray EX supercomputers, HPE ProLiant servers, storage solutions, and financial services. HPE serves small-to-large enterprises and government entities, focusing on networking, cloud, AI infrastructure, and data management with a platform-based, software-and-services-enriched business model.",
+  "tags": [
+    "enterprise-it-infrastructure",
+    "hybrid-cloud",
+    "ai-infrastructure",
+    "networking",
+    "supercomputing-/-hpc",
+    "edge-computing",
+    "government-/-public-sector",
+    "small-and-medium-sized-businesses",
+    "direct-liquid-cooling-(fanless)",
+    "ai-native-networking",
+    "hybrid-multi-cloud",
+    "pay-per-use-consumption-model"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HPE",
+  "origin": {
+    "leaf": "b4d593036552a5a460e1a1945a44a83389626dd92f5ecd9bf18d7c1681dd9d41",
+    "parent": "f470fc1fdcde288652f494eb144743eea5f5d31fd76430d8297b7cfa21cb59f4",
+    "timestamp": "2026-04-12T03:12:50.276Z",
+    "source": "0001645590-25-000130",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b4d593036552a5a460e1a1945a44a83389626dd92f5ecd9bf18d7c1681dd9d41",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.276Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

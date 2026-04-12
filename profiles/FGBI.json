@@ -1,0 +1,156 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FGBI",
+  "name": "First Guaranty Bancshares, Inc.",
+  "cik": "0001408534",
+  "summary": "First Guaranty Bancshares, Inc. is a Louisiana financial holding company headquartered in Hammond, Louisiana. Through its wholly owned subsidiary, First Guaranty Bank, it provides commercial banking services via 30 facilities across Louisiana, Texas, Kentucky, and West Virginia. Services include commercial real estate loans, commercial and industrial loans, deposit accounts, credit cards, merchant services, mobile banking, ACH origination, lockbox services, and digital banking tools including bill pay, budgeting tools, and Credit Aware powered by Savvy Money.",
+  "products": [
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Lending product for commercial real estate financing offered to business customers."
+    },
+    {
+      "name": "Commercial and Industrial Loans",
+      "type": "service",
+      "description": "Loans serving commercial and industrial borrowing needs of business customers."
+    },
+    {
+      "name": "Commercial Leases",
+      "type": "service",
+      "description": "Lease financing solutions offered to commercial customers."
+    },
+    {
+      "name": "One-to-Four-Family Residential Real Estate Loans",
+      "type": "service",
+      "description": "Residential mortgage loans for one-to-four-family properties."
+    },
+    {
+      "name": "Construction and Land Development Loans",
+      "type": "service",
+      "description": "Loans financing construction and land development projects."
+    },
+    {
+      "name": "Agricultural and Farmland Loans",
+      "type": "service",
+      "description": "Lending products targeting agricultural producers and farmland owners."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "Personal lending products offered to individual consumers."
+    },
+    {
+      "name": "Multifamily Loans",
+      "type": "service",
+      "description": "Loans for multifamily residential properties."
+    },
+    {
+      "name": "Syndicated Loans",
+      "type": "service",
+      "description": "Participation in syndicated loans including shared national credits with other financial institutions."
+    },
+    {
+      "name": "Personal and Business Checking Accounts",
+      "type": "service",
+      "description": "Deposit accounts for consumers and small businesses."
+    },
+    {
+      "name": "Savings Accounts",
+      "type": "service",
+      "description": "Savings deposit products for personal and business customers."
+    },
+    {
+      "name": "Time Deposits",
+      "type": "service",
+      "description": "Fixed-term deposit accounts offered to consumers and businesses."
+    },
+    {
+      "name": "Money Market Accounts",
+      "type": "service",
+      "description": "Money market deposit accounts for consumers and businesses."
+    },
+    {
+      "name": "Credit Cards",
+      "type": "service",
+      "description": "Credit card products offered to both consumer and business customers."
+    },
+    {
+      "name": "Merchant Services",
+      "type": "service",
+      "description": "Payment processing and merchant services for business customers."
+    },
+    {
+      "name": "Remote Deposit Capture",
+      "type": "service",
+      "description": "Mobile and remote deposit capture services for business customers."
+    },
+    {
+      "name": "ACH Origination",
+      "type": "service",
+      "description": "Automated Clearing House payment origination services for business customers."
+    },
+    {
+      "name": "Lockbox Services",
+      "type": "service",
+      "description": "Payment collection lockbox services offered to business customers."
+    },
+    {
+      "name": "Online Banking with Mobile App",
+      "type": "platform",
+      "description": "Digital banking platform including bill pay, budgeting tools, Biller Direct, Credit Aware, and Card Swap."
+    },
+    {
+      "name": "Autobooks",
+      "type": "platform",
+      "description": "Accounting and invoicing tool offered via online banking channel to micro and small businesses."
+    },
+    {
+      "name": "Safe Deposit Boxes",
+      "type": "service",
+      "description": "Physical safe deposit box services offered to consumers."
+    },
+    {
+      "name": "Official Checks",
+      "type": "service",
+      "description": "Official check issuance services for customers."
+    },
+    {
+      "name": "Automated Teller Machines",
+      "type": "service",
+      "description": "ATM network access provided to customers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Savvy Money",
+      "partnership_type": "strategic",
+      "description": "Powers Credit Aware feature within First Guaranty's online banking platform.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Autobooks",
+      "partnership_type": "strategic",
+      "description": "Provides accounting and invoicing tools for micro and small businesses via online banking channel.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FGBI/profile",
+  "origin": {
+    "leaf": "ecb3a4fb79ab8a5ffef54c8e4f622bf351e82ca5b4f59ffab00dcc164dcb7318",
+    "parent": "d72626b978344a0eadaee1a1e959b60634e5cb5db65e5ca4aff34d635a1b6bac",
+    "timestamp": "2026-04-12T03:12:57.273Z",
+    "source": "profile:0001408534",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ecb3a4fb79ab8a5ffef54c8e4f622bf351e82ca5b4f59ffab00dcc164dcb7318",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.273Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

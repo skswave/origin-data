@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "RYES",
+  "name": "Rise Gold Corp.",
+  "cik": "0001424864",
+  "exchange": "OTC",
+  "sic": "1000",
+  "sic_description": "Metal Mining",
+  "state_of_incorporation": "NV",
+  "headquarters": "Grass Valley, California",
+  "founded": "2007",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0731",
+  "summary": "Rise Gold Corp. is a mineral exploration company incorporated in Nevada in 2007. Its primary asset is the Idaho-Maryland Gold Mine Property near Grass Valley, California, a major past-producing high-grade gold property owned through its wholly owned subsidiary Rise Grass Valley Inc. The company is pursuing vested mining rights litigation and plans underground gold mining at 1,000 tons per day using gravity and flotation processing when approvals are obtained.",
+  "tags": [
+    "mineral-exploration",
+    "gold-mining",
+    "gravity-gold-concentration",
+    "flotation-gold-concentration",
+    "underground-mining-via-shaft-conveyance"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/RYES",
+  "origin": {
+    "leaf": "313b5b273dac5476da83a5e3bed09630a7d42cef5cd1d324838999d79e69d950",
+    "parent": "eb35ac8d11a182847f4932231a71e308fc6ba675077c78aff4c5d7f3680b4f3a",
+    "timestamp": "2026-04-12T03:12:52.534Z",
+    "source": "0001062993-25-016364",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/313b5b273dac5476da83a5e3bed09630a7d42cef5cd1d324838999d79e69d950",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.534Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

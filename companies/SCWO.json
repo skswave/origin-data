@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SCWO",
+  "name": "374Water Inc.",
+  "cik": "0000933972",
+  "exchange": "Nasdaq",
+  "sic": "3621",
+  "sic_description": "Motors & Generators",
+  "state_of_incorporation": "DE",
+  "headquarters": "Research Triangle, North Carolina",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "374Water Inc. (SCWO) is a cleantech and environmental services company developing supercritical water oxidation (SCWO) technology for destruction of organic waste streams. Its proprietary AirSCWO technology destroys hazardous and non-hazardous organic wastes including PFAS, biosolids, and industrial solvents, producing safe water, minerals, and recoverable heat energy. The company serves municipal, federal, and industrial markets through capital equipment sales, Waste Destruction Services (WDS), laboratory testing, and operations and maintenance services.",
+  "tags": [
+    "municipal-wastewater-and-biosolids",
+    "federal-and-department-of-defense",
+    "industrial-waste-treatment",
+    "pfas-destruction",
+    "hazardous-waste-management",
+    "rcra-part-b-permitted-tsdf-operations",
+    "supercritical-water-oxidation-above-374°c-and-221-bar",
+    "waste-destruction-efficacy-at-or-above-99.95%"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SCWO",
+  "origin": {
+    "leaf": "8bdb8cd19886898e0ba5f284c6eeb2fa31ecd4eae5df2453bca68034e0857448",
+    "parent": "9aee557510d450a090f4969332714e4802f2c1ec79e3754b3b9a39b0ad34ca5c",
+    "timestamp": "2026-04-12T03:12:52.544Z",
+    "source": "0001654954-26-003094",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8bdb8cd19886898e0ba5f284c6eeb2fa31ecd4eae5df2453bca68034e0857448",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.544Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

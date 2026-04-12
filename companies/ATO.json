@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ATO",
+  "name": "ATMOS ENERGY CORP",
+  "cik": "0000731802",
+  "exchange": "NYSE",
+  "sic": "4924",
+  "sic_description": "Natural Gas Distribution",
+  "state_of_incorporation": "TX",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": ". Overview and Strategy Atmos Energy Corporation, a natural gas-only distributor, is an S&P 500 company headquartered in Dallas and incorporated in Texas and Virginia. We safely deliver reliable, efficient, and abundant natural gas through regulated sales and transportation arrangements to approximately 3.4 million residential, commercial, public authority, and industrial customers in eight states located primarily in the South. We also operate one of the largest intrastate pipelines in Texas ba...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ATO",
+  "origin": {
+    "leaf": "68d0548ba959c5997aa2979396df533f6e5380d02c9ea033003b10f5d357d6d7",
+    "parent": "27efe438686b3971bfebc2aeb0b27b9c60075eecff276ca319fa971032e0f7eb",
+    "timestamp": "2026-04-12T03:12:50.378Z",
+    "source": "0000731802-25-000056",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/68d0548ba959c5997aa2979396df533f6e5380d02c9ea033003b10f5d357d6d7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.378Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

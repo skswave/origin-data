@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "WDC",
+  "name": "WESTERN DIGITAL CORP",
+  "cik": "0000106040",
+  "exchange": "Nasdaq",
+  "sic": "3572",
+  "sic_description": "Computer Storage Devices",
+  "state_of_incorporation": "DE",
+  "headquarters": "San Jose, California",
+  "founded": "1970",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0703",
+  "summary": "Western Digital Corporation, founded in 1970 and headquartered in San Jose, California, is a leading developer, manufacturer, and provider of data storage devices and solutions based on hard disk drive (HDD) technology. The company serves Cloud, Client, and Consumer end markets under the Western Digital and WD brands, offering enterprise HDDs for cloud data centers, high-performance HDDs for desktop and notebooks, and external storage products for consumers.",
+  "tags": [
+    "cloud",
+    "client",
+    "consumer",
+    "enterprise-storage",
+    "edge-computing",
+    "video-surveillance",
+    "epmr-(enhanced-perpendicular-magnetic-recording)",
+    "optinand",
+    "ultrasmr",
+    "triple-stage-actuator"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/WDC",
+  "origin": {
+    "leaf": "c3a21fe776f701d4fa85461570f8f742bedf73b03e2d48f469e6a0c8a32955c0",
+    "parent": "2f1c763f7e7fca235da7729d0f277ea6c902eb8421bf9afe5ca9e009ddf8317d",
+    "timestamp": "2026-04-12T03:12:50.317Z",
+    "source": "0000106040-25-000038",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c3a21fe776f701d4fa85461570f8f742bedf73b03e2d48f469e6a0c8a32955c0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.317Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

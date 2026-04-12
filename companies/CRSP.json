@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CRSP",
+  "name": "CRISPR Therapeutics AG",
+  "cik": "0001674416",
+  "exchange": "Nasdaq",
+  "sic": "2836",
+  "sic_description": "Biological Products, (No Diagnostic Substances)",
+  "state_of_incorporation": "V8",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "CRISPR Therapeutics AG is a biopharmaceutical company focused on developing CRISPR/Cas9-based gene editing therapeutics. Its lead product, CASGEVY (exagamglogene autotemcel), received the world's first approval of a CRISPR-based therapy in 2023 for sickle cell disease and transfusion-dependent beta thalassemia, developed in collaboration with Vertex Pharmaceuticals. The company also pursues in vivo editing, allogeneic CAR T cell therapies for autoimmune and oncology indications, and regenerative medicine programs.",
+  "tags": [
+    "hemoglobinopathies-(sickle-cell-disease,-transfusion-dependent-beta-thalassemia)",
+    "oncology-(car-t-cell-therapies)",
+    "autoimmune-diseases-(car-t-cell-therapies)",
+    "regenerative-medicine",
+    "in-vivo-gene-editing-for-common-and-rare-diseases",
+    "crispr/cas9-gene-editing",
+    "ex-vivo-cell-editing",
+    "in-vivo-gene-editing",
+    "sirna",
+    "allogeneic-car-t-cell-therapy"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CRSP",
+  "origin": {
+    "leaf": "1e0740aff37a72af2f6aea37cb50fbfd4bf8fb2eba62cb6278d4eb96f9c8d4ef",
+    "parent": "53c1af03709b48241eeb9dc002fdad009b1cc205a53f99b85ec795110dda840f",
+    "timestamp": "2026-04-12T03:12:50.664Z",
+    "source": "0001193125-26-048957",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1e0740aff37a72af2f6aea37cb50fbfd4bf8fb2eba62cb6278d4eb96f9c8d4ef",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.664Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

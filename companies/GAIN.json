@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "GAIN",
+  "name": "GLADSTONE INVESTMENT CORPORATION\\DE",
+  "cik": "0001321741",
+  "exchange": "Nasdaq",
+  "sic": null,
+  "sic_description": null,
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "Gladstone Investment Corporation (GAIN) is a business development company (BDC) incorporated in Delaware that operates as a regulated investment company (RIC). It focuses on investing in businesses, with an investment adviser named Gladstone Management Corporation. The company provides capital to portfolio companies and manages a portfolio of investments, financing activities through borrowed money and other capital sources.",
+  "tags": [
+    "business-development",
+    "private-capital-markets",
+    "investment-management"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/GAIN",
+  "origin": {
+    "leaf": "15fcf0e1e6e0ae41a97d85a844a9c06ef21a1d61fa83d573320c17f666f3ce64",
+    "parent": "662f44f191112349a1bf7ac4c5a4475f3abc81877e327d73a2cf1f7902e2e00d",
+    "timestamp": "2026-04-12T03:12:51.338Z",
+    "source": "0001321741-25-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/15fcf0e1e6e0ae41a97d85a844a9c06ef21a1d61fa83d573320c17f666f3ce64",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.338Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

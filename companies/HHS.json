@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HHS",
+  "name": "HARTE HANKS INC",
+  "cik": "0000045919",
+  "exchange": "Nasdaq",
+  "sic": "7331",
+  "sic_description": "Services-Direct Mail Advertising Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1920s",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Harte Hanks, Inc. is a global Business Experience Outsourcing company operating at the intersection of data, marketing, sales, customer care, fulfillment, and logistics. It serves B2B and B2C clients across industries including technology, healthcare, consumer products, financial services, and automotive. Services include data analytics, demand generation, managed marketing services, inside sales outsourcing, customer care, and fulfillment and logistics, helping clients manage the full customer and product lifecycle.",
+  "tags": [
+    "b2b-technology-&-services",
+    "healthcare,-pharmaceuticals-&-health-insurance",
+    "consumer-products",
+    "travel,-hospitality,-streaming-&-entertainment",
+    "quick-service-restaurants-(qsrs)",
+    "financial-services-and-fintech",
+    "automotive-retail"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HHS",
+  "origin": {
+    "leaf": "ccd7dce9150343b905f0f41497c42e31ba1f26f5e387bdebe5d9186fce9feb11",
+    "parent": "9da02bc73b9c42423ef72867fa90d376138b3758ba1e51144bd475da426ad89c",
+    "timestamp": "2026-04-12T03:12:52.936Z",
+    "source": "0001628280-26-018894",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ccd7dce9150343b905f0f41497c42e31ba1f26f5e387bdebe5d9186fce9feb11",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.936Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

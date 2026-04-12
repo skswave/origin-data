@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LYFT",
+  "name": "Lyft, Inc.",
+  "cik": "0001759509",
+  "exchange": "Nasdaq",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I . Overview Lyft, Inc. (the Company or Lyft) operates as a global mobility platform offering a mix of rideshare, taxis, private hire vehicles, executive chauffeur services, car sharing, bikes and scooters. Our established, scaled network of users is brought together by our robust technology platform (the Lyft Platform) that powers rides and connections every day. Our Lyft mobile application (Lyft App) connect riders with drivers for on-demand ride services and supports a variety of other m...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LYFT",
+  "origin": {
+    "leaf": "80bc727183de324a578a419756b6c99ceb850671be4fe61d0634d042a674272d",
+    "parent": "7eb82c3de3db2568d0ba3164d5f7bfe768fb815603aa5a972a7db792f1c37aa3",
+    "timestamp": "2026-04-12T03:12:50.619Z",
+    "source": "0001628280-26-006960",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/80bc727183de324a578a419756b6c99ceb850671be4fe61d0634d042a674272d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.619Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

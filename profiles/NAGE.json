@@ -1,0 +1,33 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NAGE",
+  "name": "Niagen Bioscience, Inc.",
+  "cik": "0001386570",
+  "summary": "The provided text is an auditor consent exhibit (EX-23.1) from Niagen Bioscience, Inc.'s Annual Report on Form 10-K, filed with the SEC. It contains consent from Crowe LLP for incorporation of audit reports into registration statements. No business description, products, or services are described in this excerpt.",
+  "partnerships": [
+    {
+      "partner_name": "Crowe LLP",
+      "partnership_type": "strategic",
+      "description": "Independent registered public accounting firm providing audit services and consent for SEC filings.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NAGE/profile",
+  "origin": {
+    "leaf": "39c811ba9a6597a4e076bcc58076e5aa3dcf42c41b025625e9a29d2247ea3e82",
+    "parent": "6d7226860b8067f4425f81c18222938121690f6bef09a64fb656bc55f3e6bd8b",
+    "timestamp": "2026-04-12T03:12:56.606Z",
+    "source": "profile:0001386570",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/39c811ba9a6597a4e076bcc58076e5aa3dcf42c41b025625e9a29d2247ea3e82",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.606Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

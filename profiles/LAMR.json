@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LAMR",
+  "name": "LAMAR ADVERTISING CO/NEW",
+  "cik": "0001090425",
+  "summary": "Lamar Advertising Company is one of the largest outdoor advertising companies in the United States, operating under the Lamar name since 1902. The company manages billboard, logo, and transit advertising segments, renting space on approximately 159,300 billboards (including 5,500 digital), 144,400 logo signs, and 40,600 transit displays across 45 states and Canada. It offers integrated services including ad copy production, placement, and maintenance, serving primarily local advertisers who constitute approximately 79% of outdoor net revenues.",
+  "products": [
+    {
+      "name": "Billboard Advertising",
+      "type": "service",
+      "description": "Rental of advertising space on bulletins and posters located on major highways, traffic arteries, and city streets targeting vehicular and pedestrian traffic."
+    },
+    {
+      "name": "Digital Billboard Advertising",
+      "type": "platform",
+      "description": "Rental of space on approximately 5,500 digital billboard displays across 43 states and Canada on major traffic arteries."
+    },
+    {
+      "name": "Logo Sign Advertising",
+      "type": "service",
+      "description": "Rental of advertising space on over 144,400 logo signs near highway exits advertising gas, food, lodging, and nearby attractions in 24 states."
+    },
+    {
+      "name": "Transit Advertising",
+      "type": "service",
+      "description": "Rental of advertising space on public transportation vehicles, airport terminals, transit shelters, and benches across over 80 markets in 23 states and Canada."
+    },
+    {
+      "name": "Programmatic Out-of-Home Advertising",
+      "type": "platform",
+      "description": "Offering unsold digital display inventory to advertisers via programmatic partners, representing approximately 2% of existing outdoor business."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Programmatic partners (unnamed)",
+      "partnership_type": "strategic",
+      "description": "Partners enabling advertisers to buy Lamar's unsold digital display inventory across multiple channels programmatically.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LAMR/profile",
+  "origin": {
+    "leaf": "e7b9a9c2a8e85b3f5199177c1f8444c59835680ef93c07974a44d7ee10b45ea2",
+    "parent": "e789337bb6b75a8986ec9ba308e99ed0f4b8c4a8b93afbbdfc9da6928b43c874",
+    "timestamp": "2026-04-12T03:12:54.987Z",
+    "source": "profile:0001090425",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e7b9a9c2a8e85b3f5199177c1f8444c59835680ef93c07974a44d7ee10b45ea2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.987Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

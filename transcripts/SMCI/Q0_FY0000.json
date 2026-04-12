@@ -1,0 +1,112 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "SMCI",
+  "company": "Super Micro Computer, Inc.",
+  "title": "SMCI   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 930,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "SMCI gross margin",
+      "predicate": "reported",
+      "object": "$14.8 percent",
+      "value": 14.8,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SMCI gross margin",
+      "predicate": "reported",
+      "object": "$0.0 percent",
+      "value": 0,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SMCI",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SMCI",
+      "predicate": "discussed",
+      "object": "GPU & Accelerators",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "gpu"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SMCI",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SMCI",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SMCI",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SMCI",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/SMCI/transcripts",
+  "origin": {
+    "leaf": "323d13e956c2af6bc31409d28f61022b2dc9ff0b905c537d63a8652b90b4cfab",
+    "parent": "0393e5b5a79e588b406a2935a1c993731b6692d611870ee1c6cf32a5c247c9621af85acc126887ab9c132e400c918691",
+    "timestamp": "2026-04-12T03:13:01.179Z",
+    "source": "transcript:SMCI_Supermicro_Q415_Earnings_Presentation_Slides_8-4-15.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/323d13e956c2af6bc31409d28f61022b2dc9ff0b905c537d63a8652b90b4cfab",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.179Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

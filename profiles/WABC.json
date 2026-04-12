@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WABC",
+  "name": "WESTAMERICA BANCORPORATION",
+  "cik": "0000311094",
+  "summary": "Westamerica Bancorporation (WABC) is a California-based bank holding company operating through its subsidiary Westamerica Bank. The company provides commercial banking products and services including loans, deposits, and investment securities primarily to consumers and businesses in California. Its operations focus on traditional banking services with emphasis on asset/liability management and maintaining credit quality across its loan and investment securities portfolios.",
+  "products": [
+    {
+      "name": "Commercial Loans",
+      "type": "service",
+      "description": "Lending products offered to business customers in California markets."
+    },
+    {
+      "name": "Deposit Accounts",
+      "type": "service",
+      "description": "Consumer and business deposit products including interest and non-interest bearing accounts."
+    },
+    {
+      "name": "Investment Securities",
+      "type": "service",
+      "description": "Investment portfolio management as part of the company's asset/liability strategy."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WABC/profile",
+  "origin": {
+    "leaf": "634c4f98bca0cb71d1f2851b9d47acecdfca32f90b75f383faddb24cce80f4c0",
+    "parent": "4178a56a9aed5ced18dafdf6acdaeba464bf8010ee4866e97e5250e3ba643286",
+    "timestamp": "2026-04-12T03:12:55.896Z",
+    "source": "profile:0000311094",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/634c4f98bca0cb71d1f2851b9d47acecdfca32f90b75f383faddb24cce80f4c0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.896Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

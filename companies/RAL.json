@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "RAL",
+  "name": "Ralliant Corp",
+  "cik": "0002041385",
+  "exchange": "NYSE",
+  "sic": "3823",
+  "sic_description": "Industrial Instruments For Measurement, Display, and Control",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Ralliant Corporation is a company that provides severance and change in control benefits to its officer-level employees. The filing excerpt is an amended and restated severance plan document outlining compensation and benefits for eligible employees upon termination under certain circumstances, including change in control events. No specific products or services are described in this section of the filing.",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/RAL",
+  "origin": {
+    "leaf": "f1fd84d860ae2178db9b10674f719477e21fa3645f6c4c62fb9c46c0c0cfad0b",
+    "parent": "b250287c2d4d61ea3c1f5c737b33dd99366245738bb76f3067d00cb8eb4c6067",
+    "timestamp": "2026-04-12T03:12:50.654Z",
+    "source": "0002041385-26-000023",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f1fd84d860ae2178db9b10674f719477e21fa3645f6c4c62fb9c46c0c0cfad0b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.654Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

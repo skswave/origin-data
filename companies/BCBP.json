@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BCBP",
+  "name": "BCB BANCORP INC",
+  "cik": "0001228454",
+  "exchange": "Nasdaq",
+  "sic": "6035",
+  "sic_description": "Savings Institution, Federally Chartered",
+  "state_of_incorporation": "NJ",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "1 ITEM 1A. RISK FACTORS 15 ITEM 1B. UNRESOLVED STAFF COMMENTS 22 ITEM 1C. CYBERSECURITY 22 ITEM 2. PROPERTIES 24 ITEM 3. LEGAL PROCEEDINGS 25 ITEM 4. MINE SAFETY DISCLOSURES 25 ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 25 ITEM 6. [RESERVED] 27 ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 27 ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 32 ITEM 8. FINAN...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BCBP",
+  "origin": {
+    "leaf": "122b0c316e9c7130f5c3bfc4abc8eecf59f8af103c9622adc64cbdd2a2c20305",
+    "parent": "97fdf93a9ea1115f81637292949b330eeb57e1691d36ef3d40fb0d0c477af656",
+    "timestamp": "2026-04-12T03:12:52.027Z",
+    "source": "0001228454-26-000004",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/122b0c316e9c7130f5c3bfc4abc8eecf59f8af103c9622adc64cbdd2a2c20305",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.027Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

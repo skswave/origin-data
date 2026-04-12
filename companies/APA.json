@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "APA",
+  "name": "APA Corp",
+  "cik": "0001841666",
+  "exchange": "Nasdaq",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "APA Corp (CIK: 0001841666) is an oil and gas exploration and production company operating across multiple geographic segments including the United States, Egypt, and the North Sea. The company produces oil, natural gas, and natural gas liquids (NGLs). It sells production revenues through customers such as the Egyptian General Petroleum Company and manages commodity contracts across its operating segments.",
+  "tags": [
+    "united-states-oil-and-gas-exploration-and-production",
+    "egypt-oil-and-gas-exploration-and-production",
+    "north-sea-oil-and-gas-exploration-and-production"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/APA",
+  "origin": {
+    "leaf": "16bcd4342161599b189236618ec0399b22386c6a6c583aade4d7e241b56ee694",
+    "parent": "00bc26d8450957e197221ebef62521810122f1abd2b39d2677f27c0341244171",
+    "timestamp": "2026-04-12T03:12:50.448Z",
+    "source": "0001841666-26-000015",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/16bcd4342161599b189236618ec0399b22386c6a6c583aade4d7e241b56ee694",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.448Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CERO",
+  "name": "CERO THERAPEUTICS HOLDINGS, INC.",
+  "cik": "0001870404",
+  "summary": "CERo Therapeutics Holdings, Inc. is a clinical-stage biopharmaceutical company focused on developing chimeric engulfment receptor (CER) T-cell therapies for cancer. Its lead product candidate, CER-1236, is being developed as a cell therapy. The company completed a business combination with Phoenix Biotech Acquisition Corp. (PBAX) in February 2024 and is advancing CER-1236 through preclinical studies and clinical trials targeting oncology indications.",
+  "products": [
+    {
+      "name": "CER-1236",
+      "type": "platform",
+      "description": "Lead chimeric engulfment receptor T-cell therapy product candidate being developed for cancer treatment, currently in preclinical and clinical trial stages."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Arena Business Solutions Global SPC II, Ltd.",
+      "partnership_type": "strategic",
+      "description": "Purchase Agreement dated February 23, 2024 for issuance and sale of Common Stock to Arena.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Keystone Capital Partners, LLC",
+      "partnership_type": "strategic",
+      "description": "Common Stock Purchase Agreements (February 2024 and November 2024) allowing CERo to sell shares to Keystone.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CERO/profile",
+  "origin": {
+    "leaf": "2e38edca2506c2240ef18c87801893dbd013b0b4565de6fdc641a3fcae826e22",
+    "parent": "2dab33d5e5e6f3cb19f12a6ebd674b047adad99b18b9f5aea7e57e53785cbd57",
+    "timestamp": "2026-04-12T03:12:59.174Z",
+    "source": "profile:0001870404",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2e38edca2506c2240ef18c87801893dbd013b0b4565de6fdc641a3fcae826e22",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.174Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

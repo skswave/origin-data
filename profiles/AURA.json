@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AURA",
+  "name": "Aura Biosciences, Inc.",
+  "cik": "0001501796",
+  "summary": "Aura Biosciences is a clinical-stage biotechnology company developing precision therapies to treat solid tumors while preserving organ function. Its lead candidate, belzupacap sarotalocan (bel-sar), is a virus-like drug conjugate (VDC) in late-stage clinical development for early choroidal melanoma, as well as metastases to the choroid, cancers of the ocular surface, and non-muscle invasive bladder cancer (NMIBC). Bel-sar uses modified HPV capsid proteins conjugated to light-activated molecules to selectively kill tumor cells.",
+  "products": [
+    {
+      "name": "belzupacap sarotalocan (bel-sar)",
+      "type": "platform",
+      "description": "Lead VDC candidate consisting of modified HPV capsid proteins conjugated to light-activated molecules for treating solid tumors including choroidal melanoma, metastases to the choroid, ocular surface cancers, and bladder cancer."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AURA/profile",
+  "origin": {
+    "leaf": "56b8eab27c33f2000821e985b23fac835c4dbbc93e6df4b0ac2c31dac6445cab",
+    "parent": "f16ac973630c70441343340890f8485a7edee4bfcd857fcfbccf0f7d871d71e1",
+    "timestamp": "2026-04-12T03:12:56.476Z",
+    "source": "profile:0001501796",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/56b8eab27c33f2000821e985b23fac835c4dbbc93e6df4b0ac2c31dac6445cab",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.476Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

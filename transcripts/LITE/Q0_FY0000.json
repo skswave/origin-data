@@ -1,0 +1,117 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "LITE",
+  "company": "Lumentum Holdings Inc.",
+  "title": "LITE   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 1399,
+  "speakers": [
+    {
+      "name": "Performance",
+      "title": "Cloud and AI business drove Q2 total company revenue up >65% and expanded operating margin >1,700 bps (YoY basis)  –   Q2 revenue at high end of guided range  –   EPS above guided range as a result of structural improvements in gross and operating margin  ▪   Components  –   Revenue up 17% QoQ and 68% YoY; strong growth across intra - data center, DCI, and long - haul applications  –   Set new company records in 100G and 200G EML shipments; 200G EMLs contributed ~10% of datacom chip revenue  –   Continued growth in ultra - high - power lasers for CPO solutions; broader ramp expected in 2H CY26  –   8 th   straight sequential quarter of growth in narrow linewidth lasers for DCI  –   Delivered a company record quarter in pump lasers for scale - across and sub - sea applications  –   QoQ and YoY growth in coherent components for long - haul networks  ▪   Systems  –   Revenue up 43% QoQ and 60% YoY led by company record cloud transceiver shipments, reflecting ramp progress  –   OCS shipments exceeded $10M quarterly run rate; manufacturing readiness proceeding ahead of plan\n\n© 2026 Lumentum Holdings   Inc   4  Revenue by Product Type  $ in millions  Q2   FY 26   Q1 FY26   Q2   FY 25  Components   $443",
+      "firm": "700 bps (YoY basis)  –   Q2 revenue at high end of guided range  –   EPS above guided range as a result of structural improvements in gross and operating margin  ▪   Components  –   Revenue up 17% QoQ and 68% YoY; strong growth across intra - data center",
+      "speaker_type": "executive",
+      "mention_count": 1
+    },
+    {
+      "name": "Diluted   Shares",
+      "title": "M   86",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "LITE EPS",
+      "predicate": "reported",
+      "object": "$0.89",
+      "value": 0.89,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LITE EPS",
+      "predicate": "reported",
+      "object": "$1.67",
+      "value": 1.67,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LITE",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LITE",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LITE",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LITE",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LITE",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/LITE/transcripts",
+  "origin": {
+    "leaf": "e3f371266616d074b0b6de9ce18cf9f53111ae47ef21807e4d77743c05612194",
+    "parent": "8293b2b2cc986748f6267ff1fb580857c90fd865864aa8a91ed09c07753f4221960b1dc50d2a5d5e53836626aea6e8c0",
+    "timestamp": "2026-04-12T03:13:01.021Z",
+    "source": "transcript:LITE_Q2-FY26-Earnings-Presentation-final_2.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e3f371266616d074b0b6de9ce18cf9f53111ae47ef21807e4d77743c05612194",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.021Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

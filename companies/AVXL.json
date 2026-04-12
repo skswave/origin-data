@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AVXL",
+  "name": "ANAVEX LIFE SCIENCES CORP.",
+  "cik": "0001314052",
+  "exchange": "Nasdaq",
+  "sic": "2836",
+  "sic_description": "Biological Products, (No Diagnostic Substances)",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "Anavex Life Sciences Corp. is a clinical-stage biopharmaceutical company developing precision medicine therapeutics for central nervous system diseases including Alzheimer's disease, Parkinson's disease, Rett syndrome, schizophrenia, and other neurodegenerative and neurodevelopmental disorders. Its lead compound, ANAVEX 2-73 (blarcamesine), targets sigma-1 and muscarinic receptors and is in multiple clinical trials. A second compound, ANAVEX 3-71, is in one clinical trial. The company uses genomic biomarker analysis and AI-driven machine learning to support precision medicine approaches.",
+  "tags": [
+    "alzheimer's-disease",
+    "parkinson's-disease",
+    "rett-syndrome",
+    "fragile-x-syndrome",
+    "schizophrenia",
+    "neurodegenerative-diseases",
+    "neurodevelopmental-diseases",
+    "rare-diseases",
+    "mixed-model-for-repeated-measures-(mmrm)",
+    "positron-emission-tomography-(pet)-imaging",
+    "machine-learning/ai-genomic-analysis"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AVXL",
+  "origin": {
+    "leaf": "fa1941d78d34c4155bbdd8c2ab74ea7bcb248562e0174c9015d243603d00693c",
+    "parent": "d2da1abbf18416f86af0bae4ba52a6b2fc6e1a100e1ab2b76957ece716534c4e",
+    "timestamp": "2026-04-12T03:12:51.735Z",
+    "source": "0001731122-25-001596",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fa1941d78d34c4155bbdd8c2ab74ea7bcb248562e0174c9015d243603d00693c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.735Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HNRG",
+  "name": "HALLADOR ENERGY CO",
+  "cik": "0000788965",
+  "exchange": "Nasdaq",
+  "sic": "4911",
+  "sic_description": "Electric Services",
+  "state_of_incorporation": "CO",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Hallador Energy Company is a vertically integrated independent power producer and fuel company operating primarily in Indiana. Through Hallador Power, it owns and operates the 1,080 MW Merom coal-fired power plant, selling accredited capacity and wholesale energy within the MISO market. Through Sunrise Coal, it mines bituminous coal in the Illinois Basin, supplying power plants in the Midwest and Southeast United States.",
+  "tags": [
+    "wholesale-electricity-market-(miso)",
+    "coal-supply-for-power-generation",
+    "midcontinent-independent-system-operator-(miso)-footprint",
+    "nerc-reliability-standards",
+    "ferc-market-based-rate-authority",
+    "miso-interconnection-requirements",
+    "osha-hazard-communication-standards",
+    "federal-mine-safety-and-health-act-(fmsha)-regulations"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HNRG",
+  "origin": {
+    "leaf": "028b35815421ab071f884569f35a33bb7970a5b3db6fc303fe720da1bd6e1339",
+    "parent": "8e16a70c24153dfe42412a8b1512c91ab624cdeab8f3d7ca106e6af41c35f0bc",
+    "timestamp": "2026-04-12T03:12:51.200Z",
+    "source": "0001104659-26-027174",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/028b35815421ab071f884569f35a33bb7970a5b3db6fc303fe720da1bd6e1339",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.200Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

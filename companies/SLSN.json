@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SLSN",
+  "name": "SOLESENCE, INC.",
+  "cik": "0000883107",
+  "exchange": "Nasdaq",
+  "sic": "2844",
+  "sic_description": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Solesence, Inc. operates across three business segments: Consumer Products, Personal Care Ingredients, and Advanced Materials. The company develops and sells consumer products, personal care ingredient solutions, and advanced materials. Specific product lines include items distributed through multiple market channels. The filing references research and development activities, manufacturing operations, and intellectual property assets, indicating a technology and materials-focused company with diversified revenue streams.",
+  "tags": [
+    "consumer-products",
+    "personal-care-ingredients",
+    "advanced-materials"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SLSN",
+  "origin": {
+    "leaf": "4ce56e0f8acf6837660b647502698e317d0bcf3c74989e2126485f296b036a78",
+    "parent": "02f50b2b3c0bb520d55cfedd1d25b4a4657fa3a0fc20b5b4bd4e6e46649a0fdb",
+    "timestamp": "2026-04-12T03:12:52.407Z",
+    "source": "0001999371-26-007345",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4ce56e0f8acf6837660b647502698e317d0bcf3c74989e2126485f296b036a78",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.407Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

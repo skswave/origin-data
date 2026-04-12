@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BYSI",
+  "name": "BeyondSpring Inc.",
+  "cik": "0001677940",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "BeyondSpring Inc. (BYSI) is a clinical-stage biopharmaceutical company focused on developing innovative cancer therapies. The company's pipeline includes plinabulin, a novel anticancer agent being developed for multiple oncology indications. BeyondSpring conducts clinical trials and research aimed at bringing new treatments to patients with unmet medical needs in oncology.",
+  "tags": [
+    "oncology",
+    "biopharmaceuticals"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BYSI",
+  "origin": {
+    "leaf": "ac267b68e6848b3ffbd809f14321447d92d9cfb68f41fafc14f1c89d45ae0309",
+    "parent": "d5bd3763d0c5c5af42d9744762809f12d074dd9d9080d8b3a28a02dc540a1533",
+    "timestamp": "2026-04-12T03:12:52.372Z",
+    "source": "0001171843-26-001908",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ac267b68e6848b3ffbd809f14321447d92d9cfb68f41fafc14f1c89d45ae0309",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.372Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

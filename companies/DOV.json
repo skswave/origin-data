@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "DOV",
+  "name": "DOVER Corp",
+  "cik": "0000029905",
+  "exchange": "NYSE",
+  "sic": "3530",
+  "sic_description": "Construction, Mining & Materials Handling Machinery & Equip",
+  "state_of_incorporation": "NY",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Overview Dover Corporation is a diversified global manufacturer and solutions provider delivering innovative equipment and components, consumable supplies, aftermarket parts, software and digital solutions and support services through five operating segments: Engineered Products, Clean Energy & Fueling, Imaging & Identification, Pumps & Process Solutions, and Climate & Sustainability Technologies. Unless the context indicates otherwise, references herein to \"Dover,\" \"the Company,\" and wor...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/DOV",
+  "origin": {
+    "leaf": "6a9768922bfab6efbdf683249ae9f86364c66588e7893441ca5b7b4fab95ae30",
+    "parent": "305865ccdc63e7f68db4367c1eb32dff4b8bab0e13e22783e99492b224afffbc",
+    "timestamp": "2026-04-12T03:12:50.386Z",
+    "source": "0000029905-26-000009",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6a9768922bfab6efbdf683249ae9f86364c66588e7893441ca5b7b4fab95ae30",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.386Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FMAO",
+  "name": "FARMERS & MERCHANTS BANCORP INC",
+  "cik": "0000792966",
+  "summary": "Farmers & Merchants Bancorp, Inc. is an Ohio-incorporated bank holding company operating primarily through The Farmers & Merchants State Bank, a community bank serving Northwest Ohio, Northeast Indiana, and Southeast Michigan since 1897. The Bank offers commercial, agricultural, and residential mortgage lending, consumer loans, checking and savings accounts, CDs, IRAs, HSAs, online banking, ACH services, remote deposit capture, investment services via FM Investment Services (Raymond James), and insurance products through F&M Insurance Agency, LLC.",
+  "products": [
+    {
+      "name": "Commercial & Industrial Loans",
+      "type": "service",
+      "description": "Operating lines of credit and machinery purchase financing for business customers."
+    },
+    {
+      "name": "Agricultural Loans",
+      "type": "service",
+      "description": "Loans for farmland, farm equipment, livestock, and operating expenses like seed and fertilizer."
+    },
+    {
+      "name": "Residential Mortgage Loans",
+      "type": "service",
+      "description": "Fixed-rate, hybrid, and adjustable-rate mortgage products including a Hometown Advantage low-income program."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "Loans for autos, trucks, boats, RVs, motorcycles, and home improvements."
+    },
+    {
+      "name": "Checking & Savings Accounts",
+      "type": "service",
+      "description": "Deposit products including checking, savings, certificates of deposit, IRAs, and HSAs."
+    },
+    {
+      "name": "Online & Mobile Banking",
+      "type": "platform",
+      "description": "Consumer and business digital banking including bill-pay, mobile banking, and ACH/wire origination."
+    },
+    {
+      "name": "Remote Deposit Capture",
+      "type": "service",
+      "description": "Electronic deposit processing for business customers."
+    },
+    {
+      "name": "FM Investment Services",
+      "type": "service",
+      "description": "Brokerage and investment services offered through Raymond James Financial Services since 1999."
+    },
+    {
+      "name": "F&M Insurance Agency, LLC",
+      "type": "service",
+      "description": "Insurance products offered to bank customers, formed November 2023."
+    },
+    {
+      "name": "ITMs/ATMs",
+      "type": "hardware",
+      "description": "Interactive Teller Machines and ATMs at branch and independent locations providing remote teller access."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Raymond James Financial Services, Inc.",
+      "partnership_type": "strategic",
+      "description": "Securities offered through Raymond James via FM Investment Services brokerage department.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Freddie Mac",
+      "partnership_type": "strategic",
+      "description": "Secondary market participation for longer-term fixed-rate mortgage loans.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Farm Service Agency (FSA)",
+      "partnership_type": "strategic",
+      "description": "Guaranteed secondary agricultural market lending program participation.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Small Business Lending programs",
+      "partnership_type": "strategic",
+      "description": "Participation in SBA-type programs to offer small business loan products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "State of Ohio (Ag-Link, Grow Now, Ohio Homebuyers Plus)",
+      "partnership_type": "strategic",
+      "description": "Three Ohio state programs offering cost-saving products to bank and consumers.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FMAO/profile",
+  "origin": {
+    "leaf": "3b053645c473eac026bd0a8716111e52e5a6aa6748e43e071bc85b024189293d",
+    "parent": "9f6d1a060d2b8b684ce415ca2f78560149f60f85548582d61d69db18a78a93a0",
+    "timestamp": "2026-04-12T03:12:56.606Z",
+    "source": "profile:0000792966",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3b053645c473eac026bd0a8716111e52e5a6aa6748e43e071bc85b024189293d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.607Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

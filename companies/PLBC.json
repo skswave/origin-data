@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PLBC",
+  "name": "PLUMAS BANCORP",
+  "cik": "0001168455",
+  "exchange": "Nasdaq",
+  "sic": "6153",
+  "sic_description": "Short-Term Business Credit Institutions",
+  "state_of_incorporation": "CA",
+  "headquarters": "Reno, Nevada",
+  "founded": "1980",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Plumas Bancorp is a bank holding company headquartered in Reno, Nevada, operating primarily through its subsidiary Plumas Bank, a California state-chartered bank founded in 1980. The Bank offers commercial real estate loans, SBA loans, agricultural lending, consumer loans, and a wide range of deposit products including checking, money market, savings, and time deposit accounts. It serves individuals, businesses, and municipalities across Northeastern California and Northwestern Nevada through seventeen California branches and two Nevada branches.",
+  "tags": [
+    "commercial-banking",
+    "agricultural-lending",
+    "small-business-lending",
+    "retail-banking",
+    "municipal/public-entity-banking",
+    "northeastern-california-communities",
+    "northwestern-nevada-communities"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PLBC",
+  "origin": {
+    "leaf": "87f3c58e69c1aaf929e99fd4ddd9ac1e09a477774de23141cfcc919a1a0513d4",
+    "parent": "fb6d6162fb41af806a1cc87e81975bcc762ade62df25ad60b3bf896007db1863",
+    "timestamp": "2026-04-12T03:12:51.591Z",
+    "source": "0001437749-26-008956",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/87f3c58e69c1aaf929e99fd4ddd9ac1e09a477774de23141cfcc919a1a0513d4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.591Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

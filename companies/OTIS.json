@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "OTIS",
+  "name": "Otis Worldwide Corp",
+  "cik": "0001781335",
+  "exchange": "NYSE",
+  "sic": "3600",
+  "sic_description": "Electronic & Other Electrical Equipment (No Computer Equip)",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Our Company Otis is t he worlds leading elevator and escalator manufacturing, installation, service and modernization company. We serve customers in ov er 200 countries and territories around t he world. Otis has global scale and local focus, with more than 1,400 branc hes and offices, and a direct physical presence in more than 70 co untries. The following description of our busin ess should be read in conjunction with Item 7 in this Form 10-K, including the information contained therein...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/OTIS",
+  "origin": {
+    "leaf": "b903f050ff9837167d722818fd578d5ffe7e7938708a9f5313da2c565007ac8d",
+    "parent": "16bb7c6dcf378815f68880be69e232b7840361ed05bffc515a20d70728fea91e",
+    "timestamp": "2026-04-12T03:12:50.379Z",
+    "source": "0001781335-26-000011",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b903f050ff9837167d722818fd578d5ffe7e7938708a9f5313da2c565007ac8d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.379Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

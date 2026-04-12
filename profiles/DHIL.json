@@ -1,0 +1,70 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DHIL",
+  "name": "DIAMOND HILL INVESTMENT GROUP INC",
+  "cik": "0000909108",
+  "summary": "Diamond Hill Investment Group, Inc. (DHIL) derives revenue from investment advisory and fund administration services through its wholly-owned subsidiary Diamond Hill Capital Management, Inc. (DHCM). DHCM manages open-end mutual funds, an ETF, a closed-end fund, a private fund, separately managed accounts, collective investment trusts, sub-advised funds, and model delivery programs. The firm employs valuation-disciplined active portfolio management and fundamental bottom-up research, serving institutionally oriented investors across equity and other asset classes.",
+  "products": [
+    {
+      "name": "Diamond Hill Funds",
+      "type": "service",
+      "description": "Series of open-end mutual funds managed and administered by DHCM."
+    },
+    {
+      "name": "Diamond Hill Large Cap Concentrated ETF",
+      "type": "service",
+      "description": "An exchange-traded fund managed by DHCM."
+    },
+    {
+      "name": "Diamond Hill Securitized Credit Fund (DHSC)",
+      "type": "service",
+      "description": "A closed-end registered investment company managed by DHCM."
+    },
+    {
+      "name": "Diamond Hill Micro Cap Fund, LP (DHMF)",
+      "type": "service",
+      "description": "A private fund for which DHCM provides investment advisory and related services."
+    },
+    {
+      "name": "Separately Managed Accounts (SMAs)",
+      "type": "service",
+      "description": "Individually managed investment accounts offered by DHCM."
+    },
+    {
+      "name": "Collective Investment Trusts (CITs)",
+      "type": "service",
+      "description": "Pooled investment vehicles managed by DHCM."
+    },
+    {
+      "name": "Model Delivery Programs",
+      "type": "service",
+      "description": "Investment model portfolios delivered to clients by DHCM."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "First Eagle Investment Management, LLC",
+      "partnership_type": "strategic",
+      "description": "Proposed merger agreement signed December 10, 2025; DHIL to become wholly-owned subsidiary of First Eagle upon completion.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DHIL/profile",
+  "origin": {
+    "leaf": "03988c778344160a53897ae3123edf4936d0a0f70209800ba398710710f7fce5",
+    "parent": "402720001f60cc532002ad5d1b7d20df41ae8e82c132c378474e2c1bacd93d4f",
+    "timestamp": "2026-04-12T03:12:56.419Z",
+    "source": "profile:0000909108",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/03988c778344160a53897ae3123edf4936d0a0f70209800ba398710710f7fce5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.419Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

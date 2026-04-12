@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SLB",
+  "name": "SLB LIMITED/NV",
+  "cik": "0000087347",
+  "exchange": "NYSE",
+  "sic": "1389",
+  "sic_description": "Oil & Gas Field Services, NEC",
+  "state_of_incorporation": "P8",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "SLB is a global technology company providing energy services and solutions across more than 100 countries. It operates through four divisions: Digital (cloud platforms, AI, seismic data), Reservoir Performance (wireline, stimulation, intervention), Well Construction (drilling, measurements, fluids, equipment), and Production Systems (subsea, artificial lift, completions, valves). SLB also offers Data Center Solutions and carbon capture via SLB Capturi. In 2025, it acquired ChampionX, a leader in chemistry solutions and artificial lift.",
+  "tags": [
+    "oil-and-gas-exploration",
+    "oil-and-gas-drilling",
+    "reservoir-performance-and-stimulation",
+    "subsea-production",
+    "digital-energy-technology",
+    "carbon-capture-and-decarbonization",
+    "data-center-infrastructure",
+    "energy-transition-and-new-energy-systems",
+    "midstream-and-downstream-valves"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SLB",
+  "origin": {
+    "leaf": "f542cca2f1c1b0eba41584d9cafea1a04dd267b179b8045fab7fe1dd8f57bec8",
+    "parent": "94964e807f4bc3cd3bd4807a63ea835d03be4093a1c9858a44db11ae3749b319",
+    "timestamp": "2026-04-12T03:12:50.324Z",
+    "source": "0001193125-26-021017",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f542cca2f1c1b0eba41584d9cafea1a04dd267b179b8045fab7fe1dd8f57bec8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.324Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

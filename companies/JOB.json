@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "JOB",
+  "name": "GEE Group Inc.",
+  "cik": "0000040570",
+  "exchange": "NYSE",
+  "sic": "7361",
+  "sic_description": "Services-Employment Agencies",
+  "state_of_incorporation": "IL",
+  "headquarters": "Not specifically stated (operations in Atlanta, Dallas",
+  "founded": "1962",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "GEE Group Inc. is a provider of human resources solutions, primarily offering temporary and permanent staffing in professional services sectors across the United States. Through subsidiaries including SNI Companies, Access Data Consulting, Agile Resources, Paladin Consulting, and others, the company serves IT, engineering, accounting and finance, office support, and healthcare verticals. It operates via four virtual and 19 branch office locations near major U.S. cities, serving clients from small businesses to Fortune 1000 companies.",
+  "tags": [
+    "information-technology-(it)-staffing",
+    "engineering-staffing",
+    "accounting-and-finance-staffing",
+    "office-support-staffing",
+    "healthcare-staffing-(medical-scribes)",
+    "banking-and-financial-services-staffing",
+    "government-contractor-staffing",
+    "ai-and-digital-transformation-staffing",
+    "electronic-medical-record-(emr)-services",
+    "managed-service-provider-(msp)-arrangements",
+    "vendor-management-system-(vms)-arrangements"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/JOB",
+  "origin": {
+    "leaf": "4def06ab609034e3699492e02117b6b018b6dedddc4a0a2d6c370d4f6aeac01a",
+    "parent": "263c439e50783aaa31d16163e72facddb3a6e49fe55acee190357da2cc70e1e4",
+    "timestamp": "2026-04-12T03:12:52.783Z",
+    "source": "0001477932-25-009011",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4def06ab609034e3699492e02117b6b018b6dedddc4a0a2d6c370d4f6aeac01a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.783Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

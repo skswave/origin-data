@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NCLH",
+  "name": "Norwegian Cruise Line Holdings Ltd.",
+  "cik": "0001513761",
+  "summary": "Norwegian Cruise Line Holdings Ltd. (NCLH) is a global cruise company operating three brands: Norwegian Cruise Line, Oceania Cruises, and Regent Seven Seas Cruises. The company operates a fleet of cruise ships offering voyages worldwide, with ships categorized into classes including Prima Class, Prestige Class, Allura Class, and Sonata Class, serving leisure travelers across various market segments and price points.",
+  "products": [
+    {
+      "name": "Norwegian Cruise Line",
+      "type": "service",
+      "description": "Mass-market cruise brand operating Prima Class ships including Norwegian Prima, Norwegian Viva, Norwegian Aqua, Norwegian Luna, and Norwegian Aura."
+    },
+    {
+      "name": "Oceania Cruises",
+      "type": "service",
+      "description": "Premium cruise brand operating Allura Class ships (Vista, Allura) and Sonata Class ships including Oceania Sonata and Oceania Arietta."
+    },
+    {
+      "name": "Regent Seven Seas Cruises",
+      "type": "service",
+      "description": "Luxury cruise brand operating Prestige Class ships including Seven Seas Prestige with additional ships on order."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "JPMorgan Chase Bank, N.A.",
+      "partnership_type": "strategic",
+      "description": "Administrative agent and collateral agent for approximately $2.5 billion senior secured revolving credit facility.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Bank National Association",
+      "partnership_type": "strategic",
+      "description": "Trustee for NCLC's 2025 Exchangeable Senior Notes issuance of $450.0 million aggregate principal.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Bank Trust Company, National Association",
+      "partnership_type": "strategic",
+      "description": "Trustee for NCLC's 2030 Exchangeable Notes issuances totaling approximately $1.76 billion aggregate principal.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NCLH/profile",
+  "origin": {
+    "leaf": "355b495359d1f39e8f47304882efcbcd62830d48fd612874827629b6b4a8b500",
+    "parent": "0976d48ba5219a3ed39a03955e3efe314d63f257e1ec57f284207dd490f085cd",
+    "timestamp": "2026-04-12T03:12:55.092Z",
+    "source": "profile:0001513761",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/355b495359d1f39e8f47304882efcbcd62830d48fd612874827629b6b4a8b500",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.092Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

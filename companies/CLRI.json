@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CLRI",
+  "name": "Cleartronic, Inc.",
+  "cik": "0001362516",
+  "exchange": "OTC",
+  "sic": "4812",
+  "sic_description": "Radiotelephone Communications",
+  "state_of_incorporation": "FL",
+  "headquarters": null,
+  "founded": "1999",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "Cleartronic, Inc. (CLRI) operates through its wholly owned subsidiary ReadyOp Communications, Inc., offering web-based planning and communications platforms including ReadyOp, ReadyMed, and Alastar, primarily as SaaS on annual contracts. The company also manufactures and sells AudioMate 360 IP Gateways for unified group communications. Clients include federal, state, and local government agencies, hospitals, school districts, utilities, and corporations. ReadyOp serves as the continuity of operations (COOP) platform for multiple federal agencies.",
+  "tags": [
+    "federal-government-agencies",
+    "state-and-local-government-agencies",
+    "healthcare-(hospitals,-clinics,-doctor's-offices,-health-insurance-companies)",
+    "school-districts",
+    "utilities",
+    "corporations",
+    "workers-compensation-insurance-companies",
+    "emergency-response-organizations",
+    "internet-protocol-(ip)",
+    "radio-interoperability",
+    "software-as-a-service-(saas)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CLRI",
+  "origin": {
+    "leaf": "f1502b41805c0399d10ad8cbacf4cde0c7403387de63567841abe57dd102d95b",
+    "parent": "8e32c6e1a451fefdbaaf166c3e4ed602b812aab169694b0bcc1b42b083af5a67",
+    "timestamp": "2026-04-12T03:12:53.547Z",
+    "source": "0001091818-25-000175",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f1502b41805c0399d10ad8cbacf4cde0c7403387de63567841abe57dd102d95b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.547Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

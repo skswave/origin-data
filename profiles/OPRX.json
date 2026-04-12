@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "OPRX",
+  "name": "OptimizeRx Corp",
+  "cik": "0001448431",
+  "summary": "OptimizeRx Corp (OPRX) is a digital health company that enables life sciences companies to communicate with healthcare providers through electronic health record (EHR) systems and other digital health platforms. The company delivers clinical and financial messages, patient support resources, and branded communications directly within physician workflows, helping pharmaceutical and biotech companies reach providers at the point of care.",
+  "products": [
+    {
+      "name": "Digital Health Platform",
+      "type": "platform",
+      "description": "Connects life sciences companies with healthcare providers through EHR systems to deliver clinical, financial, and branded communications at point of care."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/OPRX/profile",
+  "origin": {
+    "leaf": "abdfebdf089c55f0586a3efa94db5962613d6856e8a7650c87f4a09685eb9f75",
+    "parent": "e9d127792768cc1c23a6e75d50c264bd0bf27021582d6b91f376f31a0653492c",
+    "timestamp": "2026-04-12T03:12:57.326Z",
+    "source": "profile:0001448431",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/abdfebdf089c55f0586a3efa94db5962613d6856e8a7650c87f4a09685eb9f75",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.326Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

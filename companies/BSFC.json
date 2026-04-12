@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BSFC",
+  "name": "Blue Star Foods Corp.",
+  "cik": "0001730773",
+  "exchange": "OTC",
+  "sic": "2092",
+  "sic_description": "Prepared Fresh or  Frozen Fish & Seafoods",
+  "state_of_incorporation": "DE",
+  "headquarters": "Miami, Florida",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Blue Star Foods Corp. is an international seafood company based in Miami, Florida that imports, packages, and sells refrigerated pasteurized crab meat and other premium seafood products. It operates through subsidiaries including Coastal Pride Seafood (crab meat from Mexico/Latin America), Taste of BC Aquafarms (land-based RAS steelhead salmon farming in Canada), and John Keeler & Co. (crab meat from Southeast Asia). Products are sold under brands including Blue Star, Oceanica, Pacifika, First Choice, Good Stuff, and Coastal Pride Fresh to food service wholesalers, retail establishments, and seafood distributors in the US and Canada.",
+  "tags": [
+    "food-service-wholesale-distribution",
+    "retail-seafood",
+    "seafood-distribution-(us-and-canada)",
+    "land-based-aquaculture-(canada)",
+    "fda-approved-hazard-analysis-critical-control-point-(haccp)-plan",
+    "british-retail-consortium-(brc)-certification",
+    "scan-on-demand-qr-code-enabled-traceability-application",
+    "gps-based-crab-sourcing-traceability-system",
+    "canadian-food-inspection-agency-(cfia)-approved-processing"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BSFC",
+  "origin": {
+    "leaf": "ba354b40a20ed9b995ffe0ff7493df3319bca5e136d3f609731751d32e6c43b0",
+    "parent": "9d26ec4b8a0abcff30f4136ca8b55ebf6b29dae1d45d96e84d54d3cecb0f00ed",
+    "timestamp": "2026-04-12T03:12:53.769Z",
+    "source": "0001641172-25-015976",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ba354b40a20ed9b995ffe0ff7493df3319bca5e136d3f609731751d32e6c43b0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.769Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

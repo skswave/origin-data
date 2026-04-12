@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "WBD",
+  "name": "Warner Bros. Discovery, Inc.",
+  "cik": "0001437107",
+  "exchange": "Nasdaq",
+  "sic": "4841",
+  "sic_description": "Cable & Other Pay Television Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Warner Bros. Discovery, Inc. is a global media and entertainment company that creates and distributes content across television, film, streaming, and interactive gaming. Its portfolio includes linear TV networks, streaming services, and a content library. The company operates across multiple segments and derives revenue from advertising, distribution, and content licensing, with products spanning news, sports, entertainment, and direct-to-consumer streaming offerings.",
+  "tags": [
+    "television-advertising",
+    "streaming/direct-to-consumer",
+    "theatrical-film-distribution",
+    "interactive-gaming",
+    "sports-media-rights",
+    "international-media-and-entertainment"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/WBD",
+  "origin": {
+    "leaf": "5f0a313e23bc8addc1d943b29142da86f5141cdd48a98890a7e0a22d776dcbcd",
+    "parent": "e487122f8d75887525d7f1da2e1699b8fc65dfc19f2f3d1ba59defe8df945749",
+    "timestamp": "2026-04-12T03:12:50.331Z",
+    "source": "0001437107-26-000020",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5f0a313e23bc8addc1d943b29142da86f5141cdd48a98890a7e0a22d776dcbcd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.331Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

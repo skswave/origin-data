@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SFIX",
+  "name": "Stitch Fix, Inc.",
+  "cik": "0001576942",
+  "summary": "Stitch Fix is an online personal styling service founded in 2011 that delivers curated shipments of apparel, shoes, and accessories (called Fixes) selected by human Stylists aided by proprietary AI and recommendation algorithms. Clients can also purchase directly via Freestyle on the website or mobile app. The company offers womens, mens, kids, petite, maternity, and plus apparel across private and national brands, operating exclusively in the United States with approximately 2,309,000 active clients as of August 2, 2025.",
+  "products": [
+    {
+      "name": "Fix",
+      "type": "service",
+      "description": "Curated box of apparel, shoes, and accessories selected by Stylists and AI algorithms, delivered to clients to try at home."
+    },
+    {
+      "name": "Freestyle",
+      "type": "platform",
+      "description": "Direct purchase channel via website or mobile app offering personalized item and outfit recommendations without a styling fee."
+    },
+    {
+      "name": "StyleFile",
+      "type": "service",
+      "description": "Personalized style personality snapshot presented to clients at end of onboarding sign-up process."
+    },
+    {
+      "name": "Style Pass",
+      "type": "service",
+      "description": "Annual $49 subscription providing unlimited styling for the year, credited toward merchandise purchases."
+    },
+    {
+      "name": "Style Card",
+      "type": "service",
+      "description": "Digital QR-code-linked card providing personalized, shoppable outfit ideas built around Fix items and previously purchased items."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Various brand partners (established and emerging brands)",
+      "partnership_type": "strategic",
+      "description": "Stitch Fix partners with national and emerging brands across multiple price points; some design exclusive items for Stitch Fix clients.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SFIX/profile",
+  "origin": {
+    "leaf": "fbdb1f608279cd9603d1e99915f511b086959d6ee18a6ff1d74eb8bc3c40cf53",
+    "parent": "f52b50cf32cea0a3538927a7da0d1d0b263712332b1f8dc6a3bb2671d7708018",
+    "timestamp": "2026-04-12T03:12:56.439Z",
+    "source": "profile:0001576942",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fbdb1f608279cd9603d1e99915f511b086959d6ee18a6ff1d74eb8bc3c40cf53",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.439Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IBIO",
+  "name": "iBio, Inc.",
+  "cik": "0001420720",
+  "summary": "iBio, Inc. is a preclinical stage biotechnology company using Artificial Intelligence (AI) and machine learning (ML) to develop precision antibody therapeutics targeting obesity and cardiometabolic diseases. Key pipeline assets include IBIO-600 (anti-myostatin antibody) and IBIO-610 (Activin E antibody), developed via an AI-enabled epitope steering and antibody optimization platform. The company operates from a San Diego R&D laboratory and anticipates first human clinical trials in late fiscal 2026 or early fiscal 2027.",
+  "products": [
+    {
+      "name": "IBIO-600",
+      "type": "platform",
+      "description": "Long-acting anti-myostatin antibody in IND-enabling studies aimed at muscle preservation and fat reduction."
+    },
+    {
+      "name": "IBIO-610",
+      "type": "platform",
+      "description": "Activin E antibody development candidate targeting fat-specific weight loss with GLP-1 combination potential."
+    },
+    {
+      "name": "Myostatin Activin A Bispecific Antibody",
+      "type": "platform",
+      "description": "Bispecific antibody simultaneously inhibiting two muscle suppressors, demonstrated in vitro proof of concept."
+    },
+    {
+      "name": "AI Drug Discovery Platform",
+      "type": "platform",
+      "description": "Integrated AI-enabled epitope steering engine and antibody optimization platform capable of progressing concept to development-ready antibody in ~7 months."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "AstralBio, Inc.",
+      "partnership_type": "development",
+      "description": "Multi-target discovery collaboration for obesity and cardiometabolic targets; expanded to five targets; iBio in-licensed IBIO-600 and IBIO-610 from AstralBio.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IBIO/profile",
+  "origin": {
+    "leaf": "ea1beed790022ab8f962f267c18547280009927a5ebf718863253a0943f3212d",
+    "parent": "629ec3e3ff79db26d7906dece9b5a89192ee7e3d326607d6537df468af6cf0f6",
+    "timestamp": "2026-04-12T03:12:57.665Z",
+    "source": "profile:0001420720",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ea1beed790022ab8f962f267c18547280009927a5ebf718863253a0943f3212d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.665Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RELL",
+  "name": "RICHARDSON ELECTRONICS, LTD.",
+  "cik": "0000355948",
+  "summary": "Richardson Electronics, Ltd. is a global manufacturer of engineered solutions, green energy products, power grid and microwave tubes, power conversion and RF/microwave components, and customized display solutions. More than 55% of products are manufactured in LaFox, Illinois, Marlborough, Massachusetts, or Donaueschingen, Germany. The company serves alternative energy, healthcare, aviation, broadcast, communications, industrial, marine, medical, military, scientific, and semiconductor markets through three segments: Power and Microwave Technologies (PMT), Green Energy Solutions (GES), and Canvys.",
+  "products": [
+    {
+      "name": "Power Grid and Microwave Tubes",
+      "type": "hardware",
+      "description": "Electron tubes for power, RF and microwave applications including broadcast transmission, radar, and radiation oncology."
+    },
+    {
+      "name": "Ultracapacitor Modules",
+      "type": "hardware",
+      "description": "Proprietary energy storage modules sold under PMT segment for power management applications."
+    },
+    {
+      "name": "Microwave Generators",
+      "type": "hardware",
+      "description": "Proprietary microwave generation products sold under PMT segment for industrial and scientific applications."
+    },
+    {
+      "name": "ALTA CT X-ray Tubes",
+      "type": "hardware",
+      "description": "Custom-manufactured CT X-ray tubes for diagnostic imaging, exclusively supplied to DirectMed post asset sale."
+    },
+    {
+      "name": "Liquid Crystal Display Monitors",
+      "type": "hardware",
+      "description": "Proprietary LCD monitors sold under PMT segment."
+    },
+    {
+      "name": "Thyratrons and Rectifiers",
+      "type": "hardware",
+      "description": "Proprietary power tubes sold under Amperex, Cetron, and National trade names."
+    },
+    {
+      "name": "Customized Display Solutions",
+      "type": "hardware",
+      "description": "Touch screens, protective panels, custom enclosures, All-In-One computers, and application-specific software via Canvys segment."
+    },
+    {
+      "name": "Green Energy Products",
+      "type": "hardware",
+      "description": "Engineered solutions for wind, solar, hydrogen, and electric vehicle energy storage and power management applications."
+    },
+    {
+      "name": "RF and Microwave Components",
+      "type": "hardware",
+      "description": "Power conversion and RF/microwave components including green energy solutions for industrial and communications markets."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "DirectMed Imaging, LLC",
+      "partnership_type": "strategic",
+      "description": "Exclusive 10-year global supply agreement to supply repaired Siemens CT X-ray tubes and limited ALTA CT X-ray tubes.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Amperex",
+      "partnership_type": "OEM",
+      "description": "PMT represents Amperex as a leading manufacturer of electron tubes and RF/microwave components.",
+      "start_date": null
+    },
+    {
+      "partner_name": "CPI",
+      "partnership_type": "OEM",
+      "description": "PMT represents CPI as a supplier of electron tubes and related components.",
+      "start_date": null
+    },
+    {
+      "partner_name": "MACOM",
+      "partnership_type": "OEM",
+      "description": "PMT represents MACOM for RF and microwave components.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Qorvo",
+      "partnership_type": "OEM",
+      "description": "PMT represents Qorvo for RF and power components.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Thales",
+      "partnership_type": "OEM",
+      "description": "PMT represents Thales as a supplier of electron tubes and microwave components.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Toshiba",
+      "partnership_type": "OEM",
+      "description": "PMT represents Toshiba for electron tubes and related products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Vishay",
+      "partnership_type": "OEM",
+      "description": "PMT represents Vishay for electronic components.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Hitachi",
+      "partnership_type": "OEM",
+      "description": "PMT represents Hitachi for electron tubes and related components.",
+      "start_date": null
+    },
+    {
+      "partner_name": "L3",
+      "partnership_type": "OEM",
+      "description": "PMT represents L3 as a supplier of electron tubes and microwave components.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RELL/profile",
+  "origin": {
+    "leaf": "7949c16e93121f7bc1b3678f4618b045c470779e1e431e77575552e1b625e025",
+    "parent": "876d90257c640dfb13722479a8b2dbf895c5f72f134733058d4f34091ab3ea1d",
+    "timestamp": "2026-04-12T03:12:57.153Z",
+    "source": "profile:0000355948",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7949c16e93121f7bc1b3678f4618b045c470779e1e431e77575552e1b625e025",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.153Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

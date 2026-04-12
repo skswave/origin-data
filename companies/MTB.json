@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MTB",
+  "name": "M&T BANK CORP",
+  "cik": "0000036270",
+  "exchange": "NYSE",
+  "sic": "6022",
+  "sic_description": "State Commercial Banks",
+  "state_of_incorporation": "NY",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "3 Disclosure pursuant to subpart 1400 of Regulation S-K I. Distribution of assets, liabilities and shareholders equity; interest rates and interest differential A. Average balance sheets 56 B. Interest income/expense and resulting yield or rate on average interest-earning assets and interestbearing liabilities 56 C. Rate/volume variances 57 II. Investments in debt securities A. Maturity schedule and weighted-average yield 87 III. Loan portfolio A. Maturity schedule 88 IV. Allowance for credit lo...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MTB",
+  "origin": {
+    "leaf": "36df3415b66e72205ebca4ff079fcffad81769bf37a0c9878d224c1b58d0ddea",
+    "parent": "dfd1849582900a77c0761c94ce467f5b7ad27dbc86da08aea9ca55945c3491cc",
+    "timestamp": "2026-04-12T03:12:50.377Z",
+    "source": "0000036270-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/36df3415b66e72205ebca4ff079fcffad81769bf37a0c9878d224c1b58d0ddea",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.377Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

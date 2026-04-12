@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MODD",
+  "name": "Modular Medical, Inc.",
+  "cik": "0001074871",
+  "summary": "Modular Medical, Inc. (MODD) is a pre-revenue medical device company focused on designing, developing, and commercializing innovative insulin pumps. Their primary product, the MODD1, received FDA clearance in September 2024 and is a two-part patch pump targeting both Type 1 and Type 2 diabetes patients. A successor product, the Pivot, is a tubeless patch pump in development. The company aims to expand insulin pump adoption beyond highly motivated users into the broader mass market through simplified design, lower cost, and improved usability.",
+  "products": [
+    {
+      "name": "MODD1",
+      "type": "hardware",
+      "description": "FDA-cleared two-part patch insulin pump with reusable pump unit and disposable cartridge and set, offering basal and bolus insulin delivery."
+    },
+    {
+      "name": "Pivot",
+      "type": "hardware",
+      "description": "Successor tubeless patch pump integrating the infusion set, designed for improved cost, usability, and manufacturability over the MODD1."
+    },
+    {
+      "name": "MODD1",
+      "type": "hardware",
+      "description": "FDA-cleared two-part patch insulin pump with reusable and disposable components targeting Type 1 and Type 2 diabetes patients requiring daily insulin."
+    },
+    {
+      "name": "Pivot",
+      "type": "hardware",
+      "description": "Next-generation tubeless 3-milliliter patch pump in development, offering improved cost, usability, and manufacturability over the MODD1."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "ISA",
+      "partnership_type": "strategic",
+      "description": "Industry survey firm conducted a proprietary payor survey covering 50 million U.S. covered lives regarding coverage willingness for MODD products.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MODD/profile",
+  "origin": {
+    "leaf": "12e4645d13de0abadf3560414b41d8b7b4bda4d7d617713b87ff2db04f3f5428",
+    "parent": "482937527d7290c8d5dde6e568494ea835ac926b0d18f55e0be87c8bbb993915",
+    "timestamp": "2026-04-12T03:12:58.160Z",
+    "source": "profile:0001074871",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/12e4645d13de0abadf3560414b41d8b7b4bda4d7d617713b87ff2db04f3f5428",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.160Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MPAA",
+  "name": "MOTORCAR PARTS OF AMERICA INC",
+  "cik": "0000918251",
+  "summary": "Motorcar Parts of America, Inc. (MPA) is a remanufacturer of automobile parts for the automotive aftermarket. The company collects Used Cores—previously used original equipment parts removed from vehicles—breaks them down, replaces worn components, and reassembles them into remanufactured automobile parts. MPA operates core exchange programs with customers and sources Used Cores from consumers, customers, and core brokers when needed.",
+  "products": [
+    {
+      "name": "Remanufactured Automobile Parts",
+      "type": "hardware",
+      "description": "Used Cores remanufactured by disassembly, component replacement, and reassembly into newly remanufactured automobile parts for the automotive aftermarket."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MPAA/profile",
+  "origin": {
+    "leaf": "380095c007be2b7a5e1e3d82b25aeb3c4506c09c57c188882457681f53190868",
+    "parent": "ff3d96a3d1db77a43f6a03b247797c355cdd9808a135627b726749aaa7e15e1a",
+    "timestamp": "2026-04-12T03:12:56.969Z",
+    "source": "profile:0000918251",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/380095c007be2b7a5e1e3d82b25aeb3c4506c09c57c188882457681f53190868",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.969Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

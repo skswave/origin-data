@@ -1,0 +1,97 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "STE",
+  "name": "STERIS plc",
+  "cik": "0001757898",
+  "summary": "STERIS plc is a leading global provider of products and services supporting patient care with an emphasis on infection prevention. The company offers consumable products (detergents, endoscopy accessories, barrier products, instruments), capital equipment (sterilizers, surgical tables, automated endoscope reprocessors), and services (equipment maintenance, microbial reduction of medical devices, instrument repair, laboratory testing, outsourced reprocessing). STERIS operates three segments: Healthcare, Applied Sterilization Technologies (AST), and Life Sciences, serving healthcare providers, medical device manufacturers, and biopharmaceutical companies worldwide.",
+  "products": [
+    {
+      "name": "Cleaning Chemistries and Sterility Assurance Products",
+      "type": "hardware",
+      "description": "Consumable products for sterile processing departments including detergents and sterility assurance items."
+    },
+    {
+      "name": "Automated Endoscope Reprocessing Systems",
+      "type": "hardware",
+      "description": "Capital equipment for automated reprocessing and tracking of endoscopes."
+    },
+    {
+      "name": "Sterilizers and Washers",
+      "type": "hardware",
+      "description": "Capital equipment essential to sterile processing departments for healthcare and life sciences customers."
+    },
+    {
+      "name": "Surgical Tables and Lights",
+      "type": "hardware",
+      "description": "Procedural room equipment including surgical tables, lights, and equipment management services."
+    },
+    {
+      "name": "OR Connectivity Solutions",
+      "type": "platform",
+      "description": "Operating room integration and connectivity solutions for procedural centers."
+    },
+    {
+      "name": "Vaporized Hydrogen Peroxide Room Decontamination Systems",
+      "type": "hardware",
+      "description": "Decontamination systems and sterilizers for life sciences and pharmaceutical manufacturing facilities."
+    },
+    {
+      "name": "High Purity Water and Pure Steam Generators",
+      "type": "hardware",
+      "description": "Equipment for pharmaceutical and biopharmaceutical manufacturing facilities requiring high purity water."
+    },
+    {
+      "name": "Integrated Sterilization Equipment and Control Systems",
+      "type": "hardware",
+      "description": "Sterilization equipment including accelerators, product handling, and automation for medical device manufacturers."
+    },
+    {
+      "name": "Pharmaceutical Detergents and Cleanroom Disinfectants",
+      "type": "hardware",
+      "description": "Consumable products including pharmaceutical detergents, cleanroom disinfectants, and sterilants for life sciences customers."
+    },
+    {
+      "name": "Contract Sterilization Services",
+      "type": "service",
+      "description": "Global network of contract sterilization facilities offering multiple sterilization modalities for medical device and pharmaceutical manufacturers."
+    },
+    {
+      "name": "Laboratory Testing Services",
+      "type": "service",
+      "description": "Testing services supporting medical device and pharmaceutical manufacturers through materials testing and process validation."
+    },
+    {
+      "name": "Instrument and Scope Repair Services",
+      "type": "service",
+      "description": "Repair and maintenance services for instruments, devices, and endoscopes, on-site or at dedicated facilities."
+    },
+    {
+      "name": "Outsourced Instrument Reprocessing Services",
+      "type": "service",
+      "description": "On-site and off-site outsourced sterile instrument reprocessing services for healthcare customers."
+    },
+    {
+      "name": "Endoscopy Accessories and Instruments",
+      "type": "hardware",
+      "description": "Consumable endoscopy accessories and instruments used in operating rooms, ambulatory surgery centers, and endoscopy suites."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/STE/profile",
+  "origin": {
+    "leaf": "02d593272f64dcda9128011d8d8381420189fcbd101ba598e2926ab6200ed8da",
+    "parent": "898912f77dc9e1b5218ae02cef2b5697218d84494d8bd4f70ab21565581f7a00",
+    "timestamp": "2026-04-12T03:12:54.890Z",
+    "source": "profile:0001757898",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/02d593272f64dcda9128011d8d8381420189fcbd101ba598e2926ab6200ed8da",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.890Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

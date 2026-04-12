@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HSY",
+  "name": "HERSHEY CO",
+  "cik": "0000047111",
+  "exchange": "NYSE",
+  "sic": "2060",
+  "sic_description": "Sugar & Confectionery Products",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I The Hershey Company was incorporated under the laws of the State of Delaware on October24, 1927 as a successor to a business founded in 1894 by Milton S. Hershey. In this report, the terms Hershey, Company, we, us or our mean The Hershey Company and its wholly-owned subsidiaries and entities in which it has a controlling financial interest, unless the context indicates otherwise. Hershey is a global confectionery leader known for making more moments of goodness through chocolate, sweets, ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HSY",
+  "origin": {
+    "leaf": "dff85c0ac61066100f31bf1bdb2963c0528aee1b208345cd08975d60ffa60988",
+    "parent": "cf561c0fd76de98490cf23e56da5e72ce59503c88122714a39b25d9ed3bbc34d",
+    "timestamp": "2026-04-12T03:12:50.354Z",
+    "source": "0001628280-26-008586",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dff85c0ac61066100f31bf1bdb2963c0528aee1b208345cd08975d60ffa60988",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.354Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

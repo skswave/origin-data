@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MTEX",
+  "name": "MANNATECH INC",
+  "cik": "0001056358",
+  "exchange": "Nasdaq",
+  "sic": "2833",
+  "sic_description": "Medicinal Chemicals & Botanical Products",
+  "state_of_incorporation": "TX",
+  "headquarters": "Flower Mound, Texas",
+  "founded": "1993",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Mannatech, Incorporated is a global wellness solution provider incorporated in November 1993, selling proprietary nutritional supplements, skin care and anti-aging products, and weight-management products. Products are distributed primarily through network marketing channels across 25 markets in the Americas, EMEA, and Asia/Pacific regions. In China, subsidiary Meitai operates a cross-border e-commerce model. Key proprietary ingredients include Ambrotose complex, Manapol powder, and MTech AO Blend.",
+  "tags": [
+    "nutritional-supplements",
+    "skin-care-and-anti-aging-products",
+    "weight-management-and-fitness-products",
+    "network-marketing-/-direct-selling",
+    "cross-border-e-commerce-(china)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MTEX",
+  "origin": {
+    "leaf": "682d6cdb85c28326d56578e27246e59c0ca8743492028376babfef292cf90207",
+    "parent": "1a204396a997b2740dee192a669d889ae4eb87ff64f9bbdfb5e307cab8977d1d",
+    "timestamp": "2026-04-12T03:12:53.053Z",
+    "source": "0001056358-25-000018",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/682d6cdb85c28326d56578e27246e59c0ca8743492028376babfef292cf90207",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.053Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RSKIA",
+  "name": "GEORGE RISK INDUSTRIES, INC.",
+  "cik": "0000084112",
+  "summary": "George Risk Industries, Inc. (GRI), incorporated in 1967 in Colorado, designs, manufactures, and sells security alarm components and systems, custom computer keyboards, proximity switches, pool access alarms, EZ Duct wire covers, water sensors, electronic switching devices, high security switches, and cable/wire installation tools. The security division comprises approximately 96% of net revenues, selling to distributors and alarm dealers. Key customers include Ademco, Inc. and Anixter, Inc.",
+  "products": [
+    {
+      "name": "Security Alarm Components and Systems",
+      "type": "hardware",
+      "description": "Components and systems for security and burglar alarm applications sold to distributors and alarm dealers."
+    },
+    {
+      "name": "Custom Computer Keyboards",
+      "type": "hardware",
+      "description": "Custom keyboards designed and manufactured to OEM specifications and as off-the-shelf proprietary designs."
+    },
+    {
+      "name": "Proximity Switches",
+      "type": "hardware",
+      "description": "Electronic proximity switching devices sold primarily to original equipment manufacturers."
+    },
+    {
+      "name": "Pool Access Alarms",
+      "type": "hardware",
+      "description": "Alarms designed for pool access security applications."
+    },
+    {
+      "name": "EZ Duct Wire Covers",
+      "type": "hardware",
+      "description": "Wire cover products for cable and wire management."
+    },
+    {
+      "name": "Water Sensors",
+      "type": "hardware",
+      "description": "Electronic sensors designed to detect water presence."
+    },
+    {
+      "name": "High Security Switches",
+      "type": "hardware",
+      "description": "High security electronic switching devices."
+    },
+    {
+      "name": "Cable and Wire Installation Tools",
+      "type": "hardware",
+      "description": "Tools designed for wire and cable installation."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Ademco, Inc.",
+      "partnership_type": "strategic",
+      "description": "Written distribution agreement signed February 2011; Ademco accounts for approximately 38.6% of security division sales.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Anixter, Inc.",
+      "partnership_type": "strategic",
+      "description": "Distributor accounting for approximately 22.4% of security division sales.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Five Nines",
+      "partnership_type": "strategic",
+      "description": "Third-party IT service provider supporting cybersecurity monitoring, risk assessment, and compliance.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RSKIA/profile",
+  "origin": {
+    "leaf": "c8ca7b6f88a0b313b30146e41dd50b47b803566940b7848b9ea88937fee733d2",
+    "parent": "20e481a14e45351a8eff48a803ebe9c83c39a127d73d70d531d6d0ef27957f4b",
+    "timestamp": "2026-04-12T03:12:57.483Z",
+    "source": "profile:0000084112",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c8ca7b6f88a0b313b30146e41dd50b47b803566940b7848b9ea88937fee733d2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.483Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

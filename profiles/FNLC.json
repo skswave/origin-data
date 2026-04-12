@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FNLC",
+  "name": "First Bancorp, Inc /ME/",
+  "cik": "0000765207",
+  "summary": "The First Bancorp, Inc. (FNLC) is a Maine-based bank holding company operating through its subsidiary, First National Bank. The company provides banking products and services including deposit accounts, loans, Wealth Management, and Investment Services. It is subject to federal and state financial institution regulations and lists its stock on Nasdaq.",
+  "products": [
+    {
+      "name": "Wealth Management",
+      "type": "service",
+      "description": "Wealth management services offered to clients with referral fee incentives for qualified referrals."
+    },
+    {
+      "name": "Investment Services",
+      "type": "service",
+      "description": "Investment services offered to clients with referral fee incentives for qualified referrals."
+    },
+    {
+      "name": "First National Bank Savings and Investment Plan",
+      "type": "service",
+      "description": "Employee savings and investment plan involving Company stock transactions."
+    },
+    {
+      "name": "Employee and Director Stock Purchase Program",
+      "type": "service",
+      "description": "Program allowing employees and directors to purchase Company stock."
+    },
+    {
+      "name": "Long-Term Equity Incentive Plan",
+      "type": "service",
+      "description": "Long-term equity incentive plan for employees and directors involving Company stock."
+    },
+    {
+      "name": "Dividend Reinvestment Plan",
+      "type": "service",
+      "description": "Plan allowing shareholders to reinvest dividends into Company stock."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FNLC/profile",
+  "origin": {
+    "leaf": "2def27c52aeaf50f051ed5b842c378177ae9ab2e3064c81d1423d37df1f4daaf",
+    "parent": "90feac0d2ebace5fdf60665b5cad620fd36161738fcf4c8c429dc0d633b7cec4",
+    "timestamp": "2026-04-12T03:12:56.700Z",
+    "source": "profile:0000765207",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2def27c52aeaf50f051ed5b842c378177ae9ab2e3064c81d1423d37df1f4daaf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.700Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

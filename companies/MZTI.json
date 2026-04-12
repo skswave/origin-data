@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MZTI",
+  "name": "MARZETTI CO",
+  "cik": "0000057515",
+  "exchange": "Nasdaq",
+  "sic": "2030",
+  "sic_description": "Canned, Frozen & Preservd Fruit, Veg & Food Specialties",
+  "state_of_incorporation": "OH",
+  "headquarters": "Westerville, Ohio",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": "The Marzetti Company (formerly Lancaster Colony Corporation) is an Ohio-based manufacturer and marketer of specialty food products for retail and foodservice channels. Products include frozen breads (New York Bakery, Sister Schubert's), refrigerated and shelf-stable salad dressings and dips (Marzetti, Cardini's, Girard's), croutons, and frozen pasta. The company also produces licensed branded products for Chick-fil-A, Olive Garden, Buffalo Wild Wings, Texas Roadhouse, and Subway, operating 14 food plants across the United States.",
+  "tags": [
+    "retail-grocery",
+    "foodservice",
+    "national-chain-restaurants",
+    "food-distributors",
+    "federal-food,-drug-and-cosmetic-act",
+    "food-safety-modernization-act"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 3700,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MZTI",
+  "origin": {
+    "leaf": "6df630204a30f92111ec5242eefa036a13412ecf6eeb43ccaf98075f8ab9f1a4",
+    "parent": "7e05de0847596606439abd1dcb912d8918d471201be8a6eaacca346885599039",
+    "timestamp": "2026-04-12T03:12:50.709Z",
+    "source": "0000057515-25-000020",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6df630204a30f92111ec5242eefa036a13412ecf6eeb43ccaf98075f8ab9f1a4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.709Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

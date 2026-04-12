@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EVC",
+  "name": "ENTRAVISION COMMUNICATIONS CORP",
+  "cik": "0001109116",
+  "summary": "Entravision Communications Corporation is a media and advertising technology company. Its Media segment owns and operates one of the largest groups of Spanish-language television (47 stations) and radio (44 stations) stations in the U.S., targeting Latino audiences. Its Advertising Technology & Services (ATS) segment offers programmatic advertising via Smadex, a demand-side platform using proprietary AI, and Adwake, a performance-based digital marketing agency. Net revenue for the year ended December 31, 2025 was $447.6 million.",
+  "products": [
+    {
+      "name": "Smadex",
+      "type": "platform",
+      "description": "Demand-side platform using proprietary AI to automate programmatic media buying for mobile app developers and advertisers globally."
+    },
+    {
+      "name": "Adwake",
+      "type": "service",
+      "description": "Performance-based digital marketing agency providing programmatic advertising solutions under the ATS segment."
+    },
+    {
+      "name": "Altavision Network",
+      "type": "service",
+      "description": "Spanish-language broadcast network distributed in 19 markets, featuring counter-programming sourced via Multimedios Television partnership."
+    },
+    {
+      "name": "WAPA Orlando",
+      "type": "service",
+      "description": "Spanish-language broadcast station in Orlando airing news and entertainment programming from Puerto Rico's WAPA-TV plus local newscasts."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "TelevisaUnivision",
+      "partnership_type": "strategic",
+      "description": "Affiliation, proxy, and marketing and sales agreements for Univision and UniMs networks; TelevisaUnivision owns ~10% of Entravision common stock.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Hemisphere Media Group",
+      "partnership_type": "licensing",
+      "description": "Agreement to broadcast WAPA Orlando programming produced by Puerto Rico's WAPA-TV on Entravision's Orlando station.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Multimedios Television",
+      "partnership_type": "strategic",
+      "description": "Partnership to source programming for Altavision Network and collaborate on launching a FAST channel on digital platforms.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/EVC/profile",
+  "origin": {
+    "leaf": "b5de6fa25510629dc9e725dfdc0f1b094c9a524aac599131d1d18f22cddc28ea",
+    "parent": "c9dfb1142a35bf2796bb2c1706c3c91c46bf06a4e95514239de6627affdb61cb",
+    "timestamp": "2026-04-12T03:12:56.823Z",
+    "source": "profile:0001109116",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b5de6fa25510629dc9e725dfdc0f1b094c9a524aac599131d1d18f22cddc28ea",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.823Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SITM",
+  "name": "SITIME Corp",
+  "cik": "0001451809",
+  "exchange": "Nasdaq",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Overview The ability to accurately measure and reference time has been essential to humankinds greatest inventions and technological advances. Timing technology has continued to evolve over centuries, underpinning broader technological evolution and is the heartbeat of digital electronic systems. Timing ensures that the system runs smoothly and reliably by providing and distributing clock signals to various critical components such as central processing units, communication and interface ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SITM",
+  "origin": {
+    "leaf": "7505496753c2778babe189a02bd6316af77051c71656a2c93571b33d9c5363a6",
+    "parent": "9f2a97d620cf818c41d13c43fb4d8aff9539949ed8ef1d06c6d48f00979b826a",
+    "timestamp": "2026-04-12T03:12:50.518Z",
+    "source": "0001451809-26-000012",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7505496753c2778babe189a02bd6316af77051c71656a2c93571b33d9c5363a6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.518Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

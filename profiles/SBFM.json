@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SBFM",
+  "name": "Sunshine Biopharma Inc.",
+  "cik": "0001402328",
+  "summary": "Sunshine Biopharma Inc. is a pharmaceutical company with two Canadian subsidiaries: Nora Pharma Inc., which markets 71 generic prescription drugs in Canada across oncology, cardiovascular, CNS, and other areas, and Sunshine Biopharma Canada Inc., which develops and sells OTC supplements. The company also conducts proprietary drug development including K1.1 mRNA (liver cancer) and SBFM-PL4 (SARS Coronavirus protease inhibitor), both in animal testing stages.",
+  "products": [
+    {
+      "name": "Nora Pharma Generic Drugs Portfolio (71 drugs)",
+      "type": "service",
+      "description": "71 generic prescription drugs marketed in Canada covering oncology, cardiovascular, CNS, diabetes, urology, and other therapeutic areas."
+    },
+    {
+      "name": "K1.1 mRNA-LNP",
+      "type": "platform",
+      "description": "LNP-encapsulated mRNA anticancer therapy targeting liver cancer, currently in animal testing."
+    },
+    {
+      "name": "SBFM-PL4",
+      "type": "hardware",
+      "description": "Small molecule protease inhibitor targeting SARS Coronavirus PLpro, currently in animal testing."
+    },
+    {
+      "name": "OTC Supplements",
+      "type": "service",
+      "description": "Over-the-counter supplements sold in Canada through Sunshine Biopharma Canada Inc."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Specialized commercial partner (unnamed)",
+      "partnership_type": "development",
+      "description": "Partner engaged in November 2022 to formulate K1.1 mRNA molecules into lipid nanoparticles for animal testing.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SBFM/profile",
+  "origin": {
+    "leaf": "6f0724b1aef29b8ddd6fd8401042e112404ad83942906f1fca3a3a2855559c1f",
+    "parent": "b5f1e4875ef4799be4180a382f72613f3ad29be409dd0a138701b50361791d45",
+    "timestamp": "2026-04-12T03:12:58.801Z",
+    "source": "profile:0001402328",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6f0724b1aef29b8ddd6fd8401042e112404ad83942906f1fca3a3a2855559c1f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.801Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

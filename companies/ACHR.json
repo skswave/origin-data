@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ACHR",
+  "name": "Archer Aviation Inc.",
+  "cik": "0001824502",
+  "exchange": "NYSE",
+  "sic": "3721",
+  "sic_description": "Aircraft",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Part I Overview Archer is developing the technologies and aircraft to power the future of advanced aviation. We are building a platform to deliver advanced aircraft, technologies and services to customers worldwide across commercial and defense sectors. Midnight is our electric vertical take-off and landing (eVTOL) aircraft purpose-built for air taxi operations globally. To prepare for commercial operations, we are working with aviation authorities, governments, and strategic partners in key U.S...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ACHR",
+  "origin": {
+    "leaf": "bc8aada5a3e6ed97515eb4c365718bc8a7154b6b3123567ea30438d5ba6007c4",
+    "parent": "cfc812258d13db37b75ab2729de9fdd0b0dfdca892d084a4e6eae3fe64463823",
+    "timestamp": "2026-04-12T03:12:50.701Z",
+    "source": "0001824502-26-000019",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bc8aada5a3e6ed97515eb4c365718bc8a7154b6b3123567ea30438d5ba6007c4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.701Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

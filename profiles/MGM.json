@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MGM",
+  "name": "MGM Resorts International",
+  "cik": "0000789570",
+  "summary": "MGM Resorts International is a global gaming and entertainment company operating 16 domestic casino properties and two casino resorts in Macau through MGM China (56% interest). The company offers casino gaming, hotels, food and beverage, entertainment, meetings/conferences, and retail. It also operates online gaming through LeoVegas (international) and holds a 50% interest in BetMGM for U.S. online sports betting and iGaming.",
+  "products": [
+    {
+      "name": "Las Vegas Strip Resorts",
+      "type": "service",
+      "description": "Casino resort operations including Aria, Bellagio, The Cosmopolitan, MGM Grand Las Vegas, Mandalay Bay, Luxor, New York-New York, Excalibur, and Park MGM."
+    },
+    {
+      "name": "Regional Operations",
+      "type": "service",
+      "description": "Casino properties in Michigan, Mississippi, New Jersey, Maryland, Massachusetts, New York, and Ohio."
+    },
+    {
+      "name": "MGM China",
+      "type": "service",
+      "description": "Two casino resorts in Macau — MGM Macau and MGM Cotai — operated under a gaming concession held by MGM Grand Paradise."
+    },
+    {
+      "name": "LeoVegas",
+      "type": "platform",
+      "description": "Online gaming platform offering iGaming, digital slots, table games, live dealer, and online sports betting, primarily in Europe and Brazil."
+    },
+    {
+      "name": "BetMGM",
+      "type": "platform",
+      "description": "U.S. online sports betting and iGaming platform operated through a 50% owned unconsolidated venture, BetMGM North America Venture."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "MGM China Holdings Limited",
+      "partnership_type": "strategic",
+      "description": "MGM holds approximately 56% controlling interest; operates MGM Macau and MGM Cotai casino resorts in Macau.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BetMGM, LLC",
+      "partnership_type": "strategic",
+      "description": "50% ownership interest in unconsolidated affiliate for U.S. online sports betting and iGaming operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "MGM Osaka Corporation",
+      "partnership_type": "development",
+      "description": "50% ownership interest in unconsolidated affiliate developing an integrated resort in Osaka, Japan.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MGM/profile",
+  "origin": {
+    "leaf": "aa7561eb455e921e99e89a68ee0020ec2d7270cd8d08068186479341207dcaec",
+    "parent": "5b29e0e88807cb250330de31a54c29082fead8ae83c73ac8bfd5f4b6ac8fa31c",
+    "timestamp": "2026-04-12T03:12:55.042Z",
+    "source": "profile:0000789570",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/aa7561eb455e921e99e89a68ee0020ec2d7270cd8d08068186479341207dcaec",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.042Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

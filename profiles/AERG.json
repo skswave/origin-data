@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AERG",
+  "name": "APPLIED ENERGETICS, INC.",
+  "cik": "0000879911",
+  "summary": "Applied Energetics, Inc. specializes in advanced laser and photonics systems, particularly fiber-based ultrashort pulse (USP) laser technologies. With 25 patents and nine Government Sensitive Patent Applications, the company develops directed energy systems including Laser Guided Energy (LGE) and Laser Induced Plasma Channel (LIPC) technologies for national security, biomedical, and advanced manufacturing applications. Its USP lasers deliver terawatt-level peak power in sub-picosecond pulses, enabling jamming, damaging, and destroying surveillance and reconnaissance sensors in compact, deployable form factors.",
+  "products": [
+    {
+      "name": "Ultrashort Pulse (USP) Laser Systems",
+      "type": "hardware",
+      "description": "Fiber-based lasers delivering over five terawatts peak power in sub-picosecond pulses for directed energy applications."
+    },
+    {
+      "name": "Laser Guided Energy (LGE)",
+      "type": "hardware",
+      "description": "Directed energy technology for next-generation high-tech defense systems, wholly owned and patent-protected."
+    },
+    {
+      "name": "Laser Induced Plasma Channel (LIPC)",
+      "type": "hardware",
+      "description": "Directed energy technology used alongside LGE for threat disruption in defense applications."
+    },
+    {
+      "name": "Frequency Agile Optical Sources",
+      "type": "hardware",
+      "description": "Tunable optical sources covering ultraviolet to far infrared spectrum with pulse duration agility."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "University of Arizona",
+      "partnership_type": "development",
+      "description": "Partnership and teaming arrangement established since 2020 with a leading U.S. laser and optics institute.",
+      "start_date": null
+    },
+    {
+      "partner_name": "University of Central Florida",
+      "partnership_type": "development",
+      "description": "Partnership and teaming arrangement established since 2020 with a leading U.S. laser and optics institute.",
+      "start_date": null
+    },
+    {
+      "partner_name": "University of Rochester Laboratory for Laser Energetics",
+      "partnership_type": "development",
+      "description": "Partnership and teaming arrangement established since 2020 with a leading U.S. laser and optics institute.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AERG/profile",
+  "origin": {
+    "leaf": "9a5fd0e7e76fa538d2f9043c6ee54e868f43518202b5b3383c02f73214be45ce",
+    "parent": "3e053a0ba6617f7d1abe442e88953c6c6657700c1a3efdb8dbaa40e6bec14e64",
+    "timestamp": "2026-04-12T03:12:56.793Z",
+    "source": "profile:0000879911",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9a5fd0e7e76fa538d2f9043c6ee54e868f43518202b5b3383c02f73214be45ce",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.793Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

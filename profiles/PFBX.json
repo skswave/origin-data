@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PFBX",
+  "name": "PEOPLES FINANCIAL CORP /MS/",
+  "cik": "0000770460",
+  "summary": "Peoples Financial Corporation is a one-bank holding company headquartered in Biloxi, Mississippi, operating through its bank subsidiary. The Company provides commercial banking, real estate lending, and trust/asset management services to customers within a fifty-mile radius of its trade area spanning portions of Mississippi, Louisiana, and Alabama. It operates 17 branch locations and emphasizes core deposit gathering and de novo branching growth.",
+  "products": [
+    {
+      "name": "Commercial Lending",
+      "type": "service",
+      "description": "Commercial loans provided to businesses within the Company's trade area in Mississippi, Louisiana, and Alabama."
+    },
+    {
+      "name": "Real Estate Lending",
+      "type": "service",
+      "description": "Real estate loans offered to customers in the trade area as a core business focus."
+    },
+    {
+      "name": "Core Deposit Services",
+      "type": "service",
+      "description": "Deposit products forming the foundation of the bank's funding base."
+    },
+    {
+      "name": "Asset Management and Trust Services",
+      "type": "service",
+      "description": "Trust and asset management services provided through a dedicated department at 758 Howard Avenue, Biloxi."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PFBX/profile",
+  "origin": {
+    "leaf": "6c8731e29e0fdb3875c1a94a57c33e7a5fade63557f021d903324956a017a798",
+    "parent": "ac2fa0087379c4f84a2c46c2c7f3dd702795d1486bfbec33f5fd3ebbdf24119d",
+    "timestamp": "2026-04-12T03:12:57.422Z",
+    "source": "profile:0000770460",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6c8731e29e0fdb3875c1a94a57c33e7a5fade63557f021d903324956a017a798",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.422Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

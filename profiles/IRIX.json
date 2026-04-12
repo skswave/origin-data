@@ -1,0 +1,95 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "IRIX",
+  "name": "IRIDEX CORP",
+  "cik": "0001006045",
+  "summary": "IRIDEX Corporation is an ophthalmic medical technology company focused on developing and commercializing laser-based products for treating glaucoma and retinal diseases. Its proprietary MicroPulse Technology and Endpoint Management Technology enable subvisible, tissue-sparing laser therapy. Key products include the Cyclo G6 laser system, IQ 532/577 portable lasers, PASCAL system, and single-use probes (MicroPulse P3, G-Probe, EndoProbe). Fiscal year 2025 revenues were $52.7 million, with products sold in the U.S., Germany, and internationally through distributors.",
+  "products": [
+    {
+      "name": "Cyclo G6 Laser System",
+      "type": "hardware",
+      "description": "Primary glaucoma laser console with MicroPulse technology for transscleral laser therapy to reduce IOP."
+    },
+    {
+      "name": "IQ 532 Laser System",
+      "type": "hardware",
+      "description": "Portable medical retina laser system with MicroPulse technology, also used for glaucoma treatments."
+    },
+    {
+      "name": "IQ 577 Laser System",
+      "type": "hardware",
+      "description": "Portable medical retina laser system with MicroPulse technology, also used for glaucoma treatments."
+    },
+    {
+      "name": "PASCAL System",
+      "type": "hardware",
+      "description": "Integrated workstation with Endpoint Management and MicroPulse technology for retinal and glaucoma laser treatment."
+    },
+    {
+      "name": "OcuLight TX",
+      "type": "hardware",
+      "description": "Surgical retina laser photocoagulation system used in vitrectomy procedures."
+    },
+    {
+      "name": "OcuLight SLx",
+      "type": "hardware",
+      "description": "Surgical retina laser system with MicroPulse technology for photocoagulation in vitrectomy procedures."
+    },
+    {
+      "name": "MicroPulse P3",
+      "type": "hardware",
+      "description": "Patented single-use disposable probe delivering MicroPulse laser transsclerally for glaucoma treatment."
+    },
+    {
+      "name": "G-Probe",
+      "type": "hardware",
+      "description": "Single-use fiber-optic laser delivery device for transscleral ablation of ciliary processes in refractory glaucoma."
+    },
+    {
+      "name": "G-Probe Illuminate",
+      "type": "hardware",
+      "description": "Single-use probe with built-in transillumination for optimized placement in glaucoma treatment."
+    },
+    {
+      "name": "EndoProbe Handpieces",
+      "type": "hardware",
+      "description": "Family of single-use consumable probes used in surgical retina laser procedures."
+    },
+    {
+      "name": "MicroPulse Technology",
+      "type": "platform",
+      "description": "Proprietary technology delivering microsecond laser pulses with cooling intervals for tissue-sparing ophthalmic treatment."
+    },
+    {
+      "name": "Endpoint Management Technology",
+      "type": "platform",
+      "description": "Proprietary algorithm that titrates laser energy to subvisible, tissue-sparing levels for retinal and glaucoma treatment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Topcon Corporation",
+      "partnership_type": "strategic",
+      "description": "Primary international distributor for IRIDEX products outside the U.S., Germany, Italy, UK (Glaucoma), India, and select smaller markets.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IRIX/profile",
+  "origin": {
+    "leaf": "98ab58a3ead06afa7896634c13960ae4e7aa162890fb68f6fc7d11f0baf9fc66",
+    "parent": "6d93d6fd48ae8090e12fafe2e9b7878888a0ae76b40c044c2392c0d04f74ec69",
+    "timestamp": "2026-04-12T03:12:58.300Z",
+    "source": "profile:0001006045",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/98ab58a3ead06afa7896634c13960ae4e7aa162890fb68f6fc7d11f0baf9fc66",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.300Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

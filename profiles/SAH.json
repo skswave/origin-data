@@ -1,0 +1,70 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SAH",
+  "name": "SONIC AUTOMOTIVE INC",
+  "cik": "0001043509",
+  "summary": "Sonic Automotive, Inc. is one of the largest U.S. automotive retailers, operating through three segments: Franchised Dealerships (111 stores, 134 franchises, 24 brands, 16 collision centers in 18 states), EchoPark (18 pre-owned vehicle specialty stores in 10 states), and Powersports (14 locations, 41 franchises). Services include new and used vehicle sales, Fixed Operations (parts, service, collision repair), and third-party F&I products including financing, extended warranties, and insurance.",
+  "products": [
+    {
+      "name": "New Vehicle Sales",
+      "type": "service",
+      "description": "Sale of new cars and light trucks across 24 brands including BMW, Mercedes, Honda, and Toyota."
+    },
+    {
+      "name": "Used Vehicle Sales",
+      "type": "service",
+      "description": "Sale of pre-owned vehicles through franchised dealerships and EchoPark specialty retail locations."
+    },
+    {
+      "name": "Fixed Operations",
+      "type": "service",
+      "description": "Vehicle maintenance, manufacturer warranty repairs, replacement parts sales, and paint and collision repair services."
+    },
+    {
+      "name": "Finance, Insurance and Other Aftermarket Products (F&I)",
+      "type": "service",
+      "description": "Third-party financing, leasing, extended warranties, service contracts, and insurance products arranged for guests."
+    },
+    {
+      "name": "EchoPark Pre-Owned Retail",
+      "type": "platform",
+      "description": "Omnichannel pre-owned vehicle specialty retail concept operating 18 stores in 10 states with low-price inventory."
+    },
+    {
+      "name": "Powersports Sales",
+      "type": "service",
+      "description": "Sales of new and used motorcycles, personal watercraft, and all-terrain vehicles with Fixed Operations and F&I services."
+    },
+    {
+      "name": "Certified Pre-Owned (CPO) Vehicles",
+      "type": "service",
+      "description": "Manufacturer-certified pre-owned vehicles with extended warranties, sold exclusively through franchised dealerships."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party F&I provider (unnamed)",
+      "partnership_type": "strategic",
+      "description": "Single third-party provider used for the majority of extended warranties, service contracts, and other aftermarket products.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SAH/profile",
+  "origin": {
+    "leaf": "a198e38f14c2da9077d381f46f4213ef21d454c71579548dd1a6b3d9df272bae",
+    "parent": "e5029be50ab3f4f194264a0f2c17bedce5eeafb2a330fd42dee3bcc54830fdbc",
+    "timestamp": "2026-04-12T03:12:55.591Z",
+    "source": "profile:0001043509",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a198e38f14c2da9077d381f46f4213ef21d454c71579548dd1a6b3d9df272bae",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.591Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

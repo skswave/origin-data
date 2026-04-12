@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "OKLO",
+  "name": "Oklo Inc.",
+  "cik": "0001849056",
+  "exchange": "NYSE",
+  "sic": "4911",
+  "sic_description": "Electric Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Part I Overview We founded Oklo in 2013 with the goal of revolutionizing the energy landscape by developing clean, reliable, affordable energy solutions at scale. According to the International Energy Agency, global electricity production is expected to increase over 75% by 2050 driven by electrification of buildings, transportation, and industry; increased use of air conditioning in the developing world; and increased consumption from data centers and cloud services. Our business addresses this...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/OKLO",
+  "origin": {
+    "leaf": "8496277a31dcaf5db9ab6f9174b1d0a2a9d5b003afca43ed626ca4b46686d51e",
+    "parent": "eb71cbd57b79ce3505c21598e9b08811b569a0a3c0aa8e4eb3f99858b6ae5a4f",
+    "timestamp": "2026-04-12T03:12:50.525Z",
+    "source": "0001628280-26-018698",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8496277a31dcaf5db9ab6f9174b1d0a2a9d5b003afca43ed626ca4b46686d51e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.525Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

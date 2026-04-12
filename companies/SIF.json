@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SIF",
+  "name": "SIFCO INDUSTRIES INC",
+  "cik": "0000090168",
+  "exchange": "NYSE",
+  "sic": "3724",
+  "sic_description": "Aircraft Engines & Engine Parts",
+  "state_of_incorporation": "OH",
+  "headquarters": "Cleveland, Ohio",
+  "founded": "1916",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "SIFCO Industries, Inc. is an Ohio-based manufacturer of forgings, machined components, and sub-assemblies primarily for Aerospace & Energy markets. Operating from Cleveland, OH and Orange, CA, SIFCO produces OEM and aftermarket components for aircraft gas turbine engines, steam turbine blades, landing gear, helicopter rotors, and structural airframe parts using steel, titanium, nickel alloys, and aluminum. In October 2024, the Company sold its Italian subsidiary CBlade to streamline operations and refocus on core aerospace forging.",
+  "tags": [
+    "aerospace-and-defense",
+    "energy",
+    "commercial-space",
+    "semiconductor-manufacturing",
+    "general-aviation",
+    "as-9100d",
+    "iso-9001:2015",
+    "nadcap-(national-aerospace-and-defense-contractors-accreditation-program)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SIF",
+  "origin": {
+    "leaf": "f755445fcc1e69ed35c6d751e72a0179366d1c6e05e1ceaee804d5b32217357d",
+    "parent": "0a9a0941ab02b42fda5731235f6ef05c9257a669d5e08dcdfe64004538469a98",
+    "timestamp": "2026-04-12T03:12:52.290Z",
+    "source": "0001628280-25-058405",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f755445fcc1e69ed35c6d751e72a0179366d1c6e05e1ceaee804d5b32217357d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.290Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

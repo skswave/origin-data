@@ -1,0 +1,97 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MHH",
+  "name": "Mastech Digital, Inc.",
+  "cik": "0001437226",
+  "summary": "Mastech Digital, Inc. is a provider of Digital Transformation IT Services headquartered near Pittsburgh, Pennsylvania. The company offers data and analytics solutions, digital learning, and IT staffing services across two reportable segments: Data and Analytics Services and IT Staffing Services. With approximately 1,500 consultants, it serves mid-sized to large enterprises across multiple industry verticals, delivering data management, data engineering, customer experience consulting, cloud services, and staffing for both digital and mainstream technologies.",
+  "products": [
+    {
+      "name": "Data and Analytics Services",
+      "type": "service",
+      "description": "Consulting and managed services for data modernization, master data management, data governance, data integration, analytics, and customer experience solutions."
+    },
+    {
+      "name": "IT Staffing Services",
+      "type": "service",
+      "description": "Technical staffing for digital and mainstream technologies including data management, cloud, mobility, ERP, CRM, and e-Business solutions."
+    },
+    {
+      "name": "Digital Learning Services",
+      "type": "service",
+      "description": "Staffing and project-based services around digital learning, added via Hudson IT acquisition in 2015."
+    },
+    {
+      "name": "MAS-REMOTE",
+      "type": "service",
+      "description": "Remote staffing service offering launched in 2020 within the IT Staffing Services segment."
+    },
+    {
+      "name": "Offshore Staffing Services",
+      "type": "service",
+      "description": "Offshore staffing services provided to U.S.-based and local offshore clients, expanded in 2021."
+    },
+    {
+      "name": "Engineering Staffing Services",
+      "type": "service",
+      "description": "Recently added engineering staffing services to the company's portfolio of service offerings."
+    },
+    {
+      "name": "ServiceNow Practice",
+      "type": "service",
+      "description": "ServiceNow practice launched in 2024 along with increased focus on artificial intelligence-related technologies."
+    },
+    {
+      "name": "Data-in-Motion",
+      "type": "service",
+      "description": "Creates connected modern data systems with seamless data flow through agile engineering, trusted data, and streamlined integration."
+    },
+    {
+      "name": "Data-as-an-Asset",
+      "type": "service",
+      "description": "Data management solutions including MDM, Data Governance, Data Privacy, and Data Warehousing."
+    },
+    {
+      "name": "Data Activation",
+      "type": "service",
+      "description": "Unlocks insights for business decision-making through gap-to-goal roadmaps and advanced analytics."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "IBM",
+      "partnership_type": "strategic",
+      "description": "Partner/Alliance relationship providing pipeline of opportunities and new business opportunities in data and analytics.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Informatica",
+      "partnership_type": "strategic",
+      "description": "Partner/Alliance relationship providing pipeline of opportunities and new business opportunities in data and analytics.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Oracle",
+      "partnership_type": "strategic",
+      "description": "Partner/Alliance relationship providing pipeline of opportunities and new business opportunities in data and analytics.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MHH/profile",
+  "origin": {
+    "leaf": "d129399d26eb069604c16955fca55788708b86951d7226ffa9cf59589ef5fffc",
+    "parent": "623c850596452f77fc2294f9fdb7553618c23c934ba2ade0b561f973fa9d589d",
+    "timestamp": "2026-04-12T03:12:57.656Z",
+    "source": "profile:0001437226",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d129399d26eb069604c16955fca55788708b86951d7226ffa9cf59589ef5fffc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.656Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CODI",
+  "name": "Compass Diversified Holdings",
+  "cik": "0001345126",
+  "summary": "Compass Diversified Holdings (CODI) is a publicly traded holding company that acquires and manages a diverse group of middle-market businesses across consumer and industrial sectors. Operating through Compass Group Diversified Holdings LLC, it controls multiple operating subsidiaries and is managed externally by Compass Group Management LLC (CGM). The company finances operations through a $600 million revolving credit facility and a $400 million term loan under its 2022 Credit Facility.",
+  "products": [
+    {
+      "name": "2022 Revolving Credit Facility",
+      "type": "service",
+      "description": "$600 million revolving loans, swing line loans and letters of credit maturing in 2027."
+    },
+    {
+      "name": "2022 Term Loan",
+      "type": "service",
+      "description": "$400 million term loan provided under the 2022 Credit Facility."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Compass Group Management LLC (CGM)",
+      "partnership_type": "strategic",
+      "description": "External manager responsible for managing the Company's operations and acquisition activities.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bank of America, N.A.",
+      "partnership_type": "strategic",
+      "description": "Administrative Agent, Swing Line Lender, and letter of credit issuer under the 2022 Credit Facility.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CODI/profile",
+  "origin": {
+    "leaf": "f98eae0f6929a166f9e7d9b8f6c0be1584b8ea9e119a0a64c971a8edfe0598c5",
+    "parent": "1c69855eebba40e8103a89dd1e8b3ab9758f41fd0c98167695cb772a78c713cb",
+    "timestamp": "2026-04-12T03:12:56.275Z",
+    "source": "profile:0001345126",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f98eae0f6929a166f9e7d9b8f6c0be1584b8ea9e119a0a64c971a8edfe0598c5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.275Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

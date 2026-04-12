@@ -1,0 +1,48 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NRIM",
+  "name": "NORTHRIM BANCORP INC",
+  "cik": "0001163370",
+  "exchange": "Nasdaq",
+  "sic": "6035",
+  "sic_description": "Savings Institution, Federally Chartered",
+  "state_of_incorporation": "AK",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Northrim BanCorp Inc. is an Alaska-based bank holding company operating through its banking subsidiary. The company provides commercial and retail banking services, including loans, deposits, and asset-based lending, primarily serving individuals and businesses in Alaska. Its operations focus on the local Alaskan economy, with emphasis on maintaining market share and net interest margin in the regional banking sector.",
+  "tags": [
+    "alaska-commercial-banking",
+    "alaska-retail-banking",
+    "asset-based-lending"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NRIM",
+  "origin": {
+    "leaf": "8cbedcad2658ec92fb8ae0336359505243088667de190c5be367149131448850",
+    "parent": "6258d3f2aede45740313d87b12cc588e3c01d626a2c40561294ebc2260151488",
+    "timestamp": "2026-04-12T03:12:51.381Z",
+    "source": "0001163370-26-000007",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8cbedcad2658ec92fb8ae0336359505243088667de190c5be367149131448850",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.381Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

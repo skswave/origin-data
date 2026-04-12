@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TCI",
+  "name": "TRANSCONTINENTAL REALTY INVESTORS INC",
+  "cik": "0000733590",
+  "exchange": "NYSE",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Transcontinental Realty Investors Inc (TCI) is a real estate investment company. Based on the 10-K filing structure, the company is engaged in real estate investment and management activities, including ownership and operation of real estate properties. The filing references properties, legal proceedings, and financial operations consistent with a real estate investment trust or similar real estate holding company.",
+  "tags": [
+    "real-estate-investment",
+    "property-management"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TCI",
+  "origin": {
+    "leaf": "ef93edb23b05b7c77a357d605f508b31b5d3cd5545b9ed93959219d7c57961ed",
+    "parent": "037322e5d26e36ef15719e56853aeb29ded2792f8c47db1c0469b214d26bfb98",
+    "timestamp": "2026-04-12T03:12:51.696Z",
+    "source": "0000733590-26-000004",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ef93edb23b05b7c77a357d605f508b31b5d3cd5545b9ed93959219d7c57961ed",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.696Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NSC",
+  "name": "NORFOLK SOUTHERN CORP",
+  "cik": "0000702165",
+  "summary": "Norfolk Southern Corporation is an Atlanta, Georgia-based freight railroad company operating approximately 19,100 route miles in 22 states and the District of Columbia. It transports raw materials, intermediate products, and finished goods via three commodity groups: merchandise (63% of revenues, including agriculture, chemicals, metals, automotive), intermodal (25%), and coal (12%). It operates the most extensive intermodal network in the eastern U.S. and serves Atlantic and Gulf Coast ports for overseas freight.",
+  "products": [
+    {
+      "name": "Merchandise Rail Transport",
+      "type": "service",
+      "description": "Rail transport of agriculture, chemicals, metals, construction materials, and automotive products, representing 63% of revenues with 2.3 million carloads in 2025."
+    },
+    {
+      "name": "Intermodal Transport",
+      "type": "service",
+      "description": "Domestic and international container and trailer shipments via the most extensive intermodal network in the eastern U.S., handling 4.1 million units in 2025."
+    },
+    {
+      "name": "Coal Transport",
+      "type": "service",
+      "description": "Rail transport of coal from eastern and western basins serving electric generation, export, metallurgical, and industrial markets, handling 78.0 million tons in 2025."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Amtrak",
+      "partnership_type": "strategic",
+      "description": "NS operates freight service over lines with ongoing Amtrak passenger operations, including trackage owned or leased by Amtrak.",
+      "start_date": null
+    },
+    {
+      "partner_name": "New Jersey Transit",
+      "partnership_type": "strategic",
+      "description": "NS operates freight service over lines with New Jersey Transit commuter passenger operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Southeastern Pennsylvania Transportation Authority",
+      "partnership_type": "strategic",
+      "description": "NS operates freight service over lines with SEPTA commuter passenger operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Metro-North Commuter Railroad Company",
+      "partnership_type": "strategic",
+      "description": "NS operates freight service over lines with Metro-North commuter passenger operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Virginia Passenger Rail Authority",
+      "partnership_type": "strategic",
+      "description": "NS operates freight service over lines with VPRA passenger operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Michigan Department of Transportation",
+      "partnership_type": "strategic",
+      "description": "NS operates freight service over lines with Michigan DOT passenger operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "North Carolina Railroad Company",
+      "partnership_type": "strategic",
+      "description": "NS holds an exclusive operating agreement for trackage rights over property owned by North Carolina Railroad Company.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Union Pacific Corporation",
+      "partnership_type": "strategic",
+      "description": "Merger Agreement signed July 28, 2025, for Union Pacific to acquire Norfolk Southern in a stock-and-cash transaction subject to STB approval.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NSC/profile",
+  "origin": {
+    "leaf": "55b925e231b3e7c7de4198fe238d88c20a18ed8c61cce0984369a068e7b869e8",
+    "parent": "a2c9f0fa01137e2b111371367165bb412cf611e4e1afb0d7899bddc9b86a6c14",
+    "timestamp": "2026-04-12T03:12:54.766Z",
+    "source": "profile:0000702165",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/55b925e231b3e7c7de4198fe238d88c20a18ed8c61cce0984369a068e7b869e8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.766Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

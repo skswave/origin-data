@@ -1,0 +1,95 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UG",
+  "name": "UNITED GUARDIAN INC",
+  "cik": "0000101295",
+  "summary": "United-Guardian, Inc. operates through its Guardian Laboratories division, manufacturing and marketing specialty cosmetic ingredients, personal care ingredients, sexual wellness ingredients, medical lubricants, and pharmaceutical products. Key products include the Lubrajel line of hydrogel formulations and Renacidin, an FDA-approved urological prescription drug. Products are sold globally through distributors including Ashland Specialty Ingredients and Brenntag Specialties, primarily to cosmetic manufacturers, medical device companies, and pharmaceutical wholesalers.",
+  "products": [
+    {
+      "name": "Lubrajel",
+      "type": "hardware",
+      "description": "Multifunctional hydrogel formulations providing sensory enhancement, lubrication, hydration, and texture for personal care and cosmetic products."
+    },
+    {
+      "name": "Natrajel",
+      "type": "hardware",
+      "description": "New line of hydrogel sexual wellness ingredients offering sensory enhancement, lubrication, and moisturization."
+    },
+    {
+      "name": "Renacidin",
+      "type": "hardware",
+      "description": "FDA-approved prescription urological drug used to prevent and dissolve calcifications in urethral catheters."
+    },
+    {
+      "name": "B-122",
+      "type": "hardware",
+      "description": "Powdered lubricant used in cosmetics such as pressed powders, eyeliners, and rouges, acting as binder and friction reducer."
+    },
+    {
+      "name": "Orchid Complex",
+      "type": "hardware",
+      "description": "Oil-based fresh orchid extract with lubricity and emolliency, used in shampoos, bath products, and fragrances."
+    },
+    {
+      "name": "Lubrasil II SB",
+      "type": "hardware",
+      "description": "Silicone oil incorporated into a Lubrajel base, offering silky feel, water resistance, and moisturization."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Ashland Specialty Ingredients (ASI)",
+      "partnership_type": "strategic",
+      "description": "Exclusive global distributor of cosmetic ingredients across US, Canada, Asia, Europe, Middle East, Africa, and other regions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Brenntag Specialties",
+      "partnership_type": "strategic",
+      "description": "Distribution agreement signed January 2026 for Natrajel in US, Canada, Mexico and Lubrajel/Natrajel in France.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Azelis Group NV",
+      "partnership_type": "strategic",
+      "description": "Marketing and distribution agreement for South Korea (from February 2025) and United Kingdom and Ireland.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Sederma SAS (subsidiary of Croda International Plc.)",
+      "partnership_type": "strategic",
+      "description": "Distributor of cosmetic ingredients in France.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Safic-Alcan S.p.A.",
+      "partnership_type": "strategic",
+      "description": "Distributor of cosmetic ingredients in Italy.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Azelis Cosmetics GmbH",
+      "partnership_type": "strategic",
+      "description": "Distributor of cosmetic ingredients in Switzerland.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UG/profile",
+  "origin": {
+    "leaf": "038dbf51309106ca1f00621b5cd8d8a0437e67083255a4c04c626b242eaae015",
+    "parent": "03d9b042c71fa78b0644c2bab5eb3c76b7a537516d11ce48bee3922c5f612481",
+    "timestamp": "2026-04-12T03:12:58.045Z",
+    "source": "profile:0000101295",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/038dbf51309106ca1f00621b5cd8d8a0437e67083255a4c04c626b242eaae015",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.045Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

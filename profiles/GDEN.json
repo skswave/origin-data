@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GDEN",
+  "name": "GOLDEN ENTERTAINMENT, INC.",
+  "cik": "0001071255",
+  "summary": "Golden Entertainment, Inc. owns and operates a diversified entertainment platform consisting of gaming assets focused on casino and branded tavern operations. As of December 31, 2025, the company operates eight casino properties in Nevada and 72 branded taverns primarily in the greater Las Vegas metropolitan area, organized into three reportable segments: Nevada Casino Resorts, Nevada Locals Casinos, and Nevada Taverns.",
+  "products": [
+    {
+      "name": "Nevada Casino Resorts",
+      "type": "service",
+      "description": "Destination casino resort properties including The STRAT, Aquarius, and Edgewater offering gaming, hotel rooms, dining, and entertainment."
+    },
+    {
+      "name": "Nevada Locals Casinos",
+      "type": "service",
+      "description": "Local-focused casino properties in Las Vegas and Pahrump, Nevada, primarily generating revenue from slot machine play."
+    },
+    {
+      "name": "Nevada Taverns",
+      "type": "service",
+      "description": "72 branded tavern locations offering casual upscale dining, craft beer, alcoholic beverages, and up to 15 slot machines per location."
+    },
+    {
+      "name": "The STRAT Hotel, Casino & Tower",
+      "type": "service",
+      "description": "Premier Las Vegas Strip casino resort with 80,000 sq ft casino, 2,429 hotel rooms, observation decks, thrill rides, and SkyJump attraction."
+    },
+    {
+      "name": "Aquarius Casino Resort",
+      "type": "service",
+      "description": "Laughlin, NV casino resort with 1,007 slot machines, 29 table games, 1,905 hotel rooms, and seven restaurants."
+    },
+    {
+      "name": "Edgewater Casino Resort",
+      "type": "service",
+      "description": "Laughlin, NV casino resort with 657 slot machines, bingo facility, and entertainment venues including Edge Pavilion and Laughlin Event Center."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "VICI Properties Inc.",
+      "partnership_type": "strategic",
+      "description": "Agreement for VICI to acquire seven casino real estate assets and assume up to $426 million of Golden's debt, entering a master lease with Blake Sartini's entity.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Independent third-party (distributed gaming acquirer)",
+      "partnership_type": "strategic",
+      "description": "Third party owns and operates slot machines at Golden's branded tavern locations following sale of Nevada distributed gaming operations; Golden receives large percentage of gaming revenue.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GDEN/profile",
+  "origin": {
+    "leaf": "75030e2953d7ee7574536dffca03140aa6313780177f98759b99498ad718e8ac",
+    "parent": "475ab6322eb4d5ad1278334f9a5298261f79038ded7f88a38ff52e8058cd6f06",
+    "timestamp": "2026-04-12T03:12:56.171Z",
+    "source": "profile:0001071255",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/75030e2953d7ee7574536dffca03140aa6313780177f98759b99498ad718e8ac",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.171Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

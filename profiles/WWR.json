@@ -1,0 +1,74 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WWR",
+  "name": "WESTWATER RESOURCES, INC.",
+  "cik": "0000839470",
+  "summary": "Westwater Resources, Inc. is a battery-grade graphite processing company focused on developing the Kellyton Graphite Plant near Kellyton, Alabama, and the Coosa Graphite Deposit near Rockford, Alabama. The company produces ULTRA-CSPG (coated spherical purified graphite) using a patented process for use as Active Anode Material in electric vehicle batteries. It also produces graphite fines as a byproduct of the spheroidizing process.",
+  "products": [
+    {
+      "name": "ULTRA-CSPG",
+      "type": "hardware",
+      "description": "Proprietary coated spherical purified graphite produced via patented process for use as Active Anode Material in EV batteries."
+    },
+    {
+      "name": "Graphite Fines",
+      "type": "hardware",
+      "description": "Natural graphite fines material produced during the CSPG spheroidizing process, sold under offtake agreement."
+    },
+    {
+      "name": "SG Fines",
+      "type": "hardware",
+      "description": "Spherical graphite fine material produced from SG milling at the Kellyton Graphite Plant."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "SK On Co., Ltd.",
+      "partnership_type": "strategic",
+      "description": "Products Procurement Agreement with EV battery developer and manufacturer supplying Ford, Hyundai, Volkswagen and others.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Hiller Carbon, LLC",
+      "partnership_type": "strategic",
+      "description": "Binding offtake agreement dated September 17, 2024 for supply of the Company's graphite fines material.",
+      "start_date": null
+    },
+    {
+      "partner_name": "FCA US LLC",
+      "partnership_type": "strategic",
+      "description": "Binding Offtake Agreement dated July 17, 2024, terminated November 3, 2025, with Stellantis EV manufacturer.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Lincoln Park Capital Fund, LLC",
+      "partnership_type": "strategic",
+      "description": "2024 Purchase Agreement for equity financing; Company may issue up to 600,000 additional commitment shares per purchase.",
+      "start_date": null
+    },
+    {
+      "partner_name": "H.C. Wainwright & Co., LLC",
+      "partnership_type": "strategic",
+      "description": "At The Market Offering Agreement dated August 30, 2024 for equity sales.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WWR/profile",
+  "origin": {
+    "leaf": "24b28d68f0dbb9fb34452277826cfacf904ddba75611859b6e96359a29c4b8d5",
+    "parent": "3008382050a4cc04605891ec2ff60438288fc5369bb96d388b16c140d027fd4c",
+    "timestamp": "2026-04-12T03:12:57.512Z",
+    "source": "profile:0000839470",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/24b28d68f0dbb9fb34452277826cfacf904ddba75611859b6e96359a29c4b8d5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.512Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

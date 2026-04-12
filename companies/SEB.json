@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SEB",
+  "name": "SEABOARD CORP /DE/",
+  "cik": "0000088121",
+  "exchange": "NYSE",
+  "sic": "5150",
+  "sic_description": "Wholesale-Farm Product Raw Materials",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1918",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Seaboard Corporation is a diversified conglomerate operating in agricultural, energy, and ocean transport businesses. It engages in hog production, pork processing, and biodiesel/renewable diesel production in the U.S.; commodity trading and grain processing in Africa and South America; cargo shipping services in the Caribbean and Central and South America; electric power generation in the Dominican Republic; and holds a 52.5% equity investment in Butterball, LLC, a turkey products producer.",
+  "tags": [
+    "pork-processing-and-hog-production",
+    "commodity-trading-and-grain-milling",
+    "ocean-cargo-shipping",
+    "biofuel-and-renewable-diesel-production",
+    "electric-power-generation",
+    "turkey-products",
+    "sugar-and-alcohol-production",
+    "renewable-natural-gas",
+    "renewable-identification-numbers-(rins)",
+    "low-carbon-fuel-standard-(lcfs)",
+    "liquefied-natural-gas-(lng)-dual-fuel-vessel-technology"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SEB",
+  "origin": {
+    "leaf": "0d72c31056b14f75c21db648dd6fcd295ac9fdc85b3da3621eafa4111b044357",
+    "parent": "26ed84fd18e1e92e49fcba9c771ca98a60f9946390033ffcaa91c79a93904f00",
+    "timestamp": "2026-04-12T03:12:50.614Z",
+    "source": "0000088121-26-000012",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0d72c31056b14f75c21db648dd6fcd295ac9fdc85b3da3621eafa4111b044357",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.614Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

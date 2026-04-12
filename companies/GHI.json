@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "GHI",
+  "name": "Greystone Housing Impact Investors LP",
+  "cik": "0001059142",
+  "exchange": "NYSE",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Greystone Housing Impact Investors LP is a limited partnership that invests in mortgage revenue bonds (MRBs), governmental issuer loans (GILs), and other financing instruments supporting affordable multifamily housing across the United States. The Partnership also holds equity investments in multifamily properties, participates in tax-exempt bond securitization (TEBS) financings with Freddie Mac, and manages a construction lending joint venture with BlackRock Impact Opportunities to finance affordable housing development.",
+  "tags": [
+    "affordable-multifamily-housing-finance",
+    "tax-exempt-bond-securitization",
+    "low-income-housing-tax-credit-(lihtc)-properties",
+    "student-and-senior-citizen-residential-housing",
+    "market-rate-multifamily-housing-development",
+    "asc-topic-326-(cecl---current-expected-credit-losses)",
+    "gaap-(generally-accepted-accounting-principles)",
+    "sifma-municipal-swap-index",
+    "sofr-(secured-overnight-funding-rate)",
+    "term-sofr",
+    "warm-(weighted-average-remaining-maturity)-loss-rate-model"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/GHI",
+  "origin": {
+    "leaf": "c4ab4471dc811cf92dff09200167dab98296580a6284c5d972343347947a5d75",
+    "parent": "ba33f5c0b0a5b3dc174797db3c0e9f1a376110ea9e5c722216db22c133d7c373",
+    "timestamp": "2026-04-12T03:12:52.155Z",
+    "source": "0001193125-26-108471",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c4ab4471dc811cf92dff09200167dab98296580a6284c5d972343347947a5d75",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.155Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

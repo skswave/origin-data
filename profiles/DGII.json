@@ -1,0 +1,148 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DGII",
+  "name": "DIGI INTERNATIONAL INC",
+  "cik": "0000854775",
+  "summary": "Digi International Inc. is a leading global provider of IoT connectivity products, services, and solutions. Founded in 1985 and headquartered in Hopkins, Minnesota, the company operates two segments: IoT Products & Services (embedded/wireless modules, routers, console servers, device management platforms) and IoT Solutions (SmartSense by Digi condition monitoring, Jolt Software task management, and Ventus Managed Network-as-a-Service). Digi serves OEM, enterprise, and government customers across banking, healthcare, retail, food service, transportation, and industrial markets.",
+  "products": [
+    {
+      "name": "Embedded and Wireless Modules",
+      "type": "hardware",
+      "description": "Modules enabling OEMs and enterprises to build secure IoT connectivity solutions."
+    },
+    {
+      "name": "Console Servers",
+      "type": "hardware",
+      "description": "Infrastructure management equipment for secure remote access and control."
+    },
+    {
+      "name": "Enterprise and Industrial Routers",
+      "type": "hardware",
+      "description": "Wired and wireless routers for IoT communication in enterprise and industrial environments."
+    },
+    {
+      "name": "Remote Manager Device Management Platform",
+      "type": "platform",
+      "description": "Subscription-based platform allowing customers to remotely monitor and manage connected hardware."
+    },
+    {
+      "name": "SmartSense by Digi",
+      "type": "service",
+      "description": "Wireless temperature and condition-based monitoring services targeting food service, healthcare, and supply chain."
+    },
+    {
+      "name": "Jolt Software",
+      "type": "software",
+      "description": "Task management, workforce management, and labeling solutions for food retailers and restaurants."
+    },
+    {
+      "name": "Ventus MNaaS",
+      "type": "service",
+      "description": "Managed Network-as-a-Service providing cellular wireless and fixed line WAN connectivity solutions for enterprises."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "AT&T",
+      "partnership_type": "strategic",
+      "description": "Cellular carrier relationship supporting IoT connectivity products and services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "AWS",
+      "partnership_type": "strategic",
+      "description": "Technology alliance for developing and marketing IoT solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Google",
+      "partnership_type": "strategic",
+      "description": "Technology alliance for developing and marketing IoT solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Qualcomm",
+      "partnership_type": "strategic",
+      "description": "Technology alliance supporting IoT connectivity product development.",
+      "start_date": null
+    },
+    {
+      "partner_name": "NXP",
+      "partnership_type": "strategic",
+      "description": "Technology alliance supporting IoT connectivity product development.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Silicon Laboratories",
+      "partnership_type": "strategic",
+      "description": "Technology alliance supporting IoT connectivity product development.",
+      "start_date": null
+    },
+    {
+      "partner_name": "T-Mobile",
+      "partnership_type": "strategic",
+      "description": "Cellular carrier relationship supporting IoT connectivity products and services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Verizon",
+      "partnership_type": "strategic",
+      "description": "Cellular carrier relationship supporting IoT connectivity products and services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Vodafone",
+      "partnership_type": "strategic",
+      "description": "Cellular carrier relationship supporting IoT connectivity products and services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Orange",
+      "partnership_type": "strategic",
+      "description": "Cellular carrier relationship supporting IoT connectivity products and services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "KORE",
+      "partnership_type": "strategic",
+      "description": "Strategic alliance for IoT connectivity solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Novotech",
+      "partnership_type": "strategic",
+      "description": "Strategic alliance for IoT connectivity solutions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Telus",
+      "partnership_type": "strategic",
+      "description": "Cellular carrier relationship supporting IoT connectivity products and services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Westbase",
+      "partnership_type": "strategic",
+      "description": "Strategic alliance for IoT connectivity solutions.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DGII/profile",
+  "origin": {
+    "leaf": "574b604ed3ee1b01709290c44a610856579c7d6f0631f0560e746cb992030190",
+    "parent": "5a13841a493e18dbaa6d528e41d240c96c501dd92a3f504933088211d4078229",
+    "timestamp": "2026-04-12T03:12:55.695Z",
+    "source": "profile:0000854775",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/574b604ed3ee1b01709290c44a610856579c7d6f0631f0560e746cb992030190",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.695Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

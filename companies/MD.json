@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MD",
+  "name": "Pediatrix Medical Group, Inc.",
+  "cik": "0000893949",
+  "exchange": "NYSE",
+  "sic": "8060",
+  "sic_description": "Services-Hospitals",
+  "state_of_incorporation": "FL",
+  "headquarters": "Sunrise, Florida",
+  "founded": "1979",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Pediatrix Medical Group, Inc. is a leading provider of physician services specializing in newborn, maternal-fetal, and pediatric subspecialty care. Its national network of approximately 2,295 affiliated physicians operates in 37 states, staffing over 360 NICUs, approximately 60 PICUs, and over 50 hospitals. Services include neonatal care, maternal-fetal medicine, pediatric intensive care, pediatric hospitalist care, pediatric surgery, and newborn hearing screening at 340 hospitals, screening over 793,000 babies annually.",
+  "tags": [
+    "neonatal-intensive-care",
+    "maternal-fetal-medicine",
+    "pediatric-intensive-care",
+    "pediatric-hospitalist-care",
+    "pediatric-surgery",
+    "newborn-hearing-screening",
+    "hospital-based-physician-services",
+    "women's-and-children's-healthcare"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MD",
+  "origin": {
+    "leaf": "9316f96c47e5a5f27683c819e61a0679fb3b75c36a3c1ca206ae94920269e30a",
+    "parent": "2d5927c07b5ea8b0cc8a19b6fd98b42615fd0566887595ecce8a41900f4ce4ca",
+    "timestamp": "2026-04-12T03:12:50.921Z",
+    "source": "0001193125-26-058074",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9316f96c47e5a5f27683c819e61a0679fb3b75c36a3c1ca206ae94920269e30a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.921Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PFD",
+  "name": "FLAHERTY & CRUMRINE PREFERRED & INCOME FUND INC",
+  "cik": "0000868578",
+  "exchange": "NYSE",
+  "sic": null,
+  "sic_description": null,
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1130",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PFD",
+  "origin": {
+    "leaf": "baf7eee3b3e616000fd0f374e73eaa3a03566dfebac662a65f3988a0ff7f1e64",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:52.065Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/baf7eee3b3e616000fd0f374e73eaa3a03566dfebac662a65f3988a0ff7f1e64",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.065Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

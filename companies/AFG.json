@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AFG",
+  "name": "AMERICAN FINANCIAL GROUP INC",
+  "cik": "0001042046",
+  "exchange": "NYSE",
+  "sic": "6331",
+  "sic_description": "Fire, Marine & Casualty Insurance",
+  "state_of_incorporation": "OH",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "American Financial Group Inc (AFG) is an insurance holding company. Based on the 10-K filing excerpt provided, AFG operates in insurance and related financial services. The filing references premiums, revenues, reserves for asbestos, environmental pollution and mass tort claims, and investment activities, suggesting AFG underwrites specialty insurance products. Specific product lines and operational details are contained in sections not fully provided in this excerpt.",
+  "tags": [
+    "specialty-insurance",
+    "financial-services"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AFG",
+  "origin": {
+    "leaf": "c1993c1e3fdbea97ca7fd14a1e13d5573a07cc1190af0d470188d08d3594536e",
+    "parent": "6ae82b7dd470da7f77dfd449dfdbd11b183092e162500c99844171835affa3b9",
+    "timestamp": "2026-04-12T03:12:50.494Z",
+    "source": "0001042046-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c1993c1e3fdbea97ca7fd14a1e13d5573a07cc1190af0d470188d08d3594536e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.494Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

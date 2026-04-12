@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "WELPP",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "WELPP",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 20,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "WELPP",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 20,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "WELPP",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 20,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WELPP/transcripts",
+  "origin": {
+    "leaf": "4e12e9c164c882debf8dca8b873e8e0b3f6d5b343e5f0eeccc5e204e26ed53a3",
+    "parent": "f0dd04994544b0a269723905f46958395978bfb48fae677dc79907eda311a278",
+    "timestamp": "2026-04-12T03:15:53.691Z",
+    "source": "facts:WELPP",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4e12e9c164c882debf8dca8b873e8e0b3f6d5b343e5f0eeccc5e204e26ed53a3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:15:53.691Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

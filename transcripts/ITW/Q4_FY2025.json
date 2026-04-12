@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ITW",
+  "company": "ILLINOIS TOOL WORKS INC",
+  "title": "ITW Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 1220,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "ITW gross margin",
+      "predicate": "reported",
+      "object": "$26.2 percent",
+      "value": 26.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ITW gross margin",
+      "predicate": "reported",
+      "object": "$19.8 percent",
+      "value": 19.8,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ITW gross margin",
+      "predicate": "reported",
+      "object": "$27.2 percent",
+      "value": 27.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ITW gross margin",
+      "predicate": "reported",
+      "object": "$31.2 percent",
+      "value": 31.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ITW gross margin",
+      "predicate": "reported",
+      "object": "$28.0 percent",
+      "value": 28,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ITW gross margin",
+      "predicate": "reported",
+      "object": "$26.3 percent",
+      "value": 26.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ITW EPS",
+      "predicate": "reported",
+      "object": "$2.72",
+      "value": 2.72,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ITW EPS",
+      "predicate": "reported",
+      "object": "$1.26",
+      "value": 1.26,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ITW EPS",
+      "predicate": "reported",
+      "object": "$0.30",
+      "value": 0.3,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ITW EPS",
+      "predicate": "reported",
+      "object": "$10.49",
+      "value": 10.49,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ITW",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ITW",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ITW",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ITW",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ITW/transcripts",
+  "origin": {
+    "leaf": "ebafb4dd8de44a4d6cdbcf329e1b3030ab421d7be4c2311d49481e4797c509db",
+    "parent": "b6e0f2502f878734f346ab73ee3137c0e79fed30862c063c97f917721150765ea2c1f577ba32a90b8de839e7047ce9b2",
+    "timestamp": "2026-04-12T03:13:00.841Z",
+    "source": "transcript:ITW_ITW-Slide-Presentation-Q4-2025-Earnings-Call.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ebafb4dd8de44a4d6cdbcf329e1b3030ab421d7be4c2311d49481e4797c509db",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.841Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

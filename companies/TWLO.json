@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TWLO",
+  "name": "TWILIO INC",
+  "cik": "0001447669",
+  "exchange": "NYSE",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Twilio Inc. provides a cloud communications platform that enables businesses to embed messaging, voice, email, and video interactions into customer-facing applications via APIs. Its platform combines communications APIs (Programmable Messaging, Programmable Voice, SendGrid Email), software products (digital engagement centers, marketing campaigns, user authentication), customer data capabilities, and AI-powered orchestration. As of December 31, 2025, Twilio served over 402,000 Active Customer Accounts ranging from SMBs to large enterprises across numerous industries.",
+  "tags": [
+    "small-and-medium-sized-businesses",
+    "large-enterprises",
+    "digital-customer-engagement",
+    "cloud-communications",
+    "email-delivery",
+    "user-authentication-and-identity",
+    "marketing-technology",
+    "contact-centers",
+    "sms",
+    "mms",
+    "rcs",
+    "voip",
+    "session-initiation-protocol-(sip)-trunking",
+    "public-switched-telephone-network-(pstn)",
+    "rest-apis",
+    "text-to-speech",
+    "speech-to-text"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TWLO",
+  "origin": {
+    "leaf": "d8d4009bbf27f4481fec88712f23e97442660fffdb0cad7ba63a7d6b47290b6d",
+    "parent": "434d4094fb7b7119e501008450ee3d122bd14f9cf02312cc068bb3d356b46a72",
+    "timestamp": "2026-04-12T03:12:50.420Z",
+    "source": "0001447669-26-000021",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d8d4009bbf27f4481fec88712f23e97442660fffdb0cad7ba63a7d6b47290b6d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.420Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

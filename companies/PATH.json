@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PATH",
+  "name": "UiPath, Inc.",
+  "cik": "0001734722",
+  "exchange": "NYSE",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0131",
+  "summary": "UiPath, Inc. is an enterprise automation software company that provides the UiPath Platform, a business orchestration and automation technologies (BOAT) suite combining robotic process automation (RPA), AI, and machine learning. The platform enables organizations to automate repetitive tasks and business processes. UiPath serves customers globally through direct sales and channel partners, offering cloud-based and on-premises deployment options.",
+  "tags": [
+    "enterprise-automation",
+    "robotic-process-automation-(rpa)",
+    "business-orchestration-and-automation-technologies-(boat)",
+    "artificial-intelligence-and-machine-learning-software",
+    "api-(application-programming-interface)",
+    "saas-(software-as-a-service)",
+    "llm-(large-language-model)",
+    "rpa-(robotic-process-automation)",
+    "gdpr",
+    "ccpa",
+    "sox"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PATH",
+  "origin": {
+    "leaf": "19b3c2412a020cc1720746d49bcd2695fb36bd5e7202b9f4fb2fc81256a01802",
+    "parent": "0739bc46b895105990f01171bbbc8749b6b688ef4b213f45245d614cc6286f05",
+    "timestamp": "2026-04-12T03:12:50.591Z",
+    "source": "0001734722-26-000012",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/19b3c2412a020cc1720746d49bcd2695fb36bd5e7202b9f4fb2fc81256a01802",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.591Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

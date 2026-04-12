@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "KURA",
+  "name": "Kura Oncology, Inc.",
+  "cik": "0001422143",
+  "summary": "Kura Oncology, Inc. is a clinical-stage biopharmaceutical company focused on developing targeted therapeutics for patients with genetically defined cancers. Its lead product, KOMZIFTI (ziftomenib), received FDA approval for adult patients with relapsed or refractory NPM1-mutated acute myeloid leukemia (AML). The company is pursuing additional indications for ziftomenib, including frontline AML and combination therapies, and has a collaboration with Kyowa Kirin Co., Ltd. for global development.",
+  "products": [
+    {
+      "name": "KOMZIFTI (ziftomenib)",
+      "type": "service",
+      "description": "FDA-approved targeted therapy for adult patients with relapsed or refractory NPM1-mutated acute myeloid leukemia (AML); also in development for frontline AML and combination regimens."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Kyowa Kirin Co., Ltd. and Kyowa Kirin, Inc.",
+      "partnership_type": "licensing",
+      "description": "Collaboration and license agreement signed November 2024 (Kyowa License Agreement) with potential milestone payments and royalties; co-promotion and medical affairs agreement entered June 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/KURA/profile",
+  "origin": {
+    "leaf": "78a1a677cffef181797b682400cf40ef33eabc8caef11e343002acfd49f8a600",
+    "parent": "4787d9ec4d139a93bcf5730a5a7ad921db3d7df24f83decce6c5c67204fbe7ad",
+    "timestamp": "2026-04-12T03:12:56.159Z",
+    "source": "profile:0001422143",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/78a1a677cffef181797b682400cf40ef33eabc8caef11e343002acfd49f8a600",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.159Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

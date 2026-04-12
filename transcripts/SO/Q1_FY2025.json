@@ -1,0 +1,153 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "SO",
+  "company": "SOUTHERN CO",
+  "title": "SO Q1 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 3193,
+  "speakers": [
+    {
+      "name": "Southern Company",
+      "title": "Operating Revenues   $   7,775   $   6,646   17",
+      "firm": "775   $   6",
+      "speaker_type": "other",
+      "mention_count": 41
+    },
+    {
+      "name": "Net Income",
+      "title": "Excluding Items” in the table below, Southern Company earned $1",
+      "firm": "Southern Company earned $1",
+      "speaker_type": "other",
+      "mention_count": 17
+    },
+    {
+      "name": "Total",
+      "title": "As Reported   $   0",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 16
+    },
+    {
+      "name": "Mississippi Power",
+      "title": "Operating Revenues   $   420   $   342   22",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 7
+    },
+    {
+      "name": "Southern Power",
+      "title": "Operating Revenues   $   567   $   473   19",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 7
+    },
+    {
+      "name": "Southern Company Gas",
+      "title": "Operating Revenues   $   1,839   $   1,707   7",
+      "firm": "839   $   1",
+      "speaker_type": "other",
+      "mention_count": 6
+    },
+    {
+      "name": "Change  Earnings Per Share",
+      "title": "As Reported (1)   $   1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 2
+    },
+    {
+      "name": "ATLANTA",
+      "title": "Southern Company today reported first-quarter earnings of $1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Alabama Power",
+      "title": "Operating Revenues   $   2,012   $   1,791   12",
+      "firm": "012   $   1",
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Georgia Power",
+      "title": "Operating Revenues   $   3,037   $   2,398   26",
+      "firm": "037   $   2",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "SO",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SO EPS",
+      "predicate": "reported",
+      "object": "$1.21",
+      "value": 1.21,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SO",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SO",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SO",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai_compute"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/SO/transcripts",
+  "origin": {
+    "leaf": "1dda8e1f8681d1ffc6d6997916a494a272780cce28a81f0830650497693a2f4d",
+    "parent": "58be0082e11d2113c0e0b87d02ff37ce32dbab4ab6fdce12eb787cc2d65e913a46cb133c7cef9eb06866c992cbed7a97",
+    "timestamp": "2026-04-12T03:13:01.205Z",
+    "source": "transcript:SO_SO-Earnings-Release-Q1-2025.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1dda8e1f8681d1ffc6d6997916a494a272780cce28a81f0830650497693a2f4d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.205Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

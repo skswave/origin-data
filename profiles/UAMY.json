@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UAMY",
+  "name": "UNITED STATES ANTIMONY CORP",
+  "cik": "0000101538",
+  "summary": "United States Antimony Corporation (UAMY) is engaged in mining, processing, and selling antimony and precious metals including gold and silver. The company operates properties in the United States and Mexico, producing antimony metal ingots and other antimony products. It holds a sole-source supply contract with the Defense Logistics Agency (DLA) for antimony metal ingots and sources antimony ore from domestic and international suppliers.",
+  "products": [
+    {
+      "name": "Antimony Metal Ingots",
+      "type": "hardware",
+      "description": "Processed antimony metal ingots sold under a sole-source contract with the Defense Logistics Agency (DLA)."
+    },
+    {
+      "name": "Antimony Ore",
+      "type": "hardware",
+      "description": "Mined and processed antimony ore sourced from domestic and international suppliers."
+    },
+    {
+      "name": "Precious Metals (Gold and Silver)",
+      "type": "hardware",
+      "description": "Gold and silver extracted as part of the company's mineral operations."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Defense Logistics Agency (DLA)",
+      "partnership_type": "strategic",
+      "description": "Sole-source supply contract for antimony metal ingots.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UAMY/profile",
+  "origin": {
+    "leaf": "c4db140c1fe1979b51df8460ba895793d8265f539702effc4ac023a0b3ff4da8",
+    "parent": "395df3389abc8b637e0db884d4dc07e3b01763da55a289b44cbe785532553943",
+    "timestamp": "2026-04-12T03:12:55.902Z",
+    "source": "profile:0000101538",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c4db140c1fe1979b51df8460ba895793d8265f539702effc4ac023a0b3ff4da8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.902Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

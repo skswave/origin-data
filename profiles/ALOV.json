@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ALOV",
+  "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc.",
+  "cik": "0002083989",
+  "summary": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. is a Cayman Islands exempted blank check company formed to effect a merger, amalgamation, share exchange, asset acquisition, or similar business combination with one or more businesses. It completed its IPO on January 23, 2026, raising $300,150,000 gross proceeds from 30,015,000 units at $10.00 each, with funds held in trust pending an initial business combination targeting enterprises valued between $500 million and $2 billion.",
+  "products": [
+    {
+      "name": "Class A Ordinary Share Units",
+      "type": "service",
+      "description": "IPO units each consisting of one Class A ordinary share and one-third of a redeemable warrant, sold at $10.00 per unit."
+    },
+    {
+      "name": "Private Placement Warrants",
+      "type": "service",
+      "description": "Warrants sold privately to the Sponsor and underwriters at $1.50 each, generating $7,300,000 in gross proceeds."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Aldabra 4 LOV Sponsor Partnership, LLC",
+      "partnership_type": "strategic",
+      "description": "Sponsor entity that purchased 3,126,666 Private Placement Warrants at $1.50 each in connection with the IPO.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Continental",
+      "partnership_type": "strategic",
+      "description": "Acts as trustee for the Trust Account holding $300,150,000 in net proceeds from the IPO and Private Placement.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ALOV/profile",
+  "origin": {
+    "leaf": "0bb5567dfe2fe706655828e9d9d5cffadaf175ff26dd3e109b5e52b55f156c26",
+    "parent": "335410cc55b5feaa7f4a3cfff0ee1ebc15fb1069cfbd6a1f5cbe9e5e250ac684",
+    "timestamp": "2026-04-12T03:12:56.569Z",
+    "source": "profile:0002083989",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0bb5567dfe2fe706655828e9d9d5cffadaf175ff26dd3e109b5e52b55f156c26",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.569Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

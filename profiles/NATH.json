@@ -1,0 +1,102 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NATH",
+  "name": "NATHANS FAMOUS, INC.",
+  "cik": "0000069733",
+  "summary": "Nathan's Famous, Inc. is a leading branded licensor, wholesaler, and retailer of food products marketed under the Nathan's Famous brand, best known for Nathan's World Famous Beef Hot Dogs. Founded as a nickel hot dog stand on Coney Island in 1916, the company operates through multiple channels including retail licensing, a Branded Product Program, franchised and company-owned quick-service restaurants, and virtual kitchens. Products are sold in approximately 79,000 locations across all 50 U.S. states and twenty foreign countries.",
+  "products": [
+    {
+      "name": "Nathan's World Famous Beef Hot Dogs",
+      "type": "service",
+      "description": "Flagship premium beef hot dogs sold through retail, foodservice, and restaurant channels across the U.S. and internationally."
+    },
+    {
+      "name": "Crinkle-Cut French Fries",
+      "type": "service",
+      "description": "Branded frozen crinkle-cut French fries sold through grocery retail and served in Nathan's Famous restaurants."
+    },
+    {
+      "name": "Branded Product Program",
+      "type": "service",
+      "description": "Program allowing foodservice operators to market and sell Nathan's Famous hot dog and specialty products at their venues."
+    },
+    {
+      "name": "Branded Menu Program (BMP)",
+      "type": "service",
+      "description": "Franchise program enabling approved foodservice operators to offer a Nathan's Famous menu including hot dogs and fries."
+    },
+    {
+      "name": "Arthur Treacher's Fish & Chips",
+      "type": "service",
+      "description": "Branded seafood menu-line extension included in certain Nathan's Famous restaurants and third-party online delivery platforms."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Smithfield Foods, Inc.",
+      "partnership_type": "licensing",
+      "description": "Manufactures, distributes, markets, and sells Nathan's Famous branded hot dogs through grocery, mass merchandising, and club channels nationwide.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Lamb Weston, Inc.",
+      "partnership_type": "licensing",
+      "description": "Licensing partner producing Nathan's Famous branded SKUs sold through grocery retail channels.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Walmart",
+      "partnership_type": "strategic",
+      "description": "Retail channel partner selling packaged Nathan's World Famous Beef Hot Dogs.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Kroger",
+      "partnership_type": "strategic",
+      "description": "Retail channel partner selling packaged Nathan's World Famous Beef Hot Dogs.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Costco",
+      "partnership_type": "strategic",
+      "description": "Club store channel partner selling packaged Nathan's World Famous Beef Hot Dogs.",
+      "start_date": null
+    },
+    {
+      "partner_name": "UberEats",
+      "partnership_type": "strategic",
+      "description": "Third-party online delivery platform used for Arthur Treacher's Fish & Chips and Nathan's Famous virtual kitchen orders.",
+      "start_date": null
+    },
+    {
+      "partner_name": "GrubHub",
+      "partnership_type": "strategic",
+      "description": "Third-party online delivery platform used for Nathan's Famous and Arthur Treacher's virtual kitchen orders.",
+      "start_date": null
+    },
+    {
+      "partner_name": "DoorDash",
+      "partnership_type": "strategic",
+      "description": "Third-party online delivery platform used for Nathan's Famous and Arthur Treacher's virtual kitchen orders.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NATH/profile",
+  "origin": {
+    "leaf": "404e5db8031663613adf3ceb2c08a43519d808b6d90ccd258b0fcba9d471b3d9",
+    "parent": "a6522c9db3d9a9300e3a52906e22dfd96b72a03d71053f1a8d31053a246dc350",
+    "timestamp": "2026-04-12T03:12:56.497Z",
+    "source": "profile:0000069733",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/404e5db8031663613adf3ceb2c08a43519d808b6d90ccd258b0fcba9d471b3d9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.497Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

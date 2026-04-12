@@ -1,0 +1,160 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "VTAK",
+  "total_facts": 11,
+  "by_type": {
+    "topic_mention": 11
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "VTAK",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 25,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "VTAK",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 25,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "VTAK",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 24,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "VTAK",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "VTAK",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "VTAK",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "VTAK",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "VTAK",
+      "predicate": "discussed_in_filing",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "VTAK",
+      "predicate": "discussed_in_filing",
+      "object": "Enterprise",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "enterprise",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "VTAK",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "VTAK",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VTAK/transcripts",
+  "origin": {
+    "leaf": "1d0f8c7c84ed1d1b8d0bb10fa085383bd4c95d079f68a18f4f49e41a1acf2509",
+    "parent": "0884c1e09f0727d1cbbba676c228b9f778284f7e5cb1905b74f2034c55206397",
+    "timestamp": "2026-04-12T03:15:32.953Z",
+    "source": "facts:VTAK",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1d0f8c7c84ed1d1b8d0bb10fa085383bd4c95d079f68a18f4f49e41a1acf2509",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:15:32.953Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

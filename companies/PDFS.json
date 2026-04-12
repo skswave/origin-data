@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PDFS",
+  "name": "PDF SOLUTIONS INC",
+  "cik": "0001120914",
+  "exchange": "Nasdaq",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": "DE",
+  "headquarters": "Santa Clara, California",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PDF Solutions, Inc. provides comprehensive data solutions for the semiconductor and electronics ecosystems, offering software, SaaS, engineering services, and hardware systems. Key products include the PDF Solutions Platform, DirectScan (e-beam inspection), eProbe inline inspection, Cimetrix connectivity/control software, and secureWISE secure data exchange network. Revenue comes from Platform fees (licenses, SaaS, engineering) and Volume-based fees (Cimetrix runtime licenses, secureWISE data, Gainshare royalties). Customers include IDMs, fabless companies, foundries, OSATs, equipment manufacturers, EMS, ODMs, and system houses.",
+  "tags": [
+    "semiconductor-manufacturing",
+    "integrated-device-manufacturers-(idms)",
+    "fabless-semiconductor-companies",
+    "foundries",
+    "outsourced-semiconductor-assembly-and-test-(osats)",
+    "semiconductor-equipment-manufacturers",
+    "electronics-manufacturing-suppliers-(ems)",
+    "original-device-manufacturers-(odms)",
+    "system-houses",
+    "semi-standards",
+    "iso-27001:2022",
+    "zero-trust-architecture"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PDFS",
+  "origin": {
+    "leaf": "332414c1314b547aa4086c9653d09bd6eece2f1f4befcd1a48dbdf61ba147ec3",
+    "parent": "89e3fd27999955dfe3824eb258b65d20f2da393acdd61114e777508f303b9f8a",
+    "timestamp": "2026-04-12T03:12:51.022Z",
+    "source": "0001437749-26-005366",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/332414c1314b547aa4086c9653d09bd6eece2f1f4befcd1a48dbdf61ba147ec3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.022Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

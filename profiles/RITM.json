@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RITM",
+  "name": "Rithm Capital Corp.",
+  "cik": "0001556593",
+  "summary": "Business Day (as defined herein) immediately preceding the first day of the applicable Series A Dividend Period in its sole discretion. If the Calculation Agent is unable or unwilling to determine LIBOR as provided in the immediately preceding sentence, then LIBOR will be equal to three-month LIBOR rate for the then current Series A Dividend Period, or, in the case of the first Series A Dividend Period in the Series A Floating Rate Period, the most recent dividend rate that would have been deter...",
+  "live_api": "https://origin.rootz.global/api/company/RITM/profile",
+  "origin": {
+    "leaf": "12cd0f004632507a506e4a5292412e712e35ae9aae36b077ee603c0245e7b5a5",
+    "parent": "38b77e0f1248dd3305731905d292b18e267f8f8e1ebb36431eb2e1ecbd0f507d",
+    "timestamp": "2026-04-12T03:12:55.260Z",
+    "source": "profile:0001556593",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/12cd0f004632507a506e4a5292412e712e35ae9aae36b077ee603c0245e7b5a5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.260Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

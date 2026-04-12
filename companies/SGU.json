@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SGU",
+  "name": "STAR GROUP, L.P.",
+  "cik": "0001002590",
+  "exchange": "NYSE",
+  "sic": "5990",
+  "sic_description": "Retail-Retail Stores, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "Star Group, L.P. is a home heating oil and propane distributor and service provider to residential and commercial customers in the Northeast and Mid-Atlantic U.S. regions. The company sells home heating oil, propane, gasoline, and diesel fuel, and installs, maintains, and repairs heating and air conditioning equipment. It serves approximately 469,600 full-service and delivery-only customers across 13 states and the District of Columbia, operating under brands including Petro Home Services, Meenan, and Griffith Energy Services.",
+  "tags": [
+    "residential-home-heating-oil-and-propane",
+    "commercial-home-heating-oil-and-propane",
+    "gasoline-and-diesel-fuel-distribution",
+    "heating-and-air-conditioning-equipment-installation-and-repair",
+    "natural-gas-system-servicing",
+    "northeast-u.s.-region",
+    "mid-atlantic-u.s.-region"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SGU",
+  "origin": {
+    "leaf": "67e165fa189555005811290c8fca19c2fc2902ee13143b45eb8f85eb106bb50c",
+    "parent": "b7504f18b3475dd300c2282a6d48e820c64e060cd10d295f4a9168ca54da7dff",
+    "timestamp": "2026-04-12T03:12:51.485Z",
+    "source": "0001193125-25-311490",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/67e165fa189555005811290c8fca19c2fc2902ee13143b45eb8f85eb106bb50c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.485Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

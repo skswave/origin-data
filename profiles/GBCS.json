@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GBCS",
+  "name": "SELECTIS HEALTH, INC.",
+  "cik": "0000727346",
+  "summary": "Selectis Health, Inc. owns and operates Assisted Living Facilities (ALFs), Independent Living Facilities (ILFs), and Skilled Nursing Facilities (SNFs) across the South and Southeastern United States through wholly-owned subsidiaries. The Company shifted from a REIT leasing model to an owner-operator model in 2019. As of December 31, 2024, it operates nine healthcare facilities offering post-acute/skilled nursing, senior housing, and independent living services, with revenues primarily from Medicare, Medicaid, and private-pay sources.",
+  "products": [
+    {
+      "name": "Skilled Nursing Facilities (SNF)",
+      "type": "service",
+      "description": "Restorative, rehabilitative, and custodial nursing care including therapy, wound care, oncology, and pharmaceutical services."
+    },
+    {
+      "name": "Assisted Living Facilities (ALF)",
+      "type": "service",
+      "description": "Licensed personal care facilities offering ADL assistance, meals, transportation, and social activities for seniors."
+    },
+    {
+      "name": "Independent Living Facilities (ILF)",
+      "type": "service",
+      "description": "Senior housing with housekeeping, meals, and activities for seniors not requiring daily living assistance."
+    },
+    {
+      "name": "Continuing Care Retirement Communities (CCRC)",
+      "type": "service",
+      "description": "Long-term housing and health-related services allowing residents to age in place across care levels."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GBCS/profile",
+  "origin": {
+    "leaf": "15bf4c1789b1e4b99a291da6d26f814fe543b19ca0483a8e39b73897e9c49461",
+    "parent": "ae1818938639fc8171d4960c19263cc1dc6834f658a495c1cbe7fd0bd1f0e30c",
+    "timestamp": "2026-04-12T03:12:59.912Z",
+    "source": "profile:0000727346",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/15bf4c1789b1e4b99a291da6d26f814fe543b19ca0483a8e39b73897e9c49461",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.912Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

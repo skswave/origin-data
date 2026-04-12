@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HQI",
+  "name": "HireQuest, Inc.",
+  "cik": "0001140102",
+  "exchange": "Nasdaq",
+  "sic": "7363",
+  "sic_description": "Services-Help Supply Services",
+  "state_of_incorporation": null,
+  "headquarters": "Goose Creek, SC",
+  "founded": "2002",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "HireQuest, Inc. is a nationwide franchisor of temporary staffing and permanent placement offices. Operating under brands including HireQuest Direct, Snelling, DriverQuest, HireQuest Health, TradeCorp, MRI Network, Northbound Executive Search, and Sales Consultants, it provides light industrial, blue-collar, healthcare, driver, and executive recruitment services. Revenue is primarily royalty fees from franchised offices. In 2025, system-wide sales were $500.2 million across 413 franchisee-owned offices in 43 states and 14 countries.",
+  "tags": [
+    "light-industrial-staffing",
+    "blue-collar-temporary-staffing",
+    "construction-staffing",
+    "driver-staffing",
+    "healthcare-and-dental-staffing",
+    "executive-and-professional-permanent-placement",
+    "administrative-staffing"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 75000,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HQI",
+  "origin": {
+    "leaf": "3c82372bbbc25687783c9a7d9dd37b3395a2bb32cf083f48958c928c65c1f956",
+    "parent": "807e872dae3675c1f5201093f438ed22ecd08d888dccacea954083d597890caa",
+    "timestamp": "2026-04-12T03:12:52.073Z",
+    "source": "0001437749-26-010435",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3c82372bbbc25687783c9a7d9dd37b3395a2bb32cf083f48958c928c65c1f956",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.073Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

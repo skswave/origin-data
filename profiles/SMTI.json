@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SMTI",
+  "name": "Sanara MedTech Inc.",
+  "cik": "0000714256",
+  "summary": "Sanara MedTech Inc. is a medical technology company focused on developing and commercializing products in the wound care and surgical sectors. The company develops, manufactures, distributes, markets, and sells medical products, some of which incorporate licensed third-party technologies. Sanara operates in competitive healthcare markets and relies on clinical acceptance, proprietary rights, and distribution networks to drive revenue growth.",
+  "products": [
+    {
+      "name": "Wound Care Products",
+      "type": "hardware",
+      "description": "Medical products for wound care treatment, developed and commercialized by Sanara MedTech."
+    },
+    {
+      "name": "Products Under Development",
+      "type": "hardware",
+      "description": "New products in development pipeline intended for future commercialization in medical markets."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party technology licensors",
+      "partnership_type": "licensing",
+      "description": "Sanara licenses technologies from third parties used in certain of its products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Research and development partners",
+      "partnership_type": "development",
+      "description": "Partners assist in protecting proprietary rights to technologies used in Sanara products.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SMTI/profile",
+  "origin": {
+    "leaf": "01e1ad84ee17a4c7d34c51289ab18c6903b86f7899d9631428e05342ee543239",
+    "parent": "e679e2c1dd8e889c0df1a6b5b47c6f70bb1582e68e2c4a3d443c9aab368207ed",
+    "timestamp": "2026-04-12T03:12:57.160Z",
+    "source": "profile:0000714256",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/01e1ad84ee17a4c7d34c51289ab18c6903b86f7899d9631428e05342ee543239",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.160Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

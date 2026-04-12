@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NOV",
+  "name": "NOV Inc.",
+  "cik": "0001021860",
+  "exchange": "NYSE",
+  "sic": "3533",
+  "sic_description": "Oil & Gas Field Machinery & Equipment",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "NOV Inc. is a global energy technology and equipment provider serving oil and gas companies, service companies, and shipyards. The company supplies drilling equipment including drill pipe, drill bits, liner hangers, completion tools, and land rig packages. NOV also offers closed-loop solids control systems, regenerative power systems, dual-containment flowlines, solar pumping systems, hydrocarbon leak detection systems, gas processing technology, and turret and mooring systems, while expanding into offshore wind, geothermal, carbon capture, and advanced nuclear markets.",
+  "tags": [
+    "oil-and-gas",
+    "offshore-wind",
+    "onshore-wind",
+    "geothermal-energy",
+    "carbon-capture-and-sequestration",
+    "advanced-nuclear",
+    "industrial-energy-equipment",
+    "marine-and-shipyard"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NOV",
+  "origin": {
+    "leaf": "116ed920b47d93f681a8965ec2593d38a3499777c8acb9e36c0dc6125fa53783",
+    "parent": "06ef669b3c734585745d5ffe7477b418b2204d00d5a1b9b4b6a4c8bcddbc0303",
+    "timestamp": "2026-04-12T03:12:50.563Z",
+    "source": "0001193125-26-048350",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/116ed920b47d93f681a8965ec2593d38a3499777c8acb9e36c0dc6125fa53783",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.563Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

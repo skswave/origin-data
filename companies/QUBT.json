@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "QUBT",
+  "name": "Quantum Computing Inc.",
+  "cik": "0001758009",
+  "exchange": "Nasdaq",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": "DE",
+  "headquarters": "Hoboken, New Jersey",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Quantum Computing Inc. (QCi) is a Delaware-incorporated company based in Hoboken, New Jersey that uses integrated photonics and non-linear quantum optics to develop machines for quantum computing, machine learning, remote sensing, imaging, and cybersecurity. Its flagship product is the Entropy Quantum Computer (EQC), which operates at room temperature. QCi also develops thin film lithium niobate (TFLN) photonic integrated circuits and acquired Luminar Semiconductor Inc. in February 2026 to expand photonic chip and aerospace/defense capabilities.",
+  "tags": [
+    "quantum-computing-and-optimization",
+    "artificial-intelligence-and-machine-learning",
+    "remote-sensing-and-imaging",
+    "cybersecurity",
+    "aerospace-and-defense",
+    "optical-communications",
+    "sensing-and-instrumentation",
+    "medicine",
+    "logistics",
+    "finance",
+    "energy-management",
+    "autonomous-vehicles"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/QUBT",
+  "origin": {
+    "leaf": "9e75843f08c52555a2086bbce0334fb29404bca328f6ada2ccd779dfedaa6299",
+    "parent": "12189226b06ce871de733a7a8d018699e879d4edb911e44494ebe5b346c5c77c",
+    "timestamp": "2026-04-12T03:12:50.964Z",
+    "source": "0001213900-26-022417",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9e75843f08c52555a2086bbce0334fb29404bca328f6ada2ccd779dfedaa6299",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.964Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FDX",
+  "name": "FEDEX CORP",
+  "cik": "0001048911",
+  "summary": "FedEx Corporation is a Delaware-incorporated holding company providing transportation, e-commerce, and business services worldwide. Its portfolio includes Federal Express (integrated air-ground express network), FedEx Freight (LTL freight), FedEx Logistics (customs brokerage, freight forwarding, supply chain), FedEx Office (document and business services), and FedEx Dataworks (digital solutions). FedEx operates a global network and pursues efficiency through its DRIVE program, Network 2.0, and the one FedEx consolidation initiative.",
+  "products": [
+    {
+      "name": "Federal Express",
+      "type": "service",
+      "description": "Integrated air-ground express package pickup, transport, and delivery network in the U.S. and internationally."
+    },
+    {
+      "name": "FedEx Freight",
+      "type": "service",
+      "description": "Less-than-truckload (LTL) freight transportation services provided as a separate subsidiary."
+    },
+    {
+      "name": "FedEx Logistics",
+      "type": "service",
+      "description": "Customs brokerage, global ocean and air freight forwarding, and integrated supply chain management solutions."
+    },
+    {
+      "name": "FedEx Office",
+      "type": "service",
+      "description": "Document and business services and retail access to FedEx package transportation businesses."
+    },
+    {
+      "name": "FedEx Dataworks",
+      "type": "platform",
+      "description": "Digital solutions to transform physical and digital experiences for customers and team members."
+    },
+    {
+      "name": "FedEx Custom Critical",
+      "type": "service",
+      "description": "Specialty critical shipping services, included in the FedEx Freight segment as of fiscal 2025."
+    },
+    {
+      "name": "FedEx Supply Chain",
+      "type": "service",
+      "description": "Integrated supply chain distribution system managed through FedEx Supply Chain Distribution System, Inc."
+    },
+    {
+      "name": "Network 2.0",
+      "type": "platform",
+      "description": "Multi-year initiative to improve efficiency of package pickup, transport, and delivery in the U.S. and Canada."
+    },
+    {
+      "name": "DRIVE",
+      "type": "service",
+      "description": "Comprehensive program to improve long-term profitability, reduce overhead, and transform digital capabilities."
+    },
+    {
+      "name": "Tricolor",
+      "type": "service",
+      "description": "Redesign of the Federal Express international air network to improve efficiency and asset utilization."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FDX/profile",
+  "origin": {
+    "leaf": "0e4daf5ac8abfedf387c5ea66d43e4fe88eadc69e8d42100bc5fe1f353813133",
+    "parent": "93e2ffd72dc858115ebe1f904f4c754db884d81e954c6139e6cb39a795e40536",
+    "timestamp": "2026-04-12T03:12:54.736Z",
+    "source": "profile:0001048911",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0e4daf5ac8abfedf387c5ea66d43e4fe88eadc69e8d42100bc5fe1f353813133",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.736Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

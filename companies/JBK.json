@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "JBK",
+  "name": "LEHMAN ABS CORP GOLDMAN SACHS CAP 1 SEC BACKED SER 2004-6",
+  "cik": "0001284143",
+  "exchange": "NYSE",
+  "sic": "6189",
+  "sic_description": "Asset-Backed Securities",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Lehman ABS Corporation serves as the Depositor for the Corporate Backed Trust Certificates, Goldman Sachs Capital I Securities-Backed Series 2004-6 Trust. The Trust issues publicly offered Certificates representing investors' interests, listed on the NYSE. Certificates are registered in the name of Cede & Co., nominee of The Depository Trust Company. The Trust makes distributions to certificateholders, documented via Form 8-K filings with the SEC.",
+  "tags": [
+    "structured-finance",
+    "asset-backed-securities"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/JBK",
+  "origin": {
+    "leaf": "a405e9448a206779f395d4474b2edd3d0fa64f8d68fcbc739d49031c41cc6ef4",
+    "parent": "8dee2c87e13d1bd21ebcb5860d8f5d106967f779102a725baf02c5de6bfc79d2",
+    "timestamp": "2026-04-12T03:12:54.067Z",
+    "source": "0001193125-26-143165",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a405e9448a206779f395d4474b2edd3d0fa64f8d68fcbc739d49031c41cc6ef4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.067Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CCEL",
+  "name": "CRYO CELL INTERNATIONAL INC",
+  "cik": "0000862692",
+  "summary": "Cryo-Cell International, Inc. is a cord blood and cord tissue banking company that collects, processes, and stores umbilical cord blood and cord tissue stem cells for potential future medical use. The company also pursues product diversification through biopharmaceutical manufacturing and operating clinics, holds an IP portfolio including umbilical cord blood and cord tissue license agreements, and engages in collaborative research partnerships related to stem cell therapies.",
+  "products": [
+    {
+      "name": "Cord Blood Banking",
+      "type": "service",
+      "description": "Collection, processing, and long-term storage of umbilical cord blood stem cells for potential future therapeutic use."
+    },
+    {
+      "name": "Cord Tissue Banking",
+      "type": "service",
+      "description": "Collection, processing, and long-term storage of umbilical cord tissue for potential future therapeutic use."
+    },
+    {
+      "name": "Biopharmaceutical Manufacturing",
+      "type": "service",
+      "description": "Expansion into biopharmaceutical manufacturing as a diversification initiative beyond core cord blood banking."
+    },
+    {
+      "name": "Operating Clinics",
+      "type": "service",
+      "description": "Initiative to operate clinics as part of the Company's business unit expansion strategy."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Undisclosed collaborative research partners",
+      "partnership_type": "development",
+      "description": "Collaborative research partnerships aimed at developing future stem cell therapies with potential ownership stakes for Cryo-Cell.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CCEL/profile",
+  "origin": {
+    "leaf": "66fd035734fe0c5b4bb28367656929bef24405270a760248d74aebf17ae59d1b",
+    "parent": "aa62b94ac4cee666db58d91432158fbb9be81122e6d0f843c5bb732b85bc0336",
+    "timestamp": "2026-04-12T03:12:58.078Z",
+    "source": "profile:0000862692",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/66fd035734fe0c5b4bb28367656929bef24405270a760248d74aebf17ae59d1b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.078Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

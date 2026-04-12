@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HAFC",
+  "name": "HANMI FINANCIAL CORP",
+  "cik": "0001109242",
+  "summary": "Hanmi Financial Corporation is the holding company for Hanmi Bank, a community bank serving multi-ethnic communities, particularly Korean-Americans. The bank offers commercial real estate loans, SBA loans, commercial and industrial loans, trade finance, and retail banking products including deposits. It operates across multiple U.S. markets and focuses on small and medium-sized businesses.",
+  "products": [
+    {
+      "name": "SBA Loans",
+      "type": "service",
+      "description": "Small Business Administration loans offered to small and medium-sized businesses."
+    },
+    {
+      "name": "Commercial Loans",
+      "type": "service",
+      "description": "Commercial lending products for business customers."
+    },
+    {
+      "name": "Real Estate Loans",
+      "type": "service",
+      "description": "Loans secured by real estate for commercial and individual borrowers."
+    },
+    {
+      "name": "Deposit Accounts",
+      "type": "service",
+      "description": "Retail and commercial deposit products including savings and checking accounts."
+    },
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Lending secured by commercial real estate properties for business borrowers."
+    },
+    {
+      "name": "SBA Loans",
+      "type": "service",
+      "description": "Small Business Administration guaranteed loans for small and medium-sized businesses."
+    },
+    {
+      "name": "Commercial and Industrial Loans",
+      "type": "service",
+      "description": "Business lending for commercial and industrial purposes."
+    },
+    {
+      "name": "Trade Finance",
+      "type": "service",
+      "description": "Financial products supporting international trade transactions."
+    },
+    {
+      "name": "Retail Banking and Deposits",
+      "type": "service",
+      "description": "Consumer and business deposit accounts and retail banking services."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HAFC/profile",
+  "origin": {
+    "leaf": "154497f65dce9ec155739ffa36114aee9639299fd8033d57eff59a68366319e0",
+    "parent": "59551da2dda149bccb3c13235ef9cff4908f568f04c68347e193e226a07a3bcf",
+    "timestamp": "2026-04-12T03:12:56.115Z",
+    "source": "profile:0001109242",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/154497f65dce9ec155739ffa36114aee9639299fd8033d57eff59a68366319e0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.115Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

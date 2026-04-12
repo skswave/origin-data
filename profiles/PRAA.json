@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PRAA",
+  "name": "PRA GROUP INC",
+  "cik": "0001185348",
+  "summary": "PART I . OVERVIEW General We are a specialty finance company headquartered in Norfolk, Virginia and incorporated in Delaware. Our primary business is the purchase, collection and management of nonperforming loan portfolios, and we are a global leader in the industry. Most of the loans we purchase are from credit originators who have chosen not to pursue, or have been unsuccessful in collecting, the full balance owed to them (\"Core\" accounts). To a lesser extent, we also purchase loans in situati...",
+  "live_api": "https://origin.rootz.global/api/company/PRAA/profile",
+  "origin": {
+    "leaf": "ee93c9fd4e07031fd2e06f6a7d71832f44cff3785c1819c22614675ccee42719",
+    "parent": "e8a70602363fb4a06fb5806f2417d9be8bcc0baba5c1a5fb1e4e04897216c479",
+    "timestamp": "2026-04-12T03:12:56.192Z",
+    "source": "profile:0001185348",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ee93c9fd4e07031fd2e06f6a7d71832f44cff3785c1819c22614675ccee42719",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.192Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CIZN",
+  "name": "CITIZENS HOLDING CO /MS/",
+  "cik": "0001075706",
+  "summary": "Citizens Holding Company is a Mississippi-incorporated one-bank holding company and sole shareholder of The Citizens Bank of Philadelphia, Mississippi. The Bank offers commercial and personal banking services including demand deposits, savings and time deposit accounts, secured and unsecured loans, letters of credit, mortgage loan origination, and personal and corporate trust services. It also provides credit life insurance and title insurance through third-party relationships. At December 31, 2023, total assets were $1,405,202 thousand and total deposits were $1,170,311 thousand.",
+  "products": [
+    {
+      "name": "Demand Deposit Accounts",
+      "type": "service",
+      "description": "Personal and commercial demand deposit accounts offered through the Bank."
+    },
+    {
+      "name": "Savings and Time Deposit Accounts",
+      "type": "service",
+      "description": "Savings and time deposit products for personal and commercial customers."
+    },
+    {
+      "name": "Secured and Unsecured Loans",
+      "type": "service",
+      "description": "Commercial and personal lending including real estate, commercial, and consumer loans."
+    },
+    {
+      "name": "Mortgage Loan Origination",
+      "type": "service",
+      "description": "Origination of residential and commercial mortgage loans across Mississippi and contiguous states."
+    },
+    {
+      "name": "Letters of Credit",
+      "type": "service",
+      "description": "Issuance of letters of credit for commercial customers."
+    },
+    {
+      "name": "Personal and Corporate Trust Services",
+      "type": "service",
+      "description": "Trust services provided to individual and corporate clients."
+    },
+    {
+      "name": "Credit Life Insurance",
+      "type": "service",
+      "description": "Credit life insurance offered to loan customers through third-party relationships."
+    },
+    {
+      "name": "Title Insurance",
+      "type": "service",
+      "description": "Title insurance for loan customers provided through third-party relationships."
+    },
+    {
+      "name": "Online and Mobile Banking",
+      "type": "platform",
+      "description": "Digital platform enabling consumers to perform routine transaction-related banking activities."
+    },
+    {
+      "name": "Treasury Management Suite",
+      "type": "service",
+      "description": "Business banking products including remote deposit capture, ACH transactions, and wire transfers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party credit life insurance providers",
+      "partnership_type": "strategic",
+      "description": "Third-party relationships used to offer credit life insurance to loan customers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Third-party title insurance providers",
+      "partnership_type": "strategic",
+      "description": "Third-party relationships used to offer title insurance to loan customers.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CIZN/profile",
+  "origin": {
+    "leaf": "e49dd3129fcff125eebcb5b0d45f0ad5d96bf390a05af77fae0dee450a2cadb2",
+    "parent": "eae58668ad4b2eca62e3840399bfe3af9c2624c68d5271c47eee41a098e8683a",
+    "timestamp": "2026-04-12T03:12:59.836Z",
+    "source": "profile:0001075706",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e49dd3129fcff125eebcb5b0d45f0ad5d96bf390a05af77fae0dee450a2cadb2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.836Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

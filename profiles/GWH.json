@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GWH",
+  "name": "ESS Tech, Inc.",
+  "cik": "0001819438",
+  "summary": "ESS Tech, Inc. (ticker: GWH) is an energy storage company that develops and manufactures iron flow battery systems for long-duration energy storage. The company focuses on providing alternatives to lithium-ion batteries, targeting commercial and utility-scale applications. ESS Tech went public through a Business Combination transaction and is listed on the NYSE.",
+  "products": [
+    {
+      "name": "Iron Flow Battery",
+      "type": "hardware",
+      "description": "Long-duration energy storage system marketed as a cost-competitive alternative to lithium-ion batteries for commercial and grid-scale applications."
+    },
+    {
+      "name": "Iron Flow Battery",
+      "type": "hardware",
+      "description": "Long-duration energy storage system positioned as a cost-effective alternative to lithium-ion batteries for commercial and utility-scale applications."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GWH/profile",
+  "origin": {
+    "leaf": "52b0e066043540e70a27455d85da6c68ac61df880a9c037a0ae611cd72b9b366",
+    "parent": "ec68f8d9ead59df7bc074b513ad086cc56740f520219baa463e8b87f4639b7e6",
+    "timestamp": "2026-04-12T03:12:57.972Z",
+    "source": "profile:0001819438",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/52b0e066043540e70a27455d85da6c68ac61df880a9c037a0ae611cd72b9b366",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.972Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

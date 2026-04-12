@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LXP",
+  "name": "LXP Industrial Trust",
+  "cik": "0000910108",
+  "exchange": "NYSE",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "General We are a Maryland real estate investment trust, qualified as a REIT for federal income tax purposes, focused on Class A warehouse and distribution real estate investments in target markets in the Sunbelt and lower Midwest. Class A real estate encompasses attractive and efficient buildings of high quality that are well-designed and constructed with above-average material, workmanship and finishes and are well-maintained and managed. A majority of our properties are subject to net or simil...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LXP",
+  "origin": {
+    "leaf": "b4dcba04fb43cbaa970bca18625a276b2b384e9b69377987312858d68d6b2be4",
+    "parent": "16689e6e869e5de71885eb4f46e0fd7d396986b0d1ad8e38d10cb0d5147418cb",
+    "timestamp": "2026-04-12T03:12:50.807Z",
+    "source": "0000910108-26-000009",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b4dcba04fb43cbaa970bca18625a276b2b384e9b69377987312858d68d6b2be4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.807Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ABEO",
+  "name": "ABEONA THERAPEUTICS INC.",
+  "cik": "0000318306",
+  "summary": "Abeona Therapeutics Inc. is a commercial-stage biopharmaceutical company developing cell and gene therapies for life-threatening rare diseases. Its lead product, ZEVASKYN (prademagene zamikeracel), received FDA approval on April 28, 2025, as the first and only autologous cell-based gene therapy for wounds in recessive dystrophic epidermolysis bullosa (RDEB) patients. The company also develops AAV-based gene therapies for ophthalmic diseases using its novel AIM capsid technology, and operates a cGMP manufacturing facility in Cleveland, Ohio.",
+  "products": [
+    {
+      "name": "ZEVASKYN (prademagene zamikeracel)",
+      "type": "service",
+      "description": "FDA-approved autologous cell-based gene therapy for treatment of wounds in adult and pediatric patients with recessive dystrophic epidermolysis bullosa (RDEB), applied as a single surgical procedure."
+    },
+    {
+      "name": "AIM Capsid Technology Platform",
+      "type": "platform",
+      "description": "Novel AAV capsid technology platform used to develop gene therapies targeting ophthalmic diseases, designed to improve tissue tropism and potentially evade immunity to wild-type AAV vectors."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Leading academic institutions",
+      "partnership_type": "development",
+      "description": "Collaborations with academic researchers to accelerate R&D, understand patient needs, and generate novel intellectual property in cell and gene therapy.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Patient advocacy organizations",
+      "partnership_type": "strategic",
+      "description": "Partnerships with patient advocacy organizations and caregivers to support development and delivery of therapies for rare genetic diseases.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ABEO/profile",
+  "origin": {
+    "leaf": "76026783b31a8427cdeb0838cd5a8faa50fc4ae69d18eb8b270336431d021334",
+    "parent": "cd1db5ea03618ffad2588f90bdc0414b18bc158103923516c6b1fbff94b7ef62",
+    "timestamp": "2026-04-12T03:12:56.850Z",
+    "source": "profile:0000318306",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/76026783b31a8427cdeb0838cd5a8faa50fc4ae69d18eb8b270336431d021334",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.850Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

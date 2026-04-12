@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TJX",
+  "name": "TJX COMPANIES INC /DE/",
+  "cik": "0000109198",
+  "exchange": "NYSE",
+  "sic": "5651",
+  "sic_description": "Retail-Family Clothing Stores",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1976",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0201",
+  "summary": "TJX Companies is the leading off-price apparel and home fashions retailer in the United States and worldwide, operating over 5,200 stores and six branded e-commerce sites. It operates chains including TJ Maxx, Marshalls, HomeGoods, Homesense, and Sierra in the U.S., Winners, HomeSense, and Marshalls in Canada, and TK Maxx and Homesense in Europe and Australia, offering brand name and designer merchandise at 20% to 60% below full-price retailers.",
+  "tags": [
+    "off-price-apparel-retail",
+    "off-price-home-fashions-retail",
+    "active-and-outdoor-apparel-and-gear",
+    "united-states-retail",
+    "canadian-retail",
+    "european-retail",
+    "australian-retail"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TJX",
+  "origin": {
+    "leaf": "0d5d32f32bdf1fdc35189ca6499aa576144d8f5ce27dcebcdc6972d2d90e0bf4",
+    "parent": "a69fa19704e99ec5fe48047265333eed978f93748ee8680e58d8e1b7f9beb347",
+    "timestamp": "2026-04-12T03:12:50.293Z",
+    "source": "0000109198-26-000008",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0d5d32f32bdf1fdc35189ca6499aa576144d8f5ce27dcebcdc6972d2d90e0bf4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.293Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

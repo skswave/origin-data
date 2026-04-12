@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SKYW",
+  "name": "SKYWEST INC",
+  "cik": "0000793733",
+  "exchange": "Nasdaq",
+  "sic": "4512",
+  "sic_description": "Air Transportation, Scheduled",
+  "state_of_incorporation": "UT",
+  "headquarters": null,
+  "founded": "1972",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "SkyWest, Inc. operates through SkyWest Airlines, offering scheduled passenger service to destinations in the United States, Canada, and Mexico. Substantially all flights operate as United Express, Delta Connection, American Eagle, or Alaska Airlines under code-share agreements. As of December 31, 2025, SkyWest operated approximately 2,260 daily departures with a fleet of 637 aircraft, including Embraer E175 and Bombardier CRJ series regional jets, under fixed-fee capacity purchase agreements with major airline partners.",
+  "tags": [
+    "regional-airline-services",
+    "scheduled-passenger-air-travel",
+    "aircraft-leasing",
+    "on-demand-charter-aviation",
+    "essential-air-service-(eas)-markets"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SKYW",
+  "origin": {
+    "leaf": "752083924a10c43e23c4927ba11981d33f9155e2e941777ab3a65d0f0d8bdefb",
+    "parent": "6f0f0ef057415c02294de3ec8676fcb72116d551cd3ead38425bfb04ef9ae9dd",
+    "timestamp": "2026-04-12T03:12:50.715Z",
+    "source": "0001104659-26-016358",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/752083924a10c43e23c4927ba11981d33f9155e2e941777ab3a65d0f0d8bdefb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.715Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LNN",
+  "name": "LINDSAY CORP",
+  "cik": "0000836157",
+  "summary": "Lindsay Corporation is a global manufacturer and distributor of water management and road infrastructure products. Founded in 1955, the company produces center pivot and lateral move irrigation systems under the Zimmatic brand, hose reel travelers under the Perrot brand, moveable barriers, crash cushions, road marking equipment, and railroad signals. It also offers IoT technology solutions, remote monitoring platforms (FieldNET, FieldWise), and custom electronics under the Elecsys brand, serving agricultural and infrastructure markets worldwide.",
+  "products": [
+    {
+      "name": "Zimmatic Center Pivot Irrigation Systems",
+      "type": "hardware",
+      "description": "Center pivot and lateral move irrigation systems for agricultural use, sold domestically and internationally."
+    },
+    {
+      "name": "Perrot Hose Reel Travelers",
+      "type": "hardware",
+      "description": "Hose reel irrigation systems for smaller or irregular fields, easy to move between locations."
+    },
+    {
+      "name": "FieldNET",
+      "type": "platform",
+      "description": "Remote monitoring and automation technology for irrigation systems, sold on subscription basis via Zimmatic dealers."
+    },
+    {
+      "name": "FieldWise",
+      "type": "platform",
+      "description": "Remote irrigation monitoring and control platform used primarily by non-Zimmatic dealers and customers."
+    },
+    {
+      "name": "FieldNET Advisor",
+      "type": "software",
+      "description": "Patented technology delivering field-specific irrigation recommendations using machine learning and cloud computing."
+    },
+    {
+      "name": "Elecsys",
+      "type": "hardware",
+      "description": "IIoT technology solutions, data acquisition and management systems, and custom electronic equipment for critical applications."
+    },
+    {
+      "name": "Moveable Barriers and Crash Cushions",
+      "type": "hardware",
+      "description": "Infrastructure safety products including moveable barriers, specialty barriers, and crash cushions for roadways."
+    },
+    {
+      "name": "Road Marking and Road Safety Equipment",
+      "type": "hardware",
+      "description": "Equipment for road marking and safety applications in the infrastructure segment."
+    },
+    {
+      "name": "Railroad Signals and Structures",
+      "type": "hardware",
+      "description": "Signals and structural products for railroad infrastructure applications."
+    },
+    {
+      "name": "Large Diameter Steel Tubing",
+      "type": "hardware",
+      "description": "Steel tubing manufactured and marketed as part of the irrigation segment product line."
+    },
+    {
+      "name": "Variable Rate Irrigation Systems",
+      "type": "hardware",
+      "description": "Systems allowing precise control of water application rates across irrigated fields."
+    },
+    {
+      "name": "Zimmatic Center Pivot Irrigation Systems",
+      "type": "hardware",
+      "description": "Center pivot and lateral move irrigation systems used in agricultural industry to conserve water, energy, and labor."
+    },
+    {
+      "name": "Perrot Hose Reel Travelers",
+      "type": "hardware",
+      "description": "Hose reel traveler irrigation systems for smaller or irregular fields, easy to operate and move."
+    },
+    {
+      "name": "FieldNET",
+      "type": "platform",
+      "description": "Remote monitoring and automation technology for Zimmatic dealers enabling growers to control irrigation systems via cellular or radio frequency."
+    },
+    {
+      "name": "FieldWise",
+      "type": "platform",
+      "description": "Remote monitoring and automation technology sold primarily to non-Zimmatic dealers and customers."
+    },
+    {
+      "name": "FieldNET Advisor",
+      "type": "software",
+      "description": "Patented technology providing field-specific and crop-specific irrigation recommendations using cloud computing, remote sensing, and machine learning."
+    },
+    {
+      "name": "Elecsys IIOT Solutions",
+      "type": "hardware",
+      "description": "IoT technology solutions, data acquisition and management systems, and custom electronic equipment for critical applications."
+    },
+    {
+      "name": "Moveable Barriers and Crash Cushions",
+      "type": "hardware",
+      "description": "Infrastructure safety products including moveable barriers, specialty barriers, and crash cushions for roadways."
+    },
+    {
+      "name": "Road Marking and Road Safety Equipment",
+      "type": "hardware",
+      "description": "Equipment for road marking and road safety used in infrastructure segment."
+    },
+    {
+      "name": "Railroad Signals and Structures",
+      "type": "hardware",
+      "description": "Railroad signal and structural products offered under the infrastructure segment."
+    },
+    {
+      "name": "Large Diameter Steel Tubing",
+      "type": "hardware",
+      "description": "Large diameter steel tubing manufactured and marketed as part of the irrigation segment."
+    },
+    {
+      "name": "Variable Rate Irrigation Systems",
+      "type": "hardware",
+      "description": "Systems enabling variable rate water application for precision irrigation management."
+    },
+    {
+      "name": "Chemical Injection Systems",
+      "type": "hardware",
+      "description": "Systems for fertigation and chemigation, applying chemicals through irrigation equipment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Pessl Instruments",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership to incorporate METOS weather stations and soil moisture probes into FieldNET and FieldWise platforms.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Pessl Instruments",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership to incorporate METOS weather stations and soil moisture probes data into FieldNET and FieldWise platforms.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LNN/profile",
+  "origin": {
+    "leaf": "cabf389cd0bb0c4870f51025391c9dc5b9cd7a1c9b8d4e9d1d20e4195e279cc2",
+    "parent": "841dc1bcb40264f96eff9e1d8345c182908f74ad88120bfc238be3f0628bffc2",
+    "timestamp": "2026-04-12T03:12:55.898Z",
+    "source": "profile:0000836157",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cabf389cd0bb0c4870f51025391c9dc5b9cd7a1c9b8d4e9d1d20e4195e279cc2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.898Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "STLY",
+  "name": "HG Holdings, Inc.",
+  "cik": "0000797465",
+  "summary": "HG Holdings, Inc. operates through wholly owned subsidiaries providing title insurance and title agency services, primarily in Florida. Through National Consumer Title Insurance Company (NCTIC), it underwrites land title insurance for owners and mortgagees. Its agency subsidiaries (NCTG, TAV, ONTA, ONF, ONP) provide title agency, closing, and escrow services for residential and commercial real estate transactions. The company also holds an equity investment in HC Government Realty Trust, Inc. and provides management advisory services to affiliates.",
+  "products": [
+    {
+      "name": "Land Title Insurance",
+      "type": "service",
+      "description": "Underwritten title insurance policies for owners and mortgage lenders on residential and commercial real property, primarily in Florida."
+    },
+    {
+      "name": "Title Agency Services",
+      "type": "service",
+      "description": "Title search, examination, and agency services for residential and commercial real estate transactions through affiliated subsidiaries."
+    },
+    {
+      "name": "Closing and Escrow Services",
+      "type": "service",
+      "description": "Closing and escrow services facilitating residential and commercial real estate transactions, representing approximately 30% of title segment revenues."
+    },
+    {
+      "name": "Management Advisory Services",
+      "type": "service",
+      "description": "Management advisory services provided to affiliated entities, reported under the Corporate and Other segment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "HC Government Realty Trust, Inc.",
+      "partnership_type": "strategic",
+      "description": "Affiliated equity investment in a Maryland corporation engaged in real estate-related activities.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/STLY/profile",
+  "origin": {
+    "leaf": "e197b18e585f2a3ba76d16b8bd8e069c231376cc1649171f953873afabf083e1",
+    "parent": "996b1b532e0f9d853e0591368a719a2465cdb995287233a8bd7bbf2cdaa8a83e",
+    "timestamp": "2026-04-12T03:12:58.105Z",
+    "source": "profile:0000797465",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e197b18e585f2a3ba76d16b8bd8e069c231376cc1649171f953873afabf083e1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.105Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

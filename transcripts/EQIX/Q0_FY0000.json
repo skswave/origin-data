@@ -1,0 +1,190 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "EQIX",
+  "company": "EQUINIX INC",
+  "title": "EQIX   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 11585,
+  "speakers": [
+    {
+      "name": "Adjusted NOI Composition",
+      "title": "Organic  32   Components of Net Asset Value  33   Forecasted Shares  Supplemental Data, Non - GAAP Reconciliations and Definitions  35   Supplemental Data, Non - GAAP Reconciliations and Definitions\n\n© 2026 Equinix, Inc",
+      "firm": "Non - GAAP Reconciliations and Definitions  35   Supplemental Data",
+      "speaker_type": "other",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "EQIX",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 39,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EQIX",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 18,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EQIX",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EQIX",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 29,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EQIX",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "EQIX gross margin",
+      "predicate": "reported",
+      "object": "$38 percent",
+      "value": 38,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "EQIX gross margin",
+      "predicate": "reported",
+      "object": "$63.9 percent",
+      "value": 63.9,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "EQIX",
+      "predicate": "guided",
+      "object": "expected to represent more than $23 billion",
+      "value": 23,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EQIX",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EQIX",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EQIX",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EQIX",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EQIX",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cloud"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EQIX",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "EQIX",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/EQIX/transcripts",
+  "origin": {
+    "leaf": "bdff22598890238360892ec9ff7637fe6632a2fd16eb7c35d433b14d78ac52b1",
+    "parent": "00c78668e1e743c8453f3b2d5defce36851ef823875933c6e1e8b94ec0b99e80f03aa02d12cc3e7f0b0cea17aef47378",
+    "timestamp": "2026-04-12T03:13:00.745Z",
+    "source": "transcript:EQIX_Equinix+Q4+25+Earnings+Presentation+Final.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bdff22598890238360892ec9ff7637fe6632a2fd16eb7c35d433b14d78ac52b1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.745Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

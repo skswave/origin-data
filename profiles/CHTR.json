@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CHTR",
+  "name": "CHARTER COMMUNICATIONS, INC. /MO/",
+  "cik": "0001091667",
+  "summary": "Charter Communications, Inc. is a leading broadband connectivity company operating under the Spectrum brand, offering Internet (up to 1 Gbps and multi-gigabit speeds), mobile (5G-enabled), video (including streaming via Xumo Stream Boxes), and voice services. Available to 58 million homes and businesses across 41 states, Charter serves residential and commercial customers and is actively upgrading its fiber-powered network to support symmetrical multi-gigabit speeds by 2027.",
+  "products": [
+    {
+      "name": "Spectrum Internet",
+      "type": "service",
+      "description": "Broadband Internet service with speeds up to 1 Gbps across entire footprint and multi-gigabit speeds in portions."
+    },
+    {
+      "name": "Spectrum Mobile",
+      "type": "service",
+      "description": "5G-enabled mobile service available to Spectrum Internet customers, no contracts, taxes and fees included in price."
+    },
+    {
+      "name": "Spectrum TV",
+      "type": "service",
+      "description": "Video service with flexible packaging, ad-supported streaming apps, and a la carte options for programmers."
+    },
+    {
+      "name": "Spectrum Voice",
+      "type": "service",
+      "description": "Residential and commercial voice service offered as standalone or bundled with other Spectrum products."
+    },
+    {
+      "name": "Advanced WiFi",
+      "type": "service",
+      "description": "Managed WiFi service offering optimized home networking, device control, enhanced security and privacy for Internet customers."
+    },
+    {
+      "name": "Xumo Stream Box",
+      "type": "hardware",
+      "description": "Streaming device enabling seamless access to video content and streaming applications for Spectrum customers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Liberty Broadband",
+      "partnership_type": "strategic",
+      "description": "Pending Liberty Broadband Combination transaction with definitive merger agreement; joint proxy statement/prospectus filed January 22, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Cox Communications",
+      "partnership_type": "strategic",
+      "description": "Pending Cox Transactions under a transaction agreement; definitive proxy statement filed July 2, 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Xumo",
+      "partnership_type": "strategic",
+      "description": "Deployment of Xumo Stream Boxes to deliver streaming video content and entertainment to Spectrum customers.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CHTR/profile",
+  "origin": {
+    "leaf": "938ad193937b8d1bda572df34f1b952bf56e3e9991b3c0a24ba37da89fcc8c81",
+    "parent": "5442f353cb39b83f61ba8a86a462bc3611011c5c41f4dab9d07da7e969f353c0",
+    "timestamp": "2026-04-12T03:12:54.854Z",
+    "source": "profile:0001091667",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/938ad193937b8d1bda572df34f1b952bf56e3e9991b3c0a24ba37da89fcc8c81",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.854Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

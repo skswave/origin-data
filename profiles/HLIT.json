@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HLIT",
+  "name": "HARMONIC INC.",
+  "cik": "0000851310",
+  "summary": "Harmonic Inc. is a leading global provider of broadband access solutions enabling broadband operators to deploy high-speed internet for data, voice, and video services. Its Broadband business offers the cOS software-based broadband access solution running on commercial-off-the-shelf servers, supporting DOCSIS and PON services via distributed access architecture. The company derives approximately 89% of revenue from the Americas and is divesting its Video business to Leone Media Inc. for $145 million.",
+  "products": [
+    {
+      "name": "cOS",
+      "type": "software",
+      "description": "Software-based broadband access solution running on COTS servers, supporting DOCSIS and PON/FTTH services via distributed access nodes."
+    },
+    {
+      "name": "Indoor OLT Shelves",
+      "type": "hardware",
+      "description": "Indoor optical line termination shelves delivering PON services as part of the cOS solution."
+    },
+    {
+      "name": "Hardened Outdoor OLT Shelves",
+      "type": "hardware",
+      "description": "Outdoor optical line termination shelves for delivering PON services in field deployments."
+    },
+    {
+      "name": "OLT Modules",
+      "type": "hardware",
+      "description": "Optical line termination modules that plug into DAA nodes to support FTTH PON services."
+    },
+    {
+      "name": "Distributed Access Architecture (DAA) Nodes",
+      "type": "hardware",
+      "description": "Field-deployed nodes that distribute RF and optical processing outside the headend to reduce space and power requirements."
+    },
+    {
+      "name": "cOS",
+      "type": "software",
+      "description": "Software-based broadband access solution running on COTS servers, supporting DOCSIS and PON services with distributed access architecture."
+    },
+    {
+      "name": "Indoor OLT Shelves",
+      "type": "hardware",
+      "description": "Indoor optical line termination shelves offered as part of the cOS solution for delivering PON services."
+    },
+    {
+      "name": "Hardened Outdoor OLT Shelves",
+      "type": "hardware",
+      "description": "Outdoor optical line termination shelves offered as part of the cOS solution for delivering PON services."
+    },
+    {
+      "name": "OLT Modules",
+      "type": "hardware",
+      "description": "Optical line termination modules plugged into DAA nodes to support PON services within the cOS solution."
+    },
+    {
+      "name": "Distributed Access Architecture (DAA) Nodes",
+      "type": "hardware",
+      "description": "Field-deployed nodes that distribute RF processing outside the headend, reducing space and power requirements."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HLIT/profile",
+  "origin": {
+    "leaf": "2bbee680efac0cba512dac2819071d37cb6fe448b9eee83573f7ddc37837ab08",
+    "parent": "ce73a32b41878547a1f37985e3460457e1ceb6ccebf1e0892036ebe7f3b08899",
+    "timestamp": "2026-04-12T03:12:55.999Z",
+    "source": "profile:0000851310",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2bbee680efac0cba512dac2819071d37cb6fe448b9eee83573f7ddc37837ab08",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.999Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

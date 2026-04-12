@@ -1,0 +1,70 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SMID",
+  "name": "SMITH MIDLAND CORP",
+  "cik": "0000924719",
+  "summary": "Smith-Midland Corporation invents, develops, manufactures, markets, leases, licenses, sells, and installs precast concrete products through six wholly-owned subsidiaries. Key products include SlenderWall lightweight exterior wall panels, J-J Hooks Highway Safety Barrier, Sierra Wall sound barriers, Easi-Set and Easi-Span precast buildings, and SoftSound sound-absorptive finish. The company serves construction, highway, utilities, and farming industries, primarily in the Mid-Atlantic, Northeastern, Midwestern, and Southeastern United States, and licenses products internationally.",
+  "products": [
+    {
+      "name": "SlenderWall",
+      "type": "hardware",
+      "description": "Patented lightweight prefabricated energy-efficient exterior concrete and steel cladding system for building construction."
+    },
+    {
+      "name": "J-J Hooks Highway Safety Barrier",
+      "type": "hardware",
+      "description": "Patented positively connected highway safety barrier for roadways, sold, rented, and licensed."
+    },
+    {
+      "name": "Sierra Wall",
+      "type": "hardware",
+      "description": "Patented precast concrete sound and sight barrier for highway, residential, and commercial use."
+    },
+    {
+      "name": "SoftSound",
+      "type": "hardware",
+      "description": "Proprietary sound absorptive finish applied to sound barriers to absorb traffic noise."
+    },
+    {
+      "name": "Easi-Set Precast Buildings",
+      "type": "hardware",
+      "description": "Transportable prefabricated all-concrete buildings available in 38 standard sizes for various uses."
+    },
+    {
+      "name": "Easi-Span Expandable Precast Buildings",
+      "type": "hardware",
+      "description": "Modular expandable precast concrete buildings incorporating Easi-Set technology in larger configurations."
+    },
+    {
+      "name": "Farm Products",
+      "type": "hardware",
+      "description": "Precast concrete farm products including cattleguards, water troughs, and feed troughs."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Easi-Set Worldwide",
+      "partnership_type": "licensing",
+      "description": "Virginia subsidiary doing business as Easi-Set Worldwide, licensing proprietary products to precast manufacturers nationwide and internationally.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SMID/profile",
+  "origin": {
+    "leaf": "62879792de74576220a74264d7195767b908fb983fd159e89ff975591ffda20e",
+    "parent": "537c50faef434e37a06886acc9c9b4fb9cdaacae78c9a5fb6fad812d8266a427",
+    "timestamp": "2026-04-12T03:12:57.098Z",
+    "source": "profile:0000924719",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/62879792de74576220a74264d7195767b908fb983fd159e89ff975591ffda20e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.098Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

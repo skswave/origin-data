@@ -1,0 +1,92 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "OPHC",
+  "name": "OptimumBank Holdings, Inc.",
+  "cik": "0001288855",
+  "summary": "OptimumBank Holdings, Inc. is a Florida bank holding company owning OptimumBank, a state-chartered FDIC-insured bank established in 2000. Operating from headquarters and three branch offices in Broward and Miami-Dade counties, the Bank offers commercial and consumer banking services including real estate loans, SBA 7(a) loans, treasury management, ACH services, merchant cash advance treasury services, and reciprocal deposits via IntraFi Network. At December 31, 2025, total assets were $1.1 billion with net income of $16.6 million.",
+  "products": [
+    {
+      "name": "Commercial Real Estate Loans",
+      "type": "service",
+      "description": "Loans secured by commercial real estate properties, comprising approximately 70% of total loan portfolio."
+    },
+    {
+      "name": "SBA 7(a) Loans",
+      "type": "service",
+      "description": "SBA-guaranteed loans secured by accounts receivable, inventory, equipment, or real estate; Bank holds Preferred Lender status since Q1 2025."
+    },
+    {
+      "name": "Treasury Management / ACH Services",
+      "type": "service",
+      "description": "High-volume ACH transaction servicing for merchant cash advance providers, generating low-cost deposits and fee income."
+    },
+    {
+      "name": "Reciprocal Deposits via IntraFi Network",
+      "type": "service",
+      "description": "FDIC insurance beyond $250,000 standard limit for demand deposit, money market, and CD accounts."
+    },
+    {
+      "name": "Multi-family and Residential Real Estate Loans",
+      "type": "service",
+      "description": "Fixed and variable rate mortgage loans to individuals and businesses for purchase, improvement, or investment in real estate."
+    },
+    {
+      "name": "Consumer Loans / Home Equity Lines of Credit",
+      "type": "service",
+      "description": "Consumer lending products including home equity lines of credit."
+    },
+    {
+      "name": "Asset-Based Lending (ABL) Lines of Credit",
+      "type": "service",
+      "description": "Accounts receivable-based ABL lines of credit primarily for skilled nursing facility clients."
+    },
+    {
+      "name": "OptimumFunding (OptimumHUD Loans, LLC)",
+      "type": "service",
+      "description": "Wholly owned non-bank subsidiary formed late 2025 to offer bridge-to-HUD financing and FHA/HUD loan origination for multifamily and healthcare properties."
+    },
+    {
+      "name": "Demand and Time Deposit Accounts",
+      "type": "service",
+      "description": "Interest-bearing and noninterest-bearing demand accounts, money market accounts, NOW accounts, and time deposits."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "IntraFi Network",
+      "partnership_type": "strategic",
+      "description": "Reciprocal deposit network membership enabling FDIC insurance beyond $250,000 standard limit for depositors.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Federal Home Loan Bank of Atlanta",
+      "partnership_type": "strategic",
+      "description": "Membership providing access to funding and liquidity resources.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Small Business Administration (SBA)",
+      "partnership_type": "strategic",
+      "description": "Preferred Lender Program designation obtained February 18, 2025, enabling Bank to offer SBA-guaranteed 7(a) loans.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/OPHC/profile",
+  "origin": {
+    "leaf": "b392fdc2f8642b7829cf0b837856d41418ea00fb8eaea147a052685b03006130",
+    "parent": "0f131c69f4a4a80babb2e5361053966d2e159a0b6931ff2a1d61558a02944e1d",
+    "timestamp": "2026-04-12T03:12:57.695Z",
+    "source": "profile:0001288855",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b392fdc2f8642b7829cf0b837856d41418ea00fb8eaea147a052685b03006130",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.695Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

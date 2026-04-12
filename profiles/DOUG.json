@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DOUG",
+  "name": "Douglas Elliman Inc.",
+  "cik": "0001878897",
+  "summary": "Overview Douglas Elliman Inc. is a holding company that, through its subsidiaries, is engaged in the real estate services business. Douglas Elliman owns Douglas Elliman Realty, LLC, one of the largest residential brokerage companies in the New York metropolitan area, which includes New York City, Long Island, the Hamptons, Westchester, Connecticut and New Jersey, and also conducts operations in Florida, California, Texas, Colorado, Nevada, Massachusetts, Maryland, Virginia, and Washington D.C. W...",
+  "live_api": "https://origin.rootz.global/api/company/DOUG/profile",
+  "origin": {
+    "leaf": "6eea68cb3a959047e1c0e41ad8ece4f13155cd776e410f69087c7fd1c7459f77",
+    "parent": "4ad971496a1a1cc65ceb57c763c5d3efbb11b70a5dd8a888626fa02465608421",
+    "timestamp": "2026-04-12T03:12:57.216Z",
+    "source": "profile:0001878897",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6eea68cb3a959047e1c0e41ad8ece4f13155cd776e410f69087c7fd1c7459f77",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.216Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

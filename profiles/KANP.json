@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "KANP",
+  "name": "KAANAPALI LAND LLC",
+  "cik": "0001230058",
+  "summary": "Kaanapali Land LLC is a Hawaii-based land company with subsidiaries engaged in land management, farming services, coffee distribution, and real estate development across Hawaii and mainland US. Its subsidiaries include Kaanapali Land Management Corporation, Kaanapali Farm Services, MauiGrown Coffee Distributors, Pioneer Mill Company, and several land development entities organized in Hawaii and Delaware.",
+  "products": [
+    {
+      "name": "MauiGrown Coffee",
+      "type": "service",
+      "description": "Coffee distribution through MauiGrown Coffee Distributors LLC, a Hawaii-organized subsidiary."
+    },
+    {
+      "name": "Land Management Services",
+      "type": "service",
+      "description": "Land management services provided through Kaanapali Land Management Corporation in Hawaii."
+    },
+    {
+      "name": "Farm Services",
+      "type": "service",
+      "description": "Agricultural and farming services provided through Kaanapali Farm Services Inc in Hawaii."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/KANP/profile",
+  "origin": {
+    "leaf": "7ee4d75e1d1f5a6cafc425d2808a2d9f789417c79079696f8ed403d448ab78ae",
+    "parent": "560303e6e4101d1b29d32fbe43ec97520f0a5f072f0977521b7e89410bbe9e5e",
+    "timestamp": "2026-04-12T03:12:57.835Z",
+    "source": "profile:0001230058",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7ee4d75e1d1f5a6cafc425d2808a2d9f789417c79079696f8ed403d448ab78ae",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.835Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

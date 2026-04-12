@@ -1,0 +1,136 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "IFF",
+  "total_facts": 9,
+  "by_type": {
+    "topic_mention": 9
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "IFF",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 30,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IFF",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 30,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IFF",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 30,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IFF",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.9199999999999999,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IFF",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.9199999999999999,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IFF",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.9199999999999999,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IFF",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IFF",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "IFF",
+      "predicate": "discussed_in_filing",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/IFF/transcripts",
+  "origin": {
+    "leaf": "45b0b35c7b2fe24cc96d2ee5b3d749eaaa34175a8ee42698a8b99e00ccf4df09",
+    "parent": "18d650024cee8fe8e72a97af6ce7586202fc44e2ecc8e8874a752f93c37bfab6",
+    "timestamp": "2026-04-12T03:13:16.634Z",
+    "source": "facts:IFF",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/45b0b35c7b2fe24cc96d2ee5b3d749eaaa34175a8ee42698a8b99e00ccf4df09",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:16.634Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

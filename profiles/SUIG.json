@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SUIG",
+  "name": "SUI Group Holdings Ltd.",
+  "cik": "0001425355",
+  "summary": "SUI Group Holdings Ltd. (SUIG) is a company that has undergone rebranding and operates a digital asset treasury strategy, holding SUI tokens and other cryptocurrency assets. The company also makes portfolio investments and operates across industries impacted by digital assets and cryptocurrencies. Specific products or services beyond digital asset holdings and investments are not detailed in this section of the filing.",
+  "products": [
+    {
+      "name": "Digital Asset Treasury",
+      "type": "service",
+      "description": "Strategy focused on holding SUI tokens and other digital asset cryptocurrencies as treasury assets."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SUIG/profile",
+  "origin": {
+    "leaf": "b324a339279be5a787a03eb41fdc25ab56751bd93b80b308b995cb2a45eade39",
+    "parent": "5ee919ef72f844c7fca124466b4a5596a3e17636269fd9f9b64494017a1f64e3",
+    "timestamp": "2026-04-12T03:12:57.445Z",
+    "source": "profile:0001425355",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b324a339279be5a787a03eb41fdc25ab56751bd93b80b308b995cb2a45eade39",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.445Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

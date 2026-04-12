@@ -1,0 +1,108 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CMS",
+  "company": "CMS ENERGY CORP",
+  "title": "CMS   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 4660,
+  "speakers": [
+    {
+      "name": "EBIT",
+      "title": "Non-GAAP   (1)  Consolidated   $   2,056   $   1,837   $   1,639 Consumers Energy   1,993   1,733   1,518  Depreciation and Amortization  Consolidated   $   1,306   $   1,240   $   1,180 Consumers Energy   1,254   1,191   1,137  EBITDA – Non-GAAP   (1)  Consolidated   $   3,362   $   3,077   $   2,819 Consumers Energy   3,247   2,924   2,655  Dividends and Other Distributions From Subsidiaries   $   898   $   900   $   745  Interest Expense, Net  Consolidated   $   789   $   708   $   643 Energy parent   266   205   201 Consumers Energy   530   499   440  Book Value Per Share   $   29",
+      "firm": "056   $   1",
+      "speaker_type": "other",
+      "mention_count": 13
+    },
+    {
+      "name": "Adjusted Net Income",
+      "title": "Non-GAAP   $   290   $   262   $   28   $   1,087   $   998   $   89  Average Common Shares Outstanding - Diluted   305",
+      "firm": "087   $   998   $   89  Average Common Shares Outstanding - Diluted   305",
+      "speaker_type": "other",
+      "mention_count": 12
+    },
+    {
+      "name": "Common Shares Outstanding",
+      "title": "End of Period   306",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 7
+    },
+    {
+      "name": "Average Common Shares Outstanding",
+      "title": "Diluted   305",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 6
+    },
+    {
+      "name": "Adjusted EPS",
+      "title": "Non-GAAP  Electric utility   $   2",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 5
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "CMS EPS",
+      "predicate": "reported",
+      "object": "$3.53",
+      "value": 3.53,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMS",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMS",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMS",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CMS/transcripts",
+  "origin": {
+    "leaf": "63f145814d97d073330da91a85735c487d65c9f72d0ee2dca3ad7e78400642e8",
+    "parent": "70e6e6e14d7a63ff66c9575815f74dbc9b15c245a6f1bd4c77078ba1cabe39f8f37ba153ab707f5ca58fafac131ee1ef",
+    "timestamp": "2026-04-12T03:13:00.624Z",
+    "source": "transcript:CMS_CMS-Energy-4Q25-Earnings-Release-Combined-Final.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/63f145814d97d073330da91a85735c487d65c9f72d0ee2dca3ad7e78400642e8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.624Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

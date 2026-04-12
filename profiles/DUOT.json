@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DUOT",
+  "name": "DUOS TECHNOLOGIES GROUP, INC.",
+  "cik": "0001396536",
+  "summary": "Duos Technologies Group, Inc. (DUOT) is a Jacksonville, Florida-based company operating through three subsidiaries: Duos Technologies, Inc. (intelligent inspection/analytics), Duos Edge AI, Inc. (modular Edge Data Centers and infrastructure solutions), and Duos Energy Corporation (energy consulting). The company delivers AI-driven technologies, edge computing infrastructure, manufacturer-agnostic supply chain sourcing, and energy services targeting education, healthcare, enterprise, public sector, and data center markets. It employs approximately 84 people across engineering, software development, operations, and project management.",
+  "products": [
+    {
+      "name": "Edge Data Centers (EDCs)",
+      "type": "hardware",
+      "description": "Modular, rapidly deployable data center units bringing enterprise-grade compute capacity closer to end users, supporting AI inference and distributed workloads."
+    },
+    {
+      "name": "Duos Technologies Solutions",
+      "type": "service",
+      "description": "Manufacturer-agnostic infrastructure sourcing, logistics coordination, vendor management, and fulfillment services for data center and AI deployments."
+    },
+    {
+      "name": "Intelligent Inspection and Analytics Solutions",
+      "type": "software",
+      "description": "Legacy machine vision and AI-based automated inspection and analytics solutions for transportation and logistics applications."
+    },
+    {
+      "name": "Energy Consulting Services",
+      "type": "service",
+      "description": "Behind-the-meter electrical power provision and energy-related consulting services offered through Duos Energy Corporation."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DUOT/profile",
+  "origin": {
+    "leaf": "513b6abc171bb9ba21db811e45cd39a7511b76b1145be95f48a4cdedb048cf63",
+    "parent": "be207136992ada5becff3e1943ce4e0e70e6cf3419eb49cb5baf1b54ad19f46b",
+    "timestamp": "2026-04-12T03:12:57.001Z",
+    "source": "profile:0001396536",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/513b6abc171bb9ba21db811e45cd39a7511b76b1145be95f48a4cdedb048cf63",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.001Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PNMXO",
+  "name": "PUBLIC SERVICE CO OF NEW MEXICO",
+  "cik": "0000081023",
+  "summary": "PNM Energy Transition Bond Company I, LLC is a special purpose entity and wholly-owned subsidiary of Public Service Company of New Mexico (PNM), which is itself a subsidiary of TXNM Energy, Inc. The company was formed to issue energy transition bonds (asset-backed securities) secured by energy transition property purchased from PNM. U.S. Bank Trust Company, National Association serves as Indenture Trustee, and PNM acts as servicer and administrator.",
+  "products": [
+    {
+      "name": "Energy Transition Bonds",
+      "type": "service",
+      "description": "Asset-backed securities issued November 15, 2023, secured by energy transition property purchased from Public Service Company of New Mexico."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Public Service Company of New Mexico",
+      "partnership_type": "strategic",
+      "description": "PNM acts as depositor, sponsor, servicer, and administrator for the Issuing Entity under multiple agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Bank Trust Company, National Association",
+      "partnership_type": "strategic",
+      "description": "Serves as Indenture Trustee under the Indenture dated November 15, 2023.",
+      "start_date": null
+    },
+    {
+      "partner_name": "U.S. Bank National Association",
+      "partnership_type": "strategic",
+      "description": "Serves as Securities Intermediary under the Indenture dated November 15, 2023.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Global Securitization Services, LLC",
+      "partnership_type": "strategic",
+      "description": "Provides independent manager services to the Issuing Entity for an annual fee of $3,500.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PNMXO/profile",
+  "origin": {
+    "leaf": "3be466efd595f5c5b1bc9389926124eb2a758b706693ec9bcadd70bfbdc3a99f",
+    "parent": "84b461dfa2ccc75b9f4b228bdacd7ba42bb85ab443c3cde187240f559707684d",
+    "timestamp": "2026-04-12T03:13:00.051Z",
+    "source": "profile:0000081023",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3be466efd595f5c5b1bc9389926124eb2a758b706693ec9bcadd70bfbdc3a99f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.051Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

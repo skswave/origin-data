@@ -1,0 +1,68 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WELPP",
+  "name": "WISCONSIN ELECTRIC POWER CO",
+  "cik": "0000107815",
+  "summary": "Wisconsin Electric Power Company (WE) is a regulated utility providing electric and natural gas service. It operates electric generation facilities including coal, natural gas combustion turbines, reciprocating engines, biomass, solar, wind, and battery storage assets. WE also distributes natural gas through local distribution infrastructure. The company operates under the WEC Energy Group corporate umbrella and is regulated by the PSCW and FERC.",
+  "products": [
+    {
+      "name": "Electric Generation and Distribution",
+      "type": "service",
+      "description": "Generation and delivery of electricity using coal, natural gas, solar, wind, biomass, and battery storage facilities."
+    },
+    {
+      "name": "Natural Gas Distribution",
+      "type": "service",
+      "description": "Local distribution of natural gas to residential, commercial, and industrial customers."
+    },
+    {
+      "name": "Liquefied Natural Gas (LNG)",
+      "type": "service",
+      "description": "Storage and supply of LNG for peak demand and backup natural gas supply needs."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "American Transmission Company LLC (ATC)",
+      "partnership_type": "strategic",
+      "description": "Affiliated transmission company involved in electric transmission infrastructure.",
+      "start_date": null
+    },
+    {
+      "partner_name": "WEC Business Services LLC (WBS)",
+      "partnership_type": "strategic",
+      "description": "Affiliated shared services entity providing business support services to WE and affiliates.",
+      "start_date": null
+    },
+    {
+      "partner_name": "W.E. Power, LLC (We Power)",
+      "partnership_type": "strategic",
+      "description": "Affiliated entity involved in power plant ownership related to WE operations.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Midcontinent Independent System Operator, Inc. (MISO)",
+      "partnership_type": "strategic",
+      "description": "Regional transmission organization managing energy and operating reserves markets for WE.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WELPP/profile",
+  "origin": {
+    "leaf": "13e9d55ca645acc1fa4756831e371a8224afbb940fd2c316870520dd9e833b3b",
+    "parent": "23d933c843cd9e89b4bdce2afb8b20c094adfd8ec75683f85a1ed0af4f344afe",
+    "timestamp": "2026-04-12T03:12:59.769Z",
+    "source": "profile:0000107815",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/13e9d55ca645acc1fa4756831e371a8224afbb940fd2c316870520dd9e833b3b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.769Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

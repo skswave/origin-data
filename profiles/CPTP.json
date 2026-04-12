@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CPTP",
+  "name": "CAPITAL PROPERTIES INC /RI/",
+  "cik": "0000202947",
+  "summary": "Capital Properties Inc. is a Rhode Island-based company that leases company-owned land in Capital Center and adjacent Parcel 20 in downtown Providence, Rhode Island under long-term ground leases of 99 years or more. The company owns approximately 18 acres in Capital Center across 13 individual parcels. Through subsidiary Tri-State Displays, Inc., it also leases 23 outdoor advertising locations with 44 billboard faces along interstate and primary highways in Rhode Island and Massachusetts to Lamar Outdoor Advertising, LLC under a lease expiring in 2057.",
+  "products": [
+    {
+      "name": "Long-Term Ground Leases",
+      "type": "service",
+      "description": "Leasing of company-owned land in Capital Center and Parcel 20 in downtown Providence, RI under long-term ground leases of 99 years or more."
+    },
+    {
+      "name": "Billboard Lease",
+      "type": "service",
+      "description": "Leasing of 23 outdoor advertising locations with 44 billboard faces along interstate and primary highways in Rhode Island and Massachusetts via subsidiary Tri-State Displays, Inc."
+    },
+    {
+      "name": "Public Parking Leases",
+      "type": "service",
+      "description": "Short-term leasing of Parcels 3E, 3W, 4E, 4W and a portion of Parcel 20 for public parking purposes to Metropark, Ltd."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Lamar Outdoor Advertising, LLC",
+      "partnership_type": "licensing",
+      "description": "Lease of 23 outdoor advertising locations with 44 billboard faces in Rhode Island and Massachusetts expiring in 2057, with annual base rent increases of 2.75% and revenue participation.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Metropark, Ltd.",
+      "partnership_type": "licensing",
+      "description": "Lease of Parcels 3E, 3W, 4E, 4W and a portion of Parcel 20 for public parking purposes.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Providence & Worcester Railroad Company",
+      "partnership_type": "licensing",
+      "description": "Permanent easements granted to the Company for all but one of the 23 outdoor advertising billboard locations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CPTP/profile",
+  "origin": {
+    "leaf": "5adadb5b464fdfb59400d5ade2615d22c2c665e705d4fc02262f3be1948c2105",
+    "parent": "fec77d540d459170c06c8c226c91d7640dbdb6e0a137abc3f9a07dbdf4036152",
+    "timestamp": "2026-04-12T03:12:59.814Z",
+    "source": "profile:0000202947",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5adadb5b464fdfb59400d5ade2615d22c2c665e705d4fc02262f3be1948c2105",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.814Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

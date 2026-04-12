@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CSCO",
+  "name": "CISCO SYSTEMS, INC.",
+  "cik": "0000858877",
+  "exchange": "Nasdaq",
+  "sic": "3576",
+  "sic_description": "Computer Communications Equipment",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0725",
+  "summary": "Cisco Systems, Inc. designs and sells networking and cybersecurity technology products and services. The company offers a broad portfolio including networking hardware, software, and services for enterprises, service providers, and governments. Cisco's solutions span switching, routing, wireless, security, collaboration, and observability, delivered through both hardware and increasingly software and subscription-based models.",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CSCO",
+  "origin": {
+    "leaf": "9740c5dadaa5383f0d36bd6d248cdf3a1704260e6f6d49120c2e02f33b7f40bd",
+    "parent": "c1114f1cd83fc0aa8b620fd1a4e61bcc4828e02687da7d34ec26d1fd57624d93",
+    "timestamp": "2026-04-12T03:12:50.284Z",
+    "source": "0000858877-25-000111",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9740c5dadaa5383f0d36bd6d248cdf3a1704260e6f6d49120c2e02f33b7f40bd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.284Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

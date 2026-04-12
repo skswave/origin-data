@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "KTH",
+  "name": "STRUCTURED PRODUCTS CORP CORTS TR FOR PECO ENERGY CAP TR III",
+  "cik": "0001283464",
+  "exchange": "NYSE",
+  "sic": "6189",
+  "sic_description": "Asset-Backed Securities",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Structured Products Corp CORTS Trust for PECO Energy Capital Trust III is a statutory trust that holds certificates representing investors' interests. The Trust's certificates are listed on the New York Stock Exchange under ticker KTH and are registered in the name of Cede & Co., the nominee of The Depository Trust Company. The Trust makes periodic distributions to certificate holders.",
+  "tags": [
+    "structured-finance",
+    "fixed-income/trust-certificates"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/KTH",
+  "origin": {
+    "leaf": "d9635766743030469c939180b78a3753f5de6d80933f9aedc1ab803ce0b26838",
+    "parent": "822499766a5536e78f9f0974d25db560abaec6a1c48b375824811ee56042ca7b",
+    "timestamp": "2026-04-12T03:12:54.059Z",
+    "source": "0001068238-26-000052",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d9635766743030469c939180b78a3753f5de6d80933f9aedc1ab803ce0b26838",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.059Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

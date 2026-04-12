@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SPGI",
+  "name": "S&P Global Inc.",
+  "cik": "0000064040",
+  "summary": "S&P Global Inc. is a global provider of benchmarks, data, analytics, and workflow solutions serving capital, energy and commodity, and automotive markets. Its five segments—Market Intelligence, Ratings, Energy, Mobility, and Indices—deliver products including credit ratings, price assessments, index benchmarks, automotive data, and financial analytics. Customers include asset managers, investment banks, OEMs, insurers, governments, and commodity traders worldwide.",
+  "products": [
+    {
+      "name": "S&P Capital IQ Pro",
+      "type": "platform",
+      "description": "Desktop product providing data, analytics, and third-party research for global finance and corporate professionals."
+    },
+    {
+      "name": "Wall Street Office",
+      "type": "software",
+      "description": "Financial technology solution for enterprise data management and workflow."
+    },
+    {
+      "name": "Enterprise Data Manager",
+      "type": "software",
+      "description": "Software solution helping customers manage and analyze financial data."
+    },
+    {
+      "name": "Information Mosaic",
+      "type": "software",
+      "description": "Enterprise software solution for financial operations and regulatory compliance."
+    },
+    {
+      "name": "iLevel",
+      "type": "platform",
+      "description": "Software platform for private equity data management and analytics."
+    },
+    {
+      "name": "RatingsXpress",
+      "type": "service",
+      "description": "Subscription-based service delivering S&P credit ratings data."
+    },
+    {
+      "name": "RatingsDirect",
+      "type": "platform",
+      "description": "Subscription platform providing access to S&P credit ratings and research."
+    },
+    {
+      "name": "Credit Analytics",
+      "type": "service",
+      "description": "Advanced analytics and financial risk solutions for credit assessment."
+    },
+    {
+      "name": "S&P Dow Jones Indices",
+      "type": "service",
+      "description": "Index benchmarks for ETFs, mutual funds, derivatives, and portfolio analytics used by institutional investors."
+    },
+    {
+      "name": "Platts Price Assessments",
+      "type": "service",
+      "description": "Benchmark price assessments and forward curves for energy and commodity markets."
+    },
+    {
+      "name": "Global Markets Group",
+      "type": "platform",
+      "description": "Bookbuilding platforms across municipal bonds, equities, and fixed income."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SPGI/profile",
+  "origin": {
+    "leaf": "aa1d0465addeae218aa68a052667714f386e26c511fbdaa08728f22b8c12edc9",
+    "parent": "ced8caf4ac7b322079571b38348a8fdd3c43d44542701189d0f649ce13ebb2b2",
+    "timestamp": "2026-04-12T03:12:54.712Z",
+    "source": "profile:0000064040",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/aa1d0465addeae218aa68a052667714f386e26c511fbdaa08728f22b8c12edc9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.712Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

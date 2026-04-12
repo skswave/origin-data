@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NOA",
+  "name": "North American Construction Group Ltd.",
+  "cik": "0001368519",
+  "exchange": "NYSE",
+  "sic": "1389",
+  "sic_description": "Oil & Gas Field Services, NEC",
+  "state_of_incorporation": "A0",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NOA",
+  "origin": {
+    "leaf": "05e21788113020301d1bc9a4713e4a0ea75842f2f12e65ad8933a4e1d29acdfc",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:51.500Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/05e21788113020301d1bc9a4713e4a0ea75842f2f12e65ad8933a4e1d29acdfc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.500Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

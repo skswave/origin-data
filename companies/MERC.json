@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MERC",
+  "name": "MERCER INTERNATIONAL INC.",
+  "cik": "0001333274",
+  "exchange": "Nasdaq",
+  "sic": "2611",
+  "sic_description": "Pulp Mills",
+  "state_of_incorporation": "WA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Mercer International Inc. (MERC) is a global forest products company operating in the pulp and solid wood industries. The company produces northern bleached softwood kraft (NBSK) pulp, lumber, and related wood products. It also generates and sells green energy and chemicals as byproducts of its pulp manufacturing operations. Mercer operates mills primarily in Germany and Canada, serving markets across Europe, North America, and Asia.",
+  "tags": [
+    "pulp-industry",
+    "solid-wood-industry",
+    "green-energy",
+    "chemicals"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MERC",
+  "origin": {
+    "leaf": "dcf546c1cc3e3323393d05aa13ef3192207dffbed87c92e251c63174ff40c6a3",
+    "parent": "d2492da898d4538a0db50b014441fa4d6a058fccf88a9a205a9866f8030d99b9",
+    "timestamp": "2026-04-12T03:12:52.233Z",
+    "source": "0001193125-26-048855",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dcf546c1cc3e3323393d05aa13ef3192207dffbed87c92e251c63174ff40c6a3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.233Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

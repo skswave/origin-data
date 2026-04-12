@@ -1,0 +1,116 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HMN",
+  "name": "HORACE MANN EDUCATORS CORP /DE/",
+  "cik": "0000850141",
+  "summary": "Horace Mann Educators Corporation (HMEC) is an insurance holding company founded in 1945, focused on providing financial services and insurance products to K-12 educators and school districts. Products include auto insurance, homeowners insurance, life insurance, 403(b) retirement annuities, supplemental health insurance, and group benefits (disability, life). Operating through three segments—Property & Casualty, Life & Retirement, and Supplemental & Group Benefits—it serves approximately 14 million educator households across the U.S. via exclusive agents, brokers, and digital channels.",
+  "products": [
+    {
+      "name": "Auto Insurance",
+      "type": "service",
+      "description": "Personal automobile insurance tailored for educators."
+    },
+    {
+      "name": "Homeowners Insurance",
+      "type": "service",
+      "description": "Property and homeowners insurance for educators, offered since 1965."
+    },
+    {
+      "name": "403(b) Retirement Annuities",
+      "type": "service",
+      "description": "Tax-qualified retirement annuity plans for educators, offered since 1961."
+    },
+    {
+      "name": "Life Insurance",
+      "type": "service",
+      "description": "Individual and group life insurance products for educators."
+    },
+    {
+      "name": "Supplemental Health Insurance",
+      "type": "service",
+      "description": "Individual supplemental health coverage including accident, hospital, cancer, and critical illness."
+    },
+    {
+      "name": "Group Benefits",
+      "type": "service",
+      "description": "Employer-sponsored disability, life, and supplemental health benefits for school districts."
+    },
+    {
+      "name": "Mutual Funds",
+      "type": "service",
+      "description": "Investment fund options available to educator clients."
+    },
+    {
+      "name": "Student Loan Solutions",
+      "type": "service",
+      "description": "Student loan management solutions offered to educators."
+    },
+    {
+      "name": "Credit Monitoring",
+      "type": "service",
+      "description": "Credit monitoring services available to educator customers."
+    },
+    {
+      "name": "Financial Wellness Workshops",
+      "type": "service",
+      "description": "Educational financial wellness programs offered to educators."
+    },
+    {
+      "name": "Horace Mann Club",
+      "type": "platform",
+      "description": "Member benefits platform offering fitness, financial tools, classroom resources, and professional development."
+    },
+    {
+      "name": "Coverage Consultation Center",
+      "type": "service",
+      "description": "Centralized call center providing insurance consultation for customers and agents."
+    },
+    {
+      "name": "Guidewire P&C Platform",
+      "type": "platform",
+      "description": "Property and casualty administration platform supporting e-signatures, real-time policy issuance, and consolidated billing."
+    },
+    {
+      "name": "LifePro Administration System",
+      "type": "platform",
+      "description": "Administration system for life, retirement, annuity, and supplemental products."
+    },
+    {
+      "name": "Workday Financials",
+      "type": "platform",
+      "description": "Integrated end-to-end corporate financial process platform supporting scalability and growth."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Professional associations",
+      "partnership_type": "strategic",
+      "description": "Long-standing relationships with education professional associations for marketing and distribution.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Mission-aligned organizations",
+      "partnership_type": "strategic",
+      "description": "Partnerships supporting brand trust and market access within the education community.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HMN/profile",
+  "origin": {
+    "leaf": "24e1d72ed9ad3fe3eaa91f1b68ca867e78911e86a42a0f12bf8c8c97570a3d3f",
+    "parent": "1aa4e888b0fb417ad18e5b72eb25377f4c60b3b45cb79e8ef3cfd9c4a5f62e1f",
+    "timestamp": "2026-04-12T03:12:55.729Z",
+    "source": "profile:0000850141",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/24e1d72ed9ad3fe3eaa91f1b68ca867e78911e86a42a0f12bf8c8c97570a3d3f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.729Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

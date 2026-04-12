@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "RSRV",
+  "name": "RESERVE PETROLEUM CO",
+  "cik": "0000083350",
+  "exchange": "OTC",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1931",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Reserve Petroleum Company is a Delaware corporation founded in 1931, engaged principally in managing owned mineral properties and exploring for and developing oil and natural gas properties. The company holds 88,868 net mineral acres across 12 states, participates as a non-operating working interest owner in development and exploratory drilling, manages royalty interests, and operates an investment program in marketable securities, real estate, and energy sector assets.",
+  "tags": [
+    "oil-and-natural-gas-exploration-and-development",
+    "mineral-property-management",
+    "diversified-investments",
+    "water-well-drilling-(terminated-2024)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/RSRV",
+  "origin": {
+    "leaf": "1febf9efa64ed72ca26c17aafc8d955ac9df3664a8a338be861069c63dd453c2",
+    "parent": "3bf2eeab5ae1b30b4f098648d42aa0e70ab518be3f99b1af714825d12f1a7efe",
+    "timestamp": "2026-04-12T03:12:52.674Z",
+    "source": "0000083350-26-000003",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1febf9efa64ed72ca26c17aafc8d955ac9df3664a8a338be861069c63dd453c2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.674Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

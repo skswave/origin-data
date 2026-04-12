@@ -1,0 +1,68 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PXLW",
+  "name": "PIXELWORKS, INC",
+  "cik": "0001040161",
+  "summary": "Pixelworks, Inc. provides content creation, video delivery, and display processing solutions enabling authentic viewing experiences across screens from cinema to smartphone. Following the January 2026 sale of its semiconductor subsidiary PWSH, the company focuses exclusively on its TrueCut Motion platform, offering motion grading software tools, certification services, and IP licensing for cinematic visualization solutions to filmmakers, display makers, and streaming services.",
+  "products": [
+    {
+      "name": "TrueCut Motion Platform",
+      "type": "platform",
+      "description": "Content creation and motion grading platform enabling filmmakers to customize motion look, preserve creative intent across screens, and certify display playback."
+    },
+    {
+      "name": "TrueCut Motion Content Creation Software Tools",
+      "type": "software",
+      "description": "Software tools providing filmmakers the ability to customize motion look on a shot-by-shot basis."
+    },
+    {
+      "name": "TrueCut Motion Certification Services",
+      "type": "service",
+      "description": "Certification, support, and IP licensing services for display makers to enable TrueCut Motion content playback and brand usage."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Samsung Electronics Co., Ltd.",
+      "partnership_type": "licensing",
+      "description": "Samsung mentioned as a television manufacturer relevant to TrueCut Motion display certification and licensing context.",
+      "start_date": null
+    },
+    {
+      "partner_name": "TCL Technology",
+      "partnership_type": "licensing",
+      "description": "TCL mentioned as a television manufacturer relevant to TrueCut Motion display certification and licensing context.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Sony Group Corporation",
+      "partnership_type": "licensing",
+      "description": "Sony mentioned as a television manufacturer relevant to TrueCut Motion display certification and licensing context.",
+      "start_date": null
+    },
+    {
+      "partner_name": "LG Electronics, Inc.",
+      "partnership_type": "licensing",
+      "description": "LG mentioned as a television manufacturer relevant to TrueCut Motion display certification and licensing context.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PXLW/profile",
+  "origin": {
+    "leaf": "0c01be11961822af781face0edf000be809102faaa2c0bc25d17549410d1b10a",
+    "parent": "be4589f6eb76d5c9decbcdd67c51d9c73dcf840b32a0abfa32bbf0ae161e5f30",
+    "timestamp": "2026-04-12T03:12:57.991Z",
+    "source": "profile:0001040161",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0c01be11961822af781face0edf000be809102faaa2c0bc25d17549410d1b10a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.991Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

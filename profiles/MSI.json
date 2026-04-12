@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MSI",
+  "name": "Motorola Solutions, Inc.",
+  "cik": "0000068505",
+  "summary": "Motorola Solutions, Inc. is a global technology company focused on public safety and enterprise security. The company provides mission-critical communications products and services including land mobile radio systems, video security solutions, and command center software. Its customers include government agencies, law enforcement, fire and emergency services, and commercial enterprises requiring reliable communications infrastructure.",
+  "products": [
+    {
+      "name": "Land Mobile Radio Systems",
+      "type": "hardware",
+      "description": "Mission-critical communications systems for public safety and enterprise customers."
+    },
+    {
+      "name": "Video Security Solutions",
+      "type": "hardware",
+      "description": "Video surveillance and security hardware for public safety and enterprise use."
+    },
+    {
+      "name": "Command Center Software",
+      "type": "software",
+      "description": "Software solutions for command and control operations in public safety environments."
+    },
+    {
+      "name": "iDEN",
+      "type": "platform",
+      "description": "Integrated Digital Enhanced Network, a registered trademark communications platform."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MSI/profile",
+  "origin": {
+    "leaf": "d7f94c9c613ff4899eef2189b109977535778acf3062c5b77fa0509131f01a2c",
+    "parent": "63a47d3a074f0cbf339dbbc92a6f89f92519d58a75e78a02a4e0a0b6b6bd9fd9",
+    "timestamp": "2026-04-12T03:12:54.754Z",
+    "source": "profile:0000068505",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d7f94c9c613ff4899eef2189b109977535778acf3062c5b77fa0509131f01a2c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.754Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

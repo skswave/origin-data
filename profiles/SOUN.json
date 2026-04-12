@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SOUN",
+  "name": "SOUNDHOUND AI, INC.",
+  "cik": "0001840856",
+  "summary": "SoundHound AI, Inc. is a global leader in conversational intelligence offering independent Voice AI solutions. The company provides businesses with AI-driven products including Smart Answering, Smart Ordering, Dynamic Interaction, Employee Assist, and SoundHound Chat AI. Built on proprietary Speech-to-Meaning and Deep Meaning Understanding technologies, SoundHound serves automotive, TV, IoT, and customer service industries, processing billions of interactions annually for enterprise clients via its Houndify developer platform.",
+  "products": [
+    {
+      "name": "Smart Answering",
+      "type": "service",
+      "description": "AI-driven customer service product for handling inbound inquiries via voice."
+    },
+    {
+      "name": "Smart Ordering",
+      "type": "service",
+      "description": "AI-driven voice ordering product for restaurant and food service industries."
+    },
+    {
+      "name": "Dynamic Interaction",
+      "type": "service",
+      "description": "Voice AI product enabling dynamic conversational interactions for businesses."
+    },
+    {
+      "name": "Employee Assist",
+      "type": "service",
+      "description": "Voice AI product designed to assist employees with workplace tasks and queries."
+    },
+    {
+      "name": "SoundHound Chat AI",
+      "type": "software",
+      "description": "Powerful voice assistant with integrated Generative AI capabilities."
+    },
+    {
+      "name": "Houndify",
+      "type": "platform",
+      "description": "Open-access developer platform with Voice AI technology and over 100 content domains."
+    },
+    {
+      "name": "Amelia 7",
+      "type": "platform",
+      "description": "AI agent orchestration platform enabling multiple agents to carry out tasks and transactions, including in-vehicle use."
+    },
+    {
+      "name": "SoundHound Music App",
+      "type": "software",
+      "description": "Music identification app launched in 2009 with over 300 million downloads."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SOUN/profile",
+  "origin": {
+    "leaf": "17fecbf14f3b15d39a5f5b540a172332096db2dab33ffff2d83fdd1e6a0f033d",
+    "parent": "cb6e3edc48ee53fff8753ce4af0c949c018dc430758f6aea70656d297b998e1b",
+    "timestamp": "2026-04-12T03:12:55.499Z",
+    "source": "profile:0001840856",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/17fecbf14f3b15d39a5f5b540a172332096db2dab33ffff2d83fdd1e6a0f033d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.499Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

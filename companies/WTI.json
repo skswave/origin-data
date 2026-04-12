@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "WTI",
+  "name": "W&T OFFSHORE INC",
+  "cik": "0001288403",
+  "exchange": "NYSE",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "TX",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "W&T Offshore Inc. (WTI) is an independent oil and natural gas company engaged in the acquisition, exploration, and production of hydrocarbons. The company operates primarily in the Gulf of Mexico, focusing on offshore drilling and production activities. W&T Offshore produces crude oil, natural gas, and natural gas liquids from its Gulf of Mexico properties.",
+  "tags": [
+    "oil-and-gas-exploration-and-production",
+    "gulf-of-mexico-offshore-energy"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/WTI",
+  "origin": {
+    "leaf": "615deaca7f2743a992a76e31119833374fe21575c11e37e68bfefc0e2df574aa",
+    "parent": "8737fed9d992c7734d07a35962d4149ecb5acec6dc222b29dc84ac061be8099a",
+    "timestamp": "2026-04-12T03:12:51.380Z",
+    "source": "0001104659-26-028315",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/615deaca7f2743a992a76e31119833374fe21575c11e37e68bfefc0e2df574aa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.380Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

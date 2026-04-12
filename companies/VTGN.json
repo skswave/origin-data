@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "VTGN",
+  "name": "Vistagen Therapeutics, Inc.",
+  "cik": "0001411685",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "VistaGen Therapeutics is a late clinical-stage biopharmaceutical company developing non-systemic intranasal pherine product candidates that activate nose-to-brain neurocircuits without systemic absorption. Its pipeline includes five clinical-stage candidates: fasedienol (Phase 3, social anxiety disorder), itruvone (Phase 2A, major depressive disorder), PH80 (Phase 2A, vasomotor symptoms and premenstrual dysphoric disorder), PH15 (Phase 2A, mental fatigue), and PH284 (Phase 2A, cancer cachexia). Fasedienol is the lead candidate in the registration-directed PALISADE Program.",
+  "tags": [
+    "social-anxiety-disorder",
+    "major-depressive-disorder",
+    "vasomotor-symptoms-due-to-menopause",
+    "premenstrual-dysphoric-disorder",
+    "mental-fatigue",
+    "cancer-cachexia",
+    "neuroscience-/-neuropsychiatry",
+    "subjective-units-of-distress-scale-(suds)",
+    "clinical-global-impressions-improvement-(cgi-i)",
+    "patients-global-impression-of-change-(pgi-c)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/VTGN",
+  "origin": {
+    "leaf": "36b263f73645d31eaaa20707d008b4bd77c8bce3601dfd1031be555af7d75ded",
+    "parent": "bc6da86cbaf1d5bc9bb04429bcb095d8a7011a3d04b48a9d9753490bbeb01668",
+    "timestamp": "2026-04-12T03:12:52.842Z",
+    "source": "0001411685-25-000041",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/36b263f73645d31eaaa20707d008b4bd77c8bce3601dfd1031be555af7d75ded",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.842Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

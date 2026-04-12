@@ -1,0 +1,160 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ILMN",
+  "company": "ILLUMINA, INC.",
+  "title": "ILMN Q4 FY2026 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2026",
+  "call_date": null,
+  "word_count": 6539,
+  "speakers": [
+    {
+      "name": "Consumables Revenue",
+      "title": "Market Segment  Total – YoY growth %   (0%)   2%   3%   11%   4%  Clinical – YoY growth %   8%   10%   12%   20%   12%  Research & Applied – YoY growth %   (11%)   (9%)   (8%)   (0%)   (7%)  Illumina Sequencing Revenue Detail  9  YoY = year - over - year",
+      "firm": "& Applied – YoY growth %   (11%)   (9%)   (8%)   (0%)   (7%)  Illumina Sequencing Revenue Detail  9  YoY = year - over - year",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ILMN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ILMN",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ILMN gross margin",
+      "predicate": "reported",
+      "object": "$23.7 percent",
+      "value": 23.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ILMN gross margin",
+      "predicate": "reported",
+      "object": "$23.3 percent",
+      "value": 23.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ILMN EPS",
+      "predicate": "reported",
+      "object": "$1.35",
+      "value": 1.35,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ILMN EPS",
+      "predicate": "reported",
+      "object": "$5.05",
+      "value": 5.05,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ILMN",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ILMN",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ILMN",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ILMN",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ILMN",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ILMN",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ILMN/transcripts",
+  "origin": {
+    "leaf": "347239dfb8c4f8c60d96be1789071c3460effc4cabb20ff3abd36933a417c670",
+    "parent": "5e1b64fc22e2d87d62de50f49807823cad54e732175ceffcd927807685a0f5e894174ff72e59065b21ad431744545620",
+    "timestamp": "2026-04-12T03:13:00.795Z",
+    "source": "transcript:ILMN_ILMN-Q4-25-Earnings-Presentation-02-05-2026-1.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/347239dfb8c4f8c60d96be1789071c3460effc4cabb20ff3abd36933a417c670",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.795Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

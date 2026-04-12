@@ -1,0 +1,567 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "DAL",
+  "company": "DELTA AIR LINES, INC.",
+  "title": "DAL Q4 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 13913,
+  "speakers": [
+    {
+      "name": "Glen William Hauenstein",
+      "title": "President, Delta Air   Lines, Inc.",
+      "firm": "Delta Air   Lines",
+      "speaker_type": "executive",
+      "mention_count": 23
+    },
+    {
+      "name": "Edward Herman Bastian",
+      "title": "Chief Executive Officer & Director, Delta Air Lines, Inc.",
+      "firm": "Delta Air Lines",
+      "speaker_type": "executive",
+      "mention_count": 12
+    },
+    {
+      "name": "Daniel C. Janki",
+      "title": "Executive Vice President & Chief Financial Officer, Delta Air Lines, Inc.",
+      "firm": "Delta Air Lines",
+      "speaker_type": "executive",
+      "mention_count": 11
+    },
+    {
+      "name": "Julie Stewart",
+      "title": "Vice President - Investor Relations, Delta Air Lines, Inc.",
+      "firm": "Delta Air Lines",
+      "speaker_type": "executive",
+      "mention_count": 8
+    },
+    {
+      "name": "Tim Mapes",
+      "title": "Senior Vice President & Chief Communications Officer, Delta Air Lines,  Inc.",
+      "firm": "Delta Air Lines",
+      "speaker_type": "executive",
+      "mention_count": 5
+    },
+    {
+      "name": "Helane Becker",
+      "title": "Analyst, TD Cowen  Jamie N. Baker  Analyst, JPMorgan Securities LLC",
+      "firm": "JPMorgan Securities",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Conor Cunningham",
+      "title": "Analyst, Melius Research LLC",
+      "firm": "Melius Research",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Ravi Shanker",
+      "title": "Analyst, Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Stephen Darrell Trent",
+      "title": "Analyst, Citigroup Global Markets, Inc.",
+      "firm": "Citigroup Global Markets",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Duane Pfennigwerth",
+      "title": "Analyst, Evercore ISI  Brandon R. Oglenski  Analyst, Barclays Capital, Inc.",
+      "firm": "Evercore ISI  Brandon R. Oglenski  Analyst",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Andrew G. Didora",
+      "title": "Analyst, Bank of America Securities  Savanthi Syth  Analyst,   Raymond James & Associates, Inc.",
+      "firm": "Bank of America Securities  Savanthi Syth  Analyst",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Michae l Linenberg",
+      "title": "Analyst, Deutsche Bank Securities, Inc.",
+      "firm": "Deutsche Bank Securities",
+      "speaker_type": "analyst",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "DAL gross margin",
+      "predicate": "reported",
+      "object": "$10 percent",
+      "value": 10,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "DAL gross margin",
+      "predicate": "reported",
+      "object": "$11.6 percent",
+      "value": 11.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "DAL gross margin",
+      "predicate": "reported",
+      "object": "$9.7 percent",
+      "value": 9.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "DAL free cash flow",
+      "predicate": "reported",
+      "object": "$2 billion",
+      "value": 2,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "DAL free cash flow",
+      "predicate": "reported",
+      "object": "$3 billion",
+      "value": 3,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "DAL free cash flow",
+      "predicate": "reported",
+      "object": "$7.2 billion",
+      "value": 7.2,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "DAL",
+      "predicate": "mentioned",
+      "object": "A350",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "guidance for earnings of $6 to $7 per share and free cash flow  of $3 billion",
+      "value": 3,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "guidance is up to $2   billion",
+      "value": 2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "expected to be down more than $130 million",
+      "value": 130,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "expect maintenance expense to be up $350 million",
+      "value": 350,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "expect cash flow of $3 billion",
+      "value": 3,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "guidance, $3 billion",
+      "value": 3,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect to have these products rolled out globally by the end  of this year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect demand to remain strong , particularly for the premium experiences that Delta provides",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect  anothe r strong year as we optimize our network and leverage our global JV partners",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect March quarter  revenue growth of 3% to 6% over 2023 on capacity growth of 6% which includes 1 point from Lead Day implying  unit revenues will be fla",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect domestic unit  revenues to inflect to positive in the March quarter",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect   unit revenues to grow in the March quarter",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect solid growth in busines s demand with  nearly 95% of respondents in our recent corporate survey expecting to travel as much or more in 1Q than 4Q",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect American Express  remuneration to grow 10% over 2023 levels",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect earnings of $0",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect March quarter fuel price to be $2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect to deliver earnings of $6 to $7 per share",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect full - year non - fuel unit costs to be up low - single digit over 2023, with the March quarter unit  costs up approximately 3%",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect to deliver efficiencies through the year that will  help fund investments in our people, the customer experiences that Ed spoke to ear lier",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect maintenance expense to be up $350 million over 2023, as we prioritize continued  improvement in operational reliability and readying our fleet for th",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect the majority  of this increase to be in the early part of the year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect cash flow of $3 billion to $4 billion of free cash flow including CapEx of $5 billion",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect to retire the 767 - 300s through  that period of time on a pretty consistent   basis as you step through while continuing to fly the 400s",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect that to inflect  into a positive territory as those growth rates come down, we move through the year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect those unit revenues to accelerate demand, particularly strong to the  Incheon hub as well as to Japan and the spring season, so v ery exciting as we ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect pension to be   flat on a year - over - year basis",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect to   be pretty  consistent throughout the year due to the interest reduction and savings coming through as you progress through  the year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect that potentially cash tax payments starting in 2025 and  beyond",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a   complete or error - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/DAL/transcripts",
+  "origin": {
+    "leaf": "1198a11565d5e8b0d0dde742a59fe175c64cb26f6e7c8d1aaded548f5eada4d0",
+    "parent": "1d7c8d9614d27425643fe51254055f67989ef554a65932eea93a8832e770f2d1f17e9948787fe16001c6d6278b331773",
+    "timestamp": "2026-04-12T03:13:00.682Z",
+    "source": "transcript:DAL_CORRECTED-TRANSCRIPT_-Delta-Air-Lines-Inc-DAL-US-Q4-2023-Earnings-Call.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1198a11565d5e8b0d0dde742a59fe175c64cb26f6e7c8d1aaded548f5eada4d0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.682Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

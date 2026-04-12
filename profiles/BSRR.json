@@ -1,0 +1,81 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BSRR",
+  "name": "SIERRA BANCORP",
+  "cik": "0001130144",
+  "summary": "Sierra Bancorp is a California bank holding company headquartered in Porterville, California, operating through its subsidiary Bank of the Sierra. The Bank offers retail and commercial banking services including real estate loans, commercial loans, mortgage warehouse loans, agricultural loans, and consumer loans, alongside deposit products such as checking, savings, money market, time deposits, and retirement accounts. It operates 34 full-service branches across California's South San Joaquin Valley, Central Coast, Ventura County, and neighboring communities.",
+  "products": [
+    {
+      "name": "Real Estate Loans",
+      "type": "service",
+      "description": "Loans secured by owner and non-owner occupied commercial real estate, construction, multifamily, and agricultural properties."
+    },
+    {
+      "name": "Mortgage Warehouse Loans",
+      "type": "service",
+      "description": "Warehouse lending representing 20.3% of total loan portfolio at December 31, 2025."
+    },
+    {
+      "name": "Commercial Loans",
+      "type": "service",
+      "description": "Commercial lending including small business, agricultural production, and SBA loans."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "Consumer lending products representing 0.1% of total loan portfolio."
+    },
+    {
+      "name": "Deposit Accounts",
+      "type": "service",
+      "description": "Checking, savings, money market, time deposits, retirement accounts, and sweep accounts insured by FDIC."
+    },
+    {
+      "name": "Online Banking",
+      "type": "platform",
+      "description": "Online and mobile banking with bill-pay, mobile check deposit, and online account opening capabilities."
+    },
+    {
+      "name": "Remote Deposit Capture",
+      "type": "service",
+      "description": "Remote deposit capture and payroll services offered to business customers."
+    },
+    {
+      "name": "Online Lending",
+      "type": "platform",
+      "description": "Online lending solutions for consumers and small businesses."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Allpoint",
+      "partnership_type": "strategic",
+      "description": "Network membership providing customers surcharge-free access to over 55,000 ATMs across the US and internationally.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Pulse",
+      "partnership_type": "strategic",
+      "description": "Network providing customers electronic point-of-sale payment alternatives nationwide.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BSRR/profile",
+  "origin": {
+    "leaf": "4ef4cdf758b56c8127d75160849a1880f516152a609f8b1d25ab5044c3f389c6",
+    "parent": "f1e0ae6b72e16ebb045b89d16868bd7de9bda40d26f03ab1cd8ed880d4bee44e",
+    "timestamp": "2026-04-12T03:12:56.437Z",
+    "source": "profile:0001130144",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4ef4cdf758b56c8127d75160849a1880f516152a609f8b1d25ab5044c3f389c6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.437Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

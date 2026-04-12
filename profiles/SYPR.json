@@ -1,0 +1,157 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SYPR",
+  "name": "SYPRIS SOLUTIONS INC",
+  "cik": "0000864240",
+  "summary": "Sypris Solutions, Inc. is a Delaware corporation formed in 1997 that operates two segments: Sypris Technologies, which produces forged, machined, welded, and heat-treated steel components for heavy commercial vehicles and high-pressure energy pipelines; and Sypris Electronics, which provides circuit card assembly, full box build manufacturing, systems integration, and design services for aerospace, defense, and space markets. The company serves customers globally through North American operations, often under multi-year, sole-source contracts.",
+  "products": [
+    {
+      "name": "Axle Shafts",
+      "type": "hardware",
+      "description": "Forged and machined drive train axle shafts for automotive, truck, and recreational vehicle manufacturers."
+    },
+    {
+      "name": "Transmission Shafts",
+      "type": "hardware",
+      "description": "Forged and machined transmission shafts for commercial vehicle and automotive markets."
+    },
+    {
+      "name": "Steer Axle Knuckles",
+      "type": "hardware",
+      "description": "Forged and machined steer axle knuckles for heavy commercial and off-highway vehicles."
+    },
+    {
+      "name": "Gear Sets",
+      "type": "hardware",
+      "description": "Forged and machined gear sets for drive train assemblies in commercial vehicles."
+    },
+    {
+      "name": "High-Pressure Closures",
+      "type": "hardware",
+      "description": "Fabricated pressurized closures for oil and gas pipelines and industrial applications."
+    },
+    {
+      "name": "Insulated Joints",
+      "type": "hardware",
+      "description": "Specialty pipeline products for oil and gas energy markets."
+    },
+    {
+      "name": "Circuit Card Assemblies",
+      "type": "hardware",
+      "description": "High-reliability circuit card assemblies for radar, navigation, weapons, targeting, and space programs."
+    },
+    {
+      "name": "Full Box Build Manufacturing",
+      "type": "hardware",
+      "description": "Complete electronics box build manufacturing for aerospace and defense customers."
+    },
+    {
+      "name": "Systems Assembly and Integration",
+      "type": "service",
+      "description": "Systems assembly and integration services for aerospace, defense, and space electronics markets."
+    },
+    {
+      "name": "Design for Manufacturability",
+      "type": "service",
+      "description": "Engineering design services to optimize manufacturability for defense and aerospace electronics customers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "General Motors Company",
+      "partnership_type": "OEM",
+      "description": "Sole-source supplier of forged and machined drive train components for GM vehicles.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Freightliner LLC",
+      "partnership_type": "OEM",
+      "description": "Supplier of drive train components for Freightliner commercial trucks.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Mack Truck",
+      "partnership_type": "OEM",
+      "description": "Supplier of drive train components for Mack commercial trucks.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Navistar International Corporation",
+      "partnership_type": "OEM",
+      "description": "Supplier of forged and machined components for Navistar vehicles.",
+      "start_date": null
+    },
+    {
+      "partner_name": "PACCAR, Inc.",
+      "partnership_type": "OEM",
+      "description": "Supplier of drive train components for PACCAR commercial vehicles.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Volvo Truck Corporation",
+      "partnership_type": "OEM",
+      "description": "Supplier of drive train components for Volvo trucks.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bombardier Recreational Products",
+      "partnership_type": "OEM",
+      "description": "Supplier of drive train components for BRP recreational vehicles.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Northrop Grumman Corporation",
+      "partnership_type": "OEM",
+      "description": "Electronics manufacturing subcontractor for Northrop Grumman aerospace and defense programs.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Lockheed Martin",
+      "partnership_type": "OEM",
+      "description": "Electronics manufacturing subcontractor for Lockheed Martin defense programs.",
+      "start_date": null
+    },
+    {
+      "partner_name": "L3Harris Technologies",
+      "partnership_type": "OEM",
+      "description": "Electronics manufacturing subcontractor for L3Harris defense programs.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Collins Aerospace Systems (RTX Corporation)",
+      "partnership_type": "OEM",
+      "description": "Electronics manufacturing subcontractor for Collins Aerospace defense and space programs.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BAE Systems",
+      "partnership_type": "OEM",
+      "description": "Electronics manufacturing subcontractor for BAE Systems defense programs.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Analog Devices, Inc.",
+      "partnership_type": "OEM",
+      "description": "Electronics manufacturing subcontractor for Analog Devices programs.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SYPR/profile",
+  "origin": {
+    "leaf": "076d43b8d1e419417252ace633dcab60fed114414cae7c2b26e4de2a5e808517",
+    "parent": "4c11b1d1efe583f58c2eb981dc402e5c10f23799ab1e9927ef56360a354f03fc",
+    "timestamp": "2026-04-12T03:12:57.664Z",
+    "source": "profile:0000864240",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/076d43b8d1e419417252ace633dcab60fed114414cae7c2b26e4de2a5e808517",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.664Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

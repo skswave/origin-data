@@ -1,0 +1,74 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BRN",
+  "name": "BARNWELL INDUSTRIES INC",
+  "cik": "0000010048",
+  "summary": "Barnwell Industries, Inc. is a Delaware-incorporated company operating since 1956 in two segments: Oil and Natural Gas, and Land Investment. The oil and gas segment develops, produces, acquires, and sells crude oil and natural gas in Alberta, Canada (primarily the Twining field), Oklahoma, and Texas. The land investment segment holds land interests in Hawaii. The company sold its contract drilling subsidiary, Water Resources International, in March 2025.",
+  "products": [
+    {
+      "name": "Crude Oil Production",
+      "type": "service",
+      "description": "Oil development and production primarily in Twining, Alberta, Canada via Barnwell of Canada and Octavian Oil."
+    },
+    {
+      "name": "Natural Gas Production",
+      "type": "service",
+      "description": "Natural gas development and production in Alberta, Canada and previously in Oklahoma and Texas."
+    },
+    {
+      "name": "Land Investment",
+      "type": "service",
+      "description": "Ownership and management of land interests in the State of Hawaii."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Pine Cliff Energy Ltd.",
+      "partnership_type": "strategic",
+      "description": "Co-operates portions of Barnwell's Twining field assets in Alberta, Canada.",
+      "start_date": null
+    },
+    {
+      "partner_name": "InSite Petroleum Consultants Ltd.",
+      "partnership_type": "strategic",
+      "description": "Independent petroleum reserve engineers who estimate Barnwell's oil and gas reserves per SEC rules.",
+      "start_date": null
+    },
+    {
+      "partner_name": "KD Kukio Resorts, LLLP",
+      "partnership_type": "strategic",
+      "description": "Partnership in which Barnwell holds a non-controlling interest related to Hawaii land development.",
+      "start_date": null
+    },
+    {
+      "partner_name": "KD Maniniowali, LLLP",
+      "partnership_type": "strategic",
+      "description": "Partnership in which Barnwell holds a non-controlling interest related to Hawaii land development.",
+      "start_date": null
+    },
+    {
+      "partner_name": "KD Kaupulehu, LLLP",
+      "partnership_type": "strategic",
+      "description": "Partnership in which Barnwell holds a non-controlling interest related to Hawaii land development.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BRN/profile",
+  "origin": {
+    "leaf": "a5b74e1e60487d403b3e6534701363e07efb75593ace5ae68b40c047c278381a",
+    "parent": "44ff704c471348fc6d4ba733fd76d3a90fb64d49e6ffff20ab93f10800755f27",
+    "timestamp": "2026-04-12T03:12:58.404Z",
+    "source": "profile:0000010048",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a5b74e1e60487d403b3e6534701363e07efb75593ace5ae68b40c047c278381a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.404Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

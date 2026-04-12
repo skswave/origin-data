@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ORN",
+  "name": "Orion Group Holdings Inc",
+  "cik": "0001402829",
+  "exchange": "NYSE",
+  "sic": "1600",
+  "sic_description": "Heavy Construction Other Than Bldg Const - Contractors",
+  "state_of_incorporation": null,
+  "headquarters": "Houston, Texas",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Orion Group Holdings, Inc. is a specialty construction company focused on marine and infrastructure sectors. Its marine business provides engineering, construction, dredging, and specialty services to federal, state, local, and private clients across the U.S., Canada, and Caribbean. Its concrete business delivers structural concrete construction for data centers, industrial facilities, commercial buildings, and multi-family residential projects. The company operates from Houston, Texas with regional offices throughout its operating areas.",
+  "tags": [
+    "marine-and-waterfront-infrastructure",
+    "u.s.-navy-and-federal-government",
+    "ports-and-harbors",
+    "coastal-and-environmental-restoration",
+    "data-centers",
+    "industrial-and-commercial-construction",
+    "multi-family-residential-construction",
+    "transportation-infrastructure"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 2000,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ORN",
+  "origin": {
+    "leaf": "edd4c24d78491995355b54d003e8fcff64276122b90c973302d9956036475b35",
+    "parent": "7daf8a6304979aaa7ea58e53654a864e5302d5a4b8f2ab19959ff57416d108e2",
+    "timestamp": "2026-04-12T03:12:51.449Z",
+    "source": "0001402829-26-000011",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/edd4c24d78491995355b54d003e8fcff64276122b90c973302d9956036475b35",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.449Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

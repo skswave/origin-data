@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ACCS",
+  "name": "ACCESS Newswire Inc.",
+  "cik": "0000843006",
+  "summary": "ACCESS Newswire Inc. (formerly Issuer Direct Corporation) is a Delaware-based SaaS company offering a communications platform for PR and IR professionals. Core products include press release distribution (under ACCESS Newswire, Newswire.com, PressRelease.com), media monitoring, media database and pitching, investor relations websites, and earnings/event technologies. The company serves thousands of customers from startups to global brands, focusing on small and mid-market businesses with 2–2,000 employees, with 974 subscriptions and approximately $12.2 million ARR as of December 31, 2025.",
+  "products": [
+    {
+      "name": "ACCESS PR",
+      "type": "platform",
+      "description": "Subscription including press release distribution, media monitoring, pitching and database."
+    },
+    {
+      "name": "ACCESS IR",
+      "type": "platform",
+      "description": "Subscription including investor relations website, quarterly earnings calls, and press release distribution."
+    },
+    {
+      "name": "ALL ACCESS",
+      "type": "platform",
+      "description": "Combined subscription encompassing both ACCESS PR and ACCESS IR features."
+    },
+    {
+      "name": "Press Release Distribution",
+      "type": "service",
+      "description": "News dissemination and media outreach under ACCESS Newswire, Newswire.com, and PressRelease.com brands."
+    },
+    {
+      "name": "Media Database",
+      "type": "software",
+      "description": "Curated database of actively publishing journalists, sorted by industry, publication, and article history."
+    },
+    {
+      "name": "Media Pitching",
+      "type": "software",
+      "description": "Tool to contact journalists with AI writing assistance via AIMee recommendation engine."
+    },
+    {
+      "name": "Media Monitoring",
+      "type": "software",
+      "description": "Brand monitoring across print, broadcast, web, radio, video, blogs, and social media."
+    },
+    {
+      "name": "Media Room",
+      "type": "software",
+      "description": "Add-on newsroom page builder with brand asset manager and contact manager."
+    },
+    {
+      "name": "Press Release Optimizer (PRO)",
+      "type": "service",
+      "description": "Automated media and marketing communications service delivering targeted messaging."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ACCS/profile",
+  "origin": {
+    "leaf": "2cecfc2b812f4d100cd62ebf28bc51c6cf6828f95ac427944acae3b8542c8ecf",
+    "parent": "6ccc4d08a054fd5ed52aa7f043f24011466d27a0feb44a008e8bcd9182acf4f1",
+    "timestamp": "2026-04-12T03:12:57.994Z",
+    "source": "profile:0000843006",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2cecfc2b812f4d100cd62ebf28bc51c6cf6828f95ac427944acae3b8542c8ecf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.994Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

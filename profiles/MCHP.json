@@ -1,0 +1,80 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MCHP",
+  "name": "MICROCHIP TECHNOLOGY INC",
+  "cik": "0000827054",
+  "summary": "Microchip Technology Incorporated designs, develops, manufactures, and sells semiconductor products including microcontrollers, mixed-signal, analog, and Flash-IP integrated circuits. The company serves original equipment manufacturers (OEMs) across various industries. It offers products such as EEPROM, EERAM, SRAM, FPGA, RF, and SiC-based solutions, supported by embedded solutions engineers (ESEs) and client engagement managers (CEMs).",
+  "products": [
+    {
+      "name": "Microcontrollers",
+      "type": "hardware",
+      "description": "Embedded control integrated circuits for a wide range of OEM applications."
+    },
+    {
+      "name": "EEPROM",
+      "type": "hardware",
+      "description": "Electrically erasable programmable read only memory products."
+    },
+    {
+      "name": "EERAM",
+      "type": "hardware",
+      "description": "Electrically erasable random access memory solutions."
+    },
+    {
+      "name": "SRAM",
+      "type": "hardware",
+      "description": "Static random access memory semiconductor products."
+    },
+    {
+      "name": "FPGA",
+      "type": "hardware",
+      "description": "Field-programmable gate array products."
+    },
+    {
+      "name": "RF Products",
+      "type": "hardware",
+      "description": "Radio frequency semiconductor solutions."
+    },
+    {
+      "name": "SiC Products",
+      "type": "hardware",
+      "description": "Silicon Carbide-based semiconductor products."
+    },
+    {
+      "name": "Flash-IP",
+      "type": "hardware",
+      "description": "Flash intellectual property integrated circuits."
+    },
+    {
+      "name": "Mixed-Signal/Analog ICs",
+      "type": "hardware",
+      "description": "Mixed-signal and analog integrated circuits for various applications."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "J.P. Morgan Chase Bank, N.A.",
+      "partnership_type": "strategic",
+      "description": "Administrative agent for the Amended and Restated Credit Agreement and Senior Credit Facilities.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MCHP/profile",
+  "origin": {
+    "leaf": "193a014bd35bf1c172795f17cd478da9c41e5a01094162131181a03d662fcdc6",
+    "parent": "a7a72eb4089d8ec530e03a0962c801e664ec38a2db0dadbb45060f3284dec5e5",
+    "timestamp": "2026-04-12T03:12:54.822Z",
+    "source": "profile:0000827054",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/193a014bd35bf1c172795f17cd478da9c41e5a01094162131181a03d662fcdc6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.822Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

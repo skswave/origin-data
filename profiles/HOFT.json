@@ -1,0 +1,87 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HOFT",
+  "name": "HOOKER FURNISHINGS Corp",
+  "cik": "0001077688",
+  "summary": "Hooker Furnishings Corporation, incorporated in Virginia in 1924, is a designer, marketer, and importer of casegoods, leather furniture, fabric-upholstered furniture, lighting, accessories, and home decor for residential, hospitality, and contract markets. The company operates through three segments: Hooker Branded, Home Meridian, and Domestic Upholstery, with brands including Hooker Furniture, Pulaski Furniture, Samuel Lawrence, Bradington-Young, HF Custom, Shenandoah Furniture, and Sunset West. It also domestically manufactures premium custom upholstered and outdoor furniture.",
+  "products": [
+    {
+      "name": "Hooker Casegoods",
+      "type": "hardware",
+      "description": "Home entertainment, home office, accent, dining and bedroom furniture at upper-medium price points under the Hooker Furniture brand."
+    },
+    {
+      "name": "Hooker Upholstery",
+      "type": "hardware",
+      "description": "Imported upholstered furniture targeted at the upper-medium price range."
+    },
+    {
+      "name": "Pulaski Furniture",
+      "type": "hardware",
+      "description": "Casegoods covering bedroom, dining room, accent and display cabinets at medium price points."
+    },
+    {
+      "name": "Samuel Lawrence Furniture",
+      "type": "hardware",
+      "description": "Value-conscious bedroom, dining room, home office and youth furnishings."
+    },
+    {
+      "name": "Samuel Lawrence Hospitality",
+      "type": "service",
+      "description": "Designer and supplier of hotel furnishings targeted toward four- and five-star hotels."
+    },
+    {
+      "name": "Prime Resources International (PRI)",
+      "type": "hardware",
+      "description": "Value-conscious imported leather motion upholstery."
+    },
+    {
+      "name": "Bradington-Young",
+      "type": "hardware",
+      "description": "Upscale motion and stationary leather furniture specializing in seating."
+    },
+    {
+      "name": "HF Custom",
+      "type": "hardware",
+      "description": "Fashion forward custom fabric upholstery including chairs, sofas, sectionals, recliners and accent pieces."
+    },
+    {
+      "name": "Shenandoah Furniture",
+      "type": "hardware",
+      "description": "Upscale private label upholstered sectionals, sofas, chairs, beds and dining chairs for lifestyle specialty retailers."
+    },
+    {
+      "name": "Sunset West",
+      "type": "hardware",
+      "description": "Designer and manufacturer of stylish high-quality outdoor furniture."
+    },
+    {
+      "name": "H Contract",
+      "type": "hardware",
+      "description": "Upholstered seating and casegoods for upscale senior living and assisted living facilities."
+    },
+    {
+      "name": "BOBO Intriguing Objects",
+      "type": "hardware",
+      "description": "Home decor business acquired during fiscal 2024."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HOFT/profile",
+  "origin": {
+    "leaf": "5e6e5309d3ec863aca0c31b33d3dcf5f885a950ce7a2abd43ad736631fc22c7d",
+    "parent": "a0c4b466f5b62ae54b7bb1ba376a0458580a578d003786c9faf76de02c2588b6",
+    "timestamp": "2026-04-12T03:12:57.238Z",
+    "source": "profile:0001077688",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5e6e5309d3ec863aca0c31b33d3dcf5f885a950ce7a2abd43ad736631fc22c7d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.238Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

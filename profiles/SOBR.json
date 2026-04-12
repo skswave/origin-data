@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SOBR",
+  "name": "SOBR Safe, Inc.",
+  "cik": "0001425627",
+  "summary": "SOBR Safe, Inc. provides non-invasive alcohol monitoring and detection technologies. Its SOBRsafe software platform integrates with patent-pending hardware devices SOBRcheck and SOBRsure to deliver alcohol detection and identity verification. The company serves behavioral health, judicial, commercial, and consumer markets. It operates as a single segment, selling through channel partners, sales agents, and digital marketing channels from its headquarters in Greenwood Village, Colorado.",
+  "products": [
+    {
+      "name": "SOBRsafe",
+      "type": "platform",
+      "description": "Scalable patent-pending software platform integrating non-invasive alcohol monitoring and producing statistical business and user data."
+    },
+    {
+      "name": "SOBRcheck",
+      "type": "hardware",
+      "description": "Patent-pending integrated hardware device for non-invasive alcohol detection and identity verification."
+    },
+    {
+      "name": "SOBRsure",
+      "type": "hardware",
+      "description": "Patent-pending integrated hardware device for non-invasive alcohol detection and identity verification."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SOBR/profile",
+  "origin": {
+    "leaf": "dd1c9ae9cbd5136e1766a03249d7b05a1ff33a77c0d76e23a26a11cf980cd5de",
+    "parent": "f70eabf470cb08b5f9ed01750c08457d149a36ad104b6c5467357386a9d9e844",
+    "timestamp": "2026-04-12T03:12:59.150Z",
+    "source": "profile:0001425627",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dd1c9ae9cbd5136e1766a03249d7b05a1ff33a77c0d76e23a26a11cf980cd5de",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:59.150Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

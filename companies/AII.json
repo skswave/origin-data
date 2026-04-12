@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AII",
+  "name": "American Integrity Insurance Group, Inc.",
+  "cik": "0002007587",
+  "exchange": "NYSE",
+  "sic": "6331",
+  "sic_description": "Fire, Marine & Casualty Insurance",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "American Integrity Insurance Group, Inc. is a property and casualty insurance company conducting substantially all of its business in Florida. The company writes homeowners insurance policies, pursues Citizens Property Insurance Corporation take-out opportunities, and distributes through independent insurance agents, homebuilder-affiliated agents, and national insurance carriers. It relies on reinsurance coverage and maintains claims management operations.",
+  "tags": [
+    "florida-property-and-casualty-insurance",
+    "homeowners-insurance"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AII",
+  "origin": {
+    "leaf": "333573ce90438a3383c6549c27b5845b166a89fb1ba9d79f69fb4529c3940546",
+    "parent": "b8b7ba16d02f835a7d3d7dcead030a6910cc6c71482fa5d7c0f61b0ce7a1742e",
+    "timestamp": "2026-04-12T03:12:51.515Z",
+    "source": "0002007587-26-000016",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/333573ce90438a3383c6549c27b5845b166a89fb1ba9d79f69fb4529c3940546",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.515Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

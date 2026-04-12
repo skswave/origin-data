@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VERI",
+  "name": "Veritone, Inc.",
+  "cik": "0001615165",
+  "summary": "Veritone, Inc. is an AI technology company offering its aiWARE platform, a SaaS-based AI operating system that enables organizations to leverage artificial intelligence applications. The company serves media, entertainment, legal, compliance, and government sectors. Veritone also operated a full-service advertising agency, Veritone One, which was divested, and completed an acquisition of Broadbean, a talent acquisition technology company.",
+  "products": [
+    {
+      "name": "aiWARE",
+      "type": "platform",
+      "description": "AI operating system and SaaS platform enabling organizations to build and deploy AI-based applications."
+    },
+    {
+      "name": "iDEMs",
+      "type": "software",
+      "description": "AI-based software product offered through Veritone's platform, cited as a driver of future growth."
+    },
+    {
+      "name": "VDR",
+      "type": "software",
+      "description": "AI-based software product offered through Veritone's platform, cited as a driver of future growth."
+    },
+    {
+      "name": "Veritone One",
+      "type": "service",
+      "description": "Full-service advertising agency operated by Veritone, subject to sale/divestiture."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VERI/profile",
+  "origin": {
+    "leaf": "a44f4d2f24a22e25c6d4b57239b41e6e725953bea861145d6643ce8815c579f1",
+    "parent": "50025b56cf001e66bb09919ed00d9c1803e868c7db68a1ff8a41ec6c154edaea",
+    "timestamp": "2026-04-12T03:12:57.065Z",
+    "source": "profile:0001615165",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a44f4d2f24a22e25c6d4b57239b41e6e725953bea861145d6643ce8815c579f1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.065Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

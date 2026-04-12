@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "DRH",
+  "name": "DiamondRock Hospitality Co",
+  "cik": "0001298946",
+  "exchange": "Nasdaq",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "DiamondRock Hospitality Co (DRH) is a real estate investment trust (REIT) that owns and operates hotels and resorts. The company acquires, owns, and manages a portfolio of premium lodging properties across the United States. It operates under various hotel brand franchises and management agreements, focusing on upper-upscale and luxury segments of the hospitality industry.",
+  "tags": [
+    "lodging-and-hospitality-industry",
+    "real-estate-investment-trust-(reit)",
+    "upper-upscale-and-luxury-hotel-segment",
+    "u.s.-hotel-market"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/DRH",
+  "origin": {
+    "leaf": "b4eaf484238321edbf37ef51953fa5246da1376ed74ceebc22ac288029046cd0",
+    "parent": "c6f1581673efe6583e0a5a3d191b8bfcf1c0a607907eac424bf0002a369fa35a",
+    "timestamp": "2026-04-12T03:12:50.899Z",
+    "source": "0001298946-26-000013",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b4eaf484238321edbf37ef51953fa5246da1376ed74ceebc22ac288029046cd0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.899Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

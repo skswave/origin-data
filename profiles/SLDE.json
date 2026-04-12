@@ -1,0 +1,66 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SLDE",
+  "name": "Slide Insurance Holdings, Inc.",
+  "cik": "0001886428",
+  "summary": "Slide Insurance Holdings, Inc. is a technology-enabled coastal specialty insurer launched in 2021, focusing on single-family, condominium, and commercial residential property and casualty insurance in coastal Atlantic states. Operating through Slide Insurance Company and Slide Specialty Insurance Company, it underwrites policies via independent agents and a direct-to-consumer channel. The company leverages proprietary data analytics, aerial imagery, AI, and an $8.9 trillion TIV dataset for risk selection and underwriting, participating in Florida's Citizens depopulation program and targeting underserved coastal markets.",
+  "products": [
+    {
+      "name": "Single-Family Homeowners Insurance",
+      "type": "service",
+      "description": "Property and casualty insurance policies for single-family homes in coastal Atlantic states."
+    },
+    {
+      "name": "Condominium Insurance",
+      "type": "service",
+      "description": "Property and casualty insurance policies for condominium properties in coastal markets."
+    },
+    {
+      "name": "Commercial Residential Insurance",
+      "type": "service",
+      "description": "Insurance policies for commercial residential properties in coastal Atlantic states."
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) Insurance Channel",
+      "type": "platform",
+      "description": "Direct sales platform for insurance products without use of brokers, agents, or intermediaries."
+    },
+    {
+      "name": "Proprietary Underwriting Technology",
+      "type": "platform",
+      "description": "Technology platform using $8.9 trillion TIV dataset, predictive analytics, and AI for real-time underwriting decisions."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Duck Creek",
+      "partnership_type": "strategic",
+      "description": "Policy management system used for replacement cost calculation, real-time loss history, policyholder forms, and reinsurance cost estimation.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Citizens Property Insurance",
+      "partnership_type": "strategic",
+      "description": "Participation in Citizens depopulation program to acquire policy blocks in Florida.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SLDE/profile",
+  "origin": {
+    "leaf": "fb05c5f835e58caabe68428d9d0a481f505527938cc6801a3070a450d34b85a7",
+    "parent": "51e8f956b4e3eb9392ca4dab7eb5bc2605d9610ea6c9ff2e83dd0c4cafda9d9c",
+    "timestamp": "2026-04-12T03:12:55.602Z",
+    "source": "profile:0001886428",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fb05c5f835e58caabe68428d9d0a481f505527938cc6801a3070a450d34b85a7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.602Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

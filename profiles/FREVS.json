@@ -1,0 +1,68 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FREVS",
+  "name": "FIRST REAL ESTATE INVESTMENT TRUST OF NEW JERSEY, INC.",
+  "cik": "0000036840",
+  "summary": "First Real Estate Investment Trust of New Jersey, Inc. (FREIT) is a Maryland corporation organized as a REIT that acquires, develops, constructs, and holds income-producing real estate for long-term investment. Its portfolio includes six multi-family apartment buildings (792 units), five commercial properties (~589,000 sq ft leasable space), and undeveloped land parcels, located in New Jersey and New York. Properties include residential apartment communities and multi/single-tenanted commercial shopping centers.",
+  "products": [
+    {
+      "name": "Residential Apartment Communities",
+      "type": "service",
+      "description": "Multi-family apartment complexes totaling 792 units across New Jersey and New York."
+    },
+    {
+      "name": "Commercial Properties",
+      "type": "service",
+      "description": "Shopping centers and multi/single-tenant commercial spaces totaling approximately 589,000 square feet of leasable space."
+    },
+    {
+      "name": "Undeveloped Land",
+      "type": "service",
+      "description": "Approximately 7.37 acres of unimproved land parcels in New Jersey held for investment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Hekemian & Co., Inc.",
+      "partnership_type": "strategic",
+      "description": "Managing agent for FREIT; employees and affiliates participate in joint venture property ownership.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Valley National Bank",
+      "partnership_type": "strategic",
+      "description": "Lender for Westwood Plaza shopping center mortgage; extended and modified loan terms multiple times.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Provident Bank",
+      "partnership_type": "strategic",
+      "description": "Lender for Middletown, New York apartment building mortgage; extended loan to December 15, 2027.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ConnectOne Bank",
+      "partnership_type": "strategic",
+      "description": "Lender for Preakness Shopping Center mortgage; providing extensions while modification discussions ongoing.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FREVS/profile",
+  "origin": {
+    "leaf": "15a659728ddfcc03299f6f812edb38c80db78a8e59b53735e9afee5a7ea6f0bf",
+    "parent": "4b2c2d27ed8faee4aad47078c35b2f78c7dd7fac5c120211738560cda7375ea2",
+    "timestamp": "2026-04-12T03:12:57.388Z",
+    "source": "profile:0000036840",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/15a659728ddfcc03299f6f812edb38c80db78a8e59b53735e9afee5a7ea6f0bf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.388Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

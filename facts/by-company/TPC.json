@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "TPC",
+  "total_facts": 6,
+  "by_type": {
+    "topic_mention": 6
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "TPC",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "TPC",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "TPC",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "TPC",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "TPC",
+      "predicate": "discussed_in_filing",
+      "object": "Healthcare & Bio",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "healthcare",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "TPC",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TPC/transcripts",
+  "origin": {
+    "leaf": "dedca770c10caa9f287fe610930712121292109b389aad21763b10073fda0175",
+    "parent": "5db28ec19911a128bc92fed13945f23b012f581508b772cfad34d75736aaea0c",
+    "timestamp": "2026-04-12T03:13:36.818Z",
+    "source": "facts:TPC",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dedca770c10caa9f287fe610930712121292109b389aad21763b10073fda0175",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:36.818Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

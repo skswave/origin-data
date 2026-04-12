@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "INTZ",
+  "name": "INTRUSION INC",
+  "cik": "0000736012",
+  "exchange": "Nasdaq",
+  "sic": "3576",
+  "sic_description": "Computer Communications Equipment",
+  "state_of_incorporation": "DE",
+  "headquarters": "Plano, Texas",
+  "founded": "1983",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Intrusion Inc. is a cybersecurity company based in Plano, Texas, offering a threat intelligence database covering over 8.5 billion IP addresses. Its products include INTRUSION Shield (a Zero Trust SaaS solution blocking malicious network connections), INTRUSION TraceCop (a big data IP intelligence and forensics tool), and INTRUSION Savant (a real-time network monitoring solution). The company serves U.S. government agencies and commercial customers, generating approximately $7.1 million in revenue for fiscal year 2025.",
+  "tags": [
+    "cybersecurity",
+    "network-and-data-protection",
+    "data-mining-and-advanced-persistent-threat-detection",
+    "u.s.-government",
+    "commercial-enterprise",
+    "ipv4",
+    "ipv6",
+    "zero-trust",
+    "bgp",
+    "iaas",
+    "paas",
+    "saas"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/INTZ",
+  "origin": {
+    "leaf": "5ba39a03d5867655ed31d6b27fcd21179aac0b65b0ccc6ad63c6e9b8279727e7",
+    "parent": "eaab7412263cf17c2fcd8abc62abc1f02effca4dee5a86ca2761afab6a03ff3f",
+    "timestamp": "2026-04-12T03:12:52.944Z",
+    "source": "0001683168-26-002196",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5ba39a03d5867655ed31d6b27fcd21179aac0b65b0ccc6ad63c6e9b8279727e7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.944Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

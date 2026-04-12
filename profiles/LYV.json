@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LYV",
+  "name": "Live Nation Entertainment, Inc.",
+  "cik": "0001335258",
+  "summary": "Live Nation Entertainment, Inc. is a global live entertainment company operating through segments including concert promotion, venue management, and ticketing. The company promotes live music events, operates entertainment venues, and runs Ticketmaster, its ticketing business that processes ticket sales. It also has operations through subsidiaries including OCESA in Latin America via Corporación Interamericana de Entretenimiento.",
+  "products": [
+    {
+      "name": "Ticketmaster",
+      "type": "platform",
+      "description": "The ticketing business of Live Nation that handles ticket sales and gross transaction value (GTV) processing."
+    },
+    {
+      "name": "Live Nation Concert Promotion",
+      "type": "service",
+      "description": "Promotion and production of live music and entertainment events globally."
+    },
+    {
+      "name": "Venue Management",
+      "type": "service",
+      "description": "Operation and management of entertainment venues for live events."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Liberty Live Holdings, Inc.",
+      "partnership_type": "strategic",
+      "description": "Liberty Live is referenced as a related entity in the company's glossary of key terms.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Corporación Interamericana de Entretenimiento, S.A.B. de C.V.",
+      "partnership_type": "strategic",
+      "description": "Parent of OCESA, a related Latin American entertainment subsidiary of Live Nation.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LYV/profile",
+  "origin": {
+    "leaf": "7bfd15c596b39c7225af6b47a5b43e2a3f8d1b7210a5e2a5887097b16372d09b",
+    "parent": "6666b3ab23142b2541462dfcf128ebf0887da3bcab82caf6aef43f95767a5cc7",
+    "timestamp": "2026-04-12T03:12:54.817Z",
+    "source": "profile:0001335258",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7bfd15c596b39c7225af6b47a5b43e2a3f8d1b7210a5e2a5887097b16372d09b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.817Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "KE",
+  "name": "Kimball Electronics, Inc.",
+  "cik": "0001606757",
+  "exchange": "Nasdaq",
+  "sic": "3672",
+  "sic_description": "Printed Circuit Boards",
+  "state_of_incorporation": "IN",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": "PART I Item 1 - Business General As used herein, the terms Company, Kimball Electronics, we, us, or our refer to Kimball Electronics, Inc., the Registrant, and its subsidiaries. Reference to a year relates to a fiscal year, ended June 30 of the year indicated, rather than a calendar year unless the context indicates otherwise. Additionally, references to the first, second, third, and fourth quarters refer to those respective quarters of the fiscal year indicated. Forward-Looking Statements This ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/KE",
+  "origin": {
+    "leaf": "a694aed7c29cc0bbaa32e580a8859ed21b20fee6129efc6dadc4ae219a51969b",
+    "parent": "9ee4cccb847f1f839668c147fe62eb058bc0e7566255808c7e88fa8a0f9e0ec9",
+    "timestamp": "2026-04-12T03:12:51.325Z",
+    "source": "0001606757-25-000027",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a694aed7c29cc0bbaa32e580a8859ed21b20fee6129efc6dadc4ae219a51969b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.325Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "XPO",
+  "name": "XPO, Inc.",
+  "cik": "0001166003",
+  "exchange": "NYSE",
+  "sic": "4700",
+  "sic_description": "Transportation Services",
+  "state_of_incorporation": null,
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Company Overview XPO, Inc., together with its subsidiaries, is a leading provider of freight transportation services, with company-specific avenues for value creation. We use our proprietary technology to move goods efficiently through supply chains for approximately 55,000 customers in North America and Europe. As of December31, 2025, we had approximately 37,000 employees and 592 locations in 17 countries. Our company has two reportable segments: North American Less-Than-Truckload (LTL), the la...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 37000,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/XPO",
+  "origin": {
+    "leaf": "afbb34380beef8bbad68c37d0de591697524ebdcd42623d1c0251ebd356c97ad",
+    "parent": "f3527977cace16860bf6670ac5f9e108b8642ab7f106c4b766566bca27814c48",
+    "timestamp": "2026-04-12T03:12:50.403Z",
+    "source": "0001166003-26-000016",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/afbb34380beef8bbad68c37d0de591697524ebdcd42623d1c0251ebd356c97ad",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.403Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

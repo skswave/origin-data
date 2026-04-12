@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HNI",
+  "name": "HNI CORP",
+  "cik": "0000048287",
+  "exchange": "NYSE",
+  "sic": "2522",
+  "sic_description": "Office Furniture (No Wood)",
+  "state_of_incorporation": "IA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0103",
+  "summary": "PART I General HNI Corporation has been improving where people live, work, and gather for more than 80 years. HNI is a manufacturer of workplace furnishings and residential building products. Within workplace furnishings, the Corporation is the thought leader in commercial furnishings and the preeminent global designer, innovator, and provider of workplace solutions going to market under unique brands serving multiple channels and customers from the largest multinational companies to small local...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HNI",
+  "origin": {
+    "leaf": "ed0ae83a47bcfe689828057ff4f2894b2600bc17445dcf6e1b635ce9d20ad1aa",
+    "parent": "6cf5af0fb09e6c5a940a10e77537107f6f69db213262a3412a87e0fd82700546",
+    "timestamp": "2026-04-12T03:12:50.839Z",
+    "source": "0000048287-26-000084",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ed0ae83a47bcfe689828057ff4f2894b2600bc17445dcf6e1b635ce9d20ad1aa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.839Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ELSE",
+  "name": "ELECTRO SENSORS INC",
+  "cik": "0000351789",
+  "summary": "Electro-Sensors, Inc. (ESI) manufactures and sells industrial production monitoring and process control systems. Products include speed monitoring systems, temperature sensors, vibration monitors, belt alignment monitors, tilt switches, and hazard monitoring systems (Electro-Sentry and HazardPRO). ESI serves industries including grain/feed/milling, bulk materials, food products, ethanol, and power generation. The company sells domestically and internationally through internal sales teams, manufacturers' representatives, and distributors, shipping to 21 countries in 2025.",
+  "products": [
+    {
+      "name": "Speed Monitoring Systems",
+      "type": "hardware",
+      "description": "Monitors RPM and production rates; includes alarms, tachometers, and closed-loop PID drive control systems."
+    },
+    {
+      "name": "Temperature Application Products",
+      "type": "hardware",
+      "description": "Sensors for bearing, gear box, and motor temperature monitoring with configurable alert thresholds."
+    },
+    {
+      "name": "Position Application Products",
+      "type": "hardware",
+      "description": "Includes belt alignment monitor and slide gate position monitor for plant operations."
+    },
+    {
+      "name": "Vibration Monitoring Products",
+      "type": "hardware",
+      "description": "Alerts operators when machine vibration exceeds or falls below specified levels."
+    },
+    {
+      "name": "Tilt Switches",
+      "type": "hardware",
+      "description": "Alerts operators when a storage bin or production system reaches a certain capacity."
+    },
+    {
+      "name": "Electro-Sentry 1 TM",
+      "type": "hardware",
+      "description": "Integrated hazard monitoring system combining temperature, belt alignment, and shaft speed sensors with programmable control logic."
+    },
+    {
+      "name": "Electro-Sentry 16 TM",
+      "type": "hardware",
+      "description": "Larger integrated hazard monitoring system with programmable control logic for material handling systems."
+    },
+    {
+      "name": "HazardPRO TM",
+      "type": "platform",
+      "description": "Wireless hazard monitoring system with site system manager software; approved for use in hazardous dust environments."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Motrona GmbH",
+      "partnership_type": "OEM",
+      "description": "Sales agreement granting ESI the right to distribute Motrona control and interface devices in the United States.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ELSE/profile",
+  "origin": {
+    "leaf": "7711b604b114acaa3b4e0bd17b70ced88b718fa6be43dd4ebdc241d7453ae5d2",
+    "parent": "c5e693c1cf1d5209861f4b5b8740a1a37b8807e1f22cf9fab7952adc514dd1dd",
+    "timestamp": "2026-04-12T03:12:58.357Z",
+    "source": "profile:0000351789",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7711b604b114acaa3b4e0bd17b70ced88b718fa6be43dd4ebdc241d7453ae5d2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.357Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

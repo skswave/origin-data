@@ -1,0 +1,162 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "USB",
+  "company": "US BANCORP \\DE\\",
+  "title": "USB Q4 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 12877,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "USB",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 55,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "USB",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 18,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "USB",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 21,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "USB total revenue",
+      "predicate": "reported",
+      "object": "$6,762 million",
+      "value": 6762,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "USB total revenue",
+      "predicate": "reported",
+      "object": "$28.1 billion",
+      "value": 28.1,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "USB total revenue",
+      "predicate": "reported",
+      "object": "$6.8 billion",
+      "value": 6.8,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "USB gross margin",
+      "predicate": "reported",
+      "object": "$2.20 percent",
+      "value": 2.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "USB gross margin",
+      "predicate": "reported",
+      "object": "$2.78 percent",
+      "value": 2.78,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "USB EPS",
+      "predicate": "reported",
+      "object": "$0.99",
+      "value": 0.99,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "USB",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "USB",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "USB",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "USB",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/USB/transcripts",
+  "origin": {
+    "leaf": "dc42240db1869a418145ca26144a0a072ad8dab3359305e02ec38809b41c3d25",
+    "parent": "f1aa4f7b770ddcbe47fad8840fd3e8763118e066c8ae3d31f5288928156376af218d29f1da51fb0b7a56e5b7b2d7d43d",
+    "timestamp": "2026-04-12T03:13:01.270Z",
+    "source": "transcript:USB_q4_2023_earnings_release.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dc42240db1869a418145ca26144a0a072ad8dab3359305e02ec38809b41c3d25",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:01.270Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BRKR",
+  "name": "BRUKER CORP",
+  "cik": "0001109354",
+  "summary": "Bruker Corporation develops, manufactures, and distributes high-performance scientific instruments and analytical solutions enabling exploration of life and materials at microscopic, molecular, and cellular levels. Products include NMR, EPR, MRI, mass spectrometry, X-ray, microscopy, and chromatography systems. The company serves life science research, biopharmaceuticals, applied markets, clinical microbiology, molecular diagnostics, and nanotechnology through four segments: BSI BioSpin, BSI CALID, BSI NANO, and BEST.",
+  "products": [
+    {
+      "name": "NMR Systems",
+      "type": "hardware",
+      "description": "Nuclear magnetic resonance instruments ranging from benchtop to ultra-high field systems for molecular structure determination."
+    },
+    {
+      "name": "EPR Systems",
+      "type": "hardware",
+      "description": "Electron paramagnetic resonance instruments detecting unpaired electrons for materials analysis and quality control."
+    },
+    {
+      "name": "MRI Systems",
+      "type": "hardware",
+      "description": "Preclinical magnetic resonance imaging solutions for pharmaceutical research and disease studies."
+    },
+    {
+      "name": "MPI Systems",
+      "type": "hardware",
+      "description": "Magnetic particle imaging systems for real-time 3D cardiovascular disorder detection in preclinical settings."
+    },
+    {
+      "name": "PET Systems",
+      "type": "hardware",
+      "description": "Positron emission tomography instruments for oncology, neurology, and cardiovascular preclinical imaging."
+    },
+    {
+      "name": "SPECT Systems",
+      "type": "hardware",
+      "description": "Single photon emission tomography instruments for preclinical in vivo animal investigation."
+    },
+    {
+      "name": "CT Systems",
+      "type": "hardware",
+      "description": "Computed tomography instruments offering high spatial resolution for preclinical morphological imaging."
+    },
+    {
+      "name": "Integrated Data Solution",
+      "type": "software",
+      "description": "Vendor-agnostic platform integrating laboratory workflows, automation, and AI readiness adhering to FAIR data principles."
+    },
+    {
+      "name": "Lab Automation Solutions",
+      "type": "platform",
+      "description": "Flexible automation and digitalization platforms for R&D and quality control in pharma-biotech and industrial markets."
+    },
+    {
+      "name": "Mass Spectrometry Systems",
+      "type": "hardware",
+      "description": "Mass spectrometry instruments for proteomics, multiomics, and life science research within the BSI CALID segment."
+    },
+    {
+      "name": "X-ray Systems",
+      "type": "hardware",
+      "description": "X-ray technology instruments for materials and life science analysis within the BSI NANO segment."
+    },
+    {
+      "name": "Microscopy Systems",
+      "type": "hardware",
+      "description": "Microscopy and metrology instruments for nanotechnology and materials science within the BSI NANO segment."
+    },
+    {
+      "name": "Services and Lifecycle Support",
+      "type": "service",
+      "description": "Aftermarket service and support solutions complementing Bruker's advanced instrument portfolio."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BRKR/profile",
+  "origin": {
+    "leaf": "3bec0979fdfa10fd7b127863fe4de7f0d9575aeda6bde5924050b9944e4e60ed",
+    "parent": "a5defd6096a5aa22bd2598520278309ffb844c8b52ae2f811e701e5845d3f236",
+    "timestamp": "2026-04-12T03:12:55.241Z",
+    "source": "profile:0001109354",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3bec0979fdfa10fd7b127863fe4de7f0d9575aeda6bde5924050b9944e4e60ed",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.241Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HUBG",
+  "name": "Hub Group, Inc.",
+  "cik": "0000940942",
+  "summary": "Hub Group, Inc. (HUBG) is a transportation and logistics company providing intermodal, trucking, and logistics services. The company operates as a surface transportation provider, offering freight solutions including intermodal transportation, managed transportation, final mile delivery, and freight brokerage services to shippers across North America.",
+  "products": [
+    {
+      "name": "Intermodal Transportation",
+      "type": "service",
+      "description": "Rail and truck intermodal freight transportation services across North America."
+    },
+    {
+      "name": "Managed Transportation",
+      "type": "service",
+      "description": "Outsourced transportation management and logistics solutions for shippers."
+    },
+    {
+      "name": "Final Mile Delivery",
+      "type": "service",
+      "description": "Last-mile delivery services for freight to end destinations."
+    },
+    {
+      "name": "Freight Brokerage",
+      "type": "service",
+      "description": "Brokerage services connecting shippers with carrier capacity."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HUBG/profile",
+  "origin": {
+    "leaf": "148d6978f74f0d460595a03b91f34f43f247d4a6d1ca21a54eb178c1a9c7dbfc",
+    "parent": "693400a986094326cdea338b63bba5a552d85cd36da7d6e4fadbdd53751e5dc2",
+    "timestamp": "2026-04-12T03:12:55.609Z",
+    "source": "profile:0000940942",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/148d6978f74f0d460595a03b91f34f43f247d4a6d1ca21a54eb178c1a9c7dbfc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.609Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

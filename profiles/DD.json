@@ -1,0 +1,89 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DD",
+  "name": "DuPont de Nemours, Inc.",
+  "cik": "0001666700",
+  "summary": "DuPont de Nemours, Inc. is a leading provider of advanced solutions across healthcare, water, construction, and industrial markets. Its two segments—Healthcare & Water Technologies and Diversified Industrials—offer high-performance medical packaging, medical device components, water filtration and purification technologies, building technologies for residential and non-residential construction, and industrial adhesive, wear, friction, and packaging solutions serving aerospace, automotive, and printing markets.",
+  "products": [
+    {
+      "name": "Medical Packaging Solutions",
+      "type": "hardware",
+      "description": "High-performance packaging for medical device and biopharma markets."
+    },
+    {
+      "name": "Water Filtration and Purification Technologies",
+      "type": "hardware",
+      "description": "Industrial wastewater, municipal drinking water, desalination, and life sciences filtration solutions."
+    },
+    {
+      "name": "Specialty Medical Devices and Components",
+      "type": "hardware",
+      "description": "Advanced manufactured components for structural heart, electrophysiology, surgical robotics, and cardiovascular applications."
+    },
+    {
+      "name": "Building Technologies",
+      "type": "hardware",
+      "description": "Broad portfolio for new-build and repair/remodel applications in non-residential and residential construction."
+    },
+    {
+      "name": "Industrial Adhesive, Wear and Friction Solutions",
+      "type": "hardware",
+      "description": "Adhesive, wear, friction, and packaging solutions for aerospace, automotive, and printing markets."
+    },
+    {
+      "name": "Protective Garments",
+      "type": "hardware",
+      "description": "High-performance protective garments for industrial and safety applications."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "International Flavors & Fragrance Inc. (IFF)",
+      "partnership_type": "strategic",
+      "description": "Divested Nutrition & Biosciences business to IFF via Reverse Morris Trust transaction in 2021.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Celanese Corporation",
+      "partnership_type": "strategic",
+      "description": "Divested majority of Materials & Mobility segment businesses to Celanese in 2022.",
+      "start_date": null
+    },
+    {
+      "partner_name": "TJC LP",
+      "partnership_type": "strategic",
+      "description": "Divested Delrin business to TJC in 2023; agreed to sell Aramids business to Arclin, a TJC affiliate portfolio company, in 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Corteva, Inc.",
+      "partnership_type": "strategic",
+      "description": "Arrangement to share future eligible PFAS costs among DuPont, Corteva, and Chemours.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Chemours",
+      "partnership_type": "strategic",
+      "description": "Arrangement to share future eligible PFAS costs among DuPont, Corteva, and Chemours.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DD/profile",
+  "origin": {
+    "leaf": "142020b09a06046e2141ccc5725a6a9a0254b1b5698a96f17e35124d321f7636",
+    "parent": "64e875bd58c92e19aadd89afc8b4dfddd34701083f6024316d8c072d14b1f9e9",
+    "timestamp": "2026-04-12T03:12:54.908Z",
+    "source": "profile:0001666700",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/142020b09a06046e2141ccc5725a6a9a0254b1b5698a96f17e35124d321f7636",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.908Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "INSM",
+  "name": "INSMED Inc",
+  "cik": "0001104506",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "VA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Business Overview We are a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases. Our commercial portfolio and clinical pipeline are organized around three therapeutic areas: Respiratory, Immunology & Inflammation, and Neuro & Other Rare. To complement our internal research and development, we also actively evaluate in-licensing and acquisition opportunities for commercial products, p...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/INSM",
+  "origin": {
+    "leaf": "f71fbe66923ce70683127b08d7781bd11d77c7bda11bbf86b276f6ec81c23021",
+    "parent": "bef748185be0dee4f219ffbc6fa39c8732a4ffbd2510391dde8d92894999848b",
+    "timestamp": "2026-04-12T03:12:50.368Z",
+    "source": "0001104506-26-000009",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f71fbe66923ce70683127b08d7781bd11d77c7bda11bbf86b276f6ec81c23021",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.368Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

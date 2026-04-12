@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CNFN",
+  "name": "CFN Enterprises Inc.",
+  "cik": "0001352952",
+  "exchange": "OTC",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": "Whitefish, Montana",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "CFN Enterprises Inc. owns and operates CFN Media, a digital marketing agency providing compliant, turnkey ad campaigns for the cannabis, hemp, and wellness industries, and Ranco, a white label manufacturing and co-packing business. CFN Media generates revenue through ad campaigns, sponsored content, articles, videos, and podcasts. Ranco provides co-packing, white label manufacturing, 3PL logistics, custom packaging, and media services, and holds an exclusive licensing agreement for Packwoods-branded hemp and nicotine products.",
+  "tags": [
+    "cannabis-industry",
+    "hemp-industry",
+    "wellness-industry",
+    "digital-marketing-and-investor-relations",
+    "white-label-manufacturing-and-co-packing",
+    "e-commerce"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 22,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CNFN",
+  "origin": {
+    "leaf": "6b0f97258ab6a78047a4e802ccc1b169660f50d746872ac17f0401203ab5e0f9",
+    "parent": "ce3b6f41231830c4a9e59a10344b3d4553f86e3decb584b4fbf14a52f5d74cb5",
+    "timestamp": "2026-04-12T03:12:53.147Z",
+    "source": "0001096906-25-000507",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6b0f97258ab6a78047a4e802ccc1b169660f50d746872ac17f0401203ab5e0f9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.147Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

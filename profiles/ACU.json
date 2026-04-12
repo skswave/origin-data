@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ACU",
+  "name": "ACME UNITED CORP",
+  "cik": "0000002098",
+  "summary": "Acme United Corporation is a leading worldwide supplier of innovative first aid and medical products and cutting technology. Principal products include first aid kits, scissors, shears, knives, and sharpening tools sold under brands such as First Aid Only, Westcott, Clauss, DMT, Spill Magic, and PhysiciansCare. The company serves school, home, office, hardware, sporting goods, and industrial markets with operations in the United States, Canada, Germany, Hong Kong, and China. Total net sales in 2025 were $196.5 million.",
+  "products": [
+    {
+      "name": "First Aid Only",
+      "type": "hardware",
+      "description": "First aid and medical products meeting ANSI/OSHA compliance standards, including SmartCompliance system and SafetyHub App."
+    },
+    {
+      "name": "PhysiciansCare",
+      "type": "hardware",
+      "description": "Portable eyewash solutions and over-the-counter medications including aspirin, acetaminophen, and ibuprofen."
+    },
+    {
+      "name": "Spill Magic",
+      "type": "hardware",
+      "description": "Bodily fluid and spill clean-up solutions featuring lightweight absorbent powder that encapsulates spills."
+    },
+    {
+      "name": "First Aid Central",
+      "type": "hardware",
+      "description": "First aid kits and refills facilitating compliance with Canadian federal and provincial first aid regulations."
+    },
+    {
+      "name": "Med-Nap",
+      "type": "hardware",
+      "description": "Domestically manufactured medical-grade alcohol prep pads and benzalkonium chloride antiseptic wipes."
+    },
+    {
+      "name": "Safety Made",
+      "type": "hardware",
+      "description": "First aid kits manufactured for the promotional products industry."
+    },
+    {
+      "name": "Elite First Aid",
+      "type": "hardware",
+      "description": "Tactical, trauma, emergency response, and bleed control products."
+    },
+    {
+      "name": "My Medic",
+      "type": "hardware",
+      "description": "Tactical, trauma, and emergency response products primarily in the direct-to-consumer channel."
+    },
+    {
+      "name": "Westcott",
+      "type": "hardware",
+      "description": "Scissors, rulers, paper trimmers, safety cutters, and craft products for school, home, office, and industrial safety cutting."
+    },
+    {
+      "name": "Clauss",
+      "type": "hardware",
+      "description": "Quality cutting tools for hardware, industrial, floral, sewing, and housewares channels with titanium and non-stick coatings."
+    },
+    {
+      "name": "DMT (Diamond Machining Technology)",
+      "type": "hardware",
+      "description": "Diamond sharpeners for knives, scissors, chisels, and other edges using proprietary micro-monocrystalline diamond bonding process."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ACU/profile",
+  "origin": {
+    "leaf": "eaf52e99ba10a42b4dbfbd58f8087e0ebf2f4f5f74720b9c0bb64644f2d3ecdc",
+    "parent": "bd29b3a99bf91957656e88fedf9bd58199302e7ca845f593a2f1a593c878727e",
+    "timestamp": "2026-04-12T03:12:57.109Z",
+    "source": "profile:0000002098",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/eaf52e99ba10a42b4dbfbd58f8087e0ebf2f4f5f74720b9c0bb64644f2d3ecdc",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.109Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ACNB",
+  "name": "ACNB CORP",
+  "cik": "0000715579",
+  "summary": "ACNB Corporation, headquartered in Gettysburg, Pennsylvania, is a financial holding company for ACNB Bank and ACNB Insurance Services. ACNB Bank offers commercial, consumer, and mortgage lending, wealth management, trust, and retail brokerage services through 33 community banking offices in south-central Pennsylvania and northern Maryland. ACNB Insurance Services is a full-service agency licensed in 46 states, offering property, casualty, health, life, and disability insurance to personal and commercial clients.",
+  "products": [
+    {
+      "name": "Commercial Lending",
+      "type": "service",
+      "description": "Includes commercial mortgages, real estate development and construction loans, accounts receivable and inventory financing, and agricultural and governmental loans."
+    },
+    {
+      "name": "Consumer Lending",
+      "type": "service",
+      "description": "Home equity loans and lines of credit, automobile and recreational vehicle loans, manufactured housing loans, and personal lines of credit."
+    },
+    {
+      "name": "Mortgage Lending",
+      "type": "service",
+      "description": "Personal residential mortgages, residential construction loans, and investment mortgage loans offered through Traditions Mortgage division."
+    },
+    {
+      "name": "ACNB Wealth Management",
+      "type": "service",
+      "description": "Trust, estate settlement, testamentary trusts, life insurance trusts, charitable services, and retail brokerage services."
+    },
+    {
+      "name": "ACNB Insurance Services",
+      "type": "service",
+      "description": "Full-service insurance agency offering property, casualty, health, life, and disability insurance licensed in 46 states."
+    },
+    {
+      "name": "Online, Telephone and Mobile Banking",
+      "type": "platform",
+      "description": "Digital and remote banking service delivery channels including ATM network and Customer Contact Center."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ACNB/profile",
+  "origin": {
+    "leaf": "00ae6da9c4991e27b81bc1700ebc418ffa926b8a6dbdd00dd5c1b567777dfa72",
+    "parent": "843b087f8a6eb7afcc6db39ce49ded72374047e44e6f779d9697e4747250a5e3",
+    "timestamp": "2026-04-12T03:12:56.368Z",
+    "source": "profile:0000715579",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/00ae6da9c4991e27b81bc1700ebc418ffa926b8a6dbdd00dd5c1b567777dfa72",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.368Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

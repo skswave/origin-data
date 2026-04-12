@@ -1,0 +1,87 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BCPC",
+  "name": "BALCHEM CORP",
+  "cik": "0000009326",
+  "summary": "Balchem Corporation, incorporated in Maryland in 1967, develops, manufactures, distributes, and markets specialty performance ingredients and products for nutritional, food, pharmaceutical, animal health, plant nutrition, sterilization, fumigation, and industrial markets. Key products include choline nutrients, mineral amino acid chelates, vitamin K2, MSM, microencapsulated ingredients, ethylene oxide, propylene oxide, ammonia, and chelated minerals. The company operates three reportable segments: Human Nutrition and Health, Animal Nutrition and Health, and Specialty Products.",
+  "products": [
+    {
+      "name": "Choline Nutrients",
+      "type": "hardware",
+      "description": "Human grade choline nutrients for brain development, fat metabolism, and neural functions in nutrition and health applications."
+    },
+    {
+      "name": "Mineral Amino Acid Chelates",
+      "type": "hardware",
+      "description": "Specialized mineral salts and complexes used as raw materials in premier human nutrition products."
+    },
+    {
+      "name": "Vitamin K2",
+      "type": "hardware",
+      "description": "Specialty vitamin K2 supporting bone health, heart health, and immunity."
+    },
+    {
+      "name": "Methylsulfonylmethane (MSM)",
+      "type": "hardware",
+      "description": "Nutritional ingredient providing benefits for joint health, sports nutrition, skin, beauty, and healthy aging."
+    },
+    {
+      "name": "Microencapsulation Solutions",
+      "type": "service",
+      "description": "Encapsulation for food, pharmaceutical, and nutritional ingredients to enhance performance, shelf life, and processing."
+    },
+    {
+      "name": "Choline Chloride",
+      "type": "hardware",
+      "description": "Essential nutrient for monogastric animal health, supplied to poultry, pet, and swine industries in dry and aqueous forms."
+    },
+    {
+      "name": "Ethylene Oxide",
+      "type": "hardware",
+      "description": "Sterilant gas for health care industry used to sterilize medical devices."
+    },
+    {
+      "name": "Propylene Oxide",
+      "type": "hardware",
+      "description": "Fumigant for insect and microbiological control in nuts, spices, cocoa, dried fruits, and chemical synthesis."
+    },
+    {
+      "name": "Ammonia",
+      "type": "hardware",
+      "description": "Used as refrigerant, for heat treatment of metals, and chemical synthesis; distributed in reusable drum and cylinder packaging."
+    },
+    {
+      "name": "Metalosate Chelated Minerals",
+      "type": "hardware",
+      "description": "Patented foliar-applied amino acid chelate products for plant mineral nutrition optimizing crop health and yield."
+    },
+    {
+      "name": "Cereal Systems",
+      "type": "hardware",
+      "description": "Cereal systems for ready-to-eat cereals, grain-based snacks, and cereal-based ingredients."
+    },
+    {
+      "name": "Spray Dried and Emulsified Powders",
+      "type": "hardware",
+      "description": "Customized spray dried and emulsified powders for beverage, dairy, and food product development."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BCPC/profile",
+  "origin": {
+    "leaf": "20f69b81f6f3b01fcb0e03997b4a8b50f3e2ce63dea2fa0336027fb5d8db80ab",
+    "parent": "6d2fa7c6563a5cfda1ca22c8694007e2d83962f849ee73abf29d152d3b6f484f",
+    "timestamp": "2026-04-12T03:12:55.236Z",
+    "source": "profile:0000009326",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/20f69b81f6f3b01fcb0e03997b4a8b50f3e2ce63dea2fa0336027fb5d8db80ab",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.236Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

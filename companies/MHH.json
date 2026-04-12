@@ -1,0 +1,61 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MHH",
+  "name": "Mastech Digital, Inc.",
+  "cik": "0001437226",
+  "exchange": "NYSE",
+  "sic": "8742",
+  "sic_description": "Services-Management Consulting Services",
+  "state_of_incorporation": "PA",
+  "headquarters": "Pittsburgh, Pennsylvania",
+  "founded": "1986",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Mastech Digital, Inc. is a provider of Digital Transformation IT Services headquartered near Pittsburgh, Pennsylvania. The company offers data and analytics solutions, digital learning, and IT staffing services across two reportable segments: Data and Analytics Services and IT Staffing Services. With approximately 1,500 consultants, it serves mid-sized to large enterprises across multiple industry verticals, delivering data management, data engineering, customer experience consulting, cloud services, and staffing for both digital and mainstream technologies.",
+  "tags": [
+    "digital-transformation-it-services",
+    "data-and-analytics-consulting",
+    "it-staffing-services",
+    "digital-learning-services",
+    "cloud-services",
+    "customer-experience-consulting",
+    "offshore-staffing-services",
+    "engineering-staffing-services",
+    "master-data-management-(mdm)",
+    "data-governance",
+    "data-integration",
+    "cloud-based-enterprise-data-architectures",
+    "machine-learning",
+    "artificial-intelligence",
+    "agile-development",
+    "composable-architecture"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 1500,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MHH",
+  "origin": {
+    "leaf": "4108c9b8db4cb13c4525fc3eda0b838ed34001411001a686d49a0d93269c8205",
+    "parent": "8979d2cf6b345010624c9c5e35812a2dac2d60542d3445a55a3abe1a08c3eed2",
+    "timestamp": "2026-04-12T03:12:52.410Z",
+    "source": "0001193125-26-112845",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4108c9b8db4cb13c4525fc3eda0b838ed34001411001a686d49a0d93269c8205",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.410Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

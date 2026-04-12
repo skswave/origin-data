@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BCLI",
+  "name": "BRAINSTORM CELL THERAPEUTICS INC.",
+  "cik": "0001137883",
+  "summary": "Brainstorm Cell Therapeutics Inc. is a biotechnology company focused on developing autologous cellular therapies for neurodegenerative diseases including ALS, progressive multiple sclerosis, and Alzheimer's disease. Its proprietary NurOwn platform induces bone marrow-derived mesenchymal stem cells to secrete neurotrophic factors, modulate neuroinflammation, and promote neuronal survival. NurOwn has completed Phase 3 ALS and Phase 2 PMS trials and received FDA SPA agreement for a planned Phase 3b ALS trial.",
+  "products": [
+    {
+      "name": "NurOwn (MSC-NTF cells)",
+      "type": "platform",
+      "description": "Autologous cell therapy platform using bone marrow-derived MSCs induced to secrete neurotrophic factors for treatment of ALS, progressive MS, and Alzheimer's disease."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Ramot (Tel Aviv University technology transfer company)",
+      "partnership_type": "licensing",
+      "description": "Israeli Subsidiary holds exclusive rights to commercialize NurOwn technology through a licensing agreement with Ramot.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BCLI/profile",
+  "origin": {
+    "leaf": "584980394b5b50bace8cd01716757564658dbfb4b48ddaa5abd1f5f5dc669de4",
+    "parent": "98d9a77f035ffc7c3e7f6f8524f4914be56090c3cce92cf21b44e75199660f5c",
+    "timestamp": "2026-04-12T03:12:58.503Z",
+    "source": "profile:0001137883",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/584980394b5b50bace8cd01716757564658dbfb4b48ddaa5abd1f5f5dc669de4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.503Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

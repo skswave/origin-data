@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WBD",
+  "name": "Warner Bros. Discovery, Inc.",
+  "cik": "0001437107",
+  "summary": "Warner Bros. Discovery, Inc. is a global media and entertainment company that creates and distributes content across television, film, streaming, and interactive gaming. Its portfolio includes linear TV networks, streaming services, and a content library. The company operates across multiple segments and derives revenue from advertising, distribution, and content licensing, with products spanning news, sports, entertainment, and direct-to-consumer streaming offerings.",
+  "products": [
+    {
+      "name": "Streaming Services (Max)",
+      "type": "platform",
+      "description": "Direct-to-consumer streaming platform offering entertainment, news, and sports content on ad-supported and subscription tiers."
+    },
+    {
+      "name": "Linear Television Networks",
+      "type": "service",
+      "description": "Portfolio of domestic and international linear cable and broadcast TV networks delivering news, sports, and entertainment programming."
+    },
+    {
+      "name": "Feature Films",
+      "type": "service",
+      "description": "Production and distribution of theatrical feature films under the Warner Bros. film studio."
+    },
+    {
+      "name": "Interactive Gaming",
+      "type": "software",
+      "description": "Development and distribution of interactive entertainment and video game products."
+    },
+    {
+      "name": "Sports Programming",
+      "type": "service",
+      "description": "Live sports content distributed via linear networks and streaming platforms."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Paramount Skydance Corporation (PSKY)",
+      "partnership_type": "strategic",
+      "description": "Proposed merger in which PSKY will acquire Warner Bros. Discovery, Inc.; transaction pending regulatory and stockholder approvals.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WBD/profile",
+  "origin": {
+    "leaf": "bca6ce74ce5b3e9566d3ec2262fc93b03822687fdd56d2562fa5991f13b8b630",
+    "parent": "e11ce7d3a34cbb9eabf4be16a18de79ab9527962562431bb4338e36fe5994f8c",
+    "timestamp": "2026-04-12T03:12:54.759Z",
+    "source": "profile:0001437107",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bca6ce74ce5b3e9566d3ec2262fc93b03822687fdd56d2562fa5991f13b8b630",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.759Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

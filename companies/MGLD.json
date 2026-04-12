@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MGLD",
+  "name": "Marygold Companies, Inc.",
+  "cik": "0001005101",
+  "exchange": "NYSE",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": "Marygold Companies, Inc. (MGLD) is a diversified holding company operating through subsidiaries in financial services and fintech. Its key businesses include USCF Investments, Inc., a U.S. investment fund management company managing assets under management (AUM), and a Fintech application (app) under development and marketing. The company also pursues strategic acquisitions to expand existing businesses and enter new markets.",
+  "tags": [
+    "investment-fund-management",
+    "financial-technology-(fintech)",
+    "enterprise-markets",
+    "international-markets"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MGLD",
+  "origin": {
+    "leaf": "96d6ccbcf6e39a83ad79f1a65622e07d49f52c8ec6e9c8961525b0dd0960fdec",
+    "parent": "cd6d0a427e7955187ea41bb662659316fec27675ffea4558541871c886a828d5",
+    "timestamp": "2026-04-12T03:12:52.532Z",
+    "source": "0001493152-25-014286",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/96d6ccbcf6e39a83ad79f1a65622e07d49f52c8ec6e9c8961525b0dd0960fdec",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.532Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

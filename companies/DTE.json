@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "DTE",
+  "name": "DTE ENERGY CO",
+  "cik": "0000936340",
+  "exchange": "NYSE",
+  "sic": "4911",
+  "sic_description": "Electric Services",
+  "state_of_incorporation": "MI",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "DTE Energy Co is a diversified energy company headquartered in Michigan. It operates through subsidiaries including DTE Electric, which provides electric utility services, and DTE Gas, which provides natural gas utility services. The company also engages in non-utility businesses including energy trading and marketing of natural gas, electricity, and environmental commodities.",
+  "tags": [
+    "electric-utility",
+    "natural-gas-utility",
+    "energy-trading-and-marketing",
+    "environmental-commodities"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/DTE",
+  "origin": {
+    "leaf": "b479e94ad77456c2ff5ccfe248e0b1594309f1f3105b16e3676851331789913f",
+    "parent": "af03d7b1204f7cc674202a9897466164cb0979141c074da7f3edcd7810eac25d",
+    "timestamp": "2026-04-12T03:12:50.378Z",
+    "source": "0000936340-26-000054",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b479e94ad77456c2ff5ccfe248e0b1594309f1f3105b16e3676851331789913f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.378Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

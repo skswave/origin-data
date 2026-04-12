@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FRD",
+  "name": "FRIEDMAN INDUSTRIES INC",
+  "cik": "0000039092",
+  "summary": "Friedman Industries, Incorporated is a Texas-based manufacturer and processor of steel products operating in two segments: flat-roll products and tubular products. The flat-roll segment operates five hot-rolled coil processing facilities across Arkansas, Alabama, Indiana, Illinois, and Texas, producing sheet and plate steel. The tubular segment, Texas Tubular Products, operates two electric resistance welded pipe mills in Lone Star, Texas, manufacturing line pipe, oil country pipe, and structural pipe ranging from 2 3/8 OD to 8 5/8 OD.",
+  "products": [
+    {
+      "name": "Flat-Roll Steel Products",
+      "type": "hardware",
+      "description": "Hot-rolled coil processed into sheet and plate steel, ranging 16 gauge to 1 inch thick and 36 to 96 inches wide, sold wholesale on rapid-delivery basis."
+    },
+    {
+      "name": "Coil Processing and Storage Services",
+      "type": "service",
+      "description": "Fee-based processing and storage of customer-owned steel coils at flat-roll facilities."
+    },
+    {
+      "name": "Tubular Steel Products",
+      "type": "hardware",
+      "description": "Electric resistance welded pipe (2 3/8 OD to 8 5/8 OD) including API-licensed line pipe, oil country pipe, and structural pipe."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FRD/profile",
+  "origin": {
+    "leaf": "52d5d418a0300c2923cf4148386ecda05ae131c40b39c65b72d2cb0e0a2c6ffa",
+    "parent": "ef0dcca15efbdc6e8d2e6dfb74f4309422995ae67bd3e761870bc27aff8ddb10",
+    "timestamp": "2026-04-12T03:12:57.280Z",
+    "source": "profile:0000039092",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/52d5d418a0300c2923cf4148386ecda05ae131c40b39c65b72d2cb0e0a2c6ffa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.280Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

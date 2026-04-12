@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CNTY",
+  "name": "CENTURY CASINOS INC /CO/",
+  "cik": "0000911147",
+  "summary": "Century Casinos Inc. is a casino entertainment company that owns and operates casino properties. The company is engaged in gaming operations and manages multiple casino facilities. The filing references a Master Lease and credit agreement with Goldman, suggesting real estate-leased casino operations. The company conducts a strategic review process and has casinos with plans extending into 2026 and beyond.",
+  "products": [
+    {
+      "name": "Casino Operations",
+      "type": "service",
+      "description": "Ownership and operation of casino gaming facilities across multiple locations."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Goldman",
+      "partnership_type": "strategic",
+      "description": "Credit agreement with Goldman supporting company financing obligations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CNTY/profile",
+  "origin": {
+    "leaf": "6f0a3877cecf87814e5e3564f93369b9282741c2d50e0c233784deb40d63fac5",
+    "parent": "ef6c1353365e695259e0ca3ca846096e90abf5cebf519f5e400441c2d20422fb",
+    "timestamp": "2026-04-12T03:12:57.904Z",
+    "source": "profile:0000911147",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6f0a3877cecf87814e5e3564f93369b9282741c2d50e0c233784deb40d63fac5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.904Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

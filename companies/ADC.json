@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ADC",
+  "name": "AGREE REALTY CORP",
+  "cik": "0000917251",
+  "exchange": "NYSE",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "DE",
+  "headquarters": "Royal Oak, MI",
+  "founded": "1971",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Agree Realty Corporation is a fully integrated REIT focused on the ownership, acquisition, development, and management of retail properties net leased to industry-leading tenants. Founded in 1971 and NYSE-listed since 1994, the Company operates a portfolio of 2,674 properties across all 50 states totaling approximately 55.5 million square feet of GLA. Approximately 66.8% of annualized base rent derives from investment-grade-rated tenants. Substantially all tenants operate under net lease agreements.",
+  "tags": [
+    "net-lease-retail-real-estate",
+    "investment-grade-tenanted-retail-properties",
+    "real-estate-investment-trusts-(reits)",
+    "commercial-real-estate-development"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 90,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ADC",
+  "origin": {
+    "leaf": "c690d3e5286d9993436692f55c9b089c1237a207df020a851c686800b33b9e1e",
+    "parent": "d874950ef6c4b9d86df2b311943850a949de8a610be5fcd4a66bb3820be62bba",
+    "timestamp": "2026-04-12T03:12:50.518Z",
+    "source": "0000917251-26-000013",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c690d3e5286d9993436692f55c9b089c1237a207df020a851c686800b33b9e1e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.518Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

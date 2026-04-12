@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LAKE",
+  "name": "LAKELAND INDUSTRIES INC",
+  "cik": "0000798081",
+  "summary": "Lakeland Industries, Inc. (doing business as Lakeland Fire + Safety) is a global provider of safety products protecting workers, first responders, and communities. Products include firefighter protective apparel and accessories, high-end chemical protective suits, limited use/disposable protective clothing, durable woven garments, high performance FR/AR apparel, and high visibility clothing. The company operates ten manufacturing facilities in eight countries across five continents, serving chemical, clean room, energy, fire service, manufacturing, and utility markets worldwide.",
+  "products": [
+    {
+      "name": "Firefighter Protective Apparel and Accessories",
+      "type": "hardware",
+      "description": "NFPA and CE compliant structural and wildland firefighter turnout gear, helmets, hoods, and gloves."
+    },
+    {
+      "name": "High-End Chemical Protective Suits",
+      "type": "hardware",
+      "description": "Heavy-duty chemical protective suits made from proprietary CRFR, ChemMax 3, 4, Interceptor and other fabrics."
+    },
+    {
+      "name": "Limited Use/Disposable Protective Clothing",
+      "type": "hardware",
+      "description": "Disposable coveralls, lab coats, hoods, aprons, and related garments for industrial and medical applications."
+    },
+    {
+      "name": "Durable Woven Garments",
+      "type": "hardware",
+      "description": "Launderable woven garments for industrial and healthcare markets, complementing disposable and firefighting lines."
+    },
+    {
+      "name": "High Performance FR/AR Apparel",
+      "type": "hardware",
+      "description": "Dual-certified flame-resistant apparel with moisture-wicking technology and lightweight design."
+    },
+    {
+      "name": "High Visibility Clothing",
+      "type": "hardware",
+      "description": "High visibility protective clothing for worker safety applications."
+    },
+    {
+      "name": "Firefighting and Safety Boots",
+      "type": "hardware",
+      "description": "Professional footwear for firefighting, military, police, and rescue markets, manufactured by Jolly Scarpe."
+    },
+    {
+      "name": "CleanMax",
+      "type": "hardware",
+      "description": "Clean manufactured and sterilized version of MicroMAX NS product for aseptic laboratory environments."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LAKE/profile",
+  "origin": {
+    "leaf": "9434c7c4ab2591c76b1e361cea776561dbbbacb1b96909d22fac1d9cc790abf9",
+    "parent": "56da72e213f50c4cc27eba7391fe6a8104a93c896cf5780f16afa926fcdbf291",
+    "timestamp": "2026-04-12T03:12:57.523Z",
+    "source": "profile:0000798081",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9434c7c4ab2591c76b1e361cea776561dbbbacb1b96909d22fac1d9cc790abf9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.523Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

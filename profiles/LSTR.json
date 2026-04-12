@@ -1,0 +1,103 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LSTR",
+  "name": "LANDSTAR SYSTEM INC",
+  "cik": "0000853816",
+  "summary": "Landstar System, Inc. is a technology-enabled, asset-light provider of integrated transportation management solutions. The company delivers truckload, less-than-truckload, rail intermodal, air cargo, ocean cargo, expedited, heavy-haul, hazardous materials, and cross-border transportation services primarily throughout North America. Operations rely on approximately 960 independent commission sales agents and over 70,000 third-party capacity providers. Landstar also operates an insurance segment through Signature Insurance Company, reinsuring risks of independent contractors. Fiscal year 2025 consolidated revenue was $4.7 billion.",
+  "products": [
+    {
+      "name": "Truckload Transportation",
+      "type": "service",
+      "description": "Full array of truckload services via BCO Independent Contractors and Truck Brokerage Carriers using dry vans, platform trailers, and temperature-controlled equipment."
+    },
+    {
+      "name": "Less-Than-Truckload Transportation",
+      "type": "service",
+      "description": "LTL and other truck transportation services contributing approximately 2% of truck transportation revenue in fiscal 2025."
+    },
+    {
+      "name": "Rail Intermodal Services",
+      "type": "service",
+      "description": "Freight transport via trailer-on-flat-car, container-on-flat-car, box car and railcar throughout the US, Canada and Mexico."
+    },
+    {
+      "name": "Air Cargo Services",
+      "type": "service",
+      "description": "Domestic and international air freight as an IATA-certified Indirect Air Carrier."
+    },
+    {
+      "name": "Ocean Cargo Services",
+      "type": "service",
+      "description": "International ocean freight as an FMC-licensed NVOCC and ocean freight forwarder."
+    },
+    {
+      "name": "Expedited Transportation",
+      "type": "service",
+      "description": "Expedited ground and air delivery of time-critical freight."
+    },
+    {
+      "name": "Heavy-Haul/Specialized Transportation",
+      "type": "service",
+      "description": "Specialized transportation for heavy machinery, military equipment and oversized freight."
+    },
+    {
+      "name": "Insurance and Reinsurance",
+      "type": "service",
+      "description": "Risk and claims management, property/casualty insurance, and reinsurance for BCO Independent Contractors via Signature Insurance Company."
+    },
+    {
+      "name": "Customs Brokerage",
+      "type": "service",
+      "description": "Customs brokerage services for cross-border shipments."
+    },
+    {
+      "name": "Third Party Logistics Solutions",
+      "type": "platform",
+      "description": "Comprehensive integrated transportation management solutions meeting all of a customer's transportation needs."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Class 1 domestic and Canadian railroads",
+      "partnership_type": "strategic",
+      "description": "Contracts enabling rail intermodal freight transport throughout the US, Canada and Mexico.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Stacktrain operators and container/trailing equipment companies",
+      "partnership_type": "strategic",
+      "description": "Agreements supporting rail intermodal service capabilities including trailer and container on flat car.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Global network of foreign transportation intermediaries",
+      "partnership_type": "strategic",
+      "description": "Relationships enabling international door-to-door air and ocean freight services worldwide.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Third party insurance companies",
+      "partnership_type": "strategic",
+      "description": "Insurance programs for BCO Independent Contractors where risk is reinsured by Signature Insurance Company.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LSTR/profile",
+  "origin": {
+    "leaf": "1d725eadd9532882168c9ec338cae45506c82702f5a1dc3b02a322c7579e7dd1",
+    "parent": "246fac2f19e4e82bc6e561308e52005a96d109fa28de472ace314edbe9402fcc",
+    "timestamp": "2026-04-12T03:12:55.235Z",
+    "source": "profile:0000853816",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1d725eadd9532882168c9ec338cae45506c82702f5a1dc3b02a322c7579e7dd1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.235Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

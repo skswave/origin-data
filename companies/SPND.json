@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SPND",
+  "name": "SPINDLETOP OIL & GAS CO",
+  "cik": "0000867038",
+  "exchange": "OTC",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "TX",
+  "headquarters": "Dallas, Texas",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Spindletop Oil & Gas Co. is an independent oil and gas company engaged in exploration, development, production, and acquisition of oil and natural gas, operating primarily in Texas across five states. Through subsidiary Prairie Pipeline Co., it gathers and markets natural gas via owned pipelines. It also leases commercial office space in Dallas, Texas. Operations are concentrated in the Fort Worth Basin, East Texas, and other basins.",
+  "tags": [
+    "oil-and-gas-exploration-and-production",
+    "natural-gas-gathering-and-marketing",
+    "commercial-real-estate-leasing",
+    "oilfield-equipment-rental",
+    "sec-reserve-classification-guidelines-(proved-developed-producing)",
+    "boe-conversion-standard-(6-mcf/boe)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SPND",
+  "origin": {
+    "leaf": "a5cc7d4a834e1afb6cc2a9d5154d579a4c04ad2f676fc05bec872ddea1d4b424",
+    "parent": "362e3269687bacb264b8a7208598407a7133bcd08719286ee01acf8d793b706c",
+    "timestamp": "2026-04-12T03:12:52.647Z",
+    "source": "0001017386-25-000053",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a5cc7d4a834e1afb6cc2a9d5154d579a4c04ad2f676fc05bec872ddea1d4b424",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.647Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

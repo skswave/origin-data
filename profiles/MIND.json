@@ -1,0 +1,65 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MIND",
+  "name": "MIND TECHNOLOGY, INC",
+  "cik": "0000926423",
+  "summary": "MIND Technology, Inc. designs, manufactures, and sells specialized marine seismic and oceanographic equipment through its Seamap Marine Products business. Key products include GunLink seismic source acquisition and control systems, BuoyLink RGNSS positioning systems, Sleeve Gun energy sources, and SeaLink towed seismic streamer systems. The company serves marine survey companies, seismic contractors, research institutes, and governmental organizations globally, with operations in the United States, Singapore, Malaysia, and the United Kingdom.",
+  "products": [
+    {
+      "name": "GunLink",
+      "type": "hardware",
+      "description": "Seismic source acquisition and control system providing precise monitoring and control of marine seismic energy sources."
+    },
+    {
+      "name": "BuoyLink RGNSS",
+      "type": "hardware",
+      "description": "Relative global navigation satellite system used for precise positioning of marine seismic energy sources and streamers."
+    },
+    {
+      "name": "SeaLink",
+      "type": "hardware",
+      "description": "Towed seismic streamer system including marine sensors and solid streamer systems for oceanographic and hydrographic surveys."
+    },
+    {
+      "name": "Sleeve Gun",
+      "type": "hardware",
+      "description": "Marine seismic energy source used in marine seismic survey operations."
+    },
+    {
+      "name": "Spectral Ai",
+      "type": "software",
+      "description": "Data handling and automatic target recognition (ATR) software system designed for Klein side scan sonar systems."
+    },
+    {
+      "name": "Streamer weight collars, depth transducers, pressure transducers, air control valves, source array systems",
+      "type": "hardware",
+      "description": "Ancillary products supporting Seamap's primary marine seismic product lines."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "General Oceans AS",
+      "partnership_type": "licensing",
+      "description": "Licensing and collaboration agreement for Spectral Ai ATR software following sale of Klein Marine Systems to General Oceans AS.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MIND/profile",
+  "origin": {
+    "leaf": "fc44ba835561f472fd6b55404af5d2322e92ff0eeea8b7ddedc1d522a62b5a85",
+    "parent": "9618216f1f8e862aad9826ca22dccc627bd64cc1738f3c21bcf2c5ed12a54da3",
+    "timestamp": "2026-04-12T03:12:57.561Z",
+    "source": "profile:0000926423",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fc44ba835561f472fd6b55404af5d2322e92ff0eeea8b7ddedc1d522a62b5a85",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.561Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "JUVF",
+  "name": "JUNIATA VALLEY FINANCIAL CORP",
+  "cik": "0000714712",
+  "summary": "Juniata Valley Financial Corp. is a Pennsylvania bank holding company formed in 1983, operating through its subsidiary The Juniata Valley Bank (chartered 1867). It provides retail and commercial banking, trust, asset management, and estate services across 14 branch locations in central and northern Pennsylvania. Services include checking accounts, loans, certificates of deposit, commercial lines of credit, ACH origination, mobile banking, and brokerage services via a broker-dealer arrangement.",
+  "products": [
+    {
+      "name": "Personal Checking Accounts",
+      "type": "service",
+      "description": "Consumer checking accounts with overdraft privileges and debit cards."
+    },
+    {
+      "name": "Money Market Deposit Accounts",
+      "type": "service",
+      "description": "Interest-bearing deposit accounts for consumer customers."
+    },
+    {
+      "name": "Certificates of Deposit",
+      "type": "service",
+      "description": "Time deposit products offered to retail and commercial customers."
+    },
+    {
+      "name": "Commercial Lines of Credit",
+      "type": "service",
+      "description": "Credit facilities for small and mid-sized business customers."
+    },
+    {
+      "name": "Commercial Letters of Credit",
+      "type": "service",
+      "description": "Trade finance instruments for commercial banking customers."
+    },
+    {
+      "name": "Construction and Mortgage Loans",
+      "type": "service",
+      "description": "Real estate lending products for consumer customers."
+    },
+    {
+      "name": "Online and Mobile Banking",
+      "type": "platform",
+      "description": "Digital banking platform including mobile deposit and online account opening."
+    },
+    {
+      "name": "Trust and Estate Services",
+      "type": "service",
+      "description": "Comprehensive trust, asset management and estate planning services."
+    },
+    {
+      "name": "Remote Deposit and ACH Origination",
+      "type": "service",
+      "description": "Cash management services for business customers including payroll direct deposit."
+    },
+    {
+      "name": "Annuities and Brokerage Services",
+      "type": "service",
+      "description": "Financial products including mutual funds, stocks, bonds, and long-term care insurance via broker-dealer."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Federal Home Loan Bank of Pittsburgh",
+      "partnership_type": "strategic",
+      "description": "Source of borrowings and funding for the Company.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Federal Reserve Bank of Philadelphia",
+      "partnership_type": "strategic",
+      "description": "Source of borrowings and funding for the Company.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Unnamed broker-dealer",
+      "partnership_type": "strategic",
+      "description": "Contractual arrangement to offer annuities, mutual funds, stock and bond brokerage, and long-term care insurance to Bank customers.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/JUVF/profile",
+  "origin": {
+    "leaf": "f77ddf0f5643fd9870468dabd7f75218a21c745a67f1fcaccf6c1336e8fea6c9",
+    "parent": "7289976ea934dd7fbe2e9ad78f8ae49b8c237ddad5d3cb021d40fc7b20187f2c",
+    "timestamp": "2026-04-12T03:12:57.581Z",
+    "source": "profile:0000714712",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f77ddf0f5643fd9870468dabd7f75218a21c745a67f1fcaccf6c1336e8fea6c9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.581Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

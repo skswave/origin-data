@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LARK",
+  "name": "LANDMARK BANCORP INC",
+  "cik": "0001141688",
+  "exchange": "Nasdaq",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "CA",
+  "headquarters": "Manhattan, Kansas",
+  "founded": "2001",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Landmark Bancorp, Inc. is a Delaware-incorporated financial holding company headquartered in Manhattan, Kansas, owning Landmark National Bank and Landmark Risk Management, Inc. The Bank offers one-to-four family residential real estate loans, commercial loans, CRE loans, agricultural loans, construction and land loans, and deposit services including checking, savings, and money market accounts. It operates 29 branch offices across 23 Kansas communities and one loan production office in Kansas City, Missouri, with approximately $1.6 billion in total assets as of December 31, 2024.",
+  "tags": [
+    "central-kansas",
+    "eastern-kansas",
+    "southeast-kansas",
+    "southwest-kansas",
+    "kansas-city-metropolitan-area"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 287,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LARK",
+  "origin": {
+    "leaf": "08b19bbb78a26ae4495ae41212d4b1577205d33155346fa911d5b99908f48b0a",
+    "parent": "db33fb43484bf6a0ceafd190f6d7bb2eeacb86b2768b5de3e09d9405461e2f5a",
+    "timestamp": "2026-04-12T03:12:52.042Z",
+    "source": "0001641172-25-000643",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/08b19bbb78a26ae4495ae41212d4b1577205d33155346fa911d5b99908f48b0a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.042Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

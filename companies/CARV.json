@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CARV",
+  "name": "CARVER BANCORP INC",
+  "cik": "0001016178",
+  "exchange": "OTC",
+  "sic": "6035",
+  "sic_description": "Savings Institution, Federally Chartered",
+  "state_of_incorporation": "DE",
+  "headquarters": "New York, New York",
+  "founded": "1948",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "Carver Bancorp, Inc. is a Delaware holding company for Carver Federal Savings Bank, a federally chartered savings bank founded in 1948 to serve African-American communities in New York City. The Bank offers deposit products, commercial and multifamily mortgages, business loans, debit cards, online banking, bill pay, and the Carver Community Cash suite for unbanked consumers including check cashing, wire transfers, prepaid cards, and money orders. It operates seven branches in Brooklyn, Manhattan, and Queens.",
+  "tags": [
+    "low--to-moderate-income-communities-in-new-york-city",
+    "african-american-and-caribbean-american-communities",
+    "unbanked-and-underbanked-consumers",
+    "small-businesses-and-non-profit-organizations",
+    "faith-based-institutions",
+    "brooklyn,-manhattan,-and-queens-boroughs-of-new-york-city"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 109,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CARV",
+  "origin": {
+    "leaf": "d8ea2039228a32f0efaf40d7b75629f38bbfcc9601c29c65d89072d38dc77805",
+    "parent": "2b831df11af5eda7cfd0a825eaffbd1a0af4b9a4d99cbb4b08e1f728c7870173",
+    "timestamp": "2026-04-12T03:12:54.379Z",
+    "source": "0001016178-25-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d8ea2039228a32f0efaf40d7b75629f38bbfcc9601c29c65d89072d38dc77805",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.379Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

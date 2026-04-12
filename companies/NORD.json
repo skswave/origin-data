@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NORD",
+  "name": "Nordicus Partners Corp",
+  "cik": "0001011060",
+  "exchange": "OTC",
+  "sic": "8742",
+  "sic_description": "Services-Management Consulting Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1993",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "Nordicus Partners Corporation is a U.S. publicly listed business accelerator and holding company focused on Nordic life sciences companies. It acquires and accelerates preclinical biotechnology firms targeting unmet medical needs. Its portfolio includes Orocidin A/S, developing QR-01 for aggressive periodontitis, and Bio-Convert A/S, developing QR-02 for oral leukoplakia treatment. The company also holds a 4.99% interest in Mag Mile Capital, a commercial real estate mortgage banking firm.",
+  "tags": [
+    "life-sciences-/-biotechnology",
+    "periodontitis-treatment",
+    "oral-leukoplakia-treatment",
+    "commercial-real-estate-mortgage-banking"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NORD",
+  "origin": {
+    "leaf": "c0417b2ff1a4f46f32fa85c1bdce8a070d3f89b7af1379052f0caf7537d78e92",
+    "parent": "90b6cd0df4c19d417c61040a42587c104f30d746f366157e0f7938c4aab3ce6f",
+    "timestamp": "2026-04-12T03:12:52.443Z",
+    "source": "0001641172-25-021335",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c0417b2ff1a4f46f32fa85c1bdce8a070d3f89b7af1379052f0caf7537d78e92",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.443Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

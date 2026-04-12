@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LYB",
+  "name": "LyondellBasell Industries N.V.",
+  "cik": "0001489393",
+  "exchange": "NYSE",
+  "sic": "2860",
+  "sic_description": "Industrial Organic Chemicals",
+  "state_of_incorporation": "P7",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "BusinessMember lyb:IntermediatesAndDerivativesMember 2024-05-01 2024-05-31 0001489393 lyb:EmissionAllowancesMember 2025-12-31 0001489393 lyb:EmissionAllowancesMember 2024-12-31 0001489393 us-gaap:CustomerRelationshipsMember 2025-12-31 0001489393 us-gaap:CustomerRelationshipsMember 2024-12-31 0001489393 us-gaap:ComputerSoftwareIntangibleAssetMember 2025-12-31 0001489393 us-gaap:ComputerSoftwareIntangibleAssetMember 2024-12-31 0001489393 us-gaap:OtherIntangibleAssetsMember 2025-12-31 0001489393 us...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LYB",
+  "origin": {
+    "leaf": "3a372c749c66239982e667d791dedfebab19191060481f4833c4cd93d15d55e5",
+    "parent": "44d92142d88bd0973167b58548d3e9909321dfa413a9854aebeb97d84715a2d2",
+    "timestamp": "2026-04-12T03:12:50.393Z",
+    "source": "0001489393-26-000012",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3a372c749c66239982e667d791dedfebab19191060481f4833c4cd93d15d55e5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.393Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SCWO",
+  "name": "374Water Inc.",
+  "cik": "0000933972",
+  "summary": "374Water Inc. (SCWO) is a cleantech and environmental services company developing supercritical water oxidation (SCWO) technology for destruction of organic waste streams. Its proprietary AirSCWO technology destroys hazardous and non-hazardous organic wastes including PFAS, biosolids, and industrial solvents, producing safe water, minerals, and recoverable heat energy. The company serves municipal, federal, and industrial markets through capital equipment sales, Waste Destruction Services (WDS), laboratory testing, and operations and maintenance services.",
+  "products": [
+    {
+      "name": "AirSCWO Mobile System",
+      "type": "hardware",
+      "description": "Trailered mobile SCWO system processing over 700 kg/day of wet waste, designed for rapid deployment and onsite demonstrations."
+    },
+    {
+      "name": "AirSCWO Modular System",
+      "type": "hardware",
+      "description": "Scalable modular SCWO system handling 6-10 tons per day, suited for municipal, federal, and industrial permanent or semi-permanent installations."
+    },
+    {
+      "name": "Pre-Treatment Solutions",
+      "type": "hardware",
+      "description": "Ancillary packaged systems to condition waste streams to meet AirSCWO inlet requirements upstream of the SCWO system."
+    },
+    {
+      "name": "Post-Treatment Solutions",
+      "type": "hardware",
+      "description": "Downstream packaged systems to enhance system output value including CO2 sequestration, minerals recovery, water purification, and energy recovery."
+    },
+    {
+      "name": "Waste Destruction Services (WDS)",
+      "type": "service",
+      "description": "Partner-model waste destruction service providing customers fit-to-need destruction without significant capital investment, operating at permitted facilities."
+    },
+    {
+      "name": "Laboratory & Testing Services",
+      "type": "service",
+      "description": "AirSCWO treatability evaluations and waste stream characterization services for municipal, federal, and industrial clients at lab scale."
+    },
+    {
+      "name": "Operations & Maintenance Services",
+      "type": "service",
+      "description": "Full system operations, customer training, integration, and on-demand support and maintenance for AirSCWO systems."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "City of Orlando",
+      "partnership_type": "strategic",
+      "description": "Host site for 374Water's first WDS hub at the Iron Bridge Water Reclamation Facility in Orlando, FL.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Crystal Clean",
+      "partnership_type": "strategic",
+      "description": "Collaboration agreement to locate AirSCWO technology at Crystal Clean's RCRA-permitted facility to destroy PFAS waste streams.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Defense Innovation Unit (DIU)",
+      "partnership_type": "development",
+      "description": "Partnership for DoD destruction demonstration of six PFAS-impacted waste streams at Clean Earth's Detroit, MI facility.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Environmental Security Technology Certification Program (ESTCP)",
+      "partnership_type": "development",
+      "description": "Collaboration on DoD-led PFAS destruction demonstration evaluating commercial-scale AirSCWO technology at Detroit, MI.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Orange County Sanitation District (OC San)",
+      "partnership_type": "strategic",
+      "description": "Planned deployment of AirSCWO system to OC San's Fountain Valley, CA facility during 2026.",
+      "start_date": null
+    },
+    {
+      "partner_name": "City of Olathe, KS",
+      "partnership_type": "strategic",
+      "description": "Agreement for sale of AirSCWO system and pre-treatment equipment with associated service agreement for PFAS-impacted wastewater treatment.",
+      "start_date": null
+    },
+    {
+      "partner_name": "University of North Carolina at Chapel Hill Collaboratory",
+      "partnership_type": "strategic",
+      "description": "Awarded contract to destroy 1,000 gallons of Aqueous Film Forming Foam (AFFF).",
+      "start_date": null
+    },
+    {
+      "partner_name": "Peterson Space Force Base",
+      "partnership_type": "development",
+      "description": "Deployment of mobile AirSCWO lab to Peterson Space Force Base in Colorado for waste stream testing.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SCWO/profile",
+  "origin": {
+    "leaf": "eaee2cf385f2f81c2a2df2afa9554a363a3950eb216abd622d4a161950b4b007",
+    "parent": "77d3c65a2d3cd5d2ae84caab1e7203c14870e3d347b3a371a28c2b86ccdadfec",
+    "timestamp": "2026-04-12T03:12:57.829Z",
+    "source": "profile:0000933972",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/eaee2cf385f2f81c2a2df2afa9554a363a3950eb216abd622d4a161950b4b007",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.829Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

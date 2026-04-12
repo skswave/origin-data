@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TPC",
+  "name": "TUTOR PERINI CORP",
+  "cik": "0000077543",
+  "summary": "Tutor Perini Corp (TPC) is a construction company that provides general contracting, construction management, and design-build services. The company operates across civil, building, and specialty construction segments, serving clients in transportation, water, power, and building infrastructure markets. Specific projects include highways, bridges, tunnels, mass transit, and other public and private construction projects.",
+  "products": [
+    {
+      "name": "General Contracting",
+      "type": "service",
+      "description": "Construction services for large-scale civil and building projects including transportation and infrastructure."
+    },
+    {
+      "name": "Construction Management",
+      "type": "service",
+      "description": "Management of construction projects on behalf of public and private clients."
+    },
+    {
+      "name": "Design-Build Services",
+      "type": "service",
+      "description": "Integrated design and construction solutions for infrastructure and building projects."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TPC/profile",
+  "origin": {
+    "leaf": "4a4966e2d997304cdac4ec98ee61dc2ff7d8033554e4a07351d98588b3453394",
+    "parent": "1deea24ff6f8cc0ed6ebcf8a3141b37fa1943e9eed4c6cbd310964eb61dea224",
+    "timestamp": "2026-04-12T03:12:55.353Z",
+    "source": "profile:0000077543",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4a4966e2d997304cdac4ec98ee61dc2ff7d8033554e4a07351d98588b3453394",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.353Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

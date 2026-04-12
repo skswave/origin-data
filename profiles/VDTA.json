@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VDTA",
+  "name": "Vertical Data Inc.",
+  "cik": "0002033264",
+  "summary": "Vertical Data Inc. is an early development-stage technology distributor formed in 2024, providing high-performance computer solutions to enterprise and data center clients. The company distributes GPU servers, storage solutions, networking equipment, software, and system components from OEM suppliers and next-generation technology providers. It also coordinates data center and hosting services while conducting R&D to develop proprietary hardware and software for AI computing workloads including LLM training and inference.",
+  "products": [
+    {
+      "name": "GPU Servers",
+      "type": "hardware",
+      "description": "Bare metal and pre-configured servers for LLM training and inference workloads."
+    },
+    {
+      "name": "Storage Solutions",
+      "type": "hardware",
+      "description": "Storage systems distributed to enterprise and data center customers."
+    },
+    {
+      "name": "Networking and Communications Equipment",
+      "type": "hardware",
+      "description": "Networking gear distributed as part of comprehensive IT solutions."
+    },
+    {
+      "name": "Software",
+      "type": "software",
+      "description": "Software products distributed from OEM and next-generation technology suppliers."
+    },
+    {
+      "name": "Converged and Hyper-Converged Infrastructure",
+      "type": "hardware",
+      "description": "Next-generation delivery model infrastructure solutions for enterprise customers."
+    },
+    {
+      "name": "Data Center and Hosting Services",
+      "type": "service",
+      "description": "Coordination and provision of data center and hosting services for customers."
+    },
+    {
+      "name": "Professional Services",
+      "type": "service",
+      "description": "Services to help customers identify, prioritize, and implement AI computing opportunities."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VDTA/profile",
+  "origin": {
+    "leaf": "bb225e4ba2f1e544592506224da89eb5afa3a1084a41b66fda32bb0d622f029c",
+    "parent": "6953bfdbbc5228aa9fcbfe6fd8d3f469a53db901b55db4699b7902339c9bfe51",
+    "timestamp": "2026-04-12T03:13:00.425Z",
+    "source": "profile:0002033264",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bb225e4ba2f1e544592506224da89eb5afa3a1084a41b66fda32bb0d622f029c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.425Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

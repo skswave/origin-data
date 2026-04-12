@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CABO",
+  "name": "Cable One, Inc.",
+  "cik": "0001632127",
+  "exchange": "NYSE",
+  "sic": "4841",
+  "sic_description": "Cable & Other Pay Television Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Cable One, Inc. (doing business as Sparklight) is a broadband communications provider serving approximately 1.0 million residential and business customers across 24 Western, Midwestern, and Southern states. The company delivers data, video, and voice services via fiber-to-the-premises and hybrid fiber-coaxial networks, focusing primarily on residential data (60.1% of revenues), business data (15.3%), and residential video (12.5%) in non-metropolitan, secondary, and tertiary markets.",
+  "tags": [
+    "residential-broadband/data",
+    "business-data-and-enterprise-connectivity",
+    "residential-video",
+    "residential-voice",
+    "non-metropolitan,-secondary-and-tertiary-markets",
+    "western,-midwestern-and-southern-united-states",
+    "fiber-to-the-premises-(fttp)",
+    "hybrid-fiber-coaxial-(hfc)",
+    "internet-protocol-television-(iptv)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CABO",
+  "origin": {
+    "leaf": "9438afcca73687967d184cd83afccae5d5a395884a18f0986878cdad174a32aa",
+    "parent": "b3fe96299fd36752912bff8326f5d34e8b2d372b29b3b454e31f05be1783b5e2",
+    "timestamp": "2026-04-12T03:12:51.373Z",
+    "source": "0001632127-26-000005",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9438afcca73687967d184cd83afccae5d5a395884a18f0986878cdad174a32aa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.373Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

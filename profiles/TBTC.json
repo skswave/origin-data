@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TBTC",
+  "name": "TABLE TRAC INC",
+  "cik": "0001090396",
+  "summary": "Table Trac, Inc. is a Nevada corporation that develops and sells proprietary casino management systems (CasinoTrac) and table games management systems. Products include modules for player tracking, kiosk promotions, vault/cage controls, slot machine interface boards, and audit/accounting tools. The Company serves over 115 casino operators in 300+ casinos across the U.S., Australia, Caribbean, and Central and South America, offering systems via purchase with monthly license and maintenance contracts.",
+  "products": [
+    {
+      "name": "Table Trac System",
+      "type": "platform",
+      "description": "Patented real-time system that automates and monitors casino table game operations."
+    },
+    {
+      "name": "CasinoTrac Casino Management System (CMS)",
+      "type": "platform",
+      "description": "End-to-end casino resort system for guest rewards, loyalty marketing, vault/cage management, and accounting."
+    },
+    {
+      "name": "DataTrac",
+      "type": "software",
+      "description": "Data management module for casino operations."
+    },
+    {
+      "name": "KioskTrac",
+      "type": "hardware",
+      "description": "Kiosk-based promotion and player tracking system for casinos."
+    },
+    {
+      "name": "KioskTrac Mobile",
+      "type": "software",
+      "description": "Mobile version of the KioskTrac kiosk promotion platform."
+    },
+    {
+      "name": "SlotSUITE",
+      "type": "software",
+      "description": "Suite of tools for slot machine management within the casino ecosystem."
+    },
+    {
+      "name": "RePrintEnroll Kiosks",
+      "type": "hardware",
+      "description": "Kiosks supporting reprint and enrollment functions for casino patrons."
+    },
+    {
+      "name": "Slot Machine Gaming Machine Interface Boards",
+      "type": "hardware",
+      "description": "Proprietary interface boards designed and manufactured by Table Trac using third-party assembly firms."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TBTC/profile",
+  "origin": {
+    "leaf": "395e77d6796449c6670c5ba3e27dbf8767ee1bd1d812bcc699b089fab4980088",
+    "parent": "abf53df3edc4207fac11ff366f751678accf4f8ff3181bb2a8b17384ed77db03",
+    "timestamp": "2026-04-12T03:12:58.231Z",
+    "source": "profile:0001090396",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/395e77d6796449c6670c5ba3e27dbf8767ee1bd1d812bcc699b089fab4980088",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.231Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LPCN",
+  "name": "Lipocine Inc.",
+  "cik": "0001535955",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": ", CONTAINS FORWARD-LOOKING STATEMENTS WITHIN THE MEANING OF SECTION 27A OF THE SECURITIES ACT OF 1933, AS AMENDED (the SECURITIES ACT), AND SECTION 21E OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED (the EXCHANGE ACT), that involve risks and uncertainties. Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. Forward-looking statements may refer to such m...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LPCN",
+  "origin": {
+    "leaf": "6cc4534d8ef4eee0a42366d3a5d12933e28ced92bf64d075cbfaa3083d12e992",
+    "parent": "3d8625ee1f0e1a4997fe0e3baede8357324b7a6552cd699b0bf6f58d39dd28b3",
+    "timestamp": "2026-04-12T03:12:52.465Z",
+    "source": "0001493152-26-009411",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6cc4534d8ef4eee0a42366d3a5d12933e28ced92bf64d075cbfaa3083d12e992",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.465Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

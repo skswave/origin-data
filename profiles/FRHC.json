@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FRHC",
+  "name": "Freedom Holding Corp.",
+  "cik": "0000924805",
+  "summary": "Freedom Holding Corp. (FRHC) is a Nevada-incorporated holding company whose subsidiaries provide securities brokerage, securities dealing, market making, investment research, retail and commercial banking, and insurance products. Operating primarily in Kazakhstan and across Europe, Asia, and North America, the company also offers payment processing, entertainment and travel ticketing, e-commerce, and telecommunications and media services. Its digital platform includes Freedom SuperApp, an all-in-one financial platform for banking, payments, and investments.",
+  "products": [
+    {
+      "name": "Freedom SuperApp",
+      "type": "platform",
+      "description": "All-in-one financial platform offering banking, payments, investment services, real-time portfolio tracking, and personalized recommendations, launched April 2024."
+    },
+    {
+      "name": "Securities Brokerage Services",
+      "type": "service",
+      "description": "Retail and institutional brokerage providing access to international capital markets across dozens of countries."
+    },
+    {
+      "name": "Freedom Bank KZ",
+      "type": "service",
+      "description": "Retail and commercial banking services in Kazakhstan, formerly Kassa Nova Bank JSC."
+    },
+    {
+      "name": "Freedom Finance Life JSC",
+      "type": "service",
+      "description": "Life insurance products offered primarily in Kazakhstan."
+    },
+    {
+      "name": "Freedom Finance Insurance JSC",
+      "type": "service",
+      "description": "General insurance products offered primarily in Kazakhstan."
+    },
+    {
+      "name": "Freedom Telecom",
+      "type": "service",
+      "description": "Telecommunications services in Kazakhstan, launched 2024 via acquisitions of local telecom companies."
+    },
+    {
+      "name": "Freedom Media LLP",
+      "type": "platform",
+      "description": "Regional streaming platform targeting Kazakhstan and the broader Central Asian market."
+    },
+    {
+      "name": "Payment and Information Processing Services",
+      "type": "service",
+      "description": "Payment and information processing ancillary services complementing core financial offerings."
+    },
+    {
+      "name": "Entertainment and Travel Ticketing",
+      "type": "service",
+      "description": "Ticketing services for entertainment and travel as part of lifestyle solutions portfolio."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FRHC/profile",
+  "origin": {
+    "leaf": "7b16453b12532394659d6125da0d0a0c3ae4b4400a5b1a117cd9e45960f2cb05",
+    "parent": "ef9c1300c0608b8d99f5c3c05dee13849499f9f91939ebe8c0c15c3f414c5b96",
+    "timestamp": "2026-04-12T03:12:55.081Z",
+    "source": "profile:0000924805",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7b16453b12532394659d6125da0d0a0c3ae4b4400a5b1a117cd9e45960f2cb05",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.081Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

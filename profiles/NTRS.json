@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NTRS",
+  "name": "NORTHERN TRUST CORP",
+  "cik": "0000073124",
+  "summary": "Northern Trust Corporation is a leading provider of wealth management, asset servicing, asset management, and banking solutions to corporations, institutions, families, and individuals. Founded in 1889, the Bank operates through Asset Servicing and Wealth Management segments, offering custody, fund administration, investment management, securities lending, foreign exchange, trust services, private banking, and brokerage. At December 31, 2025, the Corporation had $177.1 billion in total assets and managed $1.8 trillion in assets under management.",
+  "products": [
+    {
+      "name": "Asset Servicing",
+      "type": "service",
+      "description": "Custody, fund administration, investment operations outsourcing, securities lending, FX, and cash management for institutional investors."
+    },
+    {
+      "name": "Wealth Management",
+      "type": "service",
+      "description": "Trust, investment management, custody, philanthropic services, private banking, and brokerage for high-net-worth individuals and families."
+    },
+    {
+      "name": "Asset Management",
+      "type": "service",
+      "description": "Active and passive equity/fixed income, cash management, multi-asset, alternative assets, ETFs, and multi-manager advisory services."
+    },
+    {
+      "name": "Global Family Office",
+      "type": "service",
+      "description": "Customized investment management, global custody, fiduciary, private banking, and technology solutions for family offices globally."
+    },
+    {
+      "name": "Securities Lending",
+      "type": "service",
+      "description": "Securities lending services offered to institutional and wealth management clients."
+    },
+    {
+      "name": "Foreign Exchange (GFX)",
+      "type": "service",
+      "description": "Global foreign exchange trading and treasury management services for institutional and individual clients."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NTRS/profile",
+  "origin": {
+    "leaf": "c43443018f32bb16a2890386a1bca23fe5d8e52d25b7b758d9af847e6f07d4ec",
+    "parent": "a69444262c740ee8974209f80349e06031e7067ba1568cabccfb1ad99621d9c8",
+    "timestamp": "2026-04-12T03:12:54.858Z",
+    "source": "profile:0000073124",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c43443018f32bb16a2890386a1bca23fe5d8e52d25b7b758d9af847e6f07d4ec",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.858Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

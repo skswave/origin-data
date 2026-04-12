@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NPAC",
+  "name": "New Providence Acquisition Corp. III/Cayman",
+  "cik": "0002048948",
+  "exchange": "Nasdaq",
+  "sic": "6770",
+  "sic_description": "Blank Checks",
+  "state_of_incorporation": "E9",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "New Providence Acquisition Corp. III is a special purpose acquisition company (SPAC) incorporated in the Cayman Islands. It is focused on identifying and completing an initial Business Combination. The company has a pending transaction with Abra, referred to as the Abra Business Combination. Its operations consist of managing trust account proceeds from its IPO while seeking to consummate an acquisition target.",
+  "tags": [
+    "special-purpose-acquisition",
+    "mergers-and-acquisitions"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NPAC",
+  "origin": {
+    "leaf": "ab6c10da008d1c321fa33de84a280c8479b5af56923323bad8eb9ba929b9fa13",
+    "parent": "df6e380b546073cd977b350d523044a3ddae85be691be3107df7682da8df86bd",
+    "timestamp": "2026-04-12T03:12:51.494Z",
+    "source": "0001213900-26-037680",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ab6c10da008d1c321fa33de84a280c8479b5af56923323bad8eb9ba929b9fa13",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.494Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

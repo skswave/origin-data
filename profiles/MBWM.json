@@ -1,0 +1,85 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MBWM",
+  "name": "MERCANTILE BANK CORP",
+  "cik": "0001042729",
+  "summary": "Mercantile Bank Corporation is a Michigan-based registered bank holding company that owns Mercantile Bank and Eastern Michigan Bank, operating 54 office locations. The banks provide commercial banking services to small- and medium-sized businesses, retail banking, and accept checking, savings, and time deposits. Subsidiary Mercantile Insurance Center offers insurance products, and Mercantile Community Partners invests in community development tax credit investments.",
+  "products": [
+    {
+      "name": "Commercial Loans",
+      "type": "service",
+      "description": "Secured and unsecured commercial loans offered to small- and medium-sized businesses."
+    },
+    {
+      "name": "Construction Loans",
+      "type": "service",
+      "description": "Construction financing provided through Mercantile Bank and Eastern Michigan Bank."
+    },
+    {
+      "name": "Mortgage Loans",
+      "type": "service",
+      "description": "Mortgage lending services provided to commercial and retail customers."
+    },
+    {
+      "name": "Consumer Loans",
+      "type": "service",
+      "description": "Retail consumer lending services offered at bank office locations."
+    },
+    {
+      "name": "Checking, Savings, and Time Deposits",
+      "type": "service",
+      "description": "Deposit account products offered to commercial and retail customers."
+    },
+    {
+      "name": "Insurance Products",
+      "type": "service",
+      "description": "Personal and small business insurance products offered through Mercantile Insurance Center via Hub International."
+    },
+    {
+      "name": "Community Development Tax Credit Investments",
+      "type": "service",
+      "description": "Investments in community development tax credits via subsidiary Mercantile Community Partners."
+    },
+    {
+      "name": "Online and Mobile Banking",
+      "type": "platform",
+      "description": "Customers can conduct loan and deposit transactions via personal computer and mobile applications."
+    },
+    {
+      "name": "Video Banking Machines",
+      "type": "hardware",
+      "description": "37 video banking machines located at office locations."
+    },
+    {
+      "name": "ATMs",
+      "type": "hardware",
+      "description": "16 automated teller machines participating in ACCEL/EXCHANGE and PLUS regional network systems."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Hub International",
+      "partnership_type": "strategic",
+      "description": "Agency and Institution Agreement to provide mass marketed personal lines insurance products through Hub International.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MBWM/profile",
+  "origin": {
+    "leaf": "e9dc0d9188cd7f01dde1bf92ed7d9ce727e0e2a27a1f9301779ead09ddd09cf9",
+    "parent": "d4fb4f66e5917c1049da079e95e554043b6f580dfbaf8201dca2fd8aba960a6b",
+    "timestamp": "2026-04-12T03:12:56.076Z",
+    "source": "profile:0001042729",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e9dc0d9188cd7f01dde1bf92ed7d9ce727e0e2a27a1f9301779ead09ddd09cf9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.076Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

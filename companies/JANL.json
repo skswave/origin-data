@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "JANL",
+  "name": "JANEL CORP",
+  "cik": "0001133062",
+  "exchange": "OTC",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "state_of_incorporation": "NV",
+  "headquarters": "New York, New York",
+  "founded": "2000",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0930",
+  "summary": "Janel Corporation is a Nevada-incorporated holding company headquartered in New York, NY, operating three segments: Logistics, Life Sciences, and Manufacturing. Its Logistics segment provides freight forwarding (air, ocean, land), customs brokerage, warehousing, and distribution. Life Sciences manufactures and distributes antibodies and research/diagnostic reagents. Manufacturing, via Indco, produces mixing equipment. Janel also holds approximately 46.6% of Rubicon Technology, an advanced materials provider specializing in monocrystalline sapphire.",
+  "tags": [
+    "cargo-transportation-and-logistics",
+    "life-sciences-and-biotechnology",
+    "industrial-manufacturing",
+    "academic-and-non-profit-research",
+    "advanced-materials-(rubicon-investment)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 353,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/JANL",
+  "origin": {
+    "leaf": "8f1af93dd52c819e79c92f0b94809c2035f43312c582dedb56882e94edc84703",
+    "parent": "37cb3d4dd01bb4a4836561b52c13a5f3911d53a5041bce0eaec321990e554c4b",
+    "timestamp": "2026-04-12T03:12:52.444Z",
+    "source": "0001140361-25-044581",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8f1af93dd52c819e79c92f0b94809c2035f43312c582dedb56882e94edc84703",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.444Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

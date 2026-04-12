@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "USAQ",
+  "name": "QHSLab, Inc.",
+  "cik": "0000856984",
+  "exchange": "OTC",
+  "sic": "3841",
+  "sic_description": "Surgical & Medical Instruments & Apparatus",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "QHSLab, Inc. is a digital health company enabling independent primary care practices to identify and manage behavioral health conditions through workflow-integrated digital screening and non-face-to-face follow-up care. Its QHSLab platform supports structured assessments, automated documentation, EHR integration, and care management. The company also offers AllergiEnd, an allergy diagnostics and treatment service line featuring FDA-cleared disposable skin test applicators and immunotherapy support for primary care settings.",
+  "tags": [
+    "digital-health-and-behavioral-health-screening",
+    "allergy-diagnostics-and-treatment",
+    "independent-primary-care-practices",
+    "population-health-management",
+    "non-face-to-face-and-care-management-services",
+    "ehr-integration",
+    "hipaa-compliance",
+    "fda-cleared-medical-device-standards"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/USAQ",
+  "origin": {
+    "leaf": "23de0dda15e7ad5325d382e1f2e4b4de13b888a8e6ba00ace16b54c78ed6e0ba",
+    "parent": "0fcad0f1e07c545c1cebdba4f9ddc0fc2e283f0077d668356d5be3ee046300e8",
+    "timestamp": "2026-04-12T03:12:53.209Z",
+    "source": "0001493152-26-013513",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/23de0dda15e7ad5325d382e1f2e4b4de13b888a8e6ba00ace16b54c78ed6e0ba",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.209Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

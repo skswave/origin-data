@@ -1,0 +1,81 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AIRT",
+  "name": "AIR T INC",
+  "cik": "0000353184",
+  "summary": "Air T, Inc. is a Delaware-incorporated holding company operating in four segments: Overnight Air Cargo (MAC, CSA, WASI providing FedEx feeder cargo services); Ground Support Equipment (GGS manufacturing aircraft deicers, lifts, tow tractors); Commercial Aircraft, Engines and Parts (Contrail, AirCo, Worthington, Jet Yard managing/leasing aviation assets, parts sales, disassembly); and Digital Solutions (Delphax, Shanwick, WACD providing digital aviation subscription services). FedEx contracts represent approximately 39% of consolidated revenue.",
+  "products": [
+    {
+      "name": "Aircraft Deicers",
+      "type": "hardware",
+      "description": "Mobile deicing equipment for airlines, airports, military and industrial customers manufactured by GGS in Olathe, Kansas"
+    },
+    {
+      "name": "Scissor-type Lifts",
+      "type": "hardware",
+      "description": "Specialized ground support equipment manufactured by GGS"
+    },
+    {
+      "name": "Flight-line Tow Tractors",
+      "type": "hardware",
+      "description": "Specialized ground support equipment for airline flight-line operations"
+    },
+    {
+      "name": "Glycol Recovery Vehicles",
+      "type": "hardware",
+      "description": "Specialized vehicles for glycol recovery at airports"
+    },
+    {
+      "name": "Decontamination Units",
+      "type": "hardware",
+      "description": "Military and civilian decontamination units manufactured by GGS"
+    },
+    {
+      "name": "Digital Aviation Services",
+      "type": "platform",
+      "description": "Recurring subscription-based digital aviation and business services provided to aviation industry customers"
+    },
+    {
+      "name": "Aircraft MRO Services",
+      "type": "service",
+      "description": "FAA/EASA Part 145 repair station services including inspections, structural repairs, engine service and avionics provided by WASI"
+    },
+    {
+      "name": "Commercial Aircraft Parts",
+      "type": "service",
+      "description": "Surplus and aftermarket commercial jet engine components, parts sales, disassembly/part-out and overhaul services"
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "FedEx",
+      "partnership_type": "strategic",
+      "description": "Dry-lease agreements with MAC and CSA spanning over 40 years for feeder cargo operations across eastern US, upper Midwest and Caribbean; expires August 31, 2026",
+      "start_date": null
+    },
+    {
+      "partner_name": "Cessna (Textron)",
+      "partnership_type": "OEM",
+      "description": "MAC operates Cessna Caravan 208B and SkyCourier 408 aircraft; MAC operated first commercial revenue-service flight for Cessna 408 SkyCourier in 2023",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AIRT/profile",
+  "origin": {
+    "leaf": "7fa615d875f5e6739113cc0a66b322f8867e2a901e9e6a350c5df811d8c83455",
+    "parent": "55c538bbbc6d8f992032a3593a2c9ff042b2db945d8b9399f63c7e1307867f35",
+    "timestamp": "2026-04-12T03:12:57.741Z",
+    "source": "profile:0000353184",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7fa615d875f5e6739113cc0a66b322f8867e2a901e9e6a350c5df811d8c83455",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.741Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

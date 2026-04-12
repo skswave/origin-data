@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PED",
+  "name": "PEDEVCO CORP",
+  "cik": "0001141197",
+  "exchange": "NYSE",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "TX",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PEDEVCO Corp. (PED) is an oil and natural gas company engaged in the acquisition, exploration, development, and production of oil and natural gas resources in the United States. The company focuses on conventional and unconventional resource plays, operating assets primarily in domestic basins. It generates revenue through the sale of crude oil, natural gas liquids (NGLs), and natural gas.",
+  "tags": [
+    "oil-and-natural-gas-exploration-and-production",
+    "domestic-u.s.-energy-market",
+    "2-d-seismic",
+    "3-d-seismic"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PED",
+  "origin": {
+    "leaf": "ca3604f328e880958e5382b46164178dcab5045096c3c59e5df0abf2f6ccd6b9",
+    "parent": "de487f3eaaf2de4c1c16bfb6d0de7a0423b39c0775fa8a4a9de5c63965ee9222",
+    "timestamp": "2026-04-12T03:12:51.875Z",
+    "source": "0001654954-26-003098",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ca3604f328e880958e5382b46164178dcab5045096c3c59e5df0abf2f6ccd6b9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.875Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ENFY",
+  "name": "Enlightify Inc.",
+  "cik": "0000857949",
+  "summary": "Enlightify Inc. (formerly China Green Agriculture Inc.) is a Nevada corporation engaged in research, development, production, and sale of fertilizers and agricultural products in China through subsidiaries Jinong and Gufeng, and VIE Yuxing. Products include humic acid-based compound fertilizers, blended fertilizers, organic compound fertilizers, slow-release fertilizers, and water-soluble fertilizers. Since March 2023, the company also mines Bitcoin in West Texas through subsidiary Antaeus Tech Inc. Fertilizer revenues were $65.4M (86.8% of total) for fiscal year ended June 30, 2025.",
+  "products": [
+    {
+      "name": "Humic Acid-Based Compound Fertilizer",
+      "type": "hardware",
+      "description": "Produced through Jinong; core fertilizer product line sold across China."
+    },
+    {
+      "name": "Compound Fertilizer",
+      "type": "hardware",
+      "description": "Produced through Gufeng; includes blended, organic compound, and slow-release varieties."
+    },
+    {
+      "name": "Blended Fertilizer",
+      "type": "hardware",
+      "description": "Produced through Gufeng for agricultural use in PRC markets."
+    },
+    {
+      "name": "Organic Compound Fertilizer",
+      "type": "hardware",
+      "description": "Produced through Gufeng; mixed organic-inorganic compound fertilizer for agriculture."
+    },
+    {
+      "name": "Slow-Release Fertilizer",
+      "type": "hardware",
+      "description": "Produced through Gufeng; designed for extended nutrient release in crops."
+    },
+    {
+      "name": "Highly Concentrated Water-Soluble Fertilizers",
+      "type": "hardware",
+      "description": "Produced through Gufeng for precision agricultural applications."
+    },
+    {
+      "name": "Mixed Organic-Inorganic Compound Fertilizer",
+      "type": "hardware",
+      "description": "Produced through Gufeng as part of diversified fertilizer product line."
+    },
+    {
+      "name": "Agricultural Products (Fruits, Vegetables, Flowers, Seedlings)",
+      "type": "hardware",
+      "description": "Produced through VIE Yuxing; includes top-grade fruits, vegetables, flowers, and colored seedlings."
+    },
+    {
+      "name": "Bitcoin Mining",
+      "type": "service",
+      "description": "Digital asset mining via Antaeus Tech Inc. using Bitmain Antminer S19 Pro machines in West Texas."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ENFY/profile",
+  "origin": {
+    "leaf": "e0347213b28c73dfd145a225958b7e547c600d081d1f0afa1df995f6475a29bd",
+    "parent": "2bfad29669ec0b4341993c3bfd7a163a3624f0faf4d1d362e90d1cb21bbad335",
+    "timestamp": "2026-04-12T03:12:58.990Z",
+    "source": "profile:0000857949",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e0347213b28c73dfd145a225958b7e547c600d081d1f0afa1df995f6475a29bd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.990Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

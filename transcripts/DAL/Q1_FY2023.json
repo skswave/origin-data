@@ -1,0 +1,405 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "DAL",
+  "company": "DELTA AIR LINES, INC.",
+  "title": "DAL Q1 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 14041,
+  "speakers": [
+    {
+      "name": "Glen William Hauenstein",
+      "title": "President, Delta Air   Lines, Inc.",
+      "firm": "Delta Air   Lines",
+      "speaker_type": "executive",
+      "mention_count": 26
+    },
+    {
+      "name": "Daniel C. Janki",
+      "title": "Executive Vice President & Chief Financial Officer, Delta Air Lines, Inc.",
+      "firm": "Delta Air Lines",
+      "speaker_type": "executive",
+      "mention_count": 12
+    },
+    {
+      "name": "Edward Herman Bastian",
+      "title": "Chief Executive Officer & Director, Delta Air Lines, Inc.",
+      "firm": "Delta Air Lines",
+      "speaker_type": "executive",
+      "mention_count": 9
+    },
+    {
+      "name": "David Vernon",
+      "title": "Analyst, Sanford C. Bernstein & Co.",
+      "firm": "Sanford C. Bernstein &",
+      "speaker_type": "analyst",
+      "mention_count": 6
+    },
+    {
+      "name": "Catherine O'Brien",
+      "title": "Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 6
+    },
+    {
+      "name": "Helane Becker",
+      "title": "Analyst, TD Cowen  Sheila Kahyaoglu  Analyst, Jefferies LLC",
+      "firm": "Jefferies",
+      "speaker_type": "analyst",
+      "mention_count": 6
+    },
+    {
+      "name": "Jamie N. Baker",
+      "title": "Analyst, JPMorgan Securities LLC",
+      "firm": "JPMorgan Securities",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Scott H. Group",
+      "title": "Analyst, Wolfe Research LLC",
+      "firm": "Wolfe Research",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Brandon R. Oglenski",
+      "title": "Analyst, Barclays Capital, Inc.",
+      "firm": "Barclays Capital",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Julie Stewart",
+      "title": "Vice President - Investor Relations, Delta Air Lines, Inc.",
+      "firm": "Delta Air Lines",
+      "speaker_type": "executive",
+      "mention_count": 4
+    },
+    {
+      "name": "Michael Linenberg",
+      "title": "Analyst, Deutsche Bank Securities, Inc.",
+      "firm": "Deutsche Bank Securities",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Savanthi Syth",
+      "title": "Analyst, Raymond James & Associates, Inc.",
+      "firm": "Raymond James & Associates",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Duane Pfennigwerth",
+      "title": "Analyst, Evercore ISI  Conor Cunningham Analyst, Melius Research LLC",
+      "firm": "Melius Research",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Andrew G. Didora",
+      "title": "Analyst, BofA   Securities, Inc.",
+      "firm": "BofA   Securities",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Peter W. Carter",
+      "title": "Executive Vice President - External Affairs, Delta Air Lines, Inc.",
+      "firm": "Delta Air Lines",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "Trebor Banstetter",
+      "title": "Managing Director - Enterprise & Leader Communications,   Delta Air  Lines, Inc.",
+      "firm": "Delta Air  Lines",
+      "speaker_type": "executive",
+      "mention_count": 3
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "DAL gross margin",
+      "predicate": "reported",
+      "object": "$10 percent",
+      "value": 10,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "DAL EPS",
+      "predicate": "reported",
+      "object": "$2",
+      "value": 2,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "guidance for revenue growth of 15% t o 20% year - over - year, earnings of  $5 to $6 per share, and free cash flow of over $2 billion",
+      "value": 2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "forecast operating profit of $2 billion",
+      "value": 2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "guidance for  operating margins of 10% to 12%, earnings of $5 to $6 per share and more than $2 billion",
+      "value": 2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "forecast,  we are forecasting to be already at $2 billion",
+      "value": 2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DAL",
+      "predicate": "guided",
+      "object": "guidance for $2 billion",
+      "value": 2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect to deliver significant earnings  improvement",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect to deliver the highest quarterly revenue in our history, a 15%  operati ng margin, and EPS of $2 to $2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect Jun e quarter revenue to be up 15% to 17% year - over - year on capacity that is 17% higher",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect our fuel price per gallon to be $2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect unit costs to be 1% to  3% higher than prior year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect to grow capacity 17%, approximately 2 points less than our  initial exp ectations, with a similar 2 - point impact expected on our unit costs",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect it to decline in the second half, resulting in a 5 - point year -  over - year progression in our unit costs from the beginning of the year to the en",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect the June quarter operating margin to b e 14%  to 16% and earnings to be between $2 and $2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expected from that perspective",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect th e second half of this year to bend the  trajectory on non - fuel CASM and start taking it down relative to prior year versus the continued upward ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a   complete or error - free statement or summary   of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DAL",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/DAL/transcripts",
+  "origin": {
+    "leaf": "7d51e1c1be8c5c61806353fd611cfac438042cc8f3294a2e2f5455af65edd823",
+    "parent": "026021abfc3f58b28af0c49b887dad1bb8ac0f1b18e022716a7532d48a513814d929d44cdd3a67afb90048334302576d",
+    "timestamp": "2026-04-12T03:13:00.678Z",
+    "source": "transcript:DAL_CORRECTED-TRANSCRIPT_-Delta-Air-Lines-Inc-DAL-US-Q1-2023-Earnings-Call-13-April-2023-10_00-AM-ET-1-vFinal.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7d51e1c1be8c5c61806353fd611cfac438042cc8f3294a2e2f5455af65edd823",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:00.678Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

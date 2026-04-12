@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "ET",
+  "name": "Energy Transfer LP",
+  "cik": "0001276187",
+  "exchange": "NYSE",
+  "sic": "4922",
+  "sic_description": "Natural Gas Transmission",
+  "state_of_incorporation": "OK",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Energy Transfer LP is a master limited partnership that owns and operates a diversified portfolio of midstream and transportation energy assets. The company provides natural gas transportation, storage, processing, and gathering services, as well as crude oil, NGL, and refined products transportation and terminalling. Key assets include interstate pipelines, fractionation facilities, and LNG operations across the United States.",
+  "tags": [
+    "natural-gas-midstream",
+    "ngl-transportation-and-fractionation",
+    "crude-oil-transportation",
+    "refined-products-transportation",
+    "lng-export",
+    "natural-gas-storage",
+    "compressed-natural-gas"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/ET",
+  "origin": {
+    "leaf": "e27a660bae14e835ca9521d418337097f29c5595813b7878c682c806b84d253e",
+    "parent": "a8caad3467f09f556cf783d7eca18974becaba25a9407243e27680eb9928e0c6",
+    "timestamp": "2026-04-12T03:12:50.332Z",
+    "source": "0001276187-26-000013",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e27a660bae14e835ca9521d418337097f29c5595813b7878c682c806b84d253e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.332Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

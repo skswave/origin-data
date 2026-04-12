@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "PLD",
+  "name": "Prologis, Inc.",
+  "cik": "0001045609",
+  "exchange": "NYSE",
+  "sic": "6798",
+  "sic_description": "Real Estate Investment Trusts",
+  "state_of_incorporation": "MD",
+  "headquarters": "San Francisco, California",
+  "founded": "1997",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Prologis, Inc. is a self-administered REIT and global leader in logistics real estate, operating approximately 1.3 billion square feet across 20 countries on four continents. The company owns, manages, and develops high-quality logistics facilities and data centers, offers energy solutions including over 1 gigawatt of solar generation and storage capacity, and manages co-investment ventures with institutional investors through its Strategic Capital segment.",
+  "tags": [
+    "logistics-real-estate",
+    "industrial-real-estate",
+    "data-centers",
+    "e-commerce-supply-chain",
+    "institutional-co-investment-ventures",
+    "energy-and-sustainability-solutions"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/PLD",
+  "origin": {
+    "leaf": "d5bab1246008aaad4e738147c30df8fd6e9f3d4d2f344e54575e900a1f4ca3b8",
+    "parent": "f03d7dcadafe2c8d181c7b818af44a402c284cc3292db9e2e3bdbcd5ad0c1015",
+    "timestamp": "2026-04-12T03:12:50.307Z",
+    "source": "0001193125-26-051453",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d5bab1246008aaad4e738147c30df8fd6e9f3d4d2f344e54575e900a1f4ca3b8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.307Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

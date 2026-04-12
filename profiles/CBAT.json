@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CBAT",
+  "name": "CBAK Energy Technology, Inc.",
+  "cik": "0001117171",
+  "summary": "CBAK Energy Technology, Inc. is a Nevada-incorporated holding company that conducts battery manufacturing operations through subsidiaries in China. Its principal subsidiaries include Dalian CBAK Power Battery Co., Ltd. (CBAK Power), Zhejiang Hitrans Lithium Battery Technology (Hitrans, 73.46% owned), and Nanjing BFD New Energy Technology Co., Ltd. The company produces lithium batteries, including NCM (nickel cobalt manganese) battery products, serving energy technology markets through its PRC-based operating entities.",
+  "products": [
+    {
+      "name": "NCM Lithium Batteries",
+      "type": "hardware",
+      "description": "Nickel cobalt manganese lithium batteries produced by PRC subsidiaries for energy technology applications."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CBAT/profile",
+  "origin": {
+    "leaf": "133ed3304a2d561e63ab2b7abe868c63a45cdb63ddb4cb8f855e006a64f38939",
+    "parent": "2774879c27981d23e23c97d2cd3645b071247eb7e020025766cbe379f16dd572",
+    "timestamp": "2026-04-12T03:12:57.583Z",
+    "source": "profile:0001117171",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/133ed3304a2d561e63ab2b7abe868c63a45cdb63ddb4cb8f855e006a64f38939",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.583Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

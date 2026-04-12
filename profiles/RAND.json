@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "RAND",
+  "name": "RAND CAPITAL CORP",
+  "cik": "0000081955",
+  "summary": "Rand Capital Corporation is an externally managed, closed-end, non-diversified business development company (BDC) regulated under the 1940 Act. Managed by Rand Capital Management, LLC (RCM), Rand invests primarily in higher-yielding debt instruments and equity securities of privately held, lower middle market companies with revenues greater than $10 million and EBITDA exceeding $1.5 million, providing growth capital, expansion capital, and ownership transition financing across a broad variety of industries.",
+  "products": [
+    {
+      "name": "Debt Investments",
+      "type": "service",
+      "description": "Higher-yielding debt instruments provided to lower middle market private companies for growth, expansion, or ownership transition."
+    },
+    {
+      "name": "Equity Investments",
+      "type": "service",
+      "description": "Minority equity and warrant positions taken alongside debt investments in portfolio companies."
+    },
+    {
+      "name": "Co-Investment Program",
+      "type": "service",
+      "description": "SEC-exemptive-relief-backed co-investment program allowing Rand to invest alongside RCM affiliates on same terms."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Rand Capital Management, LLC (RCM)",
+      "partnership_type": "strategic",
+      "description": "External investment adviser and administrator managing Rand's investment activities under the Investment Management Agreement and Administration Agreement.",
+      "start_date": null
+    },
+    {
+      "partner_name": "East Asset Management",
+      "partnership_type": "strategic",
+      "description": "Majority shareholder owning approximately 64% of Rand's common stock; invested $25 million in 2019 in exchange for ~8.3 million shares.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/RAND/profile",
+  "origin": {
+    "leaf": "0b93aacc8bf41fd14c076b5bf2a815c63c45ae8d2d5c03c5a38eb4059e908bb8",
+    "parent": "0a175829fcd56dc98b68adc73ecde5a93f7b53d98593a574160402c8bf10314a",
+    "timestamp": "2026-04-12T03:12:57.985Z",
+    "source": "profile:0000081955",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0b93aacc8bf41fd14c076b5bf2a815c63c45ae8d2d5c03c5a38eb4059e908bb8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.985Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NLST",
+  "name": "NETLIST INC",
+  "cik": "0001282631",
+  "summary": "Netlist Inc. (NLST) is a semiconductor company that designs and sells high-performance memory solutions and resells component memory products. The company also actively monetizes, licenses, and defends a patent portfolio related to memory technology. Key activities include litigation against Samsung Electronics and Micron Technology for alleged patent infringement, and maintaining strategic partnerships with SK hynix for memory products.",
+  "products": [
+    {
+      "name": "High-performance memory solutions",
+      "type": "hardware",
+      "description": "Proprietary memory products designed for high-performance computing applications."
+    },
+    {
+      "name": "Component memory products (resale)",
+      "type": "hardware",
+      "description": "Third-party memory chips and modules resold to customers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "SK hynix",
+      "partnership_type": "strategic",
+      "description": "Strategic partnership/agreement related to memory products, with goals to renew existing agreements.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NLST/profile",
+  "origin": {
+    "leaf": "56277294d4b43d39907228632d0f7daa1800c542b9f3e8ed6adec52bcf7b663e",
+    "parent": "6deb6f879326eeabf7da336aeb7ed62c038ca49560aa6bf9abefb46eb5616bb1",
+    "timestamp": "2026-04-12T03:12:56.371Z",
+    "source": "profile:0001282631",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/56277294d4b43d39907228632d0f7daa1800c542b9f3e8ed6adec52bcf7b663e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.371Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

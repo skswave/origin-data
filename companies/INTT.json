@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "INTT",
+  "name": "INTEST CORP",
+  "cik": "0001036262",
+  "exchange": "NYSE",
+  "sic": "3825",
+  "sic_description": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "InTest Corporation is a diversified test and measurement company providing thermal management products, electronic test equipment, and related services. The company serves multiple end markets including semiconductor automated test equipment (ATE), Auto/Electric Vehicle, Defense/Aerospace, Industrial, Life Sciences, and Safety/Security sectors. InTest pursues growth through its VISION 2030 Strategy, focusing on market diversification beyond the semiconductor ATE market and potential acquisitions.",
+  "tags": [
+    "semiconductor-ate",
+    "auto/electric-vehicle-(ev)",
+    "defense/aerospace",
+    "industrial",
+    "life-sciences",
+    "safety/security",
+    "international"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/INTT",
+  "origin": {
+    "leaf": "3fd8b565ad977b05086820d20673a2925ff6f221531b6b7467fa60421848707b",
+    "parent": "c204eb56e8db3baf11b170ddaa74b2a1c4f6852049e64f0b9286359c593fcead",
+    "timestamp": "2026-04-12T03:12:51.974Z",
+    "source": "0001036262-26-000012",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3fd8b565ad977b05086820d20673a2925ff6f221531b6b7467fa60421848707b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.974Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

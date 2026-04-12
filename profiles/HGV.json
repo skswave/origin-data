@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HGV",
+  "name": "Hilton Grand Vacations Inc.",
+  "cik": "0001674168",
+  "summary": "Hilton Grand Vacations Inc. (HGV) is a vacation ownership company operating under the Hilton brand. The company develops, markets, sells, and manages vacation ownership resorts and related products and services. HGV also provides financing to customers purchasing vacation ownership interests and manages a points-based exchange and rental program for its members.",
+  "products": [
+    {
+      "name": "Vacation Ownership Interests",
+      "type": "service",
+      "description": "Timeshare and vacation ownership products sold to consumers at HGV resort properties."
+    },
+    {
+      "name": "Vacation Club Membership",
+      "type": "platform",
+      "description": "Points-based membership program allowing members to exchange and use vacation ownership interests."
+    },
+    {
+      "name": "Owner Financing",
+      "type": "service",
+      "description": "Consumer financing provided to purchasers of vacation ownership interests."
+    },
+    {
+      "name": "Resort Management Services",
+      "type": "service",
+      "description": "Management and operation of vacation ownership resort properties on behalf of owners associations."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Hilton",
+      "partnership_type": "licensing",
+      "description": "HGV operates under the Hilton brand pursuant to a licensing arrangement.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HGV/profile",
+  "origin": {
+    "leaf": "64e3eafcd995ae9ba6f33336bb35392c5c0baae4296dcae79f1084df8c4ba348",
+    "parent": "e64e094f94fd79b990899541b3360c033d14d28597dc6a68a9a2d8dd3abc4cc1",
+    "timestamp": "2026-04-12T03:12:55.458Z",
+    "source": "profile:0001674168",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/64e3eafcd995ae9ba6f33336bb35392c5c0baae4296dcae79f1084df8c4ba348",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.458Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

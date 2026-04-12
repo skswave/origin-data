@@ -1,0 +1,40 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GAIN",
+  "name": "GLADSTONE INVESTMENT CORPORATION\\DE",
+  "cik": "0001321741",
+  "summary": "Gladstone Investment Corporation (GAIN) is a business development company (BDC) incorporated in Delaware that operates as a regulated investment company (RIC). It focuses on investing in businesses, with an investment adviser named Gladstone Management Corporation. The company provides capital to portfolio companies and manages a portfolio of investments, financing activities through borrowed money and other capital sources.",
+  "products": [
+    {
+      "name": "Business Development Company Investments",
+      "type": "service",
+      "description": "Investments in portfolio companies as a regulated BDC, providing capital and financing solutions."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Gladstone Management Corporation",
+      "partnership_type": "strategic",
+      "description": "Serves as the investment adviser to Gladstone Investment Corporation.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GAIN/profile",
+  "origin": {
+    "leaf": "075b8ad11589d4c95f26adebcdc5cf0b126ade773e264483376f0714c5920768",
+    "parent": "96aa3bbc37478327938e8662f8bdd18e59fd6e0e7a14d7efc4fbd5105868f9cb",
+    "timestamp": "2026-04-12T03:12:56.308Z",
+    "source": "profile:0001321741",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/075b8ad11589d4c95f26adebcdc5cf0b126ade773e264483376f0714c5920768",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.308Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

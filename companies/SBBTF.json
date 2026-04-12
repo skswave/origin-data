@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SBBTF",
+  "name": "Vend Marketplaces ASA/ADR",
+  "cik": "0001451561",
+  "exchange": "OTC",
+  "sic": "8880",
+  "sic_description": "American Depositary Receipts",
+  "state_of_incorporation": "C3",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1225",
+  "summary": null,
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SBBTF",
+  "origin": {
+    "leaf": "8d3f8df5ae7b44288037a35c0804082077ffa77a64075a8bf0bb28e036764ae1",
+    "parent": null,
+    "timestamp": "2026-04-12T03:12:54.503Z",
+    "source": null,
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8d3f8df5ae7b44288037a35c0804082077ffa77a64075a8bf0bb28e036764ae1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.503Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

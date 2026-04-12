@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MIGI",
+  "name": "Mawson Infrastructure Group Inc.",
+  "cik": "0001218683",
+  "exchange": "Nasdaq",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Mawson Infrastructure Group Inc. is a Delaware-incorporated company headquartered in the United States. Based on the provided Item 1 excerpt, the company operates as an infrastructure group; however, the specific business description detailing its products and services (such as Bitcoin mining or data center operations) is not fully included in the provided text excerpt.",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MIGI",
+  "origin": {
+    "leaf": "410a7b57b7b80ca3c6bddc2b47b9ed1757e5e627f3f9558ecb9778e1d6eb58ab",
+    "parent": "0a309d8ca39a2dcd58e8a76edb5ac685973b186a238285586e834032deb0f86d",
+    "timestamp": "2026-04-12T03:12:53.557Z",
+    "source": "0001213900-26-037417",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/410a7b57b7b80ca3c6bddc2b47b9ed1757e5e627f3f9558ecb9778e1d6eb58ab",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.557Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

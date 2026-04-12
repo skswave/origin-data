@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SLNG",
+  "name": "Stabilis Solutions, Inc.",
+  "cik": "0001043186",
+  "exchange": "Nasdaq",
+  "sic": "4924",
+  "sic_description": "Natural Gas Distribution",
+  "state_of_incorporation": "FL",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Stabilis Solutions, Inc. (SLNG) is an energy company focused on liquefied natural gas (LNG) solutions. The company provides LNG-related products and services, operating in the small-scale LNG market. Based on the 10-K filing's Item 1 reference, the company delivers LNG supply and distribution services, though specific product details are not elaborated in the provided excerpt.",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SLNG",
+  "origin": {
+    "leaf": "054065296218f035d30e8d38d6733255fea820652adf54351899fde98c3b4519",
+    "parent": "7fd9652415781dc3579a95be4e0b157325e9ee0f7f1d7eef9e3e8a22a53fba99",
+    "timestamp": "2026-04-12T03:12:52.287Z",
+    "source": "0001437749-26-007090",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/054065296218f035d30e8d38d6733255fea820652adf54351899fde98c3b4519",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.287Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

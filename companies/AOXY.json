@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AOXY",
+  "name": "ADVANCED OXYGEN TECHNOLOGIES INC",
+  "cik": "0000352991",
+  "exchange": "OTC",
+  "sic": "6500",
+  "sic_description": "Real Estate",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1981",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": "Advanced Oxygen Technologies, Inc. (AOXY) is a Delaware holding company with operations through two wholly owned subsidiaries: Anton Nielsen Vojens ApS (ANV), a Danish company that owns and leases commercial real estate in Vojens, Denmark to Circle K Denmark A/S (lease expires 2026), and Sharx Inc./Sharx DK ApS, which distributes Cleaver ApS products for the logistics and cargo industry across Europe, South America, and North America.",
+  "tags": [
+    "commercial-real-estate-leasing",
+    "logistics-and-cargo-industry-distribution"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AOXY",
+  "origin": {
+    "leaf": "da82e37bb40f7717f893f0baa15c296e5fa16cba722a3fb80073e1632757be48",
+    "parent": "402f0d4ccffabfe6d0b7bde2a4b35c403e3804eab4493d4259458c5d95a2132a",
+    "timestamp": "2026-04-12T03:12:53.741Z",
+    "source": "0001477932-25-006652",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/da82e37bb40f7717f893f0baa15c296e5fa16cba722a3fb80073e1632757be48",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.741Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "EFOI",
+  "name": "ENERGY FOCUS, INC/DE",
+  "cik": "0000924168",
+  "exchange": "Nasdaq",
+  "sic": "3640",
+  "sic_description": "Electric Lighting & Wiring Equipment",
+  "state_of_incorporation": "OH",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Energy Focus, Inc. designs, develops, manufactures, and sells energy-efficient LED lighting systems and controls for commercial and military maritime markets. Core products include LED lighting fixtures and lamps for navy/military applications, Energy Storage Systems (ESS), Uninterruptible Power Supply (UPS), tubular LED (TLED) products with battery backup units, and the RedCap product line. The company sells through direct sales, strategic partnerships, and channel partners including sales representatives, agents, and distributors.",
+  "tags": [
+    "military-maritime-market",
+    "commercial-led-lighting-market",
+    "u.s.-department-of-defense-(dod)-/-government-contracting",
+    "energy-storage-systems-market",
+    "led-lighting-technology",
+    "battery-backup-/-ups-systems"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/EFOI",
+  "origin": {
+    "leaf": "f4d5bdc723abe7c152b5a4b0c3a660002c4c446a4859ea91c56879850ff90147",
+    "parent": "7cdb2cb6755201674a95900871410fe333b5fb1ead41a51e1331f1fb99902181",
+    "timestamp": "2026-04-12T03:12:53.047Z",
+    "source": "0001628280-26-020697",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f4d5bdc723abe7c152b5a4b0c3a660002c4c446a4859ea91c56879850ff90147",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:53.047Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "EXC",
+  "name": "EXELON CORP",
+  "cik": "0001109357",
+  "summary": "PART I ITEM1. General Corporate Structure and Business and Other Information Exelon is a utility services holding company engaged in the energy transmission and distribution businesses through its subsidiaries, ComEd, PECO, BGE, Pepco, DPL, and ACE. Name of Registrant Business Service Territories Commonwealth Edison Company Purchase and regulated retail sale of electricity Northern Illinois, including the City of Chicago Transmission and distribution of electricity to retail customers PECO Energ...",
+  "live_api": "https://origin.rootz.global/api/company/EXC/profile",
+  "origin": {
+    "leaf": "4b2263e9d5701cbe0e95a10c91181aa2c066c77022ee06cc5577c3516fbe7e1f",
+    "parent": "5c2114cb679c2449b3472b6b511ad0b82fa0c5a0e264996b5307e041ba5930ba",
+    "timestamp": "2026-04-12T03:12:54.785Z",
+    "source": "profile:0001109357",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4b2263e9d5701cbe0e95a10c91181aa2c066c77022ee06cc5577c3516fbe7e1f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.785Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

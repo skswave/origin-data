@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "UONE",
+  "name": "URBAN ONE, INC.",
+  "cik": "0001041657",
+  "summary": "Urban One, Inc. is an urban-oriented, multi-media company primarily targeting African-American and urban consumers. It operates the largest radio broadcasting network targeting African-American listeners, with 76 broadcast stations in 13 markets. It also operates TV One and CLEO TV cable networks, Reach Media syndicated programming, and Interactive One digital platforms including iONE Digital, Bossip, HipHopWired, and MadameNoire.",
+  "products": [
+    {
+      "name": "Radio One",
+      "type": "service",
+      "description": "Core radio broadcasting franchise operating 76 stations including FM, AM, HD, and low power TV stations in 13 U.S. markets."
+    },
+    {
+      "name": "TV One",
+      "type": "platform",
+      "description": "Cable television network targeting African-American and urban viewers."
+    },
+    {
+      "name": "CLEO TV",
+      "type": "platform",
+      "description": "Cable television network targeting African-American and urban viewers, operated alongside TV One."
+    },
+    {
+      "name": "Reach Media",
+      "type": "service",
+      "description": "Syndicated programming assets including Rickey Smiley Morning Show, Get Up! Mornings with Erica Campbell, and DL Hughley Show."
+    },
+    {
+      "name": "Interactive One",
+      "type": "platform",
+      "description": "Digital platform serving African-American community via iONE Digital, Cassius, Bossip, HipHopWired, and MadameNoire."
+    },
+    {
+      "name": "One Solution",
+      "type": "service",
+      "description": "Advertising and marketing solution brand leveraging Urban One's multi-media national operations."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/UONE/profile",
+  "origin": {
+    "leaf": "db068a511bf15aaba4436e21b1057b0b042c3d0244b6834ad5f0a58734b646f3",
+    "parent": "432e73911e17461801f3fe18dd4101d9ac6eedf5e609b29ebe70171fe8f0c19f",
+    "timestamp": "2026-04-12T03:12:58.122Z",
+    "source": "profile:0001041657",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/db068a511bf15aaba4436e21b1057b0b042c3d0244b6834ad5f0a58734b646f3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.122Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

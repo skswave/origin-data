@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AXP",
+  "name": "AMERICAN EXPRESS CO",
+  "cik": "0000004962",
+  "exchange": "NYSE",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "state_of_incorporation": "NY",
+  "headquarters": "New York, NY",
+  "founded": "1850",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "American Express is a global payments and premium lifestyle company founded in 1850 and headquartered in New York. It operates card-issuing, merchant-acquiring, and card network businesses offering credit and charge cards, banking products, travel and dining services, and expense management solutions to consumers, small businesses, mid-sized companies, and large corporations worldwide. For 2025, worldwide billed business was $1,670 billion with 86.6 million proprietary cards-in-force.",
+  "tags": [
+    "consumer-payments",
+    "small-business-payments",
+    "mid-sized-company-commercial-payments",
+    "large-corporate-payments",
+    "merchant-acquiring-and-processing",
+    "travel-and-lifestyle-services",
+    "banking-and-lending",
+    "international-card-services",
+    "generative-artificial-intelligence-(ai)",
+    "agentic-commerce-integration"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AXP",
+  "origin": {
+    "leaf": "79635c460d42cd46561a057d6e7902cdfbe9444608d79f7e08c154323a937497",
+    "parent": "c60ca58aacf4204fb5464b32a4a881d21a0e38bfbb0f94f74165bfd305070c85",
+    "timestamp": "2026-04-12T03:12:50.290Z",
+    "source": "0000004962-26-000080",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/79635c460d42cd46561a057d6e7902cdfbe9444608d79f7e08c154323a937497",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.290Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

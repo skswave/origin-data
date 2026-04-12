@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "QUIK",
+  "name": "QUICKLOGIC Corp",
+  "cik": "0000882508",
+  "summary": "QuickLogic Corporation is a semiconductor company that develops low-power multi-core voice and sensor processing solutions, embedded FPGA (eFPGA) IP, and platforms for AI/ML at the edge. Its products include programmable FPGAs, eFPGA IP cores, and sensor processing solutions targeting IoT, defense, industrial, and consumer markets. The company also provides engineering services and contracts with the U.S. Government for defense-related applications.",
+  "products": [
+    {
+      "name": "eFPGA IP",
+      "type": "platform",
+      "description": "Embedded FPGA intellectual property cores for integration into customer SoC designs"
+    },
+    {
+      "name": "Sensor Processing Solutions",
+      "type": "hardware",
+      "description": "Low-power multi-core voice and sensor processing platforms for IoT and edge AI applications"
+    },
+    {
+      "name": "Radiation-tolerant FPGAs",
+      "type": "hardware",
+      "description": "FPGAs designed for defense and space applications requiring radiation tolerance"
+    },
+    {
+      "name": "Silicon Platforms",
+      "type": "hardware",
+      "description": "Programmable silicon platforms targeting AI/ML inference at the edge"
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "U.S. Government",
+      "partnership_type": "strategic",
+      "description": "Government contracts for defense-related semiconductor and platform development",
+      "start_date": null
+    },
+    {
+      "partner_name": "Third-party silicon IP and RTL providers",
+      "partnership_type": "development",
+      "description": "Partnerships for silicon IP, RTL, design, physical design, verification, and assembly",
+      "start_date": null
+    },
+    {
+      "partner_name": "Third-party manufacturers",
+      "partnership_type": "OEM",
+      "description": "Dependencies on third parties for fabrication, assembly, testing, and programming of products",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/QUIK/profile",
+  "origin": {
+    "leaf": "b163204047bd203b7cb9af947aff34b487db0f01574aba38119ffa39408793f0",
+    "parent": "3d72a181b5e03e6ff2b9774d54632eae265b17b0f72b1fc152c795adb930fa03",
+    "timestamp": "2026-04-12T03:12:57.123Z",
+    "source": "profile:0000882508",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b163204047bd203b7cb9af947aff34b487db0f01574aba38119ffa39408793f0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.123Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

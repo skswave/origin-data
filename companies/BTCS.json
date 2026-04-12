@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BTCS",
+  "name": "BTCS Inc.",
+  "cik": "0001436229",
+  "exchange": "Nasdaq",
+  "sic": "6199",
+  "sic_description": "Finance Services",
+  "state_of_incorporation": "NV",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "BTCS Inc. is a U.S.-based, Nasdaq-listed blockchain technology company focused on revenue generation through blockchain infrastructure and decentralized finance (DeFi) activities, primarily on the Ethereum network. The company operates three business lines: NodeOps (Ethereum validator node operations earning staking rewards), Builder+ (proprietary block building for transaction optimization), and Imperium (launched 2025, deploying digital assets into DeFi protocols as liquidity provider). BTCS uses an integrated capital strategy combining ATM equity offerings, convertible notes, and ETH-backed DeFi borrowing.",
+  "tags": [
+    "blockchain-infrastructure-services",
+    "decentralized-finance-(defi)",
+    "ethereum-ecosystem",
+    "digital-assets",
+    "proof-of-stake-network-validation",
+    "block-building-and-transaction-execution",
+    "proof-of-stake-(pos)-consensus-mechanism",
+    "proposer-builder-separation-(pbs)",
+    "smart-contracts",
+    "at-the-market-(atm)-equity-offerings"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BTCS",
+  "origin": {
+    "leaf": "4c668d80f92d819fc1ecaf43b6617b0c1ef6decd4418b183cad5cc82c01ceacd",
+    "parent": "8122d16612ec4cad46318f6f15c9be7cdf014dd5938a02f3b3828d3670209966",
+    "timestamp": "2026-04-12T03:12:52.383Z",
+    "source": "0001493152-26-012916",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4c668d80f92d819fc1ecaf43b6617b0c1ef6decd4418b183cad5cc82c01ceacd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.383Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

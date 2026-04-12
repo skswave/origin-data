@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MXC",
+  "name": "MEXCO ENERGY CORP",
+  "cik": "0000066418",
+  "exchange": "NYSE",
+  "sic": "1311",
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "state_of_incorporation": "CO",
+  "headquarters": null,
+  "founded": "1972",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "Mexco Energy Corporation is an independent oil and gas company incorporated in Colorado in 1972, engaged in acquisition, exploration, development, and production of crude oil, natural gas, condensate, and NGLs in the United States. Operations are primarily in West Texas and Southeastern New Mexico, with properties in 14 states. All oil and gas interests are operated by third parties. Total proved reserves at March 31, 2025 were approximately 1.401 MMBOE.",
+  "tags": [
+    "oil-and-gas-exploration-and-production",
+    "royalty-and-mineral-interest-acquisitions",
+    "west-texas-and-southeastern-new-mexico-energy-market",
+    "u.s.-onshore-oil-and-gas"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MXC",
+  "origin": {
+    "leaf": "53270e43bd5a76f76ae8df443051fc8e4e0cef8292404d690038f08a1fe1cbff",
+    "parent": "b5a15c42314767d9081dc88314516eb95aa61d7f8122493c3bce1736d15cbc8d",
+    "timestamp": "2026-04-12T03:12:52.871Z",
+    "source": "0001641172-25-016966",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/53270e43bd5a76f76ae8df443051fc8e4e0cef8292404d690038f08a1fe1cbff",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.871Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

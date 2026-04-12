@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "RDGL",
+  "name": "VIVOS INC",
+  "cik": "0001449349",
+  "exchange": "OTC",
+  "sic": "3841",
+  "sic_description": "Surgical & Medical Instruments & Apparatus",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Vivos Inc. (ticker: RDGL) is a radiation oncology medical device company developing yttrium-90 (Y-90) based precision radionuclide therapy devices. Its primary products are RadioGel for treating solid tumors in humans and IsoPet for treating solid tumors in animals. The company also sells PLGA-g-PEG polymers and PrecisionGel hydrogel platforms. It collaborates with national laboratories, universities, and private corporations, and has operations in the U.S. and India.",
+  "tags": [
+    "human-radiation-oncology",
+    "veterinary-oncology",
+    "radionuclide-therapy-devices",
+    "hydrogel-polymer-platforms"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/RDGL",
+  "origin": {
+    "leaf": "8d12f78d65c9f2383ac54c57a660bde6603089131a32d571bbf73a3033182453",
+    "parent": "fd0a7cceefd8933f10c49e0774bac263d38d9c9560c2d2c7f027e30fac72b2fa",
+    "timestamp": "2026-04-12T03:12:52.619Z",
+    "source": "0001493152-26-013701",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8d12f78d65c9f2383ac54c57a660bde6603089131a32d571bbf73a3033182453",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.619Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

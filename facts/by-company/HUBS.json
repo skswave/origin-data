@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "HUBS",
+  "total_facts": 6,
+  "by_type": {
+    "topic_mention": 6
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBS",
+      "predicate": "discussed_in_filing",
+      "object": "Artificial Intelligence",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBS",
+      "predicate": "discussed_in_filing",
+      "object": "Artificial Intelligence",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBS",
+      "predicate": "discussed_in_filing",
+      "object": "Artificial Intelligence",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.84,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBS",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBS",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HUBS",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HUBS/transcripts",
+  "origin": {
+    "leaf": "9b5d4ee870ea7666d111146662be0e0992312f1360d8b96fb0db5dfbdb9633cf",
+    "parent": "735b4f4631d22d1a911ad3968e96692600805fb9c505227daad35e2490e75dc0",
+    "timestamp": "2026-04-12T03:13:20.239Z",
+    "source": "facts:HUBS",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9b5d4ee870ea7666d111146662be0e0992312f1360d8b96fb0db5dfbdb9633cf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:13:20.239Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

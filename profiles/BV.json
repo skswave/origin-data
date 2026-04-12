@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BV",
+  "name": "BrightView Holdings, Inc.",
+  "cik": "0001734713",
+  "summary": "BrightView Holdings, Inc. is the largest provider of commercial landscaping services in the United States, with revenues approximately four times those of its next largest commercial competitor. Operating through two segments—Maintenance Services and Development Services—the company provides landscape maintenance, enhancements, tree care, and landscape development. It operates over 265 branches nationwide, serving commercial customers at national, regional, and local levels through a branch-based, route-driven service model.",
+  "products": [
+    {
+      "name": "Landscape Maintenance Services",
+      "type": "service",
+      "description": "Route-based, self-performed commercial landscape maintenance delivered through a national branch network."
+    },
+    {
+      "name": "Landscape Enhancement Services",
+      "type": "service",
+      "description": "Supplemental landscaping improvements and upgrades provided to commercial customers."
+    },
+    {
+      "name": "Tree Care Services",
+      "type": "service",
+      "description": "Professional tree care services offered as part of the commercial landscaping portfolio."
+    },
+    {
+      "name": "Landscape Development Services",
+      "type": "service",
+      "description": "Design, coordination, and installation of landscapes at corporate, athletic, and university complexes."
+    },
+    {
+      "name": "Snow Removal Services",
+      "type": "service",
+      "description": "Snow removal services whose results depend on level, timing, and location of snowfall."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Qualified service partner network",
+      "partnership_type": "strategic",
+      "description": "BrightView combines its branch network with a qualified service partner network to deliver local services.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BV/profile",
+  "origin": {
+    "leaf": "0fd4c4c989c4daddb532058c764d9630dcaca50d1ad05fa5fd04133c7b5a9a0f",
+    "parent": "86aea3326787710ca1f372bbcb6c3a033d150c91395a3e65c58157f47e9a2b0d",
+    "timestamp": "2026-04-12T03:12:55.954Z",
+    "source": "profile:0001734713",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0fd4c4c989c4daddb532058c764d9630dcaca50d1ad05fa5fd04133c7b5a9a0f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.954Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

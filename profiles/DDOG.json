@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DDOG",
+  "name": "Datadog, Inc.",
+  "cik": "0001561550",
+  "summary": "Datadog, Inc. is an AI-powered observability and security SaaS platform for cloud applications. Founded in 2010 and launching its first product in 2012, it offers infrastructure monitoring, application performance monitoring, log management, user experience monitoring, cloud security, service management, and software delivery tools. Used by organizations of all sizes across industries, the platform integrates data from a single agent and over 1,000 integrations to provide unified, real-time observability and security.",
+  "products": [
+    {
+      "name": "Infrastructure Monitoring",
+      "type": "platform",
+      "description": "Real-time monitoring of infrastructure components across cloud and hybrid environments, launched in 2012."
+    },
+    {
+      "name": "Application Performance Monitoring (APM)",
+      "type": "platform",
+      "description": "Monitors application performance and traces to identify bottlenecks and improve reliability."
+    },
+    {
+      "name": "Log Management",
+      "type": "platform",
+      "description": "Centralized log ingestion, processing, and analysis for troubleshooting and compliance."
+    },
+    {
+      "name": "User Experience Monitoring",
+      "type": "platform",
+      "description": "Monitors real user interactions and sessions to track application experience and behavior."
+    },
+    {
+      "name": "Cloud Security",
+      "type": "platform",
+      "description": "Secures cloud applications and infrastructure with integrated security signals and threat detection."
+    },
+    {
+      "name": "Service Management",
+      "type": "platform",
+      "description": "Manages services and workflows across development and operations teams."
+    },
+    {
+      "name": "OnCall",
+      "type": "service",
+      "description": "Creates on-call schedules and integrates real-time observability data into incident response plans; launched 2025."
+    },
+    {
+      "name": "Product Analytics",
+      "type": "software",
+      "description": "Provides quantitative insights into user experiences and behavior to improve business outcomes; launched 2025."
+    },
+    {
+      "name": "Bits AI SRE Agent",
+      "type": "software",
+      "description": "Autonomously investigates alerts, surfaces root causes, and drafts incident summaries; launched 2025."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DDOG/profile",
+  "origin": {
+    "leaf": "2154898729362d593a1f342f6b4c57f9041788f8730bb9179ed90a3add6602eb",
+    "parent": "5825a333fd2ff50721285c41a8deb994b87bb07f66633beef1a1d419ff9961d4",
+    "timestamp": "2026-04-12T03:12:54.800Z",
+    "source": "profile:0001561550",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2154898729362d593a1f342f6b4c57f9041788f8730bb9179ed90a3add6602eb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.800Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "WEX",
+  "name": "WEX Inc.",
+  "cik": "0001309108",
+  "exchange": "NYSE",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "PART I Company Overview WEX is a global commerce platform that provides seamlessly embedded, personalized payments solutions across three business segments: Mobility, Benefits, and Corporate Payments. Our purpose is to simplify the business of running a business. That purpose has become increasingly relevant as organizations face rising complexity driven by fragmented systems, manual workflows, increasing costs, and greater compliance demands. These challenges slow decision-making and introduce ...",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/WEX",
+  "origin": {
+    "leaf": "2904084e6a1e9a21565e8c90225a794d9a57a2995fa55c81072a5a533f630dc8",
+    "parent": "63480d4b5e3f12f4a21bfc8e1a49da50015c205f0a5e7bcb20709618097a5c2a",
+    "timestamp": "2026-04-12T03:12:50.623Z",
+    "source": "0001309108-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2904084e6a1e9a21565e8c90225a794d9a57a2995fa55c81072a5a533f630dc8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.623Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FCFS",
+  "name": "FirstCash Holdings, Inc.",
+  "cik": "0000840489",
+  "summary": "FirstCash Holdings, Inc. is the leading operator of pawn stores in the U.S., Latin America, and the U.K., operating over 3,300 pawnshops as of December 31, 2025. The Company provides non-recourse pawn loans collateralized by personal property such as jewelry, electronics, tools, and appliances, and sells pre-owned merchandise. It also operates AFF, a retail point-of-sale payment solutions business offering lease-to-own and retail financing products across a network of merchant partners.",
+  "products": [
+    {
+      "name": "Pawn Loans",
+      "type": "service",
+      "description": "Non-recourse short-term loans collateralized by personal property such as jewelry, electronics, tools, and appliances."
+    },
+    {
+      "name": "Pawn Merchandise Sales",
+      "type": "service",
+      "description": "Retail sales of pre-owned consumer products including jewelry, electronics, tools, appliances, sporting goods, and musical instruments."
+    },
+    {
+      "name": "Lease-to-Own (LTO) Products",
+      "type": "service",
+      "description": "LTO payment solutions offered through AFF to consumers via traditional and e-commerce merchant partners."
+    },
+    {
+      "name": "Retail Finance Payment Solutions",
+      "type": "platform",
+      "description": "Retail financing payment options facilitated by AFF across a large network of merchant partners for consumer goods and services."
+    },
+    {
+      "name": "Scrap Jewelry / Commodity Sales",
+      "type": "service",
+      "description": "Melting of scrap jewelry and sale of gold, silver, and diamonds in commodity markets."
+    },
+    {
+      "name": "Layaway Plans",
+      "type": "service",
+      "description": "Interest-free layaway plans allowing retail customers to purchase merchandise in installments at pawn store locations."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FCFS/profile",
+  "origin": {
+    "leaf": "c880410b9f864fcf10b9d2100dd91bb9177947e6a152ee56ec67290961856c0c",
+    "parent": "47b13b34dfca10ed2d5fda28c97218263120efc9e7827bdcdc6d73d16b9aaa2d",
+    "timestamp": "2026-04-12T03:12:55.097Z",
+    "source": "profile:0000840489",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c880410b9f864fcf10b9d2100dd91bb9177947e6a152ee56ec67290961856c0c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.097Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

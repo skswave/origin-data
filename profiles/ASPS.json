@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ASPS",
+  "name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+  "cik": "0001462418",
+  "summary": "Business Day (as defined below) or is received after 500 p.m., New York City time, on any given Business Day will be deemed received and exercised on the next succeeding Business Day. Record owners of Warrants may exercise Warrants through the process established by the Warrant Agent. Indirect, street name holders of Warrants should contact their broker, bank or other intermediary for information on how to exercise Warrants. Notwithstanding the forgoing, RSU Holders may only exercise their warra...",
+  "live_api": "https://origin.rootz.global/api/company/ASPS/profile",
+  "origin": {
+    "leaf": "faa25f16c799ed6d82a724cb9bde058825464d6a7095d884c8904e911b805976",
+    "parent": "23cb9972cb5163965ea3b9a68145cd12f49f9c6e9ac9d88b36d622db1566c9c1",
+    "timestamp": "2026-04-12T03:12:57.603Z",
+    "source": "profile:0001462418",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/faa25f16c799ed6d82a724cb9bde058825464d6a7095d884c8904e911b805976",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:57.603Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

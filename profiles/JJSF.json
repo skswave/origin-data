@@ -1,0 +1,152 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "JJSF",
+  "name": "J&J SNACK FOODS CORP",
+  "cik": "0000785956",
+  "summary": "J&J Snack Foods Corp. manufactures snack foods and distributes frozen beverages to the foodservice and retail supermarket industries. Key products include soft pretzels (SUPERPRETZEL, BRAUHAUS), frozen novelties (DIPPIN DOTS, LUIGIS, WHOLE FRUIT, ICEE), churros (HOLA!), bakery products (READI-BAKE, DADDY RAYS, HILL & VALLEY), and frozen beverages (ICEE, SLUSH PUPPIE, PARROT ICE). The company operates in three segments: Food Service, Retail Supermarkets, and Frozen Beverages, serving customers across the U.S., Mexico, and Canada.",
+  "products": [
+    {
+      "name": "SUPERPRETZEL / BRAUHAUS / FEDERAL PRETZEL / BAVARIAN BAKERY",
+      "type": "hardware",
+      "description": "Soft pretzel products sold in food service and retail supermarket channels, representing 18% of revenue in fiscal 2025."
+    },
+    {
+      "name": "DIPPIN DOTS / LUIGIS / WHOLE FRUIT / ICEE / DOGSTERS / PHILLY SWIRL / MINUTE MAID frozen novelties",
+      "type": "hardware",
+      "description": "Frozen novelty products sold in food service and retail supermarket segments, representing 16% of revenue in fiscal 2025."
+    },
+    {
+      "name": "HOLA! Churros",
+      "type": "hardware",
+      "description": "Frozen churros in various sizes and fillings sold to food service and retail supermarket segments, 6% of sales in fiscal 2025."
+    },
+    {
+      "name": "Handheld Products",
+      "type": "hardware",
+      "description": "Handheld food products sold primarily under private label to food service and retail supermarket segments, 7% of sales in fiscal 2025."
+    },
+    {
+      "name": "READI-BAKE / COUNTRY HOME / MARY B'S / DADDY RAYS / HILL & VALLEY Bakery Products",
+      "type": "hardware",
+      "description": "Bakery products including fig bars, cookies, breads, muffins, and donuts sold to food service segment, 27% of sales in fiscal 2025."
+    },
+    {
+      "name": "ICEE / SLUSH PUPPIE / PARROT ICE Frozen Beverages",
+      "type": "hardware",
+      "description": "Frozen carbonated and non-carbonated beverages sold in the U.S., Mexico, and Canada, representing 14% of revenue in fiscal 2025."
+    },
+    {
+      "name": "Equipment Repair and Maintenance Services",
+      "type": "service",
+      "description": "Repair and maintenance services for customer-owned frozen beverage dispensers; revenue totaled 9% of sales in fiscal 2025."
+    },
+    {
+      "name": "SUPERPRETZEL",
+      "type": "hardware",
+      "description": "Soft pretzel brand sold in food service and retail supermarket channels."
+    },
+    {
+      "name": "DIPPIN DOTS",
+      "type": "hardware",
+      "description": "Cryogenically frozen bead novelty product made using liquid nitrogen at -320°F."
+    },
+    {
+      "name": "LUIGIS Real Italian Ice",
+      "type": "hardware",
+      "description": "Frozen novelty juice cup product sold in food service and retail supermarket segments."
+    },
+    {
+      "name": "WHOLE FRUIT",
+      "type": "hardware",
+      "description": "Frozen fruit bars and sorbet sold in food service and retail supermarket segments."
+    },
+    {
+      "name": "ICEE",
+      "type": "hardware",
+      "description": "Frozen carbonated beverage brand sold in the U.S., Mexico, and Canada."
+    },
+    {
+      "name": "SLUSH PUPPIE",
+      "type": "hardware",
+      "description": "Frozen non-carbonated beverage sold through distributor and own distribution networks."
+    },
+    {
+      "name": "PARROT ICE",
+      "type": "hardware",
+      "description": "Frozen non-carbonated beverage brand sold in the U.S., Mexico, and Canada."
+    },
+    {
+      "name": "HOLA! Churros",
+      "type": "hardware",
+      "description": "Churros in stick form sold to food service and retail supermarket segments."
+    },
+    {
+      "name": "DADDY RAYS",
+      "type": "hardware",
+      "description": "Bakery product brand including fig and fruit bars sold to food service segment."
+    },
+    {
+      "name": "HILL & VALLEY",
+      "type": "hardware",
+      "description": "Bakery product brand sold to food service segment."
+    },
+    {
+      "name": "READI-BAKE",
+      "type": "hardware",
+      "description": "Bakery product brand including breads and rolls sold to food service segment."
+    },
+    {
+      "name": "DOGSTERS",
+      "type": "hardware",
+      "description": "Ice cream style treats for dogs sold in retail supermarket segment."
+    },
+    {
+      "name": "PHILLY SWIRL",
+      "type": "hardware",
+      "description": "Frozen novelty cups and sticks sold in food service and retail supermarket segments."
+    },
+    {
+      "name": "MINUTE MAID Frozen Novelties",
+      "type": "hardware",
+      "description": "Frozen juice bars and soft frozen lemonade sold under licensed Minute Maid brand."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Coca-Cola Company",
+      "partnership_type": "licensing",
+      "description": "J&J licenses the Minute Maid trademark from the Coca-Cola Company for use on frozen novelty products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ICEE",
+      "partnership_type": "licensing",
+      "description": "J&J markets frozen beverages and frozen novelties under the ICEE brand name.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Coca-Cola Company",
+      "partnership_type": "licensing",
+      "description": "MINUTE MAID is a registered trademark of the Coca-Cola Company, licensed for use on frozen novelty products.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/JJSF/profile",
+  "origin": {
+    "leaf": "4b8960365aa632901c6c108c882203599bac0b5bd678269bd51110091aa9ca4f",
+    "parent": "bce043c89b19461c05c2c4f0c9dcf3c023a0bc58c3e1d3999cf56401c011d182",
+    "timestamp": "2026-04-12T03:12:55.805Z",
+    "source": "profile:0000785956",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4b8960365aa632901c6c108c882203599bac0b5bd678269bd51110091aa9ca4f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.805Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

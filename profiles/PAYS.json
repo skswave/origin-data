@@ -1,0 +1,93 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PAYS",
+  "name": "Paysign, Inc.",
+  "cik": "0001496443",
+  "summary": "Paysign, Inc. is a vertically integrated provider of prepaid card products and processing services for corporate, consumer, and government entities, headquartered in Nevada and traded on Nasdaq as PAYS. The company manages all aspects of the prepaid card lifecycle and offers solutions including corporate incentives, healthcare reimbursement, pharmaceutical co-pay assistance, donor compensation, clinical trials, GPR cards, and prepaid gift cards. It also provides life science technology solutions for blood and plasma collection organizations under the Apherion brand.",
+  "products": [
+    {
+      "name": "Paysign Corporate Incentive Cards",
+      "type": "service",
+      "description": "Prepaid cards for rewarding employees, donors, patients, and distributors; supports consumer rebates, trade incentives, and loyalty rewards."
+    },
+    {
+      "name": "Paysign Healthcare Reimbursement Payments",
+      "type": "service",
+      "description": "Prepaid card solutions for clinical trials, pharmaceutical co-pay assistance, buy and bill, and patient affordability programs."
+    },
+    {
+      "name": "Paysign General Purpose Reloadable (GPR) Cards",
+      "type": "service",
+      "description": "Reloadable prepaid debit cards for consumers to pay bills, make purchases, and access cash at ATMs."
+    },
+    {
+      "name": "Paysign Prepaid Gift Cards",
+      "type": "service",
+      "description": "Open-loop prepaid gift card solutions with breakage revenue recognition; launched at end of 2022."
+    },
+    {
+      "name": "Paysign Donor Compensation Cards",
+      "type": "service",
+      "description": "Prepaid cards used to compensate plasma and blood donors, targeting plasma donation industry since 2011."
+    },
+    {
+      "name": "Apherion",
+      "type": "software",
+      "description": "Life science software solutions for blood and plasma collection organizations; revenue from licensing, hosting, and consulting fees."
+    },
+    {
+      "name": "Paysign Payment Solutions Platform",
+      "type": "platform",
+      "description": "High-availability fintech platform managing transaction processing, cardholder enrollment, value loading, account management, and analytics."
+    },
+    {
+      "name": "Demand Deposit Accounts",
+      "type": "service",
+      "description": "Demand deposit accounts accessible via debit card offered as part of the Paysign product suite."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Issuing bank partners",
+      "partnership_type": "strategic",
+      "description": "Paysign relies on bank issuer relationships to offer open-loop prepaid cards, as it does not hold its own banking license.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Visa",
+      "partnership_type": "strategic",
+      "description": "Paysign cards carry Visa, Interlink, and Plus acceptance marks enabling broad merchant acceptance.",
+      "start_date": null
+    },
+    {
+      "partner_name": "MasterCard",
+      "partnership_type": "strategic",
+      "description": "Paysign cards carry MasterCard, Maestro, and Cirrus acceptance marks for network-branded prepaid cards.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Discover",
+      "partnership_type": "strategic",
+      "description": "Paysign cards carry Discover and Pulse acceptance marks depending on the card program.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PAYS/profile",
+  "origin": {
+    "leaf": "6624607076493ab44a9d0616e3184cc7941c9b6e4390a0eae6294112ef26cbe9",
+    "parent": "9187bb80e692c024c4718fa02e68f73f2bdd7b48ee053a04e95744d355b8ed24",
+    "timestamp": "2026-04-12T03:12:56.673Z",
+    "source": "profile:0001496443",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6624607076493ab44a9d0616e3184cc7941c9b6e4390a0eae6294112ef26cbe9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.673Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

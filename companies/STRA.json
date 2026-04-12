@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "STRA",
+  "name": "Strategic Education, Inc.",
+  "cik": "0001013934",
+  "exchange": "Nasdaq",
+  "sic": "8200",
+  "sic_description": "Services-Educational Services",
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Strategic Education, Inc. (STRA) is a for-profit higher education company operating postsecondary educational institutions. The company offers undergraduate and graduate degree programs, primarily through online delivery, and operates in the United States as well as Australia and New Zealand. Its institutions serve students seeking career-focused education and are subject to Title IV federal financial aid programs under the Higher Education Act.",
+  "tags": [
+    "postsecondary-education---united-states",
+    "postsecondary-education---australia-and-new-zealand"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/STRA",
+  "origin": {
+    "leaf": "9862554beb48c367045e49cfe220cb006cdcfdade97b32b38fc99b8153808153",
+    "parent": "a2a755cab3522825e3a6804be8724a7bfc767197e72d72a3dd092ccdf2e716fd",
+    "timestamp": "2026-04-12T03:12:50.905Z",
+    "source": "0001013934-26-000006",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9862554beb48c367045e49cfe220cb006cdcfdade97b32b38fc99b8153808153",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.905Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

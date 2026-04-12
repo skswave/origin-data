@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FIS",
+  "name": "Fidelity National Information Services, Inc.",
+  "cik": "0001136893",
+  "summary": "Fidelity National Information Services, Inc. (FIS) is a financial technology company providing solutions to financial institutions, businesses, and developers. FIS offers core banking processing software, digital banking, fraud and risk management, card and retail payments, capital markets solutions, and wealth management technology. Headquartered in Jacksonville, Florida, FIS serves global financial institutions, regional and community banks, credit unions, commercial lenders, government institutions, and enterprises across two primary segments: Banking Solutions and Capital Market Solutions.",
+  "products": [
+    {
+      "name": "Core Processing Software",
+      "type": "software",
+      "description": "Deposit, lending, customer management and central management systems for financial institution clients."
+    },
+    {
+      "name": "Digital Banking (Mobile and Online)",
+      "type": "platform",
+      "description": "Retail and commercial applications enabling multi-channel, API-enabled embedded and multi-hosted banking solutions."
+    },
+    {
+      "name": "Fraud, Risk Management and Compliance",
+      "type": "software",
+      "description": "Decision solutions covering account lifecycle, KYC, fraud management, predictive analytics, and AI modeling."
+    },
+    {
+      "name": "Card and Retail Payments",
+      "type": "platform",
+      "description": "Technology solutions enabling issuance of VISA, MasterCard, or other network-branded credit and debit cards."
+    },
+    {
+      "name": "Capital Market Solutions",
+      "type": "platform",
+      "description": "Solutions serving capital markets clients including trading, risk, compliance, and investment management."
+    },
+    {
+      "name": "Wealth Management Solutions",
+      "type": "software",
+      "description": "Technology solutions supporting wealth management and investment advisory services."
+    },
+    {
+      "name": "Issuer Solutions Business",
+      "type": "service",
+      "description": "Issuer processing business acquired from Global Payments, funded through new debt and Worldpay minority interest sale."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "GTCR, LLC",
+      "partnership_type": "strategic",
+      "description": "Private equity buyer of 55% equity interest in Worldpay Merchant Solutions; FIS retained 45% non-controlling interest.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Global Payments Inc.",
+      "partnership_type": "strategic",
+      "description": "FIS agreed to acquire Issuer Solutions Business from Global Payments and sell remaining Worldpay equity interest to them.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Worldpay Holdco, LLC",
+      "partnership_type": "strategic",
+      "description": "Commercial agreements entered post-2024 Worldpay Sale to preserve client value propositions and reduce dis-synergies.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FIS/profile",
+  "origin": {
+    "leaf": "3e8f23bf1059f93201bce07649c29d01886a88b348bb0f43b09e682f25da7e10",
+    "parent": "5df1355fd1ccb85e740df49fb44a8ef6ff319e8352c005f8dd21c042934087fc",
+    "timestamp": "2026-04-12T03:12:54.873Z",
+    "source": "profile:0001136893",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3e8f23bf1059f93201bce07649c29d01886a88b348bb0f43b09e682f25da7e10",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.873Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

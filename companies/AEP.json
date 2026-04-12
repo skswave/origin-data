@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AEP",
+  "name": "AMERICAN ELECTRIC POWER CO INC",
+  "cik": "0000004904",
+  "exchange": "Nasdaq",
+  "sic": "4911",
+  "sic_description": "Electric Services",
+  "state_of_incorporation": "NY",
+  "headquarters": null,
+  "founded": "1906",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "American Electric Power Co Inc (AEP) is a public utility holding company incorporated in New York in 1906, providing electric generation, transmission, and distribution services across portions of Arkansas, Indiana, Kentucky, Louisiana, Michigan, Ohio, Oklahoma, Tennessee, Texas, Virginia, and West Virginia. AEP operates through subsidiaries serving approximately 5.1 million retail customers, supplying electricity to residential, commercial, and industrial customers including chemical manufacturing, petroleum, data centers, and cryptocurrency operations, while also selling wholesale power to utilities, cooperatives, and municipalities.",
+  "tags": [
+    "retail-electric-utility",
+    "wholesale-electric-power",
+    "electric-transmission",
+    "electric-distribution",
+    "vertically-integrated-utilities",
+    "chemical-manufacturing-customers",
+    "petroleum-and-coal-products-manufacturing-customers",
+    "data-centers-and-cryptocurrency-operations",
+    "oil-and-gas-extraction-customers",
+    "primary-metal-manufacturing-customers",
+    "pipeline-transportation-customers",
+    "coal-mining-customers",
+    "paper-manufacturing-customers",
+    "transportation-equipment-customers",
+    "food-manufacturing-customers",
+    "rural-electric-cooperatives",
+    "municipalities"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 17581,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AEP",
+  "origin": {
+    "leaf": "f88b7482a5f549f46391ac8e805d04836f1900a0baaed6bd75626e819995efde",
+    "parent": "17608aee419939fd96d57861a4e1e6517aa6d4fee7808467113847b8c818178a",
+    "timestamp": "2026-04-12T03:12:50.329Z",
+    "source": "0000004904-26-000013",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f88b7482a5f549f46391ac8e805d04836f1900a0baaed6bd75626e819995efde",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.329Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

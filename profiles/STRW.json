@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "STRW",
+  "name": "Strawberry Fields REIT, Inc.",
+  "cik": "0001782430",
+  "summary": "Strawberry Fields REIT, Inc. is a self-managed, self-administered real estate investment trust specializing in the acquisition, ownership, and triple-net leasing of skilled nursing facilities and other post-acute healthcare properties. As of December 31, 2025, its portfolio comprised 133 healthcare properties with 15,602 licensed beds across Arkansas, Illinois, Indiana, Kansas, Kentucky, Missouri, Ohio, Oklahoma, Tennessee, and Texas, generating approximately $142.7 million in aggregate annualized average base rent.",
+  "products": [
+    {
+      "name": "Triple-Net Leasing of Skilled Nursing Facilities",
+      "type": "service",
+      "description": "Long-term triple-net leases for skilled nursing facilities where tenants pay real estate taxes, insurance, and operating costs."
+    },
+    {
+      "name": "Triple-Net Leasing of Assisted Living Facilities",
+      "type": "service",
+      "description": "Long-term triple-net leases for assisted living facilities across multiple Midwest and Southern states."
+    },
+    {
+      "name": "Triple-Net Leasing of Long-Term Acute Care Hospitals",
+      "type": "service",
+      "description": "Long-term triple-net leases for long-term acute care hospital facilities."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Infinity Healthcare Management",
+      "partnership_type": "strategic",
+      "description": "Affiliated operator leasing 66 facilities representing 48.5% of annualized base rent; owned by CEO Moishe Gubin and director Michael Blisko.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/STRW/profile",
+  "origin": {
+    "leaf": "a81b7739f5f2d9442e60f7a0131b86f5ee5fb03e74b7bb502bc2ad8ee1f1edb2",
+    "parent": "c756d0a6769bbdce1be7df3dbc739b0e85bc03ebcbb65260924ac44a8625ec25",
+    "timestamp": "2026-04-12T03:12:56.211Z",
+    "source": "profile:0001782430",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a81b7739f5f2d9442e60f7a0131b86f5ee5fb03e74b7bb502bc2ad8ee1f1edb2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.211Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "REFR",
+  "name": "RESEARCH FRONTIERS INC",
+  "cik": "0000793524",
+  "exchange": "Nasdaq",
+  "sic": "6794",
+  "sic_description": "Patent Owners & Lessors",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Research Frontiers Inc (REFR) is a technology licensing company that develops and licenses its patented SPD-SmartGlass technology, which enables light control in windows, skylights, sunroofs, mirrors, and displays. The company does not manufacture products itself but licenses its suspended particle device (SPD) technology to manufacturers for use in automotive, architectural, aircraft, and marine applications.",
+  "tags": [
+    "automotive",
+    "architectural",
+    "aircraft",
+    "marine"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/REFR",
+  "origin": {
+    "leaf": "07c9fa5b52cfef0289482ef3259ac87418861da3bec2facfd9075bd4637634ef",
+    "parent": "0f3e26a76bb77d55061cc2f718c0fa3bcfc0d6a83a90ae8d04451df594c016a7",
+    "timestamp": "2026-04-12T03:12:52.699Z",
+    "source": "0001493152-26-008988",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/07c9fa5b52cfef0289482ef3259ac87418861da3bec2facfd9075bd4637634ef",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:52.699Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

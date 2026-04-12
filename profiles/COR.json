@@ -1,0 +1,85 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "COR",
+  "name": "Cencora, Inc.",
+  "cik": "0001140859",
+  "summary": "Cencora, Inc. is one of the largest global pharmaceutical sourcing and distribution services companies. It distributes brand-name, specialty, and generic pharmaceuticals, over-the-counter healthcare products, home healthcare supplies, and equipment to hospitals, retail pharmacies, medical clinics, long-term care facilities, physician practices, veterinarians, and others. It also provides data analytics, outcomes research, reimbursement consulting, pharmaceutical consulting, niche premium logistics, inventory management, pharmacy automation, pharmacy management, and packaging solutions to healthcare providers and manufacturers.",
+  "products": [
+    {
+      "name": "Brand-name pharmaceuticals distribution",
+      "type": "service",
+      "description": "Distribution of brand-name pharmaceutical products to a wide variety of healthcare providers in the U.S. and select global markets."
+    },
+    {
+      "name": "Specialty brand-name pharmaceuticals distribution",
+      "type": "service",
+      "description": "Distribution of specialty brand-name pharmaceuticals to healthcare providers including physician practices and medical clinics."
+    },
+    {
+      "name": "Generic pharmaceuticals distribution",
+      "type": "service",
+      "description": "Distribution of generic pharmaceuticals, which account for approximately 90% of prescription volume in the U.S."
+    },
+    {
+      "name": "Over-the-counter healthcare products",
+      "type": "service",
+      "description": "Distribution of OTC healthcare products to a broad range of healthcare providers."
+    },
+    {
+      "name": "Home healthcare supplies and equipment",
+      "type": "service",
+      "description": "Distribution of home healthcare supplies and equipment to healthcare providers."
+    },
+    {
+      "name": "Data analytics and outcomes research",
+      "type": "service",
+      "description": "Provides data analytics and outcomes research services to healthcare providers and pharmaceutical manufacturers."
+    },
+    {
+      "name": "Reimbursement and pharmaceutical consulting",
+      "type": "service",
+      "description": "Consulting services including regulatory affairs, development consulting, scientific affairs, pharmacovigilance, and quality management and compliance."
+    },
+    {
+      "name": "Niche premium logistics services",
+      "type": "service",
+      "description": "Specialized logistics services for pharmaceutical supply chain management."
+    },
+    {
+      "name": "Pharmacy automation and management",
+      "type": "service",
+      "description": "Pharmacy automation, pharmacy management, and packaging solutions for healthcare providers."
+    },
+    {
+      "name": "Inventory management",
+      "type": "service",
+      "description": "Inventory management solutions for healthcare providers and pharmaceutical manufacturers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "IQVIA",
+      "partnership_type": "strategic",
+      "description": "IQVIA cited as an independent third-party provider of pharmaceutical and healthcare industry information used for market estimates.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/COR/profile",
+  "origin": {
+    "leaf": "d6c7356c7a0ac80d099944d75652f3813367aca60639a8910af464f5ba409044",
+    "parent": "8831f748266e3dad9ea8e56edb1ce03cceda729afab2ab600fdb52363452df4d",
+    "timestamp": "2026-04-12T03:12:54.769Z",
+    "source": "profile:0001140859",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d6c7356c7a0ac80d099944d75652f3813367aca60639a8910af464f5ba409044",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.769Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

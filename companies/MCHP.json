@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MCHP",
+  "name": "MICROCHIP TECHNOLOGY INC",
+  "cik": "0000827054",
+  "exchange": "Nasdaq",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0331",
+  "summary": "Microchip Technology Incorporated designs, develops, manufactures, and sells semiconductor products including microcontrollers, mixed-signal, analog, and Flash-IP integrated circuits. The company serves original equipment manufacturers (OEMs) across various industries. It offers products such as EEPROM, EERAM, SRAM, FPGA, RF, and SiC-based solutions, supported by embedded solutions engineers (ESEs) and client engagement managers (CEMs).",
+  "tags": [
+    "original-equipment-manufacturers-(oems)",
+    "embedded-control-applications",
+    "semiconductor-industry",
+    "sofr-(secured-overnight-financing-rate)",
+    "euribor-(euro-interbank-offered-rate)",
+    "sonia-(sterling-overnight-index-average)",
+    "u.s.-gaap",
+    "chips-and-science-act-of-2022",
+    "export-administration-regulation-(ear)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MCHP",
+  "origin": {
+    "leaf": "11e85abcd68da98516cb520b4ab6f46009ba81680db7f9adbc59efffd0ef08df",
+    "parent": "5d0b184451d63a12e8468af888393fa8e5d831f6a452d12628f057fded6be612",
+    "timestamp": "2026-04-12T03:12:50.369Z",
+    "source": "0000827054-25-000077",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/11e85abcd68da98516cb520b4ab6f46009ba81680db7f9adbc59efffd0ef08df",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:50.369Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

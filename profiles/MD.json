@@ -1,0 +1,75 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MD",
+  "name": "Pediatrix Medical Group, Inc.",
+  "cik": "0000893949",
+  "summary": "Pediatrix Medical Group, Inc. is a leading provider of physician services specializing in newborn, maternal-fetal, and pediatric subspecialty care. Its national network of approximately 2,295 affiliated physicians operates in 37 states, staffing over 360 NICUs, approximately 60 PICUs, and over 50 hospitals. Services include neonatal care, maternal-fetal medicine, pediatric intensive care, pediatric hospitalist care, pediatric surgery, and newborn hearing screening at 340 hospitals, screening over 793,000 babies annually.",
+  "products": [
+    {
+      "name": "Neonatal Intensive Care (NICU) Staffing and Management",
+      "type": "service",
+      "description": "24/7 staffing and management of NICUs at over 360 hospitals in 32 states by affiliated neonatologists and nurse practitioners."
+    },
+    {
+      "name": "Maternal-Fetal Medicine",
+      "type": "service",
+      "description": "Inpatient and office-based clinical care for high-risk expectant mothers and their unborn babies by affiliated subspecialists."
+    },
+    {
+      "name": "Pediatric Intensive Care (PICU) Staffing",
+      "type": "service",
+      "description": "Staffing and management of PICUs at approximately 60 hospitals by affiliated pediatric intensivists."
+    },
+    {
+      "name": "Pediatric Hospitalist Services",
+      "type": "service",
+      "description": "Inpatient pediatric and newborn care in PICUs, well-born nurseries, and pediatric emergency rooms at over 50 hospitals."
+    },
+    {
+      "name": "Pediatric Surgery Services",
+      "type": "service",
+      "description": "Specialized surgical care for newborns to adolescents, including neonatal, trauma, oncology, and craniofacial surgery."
+    },
+    {
+      "name": "Newborn Hearing Screening Program",
+      "type": "service",
+      "description": "Screening for potential hearing loss at 340 hospitals; screened over 793,000 babies in 2025; launched in 1994."
+    },
+    {
+      "name": "Newborn Nursery Program",
+      "type": "service",
+      "description": "In-hospital nursery care and evaluation for healthy newborns during their hospital stay, provided by affiliated clinicians."
+    },
+    {
+      "name": "Clinical Research and Quality Initiatives",
+      "type": "service",
+      "description": "Physician-led clinical research, outcomes monitoring, and continuing medical education focused on women's and children's services."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Hospital clients (not-for-profit and for-profit)",
+      "partnership_type": "strategic",
+      "description": "Contracts with hospitals to staff and manage NICUs, PICUs, and other pediatric units across 37 states.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MD/profile",
+  "origin": {
+    "leaf": "2e8b027799eef7e2bad61d673d4e715975bdc316068dd386ac3813fbd611a3be",
+    "parent": "f3098ed544429af535d5a8a6628e3b33fdf3979d3e14c3ae1f64d1cbbc9a68d2",
+    "timestamp": "2026-04-12T03:12:55.715Z",
+    "source": "profile:0000893949",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2e8b027799eef7e2bad61d673d4e715975bdc316068dd386ac3813fbd611a3be",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.715Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CVV",
+  "name": "CVD EQUIPMENT CORP",
+  "cik": "0000766792",
+  "summary": "CVD Equipment Corporation designs, develops, and manufactures chemical vapor deposition (CVD), physical vapor transport (PVT), and thermal process equipment for aerospace, semiconductor, compound semiconductor, and battery energy storage markets. Products include CVI systems for ceramic matrix composites, PVT150/PVT200 silicon carbide crystal growth systems, and CVD systems for battery anode materials. Its SDC division manufactures ultra-high purity gas and chemical delivery control systems. The company serves commercial companies, universities, and research laboratories worldwide.",
+  "products": [
+    {
+      "name": "CVI Systems",
+      "type": "hardware",
+      "description": "Chemical vapor infiltration systems for manufacturing ceramic matrix composites for aerospace gas turbine jet engines."
+    },
+    {
+      "name": "PVT150 / PVT200",
+      "type": "hardware",
+      "description": "Physical vapor transport systems for silicon carbide and wide band gap crystal growth for power semiconductors."
+    },
+    {
+      "name": "CVD Systems",
+      "type": "hardware",
+      "description": "Chemical vapor deposition systems for developing and producing materials including battery anode materials and protective coatings."
+    },
+    {
+      "name": "EasyTube / FirstNano",
+      "type": "hardware",
+      "description": "CVD systems sold under branded product names to commercial companies, universities, and research laboratories worldwide."
+    },
+    {
+      "name": "SDC Gas Delivery Systems",
+      "type": "hardware",
+      "description": "Ultra-high purity gas and chemical delivery control systems manufactured by the Stainless Design Concepts division in Saugerties, NY."
+    },
+    {
+      "name": "Proprietary Real-Time Software",
+      "type": "software",
+      "description": "Real-time process control software enabling rapid configuration, optimization, and repeatable process control for CVD equipment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Atlas Copco Group",
+      "partnership_type": "strategic",
+      "description": "Definitive agreement signed March 2026 to sell CVD's SDC business division for approximately $16.9 million in cash.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Stony Brook University",
+      "partnership_type": "development",
+      "description": "Received order in October 2025 for two PVT150 systems for SBU's onsemi Silicon Carbide Crystal Growth Center.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CVV/profile",
+  "origin": {
+    "leaf": "910dd79791c1f1f39c015db88156e16dced1ed75e99f5e6b30b72d2588e66480",
+    "parent": "9224e250038d416f69de3f9a3b6e2be86dcae0ec47fdd3975577f93b7ec40b26",
+    "timestamp": "2026-04-12T03:12:58.086Z",
+    "source": "profile:0000766792",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/910dd79791c1f1f39c015db88156e16dced1ed75e99f5e6b30b72d2588e66480",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:58.086Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

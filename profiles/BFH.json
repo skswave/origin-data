@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BFH",
+  "name": "BREAD FINANCIAL HOLDINGS, INC.",
+  "cik": "0001101215",
+  "summary": "Business Day, an amount equal to the result of (a) $0.00, plus (b) the aggregate amount of all ClassA Incremental Principal Balances for all ClassA Incremental Fundings occurring after the Fourth Amendment and Restatement Date and on or prior to that Business Day, minus (c) the aggregate amount of principal payments made to ClassA Noteholders after the Fourth Amendment and Restatement Date and on or prior to such Business Day. As applied to any particular ClassA Note, the ClassA Principal Balanc...",
+  "live_api": "https://origin.rootz.global/api/company/BFH/profile",
+  "origin": {
+    "leaf": "f9b242d2556e0f4b049550e4e5ea3bdf1b0a9bba2cb6123253d37e1a4a823925",
+    "parent": "93d9aca80e90f11405abc9643a1f6570829078ef984e63545e60113385774663",
+    "timestamp": "2026-04-12T03:12:55.421Z",
+    "source": "profile:0001101215",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f9b242d2556e0f4b049550e4e5ea3bdf1b0a9bba2cb6123253d37e1a4a823925",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.421Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

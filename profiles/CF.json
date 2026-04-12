@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CF",
+  "name": "CF Industries Holdings, Inc.",
+  "cik": "0001324404",
+  "summary": "CF Industries Holdings, Inc. is a manufacturer and distributor of nitrogen-based fertilizers and other nitrogen products. The company operates through subsidiaries across the United States, Canada, United Kingdom, Trinidad and Tobago, Peru, and Barbados. Its operations include production and sale of nitrogen fertilizers, with strategic ventures including CF Industries Nitrogen, LLC, in which CF holds an 88.6% membership interest.",
+  "products": [
+    {
+      "name": "Nitrogen fertilizers",
+      "type": "hardware",
+      "description": "Nitrogen-based fertilizers produced and distributed through subsidiaries across multiple countries."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Blue Point Number One, LLC",
+      "partnership_type": "strategic",
+      "description": "CF holds 40% interest in this Delaware-based entity.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Point Lisas Nitrogen Limited",
+      "partnership_type": "strategic",
+      "description": "CF holds 50% interest in this Trinidad and Tobago-based entity.",
+      "start_date": null
+    },
+    {
+      "partner_name": "CF Industries Nitrogen, LLC",
+      "partnership_type": "strategic",
+      "description": "Strategic venture commenced February 2016; CF holds 88.6% membership interest.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CF/profile",
+  "origin": {
+    "leaf": "9dd1f057746271daca8d3294233e78a7c38a198738c05d33df05c01b56b4658f",
+    "parent": "8ec563989dae35bb53b428a05390f84331f2dbe0f3e3533e99bfd8a0f03e275d",
+    "timestamp": "2026-04-12T03:12:54.900Z",
+    "source": "profile:0001324404",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9dd1f057746271daca8d3294233e78a7c38a198738c05d33df05c01b56b4658f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:54.900Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

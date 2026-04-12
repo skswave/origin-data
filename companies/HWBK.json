@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HWBK",
+  "name": "HAWTHORN BANCSHARES, INC.",
+  "cik": "0000893847",
+  "exchange": "Nasdaq",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "MO",
+  "headquarters": "Jefferson City, Missouri",
+  "founded": "1932",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Hawthorn Bancshares, Inc. is a Missouri-based bank holding company and financial holding company that owns Hawthorn Bank, a full-service commercial bank with 18 banking offices. The Bank offers checking and savings accounts, certificates of deposit, internet banking, debit cards, commercial and industrial loans, real estate loans, installment loans, brokerage services, and safety deposit boxes. The Company also operates a Wealth Management segment providing financial planning, investment planning, and trust services.",
+  "tags": [
+    "commercial-banking",
+    "consumer-banking",
+    "wealth-management-and-trust-services",
+    "real-estate-lending"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 266,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HWBK",
+  "origin": {
+    "leaf": "d181fd64c78d12664edcade8b3665be197de030c2fb538f57c0b8924b8ec6b7c",
+    "parent": "7c800b08d1ca9fede8d37e9c55e970af5b958325a6c4c3888ffeb89bdb6b5445",
+    "timestamp": "2026-04-12T03:12:51.829Z",
+    "source": "0000893847-26-000037",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d181fd64c78d12664edcade8b3665be197de030c2fb538f57c0b8924b8ec6b7c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:51.829Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GME",
+  "name": "GameStop Corp.",
+  "cik": "0001326380",
+  "summary": "GameStop Corp. is a retailer offering games, collectibles, and entertainment products through physical stores and ecommerce platforms. As of January 31, 2026, it operated 2,206 stores across the United States, Australia, and Europe under the GameStop, EB Games, Micromania, and Zing Pop Culture brands. The company sells new and pre-owned hardware, accessories, software, and collectibles, while also pursuing a capital allocation strategy including investments in equity securities, fixed income, and Bitcoin.",
+  "products": [
+    {
+      "name": "Gaming Hardware & Accessories",
+      "type": "hardware",
+      "description": "New and pre-owned consoles including Nintendo Switch 2, Sony PlayStation 5, Microsoft Xbox Series X, plus controllers and peripherals."
+    },
+    {
+      "name": "Gaming Software",
+      "type": "software",
+      "description": "New and pre-owned gaming software, digital currency, downloadable content, and full-game downloads for current and prior generation consoles."
+    },
+    {
+      "name": "Collectibles",
+      "type": "service",
+      "description": "Apparel, toys, trading cards, gadgets, and authentication/grading submission services for trading cards."
+    },
+    {
+      "name": "Loyalty Program",
+      "type": "service",
+      "description": "Free and paid membership programs offering exclusive rewards and discounts across stores and ecommerce properties."
+    },
+    {
+      "name": "Trade-In Program",
+      "type": "service",
+      "description": "Customers trade in pre-owned gaming, mobility, and other products for cash or store credit."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Nintendo",
+      "partnership_type": "OEM",
+      "description": "One of GameStop's largest vendors, supplying new gaming products including Nintendo Switch 2.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Sony",
+      "partnership_type": "OEM",
+      "description": "Major vendor supplying PlayStation 5 hardware and related products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Pokemon",
+      "partnership_type": "OEM",
+      "description": "One of the largest vendors collectively accounting for a majority of new product purchases in fiscal 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GME/profile",
+  "origin": {
+    "leaf": "ac109943b2bff64559ab81f9b9bb814fca1095eb3356d68932bc40307949c8b3",
+    "parent": "b5e14b5a6ef26be8760b4ac3c97eab5a7198178e5c1f740b5c63562f7d96be4a",
+    "timestamp": "2026-04-12T03:12:55.038Z",
+    "source": "profile:0001326380",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ac109943b2bff64559ab81f9b9bb814fca1095eb3356d68932bc40307949c8b3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:55.038Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SABR",
+  "name": "Sabre Corp",
+  "cik": "0001597033",
+  "summary": "PART I Overview Sabre Corporation is a Delaware corporation formed in December 2006. On March30, 2007, Sabre Corporation acquired Sabre Holdings Corporation (Sabre Holdings). Sabre Holdings is the sole direct subsidiary of Sabre Corporation. SabreGLBL Inc. (Sabre GLBL) is the principal operating subsidiary and sole direct subsidiary of Sabre Holdings. SabreGLBL or its direct or indirect subsidiaries conduct all of our businesses. Our principal executive offices are located at 3150 Sabre Drive, S...",
+  "live_api": "https://origin.rootz.global/api/company/SABR/profile",
+  "origin": {
+    "leaf": "ca4bcb8128f4fcb2fbd68ff9ddc0e644ff5b70030243bc316fa768c18da07cc2",
+    "parent": "ff379ee167909253c7785405b4006c7a0fea5cd39c37f9cd4cb61d9f746be6bb",
+    "timestamp": "2026-04-12T03:12:56.297Z",
+    "source": "profile:0001597033",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ca4bcb8128f4fcb2fbd68ff9ddc0e644ff5b70030243bc316fa768c18da07cc2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T03:12:56.297Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}
