@@ -1,0 +1,603 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CAT",
+  "company": "CATERPILLAR INC",
+  "title": "CAT   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 9956,
+  "speakers": [
+    {
+      "name": "Joseph Creed",
+      "title": null,
+      "firm": null,
+      "speaker_type": "unknown",
+      "mention_count": 10
+    },
+    {
+      "name": "Alex",
+      "title": "Vice President of Investor Relations  Joseph Creed  Caterpillar Inc. ;   Chief Executive Officer  Andrew Bonfield  Caterpillar Inc. ;   Chief Financial Officer  PARTICIPANTS:  Mircea Dobre  Baird ; Analyst  Michael Feniger  Bank of America ; Analyst  David Raso  Evercore ISI ; Analyst  Tami Zakaria  JP Morgan ; Analyst  Cha d   Dillard  Bernstein ; Analyst  Jamie Cook  Trust Securities ; Analyst  Jerry Revich  Wells Fargo ; Analyst  Robert Wertheimer  Melius Research ; Analyst  Kristen Owen  Oppenheimer ; Analyst, Kapper  Caterpillar Inc.",
+      "firm": "Kapper  Caterpillar",
+      "speaker_type": "analyst",
+      "mention_count": 8
+    },
+    {
+      "name": "Alex Kapper",
+      "title": null,
+      "firm": null,
+      "speaker_type": "unknown",
+      "mention_count": 6
+    },
+    {
+      "name": "Andrew Bonfield",
+      "title": null,
+      "firm": null,
+      "speaker_type": "unknown",
+      "mention_count": 4
+    },
+    {
+      "name": "Joe Creed.  Joseph Creed",
+      "title": null,
+      "firm": null,
+      "speaker_type": "unknown",
+      "mention_count": 1
+    },
+    {
+      "name": "Bank of America.  Michael Feniger",
+      "title": null,
+      "firm": null,
+      "speaker_type": "unknown",
+      "mention_count": 1
+    },
+    {
+      "name": "It's mostly generators.  Operator",
+      "title": null,
+      "firm": null,
+      "speaker_type": "unknown",
+      "mention_count": 1
+    },
+    {
+      "name": "Earnings  Joseph Creed",
+      "title": null,
+      "firm": null,
+      "speaker_type": "unknown",
+      "mention_count": 1
+    },
+    {
+      "name": "Melius Research.  Robert Wertheimer",
+      "title": null,
+      "firm": null,
+      "speaker_type": "unknown",
+      "mention_count": 1
+    },
+    {
+      "name": "Owen with  Oppenheimer.  Kristen Owen",
+      "title": null,
+      "firm": null,
+      "speaker_type": "unknown",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAT",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAT",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 38,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAT",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 40,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAT gross margin",
+      "predicate": "reported",
+      "object": "$15.6 percent",
+      "value": 15.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAT gross margin",
+      "predicate": "reported",
+      "object": "$17.2 percent",
+      "value": 17.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAT gross margin",
+      "predicate": "reported",
+      "object": "$14.9 percent",
+      "value": 14.9,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAT gross margin",
+      "predicate": "reported",
+      "object": "$10.7 percent",
+      "value": 10.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAT gross margin",
+      "predicate": "reported",
+      "object": "$19.6 percent",
+      "value": 19.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAT free cash flow",
+      "predicate": "reported",
+      "object": "$3.7 billion",
+      "value": 3.7,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAT",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CAT",
+      "predicate": "guided",
+      "object": "expected to be around $3.5 billion",
+      "value": 3.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CAT",
+      "predicate": "guided",
+      "object": "expect to enter into a larger accelerated share repurchase compared to the $3  billion",
+      "value": 3,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CAT",
+      "predicate": "guided",
+      "object": "expected to be around $2.6 billion",
+      "value": 2.6,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CAT",
+      "predicate": "guided",
+      "object": "expect incremental tariff costs of around $800  million",
+      "value": 800,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CAT",
+      "predicate": "guided",
+      "object": "expectations for the year, we expect restructuring costs of  roughly $300 million",
+      "value": 300,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CAT",
+      "predicate": "guided",
+      "object": "expect a more typical  machine dealer inventory build this quarter, aligning with   the   seasonable pattern  which is the first quarter build in excess of $1 billion",
+      "value": 1,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we believe may have a material effect  on our busi ness on an ongoing basis is contained in our SEC filings",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expected and reflects higher  volumes in all three of our primary segments while price realization was about  neutral",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we anticipated due to stronger - than - expected volume growth in   Power &  Energy ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we anticipate full - year sales  and revenues to grow around the top of the 5% to 7% long - term compound annual  growth rate target",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "We anticipate positive momentum in China off of  low levels ,   with full - year growth in the above 10 - ton excavator industry",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expect rebuild  activity to increase slightly compared to last year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "We anticipate growth in   Power Generation   for both CAT  reciprocating engines and   S olar   turbines driven by increasing energy demand to  support data center",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expect to deliver the generators  starting in late 2026 through 2027",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expect another year of strong turbine sales ,   comparable to our record  2025 performance",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we anticipate full year growth in rail services and locomotive  deliveries",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expect to enter into a larger accelerated share repurchase compared to the $3  billion ASR we execut ed in early 2025",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expect favorable price realization to account for a roughly 2%  increase in sales for the full year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we anticipate the lowest sales of the year to occur in the first quarter ,   which aligns  with   our   normal seasonable pattern",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expect to be in the top half of the  target range at our anticipated sales level, supported by favorable price realization  and volume",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we anticipate the attributable profit pull -  through or incremental margin to reflect our recent operational performance ,  which has been impacted by tariffs in ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expect margin to be near the bottom of the  target range",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "We expect incremental tariff costs of around $800  million in the first quarter   [ of 202 6 ] , a level similar to the fourth quarter of  2025 (company clarif",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expect restructuring costs of  roughly $300 million to $350 million",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expect stronger sales and revenues  versus the prior year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "We anticipate stronger volume including sales to users  growth and a   tailwind from machine dealer inventories",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "We expect a more typical  machine dealer inventory build this quarter, aligning with   the   seasonable pattern  which is the first quarter build in excess of ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we anticipate strong sales  growth with the increase versus the prior year driven by volume and favorable  price realization",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "We expect continued sales to users growth with our confidence  supported by the stro ng order rates and backlog",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we anticipate a  sizable benefit from changes in dealer inventories ,   given a more typical seasonable  build in the fir st quarter",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we anticipate strong sales growth  versus the prior year driven by volume ,   including healthy sales to users growth and  a favorable impact from changes in deale",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we anticipate favorability as we move through the year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we anticipate sales growth versus the prior year, driven by  strength in   Power Generation   and   Oil & Gas ,   along with favorable price realization",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expect first quarter sales in   Power & Energy   will be the segment's  lowest of the year and sequentially lower than the fourth quarter of 2025",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expect a higher adjusted operating profit margin  percentage year - over - year, supported by strong volume and price realization ,  p artially offset by hi",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expect   propor tionally   higher sales of  original equipment compared to the prior year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we anticipate a higher margin percentage compared to the  prior year, driven by favorable volume and price realization, partially offset by  higher manufacturing c",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we anticipate around  50% of the incremental tariff costs will be in Construction Industries , 20%   in  Resource Industries ,   and 30% in   Power & Energy ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we anticipate sales growth across all  three primary segments driven by stronger volume and price",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAT",
+      "predicate": "stated",
+      "object": "we expect\n\nCaterpillar Inc",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CAT/transcripts",
+  "origin": {
+    "leaf": "ab6efa21b377a23ffdb1a63b4a4286109570df2b5f705334edde601f9c9625fa",
+    "parent": "7661732461a603bae919d9e036404f0f39e7440f6f01b2124d0094a1c9200a096ce383e38f4159ef1a02eeeedb84d7a6",
+    "timestamp": "2026-04-12T02:43:08.476Z",
+    "source": "transcript:CAT_4Q-2025-Caterpillar-Inc-Earnings-Conference-Call_Transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ab6efa21b377a23ffdb1a63b4a4286109570df2b5f705334edde601f9c9625fa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.476Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

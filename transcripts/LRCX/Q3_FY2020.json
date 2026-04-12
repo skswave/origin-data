@@ -1,0 +1,152 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "LRCX",
+  "company": "LAM RESEARCH CORP",
+  "title": "LRCX Q3 FY2020 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2020",
+  "call_date": null,
+  "word_count": 3028,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX total revenue",
+      "predicate": "reported",
+      "object": "$2.50 billion",
+      "value": 2.5,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX total revenue",
+      "predicate": "reported",
+      "object": "$2,584 million",
+      "value": 2584,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX gross margin",
+      "predicate": "reported",
+      "object": "$46.6 percent",
+      "value": 46.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX gross margin",
+      "predicate": "reported",
+      "object": "$46.3 percent",
+      "value": 46.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX EPS",
+      "predicate": "reported",
+      "object": "$3.88.",
+      "value": 3.88,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX EPS",
+      "predicate": "reported",
+      "object": "$3.98.",
+      "value": 3.98,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "LRCX",
+      "predicate": "stated",
+      "object": "We believe in the long - term resiliency of the semiconductor industry and are focused on providing innovat ive technology to our  customers and positioning Lam",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/LRCX/transcripts",
+  "origin": {
+    "leaf": "f5e656e05224aae36680c9460166d2b83e259ac757ee7dfbb1f79791b9081caf",
+    "parent": "a1c835202b401b3c6f10b033acd1be47d3673e8cdc1c38b324f7fb9fd92db0be33565d49f390e03148d62299d0b49d56",
+    "timestamp": "2026-04-12T02:43:08.752Z",
+    "source": "transcript:LRCX_LRCX_Exhibit_99.1_Q3_2020.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f5e656e05224aae36680c9460166d2b83e259ac757ee7dfbb1f79791b9081caf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.752Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "BIIB",
+  "total_facts": 3,
+  "by_type": {
+    "topic_mention": 3
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BIIB",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BIIB",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BIIB",
+      "predicate": "discussed_in_filing",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "sovereign",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BIIB/transcripts",
+  "origin": {
+    "leaf": "6ee812c45b2ed32fe34f5c6e267ff5f2641c627e85dc6d9d66f65e38f1f22a9a",
+    "parent": "68dc656a18203f73fbd893b7bfe5b7df72f1dc1233d9f4daece137936d4401ed",
+    "timestamp": "2026-04-12T02:43:11.257Z",
+    "source": "facts:BIIB",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6ee812c45b2ed32fe34f5c6e267ff5f2641c627e85dc6d9d66f65e38f1f22a9a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:11.257Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

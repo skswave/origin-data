@@ -1,0 +1,80 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BKNG",
+  "name": "Booking Holdings Inc.",
+  "cik": "0001075531",
+  "summary": "Booking Holdings Inc. is a global online travel company operating five primary brands: Booking.com, Priceline, Agoda, KAYAK, and OpenTable. It provides accommodation, flight, rental car, attraction, and restaurant reservation services. For fiscal year 2025, revenues were $26.9 billion, derived from merchant transactions, agency commissions, and advertising. Booking.com alone offers approximately 4.4 million properties across 220+ countries in 40+ languages.",
+  "products": [
+    {
+      "name": "Booking.com",
+      "type": "platform",
+      "description": "World's leading online accommodation reservation platform offering hotels, homes, flights, and activities in 220+ countries."
+    },
+    {
+      "name": "Priceline",
+      "type": "platform",
+      "description": "Discount travel reservation service primarily in North America offering accommodations, flights, rental cars, and vacation packages."
+    },
+    {
+      "name": "Agoda",
+      "type": "platform",
+      "description": "Online accommodation and travel reservation service catering primarily to Asia-Pacific consumers, also offering flights and attractions."
+    },
+    {
+      "name": "KAYAK",
+      "type": "platform",
+      "description": "Online meta-search service allowing consumers to compare travel itineraries and prices across hundreds of platforms in 60+ countries."
+    },
+    {
+      "name": "OpenTable",
+      "type": "platform",
+      "description": "Online restaurant reservation and management service primarily in the United States."
+    },
+    {
+      "name": "Connected Trip",
+      "type": "platform",
+      "description": "AI-powered integrated travel planning, booking, payment, and in-trip experience vision across Booking Holdings brands."
+    },
+    {
+      "name": "Smart Messenger",
+      "type": "service",
+      "description": "Gen AI-powered tool enabling partners to engage with guests more efficiently."
+    },
+    {
+      "name": "Auto-Reply",
+      "type": "service",
+      "description": "Gen AI-powered tool for partners to automate guest communications."
+    },
+    {
+      "name": "Genius Loyalty Program",
+      "type": "service",
+      "description": "Booking.com loyalty program expanded across verticals to provide personalized consumer experiences and incremental partner value."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Leading Gen AI organizations",
+      "partnership_type": "strategic",
+      "description": "Booking Holdings partnered with leading generative AI organizations to advance AI capabilities across consumer and partner offerings.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BKNG/profile",
+  "origin": {
+    "leaf": "91b061523f3bd13ee3f1e575c7ab67c75bac48fd168970cf0bd148288f4d2ba6",
+    "parent": "37b5f09d1242bcdd57f593c4da3cf0893d678a8d3eae561b1683b00e438a9796",
+    "timestamp": "2026-04-12T02:42:23.029Z",
+    "source": "profile:0001075531",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/91b061523f3bd13ee3f1e575c7ab67c75bac48fd168970cf0bd148288f4d2ba6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.029Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

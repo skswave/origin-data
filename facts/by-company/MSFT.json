@@ -1,0 +1,125 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "MSFT",
+  "total_facts": 8,
+  "by_type": {
+    "topic_mention": 6,
+    "metric": 2
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "MSFT",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MSFT EPS",
+      "predicate": "reported",
+      "object": "$7.6",
+      "value": 7.6,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MSFT EPS",
+      "predicate": "reported",
+      "object": "$939",
+      "value": 939,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MSFT",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MSFT",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MSFT",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cloud",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MSFT",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MSFT",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gaming",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MSFT/transcripts",
+  "origin": {
+    "leaf": "532104fcf365ee01b10881a9deab53050217b26d52a6f3b91fd60cb0dd68c60d",
+    "parent": "e00c97f6e6acc8b63f3bbada7a3bd606628d4312e88a878d443a33558b6abe88",
+    "timestamp": "2026-04-12T02:43:09.441Z",
+    "source": "facts:MSFT",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/532104fcf365ee01b10881a9deab53050217b26d52a6f3b91fd60cb0dd68c60d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:09.441Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

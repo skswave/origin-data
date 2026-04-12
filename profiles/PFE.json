@@ -1,0 +1,137 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PFE",
+  "name": "PFIZER INC",
+  "cik": "0000078003",
+  "summary": "Pfizer Inc. is a global biopharmaceutical company that discovers, develops, manufactures, and commercializes medicines and vaccines. Key products include Comirnaty (COVID-19 vaccine), Paxlovid (COVID-19 oral treatment), Prevnar family (pneumococcal vaccines), Vyndaqel family (transthyretin amyloid cardiomyopathy), and oncology products including antibody-drug conjugates acquired through Seagen. Pfizer operates across developed and emerging markets worldwide, with commercial operations spanning internal and alliance-based product portfolios.",
+  "products": [
+    {
+      "name": "Comirnaty",
+      "type": "service",
+      "description": "mRNA COVID-19 vaccine, first authorized in the U.S. in December 2020 under EUA."
+    },
+    {
+      "name": "Paxlovid",
+      "type": "service",
+      "description": "Oral COVID-19 treatment (nirmatrelvir/ritonavir tablets) authorized under EUA for high-risk patients."
+    },
+    {
+      "name": "Prevnar family",
+      "type": "service",
+      "description": "Pneumococcal vaccines including Prevnar 20/Prevenar 20 and Prevnar 13/Prevenar 13 for pediatric and adult use."
+    },
+    {
+      "name": "Vyndaqel family",
+      "type": "service",
+      "description": "Includes Vyndaqel, Vyndamax, and Vynmac for treatment of transthyretin amyloid cardiomyopathy (ATTR-CM)."
+    },
+    {
+      "name": "Lipitor",
+      "type": "service",
+      "description": "Globally recognized branded cholesterol medication, formerly part of the Upjohn Business."
+    },
+    {
+      "name": "Antibody-Drug Conjugates (ADC)",
+      "type": "platform",
+      "description": "Oncology platform acquired through Seagen Inc., targeting cancer treatment."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "BioNTech",
+      "partnership_type": "development",
+      "description": "Collaboration related to Comirnaty mRNA COVID-19 vaccine development and commercialization.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Astellas",
+      "partnership_type": "strategic",
+      "description": "Alliance agreement for co-promotion of products.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Arvinas",
+      "partnership_type": "development",
+      "description": "Collaboration partnership referenced in alliance agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Genmab",
+      "partnership_type": "development",
+      "description": "Collaboration partnership referenced in alliance agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "ViiV Healthcare",
+      "partnership_type": "strategic",
+      "description": "Alliance partnership referenced in Pfizer's collaboration agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Abingworth",
+      "partnership_type": "strategic",
+      "description": "Partnership referenced in Pfizer's collaboration and business activities.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Blackstone Life Sciences",
+      "partnership_type": "strategic",
+      "description": "Partnership referenced in Pfizer's collaboration agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Pierre Fabre",
+      "partnership_type": "strategic",
+      "description": "Collaboration referenced in Pfizer's alliance and co-promotion agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Metsera",
+      "partnership_type": "development",
+      "description": "Partnership referenced in Pfizer's collaboration agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Nimbus Therapeutics",
+      "partnership_type": "development",
+      "description": "Collaboration partnership referenced in Pfizer's alliance agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "3SBio",
+      "partnership_type": "strategic",
+      "description": "Partnership with 3SBio Inc. and subsidiaries referenced in Pfizer's collaboration agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ono Pharmaceutical",
+      "partnership_type": "strategic",
+      "description": "Alliance partnership referenced in Pfizer's collaboration agreements.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Takeda",
+      "partnership_type": "strategic",
+      "description": "Collaboration referenced in Pfizer's alliance agreements.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PFE/profile",
+  "origin": {
+    "leaf": "1f1c200fb78c3543115dd1ce3d37fe6449c141c34004a3130cfd60475b54d7e9",
+    "parent": "25d91c33a84ac879063a15213ae9a3e78a10c9bfbb008818aff1cfcf968cc154",
+    "timestamp": "2026-04-12T02:42:22.994Z",
+    "source": "profile:0000078003",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1f1c200fb78c3543115dd1ce3d37fe6449c141c34004a3130cfd60475b54d7e9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.994Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

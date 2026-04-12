@@ -1,0 +1,475 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "F",
+  "company": "FORD MOTOR CO",
+  "title": "F Q1 FY2022 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2022",
+  "call_date": null,
+  "word_count": 12214,
+  "speakers": [
+    {
+      "name": "James D. Farley",
+      "title": "President, Chief Executive Officer & Director, Ford Motor Co.",
+      "firm": "Chief Executive Officer & Director",
+      "speaker_type": "executive",
+      "mention_count": 21
+    },
+    {
+      "name": "John T. Lawler",
+      "title": "Chief Financial Officer, Ford Motor Co.",
+      "firm": "Ford Motor",
+      "speaker_type": "executive",
+      "mention_count": 16
+    },
+    {
+      "name": "John Murphy",
+      "title": "Analyst, BofA Securities, Inc.",
+      "firm": "BofA Securities",
+      "speaker_type": "analyst",
+      "mention_count": 8
+    },
+    {
+      "name": "Joseph Spak",
+      "title": "Analyst, RBC Capital Markets LLC",
+      "firm": "RBC Capital Markets",
+      "speaker_type": "analyst",
+      "mention_count": 8
+    },
+    {
+      "name": "Hau Thai - Tang",
+      "title": "Chief Industrial Platform Officer, Ford Motor Co.",
+      "firm": "Ford Motor",
+      "speaker_type": "other",
+      "mention_count": 6
+    },
+    {
+      "name": "Colin Langan",
+      "title": "Analyst, Wells Fargo Securities LLC",
+      "firm": "Wells Fargo Securities",
+      "speaker_type": "analyst",
+      "mention_count": 6
+    },
+    {
+      "name": "Adam Michael Jonas",
+      "title": "Analyst, Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 6
+    },
+    {
+      "name": "Dan Levy",
+      "title": "Analyst, Credit Suisse Sec urities (USA) LLC",
+      "firm": "Credit Suisse Sec urities (USA)",
+      "speaker_type": "analyst",
+      "mention_count": 6
+    },
+    {
+      "name": "Rod Lache",
+      "title": "Analyst, Wolfe Research LLC",
+      "firm": "Wolfe Research",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Ryan Brinkman",
+      "title": "Analyst, JPMorgan Securities LLC",
+      "firm": "JPMorgan Securities",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Emmanuel Rosner",
+      "title": "Analyst, Deutsche Bank Securities, Inc.",
+      "firm": "Deutsche Bank Securities",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Marion B. Harris",
+      "title": "President and Chief Executive Officer, Ford Motor Credit Company, Ford  Motor Co.",
+      "firm": "Ford Motor Credit Company",
+      "speaker_type": "executive",
+      "mention_count": 4
+    },
+    {
+      "name": "Lynn Antipas Tyson",
+      "title": "Executive Director - Investor Relations, Ford Motor Co.",
+      "firm": "Ford Motor",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "Itay Michaeli",
+      "title": "Analyst, Citigroup Global Markets, Inc.",
+      "firm": "Citigroup Global Markets",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Lynn Antipas Tyson  Executive Director -",
+      "title": "Tang  Chief Industrial Platform Officer, Ford Motor Co.  Marion B. Harris  President and Chief Executive Officer, Ford Motor Credit Company, Ford  Motor Co., Investor Relations, Ford Motor Co.  James D. Farley  President, Chief Executive Officer & Director, Ford Motor Co.  John T. Lawler  Chief Financial Officer, Ford Motor Co.  Douglas   Field  Chief EV & Digital Systems Officer, Ford Model e, Ford Motor Co.  Hau Thai",
+      "firm": "Ford Motor Co.  Marion B. Harris  President and Chief Executive Officer",
+      "speaker_type": "executive",
+      "mention_count": 1
+    },
+    {
+      "name": "Douglas   Field",
+      "title": "Chief EV & Digital Systems Officer, Ford Model e, Ford Motor Co.",
+      "firm": "Ford Model e",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 57,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F gross margin",
+      "predicate": "reported",
+      "object": "$6.7 percent",
+      "value": 6.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F gross margin",
+      "predicate": "reported",
+      "object": "$7.1 percent",
+      "value": 7.1,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F gross margin",
+      "predicate": "reported",
+      "object": "$3 percent",
+      "value": 3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F free cash flow",
+      "predicate": "reported",
+      "object": "$5.5 billion",
+      "value": 5.5,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expect to earn between $11.5 billion",
+      "value": 11.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expect commodity headwinds of about $4 billion",
+      "value": 4,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expected to be $1.5 billion",
+      "value": 1.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "guidance, it's $11.5 billion",
+      "value": 11.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe will not only be competitive but superior to a solely direct model",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect that  by 2030, EVs will account for about 50% of our global sales",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "We expect to earn between $11",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect commodity headwinds of about $4 billion, which we expect to offset by improvements in net  pricing and mix",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we anticipate other inflationary pressures to continue impacting   a broad range of costs",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect auction values to remain strong as supply c onstraints persist",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we anticipate strong but lower EBT, reflecting primarily the non - recurrence of reserve release, fewer  returned off - lease vehicles, and more normalized credit ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "We expect those results to continue",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe, for pricing",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "We believe very strongly at Ford that  chemistry will be a really key part of our protection against commodity price increases and frankly the benefits to  the ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect to remain strong for some period of time",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe we have  that resolve",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe very strongly we need   to  invest in Level 4 autonomy",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a   complete or error - free   statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Autonomous Vehicles",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "autonomous"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/F/transcripts",
+  "origin": {
+    "leaf": "784ca170abaea7281a9407577c3012946bb1403f47aa4f445891a1d1a4e8e979",
+    "parent": "b943f9fa86262a280de3aece546bb4fb99cae5d344e7ceb5cdaba86668ee02bde7d82575e77f969f0c15e042acfa371f",
+    "timestamp": "2026-04-12T02:43:08.538Z",
+    "source": "transcript:F_CORRECTED-TRANSCRIPT_-Ford-Motor-Co.(F-US)-Q1-2022-Earnings-Call-27-April-2022-5_00-PM-ET-(1).pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/784ca170abaea7281a9407577c3012946bb1403f47aa4f445891a1d1a4e8e979",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.538Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

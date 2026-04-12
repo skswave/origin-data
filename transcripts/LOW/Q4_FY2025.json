@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "LOW",
+  "company": "LOWES COMPANIES INC",
+  "title": "LOW Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 317,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "guidance",
+      "subject": "LOW",
+      "predicate": "guided",
+      "object": "fiscal year 2024 sales of more than $83 billion",
+      "value": 83,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/LOW/transcripts",
+  "origin": {
+    "leaf": "1580d9303ff69458fe9fbfd5d7f54501da1b60a262a6374461bca10c6035d918",
+    "parent": "c14ffb67e8c4ed9ff51ead39597c3404ff0e6228f1fb578496cedf9ded90ba4292cdc1b64a17ebd7014a44e5103f7c66",
+    "timestamp": "2026-04-12T02:43:08.749Z",
+    "source": "transcript:LOW_Q4-2025-Webcast-Press-Release-Final.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1580d9303ff69458fe9fbfd5d7f54501da1b60a262a6374461bca10c6035d918",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.749Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

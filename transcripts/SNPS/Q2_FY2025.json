@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "SNPS",
+  "company": "SYNOPSYS INC",
+  "title": "SNPS Q2 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 3974,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "SNPS",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SNPS gross margin",
+      "predicate": "reported",
+      "object": "$23.5 percent",
+      "value": 23.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SNPS gross margin",
+      "predicate": "reported",
+      "object": "$38.0 percent",
+      "value": 38,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SNPS gross margin",
+      "predicate": "reported",
+      "object": "$25.6 percent",
+      "value": 25.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SNPS gross margin",
+      "predicate": "reported",
+      "object": "$40.0 percent",
+      "value": 40,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SNPS EPS",
+      "predicate": "reported",
+      "object": "$2.63",
+      "value": 2.63,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SNPS EPS",
+      "predicate": "reported",
+      "object": "$3.82",
+      "value": 3.82,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SNPS",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SNPS",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SNPS",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SNPS",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SNPS",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SNPS",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SNPS",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "semiconductor"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/SNPS/transcripts",
+  "origin": {
+    "leaf": "df83231855e9c49736843569b287e0260c3b20cbb7a85cc89e075b19bf6ad2be",
+    "parent": "310e6e90b2fa0e235c7b24e98d85d68b6ded38a4a404f770f1752e18e8e595492e77de4a8a2d9c3548ca5fc70cdafec0",
+    "timestamp": "2026-04-12T02:43:08.847Z",
+    "source": "transcript:SNPS_Synopsys-Q2-FY2025-Financial-Supplement-UPDATED.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/df83231855e9c49736843569b287e0260c3b20cbb7a85cc89e075b19bf6ad2be",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.847Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

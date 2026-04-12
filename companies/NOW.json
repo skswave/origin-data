@@ -1,0 +1,59 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NOW",
+  "name": "ServiceNow, Inc.",
+  "cik": "0001373715",
+  "exchange": "NYSE",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "ServiceNow, Inc. delivers cloud-based AI and workflow automation solutions through its ServiceNow AI Platform, helping public and private organizations govern, secure, and manage AI while digitalizing enterprise workflows. Key products include Now Assist (AI tools), Workflow Data Fabric, RaptorDB, and solutions across Technology, CRM and Industry, Core Business, and Creator and Other categories, serving diverse industries to improve productivity and collaboration.",
+  "tags": [
+    "enterprise-it-management",
+    "ai-governance-and-management",
+    "customer-relationship-management",
+    "hr-and-core-business-operations",
+    "risk-management-and-security-operations",
+    "field-service-management",
+    "public-sector",
+    "private-sector-enterprise",
+    "software-as-a-service-(saas)",
+    "cloud-computing",
+    "artificial-intelligence-and-machine-learning",
+    "low-code-development",
+    "natural-language-processing",
+    "human-in-the-loop-governance"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NOW",
+  "origin": {
+    "leaf": "b0b9202592c309bba5405dfec517723fd6552a74d9bb0bf68442a93f91c66dd5",
+    "parent": "68f77ade270165e41938bfba5f0a19841998e4e1155f98df9065d26b44d8dc82",
+    "timestamp": "2026-04-12T02:42:22.966Z",
+    "source": "0001373715-26-000007",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b0b9202592c309bba5405dfec517723fd6552a74d9bb0bf68442a93f91c66dd5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.966Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

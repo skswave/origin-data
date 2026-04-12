@@ -1,0 +1,122 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CAT",
+  "name": "CATERPILLAR INC",
+  "cik": "0000018230",
+  "summary": "Caterpillar Inc. is the world's leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines, and diesel-electric locomotives. Operating through four reportable segments—Construction Industries, Resource Industries, Power & Energy, and Financial Products—the company serves infrastructure, mining, oil and gas, power generation, marine, and rail markets globally, supported by Cat Financial for equipment financing and leasing, and a large independent dealer network.",
+  "products": [
+    {
+      "name": "Track Excavators",
+      "type": "hardware",
+      "description": "Mini, small, medium, and large track excavators for construction and mining applications."
+    },
+    {
+      "name": "Wheel Loaders",
+      "type": "hardware",
+      "description": "Compact, small, and medium wheel loaders for construction and industrial use."
+    },
+    {
+      "name": "Off-Highway Trucks",
+      "type": "hardware",
+      "description": "Large mining trucks and wide-body trucks for surface mining operations."
+    },
+    {
+      "name": "Hydraulic Shovels",
+      "type": "hardware",
+      "description": "Heavy-duty shovels for surface mining and quarry applications."
+    },
+    {
+      "name": "Electric Rope Shovels",
+      "type": "hardware",
+      "description": "High-capacity shovels for large-scale surface mining operations."
+    },
+    {
+      "name": "Draglines",
+      "type": "hardware",
+      "description": "Large excavating machines used in surface mining operations."
+    },
+    {
+      "name": "Rotary Drills",
+      "type": "hardware",
+      "description": "Drilling equipment for surface mining applications."
+    },
+    {
+      "name": "Reciprocating Engine-Powered Generator Sets",
+      "type": "hardware",
+      "description": "Power generation systems for industrial, marine, and oil and gas industries."
+    },
+    {
+      "name": "Turbines and Centrifugal Gas Compressors",
+      "type": "hardware",
+      "description": "Turbines and compressors serving oil and gas and electric power generation markets."
+    },
+    {
+      "name": "Diesel-Electric and Hybrid Locomotives",
+      "type": "hardware",
+      "description": "Rail locomotives and components for rail industry customers."
+    },
+    {
+      "name": "Electrified Powertrain and Zero-Emission Power Sources",
+      "type": "hardware",
+      "description": "Zero-emission and electrified power solutions under development for industrial applications."
+    },
+    {
+      "name": "Asphalt Pavers",
+      "type": "hardware",
+      "description": "Paving machines for road construction and infrastructure projects."
+    },
+    {
+      "name": "Motor Graders",
+      "type": "hardware",
+      "description": "Grading machines for road construction and maintenance."
+    },
+    {
+      "name": "SEM Brand Machines",
+      "type": "hardware",
+      "description": "Differentiated construction machines targeting customers in developing economies."
+    },
+    {
+      "name": "Cat Financial Loans",
+      "type": "service",
+      "description": "Equipment purchase financing with structured payments, typically secured by equipment."
+    },
+    {
+      "name": "Cat Financial Leases",
+      "type": "service",
+      "description": "Non-tax finance leases and tax leases for Caterpillar equipment customers and dealers."
+    },
+    {
+      "name": "Revolving Charge Accounts",
+      "type": "service",
+      "description": "Revolving credit accounts for parts, services, and rentals at Caterpillar dealers."
+    },
+    {
+      "name": "Fleet and Equipment Management Analytics",
+      "type": "platform",
+      "description": "Technology products providing fleet management, analytics, and autonomous machine capabilities for mining."
+    },
+    {
+      "name": "Remanufactured Engines and Components",
+      "type": "service",
+      "description": "Remanufacturing of Caterpillar engines and components, plus remanufacturing services for third parties."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CAT/profile",
+  "origin": {
+    "leaf": "687f30da4ebb8af77e34c1803a77c9b11416a83a59658f499cd7ab2b8def04be",
+    "parent": "b580ec350a263bf26215b7bfd1072514f95002d6e8dabe5b8e0b4a1fc3a15cce",
+    "timestamp": "2026-04-12T02:42:23.023Z",
+    "source": "profile:0000018230",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/687f30da4ebb8af77e34c1803a77c9b11416a83a59658f499cd7ab2b8def04be",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.023Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

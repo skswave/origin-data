@@ -1,0 +1,152 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AMD",
+  "company": "ADVANCED MICRO DEVICES INC",
+  "title": "AMD Q1 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 1940,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AMD gross margin",
+      "predicate": "reported",
+      "object": "$50 percent",
+      "value": 50,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AMD gross margin",
+      "predicate": "reported",
+      "object": "$54 percent",
+      "value": 54,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AMD gross margin",
+      "predicate": "reported",
+      "object": "$11 percent",
+      "value": 11,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AMD gross margin",
+      "predicate": "reported",
+      "object": "$24 percent",
+      "value": 24,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "GPU & Accelerators",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "gpu"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AMD/transcripts",
+  "origin": {
+    "leaf": "4020bf1a58da5ee03faf0cd19dd67619ba3716e3c5fec8a0aced38191677fbca",
+    "parent": "d4e59f43c89ee87f496f732b4c541b8c9f28167e35b2206e768bb214b57c294c38f53fe4875068b39a17fbd4f8e80865",
+    "timestamp": "2026-04-12T02:43:08.447Z",
+    "source": "transcript:AMD_Q1+2025+Gaap+and+Non-gaap+Earnings+Tables.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4020bf1a58da5ee03faf0cd19dd67619ba3716e3c5fec8a0aced38191677fbca",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.447Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

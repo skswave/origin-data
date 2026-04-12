@@ -1,0 +1,95 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ZTS",
+  "name": "Zoetis Inc.",
+  "cik": "0001555280",
+  "summary": "Zoetis Inc. is a global animal health company focused on the discovery, development, manufacture, and commercialization of medicines, vaccines, diagnostic products, biodevices, genetic tests, and precision animal health solutions. It serves eight core species across companion animals (dogs, cats, horses) and livestock (cattle, swine, poultry, fish, sheep). Key products include Apoquel, Cytopoint, Librela, Simparica, and Fostera. In 2025, the company reported total revenue of approximately $9.35 billion across U.S. and International segments.",
+  "products": [
+    {
+      "name": "Apoquel (oclacitinib)",
+      "type": "service",
+      "description": "First Janus kinase inhibitor in veterinary medicine for control of pruritus and atopic dermatitis in dogs."
+    },
+    {
+      "name": "Cytopoint (lokivetmab)",
+      "type": "service",
+      "description": "First canine monoclonal antibody to reduce clinical signs of atopic dermatitis and allergic dermatitis in dogs."
+    },
+    {
+      "name": "Librela (bedinvetmab)",
+      "type": "service",
+      "description": "First injectable monoclonal antibody therapy for alleviation of osteoarthritis pain in dogs."
+    },
+    {
+      "name": "Solensia (frunevetmab)",
+      "type": "service",
+      "description": "First injectable monoclonal antibody therapy for alleviation of osteoarthritis pain in cats."
+    },
+    {
+      "name": "Simparica (sarolaner)",
+      "type": "service",
+      "description": "Monthly oral chewable tablet to prevent fleas and ticks in dogs, launched February 2016."
+    },
+    {
+      "name": "Simparica Trio",
+      "type": "service",
+      "description": "Combines sarolaner, moxidectin, and pyrantel for protection against fleas, ticks, heartworm, and GI nematodes in dogs."
+    },
+    {
+      "name": "Revolution Plus/Stronghold Plus (selamectin/sarolaner)",
+      "type": "service",
+      "description": "Treatment for fleas, ticks, ear mites, lice, GI worms, and prevention of heartworm disease in cats."
+    },
+    {
+      "name": "Lenivia (izenivetmab)",
+      "type": "service",
+      "description": "First long-acting injectable monoclonal antibody therapy with three-month dosing interval for OA pain in dogs."
+    },
+    {
+      "name": "Core EQ Innovator",
+      "type": "service",
+      "description": "First and only equine vaccine containing all five core disease antigens in one combination, approved in U.S. in 2018."
+    },
+    {
+      "name": "Fostera/Suvaxyn PCV MH",
+      "type": "service",
+      "description": "Swine vaccine protecting against porcine circovirus-associated disease and enzootic pneumonia caused by M. hyopneumoniae."
+    },
+    {
+      "name": "Dectomax-CA1 Injectable",
+      "type": "service",
+      "description": "First parasite control product for prevention and treatment of New World screwworm myiasis in cattle; conditionally approved in U.S. in 2025."
+    },
+    {
+      "name": "Animal Health Diagnostics",
+      "type": "platform",
+      "description": "Point-of-care diagnostic products, instruments, reagents, rapid immunoassay tests, reference laboratory kits and services, and blood glucose monitors."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Pfizer Inc.",
+      "partnership_type": "strategic",
+      "description": "Zoetis was formerly a business unit of Pfizer before incorporation as an independent entity in July 2012.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ZTS/profile",
+  "origin": {
+    "leaf": "213fc605bd69455d93dc169df58085eaf4cda2cd0ddffcb2c255570faf347485",
+    "parent": "77ecbf54721328421851c40273704b237f34e703077c4fc64e7281807f4000b6",
+    "timestamp": "2026-04-12T02:42:23.019Z",
+    "source": "profile:0001555280",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/213fc605bd69455d93dc169df58085eaf4cda2cd0ddffcb2c255570faf347485",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.019Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

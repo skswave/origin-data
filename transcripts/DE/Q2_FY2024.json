@@ -1,0 +1,289 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "DE",
+  "company": "DEERE & CO",
+  "title": "DE Q2 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 11323,
+  "speakers": [
+    {
+      "name": "Josh Beal",
+      "title": "Director, Investor Relations, Deere & Company  Joshua Rohleder  Manager, Investor Communications, Deere & Company  Joshua Jepsen  Senior Vice President & Chief Financial Officer, Deere & Co.",
+      "firm": "Investor Relations",
+      "speaker_type": "executive",
+      "mention_count": 30
+    },
+    {
+      "name": "Cory J. Reed",
+      "title": "President, Worldwide Agriculture & Turf Division; Production and  Precision Ag, Americas and Australia, Deere & Co.",
+      "firm": "Worldwide Agriculture & Turf Division; Production and  Precision Ag",
+      "speaker_type": "executive",
+      "mention_count": 9
+    },
+    {
+      "name": "Jerry Revich",
+      "title": "Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 6
+    },
+    {
+      "name": "Jairam Nathan",
+      "title": "Analyst, Daiwa Capital Markets America, Inc.",
+      "firm": "Daiwa Capital Markets America",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Rob Wertheimer",
+      "title": "Analyst, Melius Research LLC",
+      "firm": "Melius Research",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Mircea Dobre",
+      "title": "Analyst, Robert W. Ba ird & Co., Inc.",
+      "firm": "Robert W. Ba ird &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Kristen Owen",
+      "title": "Analyst, Oppenheimer & Co., Inc.",
+      "firm": "Oppenheimer &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Nicole DeBlase",
+      "title": "Analyst, Deutsche Bank Securities, Inc.",
+      "firm": "Deutsche Bank Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 39,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "DE",
+      "predicate": "mentioned",
+      "object": "Grace",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DE",
+      "predicate": "guided",
+      "object": "outlook for net income remains at $770 million",
+      "value": 770,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DE",
+      "predicate": "guided",
+      "object": "outlook for net income is now expected to be approximately $7 billion",
+      "value": 7,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "We believe this approach best positions us to build the retail demand in 2025",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "we expect these numbers  to fall by year - end, with beginning 2025 inventory - to - sales ratios down significantly from where they stand today",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "we expect to see the largest decline in new inventory levels to occur during the fourth quar ter as  normal year - end seasonal declines are amplified by our p",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "we expected some decline year - over - year unrelated to end market demand as  we build l ess inventory this year relative to 2023",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "we expect your PPA to do around 44%, I think the back half is actually pretty similar to that, so not ma terially  different",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "we expect that really to continue through the course of the year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "we expect those used units to move into the market",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be   a complete or error - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DE",
+      "predicate": "guided",
+      "object": "fiscal year 2024, our outlook for net income remains at $770 million",
+      "value": 770,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DE",
+      "predicate": "guided",
+      "object": "fiscal year 20 24, our outlook for net income is now expected to be approximately $7 billion",
+      "value": 7,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/DE/transcripts",
+  "origin": {
+    "leaf": "d6f3ef608c6b0f5b968394ee2c599af725c7857b4c5395c5a037a39395ff0e9a",
+    "parent": "d272763d8a909fd70f053870650708ba48405f8f659f32050ca52b3be0a73c60dfefbf42da391c2ee0ad4c5dd98728cd",
+    "timestamp": "2026-04-12T02:43:08.498Z",
+    "source": "transcript:DE_corrected-transcript_-deere-co-de-us-q2-2024-earnings-call-16-may-2024-10_00-am-et.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d6f3ef608c6b0f5b968394ee2c599af725c7857b4c5395c5a037a39395ff0e9a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.498Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MRK",
+  "name": "Merck & Co., Inc.",
+  "cik": "0000310158",
+  "summary": "Merck & Co., Inc. is a global health care company delivering innovative health solutions through prescription medicines, biologic therapies, vaccines, and animal health products. Key products include Keytruda (pembrolizumab) for oncology, Gardasil 9 for HPV prevention, Winrevair for pulmonary arterial hypertension, Januvia for type 2 diabetes, and a broad animal health portfolio covering livestock and companion animals.",
+  "products": [
+    {
+      "name": "Keytruda/Keytruda Qlex",
+      "type": "service",
+      "description": "Anti-PD-1 therapy (pembrolizumab) approved for numerous oncology indications; Keytruda Qlex is a subcutaneous fixed combination with berahyaluronidase alfa."
+    },
+    {
+      "name": "Gardasil/Gardasil 9",
+      "type": "service",
+      "description": "HPV vaccines to help prevent certain cancers and diseases caused by human papillomavirus types."
+    },
+    {
+      "name": "Winrevair",
+      "type": "service",
+      "description": "Activin signaling inhibitor (sotatercept-csrk) indicated for treatment of adults with pulmonary arterial hypertension."
+    },
+    {
+      "name": "Januvia/Janumet",
+      "type": "service",
+      "description": "Sitagliptin-based oral medications for the treatment of type 2 diabetes."
+    },
+    {
+      "name": "Bridion",
+      "type": "service",
+      "description": "Sugammadex medication for reversal of neuromuscular blocking agents used during surgery."
+    },
+    {
+      "name": "Prevymis",
+      "type": "service",
+      "description": "Letermovir for prophylaxis of cytomegalovirus infection in high-risk transplant recipients."
+    },
+    {
+      "name": "Welireg",
+      "type": "service",
+      "description": "Belzutifan for treatment of VHL disease-associated tumors, advanced RCC, and pheochromocytoma or paraganglioma."
+    },
+    {
+      "name": "Vaxneuvance",
+      "type": "service",
+      "description": "Pneumococcal 15-valent conjugate vaccine to help prevent invasive pneumococcal disease."
+    },
+    {
+      "name": "Capvaxive",
+      "type": "service",
+      "description": "Pneumococcal 21-valent conjugate vaccine for prevention of invasive pneumococcal disease and pneumonia in adults."
+    },
+    {
+      "name": "ProQuad/M-M-R II/Varivax",
+      "type": "service",
+      "description": "Pediatric vaccines for measles, mumps, rubella, and varicella prevention."
+    },
+    {
+      "name": "Lagevrio",
+      "type": "service",
+      "description": "Molnupiravir, an oral antiviral COVID-19 medicine available in the U.S. under Emergency Use Authorization."
+    },
+    {
+      "name": "Isentress/Isentress HD",
+      "type": "service",
+      "description": "Raltegravir, an HIV integrase inhibitor used in combination antiretroviral therapy for HIV-1 infection."
+    },
+    {
+      "name": "Delstrigo",
+      "type": "service",
+      "description": "Complete antiretroviral regimen (doravirine/lamivudine/tenofovir disoproxil fumarate) for HIV-1 infection."
+    },
+    {
+      "name": "Ohtuvayre",
+      "type": "service",
+      "description": "Ensifentrine, inhaled PDE3/4 inhibitor for maintenance treatment of COPD in adults."
+    },
+    {
+      "name": "Adempas",
+      "type": "service",
+      "description": "Riociguat for treatment of chronic thromboembolic pulmonary hypertension or PAH."
+    },
+    {
+      "name": "Enflonsia",
+      "type": "service",
+      "description": "Clesrovimab-cfor, a long-acting monoclonal antibody for prevention of RSV lower respiratory tract disease in neonates and infants."
+    },
+    {
+      "name": "Belsomra",
+      "type": "service",
+      "description": "Suvorexant, an orexin receptor antagonist indicated for treatment of insomnia."
+    },
+    {
+      "name": "Animal Health Products",
+      "type": "service",
+      "description": "Wide range of veterinary pharmaceuticals, vaccines, and digitally connected identification, traceability and monitoring products for livestock and companion animals."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "AstraZeneca",
+      "partnership_type": "licensing",
+      "description": "Alliance revenue from Lynparza (olaparib), a PARP inhibitor for ovarian, breast, pancreatic, and prostate cancers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Eisai",
+      "partnership_type": "licensing",
+      "description": "Alliance revenue from Lenvima (lenvatinib), an oral receptor TKI for thyroid cancer, RCC, HCC, and endometrial carcinoma.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bristol-Myers Squibb",
+      "partnership_type": "licensing",
+      "description": "Alliance revenue from Reblozyl (luspatercept-aamt) for treatment of certain types of anemia.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MRK/profile",
+  "origin": {
+    "leaf": "3d6fbbb91cbc1818491882bd515f4f573c8a334b19c6dc3a533fdfb89bbf71ee",
+    "parent": "f2b427ad4b01cb33ecf7e126a534a629ae3a4abcb277ce0cd0740311006a8935",
+    "timestamp": "2026-04-12T02:42:22.993Z",
+    "source": "profile:0000310158",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3d6fbbb91cbc1818491882bd515f4f573c8a334b19c6dc3a533fdfb89bbf71ee",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.994Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

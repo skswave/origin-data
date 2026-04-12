@@ -1,0 +1,142 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "LRCX",
+  "company": "LAM RESEARCH CORP",
+  "title": "LRCX Q1 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 3145,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX total revenue",
+      "predicate": "reported",
+      "object": "$4.17 billion",
+      "value": 4.17,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX total revenue",
+      "predicate": "reported",
+      "object": "$3,872 million",
+      "value": 3872,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX total revenue",
+      "predicate": "reported",
+      "object": "$4.30 Billion",
+      "value": 4.3,
+      "unit": "Billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX gross margin",
+      "predicate": "reported",
+      "object": "$48.0 percent",
+      "value": 48,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX gross margin",
+      "predicate": "reported",
+      "object": "$48.2 percent",
+      "value": 48.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX EPS",
+      "predicate": "reported",
+      "object": "$0.86",
+      "value": 0.86,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/LRCX/transcripts",
+  "origin": {
+    "leaf": "43c4fd29ada73eebc04db69542a87b69c10491a7f5697776654832e5b5a29afa",
+    "parent": "0bc2134a8a38005ad5f1d4ec2c3097347cc7848d4bd7a8d1ad38c06d3051c1e2a5ab0be3388d437b618d29bc6a616475",
+    "timestamp": "2026-04-12T02:43:08.750Z",
+    "source": "transcript:LRCX_LRCX_Exhibit_99.1_Q1_2025.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/43c4fd29ada73eebc04db69542a87b69c10491a7f5697776654832e5b5a29afa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.750Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

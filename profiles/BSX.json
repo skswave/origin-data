@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BSX",
+  "name": "BOSTON SCIENTIFIC CORP",
+  "cik": "0000885725",
+  "summary": "Boston Scientific Corporation (BSX) is a global medical device company that develops, manufactures, and markets a broad range of minimally invasive medical devices. The company's products are used in interventional cardiology, electrophysiology, endoscopy, urology, neuromodulation, and other specialties. BSX focuses on advancing science for life by providing innovative solutions that improve patient health outcomes across numerous therapeutic areas worldwide.",
+  "live_api": "https://origin.rootz.global/api/company/BSX/profile",
+  "origin": {
+    "leaf": "9fe697a297090bc92718d00305acbce868b36e13d881e2e34e7dc5d9e5e6d6ef",
+    "parent": "67a4495ff94a67d0934810e92ac556e38ea6cdd7e431aba89fad68f0dff7f8c2",
+    "timestamp": "2026-04-12T02:42:23.018Z",
+    "source": "profile:0000885725",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9fe697a297090bc92718d00305acbce868b36e13d881e2e34e7dc5d9e5e6d6ef",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.018Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

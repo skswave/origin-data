@@ -1,0 +1,31 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "UNH",
+  "company": "UNITEDHEALTH GROUP INC",
+  "title": "UNH Q2 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 0,
+  "speakers": [],
+  "facts": [],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/UNH/transcripts",
+  "origin": {
+    "leaf": "47d20544a4dc59ffae1ca18bed011aeab6327978ffa7283a0b909e17ff54c8f8",
+    "parent": "f4ccf6557d79b84fd2a36db989165d969f150274ab427ed2c6193fefc768dc2edf7e9411c8f86fd0647248b75a30802f",
+    "timestamp": "2026-04-12T02:43:08.867Z",
+    "source": "transcript:UNH_unh-q2-2025-form-8k.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/47d20544a4dc59ffae1ca18bed011aeab6327978ffa7283a0b909e17ff54c8f8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.867Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

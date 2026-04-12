@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MET",
+  "name": "METLIFE INC",
+  "cik": "0001099219",
+  "exchange": "NYSE",
+  "sic": "6311",
+  "sic_description": "Life Insurance",
+  "state_of_incorporation": "DE",
+  "headquarters": "Delaware (incorporated), specific city not mentioned",
+  "founded": "1999",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "MetLife, Inc. is a leading global financial services company providing insurance, annuities, employee benefits, and asset management. It operates through six segments: Group Benefits, Retirement and Income Solutions (RIS), Asia, Latin America, EMEA, and MetLife Investment Management (MIM). Products include term life, variable life, universal life, dental, disability, accident & health, vision, pet insurance, prepaid legal plans, annuities, and institutional asset management services, sold to corporations, governments, and individuals worldwide.",
+  "tags": [
+    "u.s.-group-insurance",
+    "retirement-and-income-solutions",
+    "asia-insurance-and-financial-services",
+    "latin-america-insurance-and-financial-services",
+    "europe,-middle-east-and-africa-(emea)-insurance",
+    "institutional-asset-management",
+    "u.s.-government-employee-benefits",
+    "corporate-and-employer-sponsored-benefits"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MET",
+  "origin": {
+    "leaf": "cb4f9ccf0d44fb2fe0af881717e7c620b2f7dba9a326c2dcdcdaa629822a730b",
+    "parent": "be6ae88999147b1ba7daa6c8e1c37d416d97d75392c147b13ca3e56084dbf099",
+    "timestamp": "2026-04-12T02:42:22.962Z",
+    "source": "0001099219-26-000013",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cb4f9ccf0d44fb2fe0af881717e7c620b2f7dba9a326c2dcdcdaa629822a730b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.962Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

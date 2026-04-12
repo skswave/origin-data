@@ -1,0 +1,135 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CVS",
+  "name": "CVS HEALTH Corp",
+  "cik": "0000064803",
+  "summary": "CVS Health Corporation is a leading health solutions company operating four segments: Health Care Benefits (Aetna), Health Services, Pharmacy & Consumer Wellness, and Corporate/Other. It serves over 37 million members through health insurance products, operates approximately 9,000 retail locations, more than 1,000 walk-in and primary care medical clinics, a pharmacy benefits manager with ~87 million plan members, and offers Medicare Advantage, Medicare PDP, Medicaid, commercial medical, dental, behavioral health, and specialty pharmacy solutions.",
+  "products": [
+    {
+      "name": "Medicare Advantage Plans",
+      "type": "service",
+      "description": "HMO and PPO plans for Medicare-eligible individuals offered in 44 states and Washington D.C. in 2025."
+    },
+    {
+      "name": "Medicare Part D Prescription Drug Plan (PDP)",
+      "type": "service",
+      "description": "National prescription drug benefit plans offered in all 50 states and Washington D.C. for Medicare-eligible individuals."
+    },
+    {
+      "name": "Medicare Supplement Plans",
+      "type": "service",
+      "description": "Supplemental coverage for health care costs not covered by Original Medicare, offered in 49 states and Washington D.C."
+    },
+    {
+      "name": "Commercial Medical Plans",
+      "type": "service",
+      "description": "POS, PPO, HMO, and Indemnity plans for large, mid-sized, and small employers, individuals, and expatriates."
+    },
+    {
+      "name": "Health Savings Accounts (HSAs)",
+      "type": "service",
+      "description": "Consumer-directed health plans combining POS or PPO coverage with an accumulating benefit account funded by sponsors or members."
+    },
+    {
+      "name": "Medical Stop Loss Insurance",
+      "type": "service",
+      "description": "Coverage for self-insured employers assuming risk for large individual claims or aggregate losses above a pre-set annual threshold."
+    },
+    {
+      "name": "Medicaid and CHIP Services",
+      "type": "service",
+      "description": "Health care management services for Medicaid and CHIP-eligible individuals offered in 15 states on Insured or ASC basis."
+    },
+    {
+      "name": "Duals Coverage",
+      "type": "service",
+      "description": "Health coverage for beneficiaries dually eligible for Medicare and Medicaid, coordinating 100% of care with additional services."
+    },
+    {
+      "name": "Dental Plans",
+      "type": "service",
+      "description": "Dental coverage offered as part of the Health Care Benefits segment's complementary health products portfolio."
+    },
+    {
+      "name": "Behavioral Health and Employee Assistance Products",
+      "type": "service",
+      "description": "Behavioral health and employee assistance products complementing Commercial Medical offerings."
+    },
+    {
+      "name": "Pharmacy Benefits Management",
+      "type": "service",
+      "description": "Pharmacy benefits management services for approximately 87 million plan members through the Health Services segment."
+    },
+    {
+      "name": "Specialty Pharmacy Solutions",
+      "type": "service",
+      "description": "Expanding specialty pharmacy solutions offered as part of CVS Health's integrated health model."
+    },
+    {
+      "name": "Walk-in and Primary Care Medical Clinics",
+      "type": "service",
+      "description": "More than 1,000 walk-in and primary care medical clinic locations providing direct patient care services."
+    },
+    {
+      "name": "Administrative Services Contract (ASC) Products",
+      "type": "service",
+      "description": "Plan administration products where the plan sponsor assumes the majority of medical and dental care cost risk."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "U.S. Centers for Medicare & Medicaid Services (CMS)",
+      "partnership_type": "strategic",
+      "description": "Annual contracts to offer Medicare Advantage HMO and PPO products and Medicare Part D prescription drug plans.",
+      "start_date": null
+    },
+    {
+      "partner_name": "National Committee for Quality Assurance (NCQA)",
+      "partnership_type": "strategic",
+      "description": "Health plan accreditation for Aetna HMO plans and nationwide PPO Health Plan accreditation through ALIC.",
+      "start_date": null
+    },
+    {
+      "partner_name": "URAC",
+      "partnership_type": "strategic",
+      "description": "Accreditation for provider credentialing and Credentials Verification Organization (CVO) functions.",
+      "start_date": null
+    },
+    {
+      "partner_name": "The Joint Commission",
+      "partnership_type": "strategic",
+      "description": "Company requires participating hospitals to be certified or accredited by The Joint Commission.",
+      "start_date": null
+    },
+    {
+      "partner_name": "American Osteopathic Association",
+      "partnership_type": "strategic",
+      "description": "Company requires participating hospitals to be accredited by the American Osteopathic Association.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Det Norske Veritas Healthcare",
+      "partnership_type": "strategic",
+      "description": "Company requires participating hospitals to be accredited by Det Norske Veritas Healthcare.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CVS/profile",
+  "origin": {
+    "leaf": "4ed9cb6f551c67a651c6dbee734683b93870f61a741badc1eedc774e55cfe4b0",
+    "parent": "9268899778fbd151ff1dc9efb1501b343a62f768ab9109a3806528a859e11ad7",
+    "timestamp": "2026-04-12T02:42:22.979Z",
+    "source": "profile:0000064803",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4ed9cb6f551c67a651c6dbee734683b93870f61a741badc1eedc774e55cfe4b0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.979Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "GOOGL",
+  "company": "Alphabet Inc.",
+  "title": "GOOGL   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 916,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "GOOGL gross margin",
+      "predicate": "reported",
+      "object": "$32.1 percent",
+      "value": 32.1,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "GOOGL gross margin",
+      "predicate": "reported",
+      "object": "$39.0 percent",
+      "value": 39,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "GOOGL gross margin",
+      "predicate": "reported",
+      "object": "$17.5 percent",
+      "value": 17.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "GOOGL EPS",
+      "predicate": "reported",
+      "object": "$96",
+      "value": 96,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GOOGL",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GOOGL",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "GOOGL",
+      "predicate": "mentioned",
+      "object": "Google",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GOOGL",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/GOOGL/transcripts",
+  "origin": {
+    "leaf": "be72100119d62b104c74d4faee5fa3589c98b310ae25c0336d552c950f5b4bcd",
+    "parent": "4f580d647eda6e1b3ef44b881c508bc002fbcda6583e78627ec9600ecdc796261e1fa6af137071ee7cd2402a51fe8124",
+    "timestamp": "2026-04-12T02:43:08.556Z",
+    "source": "transcript:GOOGL_2025q4-alphabet-earnings-slides.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/be72100119d62b104c74d4faee5fa3589c98b310ae25c0336d552c950f5b4bcd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.556Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

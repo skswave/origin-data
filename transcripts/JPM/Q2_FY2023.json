@@ -1,0 +1,288 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "JPM",
+  "company": "JPMORGAN CHASE & CO",
+  "title": "JPM Q2 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 112135,
+  "speakers": [
+    {
+      "name": "Financial Instruments",
+      "title": "Credit Losses: Troubled Debt Restructurings and Vintage Disclosures  Issued March 2022  • Eliminates existing accounting and disclosure requirements for Troubled Debt Restructurings, including the requirement to measure the allowance using a discounted cash flow methodology",
+      "firm": "including the requirement to measure the allowance using a discounted cash flow methodology",
+      "speaker_type": "other",
+      "mention_count": 54
+    },
+    {
+      "name": "Corporate.",
+      "title": "Total Markets revenue declined reflecting lower Markets NII, largely offset by higher NIR",
+      "firm": "largely offset by higher NIR",
+      "speaker_type": "other",
+      "mention_count": 8
+    },
+    {
+      "name": "Part II",
+      "title": "Other information  Item 1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 7
+    },
+    {
+      "name": "Fair Value Hedging",
+      "title": "Portfolio Layer Method  Issued March 2022  • Expands the current ability to hedge a portfolio of prepayable assets to allow more of the portfolio to be hedged",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 7
+    },
+    {
+      "name": "Dealogic.",
+      "title": "Advisory fees were $540 million, down 19%, due to a lower level of announced deals in prior periods amid a challenging environment",
+      "firm": "down 19%",
+      "speaker_type": "other",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 57,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 101,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 112,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 124,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 293,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "JPM total revenue",
+      "predicate": "reported",
+      "object": "$7.0 billion",
+      "value": 7,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "JPM total revenue",
+      "predicate": "reported",
+      "object": "$767 million",
+      "value": 767,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "JPM gross margin",
+      "predicate": "reported",
+      "object": "$2.83 percent",
+      "value": 2.83,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "JPM EPS",
+      "predicate": "reported",
+      "object": "$4.75",
+      "value": 4.75,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "JPM",
+      "predicate": "guided",
+      "object": "expects to recognize an estimated assessment expense of approximately $3 billion",
+      "value": 3,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "JPM",
+      "predicate": "guided",
+      "object": "expects both net interest income and net interest income excluding Markets to be approximately $87 billion",
+      "value": 87,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "JPM",
+      "predicate": "guided",
+      "object": "expects adjusted expense to be approximately $84.5 billion",
+      "value": 84.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "JPM",
+      "predicate": "guided",
+      "object": "guidance resulted in a net decrease in the allowance for loan losses of $591 million",
+      "value": 591,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "JPM",
+      "predicate": "guided",
+      "object": "guidance, the Firm elected to transfer $7.1 billion",
+      "value": 7.1,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "JPM",
+      "predicate": "guided",
+      "object": "guidance was adopted under the modified retrospective method which resulted in a net decrease to the allowance for credit losses of $587   million",
+      "value": 587,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gaming"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/JPM/transcripts",
+  "origin": {
+    "leaf": "8ad7a5c31a50a9d7524aeb23fcd3293aad487d8161cdb6635ee58405300b9bd5",
+    "parent": "3195643b41f883ca76fa11d37498a0430a746d1e11a526eafe15923f02844b8b5a958f71eaaf7fcb4be3b994036fdd2b",
+    "timestamp": "2026-04-12T02:43:08.712Z",
+    "source": "transcript:JPM_CORP-Q2-2023.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8ad7a5c31a50a9d7524aeb23fcd3293aad487d8161cdb6635ee58405300b9bd5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.712Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

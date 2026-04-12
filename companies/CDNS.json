@@ -1,0 +1,58 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CDNS",
+  "name": "CADENCE DESIGN SYSTEMS INC",
+  "cik": "0000813672",
+  "exchange": "Nasdaq",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Cadence Design Systems is a global technology company that develops computational, AI-driven software, accelerated hardware, and silicon intellectual property (IP) products and solutions for electronic design automation (EDA). Its customers include semiconductor companies and systems companies designing integrated circuits and electromechanical systems. Key products include the Virtuoso, Innovus, Palladium, Protium, Jasper, and Xcelium platforms, serving industries such as automotive, aerospace, data centers, consumer electronics, and life sciences.",
+  "tags": [
+    "semiconductor-design-and-manufacturing",
+    "automotive",
+    "aerospace-and-defense",
+    "consumer-electronics",
+    "data-centers-and-hyperscalers",
+    "industrial",
+    "medical-and-life-sciences",
+    "mobile",
+    "electronic-systems-design-(pcbs,-advanced-packaging,-3d-ics)",
+    "design-rule-checking-(drc)",
+    "layout-versus-schematic-(lvs)",
+    "static-timing-analysis-(sta)",
+    "process-design-kits-(pdks)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CDNS",
+  "origin": {
+    "leaf": "01f53a9564389403658003364e9b1047862c75fc49a7f4ad1e62a8f9cf5b75f4",
+    "parent": "95f2905b42d9e9f608caaef700ec17a4e73455752c1f2ab4f9f501756ff700ec",
+    "timestamp": "2026-04-12T02:42:22.966Z",
+    "source": "0000813672-26-000016",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/01f53a9564389403658003364e9b1047862c75fc49a7f4ad1e62a8f9cf5b75f4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.966Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

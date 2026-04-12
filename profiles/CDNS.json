@@ -1,0 +1,75 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CDNS",
+  "name": "CADENCE DESIGN SYSTEMS INC",
+  "cik": "0000813672",
+  "summary": "Cadence Design Systems is a global technology company that develops computational, AI-driven software, accelerated hardware, and silicon intellectual property (IP) products and solutions for electronic design automation (EDA). Its customers include semiconductor companies and systems companies designing integrated circuits and electromechanical systems. Key products include the Virtuoso, Innovus, Palladium, Protium, Jasper, and Xcelium platforms, serving industries such as automotive, aerospace, data centers, consumer electronics, and life sciences.",
+  "products": [
+    {
+      "name": "Virtuoso",
+      "type": "platform",
+      "description": "Flagship platform for analog, custom, RF, mixed-signal IC, memory, and photonics design and verification."
+    },
+    {
+      "name": "Innovus",
+      "type": "platform",
+      "description": "Platform for designing and verifying large digital ICs, optimizing performance, power, and area (PPA)."
+    },
+    {
+      "name": "Jasper Formal Verification Platform",
+      "type": "software",
+      "description": "Formal verification solution ensuring chip functional description matches physical implementation."
+    },
+    {
+      "name": "Xcelium Parallel Logic Simulation Platform",
+      "type": "software",
+      "description": "Logic simulation platform for functional verification throughout the chip design cycle."
+    },
+    {
+      "name": "Palladium Enterprise Emulation Platform",
+      "type": "hardware",
+      "description": "Hardware emulation platform delivering high throughput, capacity, and reliability for chip verification."
+    },
+    {
+      "name": "Protium FPGA-Based Prototyping Platform",
+      "type": "hardware",
+      "description": "FPGA-based prototyping platform accelerating transition from emulation to prototyping and early software development."
+    },
+    {
+      "name": "Verisium",
+      "type": "software",
+      "description": "Generative AI solution enhancing productivity, automation, and quality across the verification flow."
+    },
+    {
+      "name": "Cadence OnCloud Platform",
+      "type": "platform",
+      "description": "Cloud-based platform providing customers access to Cadence software and hardware solutions."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Semiconductor ecosystem foundry partners",
+      "partnership_type": "development",
+      "description": "Collaboration to develop foundry process design kits (PDKs) ensuring Core EDA products meet manufacturing sign-off requirements.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CDNS/profile",
+  "origin": {
+    "leaf": "2cef857c2a579f0afa96b08d6fa1c7be10204ae8f57895d37de71640bd0d7f07",
+    "parent": "0dc6c120835de68fb60fb59dffc9364b60fee3a579694ef54665b0f795b6fccc",
+    "timestamp": "2026-04-12T02:42:23.009Z",
+    "source": "profile:0000813672",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2cef857c2a579f0afa96b08d6fa1c7be10204ae8f57895d37de71640bd0d7f07",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.009Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

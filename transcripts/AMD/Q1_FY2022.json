@@ -1,0 +1,122 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AMD",
+  "company": "ADVANCED MICRO DEVICES INC",
+  "title": "AMD Q1 FY2022 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2022",
+  "call_date": null,
+  "word_count": 1863,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "GPU & Accelerators",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "gpu"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AMD/transcripts",
+  "origin": {
+    "leaf": "e704b1b95b5f8a9b5bec6f563e408d3e127ce04ce790e65b7494dcb9424294e1",
+    "parent": "9b629724d52d44b7e4bc35184f85334bae7dfac25986db8df2696e90d18a7fa43f3c7a72970dd71223d7ddd5e565e61a",
+    "timestamp": "2026-04-12T02:43:08.439Z",
+    "source": "transcript:AMD_AMD_Q1_2022_GAAP_and_Non-GAAP_Earnings_Tables.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e704b1b95b5f8a9b5bec6f563e408d3e127ce04ce790e65b7494dcb9424294e1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.439Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

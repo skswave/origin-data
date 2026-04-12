@@ -1,0 +1,545 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CI",
+  "company": "Cigna Group",
+  "title": "CI Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 78233,
+  "speakers": [
+    {
+      "name": "Business",
+      "title": "Regulation\" section of this Form 10-K for additional information about MLR requirements",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 332
+    },
+    {
+      "name": "Risk Factors",
+      "title": "Operational Risks – As a large global health company, we and our vendors are subject to cyberattacks or other privacy or data security incidents",
+      "firm": "we and our vendors are subject to cyberattacks or other privacy or data security incidents",
+      "speaker_type": "other",
+      "mention_count": 10
+    },
+    {
+      "name": "Corporate Governance Matters",
+      "title": "Board of Directors' Nominees\" and \"Corporate Governance Matters – Committees of the Board\" (as it relates to the Audit Committee disclosure) in the definitive proxy statement of The Cigna Group related to the 2026 Annual Meeting of Shareholders (\"the 2026 Proxy Statement\") is incorporated herein by reference",
+      "firm": null,
+      "speaker_type": "executive",
+      "mention_count": 7
+    },
+    {
+      "name": "Compensation Matters",
+      "title": "Insider Trading Arrangements and Policies\" in the 2026 Proxy Statement is incorporated herein by reference",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 4
+    },
+    {
+      "name": "Audit Matters",
+      "title": "Ratification of Appointment of Independent Registered Public Accounting Firm (Proposal 3) – Policy for the Pre-Approval of Audit and Permissible Non-Audit Services\" and \"Audit Matters – Ratification of Appointment of Independent Registered Public Accounting Firm (Proposal 3) – Fees to Independent Registered Public Accounting Firm\" in the 2026 Proxy Statement is incorporated herein by reference",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 4
+    },
+    {
+      "name": "Contingencies",
+      "title": "Note 22  Shareholders' equity  Common stock   (1)   4   4  Additional paid-in capital   31,790   31,288  Accumulated other comprehensive loss   (2,806)   (2,341)  Retained earnings   47,865   43,519  Less: Treasury stock, at cost   (35,140)   (31,437)  TOTAL SHAREHOLDERS' EQUITY   41,713   41,033  Noncontrolling interests   161   210  Total equity   41,874   41,243  Total liabilities and equity   $   157,919   $   155,881  (1)   Par value per share, $0",
+      "firm": "790   31",
+      "speaker_type": "other",
+      "mention_count": 3
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 69,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 157,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 51,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 258,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 97,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 21,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 312,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 535,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CI gross margin",
+      "predicate": "reported",
+      "object": "$13.2 percent",
+      "value": 13.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CI",
+      "predicate": "guided",
+      "object": "expected time frames, or at all; •   divestitures may result in continued financial exposure, including increased costs due to potential litigation, contingent liabilities, and indemnification of the ",
+      "value": 73.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CI",
+      "predicate": "guided",
+      "object": "expect this initiative to generate annualized after-tax savings of at least $500 million",
+      "value": 500,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CI",
+      "predicate": "guided",
+      "object": "expect to deploy approximately $1.3 billion",
+      "value": 1.3,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CI",
+      "predicate": "guided",
+      "object": "expect $2.1 billion",
+      "value": 2.1,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CI",
+      "predicate": "guided",
+      "object": "expect $1.0 billion",
+      "value": 1,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CI",
+      "predicate": "guided",
+      "object": "expect $1.1 billion",
+      "value": 1.1,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CI",
+      "predicate": "guided",
+      "object": "expected development on reported claims and reported claims in process for the Cigna Healthcare segment  As described in Note 9 to the consolidated financial statements, the total of incurred but not ",
+      "value": 4,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CI",
+      "predicate": "guided",
+      "object": "expected future policy benefits were $4.2 billion",
+      "value": 4.2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We believe we have substantial capacity for growth in our U",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We believe these strategies and programs contribute to employee engagement and retention and prepare our employees to meet our needs now and in the future",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We believe that employers play a vital role in the health care system, and we strive to be a model for others by prioritizing and investing in the health and vi",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We believe that responsible environmental stewardship can improve health and vitality and also makes sound business sense",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We expect continued legislative and regulatory debate of issues related to our businesses, and executive, judicial or legislative intervention could further im",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "we believe that we are in compliance with the various laws and regulations, any enforcement actions by federal, state or international government officials alle",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We believe that our health services operations comply with applicable state statutes regarding corporate practice of medicine, fee- splitting and similar issues",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "we expect that price will continue to be a significant basis of competition",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "we project or do not improve value to our customers and clients, if we fail to attract health care providers to such arrangements or if we are less successful a",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We expect federal and state governments to continue to enact legislative and regulatory reforms that will or could materially impact various aspects of the hea",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "we believe that our historical tax positions are consistent with applicable laws, regulations and existing precedent, our tax positions could be challenged by r",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We believe that the claims-paying ability and financial strength ratings of our principal insurance subsidiaries are important factors in marketing our products",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We believe our properties are adequate and suitable for our business as presently conducted",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "we anticipate future charges",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We expect this initiative to generate annualized after-tax savings of at least $500 million, a portion of which was realized in 2025",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "we expect these efforts to impact pre-tax adjusted income from operations for Evernorth Health Services over the short term",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We expect to deploy approximately $1",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "we believe a hypothetical market participant would use to determine a current transaction price",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We believe that the vast majority of our investments will continue to perform under their contractual terms",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "we expect to hold a significant portion of these assets for the long term",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We expect continued volatility in private equity and real estate fund performance going forward as fair market valuations are adjusted to reflect market and po",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We believe that our audits provide a reasonable basis for our opinions",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CI",
+      "predicate": "stated",
+      "object": "We expect substantially all of the accrued liability to be paid by the end of 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Trusted Computing",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "trusted_computing"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CI",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "data_center"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CI/transcripts",
+  "origin": {
+    "leaf": "3f815d0bd4f84340a9b225c46b7fa60c67deb0966e9d70c4c2f26d6cff3a7761",
+    "parent": "55a0f3ea35ccb4c13a7eb0ca8ee24655089aa247ce3618cbe001ebf71ade8ad4762de57ccbccba5eb158adfcfe83cabd",
+    "timestamp": "2026-04-12T02:43:08.477Z",
+    "source": "transcript:CI_CI-10K-Q4-2025.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3f815d0bd4f84340a9b225c46b7fa60c67deb0966e9d70c4c2f26d6cff3a7761",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.477Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

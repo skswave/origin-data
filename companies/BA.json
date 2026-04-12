@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BA",
+  "name": "BOEING CO",
+  "cik": "0000012927",
+  "exchange": "NYSE",
+  "sic": "3721",
+  "sic_description": "Aircraft",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Boeing is a major aerospace firm operating in three segments: Commercial Airplanes (BCA), Defense, Space & Security (BDS), and Global Services (BGS). BCA produces commercial jet aircraft including the 737, 767, 777, 787, and 777X. BDS develops military aircraft, weapons systems, satellites, and missile defense. BGS provides maintenance, spare parts, training, logistics, and digital solutions to commercial and defense customers worldwide.",
+  "tags": [
+    "commercial-airline-industry",
+    "military-and-defense",
+    "space-and-intelligence-systems",
+    "government-satellites-and-space-exploration",
+    "commercial-satellites"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 182000,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BA",
+  "origin": {
+    "leaf": "72c2e430ede0e8b754ec8f0a63783496c1ed448d7cc61b006c132b1bfbfa4e60",
+    "parent": "c57960b1673a892d682b302ec74f7bbf3768928cf6500c359d3c075965972ee8",
+    "timestamp": "2026-04-12T02:42:22.957Z",
+    "source": "0001628280-26-004357",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/72c2e430ede0e8b754ec8f0a63783496c1ed448d7cc61b006c132b1bfbfa4e60",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.957Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

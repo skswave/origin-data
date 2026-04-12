@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LLY",
+  "name": "ELI LILLY & Co",
+  "cik": "0000059478",
+  "exchange": "NYSE",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "IN",
+  "headquarters": "Indianapolis, Indiana",
+  "founded": "1876",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Eli Lilly and Company, incorporated in 1901 in Indiana, discovers, develops, manufactures, and markets human pharmaceutical products worldwide. Operating in a single business segment, Lilly sells products in approximately 90 countries across therapeutic areas including cardiometabolic health (Mounjaro, Zepbound, Jardiance, Humalog), oncology (Verzenio, Cyramza, Retevmo, Jaypirca), immunology (Ebglyss, Olumiant), and neuroscience. The company manufactures and distributes through facilities in the U.S., Puerto Rico, Europe, and Asia.",
+  "tags": [
+    "cardiometabolic-health",
+    "oncology",
+    "immunology",
+    "neuroscience",
+    "united-states",
+    "europe",
+    "asia",
+    "china"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LLY",
+  "origin": {
+    "leaf": "f601927a91cc96aafb3f9c0156f4a2ff7b50f4ffef3802252bd6b25aae62b186",
+    "parent": "5da14b4b5d8490e403ddfccf7d7ea0afb498ba742fe7e2b887dde916c3c1c1f9",
+    "timestamp": "2026-04-12T02:42:22.968Z",
+    "source": "0000059478-26-000013",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f601927a91cc96aafb3f9c0156f4a2ff7b50f4ffef3802252bd6b25aae62b186",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.968Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

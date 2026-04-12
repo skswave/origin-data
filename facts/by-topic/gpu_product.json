@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/topic-facts/v1",
+  "topic": "gpu_product",
+  "label": "Gpu Product",
+  "companies": 6,
+  "total_mentions": 73,
+  "results": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA CORP",
+      "mentions": 48,
+      "quarters": [
+        "Q1_FY2026",
+        "Q2_FY2026",
+        "Q3_FY2026",
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "ADVANCED MICRO DEVICES INC",
+      "mentions": 7,
+      "quarters": []
+    },
+    {
+      "ticker": "INTC",
+      "company": "INTEL CORP",
+      "mentions": 6,
+      "quarters": [
+        "Q2_FY0124"
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "company": "PayPal Holdings, Inc.",
+      "mentions": 6,
+      "quarters": [
+        "Q2_FY2025",
+        "Q3_FY2025"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "company": "AMAZON COM INC",
+      "mentions": 3,
+      "quarters": [
+        "Q4_FY2020",
+        "Q3_FY2025",
+        "Q2_FY2023"
+      ]
+    },
+    {
+      "ticker": "UPS",
+      "company": "UNITED PARCEL SERVICE INC",
+      "mentions": 3,
+      "quarters": []
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/search/transcripts?topic=gpu_product",
+  "origin": {
+    "leaf": "ae735f7e9d228b29eae81a5577908798502c1269784eea1746cdae9eff501c78",
+    "parent": "85462694c0e54d736de6433ed85cb2b5a50198968ec91f2bb99d06e9ef6b4c18",
+    "timestamp": "2026-04-12T02:43:09.137Z",
+    "source": "topic:gpu_product",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ae735f7e9d228b29eae81a5577908798502c1269784eea1746cdae9eff501c78",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:09.137Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CRWD",
+  "name": "CrowdStrike Holdings, Inc.",
+  "cik": "0001535527",
+  "summary": "CrowdStrike Holdings, Inc., founded in 2011, develops the AI-native Falcon cybersecurity platform, an AI Security Cloud that protects endpoints, cloud workloads, identities, and AI systems. The platform offers 33 cloud modules via SaaS subscription covering endpoint security, managed security services, identity protection, next-generation SIEM, threat intelligence, data protection, SOAR, and AI-driven workflow automation, serving customers through a single lightweight sensor and proprietary graph technologies.",
+  "products": [
+    {
+      "name": "CrowdStrike Falcon Platform",
+      "type": "platform",
+      "description": "AI-native, cloud-native cybersecurity platform with single lightweight sensor covering endpoints, cloud workloads, identities, and third-party data sources."
+    },
+    {
+      "name": "Threat Graph",
+      "type": "software",
+      "description": "AI and behavioral pattern-matching engine correlating trillions of cybersecurity events to identify and prevent threats in real time."
+    },
+    {
+      "name": "Intel Graph",
+      "type": "software",
+      "description": "Analyzes and correlates threat intelligence to visualize connections between adversaries and attacks, mapped to MITRE ATT&CK framework."
+    },
+    {
+      "name": "Asset Graph",
+      "type": "software",
+      "description": "Dynamically monitors and tracks complex interactions among enterprise assets for security hygiene and posture management."
+    },
+    {
+      "name": "Enterprise Graph",
+      "type": "software",
+      "description": "Unified intelligence layer combining graph technologies to correlate and contextualize Security Cloud data for detection and response."
+    },
+    {
+      "name": "Falcon Managed Detection and Response",
+      "type": "service",
+      "description": "Managed security service providing detection and response through real-world security operations."
+    },
+    {
+      "name": "Falcon Threat Intelligence",
+      "type": "service",
+      "description": "Threat intelligence services delivering adversary context and indicators of attack."
+    },
+    {
+      "name": "Falcon Identity Protection",
+      "type": "software",
+      "description": "Cloud module providing identity protection against identity-based attacks and abuse."
+    },
+    {
+      "name": "Falcon Next-Gen SIEM",
+      "type": "software",
+      "description": "Next-generation security information and event management and log management cloud module."
+    },
+    {
+      "name": "Falcon Data Protection",
+      "type": "software",
+      "description": "Cloud module for data protection across enterprise environments."
+    },
+    {
+      "name": "Falcon SaaS Security Posture Management",
+      "type": "software",
+      "description": "Cloud module for managing and securing SaaS application security posture."
+    },
+    {
+      "name": "Falcon SOAR",
+      "type": "software",
+      "description": "Security Orchestration, Automation and Response with AI-powered workflow automation."
+    },
+    {
+      "name": "AI Security for Generative AI Systems",
+      "type": "software",
+      "description": "AI detection and response module securing generative AI and AI-driven systems."
+    },
+    {
+      "name": "CrowdStrike Falcon Platform",
+      "type": "platform",
+      "description": "AI-native, cloud-native cybersecurity platform with 33 modules delivered via SaaS, protecting endpoints, cloud workloads, identities, and AI systems."
+    },
+    {
+      "name": "Threat Graph",
+      "type": "software",
+      "description": "AI and behavioral pattern-matching engine correlating trillions of cybersecurity events to prevent threats in real time."
+    },
+    {
+      "name": "Intel Graph",
+      "type": "software",
+      "description": "Analyzes and correlates threat intelligence to visualize adversary connections, mapped to MITRE ATT&CK framework."
+    },
+    {
+      "name": "Asset Graph",
+      "type": "software",
+      "description": "Dynamically monitors and tracks interactions among assets providing holistic risk visibility and security posture management."
+    },
+    {
+      "name": "Enterprise Graph",
+      "type": "software",
+      "description": "Unified intelligence layer combining graph technologies to correlate and contextualize Security Cloud data for detection and response."
+    },
+    {
+      "name": "Managed Detection and Response",
+      "type": "service",
+      "description": "Managed security service providing real-world security operations including threat intelligence and incident response."
+    },
+    {
+      "name": "Next-Generation SIEM and Log Management",
+      "type": "software",
+      "description": "Cloud-native SIEM and log management module within the Falcon platform."
+    },
+    {
+      "name": "AI Detection and Response",
+      "type": "software",
+      "description": "Security module for generative AI and AI-driven systems, protecting AI interactions and workloads."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CRWD/profile",
+  "origin": {
+    "leaf": "1df3818b8a52ef3fa374c3d8353ceba9e928fe407a38ad43fdc201cb4d856203",
+    "parent": "c3c001026fa426e6e564587032e09328d6b68ccce826b1c35c8b028d8531ab3f",
+    "timestamp": "2026-04-12T02:42:23.026Z",
+    "source": "profile:0001535527",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1df3818b8a52ef3fa374c3d8353ceba9e928fe407a38ad43fdc201cb4d856203",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.026Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

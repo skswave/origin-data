@@ -1,0 +1,31 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "DE",
+  "company": "DEERE & CO",
+  "title": "DE   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 0,
+  "speakers": [],
+  "facts": [],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/DE/transcripts",
+  "origin": {
+    "leaf": "1522b5d93b53f5bc065457618549c67511a8083c791fb316f7702e20c30d82ca",
+    "parent": "b5b3d958301a69efba9c506ebcb30ce0a3de8687368a88c1d8c5e0579a5006290c2bab6e09013d5ddebe0f2097faabdc",
+    "timestamp": "2026-04-12T02:43:08.507Z",
+    "source": "transcript:DE_leaps-unlocked-analyst-day-transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1522b5d93b53f5bc065457618549c67511a8083c791fb316f7702e20c30d82ca",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.507Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

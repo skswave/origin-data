@@ -1,0 +1,132 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "LRCX",
+  "company": "LAM RESEARCH CORP",
+  "title": "LRCX Q3 FY2021 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2021",
+  "call_date": null,
+  "word_count": 2948,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX total revenue",
+      "predicate": "reported",
+      "object": "$3,456 million",
+      "value": 3456,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX total revenue",
+      "predicate": "reported",
+      "object": "$4.0 Billion",
+      "value": 4,
+      "unit": "Billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX gross margin",
+      "predicate": "reported",
+      "object": "$46.3 percent",
+      "value": 46.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX EPS",
+      "predicate": "reported",
+      "object": "$7.41.",
+      "value": 7.41,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX EPS",
+      "predicate": "reported",
+      "object": "$7.49.",
+      "value": 7.49,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/LRCX/transcripts",
+  "origin": {
+    "leaf": "38d73ac72ffe066e758d9ea79769cd824853f3806b387ef411485afcd17f107b",
+    "parent": "11f90ea07456a45671b12273568822947d6b10e23035cd5f3008bb71949dc1ddaeecdbc61a3d424fc11969c29078e2d7",
+    "timestamp": "2026-04-12T02:43:08.752Z",
+    "source": "transcript:LRCX_LRCX_Exhibit_99.1_Q3_2021+Draft+%233.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/38d73ac72ffe066e758d9ea79769cd824853f3806b387ef411485afcd17f107b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.752Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

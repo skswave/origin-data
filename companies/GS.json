@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "GS",
+  "name": "GOLDMAN SACHS GROUP INC",
+  "cik": "0000886982",
+  "exchange": "NYSE",
+  "sic": "6211",
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
+  "state_of_incorporation": "DE",
+  "headquarters": "New York, New York",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Goldman Sachs is a leading global financial institution providing investment banking, securities intermediation, asset management, and wealth management services to corporations, financial institutions, governments, and individuals. The firm operates through three segments: Global Banking & Markets (advisory, underwriting, FICC, equities), Asset & Wealth Management (management fees, private banking, investments), and Platform Solutions (credit cards, deposits). Its platform Marquee provides institutional investors with market intelligence and trade execution.",
+  "tags": [
+    "investment-banking",
+    "fixed-income,-currency-and-commodities",
+    "equities",
+    "asset-management",
+    "wealth-management",
+    "consumer-financial-services",
+    "transaction-banking",
+    "institutional-markets",
+    "government-and-municipal-finance",
+    "emerging-markets"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/GS",
+  "origin": {
+    "leaf": "99453e3d1f43589b50dbc9361c7461938df606e74f140ebe24c5e47b14d2bfd8",
+    "parent": "71d68f48791970ff92557ab66ad8ddd44e8893baf1b78b622b7c17b6c4c5061a",
+    "timestamp": "2026-04-12T02:42:22.961Z",
+    "source": "0000886982-26-000091",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/99453e3d1f43589b50dbc9361c7461938df606e74f140ebe24c5e47b14d2bfd8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.961Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

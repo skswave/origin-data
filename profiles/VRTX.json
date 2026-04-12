@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VRTX",
+  "name": "VERTEX PHARMACEUTICALS INC / MA",
+  "cik": "0000875320",
+  "summary": "Vertex Pharmaceuticals is a global biotechnology company focused on transformative medicines for serious diseases. It markets TRIKAFTA/KAFTRIO, ALYFTREK, SYMDEKO/SYMKEVI, ORKAMBI, and KALYDECO for cystic fibrosis; CASGEVY (gene-editing therapy) for sickle cell disease and transfusion-dependent beta thalassemia; and JOURNAVX (suzetrigine) for acute pain. The company also has a mid- and late-stage pipeline targeting IgA nephropathy, APOL1-mediated kidney disease, neuropathic pain, type 1 diabetes, primary membranous nephropathy, and other serious diseases.",
+  "products": [
+    {
+      "name": "ALYFTREK (vanzacaftor/tezacaftor/deutivacaftor)",
+      "type": "platform",
+      "description": "Once-daily triple combination CFTR modulator for cystic fibrosis, approved 2024 for ages 6 and older."
+    },
+    {
+      "name": "TRIKAFTA/KAFTRIO (elexacaftor/tezacaftor/ivacaftor)",
+      "type": "platform",
+      "description": "Triple combination CFTR modulator for cystic fibrosis, approved 2019 for ages 2 and older."
+    },
+    {
+      "name": "SYMDEKO/SYMKEVI (tezacaftor/ivacaftor)",
+      "type": "platform",
+      "description": "Dual combination CFTR modulator for cystic fibrosis, approved 2018 for ages 6 and older."
+    },
+    {
+      "name": "ORKAMBI (lumacaftor/ivacaftor)",
+      "type": "platform",
+      "description": "Dual combination CFTR modulator for cystic fibrosis, approved 2015 for ages 1 and older."
+    },
+    {
+      "name": "KALYDECO (ivacaftor)",
+      "type": "platform",
+      "description": "CFTR modulator for cystic fibrosis, approved 2012 for ages 1 month and older."
+    },
+    {
+      "name": "CASGEVY (exagamglogene autotemcel)",
+      "type": "platform",
+      "description": "Ex-vivo, non-viral CRISPR/Cas9 gene-editing therapy for severe SCD and TDT, approved 2023 for ages 12 and older."
+    },
+    {
+      "name": "JOURNAVX (suzetrigine)",
+      "type": "platform",
+      "description": "First-in-class oral selective NaV1.8 inhibitor for moderate-to-severe acute pain in adults, approved January 2025."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VRTX/profile",
+  "origin": {
+    "leaf": "9defd2d6c3e33b5ca8f31a6c52f3c1b899d6d0d4d91d1243c901dc15342b89e5",
+    "parent": "f874d3a447482e545d978086dc72069390cba76ecd21ecaabb9713a0327dedaf",
+    "timestamp": "2026-04-12T02:42:23.022Z",
+    "source": "profile:0000875320",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9defd2d6c3e33b5ca8f31a6c52f3c1b899d6d0d4d91d1243c901dc15342b89e5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.022Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

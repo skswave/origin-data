@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ABNB",
+  "name": "Airbnb, Inc.",
+  "cik": "0001559720",
+  "summary": "Airbnb, Inc. operates an online platform connecting hosts and guests for short-term accommodations and travel experiences. The platform enables hosts to list properties and guests to book stays globally. Airbnb generates revenue through service fees charged to both hosts and guests. The company also invests in brand marketing, trust and safety initiatives, and technology to support its marketplace.",
+  "products": [
+    {
+      "name": "Airbnb Platform",
+      "type": "platform",
+      "description": "Online marketplace connecting hosts listing accommodations with guests seeking short-term stays globally."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ABNB/profile",
+  "origin": {
+    "leaf": "a846fa2c081ccd5de472b9a6c92d1d65c7bed3c3a64e5ad7178f3e841c8531df",
+    "parent": "6e83368497fc0dc97b5373556da1e574edd449e66599ca9d4de2a1ab455c336c",
+    "timestamp": "2026-04-12T02:42:23.028Z",
+    "source": "profile:0001559720",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a846fa2c081ccd5de472b9a6c92d1d65c7bed3c3a64e5ad7178f3e841c8531df",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.028Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

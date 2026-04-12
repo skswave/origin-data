@@ -1,0 +1,80 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "KLAC",
+  "company": "KLA CORP",
+  "title": "KLAC Q3 FY2020 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2020",
+  "call_date": null,
+  "word_count": 491,
+  "speakers": [
+    {
+      "name": "Response",
+      "title": "Our first priority is the health and safety of our employees, their families, and our partners",
+      "firm": "their families",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "KLAC",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KLAC",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KLAC",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KLAC",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/KLAC/transcripts",
+  "origin": {
+    "leaf": "dbf35aadce4874aa993c98af6cfcb037db040ec1b3335a4f378e46a0eb5fa30b",
+    "parent": "c05f7f8c11579b22904fc39d6c487c7d3644260381f1bb71a00225cf24fb28605e78fdf192808c1b1be4d18c7984b3e2",
+    "timestamp": "2026-04-12T02:43:08.726Z",
+    "source": "transcript:KLAC_KLA_Infographic_FinancialsQ3_052020_Compressed.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dbf35aadce4874aa993c98af6cfcb037db040ec1b3335a4f378e46a0eb5fa30b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.726Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

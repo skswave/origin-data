@@ -1,0 +1,564 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "F",
+  "company": "FORD MOTOR CO",
+  "title": "F Q1 FY2019 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2019",
+  "call_date": null,
+  "word_count": 14140,
+  "speakers": [
+    {
+      "name": "James P. Hackett",
+      "title": "President, Chief Executive Officer & Director, Ford Motor Co.",
+      "firm": "Chief Executive Officer & Director",
+      "speaker_type": "executive",
+      "mention_count": 21
+    },
+    {
+      "name": "Robert L. Shanks",
+      "title": "Chief Financial Officer & Executive Vice President, Ford Motor Co.",
+      "firm": "Ford Motor",
+      "speaker_type": "executive",
+      "mention_count": 17
+    },
+    {
+      "name": "Rod Lache",
+      "title": "Analyst, Wolfe Research LLC",
+      "firm": "Wolfe Research",
+      "speaker_type": "analyst",
+      "mention_count": 8
+    },
+    {
+      "name": "David Tamberrino",
+      "title": "Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 7
+    },
+    {
+      "name": "Joseph Spak",
+      "title": "Analyst, RBC Capital Markets LLC",
+      "firm": "RBC Capital Markets",
+      "speaker_type": "analyst",
+      "mention_count": 7
+    },
+    {
+      "name": "John Murphy",
+      "title": "Analyst, Bank of America Merrill Lynch  Colin Langan  Analyst, UBS Securities LLC",
+      "firm": "UBS Securities",
+      "speaker_type": "analyst",
+      "mention_count": 6
+    },
+    {
+      "name": "Ryan Brinkman",
+      "title": "Analyst, JPMorgan Securities LLC",
+      "firm": "JPMorgan Securities",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Adam Michael Jonas",
+      "title": "Analyst, Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Steven Hempel",
+      "title": "Analyst, Barclays Capital, Inc.",
+      "firm": "Barclays Capital",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Itay Michaeli",
+      "title": "Analyst, Citigroup Global Markets, Inc.",
+      "firm": "Citigroup Global Markets",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Lynn Antipas Tyson",
+      "title": "Executive Director-Investor Relations, Ford Motor Co.",
+      "firm": "Ford Motor",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "Marcy S. Klevorn",
+      "title": "Executive Vice President & President-Mobility, Ford Motor Co.",
+      "firm": "Ford Motor",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "Joseph R. Hinrichs",
+      "title": "Executive Vice President & President-Global Operations, Ford Motor Co.",
+      "firm": "Ford Motor",
+      "speaker_type": "executive",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 70,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F gross margin",
+      "predicate": "reported",
+      "object": "$10 percent",
+      "value": 10,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F gross margin",
+      "predicate": "reported",
+      "object": "$8.7 percent",
+      "value": 8.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F EPS",
+      "predicate": "reported",
+      "object": "$0.44",
+      "value": 0.44,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Autonomous Vehicles",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "autonomous"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expect to drive over $1 billion",
+      "value": 1,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expect to fully draw the term loan over the course of 2019, however, the impact of any draws will be leverage-neutral after taking into consideration debt reduction actions we took late last year incl",
+      "value": 1,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expect to incur $3 billion",
+      "value": 3,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expect CapEx to be similar to last year, pension contributions to be about $650 million",
+      "value": 650,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expect to see $3 billion",
+      "value": 3,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expect them to be about flat, so that would be around $2.6 billion",
+      "value": 2.6,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe signal positive momentum for Ford",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "We expect these actions to drive higher operating cash flow and that will be led by Automotive",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect to announce the location later this year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "We expect to drive over $1 billion improvement in annual profitability from our Michigan assembly plant once we fully ramp production for the Ranger and Bronco",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect more to be generated from all these actions",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect to build on the first quarter outcome and deliver a considerable improvement in profitability year-over-year, although still a loss",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect to deliver a substantial improvement in profitability versus last year driven by favorable mix, higher net pricing and lower cost",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect North America's EBIT and margin to improve from 2018",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect Automotive EBIT to improve, driven by gains in China, Europe and North America",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect a larger loss in Mobility as we increase our investment in mobility services and as our AV efforts move closer to commercialization with a bespoke pr",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "We expect to fully draw the term loan over the course of 2019, however, the impact of any draws will be leverage-neutral after taking into consideration debt r",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect to incur $3 billion to $3",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "We expect almost all of the EBIT charges to be treated as special items",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect our first quarter EBIT to be the strongest quarter of the year, that's due to seasonal factors and major product launches ahead, it does clearly put ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "We believe that we understand very clearly the areas of improvement they're looking for",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "We expect that to be completed sometime around the middle of the year and then we'll start seeing more specifics",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect to see $3 billion to $3",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect more actions considering the challenges in that region?  ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect them to be about flat, so that would be around $2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe, to build on Jim's comment, is that complex miles are more important",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "We believe we're gaining credibility with you that we're doing as we said",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a   complete or error - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "F",
+      "predicate": "mentioned",
+      "object": "Amazon",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/F/transcripts",
+  "origin": {
+    "leaf": "b43654333b25085ef7a291fd375816d90fd6a4ab72af6a1cfe8abc3c5eae7b3f",
+    "parent": "6309de396bef37d54697a8fede2d983716c5325eca5b6d58dafee163fc530d81c345f66cfa2cea6e1603463bb67310a7",
+    "timestamp": "2026-04-12T02:43:08.538Z",
+    "source": "transcript:F_CORRECTED-TRANSCRIPT_-Ford-Motor-Co.-Q1-2019-Earnings-Call-25-April-2019-5_30-PM-ET-(1).pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b43654333b25085ef7a291fd375816d90fd6a4ab72af6a1cfe8abc3c5eae7b3f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.538Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

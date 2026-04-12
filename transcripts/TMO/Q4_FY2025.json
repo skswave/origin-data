@@ -1,0 +1,162 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "TMO",
+  "company": "THERMO FISHER SCIENTIFIC INC.",
+  "title": "TMO Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 8207,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "TMO",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "TMO gross margin",
+      "predicate": "reported",
+      "object": "$36.8 percent",
+      "value": 36.8,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "TMO gross margin",
+      "predicate": "reported",
+      "object": "$23.7 percent",
+      "value": 23.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "TMO gross margin",
+      "predicate": "reported",
+      "object": "$26.5 percent",
+      "value": 26.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "TMO gross margin",
+      "predicate": "reported",
+      "object": "$13.0 percent",
+      "value": 13,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "TMO",
+      "predicate": "stated",
+      "object": "We believe that the use of these non-GAAP financial measures, in addition to GAAP financial measures, helps investors to gain a better understanding of our core",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "TMO",
+      "predicate": "stated",
+      "object": "we believe that the costs related to restructuring activities are not indicative of our normal operating costs",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "TMO",
+      "predicate": "stated",
+      "object": "We believe net debt is meaningful to investors as the company considers net debt and its components to be important indicators of liquidity and financial positi",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "TMO",
+      "predicate": "stated",
+      "object": "We believe these measures are meaningful to investors as they focus on shareholder value creation",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "TMO",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "TMO",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "TMO",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "TMO",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/TMO/transcripts",
+  "origin": {
+    "leaf": "1a0439b6801b3eac9249382b508282d07d7f1f3873ef43122624e5e990317bc4",
+    "parent": "02bf6d99d3511c5939e0d8ca270c8c539b51a2adb72f522ef8f31520798e127c73a2951fc3f1df12d5c92dabe6e646f6",
+    "timestamp": "2026-04-12T02:43:08.860Z",
+    "source": "transcript:TMO_Q4-2025-Reconciliation-of-Financial-Information.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1a0439b6801b3eac9249382b508282d07d7f1f3873ef43122624e5e990317bc4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.861Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "KO",
+  "company": "COCA COLA CO",
+  "title": "KO Q3 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 0,
+  "speakers": [],
+  "facts": [],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/KO/transcripts",
+  "origin": {
+    "leaf": "6b8904b5e60b7cf4b76fa93ce960dd8768098f80770d747e992d46dec78a1350",
+    "parent": "fcdee5510a208505b40c78436d17ca18356a82debfad34e5815195026c2a8451d5c8bffcb98317558657fcf65402f244",
+    "timestamp": "2026-04-12T02:43:08.735Z",
+    "source": "transcript:KO_CORRECTED_TRANSCRIPT_The_Coca-Cola_Co.%28KO-US%29%2C_Q3_2024_Earnings_Call%2C_23-October-2024_8_30_AM_ET.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6b8904b5e60b7cf4b76fa93ce960dd8768098f80770d747e992d46dec78a1350",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.736Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

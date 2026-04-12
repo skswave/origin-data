@@ -1,0 +1,122 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "UNH",
+  "company": "UNITEDHEALTH GROUP INC",
+  "title": "UNH Q4 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 3096,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 22,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 13,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "UNH gross margin",
+      "predicate": "reported",
+      "object": "$5.8 percent",
+      "value": 5.8,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "UNH gross margin",
+      "predicate": "reported",
+      "object": "$4.4 percent",
+      "value": 4.4,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "UNH gross margin",
+      "predicate": "reported",
+      "object": "$7.7 percent",
+      "value": 7.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/UNH/transcripts",
+  "origin": {
+    "leaf": "7b9c6ce89363428a2e9e6039698e5e856a2311f76c15284c2ed8091994fda915",
+    "parent": "c434c8ac27ae688d4eb5ad5e4250ff24f55983005e2994d8b3053e5866095e5f5f27f5e14373e651890efc7d083f6606",
+    "timestamp": "2026-04-12T02:43:08.871Z",
+    "source": "transcript:UNH_UNH-Q4-2023-Release.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7b9c6ce89363428a2e9e6039698e5e856a2311f76c15284c2ed8091994fda915",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.871Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

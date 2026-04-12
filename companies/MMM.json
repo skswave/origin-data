@@ -1,0 +1,57 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MMM",
+  "name": "3M CO",
+  "cik": "0000066740",
+  "exchange": "NYSE",
+  "sic": "3841",
+  "sic_description": "Surgical & Medical Instruments & Apparatus",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1902",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "3M Company is a diversified technology company operating in three segments: Safety and Industrial, Transportation and Electronics, and Consumer. Products include industrial abrasives, electrical materials, personal safety equipment, automotive solutions, semiconductor materials, display films, cleaning products, and consumer adhesives. Key brands include Scotch, Post-it, Nexcare, Command, Filtrete, and 3M Cubitron. Products are sold globally through wholesalers, retailers, distributors, and e-commerce channels.",
+  "tags": [
+    "safety-and-industrial",
+    "transportation-and-electronics",
+    "consumer",
+    "automotive",
+    "aerospace-and-defense",
+    "semiconductor",
+    "data-centers",
+    "home-improvement",
+    "consumer-health-care",
+    "grid-modernization",
+    "electrical-infrastructure",
+    "personal-safety"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 60500,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MMM",
+  "origin": {
+    "leaf": "5491d4b9b2a151d3da4ef701e5363f3896a0f5382fdf874e1a5295a224904caa",
+    "parent": "4529c8882ad71437091936695149ec69ca663496309bb934e43c494e96786c4c",
+    "timestamp": "2026-04-12T02:42:22.973Z",
+    "source": "0000066740-26-000014",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5491d4b9b2a151d3da4ef701e5363f3896a0f5382fdf874e1a5295a224904caa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.973Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

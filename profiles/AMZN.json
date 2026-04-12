@@ -1,0 +1,87 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AMZN",
+  "name": "AMAZON COM INC",
+  "cik": "0001018724",
+  "summary": "Amazon.com, Inc. is a global technology and e-commerce company organized into three segments: North America, International, and Amazon Web Services (AWS). It operates online and physical retail stores, offers third-party seller services, and provides cloud computing services including compute, storage, database, analytics, and AI/ML through AWS. It also manufactures devices (Kindle, Fire TV, Echo, Ring), offers Amazon Prime subscriptions, produces media content, and provides advertising services.",
+  "products": [
+    {
+      "name": "Amazon Prime",
+      "type": "service",
+      "description": "Membership program offering fast free shipping, streaming of movies, series, live sports, and other benefits."
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "type": "platform",
+      "description": "On-demand cloud services including compute, storage, database, analytics, AI and machine learning."
+    },
+    {
+      "name": "Kindle",
+      "type": "hardware",
+      "description": "Electronic reading device manufactured and sold by Amazon."
+    },
+    {
+      "name": "Fire Tablet",
+      "type": "hardware",
+      "description": "Tablet device manufactured and sold by Amazon."
+    },
+    {
+      "name": "Fire TV",
+      "type": "hardware",
+      "description": "Streaming media device manufactured and sold by Amazon."
+    },
+    {
+      "name": "Echo",
+      "type": "hardware",
+      "description": "Smart speaker device powered by Alexa voice assistant."
+    },
+    {
+      "name": "Ring",
+      "type": "hardware",
+      "description": "Smart home security device manufactured and sold by Amazon."
+    },
+    {
+      "name": "Blink",
+      "type": "hardware",
+      "description": "Smart home security camera device manufactured and sold by Amazon."
+    },
+    {
+      "name": "eero",
+      "type": "hardware",
+      "description": "Home mesh Wi-Fi device manufactured and sold by Amazon."
+    },
+    {
+      "name": "Alexa",
+      "type": "software",
+      "description": "Virtual assistant used across Amazon devices and apps for discovery and purchasing."
+    },
+    {
+      "name": "Amazon Advertising",
+      "type": "service",
+      "description": "Advertising services including sponsored ads, display, and video advertising for sellers, vendors, and publishers."
+    },
+    {
+      "name": "Amazon Career Choice",
+      "type": "service",
+      "description": "Education funding program for eligible Amazon employees; over 300,000 participants worldwide."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AMZN/profile",
+  "origin": {
+    "leaf": "dc78660916177a237bc03e212f0c6d53c69a0e40ef17b2dc0e8f71c53c463d14",
+    "parent": "fc15d9614a011a9a255cfd22b2c72897e6511b76986c1dbff5587227a18d8b73",
+    "timestamp": "2026-04-12T02:42:22.977Z",
+    "source": "profile:0001018724",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dc78660916177a237bc03e212f0c6d53c69a0e40ef17b2dc0e8f71c53c463d14",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.978Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

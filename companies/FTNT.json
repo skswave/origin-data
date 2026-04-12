@@ -1,0 +1,61 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "FTNT",
+  "name": "Fortinet, Inc.",
+  "cik": "0001262039",
+  "exchange": "Nasdaq",
+  "sic": "3577",
+  "sic_description": "Computer Peripheral Equipment, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": "Sunnyvale, California",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Fortinet, Inc. is a global cybersecurity company headquartered in Sunnyvale, California, focused on the convergence of networking and security. Its integrated platform, the Fortinet Security Fabric, spans secure networking, unified SASE, and AI-driven security operations. Key proprietary technologies include FortiOS (unified operating system), FortiASIC (custom security processors), FortiCloud (private SaaS cloud), FortiAI (AI-powered security), and FortiEndpoint. As of December 31, 2025, Fortinet served end-customers in over 100 countries across financial services, retail, healthcare, OT, government, and service provider verticals.",
+  "tags": [
+    "financial-services",
+    "retail",
+    "healthcare",
+    "operational-technology-(ot)",
+    "communication-service-providers",
+    "security-service-providers",
+    "government-organizations",
+    "enterprise",
+    "large-and-medium-sized-businesses",
+    "zero-trust-network-access-(ztna)",
+    "secure-access-service-edge-(sase)",
+    "quantum-resistant-cryptographic-capabilities",
+    "ai/machine-learning-(ai/ml)",
+    "generative-ai-(genai)",
+    "large-language-models-(llms)",
+    "application-programming-interface-(api)-security"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/FTNT",
+  "origin": {
+    "leaf": "0943475275856e9a4e381e7e976195150b9f1dd3a5c12d99adf0841650d37d0f",
+    "parent": "74245620e3ea6ef82d53067db80bc8121f7b865918e7513853fbc6dfe5dbd35d",
+    "timestamp": "2026-04-12T02:42:22.973Z",
+    "source": "0001262039-26-000007",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0943475275856e9a4e381e7e976195150b9f1dd3a5c12d99adf0841650d37d0f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.973Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

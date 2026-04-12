@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ISRG",
+  "name": "INTUITIVE SURGICAL INC",
+  "cik": "0001035267",
+  "summary": "Intuitive Surgical Inc. develops, manufactures, and markets robotic-assisted surgical systems. Its flagship da Vinci surgical system enables minimally invasive surgery across multiple specialties. The company sells systems to hospitals along with instruments, accessories, and endoscopes, and provides services including training and maintenance. It operates globally, with manufacturing in Mexico, Germany, and other locations, and maintains a joint venture in China with Shanghai Fosun Pharmaceutical.",
+  "products": [
+    {
+      "name": "da Vinci Surgical System",
+      "type": "platform",
+      "description": "Robotic-assisted surgical platform enabling minimally invasive procedures across multiple surgical specialties."
+    },
+    {
+      "name": "Instruments and Accessories",
+      "type": "hardware",
+      "description": "Surgical instruments and accessories used with the da Vinci system, manufactured primarily in Mexico."
+    },
+    {
+      "name": "Endoscopes",
+      "type": "hardware",
+      "description": "Endoscopes used with robotic surgical systems, manufactured primarily in Germany."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",
+      "partnership_type": "strategic",
+      "description": "Joint venture with Fosun Pharmaceutical operating in China for robotic surgical products.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ISRG/profile",
+  "origin": {
+    "leaf": "120228320441af520ea3b05337624355248988f997715157f3b84fec812d410a",
+    "parent": "135afe1ac94518e5611c128cd56b09ab92b0a20552841404caf7110364cba326",
+    "timestamp": "2026-04-12T02:42:23.018Z",
+    "source": "profile:0001035267",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/120228320441af520ea3b05337624355248988f997715157f3b84fec812d410a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.018Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

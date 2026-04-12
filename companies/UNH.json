@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "UNH",
+  "name": "UNITEDHEALTH GROUP INC",
+  "cik": "0000731766",
+  "exchange": "NYSE",
+  "sic": "6324",
+  "sic_description": "Hospital & Medical Service Plans",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "UnitedHealth Group is a health care and well-being company operating two primary businesses: Optum and UnitedHealthcare. Optum provides health services through Optum Health (patient-centered care, 95 million consumers), Optum Insight (data analytics, technology), and Optum Rx (pharmacy care services, $188 billion in pharmaceutical spending managed). UnitedHealthcare offers health benefits across Employer & Individual, Medicare & Retirement, and Community & State segments, arranging discounted care access through extensive provider networks.",
+  "tags": [
+    "health-care-and-well-being",
+    "pharmacy-care-services",
+    "health-data-analytics-and-technology",
+    "employer-health-benefits",
+    "medicare-and-senior-health-benefits",
+    "medicaid-and-community-health",
+    "life-sciences",
+    "government-health-programs",
+    "behavioral-health-and-substance-use-disorders",
+    "health-financial-services"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/UNH",
+  "origin": {
+    "leaf": "ce59483194744a31c9e8784c0266238b58fd6f29fec5b0b071fda481d6c2005a",
+    "parent": "66210dfe89cf7deffbe539ca097cbca3416a5c818b92427bc1dcff26d2aaad61",
+    "timestamp": "2026-04-12T02:42:22.947Z",
+    "source": "0000731766-26-000062",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ce59483194744a31c9e8784c0266238b58fd6f29fec5b0b071fda481d6c2005a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.947Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

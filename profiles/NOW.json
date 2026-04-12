@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NOW",
+  "name": "ServiceNow, Inc.",
+  "cik": "0001373715",
+  "summary": "ServiceNow, Inc. delivers cloud-based AI and workflow automation solutions through its ServiceNow AI Platform, helping public and private organizations govern, secure, and manage AI while digitalizing enterprise workflows. Key products include Now Assist (AI tools), Workflow Data Fabric, RaptorDB, and solutions across Technology, CRM and Industry, Core Business, and Creator and Other categories, serving diverse industries to improve productivity and collaboration.",
+  "products": [
+    {
+      "name": "ServiceNow AI Platform",
+      "type": "platform",
+      "description": "Cloud-based platform connecting people, processes and data to deliver workflows, AI integration, and digital transformation across enterprise departments."
+    },
+    {
+      "name": "Now Assist",
+      "type": "software",
+      "description": "Integrated AI offering providing autonomous AI tools, agents, and governance capabilities to boost enterprise productivity."
+    },
+    {
+      "name": "Workflow Data Fabric",
+      "type": "platform",
+      "description": "Single data fabric enabling real-time connection to external data sources without moving data, supporting AI-driven workflows."
+    },
+    {
+      "name": "RaptorDB",
+      "type": "software",
+      "description": "Integrated data layer product supporting operationalization of AI strategy with speed, scale, and security."
+    },
+    {
+      "name": "Technology Products",
+      "type": "software",
+      "description": "Solutions uniting IT, risk management, and security operations on a single platform for resilient digital services."
+    },
+    {
+      "name": "CRM and Industry Products",
+      "type": "software",
+      "description": "Solutions integrating customer service, field service, sales, order management, and industry-specific workflows."
+    },
+    {
+      "name": "Core Business Products",
+      "type": "software",
+      "description": "Supports HR, legal, finance, supply chain, and facilities processes to improve productivity and employee satisfaction."
+    },
+    {
+      "name": "Creator and Other Products",
+      "type": "software",
+      "description": "Low-code AI-powered tools for developing cross-enterprise workflows and managing data privacy and security."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NOW/profile",
+  "origin": {
+    "leaf": "4fbe9bb79ab35b4042a6cfe9e13eee63ca57873381c4dd13987dbf361a5e42bf",
+    "parent": "944bf920a70d288b59718673f6fe80a085fdb5b408617dea68081f5a8a36c371",
+    "timestamp": "2026-04-12T02:42:23.010Z",
+    "source": "profile:0001373715",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4fbe9bb79ab35b4042a6cfe9e13eee63ca57873381c4dd13987dbf361a5e42bf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.010Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

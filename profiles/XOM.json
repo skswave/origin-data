@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "XOM",
+  "name": "EXXON MOBIL CORP",
+  "cik": "0000034088",
+  "summary": "Exxon Mobil Corporation, incorporated in New Jersey in 1882, explores for and produces crude oil and natural gas, and manufactures, trades, transports, and sells crude oil, natural gas, petroleum products, petrochemicals, and specialty products. The company also pursues lower-emission business opportunities including carbon capture and storage, hydrogen, ammonia, lower-emission fuels, Proxxima resin systems, carbon materials, low-carbon data centers, and lithium. ExxonMobil operates globally under brands including Exxon, Esso, Mobil, and XTO.",
+  "products": [
+    {
+      "name": "Crude Oil",
+      "type": "service",
+      "description": "Exploration, production, and sale of crude oil globally."
+    },
+    {
+      "name": "Natural Gas",
+      "type": "service",
+      "description": "Exploration, production, and sale of natural gas."
+    },
+    {
+      "name": "Petroleum Products",
+      "type": "hardware",
+      "description": "Manufacture, trade, transport, and sale of refined petroleum products."
+    },
+    {
+      "name": "Petrochemicals",
+      "type": "hardware",
+      "description": "Manufacture and sale of petrochemical products."
+    },
+    {
+      "name": "Proxxima Resin Systems",
+      "type": "hardware",
+      "description": "Specialty lower-emission resin systems sold under the Proxxima brand."
+    },
+    {
+      "name": "Carbon Capture and Storage",
+      "type": "service",
+      "description": "Lower-emission service for capturing and storing carbon emissions."
+    },
+    {
+      "name": "Hydrogen and Ammonia",
+      "type": "service",
+      "description": "Lower-emission energy products including hydrogen and ammonia."
+    },
+    {
+      "name": "Lower-Emission Fuels",
+      "type": "hardware",
+      "description": "Fuels designed to reduce emissions as part of new energy business."
+    },
+    {
+      "name": "Carbon Materials",
+      "type": "hardware",
+      "description": "Specialty carbon materials as part of new lower-emission business lines."
+    },
+    {
+      "name": "Low-Carbon Data Centers",
+      "type": "service",
+      "description": "Data center services focused on lower carbon emissions."
+    },
+    {
+      "name": "Lithium",
+      "type": "hardware",
+      "description": "Lithium production as part of lower-emission and new business opportunities."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/XOM/profile",
+  "origin": {
+    "leaf": "75591c90c073f12d24ceb810b8f033e3d7b33ed00ee7f23acb0d7459b4b883fb",
+    "parent": "06f52f4012a018ee40d7b1cb9ac3b2053938509325403793af539ad98e72a96a",
+    "timestamp": "2026-04-12T02:42:22.983Z",
+    "source": "profile:0000034088",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/75591c90c073f12d24ceb810b8f033e3d7b33ed00ee7f23acb0d7459b4b883fb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.983Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

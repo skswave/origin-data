@@ -1,0 +1,269 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "F",
+  "company": "FORD MOTOR CO",
+  "title": "F Q2 FY2018 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2018",
+  "call_date": null,
+  "word_count": 12535,
+  "speakers": [
+    {
+      "name": "James P. Hackett",
+      "title": "President, Chief Executive Officer & Director, Ford Motor Co.",
+      "firm": "Chief Executive Officer & Director",
+      "speaker_type": "executive",
+      "mention_count": 15
+    },
+    {
+      "name": "Robert L. Shanks",
+      "title": "Chief Financial Officer & Executive Vice President, Ford Motor Co.",
+      "firm": "Ford Motor",
+      "speaker_type": "executive",
+      "mention_count": 13
+    },
+    {
+      "name": "Adam Michael Jonas",
+      "title": "Analyst, Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 7
+    },
+    {
+      "name": "John Murphy",
+      "title": "Analyst, Bank of America Merrill Lynch  Brian A. Johnson  Analyst, Barclays Capital, Inc.",
+      "firm": "Bank of America Merrill Lynch  Brian A. Johnson  Analyst",
+      "speaker_type": "analyst",
+      "mention_count": 7
+    },
+    {
+      "name": "Ryan Brinkman",
+      "title": "Analyst, JPMorgan Securities LLC",
+      "firm": "JPMorgan Securities",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "David Tamberrino",
+      "title": "Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Lynn Antipas Tyson",
+      "title": "Executive Director, Investor Relations, Ford Motor Co.",
+      "firm": "Investor Relations",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "James D. Farley",
+      "title": "Executive Vice President & President, Global Markets, Ford Motor Co.",
+      "firm": "Global Markets",
+      "speaker_type": "executive",
+      "mention_count": 3
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 35,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Autonomous Vehicles",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "autonomous"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F gross margin",
+      "predicate": "reported",
+      "object": "$4.3 percent",
+      "value": 4.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F gross margin",
+      "predicate": "reported",
+      "object": "$7.4 percent",
+      "value": 7.4,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F gross margin",
+      "predicate": "reported",
+      "object": "$18 percent",
+      "value": 18,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F gross margin",
+      "predicate": "reported",
+      "object": "$4.2 percent",
+      "value": 4.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F EPS",
+      "predicate": "reported",
+      "object": "$0.27",
+      "value": 0.27,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe will provide substantial benefits from both a growth and a profitability and return perspective",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe we can fund these cash effects without impinging on our other capital outlays including investments for growth and our regular dividend",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect them to play an even greater role",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a   complete or error - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/F/transcripts",
+  "origin": {
+    "leaf": "769ad90f4ec0d89842535df5e608e740e6c756ea2429ca6f8e39527cd8209a96",
+    "parent": "49233bb28d03785143f13a6a6f34b9b5c832dd8e4cd9336b03d594ee35e4159c4037b18e2111e003fcc54362d07ceaf6",
+    "timestamp": "2026-04-12T02:43:08.537Z",
+    "source": "transcript:F_CORRECTED-TRANSCRIPT-Ford-Motor-Co.(F-US)-Q2-2018-Earnings-Call-25-Ju...-(1).pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/769ad90f4ec0d89842535df5e608e740e6c756ea2429ca6f8e39527cd8209a96",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.537Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

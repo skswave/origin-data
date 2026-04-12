@@ -1,0 +1,87 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CMG",
+  "name": "CHIPOTLE MEXICAN GRILL INC",
+  "cik": "0001058090",
+  "summary": "Chipotle Mexican Grill, Inc. owns and operates Chipotle Mexican Grill restaurants featuring burritos, burrito bowls, quesadillas, tacos, and salads made with responsibly sourced ingredients and without artificial colors, flavors, or preservatives. As of December 31, 2025, Chipotle operated 3,938 U.S. restaurants and 104 international company-owned restaurants, plus 14 partner-operated international locations. Revenue is derived solely from restaurant sales, with digital sales representing 36.7% of food and beverage revenue in 2025.",
+  "products": [
+    {
+      "name": "Burritos",
+      "type": "service",
+      "description": "Core menu item served at Chipotle restaurants with responsibly sourced ingredients."
+    },
+    {
+      "name": "Burrito Bowls",
+      "type": "service",
+      "description": "Burrito served without a tortilla; a key menu offering at all Chipotle locations."
+    },
+    {
+      "name": "Quesadillas",
+      "type": "service",
+      "description": "Menu item available at Chipotle restaurants as part of the core menu."
+    },
+    {
+      "name": "Tacos",
+      "type": "service",
+      "description": "Core menu item offered at Chipotle restaurants."
+    },
+    {
+      "name": "Salads",
+      "type": "service",
+      "description": "Menu item available at Chipotle restaurants."
+    },
+    {
+      "name": "Chipotle App",
+      "type": "platform",
+      "description": "Mobile app enabling digital ordering for guests; part of Chipotle's digital platform strategy."
+    },
+    {
+      "name": "Chipotlane",
+      "type": "service",
+      "description": "Drive-through pickup lane for digital orders, expanding Chipotle's convenience and accessibility."
+    },
+    {
+      "name": "Chipotle Rewards",
+      "type": "platform",
+      "description": "Customer loyalty rewards program being relaunched as part of Chipotle's digital modernization strategy."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party delivery aggregators",
+      "partnership_type": "strategic",
+      "description": "Chipotle uses third-party delivery services to facilitate digital sales through its platform.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Partner-operated restaurant operators (Middle East, Mexico, Asia)",
+      "partnership_type": "licensing",
+      "description": "Third parties operate Chipotle restaurants under license or franchise agreements in international markets.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Regional distribution centers",
+      "partnership_type": "strategic",
+      "description": "Independently owned and operated regional distribution centers purchase and supply ingredients to Chipotle restaurants.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CMG/profile",
+  "origin": {
+    "leaf": "4a706ac76c1c8a9fa030c28ea6e61eb4967ee09f1e749b8d68d6f9d5c73d0ef5",
+    "parent": "ef79d0a8dd3acac1a64ee3ffd311a3ae560a17a05ac5f4586e2a7fc37c440326",
+    "timestamp": "2026-04-12T02:42:23.014Z",
+    "source": "profile:0001058090",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4a706ac76c1c8a9fa030c28ea6e61eb4967ee09f1e749b8d68d6f9d5c73d0ef5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.014Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

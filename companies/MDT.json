@@ -1,0 +1,63 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MDT",
+  "name": "Medtronic plc",
+  "cik": "0001613103",
+  "exchange": "NYSE",
+  "sic": "3845",
+  "sic_description": "Electromedical & Electrotherapeutic Apparatus",
+  "state_of_incorporation": null,
+  "headquarters": "Galway, Ireland",
+  "founded": "1949",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0424",
+  "summary": "Medtronic plc, headquartered in Galway, Ireland, is a global healthcare technology company founded in 1949. It develops, manufactures, and sells device-based medical therapies across four segments: Cardiovascular Portfolio, Neuroscience Portfolio, Medical Surgical Portfolio, and Diabetes Operating Unit. Key products include implantable pacemakers (Micra, Azure), cardiac ablation systems, TAVR systems (Evolut FX+), spinal robotics (Mazor), neurostimulators, insulin pumps, and surgical navigation systems (StealthStation S8), serving patients in over 150 countries.",
+  "tags": [
+    "cardiac-rhythm-management",
+    "cardiac-ablation",
+    "structural-heart-and-aortic",
+    "coronary-and-peripheral-vascular",
+    "cranial-and-spinal-technologies",
+    "neurovascular",
+    "ear,-nose,-and-throat",
+    "pelvic-health",
+    "neuromodulation",
+    "diabetes-management",
+    "medical-surgical",
+    "mri-surescan-compatibility",
+    "pulsed-field-ablation-(pfa)",
+    "radiofrequency-ablation-(rfa)",
+    "bluesync-wireless-remote-monitoring",
+    "accurhythm-ai-algorithms",
+    "robotic-assisted-surgery-guidance",
+    "nanolock-surface-technology"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MDT",
+  "origin": {
+    "leaf": "44892728e587bfc5587ae35eacdb744dfc7173c07291e9bda0950a7deb91dd2e",
+    "parent": "70289b068be31938ac830ba726f14c4b98f9a51333ed46843ebe1f1ed03dee50",
+    "timestamp": "2026-04-12T02:42:22.969Z",
+    "source": "0001613103-25-000091",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/44892728e587bfc5587ae35eacdb744dfc7173c07291e9bda0950a7deb91dd2e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.969Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

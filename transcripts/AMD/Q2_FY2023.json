@@ -1,0 +1,142 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AMD",
+  "company": "ADVANCED MICRO DEVICES INC",
+  "title": "AMD Q2 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 2162,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "AMD gross margin",
+      "predicate": "reported",
+      "object": "$46 percent",
+      "value": 46,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AMD gross margin",
+      "predicate": "reported",
+      "object": "$50 percent",
+      "value": 50,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AMD gross margin",
+      "predicate": "reported",
+      "object": "$0 percent",
+      "value": 0,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AMD gross margin",
+      "predicate": "reported",
+      "object": "$20 percent",
+      "value": 20,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "GPU & Accelerators",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "gpu"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMD",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AMD/transcripts",
+  "origin": {
+    "leaf": "2a93810247cc73436c0380550c2a4ba5029dde5a370ab07cd9a002ded075d84d",
+    "parent": "157362a7c3a506c5083e990ebf0df7871fed8668cea46a501ccfb1e775447ad0bf2ece1ccddd2aca08854c99f59843dc",
+    "timestamp": "2026-04-12T02:43:08.448Z",
+    "source": "transcript:AMD_Q2_2023_GAAP_and_Non-GAAP_Earnings_Tables.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2a93810247cc73436c0380550c2a4ba5029dde5a370ab07cd9a002ded075d84d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.448Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

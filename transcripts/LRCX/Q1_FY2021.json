@@ -1,0 +1,142 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "LRCX",
+  "company": "LAM RESEARCH CORP",
+  "title": "LRCX Q1 FY2021 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2021",
+  "call_date": null,
+  "word_count": 2796,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "LRCX total revenue",
+      "predicate": "reported",
+      "object": "$3.18 billion",
+      "value": 3.18,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX total revenue",
+      "predicate": "reported",
+      "object": "$2,792 million",
+      "value": 2792,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX total revenue",
+      "predicate": "reported",
+      "object": "$3.3 Billion",
+      "value": 3.3,
+      "unit": "Billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX gross margin",
+      "predicate": "reported",
+      "object": "$47.4 percent",
+      "value": 47.4,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX gross margin",
+      "predicate": "reported",
+      "object": "$47.5 percent",
+      "value": 47.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX EPS",
+      "predicate": "reported",
+      "object": "$5.59.",
+      "value": 5.59,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX EPS",
+      "predicate": "reported",
+      "object": "$5.67.",
+      "value": 5.67,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LRCX",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/LRCX/transcripts",
+  "origin": {
+    "leaf": "01819d672e53f69203b1b03a56de14c841fc5dd4b0e880230a07eb6407a780e3",
+    "parent": "dff03e49d165633569dd1567955b7599980aae16b7bb121e8b4e848574d5605ac503d094ecac636bef726864cb9226c1",
+    "timestamp": "2026-04-12T02:43:08.750Z",
+    "source": "transcript:LRCX_LRCX_Exhibit_99.1_Q1_2021+%283%29.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/01819d672e53f69203b1b03a56de14c841fc5dd4b0e880230a07eb6407a780e3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.750Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

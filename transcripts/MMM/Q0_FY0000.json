@@ -1,0 +1,460 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "MMM",
+  "company": "3M CO",
+  "title": "MMM   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 11817,
+  "speakers": [
+    {
+      "name": "Jeff",
+      "title": "Analyst  Scott Davis  Melius Research LLC - Analyst  Julian Mitchell  Barclays Services Corp - Analyst  Joseph O'Dea  Wells Fargo Securities LLC - Analyst  C. Stephen Tusa  JPMorgan Chase & Co - Analyst  Andrew Obin  Bofa Merrill Lynch Asset Holdings Inc - Analyst  Amit Mehrotra  UBS AG - Equity Analyst  Nicole DeBlase  Deutsche Bank AG - Analyst  Chris Snyder  Morgan Stanley - Analyst  Andrew Kaplowitz  Citibank Cameroon SA (Douala Branch) - Analyst, Sprague  Vertical Research Partners",
+      "firm": "Scott Davis  Melius Research",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "MMM",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MMM",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MMM",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MMM gross margin",
+      "predicate": "reported",
+      "object": "$21.1 percent",
+      "value": 21.1,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MMM gross margin",
+      "predicate": "reported",
+      "object": "$23.4 percent",
+      "value": 23.4,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MMM EPS",
+      "predicate": "reported",
+      "object": "$1.83",
+      "value": 1.83,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MMM EPS",
+      "predicate": "reported",
+      "object": "$8.50",
+      "value": 8.5,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "MMM EPS",
+      "predicate": "reported",
+      "object": "$8.06.",
+      "value": 8.06,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "MMM",
+      "predicate": "guided",
+      "object": "expect total company income to grow by $400 million",
+      "value": 400,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "MMM",
+      "predicate": "guided",
+      "object": "expected to be greater than 100%, driven by strong operating income growth and a focus on working capital management and we plan to deploy capital effectively, including a gross share repurchase of ap",
+      "value": 2.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "MMM",
+      "predicate": "guided",
+      "object": "expected to be $100 million",
+      "value": 100,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "MMM",
+      "predicate": "guided",
+      "object": "expect and the trade flow as I mentioned, it could be a $30 million",
+      "value": 30,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "We expect this growth to continue with 350 launches in 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "we expect organic sales growth of approximately 3%, adjusted operating margin expansion of 70 to 80 basis points and earnings per share of $8",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "We expect most of our industrial businesses to continue to perform well in '26 with watch items, including the pace and timing of a US consumer recovery, auto ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "We expect organic sales growth to be approximately 3% and earnings per share ranging from $8",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "We expect sales to accelerate for all business groups",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "we expect this growth rate will accelerate in 2026, supported by ongoing commercial excellence initiatives strong service levels and continued new product intr",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "we expect consumer to return to growth in 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "we expect total company income to grow by $400 million at the midpoint of our 70 to 80 basis points margin expansion guidance",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "we expect the rate of sales growth to increase through the year, with margin and EPS equal between the two halves",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "we believe in our business, electronics will continue to grow",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "we expect that to accelerate in '26 from what we experienced in '25",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "We expect it will be about 80 basis points more or less in 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "we expect the consumer business to still be down, for example, and then that picks up steam through the year?  Anurag Maheshwari  - 3M Co - Chief Financial Off",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "we expect the first half and second half to be equal",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "We expect the macro in 2026 to be a little bit better at 1",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "we expect to see more of that coming into 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "We expect half of that to come out of supply chain, which is continued cost of poor quality, bringing it down, procurement, managing a four wall spend in the f",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "we expect and the trade flow as I mentioned, it could be a $30 million, $40 million impact this year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "We expect some softness in the beginning of this year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MMM",
+      "predicate": "stated",
+      "object": "we expect will launch in 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MMM",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MMM",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MMM",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MMM",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MMM",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MMM",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MMM",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MMM",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MMM",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MMM",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/MMM/transcripts",
+  "origin": {
+    "leaf": "41e01ad4500d50f2ac7c171ba7ed005a05b295aca6b149281a495fbbc30adf2d",
+    "parent": "6c750c3150b1b430d8f510c11ab6f7bf13df80aa2164b52f96dacc451b17a8e8178010c5e41b84a27eb0b3026dbc5596",
+    "timestamp": "2026-04-12T02:43:08.761Z",
+    "source": "transcript:MMM_MMM-USQ_Transcript_2026-01-20.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/41e01ad4500d50f2ac7c171ba7ed005a05b295aca6b149281a495fbbc30adf2d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.761Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

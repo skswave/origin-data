@@ -1,0 +1,92 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ORCL",
+  "name": "ORACLE CORP",
+  "cik": "0001341439",
+  "summary": "Oracle Corporation provides enterprise IT products and services including cloud applications (OCA), cloud infrastructure (OCI), database software, middleware, hardware (Engineered Systems, servers, storage), and professional services. Offerings are delivered via on-premise, cloud-based, and hybrid deployment models. Customers include businesses, government agencies, and educational institutions worldwide. Oracle invested $9.9 billion in R&D in fiscal 2025 to enhance existing offerings and develop new technologies including AI integration.",
+  "products": [
+    {
+      "name": "Oracle Cloud Applications (OCA)",
+      "type": "platform",
+      "description": "Cloud-based enterprise applications including ERP, delivered and managed by Oracle."
+    },
+    {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "type": "platform",
+      "description": "Cloud infrastructure services powering compute, data, and generative AI workloads."
+    },
+    {
+      "name": "Oracle Fusion Cloud ERP",
+      "type": "software",
+      "description": "Strategic cloud ERP suite supporting accounting, supply chain, risk management, and financial planning."
+    },
+    {
+      "name": "Oracle Database",
+      "type": "software",
+      "description": "Enterprise database software deployable on-premise or via Oracle Cloud."
+    },
+    {
+      "name": "Oracle Middleware",
+      "type": "software",
+      "description": "Software layer enabling integration and interoperability across applications and infrastructure."
+    },
+    {
+      "name": "Oracle Engineered Systems",
+      "type": "hardware",
+      "description": "Integrated hardware systems including Oracle Exadata Cloud@Customer for on-premise cloud deployments."
+    },
+    {
+      "name": "Oracle Exadata Cloud@Customer",
+      "type": "hardware",
+      "description": "On-premise hardware running Oracle cloud services, used by financial institutions for banking applications."
+    },
+    {
+      "name": "Oracle License Support",
+      "type": "service",
+      "description": "Support contracts providing product enhancements and maintenance for license and hardware deployments."
+    },
+    {
+      "name": "Oracle Professional Services",
+      "type": "service",
+      "description": "Consulting and implementation services to maximize customer performance of Oracle investments."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Oracle Partner Network",
+      "partnership_type": "strategic",
+      "description": "Indirect sales and distribution channel through a global network of resellers and partners.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ampere Computing Holdings LLC",
+      "partnership_type": "strategic",
+      "description": "Oracle holds an investment in Ampere; pending acquisition of Ampere by SoftBank Group Corp.",
+      "start_date": null
+    },
+    {
+      "partner_name": "SoftBank Group Corp.",
+      "partnership_type": "strategic",
+      "description": "Pending acquisition of Ampere Computing Holdings LLC, in which Oracle holds an investment.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ORCL/profile",
+  "origin": {
+    "leaf": "7d3668b54c846480fc905ecc1b621774b28612999365431cb69e5aa22e50f175",
+    "parent": "cd1acc74386ae0fadc5c089ee5b38df1b913b0c3acc39c7330045629ecafe8c2",
+    "timestamp": "2026-04-12T02:42:23.004Z",
+    "source": "profile:0001341439",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7d3668b54c846480fc905ecc1b621774b28612999365431cb69e5aa22e50f175",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.004Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

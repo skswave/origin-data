@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "NVDA",
+  "name": "NVIDIA CORP",
+  "cik": "0001045810",
+  "exchange": "Nasdaq",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "state_of_incorporation": "DE",
+  "headquarters": "Santa Clara, California",
+  "founded": "1993",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0131",
+  "summary": "NVIDIA is a data center scale AI infrastructure company that pioneered accelerated computing. It designs GPUs, CPUs, networking solutions, and full software stacks including CUDA, NVIDIA AI Enterprise, DRIVE, Clara, and Omniverse. Its platforms serve Data Center, Gaming, Professional Visualization, and Automotive markets, powering AI training, inference, autonomous driving, scientific computing, and 3D graphics for cloud providers, enterprises, and researchers worldwide.",
+  "tags": [
+    "data-center",
+    "gaming",
+    "professional-visualization",
+    "automotive",
+    "cuda",
+    "tensor-core",
+    "top500-supercomputer-benchmarking",
+    "green500-energy-efficiency-benchmarking"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/NVDA",
+  "origin": {
+    "leaf": "6a23d35a319a277df2790cbace3602a37b027ce34d18dff5e42c4bd7fe63cf81",
+    "parent": "398b5f3b2d684cdee71c3099786c7e3c87a243e631279003da0b40a259e63426",
+    "timestamp": "2026-04-12T02:42:22.962Z",
+    "source": "0001045810-26-000021",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6a23d35a319a277df2790cbace3602a37b027ce34d18dff5e42c4bd7fe63cf81",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.962Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

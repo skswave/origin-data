@@ -1,0 +1,306 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "DE",
+  "company": "DEERE & CO",
+  "title": "DE Q2 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 11835,
+  "speakers": [
+    {
+      "name": "Josh Beal",
+      "title": "Director, Investor Relations, Deere & Co.",
+      "firm": "Investor Relations",
+      "speaker_type": "executive",
+      "mention_count": 22
+    },
+    {
+      "name": "Joshua Jepsen",
+      "title": "Senior Vice President & Chief   Financial Officer, Deere & Co.",
+      "firm": "Deere &",
+      "speaker_type": "executive",
+      "mention_count": 12
+    },
+    {
+      "name": "Rob Wertheimer",
+      "title": "Analyst, Melius Research LLC",
+      "firm": "Melius Research",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Tim W. Thein",
+      "title": "Analyst, Raymond James & Associates, Inc.",
+      "firm": "Raymond James & Associates",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Jamie Cook",
+      "title": "Analyst, Truist Securities, Inc.",
+      "firm": "Truist Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "David Raso",
+      "title": "Analyst, E vercore ISI  Jerry Revich  Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Chad Dillard",
+      "title": "Analyst, Bernstein Institutional Services LLC",
+      "firm": "Bernstein Institutional Services",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Kristen Owen",
+      "title": "Analyst, Oppenheimer & Co., Inc.",
+      "firm": "Oppenheimer &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Stephen Volkmann",
+      "title": "Analyst, Jefferies LLC",
+      "firm": "Jefferies",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 14,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 37,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "cloud"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DE",
+      "predicate": "guided",
+      "object": "outlook remains at $750 million",
+      "value": 750,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DE",
+      "predicate": "guided",
+      "object": "outlook for net income has widened to between $4.75 billion",
+      "value": 4.75,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DE",
+      "predicate": "guided",
+      "object": "forecast, we expect a pre - tax tariff impact in fiscal year 2025 of just over $500 million",
+      "value": 500,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "we expect going forward? And what have we  incorporated into our guide for the rest of the year?  ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "we expect a pre - tax tariff impact in fiscal year 2025 of just over $500 million, should  these tariff levels continue   throughout the remainder of the fisca",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "we expect that to increase as we continue to engage   with our customers in the renewal process",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "We expect production costs, ex tariffs, to continue to be positive",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "we believe we'll get price? Yes",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DE",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is   not guaranteed by us and does not purport to be a complete or error - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DE",
+      "predicate": "guided",
+      "object": "fiscal year 2025, our outlook remains at $750 million",
+      "value": 750,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DE",
+      "predicate": "guided",
+      "object": "fiscal year 2025 of just over $500 million",
+      "value": 500,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Autonomous Vehicles",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "autonomous"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DE",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/DE/transcripts",
+  "origin": {
+    "leaf": "2d248173d0d842a63007ad9319e236fb2eb393d859e8ba479c9db1b43bf10edd",
+    "parent": "51128ad34350ea0e9d2c5dc829045bd4c9e22929e60d59673cd00a5e8e16ec8ac608fa6eb8c3b3131172869637e934eb",
+    "timestamp": "2026-04-12T02:43:08.498Z",
+    "source": "transcript:DE_CORRECTED-TRANSCRIPT_-Deere-Co-DE-US-Q2-2025-Earnings-Call-15-May-2025-10_00-AM-ET-1.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2d248173d0d842a63007ad9319e236fb2eb393d859e8ba479c9db1b43bf10edd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.498Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

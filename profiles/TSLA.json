@@ -1,0 +1,216 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TSLA",
+  "name": "Tesla, Inc.",
+  "cik": "0001318605",
+  "summary": "Tesla, Inc. designs, develops, manufactures, sells, and leases fully electric vehicles (Model 3, Y, S, X, Cybertruck, Semi) and energy generation and storage products (Powerwall, Megapack, Solar Roof, solar panels). The company also offers autonomous driving technology (FSD Supervised), a Robotaxi ride-hailing service, and is developing the Optimus humanoid robot. Tesla sells directly to consumers and operates two segments: automotive and energy generation and storage.",
+  "products": [
+    {
+      "name": "Model 3",
+      "type": "hardware",
+      "description": "Four-door mid-size electric sedan designed for manufacturability with mass-market base price."
+    },
+    {
+      "name": "Model Y",
+      "type": "hardware",
+      "description": "Compact electric SUV built on Model 3 platform with seating for up to seven adults."
+    },
+    {
+      "name": "Model S",
+      "type": "hardware",
+      "description": "Four-door full-size electric sedan with highest performance and longest range in sedan category."
+    },
+    {
+      "name": "Model X",
+      "type": "hardware",
+      "description": "Mid-size electric SUV with seating for up to seven adults and highest range in SUV category."
+    },
+    {
+      "name": "Cybertruck",
+      "type": "hardware",
+      "description": "Full-size electric pickup truck with stainless steel exterior combining truck utility with sports car speed."
+    },
+    {
+      "name": "Tesla Semi",
+      "type": "hardware",
+      "description": "Commercial fully electric vehicle; early production and deliveries began in 2022."
+    },
+    {
+      "name": "Cybercab",
+      "type": "hardware",
+      "description": "Purpose-built autonomous vehicle intended for use in the Robotaxi service."
+    },
+    {
+      "name": "Optimus",
+      "type": "hardware",
+      "description": "General purpose autonomous humanoid robot currently in development."
+    },
+    {
+      "name": "Full Self-Driving (FSD) (Supervised)",
+      "type": "software",
+      "description": "Advanced driver assistance and autonomous driving software delivered via over-the-air updates."
+    },
+    {
+      "name": "Robotaxi",
+      "type": "service",
+      "description": "Autonomous ride-hailing platform launched June 2025, currently operating with Model Y vehicles."
+    },
+    {
+      "name": "Powerwall",
+      "type": "hardware",
+      "description": "Lithium-ion battery energy storage product for homes or small commercial facilities; sold and leased."
+    },
+    {
+      "name": "Megapack",
+      "type": "hardware",
+      "description": "Large-scale lithium-ion energy storage solution for commercial, industrial, utility and energy generation customers."
+    },
+    {
+      "name": "Solar Roof",
+      "type": "hardware",
+      "description": "Premium glass roof tiles with integrated solar energy generation capability."
+    },
+    {
+      "name": "Solar Panels",
+      "type": "hardware",
+      "description": "Residential retrofit solar panel; new version manufactured in 2025 with initial deliveries in January 2026."
+    },
+    {
+      "name": "Autobidder",
+      "type": "platform",
+      "description": "Real-time energy control and optimization platform for Megapack batteries."
+    },
+    {
+      "name": "Powerhub",
+      "type": "platform",
+      "description": "Real-time energy control and optimization platform for distributed energy resources including Powerwall."
+    },
+    {
+      "name": "Cortex",
+      "type": "hardware",
+      "description": "AI training compute cluster located at Gigafactory Texas, expanded in 2025; Cortex 2 currently under construction."
+    },
+    {
+      "name": "Supercharger Network",
+      "type": "service",
+      "description": "Paid fast-charging network for Tesla vehicles; revenue included in automotive services segment."
+    },
+    {
+      "name": "Model 3",
+      "type": "hardware",
+      "description": "Four-door mid-size fully electric sedan designed for manufacturability with mass-market base price."
+    },
+    {
+      "name": "Model Y",
+      "type": "hardware",
+      "description": "Compact electric SUV built on Model 3 platform with seating for up to seven adults."
+    },
+    {
+      "name": "Model S",
+      "type": "hardware",
+      "description": "Four-door full-size electric sedan with highest performance and longest range in Tesla's sedan lineup."
+    },
+    {
+      "name": "Model X",
+      "type": "hardware",
+      "description": "Mid-size electric SUV with seating for up to seven adults and highest performance in Tesla's SUV lineup."
+    },
+    {
+      "name": "Cybertruck",
+      "type": "hardware",
+      "description": "Full-size electric pickup truck with stainless steel exterior combining truck utility with sports car speed."
+    },
+    {
+      "name": "Tesla Semi",
+      "type": "hardware",
+      "description": "Commercial fully electric vehicle; early production and deliveries began in 2022."
+    },
+    {
+      "name": "Cybercab",
+      "type": "hardware",
+      "description": "Purpose-built autonomous vehicle intended for inclusion in the Robotaxi fleet over time."
+    },
+    {
+      "name": "Optimus",
+      "type": "hardware",
+      "description": "General purpose autonomous humanoid robot in development, leveraging AI learnings from self-driving technology."
+    },
+    {
+      "name": "Full Self-Driving (FSD) (Supervised)",
+      "type": "software",
+      "description": "Advanced driver assistance and autonomous driving software updated via over-the-air updates; subscription available."
+    },
+    {
+      "name": "Robotaxi",
+      "type": "service",
+      "description": "Autonomous ride-hailing platform launched June 2025, currently operating with Model Y vehicles."
+    },
+    {
+      "name": "Powerwall",
+      "type": "hardware",
+      "description": "Lithium-ion battery energy storage product for homes or small commercial facilities; sold and leased."
+    },
+    {
+      "name": "Megapack",
+      "type": "hardware",
+      "description": "Large-scale lithium-ion energy storage solution for commercial, industrial, utility, and energy generation customers."
+    },
+    {
+      "name": "Solar Roof",
+      "type": "hardware",
+      "description": "Premium glass roof tiles combined with solar energy generation; designed to integrate with Powerwall."
+    },
+    {
+      "name": "Solar Panels",
+      "type": "hardware",
+      "description": "Residential retrofit solar panels; new version began manufacturing in 2025 with initial deliveries in January 2026."
+    },
+    {
+      "name": "Autobidder",
+      "type": "platform",
+      "description": "Real-time energy control and optimization platform for remotely controlling and dispatching Megapack batteries."
+    },
+    {
+      "name": "Powerhub",
+      "type": "platform",
+      "description": "Software platform for optimizing distributed energy resources including Powerwall-enabled virtual power plants."
+    },
+    {
+      "name": "Cortex",
+      "type": "hardware",
+      "description": "AI training compute cluster at Gigafactory Texas, expanded in 2025; Cortex 2 currently under construction."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Samsung",
+      "partnership_type": "development",
+      "description": "Collaboration to manufacture advanced semiconductors for AI inference and training in the U.S.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Samsung",
+      "partnership_type": "strategic",
+      "description": "Collaboration announced in 2025 to manufacture advanced semiconductors for AI inference and training in the U.S.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TSLA/profile",
+  "origin": {
+    "leaf": "241aef9ba808cc7a730b4ceab379b6c58db9254e9bd76c06cc2b559849866fa7",
+    "parent": "a250ae3f6e784cca533a85af1318f2eb489271b7c7c2335d1bef7649e2e143d3",
+    "timestamp": "2026-04-12T02:42:23.012Z",
+    "source": "profile:0001318605",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/241aef9ba808cc7a730b4ceab379b6c58db9254e9bd76c06cc2b559849866fa7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.012Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

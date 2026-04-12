@@ -1,0 +1,53 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "HD",
+  "name": "HOME DEPOT, INC.",
+  "cik": "0000354950",
+  "exchange": "NYSE",
+  "sic": "5211",
+  "sic_description": "Retail-Lumber & Other Building Materials Dealers",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0201",
+  "summary": "Home Depot, Inc. is a home improvement retailer offering a broad range of products and services including building materials, home improvement products, lawn and garden items, and installation and professional services. The company serves both Do-It-Yourself (DIY) and Do-It-For-Me (DIFM) customers, as well as professional contractors (Pro customers), through its retail stores and interconnected digital platforms including Buy Online options for pickup, delivery, and ship-to-store.",
+  "tags": [
+    "do-it-yourself-(diy)-consumers",
+    "do-it-for-me-(difm)-consumers",
+    "professional-contractors-(pro-customers)",
+    "maintenance,-repair,-and-operations-(mro)",
+    "home-improvement-retail",
+    "building-materials-distribution",
+    "u.s.-generally-accepted-accounting-principles-(gaap)",
+    "artificial-intelligence-(ai)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/HD",
+  "origin": {
+    "leaf": "99b7d7831a99ee011ca2aee8e26bb585c9d9fd8d6c9926da826c99d3245ac448",
+    "parent": "051accc38d4502036a469dfb5adb1c312d99241d7355776f8e15933e9052490b",
+    "timestamp": "2026-04-12T02:42:22.957Z",
+    "source": "0001628280-26-019436",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/99b7d7831a99ee011ca2aee8e26bb585c9d9fd8d6c9926da826c99d3245ac448",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.957Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

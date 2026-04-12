@@ -1,0 +1,234 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "JPM",
+  "company": "JPMORGAN CHASE & CO",
+  "title": "JPM Q2 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 98949,
+  "speakers": [
+    {
+      "name": "Corporate Results",
+      "title": "Description of business segment reporting methodology on pages 70–90 and Note 32 of JPMorganChase’s 2024 Form 10-K for a further discussion of those methodologies",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 16
+    },
+    {
+      "name": "Part II",
+      "title": "Other information  Item 1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 4
+    },
+    {
+      "name": "Dealogic.",
+      "title": "Debt underwriting fees were $1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 55,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 76,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 111,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 121,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 271,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "JPM gross margin",
+      "predicate": "reported",
+      "object": "$2.76 percent",
+      "value": 2.76,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "JPM EPS",
+      "predicate": "reported",
+      "object": "$5.24",
+      "value": 5.24,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "JPM",
+      "predicate": "guided",
+      "object": "expects net interest income to be approximately $95.5 billion",
+      "value": 95.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "JPM",
+      "predicate": "guided",
+      "object": "expects adjusted expense to be approximately $95.5 billion",
+      "value": 95.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "JPM",
+      "predicate": "guided",
+      "object": "outlook, and • $444 million",
+      "value": 444,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "JPM",
+      "predicate": "guided",
+      "object": "outlook, and • $165 million",
+      "value": 165,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gaming"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/JPM/transcripts",
+  "origin": {
+    "leaf": "53f3610b38304f4c501e2ce6433cf64c6904b12ef3b69becbd28cab8e911b3c1",
+    "parent": "cf25afaf7fc3b89a57bca506c76ea2f97b604ebba90860a83abdeaf10ef4885a5adb0d2e5eaa82b21a87ed3e37aca5fe",
+    "timestamp": "2026-04-12T02:43:08.713Z",
+    "source": "transcript:JPM_corp-q2-2025.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/53f3610b38304f4c501e2ce6433cf64c6904b12ef3b69becbd28cab8e911b3c1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.713Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

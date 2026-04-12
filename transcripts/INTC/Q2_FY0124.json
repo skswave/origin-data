@@ -1,0 +1,510 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "INTC",
+  "company": "INTEL CORP",
+  "title": "INTC Q2 FY0124 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY0124",
+  "call_date": null,
+  "word_count": 4481,
+  "speakers": [
+    {
+      "name": "Closing",
+      "title": "Pat Gelsinger, Intel chief executive officer:  I want to thank everyone again for joining the call today",
+      "firm": "Intel chief executive officer:  I want to thank everyone again for joining the call today",
+      "speaker_type": "executive",
+      "mention_count": 3
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 29,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 23,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTC total revenue",
+      "predicate": "reported",
+      "object": "$4.3 billion",
+      "value": 4.3,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTC total revenue",
+      "predicate": "reported",
+      "object": "$440 million",
+      "value": 440,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTC total revenue",
+      "predicate": "reported",
+      "object": "$361 million",
+      "value": 361,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTC total revenue",
+      "predicate": "reported",
+      "object": "$12.5 billion",
+      "value": 12.5,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTC gross margin",
+      "predicate": "reported",
+      "object": "$38.7 percent",
+      "value": 38.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTC free cash flow",
+      "predicate": "reported",
+      "object": "$8.2 billion",
+      "value": 8.2,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "INTC",
+      "predicate": "mentioned",
+      "object": "H100",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "INTC",
+      "predicate": "guided",
+      "object": "expect gross CapEx (capital expenditures) in 2024 to be between $25 billion",
+      "value": 25,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "INTC",
+      "predicate": "guided",
+      "object": "expect net capital spending in 2024 of between $11 billion",
+      "value": 11,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "INTC",
+      "predicate": "guided",
+      "object": "expect revenue of $12.5 billion",
+      "value": 12.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "INTC",
+      "predicate": "guided",
+      "object": "expect operating expenses to be reduced from street expectations of $21 billion",
+      "value": 21,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "INTC",
+      "predicate": "guided",
+      "object": "expect it to be a more meaningful driver, reducing our controlled share of income by approximately $700 million",
+      "value": 700,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "We believe the trade-offs are worth it",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "we expect to drive a meaningful reduction in our spending and headcount beginning in the second half of this year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "We expect further benefits in 2026, with OpEx to decline in absolute dollars yet again",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "we expect net capital spending in 2024 of between $11 billion and $13 billion",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "we expect to deliver sequential revenue growth through the rest of the year, the pace of the recovery will be slower than expected, which is reflected in our Q",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "we expect Gaudi 3 to deliver roughly 2x performance per dollar on both inference and training versus H100",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "We expect the IPU to be accretive to growth and profitability as it becomes an increasingly important part of acceleration in the AI data center",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "We expect their increased autonomy will help to drive value for our shareholders, similar to the decisions we made with Mobileye two years ago and IMS last yea",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "We expect sequential growth in the data center through the second half as demand for traditional servers improves modestly",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "We expect operating losses to continue at approximately the same rate in Q3, with more than 85 percent of wafer volume still coming from pre-EUV nodes with an ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "we believe it is now complete",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "We expect double-digit sequential revenue growth through the second half as customers return to more normal buying patterns",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "We expect customers to reduce inventory over the second half of the year, along with the continued modest negative impact from export controls",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "We expect gross margins to be moderately weaker sequentially, with modest revenue growth and efficiencies offset by a continued ramp of new manufacturing nodes",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "we expect revenue of $12",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "we expect gross margin of approximately 38%, with a tax rate of 13% and EPS of negative 3 cents, all on a non-GAAP basis",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "we expect to achieve positive adjusted free cash flow",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "we expect operating expenses to be reduced from street expectations of $21 billion to approximately $17",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "INTC",
+      "predicate": "stated",
+      "object": "we expect it to be a more meaningful driver, reducing our controlled share of income by approximately $700 million on a GAAP basis in 2025, and increasing as w",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "INTC",
+      "predicate": "guided",
+      "object": "next year, with 2025 OpEx\n\nCEO/CFO Earnings Call Comments  targeted at $17.5 billion",
+      "value": 17.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "GPU & Accelerators",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "gpu"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "INTC",
+      "predicate": "mentioned",
+      "object": "Intel",
+      "value": 59,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gaming"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/INTC/transcripts",
+  "origin": {
+    "leaf": "8ba35f341afd3a41f585e1b6fb382d46edd29e571d1f38c3f90fd5cc00018527",
+    "parent": "8ff6ed1d0ee9e4ccb92632f4ed41b8e46575ff0412efea1076fe4c04fb10cb36e7c86c97a3bd941a6b3a0b859b61d9b4",
+    "timestamp": "2026-04-12T02:43:08.557Z",
+    "source": "transcript:INTC_Earnings-Call-2Q2024-080124.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8ba35f341afd3a41f585e1b6fb382d46edd29e571d1f38c3f90fd5cc00018527",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.558Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

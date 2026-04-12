@@ -1,0 +1,328 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "KO",
+  "company": "COCA COLA CO",
+  "title": "KO Q1 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 10785,
+  "speakers": [
+    {
+      "name": "John Murphy",
+      "title": "President & Chief Financial Officer, The   Coca - Cola Co.",
+      "firm": "The   Coca - Cola",
+      "speaker_type": "executive",
+      "mention_count": 7
+    },
+    {
+      "name": "Robert Moskow",
+      "title": "Analyst, TD Cowen  Robert Ottenstein  Analyst, Evercore ISI  Callum Elliott  Analyst, Bernstein Autonomous LLP",
+      "firm": "Bernstein Autonomous",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Robin Halpern",
+      "title": "Vice President & Head - Investor Relations, The Coca - Cola Co.",
+      "firm": "The Coca - Cola",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "Dara Mohsenian",
+      "title": "Analyst, Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Steve Powers",
+      "title": "Analyst, Deutsche   Bank Securities, Inc.",
+      "firm": "Deutsche   Bank Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Bonnie Herzog",
+      "title": "Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Andrea Teixeira",
+      "title": "Analyst, JPMorgan Securities LLC",
+      "firm": "JPMorgan Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Chris Carey",
+      "title": "Analyst, Wells Fargo Securities LLC",
+      "firm": "Wells Fargo Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Filippo Falorni",
+      "title": "Analyst, Citigroup Global Markets, Inc.",
+      "firm": "Citigroup Global Markets",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Peter Grom",
+      "title": "Analyst, UBS   Securities LLC",
+      "firm": "UBS   Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Carlos Laboy",
+      "title": "Analyst, HSBC Securities (USA), Inc.",
+      "firm": "HSBC Securities (USA)",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Bryan D. Spillane",
+      "title": "Analyst, BofA Securities, Inc.",
+      "firm": "BofA Securities",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    },
+    {
+      "name": "Lauren R. Lieberman",
+      "title": "Analyst, Barclays Capital, Inc.",
+      "firm": "Barclays Capital",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    },
+    {
+      "name": "William B. Chappell",
+      "title": "Analyst, Truist Securities, Inc.",
+      "firm": "Truist Securities",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    },
+    {
+      "name": "Brett John Cooper",
+      "title": "Analyst, Consumer Edge Research LLC",
+      "firm": "Consumer Edge Research",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "KO",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "KO gross margin",
+      "predicate": "reported",
+      "object": "$61 percent",
+      "value": 61,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "KO EPS",
+      "predicate": "reported",
+      "object": "$0.72",
+      "value": 0.72,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KO",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KO",
+      "predicate": "stated",
+      "object": "we believe our two - brand strategy with Powerade  and BODYARMOR is gaining traction and we've seen improved share trends",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KO",
+      "predicate": "stated",
+      "object": "we believe in\n\nThe Coca - Cola Co",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KO",
+      "predicate": "stated",
+      "object": "we expect to moderate throughout the year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KO",
+      "predicate": "stated",
+      "object": "we anticipate an approximate 4 to   5 point currency headwind to  comparable net revenues and an approximate 7 to 8 point currency headwind to comparable earnings ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KO",
+      "predicate": "stated",
+      "object": "We expect to continue to have some expansion, as reflected in our ongoing   –   in the growth   model, driven by both  positive RGM impacts and some productivi",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KO",
+      "predicate": "stated",
+      "object": "we expect that to moderate as the y ear goes on and we expect to see 2024 being a much  more normal year in terms of pricing",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KO",
+      "predicate": "stated",
+      "object": "We believe that the businesses can co ntinue to grow in Latin  America, both in volume and revenue terms",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KO",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a   complete or error - free statement or summary of the available   data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KO",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KO",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KO",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KO",
+      "predicate": "discussed",
+      "object": "Autonomous Vehicles",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "autonomous"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KO",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KO",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KO",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gaming"
+    }
+  ],
+  "qa_count": 11,
+  "live_api": "https://origin.rootz.global/api/company/KO/transcripts",
+  "origin": {
+    "leaf": "b2bb9e0c257a23da914b7cc6e56c5721bd706cb5d5ca50b68ef1eb10aee37540",
+    "parent": "8a7053c38b73f2ecd258b2cbab8f06d3010536ad6e3cacf231b597a968ba1238970292ba99a0aace4ed72eaded18412a",
+    "timestamp": "2026-04-12T02:43:08.736Z",
+    "source": "transcript:KO_CORRECTED_TRANSCRIPT__The_Coca-Cola_Co.%28KO-US%29%2C_Q1_2024_Earnings_Call%2C_30-April-2024_8_30_AM_ET.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b2bb9e0c257a23da914b7cc6e56c5721bd706cb5d5ca50b68ef1eb10aee37540",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.736Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

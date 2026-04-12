@@ -1,0 +1,104 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "FTNT",
+  "name": "Fortinet, Inc.",
+  "cik": "0001262039",
+  "summary": "Fortinet, Inc. is a global cybersecurity company headquartered in Sunnyvale, California, focused on the convergence of networking and security. Its integrated platform, the Fortinet Security Fabric, spans secure networking, unified SASE, and AI-driven security operations. Key proprietary technologies include FortiOS (unified operating system), FortiASIC (custom security processors), FortiCloud (private SaaS cloud), FortiAI (AI-powered security), and FortiEndpoint. As of December 31, 2025, Fortinet served end-customers in over 100 countries across financial services, retail, healthcare, OT, government, and service provider verticals.",
+  "products": [
+    {
+      "name": "FortiOS",
+      "type": "software",
+      "description": "Unified operating system enabling convergence of networking and AI-powered security across all form factors and edges."
+    },
+    {
+      "name": "FortiASIC",
+      "type": "hardware",
+      "description": "ASIC-based security processing units (SPUs) that increase speed, scale, and efficiency of Fortinet appliances."
+    },
+    {
+      "name": "FortiCloud",
+      "type": "platform",
+      "description": "Organically built global private cloud SaaS platform powered by FortiStack for secure cloud services."
+    },
+    {
+      "name": "FortiAI",
+      "type": "software",
+      "description": "Dual-layered AI defense framework including FortiAI-Assist, FortiAI-Protect, and FortiAI-SecureAI across the Security Fabric."
+    },
+    {
+      "name": "FortiEndpoint",
+      "type": "software",
+      "description": "Single-agent solution converging secure connectivity, endpoint protection, EDR, and Universal ZTNA."
+    },
+    {
+      "name": "Fortinet Security Fabric",
+      "type": "platform",
+      "description": "Integrated cybersecurity platform spanning secure networking, unified SASE, and AI-driven SecOps."
+    },
+    {
+      "name": "FortiGuard OT Security Services",
+      "type": "service",
+      "description": "Security services for operational technology, CPS assets, and critical infrastructure environments."
+    },
+    {
+      "name": "FortiCare",
+      "type": "service",
+      "description": "Technical support services provided to Fortinet customers."
+    },
+    {
+      "name": "FortiGuard",
+      "type": "service",
+      "description": "Security subscription services including threat intelligence and OT security services."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party channel partners",
+      "partnership_type": "strategic",
+      "description": "Fortinet relies on third-party channel partners for substantially all of its billings and revenue.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Third-party distributors",
+      "partnership_type": "strategic",
+      "description": "A small number of distributors represent a large percentage of Fortinet's revenue and accounts receivable.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Third-party manufacturers",
+      "partnership_type": "strategic",
+      "description": "Fortinet depends on third-party manufacturers to build its products and supply components.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Public cloud providers",
+      "partnership_type": "strategic",
+      "description": "Fortinet uses public cloud providers for hosting back-end labs and cloud stacks.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Colocation vendors",
+      "partnership_type": "strategic",
+      "description": "Fortinet uses colocation vendors for hosting operational infrastructure.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/FTNT/profile",
+  "origin": {
+    "leaf": "028da3a9f6ab9f319bc2063a9303c91e026276b2b5c4feeab523a8bd579e5e5f",
+    "parent": "21a756c3300d4a34c3eb67d74ae8c00c70a70ec1d22365424f70387021940404",
+    "timestamp": "2026-04-12T02:42:23.026Z",
+    "source": "profile:0001262039",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/028da3a9f6ab9f319bc2063a9303c91e026276b2b5c4feeab523a8bd579e5e5f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.026Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

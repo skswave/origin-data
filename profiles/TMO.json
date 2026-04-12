@@ -1,0 +1,87 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TMO",
+  "name": "THERMO FISHER SCIENTIFIC INC.",
+  "cik": "0000097745",
+  "summary": "Thermo Fisher Scientific Inc. is the world leader in serving science, enabling customers to make the world healthier, cleaner, and safer. The company provides innovative technologies, purchasing convenience, and pharmaceutical services through brands including Thermo Scientific, Applied Biosystems, Invitrogen, Fisher Scientific, Unity Lab Services, Patheon, and PPD. It serves pharmaceutical, biotech, clinical, academic, government, environmental, and industrial markets through four segments: Life Sciences Solutions, Analytical Instruments, Specialty Diagnostics, and Laboratory Products and Biopharma Services.",
+  "products": [
+    {
+      "name": "Thermo Scientific",
+      "type": "platform",
+      "description": "Industry-leading brand offering instruments, reagents, and consumables across multiple scientific disciplines."
+    },
+    {
+      "name": "Applied Biosystems",
+      "type": "hardware",
+      "description": "Instruments and reagents for genomic and proteomic solutions in research and clinical markets."
+    },
+    {
+      "name": "Invitrogen",
+      "type": "platform",
+      "description": "Reagents and consumables for biological and medical research, drug discovery, and diagnostics."
+    },
+    {
+      "name": "Fisher Scientific",
+      "type": "platform",
+      "description": "Laboratory products, consumables, equipment, and chemicals for research and drug development."
+    },
+    {
+      "name": "Unity Lab Services",
+      "type": "service",
+      "description": "Laboratory services supporting customers in managing lab operations and supply chains."
+    },
+    {
+      "name": "Patheon",
+      "type": "service",
+      "description": "Outsourced pharmaceutical development and commercial drug manufacturing services for small and large molecules."
+    },
+    {
+      "name": "PPD",
+      "type": "service",
+      "description": "Comprehensive clinical research and development services including Phases I-IV clinical trials."
+    },
+    {
+      "name": "Chromatography and Mass Spectrometry instruments",
+      "type": "hardware",
+      "description": "Analytical instrumentation for organic and inorganic sample analysis in research and applied markets."
+    },
+    {
+      "name": "Electron Microscopy systems",
+      "type": "hardware",
+      "description": "Research and production tools for life sciences, materials sciences, and semiconductor markets."
+    },
+    {
+      "name": "Immunodiagnostics blood-test systems",
+      "type": "hardware",
+      "description": "Complete blood-test systems for clinical diagnosis and monitoring of allergy, asthma, and autoimmune diseases."
+    },
+    {
+      "name": "Transplant Diagnostics products",
+      "type": "hardware",
+      "description": "Human leukocyte antigen typing and testing products for the organ transplant market."
+    },
+    {
+      "name": "Single-use bioproduction solutions",
+      "type": "hardware",
+      "description": "Upstream cell culture, downstream purification, and single-use solutions spanning the biologics manufacturing workflow."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TMO/profile",
+  "origin": {
+    "leaf": "8579f55e72d65d281192f307ff877b989cf8f716c3adac8f21c6b819e1d03f8e",
+    "parent": "96e836308c8ad696b9fc439adc294f3a9b492e40584e22fa5991159748beb185",
+    "timestamp": "2026-04-12T02:42:23.016Z",
+    "source": "profile:0000097745",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8579f55e72d65d281192f307ff877b989cf8f716c3adac8f21c6b819e1d03f8e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.016Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

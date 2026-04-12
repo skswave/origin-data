@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "UPS",
+  "name": "UNITED PARCEL SERVICE INC",
+  "cik": "0001090727",
+  "exchange": "NYSE",
+  "sic": "4210",
+  "sic_description": "Trucking & Courier Services (No Air)",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "United Parcel Service, Inc. (UPS) is a global package delivery and supply chain solutions company. It operates through three segments: U.S. Domestic Package, International Package, and Supply Chain Solutions. UPS provides time-definite delivery services for packages and documents, freight transportation, logistics, and related services to customers worldwide, serving individual consumers and businesses across a broad range of industries.",
+  "tags": [
+    "package-delivery",
+    "supply-chain-and-logistics",
+    "freight-transportation",
+    "e-commerce-fulfillment"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/UPS",
+  "origin": {
+    "leaf": "89f1e6b26421ec8736d8271bea7098999a86cd56908afa8e7d0aa0511dd2d9f3",
+    "parent": "c246627b85ace1592b50dce829641c996491d06cb293fd615f48ef3005de5e7b",
+    "timestamp": "2026-04-12T02:42:22.959Z",
+    "source": "0001628280-26-008432",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/89f1e6b26421ec8736d8271bea7098999a86cd56908afa8e7d0aa0511dd2d9f3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.959Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

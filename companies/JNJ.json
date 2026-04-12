@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "JNJ",
+  "name": "JOHNSON & JOHNSON",
+  "cik": "0000200406",
+  "exchange": "NYSE",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "NJ",
+  "headquarters": null,
+  "founded": "1887",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1228",
+  "summary": "Johnson & Johnson is a global healthcare holding company with approximately 138,200 employees operating in virtually all countries. It is organized into two segments: Innovative Medicine (pharmaceuticals across oncology, immunology, neuroscience, pulmonary hypertension, infectious diseases, and cardiovascular/metabolism) and MedTech (cardiovascular, orthopaedics, surgery, and vision products). Key products include DARZALEX, STELARA, TREMFYA, CARVYKTI, SPRAVATO, XARELTO, and ACUVUE contact lenses.",
+  "tags": [
+    "oncology",
+    "immunology",
+    "neuroscience",
+    "pulmonary-hypertension",
+    "infectious-diseases-(hiv/aids)",
+    "cardiovascular-and-metabolism",
+    "electrophysiology",
+    "mechanical-circulatory-support",
+    "orthopaedics",
+    "surgery",
+    "vision-care"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": 138200,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/JNJ",
+  "origin": {
+    "leaf": "69f329b7cfd89bd799f31f5fc2aaca581f601e8714fe723dc8ae349addd5e16a",
+    "parent": "79d18ad1623f98b8ea01e98bcc38db059f8f482679a69df29dd7d23b477d4527",
+    "timestamp": "2026-04-12T02:42:22.959Z",
+    "source": "0000200406-26-000016",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/69f329b7cfd89bd799f31f5fc2aaca581f601e8714fe723dc8ae349addd5e16a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.959Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PRU",
+  "name": "PRUDENTIAL FINANCIAL INC",
+  "cik": "0001137774",
+  "summary": "Prudential Financial, Inc. is a global financial services company with approximately $1.609 trillion in assets under management as of December 31, 2025. Through subsidiaries and affiliates, it offers life insurance, annuities, retirement-related products and services, mutual funds, and investment management. It serves individual and institutional customers via proprietary and third-party distribution networks, operating through PGIM, U.S. Businesses (Retirement Strategies, Group Insurance, Individual Life), International Businesses, and a Closed Block Division.",
+  "products": [
+    {
+      "name": "Life Insurance",
+      "type": "service",
+      "description": "Individual and group life insurance products offered through U.S. and international businesses."
+    },
+    {
+      "name": "Annuities",
+      "type": "service",
+      "description": "Retirement annuity products offered through Retirement Strategies segment."
+    },
+    {
+      "name": "Retirement-Related Products and Services",
+      "type": "service",
+      "description": "Products and services supporting retirement planning and income for individuals and institutions."
+    },
+    {
+      "name": "Mutual Funds",
+      "type": "service",
+      "description": "Actively managed mutual funds distributed through retail and intermediary channels."
+    },
+    {
+      "name": "Investment Management (PGIM)",
+      "type": "service",
+      "description": "Global active investment management across public fixed income, private credit, public equity, real estate, and multi-asset strategies."
+    },
+    {
+      "name": "Exchange-Traded Funds (ETFs)",
+      "type": "service",
+      "description": "ETFs offered to individual investors and financial intermediaries."
+    },
+    {
+      "name": "Separately Managed Accounts",
+      "type": "service",
+      "description": "Customized investment accounts offered to individual investors and financial intermediaries."
+    },
+    {
+      "name": "UCITS",
+      "type": "service",
+      "description": "Undertakings for Collective Investment in Transferable Securities offered to intermediaries in Europe, Asia, and Latin America."
+    },
+    {
+      "name": "Group Insurance",
+      "type": "service",
+      "description": "Group insurance products offered to institutional and employer customers in the U.S."
+    },
+    {
+      "name": "Private Credit and Alternatives",
+      "type": "service",
+      "description": "Alternatives and private credit solutions including direct lending, mezzanine financing, and secondary transactions."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Warburg Pincus",
+      "partnership_type": "strategic",
+      "description": "Co-launched Prismic Life Reinsurance, Ltd., a Bermuda-based life and annuity reinsurance company, in September 2023.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Prismic Life Reinsurance, Ltd. (Prismic Re)",
+      "partnership_type": "strategic",
+      "description": "Bermuda-based life and annuity reinsurer launched with Warburg Pincus and institutional investors; Prudential holds ~20% equity interest.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PRU/profile",
+  "origin": {
+    "leaf": "b20a2923f0a77250f5a6da5561b3f4c075941fd41c74c699d8b18f1133353d6e",
+    "parent": "d32d51e35994874c0454e5418b79aefd3232ed8fb1dd39defafeade80b6331a1",
+    "timestamp": "2026-04-12T02:42:23.001Z",
+    "source": "profile:0001137774",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b20a2923f0a77250f5a6da5561b3f4c075941fd41c74c699d8b18f1133353d6e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.001Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

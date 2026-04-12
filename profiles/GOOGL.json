@@ -1,0 +1,127 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GOOGL",
+  "name": "Alphabet Inc.",
+  "cik": "0001652044",
+  "summary": "Alphabet Inc. is a collection of businesses, the largest of which is Google. Google operates across two segments: Google Services and Google Cloud. Google Services includes products such as Search, YouTube, Android, Chrome, Gmail, Google Maps, Google Photos, Google Play, and Pixel devices. Google Cloud provides enterprise cloud computing and AI solutions. Other Bets include Waymo (autonomous driving) and Isomorphic Labs (AI-driven drug discovery). Alphabet has invested over $200 billion in R&D over the last five years.",
+  "products": [
+    {
+      "name": "Google Search",
+      "type": "service",
+      "description": "Search engine with AI Overviews and AI Mode for natural language and multimodal queries."
+    },
+    {
+      "name": "YouTube",
+      "type": "platform",
+      "description": "Video platform for long/short-form content, streaming, and creator monetization via YouTube Partner Program."
+    },
+    {
+      "name": "Google Cloud",
+      "type": "service",
+      "description": "Cloud computing platform offering AI solutions including Gemini Enterprise and Gemini for Google Workspace."
+    },
+    {
+      "name": "Android",
+      "type": "platform",
+      "description": "Mobile operating system powering a wide range of devices worldwide."
+    },
+    {
+      "name": "Chrome",
+      "type": "software",
+      "description": "Web browser and operating system platform used across devices."
+    },
+    {
+      "name": "Gmail",
+      "type": "service",
+      "description": "Email service with broad global adoption."
+    },
+    {
+      "name": "Google Drive",
+      "type": "service",
+      "description": "Cloud storage and file management platform."
+    },
+    {
+      "name": "Google Gemini",
+      "type": "service",
+      "description": "AI assistant and app powered by Gemini models for multimodal understanding and agentic capabilities."
+    },
+    {
+      "name": "Google Maps",
+      "type": "service",
+      "description": "Mapping and navigation platform available globally."
+    },
+    {
+      "name": "Google Photos",
+      "type": "service",
+      "description": "Photo storage and management service."
+    },
+    {
+      "name": "Google Play",
+      "type": "platform",
+      "description": "Digital content marketplace for apps, games, books, and media."
+    },
+    {
+      "name": "Pixel 10 series",
+      "type": "hardware",
+      "description": "Latest generation of Google-branded smartphones integrating AI, software, and hardware."
+    },
+    {
+      "name": "Pixel Watch 4",
+      "type": "hardware",
+      "description": "Google-branded smartwatch from the latest generation of devices."
+    },
+    {
+      "name": "Tensor Processing Units (TPUs) - Ironwood",
+      "type": "hardware",
+      "description": "Seventh-generation custom AI accelerator chips used in Google's data centers."
+    },
+    {
+      "name": "Gemini 3",
+      "type": "software",
+      "description": "Most advanced AI model by Google with multimodal, agentic, and generative coding capabilities."
+    },
+    {
+      "name": "Demand Gen",
+      "type": "service",
+      "description": "AI-powered advertising product to find incremental conversion opportunities for advertisers."
+    },
+    {
+      "name": "Performance Max",
+      "type": "service",
+      "description": "AI-driven advertising solution helping advertisers maximize performance across Google platforms."
+    },
+    {
+      "name": "Product Studio",
+      "type": "service",
+      "description": "AI-powered tool for advertisers to create and enhance product content."
+    },
+    {
+      "name": "Waymo",
+      "type": "service",
+      "description": "Fully autonomous ride-hailing service operating in multiple cities."
+    },
+    {
+      "name": "Isomorphic Labs",
+      "type": "service",
+      "description": "AI-driven drug discovery company applying AI to accelerate development of new medicines."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GOOGL/profile",
+  "origin": {
+    "leaf": "543141b8d36bdcd1a06650b0930b04295aac68115c2fa9e9a0ee980bbd56f6ba",
+    "parent": "fcc28c3d3f75ab87d84b595513bd616eaf8fed33311f59bfce13f56818056464",
+    "timestamp": "2026-04-12T02:42:22.980Z",
+    "source": "profile:0001652044",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/543141b8d36bdcd1a06650b0930b04295aac68115c2fa9e9a0ee980bbd56f6ba",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.980Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

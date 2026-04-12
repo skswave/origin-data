@@ -1,0 +1,441 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ADBE",
+  "company": "ADOBE INC.",
+  "title": "ADBE Q2 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 12545,
+  "speakers": [
+    {
+      "name": "David Wadhwani",
+      "title": "President - Digital Media Business, Adobe Inc.",
+      "firm": "Adobe",
+      "speaker_type": "executive",
+      "mention_count": 11
+    },
+    {
+      "name": "Jonathan Vaas",
+      "title": "Vice President - Investor Relations, Adobe Inc.",
+      "firm": "Adobe",
+      "speaker_type": "executive",
+      "mention_count": 5
+    },
+    {
+      "name": "Alex Zukin",
+      "title": "Analyst, Wolfe Research LLC",
+      "firm": "Wolfe Research",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Gregg Moskowitz",
+      "title": "Analyst, Mizuho Securities USA LLC",
+      "firm": "Mizuho Securities USA",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Saket Kalia",
+      "title": "Analyst, Barclays Capital, Inc.",
+      "firm": "Barclays Capital",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Keith Weiss",
+      "title": "Analyst, Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Brad Sills",
+      "title": "Analyst, BofA   Securities, Inc.",
+      "firm": "BofA   Securities",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Brad Zelnick",
+      "title": "Analyst, Deutsche Bank Securities, Inc.",
+      "firm": "Deutsche Bank Securities",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Kash Rangan",
+      "title": "Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Anil Chakravarthy",
+      "title": "President - Digital   Experience Business, Adobe Inc.",
+      "firm": "Adobe",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "Brent Thill",
+      "title": "Analyst, Jefferies LLC",
+      "firm": "Jefferies",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Jake Roberge",
+      "title": "Analyst, William Blair & Co.",
+      "firm": "William Blair &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Daniel J. Durn",
+      "title": "Chief Financial Officer & Executive Vice President - Finance, Technology  Services and Operations, Adobe Inc.",
+      "firm": "Technology  Services and Operations",
+      "speaker_type": "executive",
+      "mention_count": 2
+    },
+    {
+      "name": "Mark L. Moerdler",
+      "title": "Analyst, Sanford C. Bern stein & Co.",
+      "firm": "Sanford C. Bern stein &",
+      "speaker_type": "analyst",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 76,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 25,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$5.31 billion",
+      "value": 5.31,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$3.91 billion",
+      "value": 3.91,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$782 million",
+      "value": 782,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$1.33 billion",
+      "value": 1.33,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$3.13 billion",
+      "value": 3.13,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$5.33 billion",
+      "value": 5.33,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$3.95 billion",
+      "value": 3.95,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$1.325 billion",
+      "value": 1.325,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$1.20 billion",
+      "value": 1.2,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$21.40 billion",
+      "value": 21.4,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$15.80 billion",
+      "value": 15.8,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$5.325 billion",
+      "value": 5.325,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$4.775 billion",
+      "value": 4.775,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE EPS",
+      "predicate": "reported",
+      "object": "$4.48",
+      "value": 4.48,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE EPS",
+      "predicate": "reported",
+      "object": "$3.49",
+      "value": 3.49,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE EPS",
+      "predicate": "reported",
+      "object": "$4.50",
+      "value": 4.5,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ADBE EPS",
+      "predicate": "reported",
+      "object": "$11.80",
+      "value": 11.8,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ADBE",
+      "predicate": "stated",
+      "object": "we expect that to continue to grow in Q3  and Q4",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ADBE",
+      "predicate": "stated",
+      "object": "we believe that the real value of AI will be in the interfaces that individuals,  enterprises use to accomplish their tasks and workflows and we think we're inc",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ADBE",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a   complete or error - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ADBE/transcripts",
+  "origin": {
+    "leaf": "abbbe92d49c021644f1ee1b19ecd4e7e4207faf0e6d8ce69b90eca63b3be94a0",
+    "parent": "08f958f43171f6a5dd18a9a939e6739648e2e09b1888acf879e58fdf4def8b042e4f17da25442b9cc1a192ec341abc13",
+    "timestamp": "2026-04-12T02:43:08.427Z",
+    "source": "transcript:ADBE_q2-fy2024-earnings-transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/abbbe92d49c021644f1ee1b19ecd4e7e4207faf0e6d8ce69b90eca63b3be94a0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.427Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

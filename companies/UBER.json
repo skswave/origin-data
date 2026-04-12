@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "UBER",
+  "name": "Uber Technologies, Inc",
+  "cik": "0001543151",
+  "exchange": "NYSE",
+  "sic": "7389",
+  "sic_description": "Services-Business Services, NEC",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Uber Technologies, Inc. is a technology platform operating in over 70 countries that connects consumers with independent ride service providers (Mobility), restaurants and retailers with delivery couriers (Delivery via Uber Eats), and shippers with carriers in freight logistics (Freight). The platform leverages proprietary marketplace, routing, and payments technologies across more than 15,000 cities worldwide, serving hundreds of millions of drivers, consumers, merchants, shippers, and carriers.",
+  "tags": [
+    "ridesharing-and-mobility-services",
+    "food-and-grocery-delivery",
+    "freight-and-logistics",
+    "advertising",
+    "financial-partnerships"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/UBER",
+  "origin": {
+    "leaf": "5a7cf42b118b9e7b22c9a2f852e6dfeb4ea05fd57d4ce9f413254eb3cb76f761",
+    "parent": "ff632964cd382590a8014dc332e71857e70ad82a83e9280c9fe4084a15b6c691",
+    "timestamp": "2026-04-12T02:42:22.974Z",
+    "source": "0001543151-26-000015",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5a7cf42b118b9e7b22c9a2f852e6dfeb4ea05fd57d4ce9f413254eb3cb76f761",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.974Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

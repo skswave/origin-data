@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "UPS",
+  "company": "UNITED PARCEL SERVICE INC",
+  "title": "UPS   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 3693,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "UPS",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UPS",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UPS",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UPS",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "UPS",
+      "predicate": "stated",
+      "object": "We believe that these non - GAAP measures provide additional meaningful information to assist users of our financial  statements in understanding our financial ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "UPS",
+      "predicate": "stated",
+      "object": "We believe currency - neutral revenue, revenue per piece and operating profit information allows users of our financial  statements to understand growth trends ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "UPS",
+      "predicate": "stated",
+      "object": "We believe this provides a useful  comparison of year - to - year financial performance without considering the short - term impact of restructuring costs",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "UPS",
+      "predicate": "stated",
+      "object": "We believe this allows users of our financial statements to understand growth trends in our  products and results excluding the period over period movement in d",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "UPS",
+      "predicate": "stated",
+      "object": "We believe free cash flow, free cash flow excluding discretionary pension contributions and free cash flow plus principal  repayments of capital lease obligatio",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "UPS",
+      "predicate": "stated",
+      "object": "we believe that adjusting capital expenditures for principal  repayments of capital lease obligations more appropriately reflects the overall cash that we have ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UPS",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UPS",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UPS",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UPS",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/UPS/transcripts",
+  "origin": {
+    "leaf": "21bc3947b586fd09d31b9d4de6e0ddf56924cc488a2e524ed01121f8d915ee24",
+    "parent": "1a3dd373eab7054b58a8da5a3b4deeb44c69b613aa07493e770824607c7cde5215a8b8b6488e53ea944817bcfbd7e869",
+    "timestamp": "2026-04-12T02:43:08.875Z",
+    "source": "transcript:UPS_UPS_Q1_Earnings_Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/21bc3947b586fd09d31b9d4de6e0ddf56924cc488a2e524ed01121f8d915ee24",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.875Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

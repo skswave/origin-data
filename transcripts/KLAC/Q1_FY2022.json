@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "KLAC",
+  "company": "KLA CORP",
+  "title": "KLAC Q1 FY2022 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2022",
+  "call_date": null,
+  "word_count": 631,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "KLAC",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KLAC",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/KLAC/transcripts",
+  "origin": {
+    "leaf": "b548fa8d3353fe463853f94cfe052300dfdeff6a763b51e13d613446a79298df",
+    "parent": "abd975ced26701ea02a836e6e448b07e94a797dea0291120c8bbbceb57dc510d28e84b423bd7104007d8fa17a981995f",
+    "timestamp": "2026-04-12T02:43:08.725Z",
+    "source": "transcript:KLAC_KLA_EarningsIG_Q1_2022_vFINAL+%282%29.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b548fa8d3353fe463853f94cfe052300dfdeff6a763b51e13d613446a79298df",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.725Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AMZN",
+  "company": "AMAZON COM INC",
+  "title": "AMZN Q1 FY2022 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2022",
+  "call_date": null,
+  "word_count": 8699,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 33,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "AMZN",
+      "predicate": "guided",
+      "object": "Guidance •   Net sales are expected to be between $116.0 billion",
+      "value": 116,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "cloud"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "AMZN",
+      "predicate": "mentioned",
+      "object": "Amazon",
+      "value": 135,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "GPU & Accelerators",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gpu"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AMZN/transcripts",
+  "origin": {
+    "leaf": "8b2c4dae0a67ce415686fe769acd26e0c6cb8e8cee6c03dfce538088d74feb7a",
+    "parent": "bf4a59e906eebcfdcdd9bc56ec7067242f44a1edad2e7bb271cdaa9e8f0140fa0ca8f3964fdef7116725d0c9378ec179",
+    "timestamp": "2026-04-12T02:43:08.453Z",
+    "source": "transcript:AMZN_Q1-2022-Amazon-Earnings-Release.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8b2c4dae0a67ce415686fe769acd26e0c6cb8e8cee6c03dfce538088d74feb7a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.453Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

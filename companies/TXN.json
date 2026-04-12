@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "TXN",
+  "name": "TEXAS INSTRUMENTS INC",
+  "cik": "0000097476",
+  "exchange": "Nasdaq",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "state_of_incorporation": "DE",
+  "headquarters": "Dallas, Texas",
+  "founded": "1930",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Texas Instruments designs and manufactures semiconductors sold to electronics designers and manufacturers worldwide. Its two main segments are Analog (power management, signal chain products) and Embedded Processing (microcontrollers, processors, wireless connectivity, radar). With over 80,000 products, TI serves industrial, automotive, data center, personal electronics, and communications equipment markets. In 2025, TI generated $17.68 billion in revenue, with Analog accounting for 79% and Embedded Processing 15%.",
+  "tags": [
+    "industrial",
+    "automotive",
+    "data-center",
+    "personal-electronics",
+    "communications-equipment"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/TXN",
+  "origin": {
+    "leaf": "d7fd4e41fc8b3a6daac2a400ee86bc3c7cae369b067ab98d5d66eff78521d2ae",
+    "parent": "15d6e15a0bd333ce3d8c479ec2be8872b4350614ad3e9afc87630052699efe20",
+    "timestamp": "2026-04-12T02:42:22.964Z",
+    "source": "0000097476-26-000059",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d7fd4e41fc8b3a6daac2a400ee86bc3c7cae369b067ab98d5d66eff78521d2ae",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.964Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

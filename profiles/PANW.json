@@ -1,0 +1,105 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PANW",
+  "name": "Palo Alto Networks Inc",
+  "cik": "0001327567",
+  "summary": "Palo Alto Networks, Inc. is a global cybersecurity provider incorporated in 2005 and headquartered in Santa Clara, California. The company offers cybersecurity platforms and services including Next-Generation Firewalls, Prisma Access (SASE), Prisma SD-WAN, Cortex XSIAM, Cortex XDR, Cortex XSOAR, Cortex Xpanse, Cortex Cloud (CNAPP), and Unit 42 threat intelligence and advisory services. Its offerings leverage AI and automation to secure enterprise networks, endpoints, clouds, and users, with a strategy focused on platformization to consolidate disparate point security products.",
+  "products": [
+    {
+      "name": "Prisma Access",
+      "type": "platform",
+      "description": "Cloud-delivered SASE solution securing remote networks and mobile users with AI-driven security across 100+ global locations."
+    },
+    {
+      "name": "Prisma SD-WAN",
+      "type": "software",
+      "description": "Next-generation SD-WAN solution replacing traditional WAN architectures using AI and automation for secure cloud-delivered branch networking."
+    },
+    {
+      "name": "Prisma Access Browser",
+      "type": "software",
+      "description": "Secure browser extending SASE Zero Trust security and data protection to any managed or unmanaged end user device."
+    },
+    {
+      "name": "ML-Powered Next-Generation Firewalls (NGFWs)",
+      "type": "hardware",
+      "description": "Hardware and software firewalls using AI and machine learning to stop zero-day threats and secure enterprise environments including IoT."
+    },
+    {
+      "name": "Cloud-Delivered Security Services (CDSS)",
+      "type": "service",
+      "description": "Suite of add-on security services including Advanced Threat Prevention, WildFire, URL Filtering, DNS Security, IoT/OT Security, and Enterprise DLP."
+    },
+    {
+      "name": "Prisma AIRS",
+      "type": "platform",
+      "description": "AI security platform protecting customers' AI ecosystems with model scanning, posture management, red teaming, run-time security, and AI agent security."
+    },
+    {
+      "name": "Strata Cloud Manager (SCM)",
+      "type": "software",
+      "description": "AI-powered network security management solution centralizing security across remote workers, branches, campuses, and cloud with natural language interface."
+    },
+    {
+      "name": "Cortex XSIAM",
+      "type": "platform",
+      "description": "AI-powered security operations platform replacing traditional SIEM tools with unified data, AI, and automation."
+    },
+    {
+      "name": "Cortex XDR",
+      "type": "platform",
+      "description": "Platform for prevention, detection, and response to complex cybersecurity attacks across endpoints and enterprise environments."
+    },
+    {
+      "name": "Cortex XSOAR",
+      "type": "platform",
+      "description": "Security orchestration, automation, and response (SOAR) platform for streamlining security operations workflows."
+    },
+    {
+      "name": "Cortex Xpanse",
+      "type": "platform",
+      "description": "Attack surface management (ASM) platform providing visibility into external-facing enterprise assets and vulnerabilities."
+    },
+    {
+      "name": "Cortex Cloud",
+      "type": "platform",
+      "description": "Comprehensive CNAPP combined with cloud detection and response (CDR), securing multi- and hybrid-cloud environments across the full development lifecycle."
+    },
+    {
+      "name": "VM-Series and CN-Series Virtual Firewalls",
+      "type": "software",
+      "description": "Virtual firewalls providing inline network security for multi- and hybrid-cloud environments."
+    },
+    {
+      "name": "Unit 42",
+      "type": "service",
+      "description": "Threat intelligence and advisory services combining threat research, incident response, security consulting, MDR, and managed threat hunting."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "CyberArk Software Ltd.",
+      "partnership_type": "strategic",
+      "description": "Proposed acquisition of CyberArk Software Ltd. with expected benefits and synergies mentioned in forward-looking statements.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/PANW/profile",
+  "origin": {
+    "leaf": "395e29be081e307dbc2bd991f7c6ea74f20fd99f7cf23f91d0b2af06eb9d4d92",
+    "parent": "e41b1ed6565724c878e53d76243bfde30c5147a02fe2104b94fdeeae3f847d94",
+    "timestamp": "2026-04-12T02:42:23.025Z",
+    "source": "profile:0001327567",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/395e29be081e307dbc2bd991f7c6ea74f20fd99f7cf23f91d0b2af06eb9d4d92",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.025Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

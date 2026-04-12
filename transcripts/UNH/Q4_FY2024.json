@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "UNH",
+  "company": "UNITEDHEALTH GROUP INC",
+  "title": "UNH Q4 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 512,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/UNH/transcripts",
+  "origin": {
+    "leaf": "a59c1587305a8b6a9f26c3d4b060e070228724a55d68b0ce977cc609f786d57d",
+    "parent": "4ccbd1bf47456d8c03756d28f641ce64779c1559d8084562b8c6a9dedbec2c007745a2400c77d3b91ced8d5d3d92e969",
+    "timestamp": "2026-04-12T02:43:08.871Z",
+    "source": "transcript:UNH_UNH-Q4-2024-8K.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a59c1587305a8b6a9f26c3d4b060e070228724a55d68b0ce977cc609f786d57d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.871Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

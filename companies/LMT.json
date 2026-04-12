@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "LMT",
+  "name": "LOCKHEED MARTIN CORP",
+  "cik": "0000936468",
+  "exchange": "NYSE",
+  "sic": "3760",
+  "sic_description": "Guided Missiles & Space Vehicles & Parts",
+  "state_of_incorporation": "MD",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Lockheed Martin is a global aerospace and defense technology company operating in four segments: Aeronautics, Missiles and Fire Control (MFC), Rotary and Mission Systems (RMS), and Space. Key products include the F-35 Lightning II fighter (27% of total sales), C-130 Hercules, F-16, F-22, PAC-3, THAAD, HIMARS, Javelin, Black Hawk helicopters, Aegis Combat System, Trident II D5 missile, and GPS III satellites. Primary customers are U.S. Government agencies and allied nations.",
+  "tags": [
+    "u.s.-government-defense",
+    "international-defense",
+    "aerospace",
+    "missile-defense",
+    "space-systems",
+    "intelligence-and-cybersecurity",
+    "homeland-security",
+    "information-technology",
+    "civil-and-commercial-applications",
+    "federal-acquisition-regulation-(far)",
+    "defense-federal-acquisition-regulation-supplement-(dfars)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/LMT",
+  "origin": {
+    "leaf": "54fa605a554ab60d64696fd23676a02781b073d4ab69b7ee701c45864b7b1736",
+    "parent": "d80bbd7e48864a090d59c83248e554f81b6acec06b06aca333b26e1bcd158484",
+    "timestamp": "2026-04-12T02:42:22.958Z",
+    "source": "0001628280-26-004195",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/54fa605a554ab60d64696fd23676a02781b073d4ab69b7ee701c45864b7b1736",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.958Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

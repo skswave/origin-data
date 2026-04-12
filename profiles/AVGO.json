@@ -1,0 +1,121 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AVGO",
+  "name": "Broadcom Inc.",
+  "cik": "0001730168",
+  "summary": "Broadcom Inc. is a global technology company that designs, develops, and supplies semiconductor and semiconductor-based solutions and infrastructure software. Its semiconductor portfolio spans custom accelerators (XPUs), Ethernet switching/routing silicon, NICs, PHYs, RF front-end modules, Wi-Fi/Bluetooth chips, PCIe switches, SAS/RAID controllers, and HDD/SSD solutions. Its infrastructure software includes products from CA, Symantec Enterprise Security, and VMware. Broadcom serves hyperscalers, OEMs, enterprises, and government customers across AI data centers, broadband, wireless, storage, and industrial markets.",
+  "products": [
+    {
+      "name": "Custom Silicon Solutions (XPUs/ASICs)",
+      "type": "hardware",
+      "description": "Custom accelerators and ASICs for AI, high-performance computing, networking and storage, targeting hyperscalers and AI frontier model companies."
+    },
+    {
+      "name": "Ethernet Switching & Routing Silicon",
+      "type": "hardware",
+      "description": "High-capacity, low-latency Ethernet switching and routing products for AI data centers, service providers, and enterprise networks."
+    },
+    {
+      "name": "Ethernet NIC Controllers",
+      "type": "hardware",
+      "description": "High-performance NIC controllers for virtualization, intelligent flow processing, and secure data center and machine learning connectivity."
+    },
+    {
+      "name": "Physical Layer Devices (PHYs)",
+      "type": "hardware",
+      "description": "Ethernet transceivers using proprietary DSP architecture for high-speed networking, including automotive Ethernet PHYs and camera microcontrollers."
+    },
+    {
+      "name": "Fiber Optic Components",
+      "type": "hardware",
+      "description": "Optical components enabling high-speed data transmission for Ethernet networking, storage, and telecom markets."
+    },
+    {
+      "name": "RF Semiconductor Devices",
+      "type": "hardware",
+      "description": "RF front-end modules and filters using proprietary FBAR technology for cellular applications supporting multiple frequency bands."
+    },
+    {
+      "name": "Wi-Fi/Bluetooth Combination Chips",
+      "type": "hardware",
+      "description": "High-performance, low-power integrated Wi-Fi and Bluetooth chipsets for smartphones, tablets, and wearable devices."
+    },
+    {
+      "name": "Custom Touch Controllers",
+      "type": "hardware",
+      "description": "Touch screen signal processing controllers for wireless devices."
+    },
+    {
+      "name": "Inductive Charging ASICs",
+      "type": "hardware",
+      "description": "High-efficiency, highly integrated wireless charging solutions for wireless and wearable devices."
+    },
+    {
+      "name": "PCIe Switches",
+      "type": "hardware",
+      "description": "Interconnect semiconductors supporting PCIe communication standards for AI and non-AI computing applications."
+    },
+    {
+      "name": "SAS & RAID Controllers",
+      "type": "hardware",
+      "description": "Serial attached SCSI and RAID controller/adapter products enabling secure high-speed data transmission between servers and storage devices."
+    },
+    {
+      "name": "Fibre Channel Host Bus Adapters",
+      "type": "hardware",
+      "description": "Connects host computers to fibre channel storage area networking products."
+    },
+    {
+      "name": "HDD & SSD Solutions",
+      "type": "hardware",
+      "description": "Read channel SoCs and preamplifiers providing critical data read/write electronics for hard disk drives."
+    },
+    {
+      "name": "VMware Infrastructure Software",
+      "type": "software",
+      "description": "Infrastructure software solutions acquired from VMware for virtualization and cloud environments."
+    },
+    {
+      "name": "CA Software",
+      "type": "software",
+      "description": "Enterprise infrastructure software acquired from CA, Inc."
+    },
+    {
+      "name": "Symantec Enterprise Security Software",
+      "type": "software",
+      "description": "Enterprise security software acquired from Symantec's enterprise division."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Hyperscalers",
+      "partnership_type": "OEM",
+      "description": "Broadcom develops custom XPUs and Ethernet solutions for hyperscaler customers building AI data center infrastructure.",
+      "start_date": null
+    },
+    {
+      "partner_name": "OEMs and System Integrators",
+      "partnership_type": "OEM",
+      "description": "OEMs and system integrators deploy Broadcom semiconductor solutions in servers, switches, and racks for AI data centers.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AVGO/profile",
+  "origin": {
+    "leaf": "4f756ef110764f0bb286ab2fe1d6b9243b93105009d0cba41a180c77fcd40477",
+    "parent": "2a6e175e804f2cb2efe745ae7dfb86c9099ac1fb4225b0ee2040f2d9197c5047",
+    "timestamp": "2026-04-12T02:42:23.002Z",
+    "source": "profile:0001730168",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4f756ef110764f0bb286ab2fe1d6b9243b93105009d0cba41a180c77fcd40477",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.002Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

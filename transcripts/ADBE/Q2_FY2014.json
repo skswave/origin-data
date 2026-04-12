@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ADBE",
+  "company": "ADOBE INC.",
+  "title": "ADBE Q2 FY2014 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2014",
+  "call_date": null,
+  "word_count": 2488,
+  "speakers": [
+    {
+      "name": "Calif.",
+      "title": "June 17, 2014   —   Adobe (Nasdaq:ADBE) today reported financial results for its second quarter of fiscal year 2014 ended May 30, 2014",
+      "firm": "2014   —   Adobe (Nasdaq:ADBE) today reported financial results for its second quarter of fiscal year 2014 ended May 30",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "ADBE total revenue",
+      "predicate": "reported",
+      "object": "$1.07 billion",
+      "value": 1.07,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ADBE/transcripts",
+  "origin": {
+    "leaf": "cf056c6d7a5a7b40dbcbecc1459081123999892be8f8cd03fd899e81ab6b9677",
+    "parent": "faded080ed671b5805dcb1d70cc13811af3ce6c1bd249f9d9310368b30073790f9f5fdc985828f2f83e3a20a9ba2aa58",
+    "timestamp": "2026-04-12T02:43:08.424Z",
+    "source": "transcript:ADBE_adbe-q214-earnings-release-17june2014.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cf056c6d7a5a7b40dbcbecc1459081123999892be8f8cd03fd899e81ab6b9677",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.424Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

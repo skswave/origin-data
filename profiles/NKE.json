@@ -1,0 +1,87 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "NKE",
+  "name": "NIKE, Inc.",
+  "cik": "0000320187",
+  "summary": "NIKE, Inc., incorporated in 1967 in Oregon, is the largest seller of athletic footwear and apparel in the world. The company designs, develops, markets and sells athletic footwear, apparel, equipment, accessories and services under the NIKE, Jordan and Converse brands. Products are sold through NIKE Direct operations (retail stores and digital platforms) and wholesale accounts including independent distributors, licensees and sales representatives in nearly all countries worldwide. Nearly all products are manufactured by independent contractors.",
+  "products": [
+    {
+      "name": "Athletic Footwear",
+      "type": "hardware",
+      "description": "Footwear designed primarily for specific athletic use, also worn for casual or leisure purposes, under the NIKE brand."
+    },
+    {
+      "name": "Sports Apparel",
+      "type": "hardware",
+      "description": "Athletic and casual apparel featuring NIKE trademarks, sold through same channels as footwear."
+    },
+    {
+      "name": "Performance Equipment and Accessories",
+      "type": "hardware",
+      "description": "Bags, socks, sport balls, eyewear, timepieces, digital devices, bats, gloves and protective equipment under the NIKE Brand."
+    },
+    {
+      "name": "Jordan Brand Products",
+      "type": "hardware",
+      "description": "Athletic and casual footwear, apparel and accessories focused on sport performance and streetwear using the Jumpman trademark."
+    },
+    {
+      "name": "Converse Products",
+      "type": "hardware",
+      "description": "Casual sneakers, apparel and accessories under Converse, Chuck Taylor, All Star, One Star, Star Chevron and Jack Purcell trademarks."
+    },
+    {
+      "name": "Fitness and Activity Apps",
+      "type": "software",
+      "description": "Sport, fitness and wellness apps and digital content offered as interactive consumer services."
+    },
+    {
+      "name": "Air Manufacturing Innovation Products",
+      "type": "hardware",
+      "description": "Small amounts of plastic products sold to other manufacturers through wholly-owned subsidiary Air Manufacturing Innovation."
+    },
+    {
+      "name": "Licensed Apparel",
+      "type": "hardware",
+      "description": "Apparel marketed with licensed college and professional team and league logos."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Independent contractors",
+      "partnership_type": "OEM",
+      "description": "Nearly all NIKE footwear and apparel products are manufactured by independent contractors outside the United States.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Unaffiliated licensees",
+      "partnership_type": "licensing",
+      "description": "License agreements permit unaffiliated parties to manufacture and sell apparel, digital devices and sports equipment using NIKE-owned trademarks.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Licensed college and professional teams/leagues",
+      "partnership_type": "licensing",
+      "description": "NIKE markets apparel bearing licensed college and professional team and league logos.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/NKE/profile",
+  "origin": {
+    "leaf": "1c89a8b8f0e18de2370a8e55a64a7e0794e5137569210bef29d21642d3717200",
+    "parent": "512be7fc8957a816411d77cc5caf12080dba33aa2fb5cc720fe3e7e0d4366e3d",
+    "timestamp": "2026-04-12T02:42:23.012Z",
+    "source": "profile:0000320187",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1c89a8b8f0e18de2370a8e55a64a7e0794e5137569210bef29d21642d3717200",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.012Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

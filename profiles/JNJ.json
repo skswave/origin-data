@@ -1,0 +1,185 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "JNJ",
+  "name": "JOHNSON & JOHNSON",
+  "cik": "0000200406",
+  "summary": "Johnson & Johnson is a global healthcare holding company with approximately 138,200 employees operating in virtually all countries. It is organized into two segments: Innovative Medicine (pharmaceuticals across oncology, immunology, neuroscience, pulmonary hypertension, infectious diseases, and cardiovascular/metabolism) and MedTech (cardiovascular, orthopaedics, surgery, and vision products). Key products include DARZALEX, STELARA, TREMFYA, CARVYKTI, SPRAVATO, XARELTO, and ACUVUE contact lenses.",
+  "products": [
+    {
+      "name": "DARZALEX / DARZALEX FASPRO (daratumumab)",
+      "type": "service",
+      "description": "Treatment for multiple myeloma and light chain AL Amyloidosis; largest product at ~15% of total revenues."
+    },
+    {
+      "name": "STELARA (ustekinumab)",
+      "type": "service",
+      "description": "Treatment for plaque psoriasis, psoriatic arthritis, Crohn's disease, and ulcerative colitis; second largest product at ~6.5% of revenues."
+    },
+    {
+      "name": "TREMFYA (guselkumab)",
+      "type": "service",
+      "description": "Treatment for plaque psoriasis, psoriatic arthritis, Crohn's disease, and ulcerative colitis; third largest product at ~5.5% of revenues."
+    },
+    {
+      "name": "CARVYKTI (ciltacabtagene autoleucel)",
+      "type": "service",
+      "description": "CAR-T-cell therapy for relapsed/refractory multiple myeloma."
+    },
+    {
+      "name": "ERLEADA (apalutamide)",
+      "type": "service",
+      "description": "Next-generation androgen receptor inhibitor for prostate cancer treatment."
+    },
+    {
+      "name": "IMBRUVICA (ibrutinib)",
+      "type": "service",
+      "description": "Treatment for B-cell malignancies and chronic graft versus host disease."
+    },
+    {
+      "name": "RYBREVANT (amivantamab)",
+      "type": "service",
+      "description": "Bispecific antibody for EGFR-mutated non-small cell lung cancer in adults."
+    },
+    {
+      "name": "LAZCLUZE (lazertinib)",
+      "type": "service",
+      "description": "Oral, brain-penetrant EGFR tyrosine kinase inhibitor for non-small cell lung cancer."
+    },
+    {
+      "name": "TALVEY (talquetamab-tgvs)",
+      "type": "service",
+      "description": "Bispecific antibody for relapsed or refractory multiple myeloma after four prior lines of therapy."
+    },
+    {
+      "name": "TECVAYLI (teclistamab-cqyv)",
+      "type": "service",
+      "description": "Bispecific antibody for relapsed or refractory multiple myeloma after four prior lines of therapy."
+    },
+    {
+      "name": "ZYTIGA (abiraterone acetate)",
+      "type": "service",
+      "description": "Treatment for prostate cancer."
+    },
+    {
+      "name": "REMICADE (infliximab)",
+      "type": "service",
+      "description": "Treatment for immune-mediated inflammatory diseases."
+    },
+    {
+      "name": "SIMPONI / SIMPONI ARIA (golimumab)",
+      "type": "service",
+      "description": "Subcutaneous and intravenous treatments for rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, and ulcerative colitis."
+    },
+    {
+      "name": "CAPLYTA (lumateperone)",
+      "type": "service",
+      "description": "Treatment for major depressive disorder, bipolar depression, and schizophrenia in adults."
+    },
+    {
+      "name": "CONCERTA (methylphenidate HCl)",
+      "type": "service",
+      "description": "Extended-release treatment for attention deficit hyperactivity disorder."
+    },
+    {
+      "name": "INVEGA SUSTENNA / XEPLION (paliperidone palmitate)",
+      "type": "service",
+      "description": "Treatment for schizophrenia and schizoaffective disorder in adults."
+    },
+    {
+      "name": "INVEGA TRINZA / TREVICTA (paliperidone palmitate)",
+      "type": "service",
+      "description": "Treatment for schizophrenia in patients previously treated with INVEGA SUSTENNA."
+    },
+    {
+      "name": "SPRAVATO (esketamine)",
+      "type": "service",
+      "description": "Nasal spray for treatment-resistant depression and MDD with suicidal ideation in adults."
+    },
+    {
+      "name": "EDURANT (rilpivirine)",
+      "type": "service",
+      "description": "Antiretroviral medicine for HIV treatment in combination with other antiretrovirals."
+    },
+    {
+      "name": "PREZISTA (darunavir)",
+      "type": "service",
+      "description": "Antiretroviral medicine for HIV treatment."
+    },
+    {
+      "name": "PREZCOBIX / REZOLSTA (darunavir/cobicistat)",
+      "type": "service",
+      "description": "Antiretroviral combination medicine for HIV treatment."
+    },
+    {
+      "name": "SYMTUZA (darunavir/cobicistat/emtricitabine/tenofovir alafenamide)",
+      "type": "service",
+      "description": "Once-daily single tablet regimen for HIV treatment."
+    },
+    {
+      "name": "OPSUMIT (macitentan) / OPSYNVI (macitentan/tadalafil)",
+      "type": "service",
+      "description": "Long-term treatment for pulmonary arterial hypertension."
+    },
+    {
+      "name": "UPTRAVI (selexipag)",
+      "type": "service",
+      "description": "Oral and intravenous selective IP receptor agonist for pulmonary arterial hypertension."
+    },
+    {
+      "name": "XARELTO (rivaroxaban)",
+      "type": "service",
+      "description": "Oral anticoagulant for DVT, PE prevention, stroke reduction, and cardiovascular events."
+    },
+    {
+      "name": "ACUVUE",
+      "type": "hardware",
+      "description": "Brand of contact lenses sold through eye care professionals globally."
+    },
+    {
+      "name": "TECNIS",
+      "type": "hardware",
+      "description": "Premium intraocular lenses for cataract surgery."
+    },
+    {
+      "name": "Abiomed",
+      "type": "hardware",
+      "description": "Mechanical circulatory support technologies for cardiogenic shock and high-risk PCI procedures."
+    },
+    {
+      "name": "Shockwave",
+      "type": "hardware",
+      "description": "Circulatory restoration products for calcified coronary artery disease and peripheral artery disease."
+    },
+    {
+      "name": "Mentor",
+      "type": "hardware",
+      "description": "Solutions for breast aesthetics and reconstruction within the Surgery portfolio."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Genmab A/S",
+      "partnership_type": "licensing",
+      "description": "Exclusive license to two DARZALEX patent families; royalty rate 12%-20% of net sales, ~$2.4B paid in fiscal 2025.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/JNJ/profile",
+  "origin": {
+    "leaf": "ec12f641a947a0c22e79a39866eb22b5edc9e4f5572a7680df851f93599f4f8b",
+    "parent": "d13ebf88329976823804771429812bbef48919b19a4e2e209c6ab62bc7c0a722",
+    "timestamp": "2026-04-12T02:42:22.992Z",
+    "source": "profile:0000200406",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ec12f641a947a0c22e79a39866eb22b5edc9e4f5572a7680df851f93599f4f8b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.993Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "schema": "rootz.ai/topic-facts/v1",
+  "topic": "free_cash_flow",
+  "label": "Free Cash Flow",
+  "companies": 18,
+  "total_mentions": 75,
+  "results": [
+    {
+      "ticker": "CRM",
+      "company": "Salesforce, Inc.",
+      "mentions": 14,
+      "quarters": []
+    },
+    {
+      "ticker": "WMT",
+      "company": "Walmart Inc.",
+      "mentions": 11,
+      "quarters": []
+    },
+    {
+      "ticker": "AMD",
+      "company": "ADVANCED MICRO DEVICES INC",
+      "mentions": 9,
+      "quarters": []
+    },
+    {
+      "ticker": "PYPL",
+      "company": "PayPal Holdings, Inc.",
+      "mentions": 9,
+      "quarters": [
+        "Q2_FY2025"
+      ]
+    },
+    {
+      "ticker": "F",
+      "company": "FORD MOTOR CO",
+      "mentions": 8,
+      "quarters": [
+        "Q1_FY2022",
+        "Q2_FY2023",
+        "Q4_FY2023",
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "MMM",
+      "company": "3M CO",
+      "mentions": 4,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "company": "AMAZON COM INC",
+      "mentions": 2,
+      "quarters": [
+        "Q3_FY2025",
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "INTC",
+      "company": "INTEL CORP",
+      "mentions": 2,
+      "quarters": [
+        "Q2_FY0124"
+      ]
+    },
+    {
+      "ticker": "KR",
+      "company": "KROGER CO",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "MCK",
+      "company": "MCKESSON CORP",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA CORP",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "company": "QUALCOMM INC/DE",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "UBER",
+      "company": "Uber Technologies, Inc",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "XOM",
+      "company": "EXXON MOBIL CORP",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "CAT",
+      "company": "CATERPILLAR INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CVS",
+      "company": "CVS HEALTH Corp",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "DIS",
+      "company": "Walt Disney Co",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "KLAC",
+      "company": "KLA CORP",
+      "mentions": 1,
+      "quarters": [
+        "Q2_FY2023"
+      ]
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/search/transcripts?topic=free_cash_flow",
+  "origin": {
+    "leaf": "3c5b6867a8360e43d8b896cf4ee81309ff414d7dbb8753828337a1e1bf5fd9a0",
+    "parent": "cb31c9d249e8b75789b0fd713e11329fa038d1fd75b909861cccce376f169ea1",
+    "timestamp": "2026-04-12T02:43:09.134Z",
+    "source": "topic:free_cash_flow",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3c5b6867a8360e43d8b896cf4ee81309ff414d7dbb8753828337a1e1bf5fd9a0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:09.134Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

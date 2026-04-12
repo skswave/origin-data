@@ -1,0 +1,49 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "KLAC",
+  "name": "KLA CORP",
+  "cik": "0000319201",
+  "exchange": "Nasdaq",
+  "sic": "3827",
+  "sic_description": "Optical Instruments & Lenses",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0630",
+  "summary": "KLA Corporation (KLAC) is a semiconductor capital equipment company that designs and manufactures process control and yield management solutions. The company provides inspection, metrology, and data analytics systems used in semiconductor manufacturing. KLA's products help chipmakers detect defects, measure critical dimensions, and optimize fabrication processes across advanced technology nodes and new materials.",
+  "tags": [
+    "semiconductor-capital-equipment",
+    "semiconductor-manufacturing",
+    "advanced-technology-nodes",
+    "new-materials-development"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/KLAC",
+  "origin": {
+    "leaf": "1ee913bf8921fc31dba6d2d19a5dae77507d1507999d3acf33575ce5b9cca7b8",
+    "parent": "a22f087fc46c2146a832554c2a438221da3d65882654b332c4cdfc8d78571b10",
+    "timestamp": "2026-04-12T02:42:22.965Z",
+    "source": "0000319201-25-000024",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1ee913bf8921fc31dba6d2d19a5dae77507d1507999d3acf33575ce5b9cca7b8",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.965Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "META",
+  "name": "Meta Platforms, Inc.",
+  "cik": "0001326801",
+  "summary": "Meta Platforms, Inc. builds technology for human connection and communication. Its Family of Apps includes Facebook, Instagram, Messenger, and WhatsApp, enabling people to connect, share content, and build communities. Meta also develops augmented and virtual reality hardware and software under its Reality Labs segment, including VR headsets and AI glasses, and is investing heavily in artificial intelligence to power transformative experiences across its platforms.",
+  "products": [
+    {
+      "name": "Facebook",
+      "type": "platform",
+      "description": "Social networking platform for connecting people, sharing content, and building communities."
+    },
+    {
+      "name": "Instagram",
+      "type": "platform",
+      "description": "Photo and video sharing social platform with messaging and community features."
+    },
+    {
+      "name": "Messenger",
+      "type": "platform",
+      "description": "Messaging app enabling communication between individuals and groups."
+    },
+    {
+      "name": "WhatsApp",
+      "type": "platform",
+      "description": "Encrypted messaging and communication app used globally."
+    },
+    {
+      "name": "Meta Quest (VR headsets)",
+      "type": "hardware",
+      "description": "Virtual reality headsets enabling immersive experiences as part of the next computing platform."
+    },
+    {
+      "name": "AI glasses",
+      "type": "hardware",
+      "description": "Smart glasses enabling augmented reality and AI-powered experiences."
+    },
+    {
+      "name": "Meta AI",
+      "type": "service",
+      "description": "Artificial intelligence technologies powering experiences across Meta's Family of Apps and new platforms."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/META/profile",
+  "origin": {
+    "leaf": "29bda90d1e53e7991546f780567b6ea8390cf8b59e69ca2e7d684f5c32a8be7a",
+    "parent": "6aa1a776d93d11794820df751df3f6b67768f98602202fdbc42c7d233d0aa85b",
+    "timestamp": "2026-04-12T02:42:22.987Z",
+    "source": "profile:0001326801",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/29bda90d1e53e7991546f780567b6ea8390cf8b59e69ca2e7d684f5c32a8be7a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.987Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

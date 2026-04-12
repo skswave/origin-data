@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "BAC",
+  "name": "BANK OF AMERICA CORP /DE/",
+  "cik": "0000070858",
+  "exchange": "NYSE",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "DE",
+  "headquarters": "Charlotte, North Carolina",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Bank of America Corporation is a Delaware-incorporated financial institution headquartered in Charlotte, North Carolina. This filing pertains to the Fifth Amendment of the Bank of America Deferred Compensation Plan (formerly the Bank of America 401(k) Restoration Plan), a benefit plan sponsored by the company for eligible employees and affiliated company employees, modifying beneficiary designation rules and claims adjudication jurisdiction effective January 1, 2025.",
+  "tags": [
+    "financial-services",
+    "employee-benefits"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/BAC",
+  "origin": {
+    "leaf": "e4d1ed824ad84d7b752b9dc4c207c93bfc3a869af2236080f19a17f7641b3a6f",
+    "parent": "3a499d365a634c83fcaba00ec92b069380dfd060a8b2df09d3d355292aa17e0d",
+    "timestamp": "2026-04-12T02:42:22.961Z",
+    "source": "0000070858-26-000157",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e4d1ed824ad84d7b752b9dc4c207c93bfc3a869af2236080f19a17f7641b3a6f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.961Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

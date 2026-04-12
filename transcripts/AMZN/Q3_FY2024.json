@@ -1,0 +1,202 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AMZN",
+  "company": "AMAZON COM INC",
+  "title": "AMZN Q3 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 5422,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "AMZN",
+      "predicate": "guided",
+      "object": "Guidance •   Net sales are expected to be between $181.5 billion",
+      "value": 181.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "AMZN",
+      "predicate": "guided",
+      "object": "expected to be between $16.0 billion",
+      "value": 16,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "AMZN",
+      "predicate": "mentioned",
+      "object": "Amazon",
+      "value": 48,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cloud"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AMZN/transcripts",
+  "origin": {
+    "leaf": "2429beee1710e8c340b7c9c46339edcfddf5f1e514b73dabf5c5d74b7decc54c",
+    "parent": "bcd81a9db0e94749e5d1a426702066c205f709bd511750d6e61f91a1c436b1fbd46030c65b2d3096d766b33e9789c2da",
+    "timestamp": "2026-04-12T02:43:08.452Z",
+    "source": "transcript:AMZN_AMZN-Q3-2024-Earnings-Release.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2429beee1710e8c340b7c9c46339edcfddf5f1e514b73dabf5c5d74b7decc54c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.452Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

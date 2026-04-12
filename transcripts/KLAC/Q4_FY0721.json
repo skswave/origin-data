@@ -1,0 +1,39 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "KLAC",
+  "company": "KLA CORP",
+  "title": "KLAC Q4 FY0721 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY0721",
+  "call_date": null,
+  "word_count": 4119,
+  "speakers": [
+    {
+      "name": "P p L q",
+      "title": null,
+      "firm": null,
+      "speaker_type": "unknown",
+      "mention_count": 1
+    }
+  ],
+  "facts": [],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/KLAC/transcripts",
+  "origin": {
+    "leaf": "074cd5f9576bab6df85ba6dad9fc2e7981e0058c67d5283d79bb2b024a42b818",
+    "parent": "eda0419c4631835e1f83d0f3097954f49448cf42bb95241ece84eb5145d7067a93940d6dd20b43fef350898adc97a129",
+    "timestamp": "2026-04-12T02:43:08.725Z",
+    "source": "transcript:KLAC_KLA_Infographic_Financials-Q4-2021_0721_fl+%28optimized%29.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/074cd5f9576bab6df85ba6dad9fc2e7981e0058c67d5283d79bb2b024a42b818",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.725Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

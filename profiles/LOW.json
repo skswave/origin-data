@@ -1,0 +1,97 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LOW",
+  "name": "LOWES COMPANIES INC",
+  "cik": "0000060667",
+  "summary": "Lowe's Companies, Inc. is the world's second largest home improvement retailer, operating 1,759 stores and outlets in the United States with approximately 196 million square feet of retail selling space. The company offers products across categories including Appliances, Lumber, Lawn & Garden, Hardware, Kitchens & Bath, Paint, Tools, Flooring, and more, serving DIY homeowners, renters, and professional contractors through in-store, online, on-site, branch, and contact center channels.",
+  "products": [
+    {
+      "name": "Home Improvement Retail Stores",
+      "type": "service",
+      "description": "1,759 Lowe's-branded stores averaging 112,000 sq ft offering construction, maintenance, repair, remodeling, and decorating products."
+    },
+    {
+      "name": "Lowe's Outlet Stores",
+      "type": "service",
+      "description": "16 smaller-format stores offering discontinued, overstocked, or scratch-and-dent items at incremental savings."
+    },
+    {
+      "name": "Lowes.com / Mobile App",
+      "type": "platform",
+      "description": "24/7 online shopping with expanded assortment, buying guides, how-to videos, and multiple fulfillment options."
+    },
+    {
+      "name": "MyLowes Rewards",
+      "type": "platform",
+      "description": "Loyalty program ecosystem serving both Pro and DIY customers to drive brand preference."
+    },
+    {
+      "name": "Installation Services",
+      "type": "service",
+      "description": "Home installation solutions via independent installers or third-party model for both small refresh and complex projects."
+    },
+    {
+      "name": "Branch Locations",
+      "type": "service",
+      "description": "Over 540 branch locations distributing and installing building materials for residential and commercial Pro customers."
+    },
+    {
+      "name": "In-Home Sales Program",
+      "type": "service",
+      "description": "Available in majority of stores for exterior projects such as windows, doors, and fencing via consultative approach."
+    },
+    {
+      "name": "Contact Centers",
+      "type": "service",
+      "description": "Omnichannel support via phone, mail, email, live chat, and social media for sales, order management, and deliveries."
+    },
+    {
+      "name": "Foundation Building Materials (FBM)",
+      "type": "service",
+      "description": "Acquired in 2025; branch locations serving larger Pro customers in residential and commercial markets."
+    },
+    {
+      "name": "Artisan Design Group (ADG)",
+      "type": "service",
+      "description": "Acquired in 2025; provides design, distribution, and installation services to home builders and property managers."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party gig network",
+      "partnership_type": "strategic",
+      "description": "Provides same-day delivery fulfillment for online orders.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Independent installers",
+      "partnership_type": "strategic",
+      "description": "Network used to provide home installation services to customers.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Third-party contact center providers",
+      "partnership_type": "strategic",
+      "description": "Supplement internal staffing for omnichannel customer service operations.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LOW/profile",
+  "origin": {
+    "leaf": "caace29936af1570dd90ca267e6cbb65e47833e12264ebf88c602fca59cf7d4e",
+    "parent": "85ceb1bbcd962d1835573aa0d5a9366626c9e76c5151b2091cd7312628d8c620",
+    "timestamp": "2026-04-12T02:42:23.003Z",
+    "source": "profile:0000060667",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/caace29936af1570dd90ca267e6cbb65e47833e12264ebf88c602fca59cf7d4e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.003Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

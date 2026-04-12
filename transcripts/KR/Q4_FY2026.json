@@ -1,0 +1,533 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "KR",
+  "company": "KROGER CO",
+  "title": "KR Q4 FY2026 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2026",
+  "call_date": null,
+  "word_count": 14071,
+  "speakers": [
+    {
+      "name": "Greg Foran",
+      "title": "Chief Executive   Officer & Director, The Kroger Co.",
+      "firm": "The Kroger",
+      "speaker_type": "executive",
+      "mention_count": 21
+    },
+    {
+      "name": "David Kennerley",
+      "title": "Executive Vice President & Chief Financial Officer, The Kroger Co.",
+      "firm": "The Kroger",
+      "speaker_type": "executive",
+      "mention_count": 12
+    },
+    {
+      "name": "Michael Lasser",
+      "title": "Analyst, UBS Securities LLC",
+      "firm": "UBS Securities",
+      "speaker_type": "analyst",
+      "mention_count": 6
+    },
+    {
+      "name": "Krisztina Katai",
+      "title": "Analyst, Deutsche Bank Securities, Inc.",
+      "firm": "Deutsche Bank Securities",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Leah Jordan",
+      "title": "Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "John Heinbockel",
+      "title": "Analyst, Guggenheim Securities LLC",
+      "firm": "Guggenheim Securities",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Rob Quast",
+      "title": "Vice President - Investor Relations, The Kroger Co.",
+      "firm": "The Kroger",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "Michael David Montani",
+      "title": "Analyst, Evercore ISI  Edward Kelly  Analyst, Wells Fargo Securities LLC",
+      "firm": "Wells Fargo Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Robert F. Ohmes",
+      "title": "Analyst, BofA Securities, Inc.",
+      "firm": "BofA Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Simeon Ari Gutma n",
+      "title": "Analyst, Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "KR",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "KR free cash flow",
+      "predicate": "reported",
+      "object": "$3.9 billion",
+      "value": 3.9,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "KR free cash flow",
+      "predicate": "reported",
+      "object": "$2.7 billion",
+      "value": 2.7,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "KR EPS",
+      "predicate": "reported",
+      "object": "$1.28",
+      "value": 1.28,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "KR EPS",
+      "predicate": "reported",
+      "object": "$4.85",
+      "value": 4.85,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KR",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KR",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "KR",
+      "predicate": "guided",
+      "object": "expect our convenience offerings to deliver  over $1.5 billion",
+      "value": 1.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "KR",
+      "predicate": "guided",
+      "object": "expect adjusted FIFO operating profit in a range of $5 billion",
+      "value": 5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "KR",
+      "predicate": "guided",
+      "object": "expect capital expenditures of $3.8 billion",
+      "value": 3.8,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "KR",
+      "predicate": "guided",
+      "object": "expect  adjusted free cash flow of $2.7 billion",
+      "value": 2.7,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we believe may have a material effect on our business on an ongoing basis is  containe d in our SEC filings",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we expect to increase   new store openings by 30%, with plans to expand into two  new regions, including Jacksonville and Kansas City, two high potential marke",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "We believe the price  investments we've made throughout the year are resonating with customers and are contributing to these r esults",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we expect our convenience offerings to deliver  over $1",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we believe we are still in the early stages of what we can achieve",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "We expect our LIFO charge in 2026 to be similar to 2025",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we expect to move back towards our target   leverage ratio",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we expect to complete these repurchases by the end of fiscal 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "We expect  identical sales without fuel growth in a range of 1% to 2%",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we expect Q1 identical sales without fuel to come in near the low end of our full  year range, driven primarily by continued egg de flation",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we expect sales trends to  improve",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we expect overall inflation to be lower than it  was in 2025",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we expect sales growth to moderate to low to   mid - single digits, reflecting the  impact of the Inflation Reduction Act on reimbursement rates, and the ongoi",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "We expect eCommerce to accelerate from 2025 growth rates, with  continued strength in delivery and   increased store - based fulfillment through our third - pa",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "We expect adjusted FIFO operating profit in a range of $5 billion  to $5",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we expect these investments to increase compared to 2025",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we expect our FIFO gross margin rate, excluding fuel and adjustment items, to improve in  2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "We expect to exceed our 2025  cost savings wit h increased contributions from two areas in particular, eCommerce and procurement",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we expect to build on that momentum",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we expect media to deliver double -  digit growth in 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "We expect modest benefits in 2026, with more  significant benefits expected in 2027 and 2028",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "We expect capital expenditures of $3",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "We expect  adjusted free cash flow of $2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "KR",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a   complete or   error - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KR",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KR",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KR",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KR",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KR",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KR",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KR",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KR",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai_compute"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/KR/transcripts",
+  "origin": {
+    "leaf": "157058fd4c217ecc950e1b7cb97e651eb6521f18665ad7b3a2146632568d6fee",
+    "parent": "9a488dfcfc17bcef4c920754b320b1d74f419c49e88374d22c26b4f7b258bd95f2d2429af03c8358b8b010f8034e339d",
+    "timestamp": "2026-04-12T02:43:08.738Z",
+    "source": "transcript:KR_CORRECTED-TRANSCRIPT-The-Kroger-Co-KR-US-Q4-2025-Earnings-Call-5-March-2026-8-00-AM-ET.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/157058fd4c217ecc950e1b7cb97e651eb6521f18665ad7b3a2146632568d6fee",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.738Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

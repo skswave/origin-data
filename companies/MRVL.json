@@ -1,0 +1,56 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MRVL",
+  "name": "Marvell Technology, Inc.",
+  "cik": "0001835632",
+  "exchange": "Nasdaq",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "state_of_incorporation": "DE",
+  "headquarters": "Wilmington, Delaware",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0131",
+  "summary": "Marvell Technology, Inc. is a leading fabless supplier of data infrastructure semiconductor solutions serving data center and communications end markets. The company develops custom ASICs, ethernet solutions, fibre channel adapters, processors, storage controllers, and interconnects. Leveraging System-on-a-Chip architectures integrating analog, mixed-signal, and digital signal processing, Marvell serves cloud, enterprise networking, carrier infrastructure, consumer, and automotive/industrial customers. Fiscal 2026 total net revenue was $8.19 billion, with 74% from data center and 26% from communications and other markets.",
+  "tags": [
+    "data-center",
+    "communications-and-other",
+    "enterprise-networking",
+    "carrier-infrastructure",
+    "consumer",
+    "automotive/industrial",
+    "pcie-(peripheral-component-interconnect-express)",
+    "cxl-(compute-express-link)",
+    "ethernet",
+    "fibre-channel",
+    "ualink-(ultra-accelerator-link)"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MRVL",
+  "origin": {
+    "leaf": "f3514a5d6e5605f226b7e73953810d29c214b0244df4523badc78a951cef09ee",
+    "parent": "106ef9266e32f52d0b100ce6a0dbdd9c925ec53bf921516e6d08d1e4fe0d1831",
+    "timestamp": "2026-04-12T02:42:22.965Z",
+    "source": "0001835632-26-000011",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f3514a5d6e5605f226b7e73953810d29c214b0244df4523badc78a951cef09ee",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.965Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

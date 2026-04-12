@@ -1,0 +1,162 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MDT",
+  "name": "Medtronic plc",
+  "cik": "0001613103",
+  "summary": "Medtronic plc, headquartered in Galway, Ireland, is a global healthcare technology company founded in 1949. It develops, manufactures, and sells device-based medical therapies across four segments: Cardiovascular Portfolio, Neuroscience Portfolio, Medical Surgical Portfolio, and Diabetes Operating Unit. Key products include implantable pacemakers (Micra, Azure), cardiac ablation systems, TAVR systems (Evolut FX+), spinal robotics (Mazor), neurostimulators, insulin pumps, and surgical navigation systems (StealthStation S8), serving patients in over 150 countries.",
+  "products": [
+    {
+      "name": "Micra Transcatheter Pacing System",
+      "type": "hardware",
+      "description": "Leadless implantable pacemaker including Micra VR and Micra AV families treating atrioventricular block."
+    },
+    {
+      "name": "Azure MRI SureScan Pacemaker",
+      "type": "hardware",
+      "description": "Implantable pacemaker featuring BlueSync technology for automatic secure wireless remote monitoring."
+    },
+    {
+      "name": "Aurora Extravascular-ICD",
+      "type": "hardware",
+      "description": "Implantable cardioverter defibrillator for cardiac rhythm management."
+    },
+    {
+      "name": "Cobalt/Crome BlueSync CRT-D",
+      "type": "hardware",
+      "description": "Cardiac resynchronization therapy defibrillators with BlueSync wireless remote monitoring technology."
+    },
+    {
+      "name": "PulseSelect Pulsed Field Ablation Catheter",
+      "type": "hardware",
+      "description": "Single shot pulsed field ablation catheter for treatment of atrial fibrillation."
+    },
+    {
+      "name": "Sphere-9 Focal Catheter",
+      "type": "hardware",
+      "description": "High density mapping catheter with dual RF and pulsed field energies for cardiac ablation."
+    },
+    {
+      "name": "Affera Mapping and Navigation System",
+      "type": "platform",
+      "description": "Electrophysiology mapping and navigation system with Prism-1 software for improving patient outcomes."
+    },
+    {
+      "name": "Arctic Front Advanced Cardiac Cryoablation System",
+      "type": "hardware",
+      "description": "Cryoablation system for treatment of atrial fibrillation."
+    },
+    {
+      "name": "Reveal LINQ / LINQ II",
+      "type": "hardware",
+      "description": "Insertable cardiac monitoring systems with AccuRhythm AI for long-term arrhythmia monitoring."
+    },
+    {
+      "name": "TYRX Absorbable Antibacterial Envelope",
+      "type": "hardware",
+      "description": "Device envelope designed to stabilize implantable cardiac/neuro devices and prevent surgical site infections."
+    },
+    {
+      "name": "Evolut FX+ TAVR System",
+      "type": "hardware",
+      "description": "Transcatheter aortic valve replacement system for treatment of aortic valve disorders."
+    },
+    {
+      "name": "Endurant II Stent Graft System",
+      "type": "hardware",
+      "description": "Endovascular stent graft for treatment of abdominal aortic aneurysms."
+    },
+    {
+      "name": "Harmony Transcatheter Pulmonary Valve",
+      "type": "hardware",
+      "description": "Transcatheter pulmonary valve and delivery catheter system for pulmonary valve replacement."
+    },
+    {
+      "name": "Melody TPV / Ensemble II Delivery System",
+      "type": "hardware",
+      "description": "Transcatheter pulmonary valve therapy system."
+    },
+    {
+      "name": "Onyx Frontier / Resolute Onyx Drug-Eluting Stents",
+      "type": "hardware",
+      "description": "Percutaneous coronary intervention drug-eluting stents for treatment of coronary artery disease."
+    },
+    {
+      "name": "Symplicity Spyral Renal Denervation System",
+      "type": "hardware",
+      "description": "Catheter-based renal denervation system for treatment of hypertension."
+    },
+    {
+      "name": "IN.PACT Drug-Coated Balloons",
+      "type": "hardware",
+      "description": "Percutaneous angioplasty drug-coated balloons for peripheral vascular disease treatment."
+    },
+    {
+      "name": "VenaSeal Closure System",
+      "type": "hardware",
+      "description": "System to treat superficial venous diseases in lower extremities."
+    },
+    {
+      "name": "ClosureFast Radiofrequency Ablation System",
+      "type": "hardware",
+      "description": "Radiofrequency ablation system for treatment of superficial venous disease."
+    },
+    {
+      "name": "StealthStation S8 Surgical Navigation System",
+      "type": "hardware",
+      "description": "Surgical navigation system for neurological and spine procedures within the AiBLE ecosystem."
+    },
+    {
+      "name": "Mazor Robotic Guidance System",
+      "type": "hardware",
+      "description": "Robotic guidance system used in robot-assisted spine procedures."
+    },
+    {
+      "name": "O-arm Imaging System",
+      "type": "hardware",
+      "description": "Intraoperative imaging system used in spine and cranial procedures."
+    },
+    {
+      "name": "UNiD Adaptive Spine Intelligence",
+      "type": "software",
+      "description": "AI-driven technology for surgical planning and personalized spinal implants."
+    },
+    {
+      "name": "Stealth Autoguide Cranial Robotic Guidance Platform",
+      "type": "hardware",
+      "description": "Robotic cranial guidance platform for neurological procedures."
+    },
+    {
+      "name": "Infuse Bone Graft (InductOs)",
+      "type": "hardware",
+      "description": "Recombinant human bone morphogenetic protein-2 biologic for spinal, trauma, and oral maxillofacial applications."
+    },
+    {
+      "name": "CATALYFT PL Expandable Interbody Spacers",
+      "type": "hardware",
+      "description": "Expandable interbody spacers for spine surgery."
+    },
+    {
+      "name": "AccuRhythm AI",
+      "type": "software",
+      "description": "AI algorithm integrated into LINQ devices to reduce clinic workload and data burden in cardiac monitoring."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MDT/profile",
+  "origin": {
+    "leaf": "a99f1081fe4f3a302d4bc3a17e57a1f23737eaf7e52cb5b520a38255b5049e07",
+    "parent": "c26b74b891b390b516b4b04a7a072c4fbe0ab8279c053874181a3c8899ca60f8",
+    "timestamp": "2026-04-12T02:42:23.017Z",
+    "source": "profile:0001613103",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a99f1081fe4f3a302d4bc3a17e57a1f23737eaf7e52cb5b520a38255b5049e07",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.017Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

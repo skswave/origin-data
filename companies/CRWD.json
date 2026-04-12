@@ -1,0 +1,58 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "CRWD",
+  "name": "CrowdStrike Holdings, Inc.",
+  "cik": "0001535527",
+  "exchange": "Nasdaq",
+  "sic": "7372",
+  "sic_description": "Services-Prepackaged Software",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "2011",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0131",
+  "summary": "CrowdStrike Holdings, Inc., founded in 2011, develops the AI-native Falcon cybersecurity platform, an AI Security Cloud that protects endpoints, cloud workloads, identities, and AI systems. The platform offers 33 cloud modules via SaaS subscription covering endpoint security, managed security services, identity protection, next-generation SIEM, threat intelligence, data protection, SOAR, and AI-driven workflow automation, serving customers through a single lightweight sensor and proprietary graph technologies.",
+  "tags": [
+    "corporate-endpoint-security",
+    "cloud-workload-security",
+    "managed-security-services",
+    "security-and-vulnerability-management",
+    "it-operations-management",
+    "identity-protection",
+    "next-generation-siem-and-log-management",
+    "threat-intelligence-services",
+    "data-protection",
+    "saas-security-posture-management",
+    "security-orchestration,-automation-and-response-(soar)",
+    "ai-driven-systems-security",
+    "mitre-att&ck-framework"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/CRWD",
+  "origin": {
+    "leaf": "5a810684f49de1354d8564ae16c4b9b13a9cebc8cc526c94b11720df2d1c7c4a",
+    "parent": "bc7197c65117f87a3f54c6be25ba563e4cf25c28db0f53e561f18c701e8b23d0",
+    "timestamp": "2026-04-12T02:42:22.973Z",
+    "source": "0001535527-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5a810684f49de1354d8564ae16c4b9b13a9cebc8cc526c94b11720df2d1c7c4a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.973Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

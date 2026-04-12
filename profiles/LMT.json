@@ -1,0 +1,192 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "LMT",
+  "name": "LOCKHEED MARTIN CORP",
+  "cik": "0000936468",
+  "summary": "Lockheed Martin is a global aerospace and defense technology company operating in four segments: Aeronautics, Missiles and Fire Control (MFC), Rotary and Mission Systems (RMS), and Space. Key products include the F-35 Lightning II fighter (27% of total sales), C-130 Hercules, F-16, F-22, PAC-3, THAAD, HIMARS, Javelin, Black Hawk helicopters, Aegis Combat System, Trident II D5 missile, and GPS III satellites. Primary customers are U.S. Government agencies and allied nations.",
+  "products": [
+    {
+      "name": "F-35 Lightning II",
+      "type": "hardware",
+      "description": "International multi-role, multi-variant, fifth generation stealth fighter generating 27% of total consolidated sales."
+    },
+    {
+      "name": "C-130 Hercules",
+      "type": "hardware",
+      "description": "International tactical airlifter produced for U.S. and foreign military customers."
+    },
+    {
+      "name": "F-16 Fighting Falcon",
+      "type": "hardware",
+      "description": "Combat-proven international multi-role fighter aircraft."
+    },
+    {
+      "name": "F-22 Raptor",
+      "type": "hardware",
+      "description": "Air dominance and multi-role fifth generation stealth fighter."
+    },
+    {
+      "name": "PAC-3 (Patriot Advanced Capability-3)",
+      "type": "hardware",
+      "description": "Advanced defensive missile using kinetic energy to intercept airborne threats for U.S. Army and international customers."
+    },
+    {
+      "name": "THAAD (Terminal High Altitude Area Defense)",
+      "type": "hardware",
+      "description": "Transportable defensive missile system engaging targets within and outside Earth's atmosphere."
+    },
+    {
+      "name": "HIMARS / MLRS",
+      "type": "hardware",
+      "description": "Highly mobile surface-to-surface rocket and missile system for U.S. Army and international customers."
+    },
+    {
+      "name": "Precision Strike Missile (PrSM)",
+      "type": "hardware",
+      "description": "Next generation precision strike surface-to-surface weapon compatible with MLRS launchers for U.S. Army."
+    },
+    {
+      "name": "JASSM (Joint Air-to-Surface Standoff Missile)",
+      "type": "hardware",
+      "description": "Air-to-ground missile launched from fixed-wing aircraft for U.S. Air Force and international customers."
+    },
+    {
+      "name": "LRASM (Long Range Anti-Ship Missile)",
+      "type": "hardware",
+      "description": "Precision guided anti-ship missile derived from JASSM for U.S. Air Force, Navy, and international customers."
+    },
+    {
+      "name": "Hellfire / JAGM",
+      "type": "hardware",
+      "description": "Air-to-ground missiles used on rotary and fixed-wing aircraft for U.S. Army, Navy, Marine Corps, and international customers."
+    },
+    {
+      "name": "Javelin",
+      "type": "hardware",
+      "description": "Portable anti-tank and multi-target precision weapon system produced via joint venture with RTX Corporation."
+    },
+    {
+      "name": "SNIPER Advanced Targeting Pod",
+      "type": "hardware",
+      "description": "Targeting system for fixed-wing aircraft produced for U.S. Air Force and international customers."
+    },
+    {
+      "name": "IRST21",
+      "type": "hardware",
+      "description": "Long-range infrared detection and tracking sensor for airborne threats on fixed-wing aircraft."
+    },
+    {
+      "name": "Black Hawk / Seahawk Helicopters",
+      "type": "hardware",
+      "description": "Military helicopters in service with U.S. and foreign governments under Sikorsky programs."
+    },
+    {
+      "name": "CH-53K King Stallion",
+      "type": "hardware",
+      "description": "Heavy lift helicopter in service with U.S. and foreign governments."
+    },
+    {
+      "name": "Aegis Combat System",
+      "type": "platform",
+      "description": "Air and missile defense system for U.S. Navy and international customers; sea and land-based missile defense element."
+    },
+    {
+      "name": "Littoral Combat Ship (LCS)",
+      "type": "hardware",
+      "description": "Surface combatant ship designed for shallow waters and open ocean for the U.S. Navy."
+    },
+    {
+      "name": "C2BMC (Command, Control, Battle Management and Communications)",
+      "type": "platform",
+      "description": "Air operations center for the Ballistic Missile Defense System for the U.S. Government."
+    },
+    {
+      "name": "Trident II D5 Fleet Ballistic Missile",
+      "type": "hardware",
+      "description": "Only submarine-launched intercontinental ballistic missile currently in production in the U.S., for the U.S. Navy."
+    },
+    {
+      "name": "Next Gen OPIR",
+      "type": "hardware",
+      "description": "Enhanced worldwide missile warning satellite system for the U.S. Space Force."
+    },
+    {
+      "name": "Next Generation Interceptor (NGI)",
+      "type": "hardware",
+      "description": "Homeland missile defense system using next generation propulsion and sensors for the Missile Defense Agency."
+    },
+    {
+      "name": "Orion Multi-Purpose Crew Vehicle",
+      "type": "hardware",
+      "description": "NASA's next generation exploration-class crewed vehicle for human lunar and deep space exploration."
+    },
+    {
+      "name": "GPS III",
+      "type": "hardware",
+      "description": "Modernized GPS satellite system produced for the U.S. Space Force."
+    },
+    {
+      "name": "Transport and Tracking Layer",
+      "type": "hardware",
+      "description": "Small satellite constellations for missile warning and communications for the Space Development Agency."
+    },
+    {
+      "name": "SOF GLSS (Special Operations Forces Global Logistics Support Services)",
+      "type": "service",
+      "description": "Logistics support services for U.S. military special operations forces."
+    },
+    {
+      "name": "Apache Fire Control System",
+      "type": "hardware",
+      "description": "Weapons-targeting system for the Apache helicopter for U.S. Army and international customers."
+    },
+    {
+      "name": "Combat Rescue Helicopter (CRH)",
+      "type": "hardware",
+      "description": "Helicopter utilized by the U.S. Air Force under Sikorsky programs."
+    },
+    {
+      "name": "Hypersonics Programs",
+      "type": "hardware",
+      "description": "Multiple programs with U.S. Air Force, Army, and Navy to design, develop, and build hypersonic strike weapons."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "RTX Corporation",
+      "partnership_type": "development",
+      "description": "Joint venture to develop and produce the Javelin anti-tank missile system for U.S. Army and Marine Corps.",
+      "start_date": null
+    },
+    {
+      "partner_name": "NASA",
+      "partnership_type": "development",
+      "description": "Producing the Orion Multi-Purpose Crew Vehicle for human lunar and deep space exploration.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Space Development Agency",
+      "partnership_type": "development",
+      "description": "Developing Transport and Tracking Layer small satellite constellations for missile warning and communications.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/LMT/profile",
+  "origin": {
+    "leaf": "ad8b3a78deeb6c8b517f517fb405ca1b67219b337425dae7d60b10e91381a561",
+    "parent": "429f17c01f4cdacfff79fc18a6001efafe8a847201b2d1c035af8807ab5af72c",
+    "timestamp": "2026-04-12T02:42:22.991Z",
+    "source": "profile:0000936468",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ad8b3a78deeb6c8b517f517fb405ca1b67219b337425dae7d60b10e91381a561",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.991Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

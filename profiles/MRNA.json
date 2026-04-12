@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MRNA",
+  "name": "Moderna, Inc.",
+  "cik": "0001682852",
+  "summary": "Moderna is a biotechnology company and pioneer in mRNA medicine, focused on developing vaccines and therapeutics across infectious disease, oncology, and rare disease. The company currently markets three commercial products: Spikevax and mNEXSPIKE (COVID-19 vaccines) and mRESVIA (RSV vaccine). In 2025, Moderna generated $1.9 billion in total revenue, primarily from COVID vaccine sales, while advancing a broader pipeline including individualized cancer therapies.",
+  "products": [
+    {
+      "name": "Spikevax",
+      "type": "hardware",
+      "description": "Moderna's COVID-19 mRNA vaccine, one of its primary commercial products."
+    },
+    {
+      "name": "mNEXSPIKE",
+      "type": "hardware",
+      "description": "Moderna's COVID-19 vaccine launched commercially in Q3 2025, now leading product in U.S. retail channel."
+    },
+    {
+      "name": "mRESVIA",
+      "type": "hardware",
+      "description": "Moderna's mRNA-based vaccine against respiratory syncytial virus (RSV)."
+    },
+    {
+      "name": "intismeran autogene (mRNA-4157)",
+      "type": "platform",
+      "description": "Individualized mRNA-based neoantigen therapy for cancer, uniquely manufactured per patient, in Phase 2/3 trials."
+    },
+    {
+      "name": "mRNA-4359",
+      "type": "platform",
+      "description": "Oncology pipeline candidate being advanced by Moderna."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Merck",
+      "partnership_type": "development",
+      "description": "Co-developing intismeran autogene (mRNA-4157) in combination with pembrolizumab (KEYTRUDA) across multiple tumor types in Phase 2 and Phase 3 trials.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MRNA/profile",
+  "origin": {
+    "leaf": "eae423d4b53dcd194d645fae75c440079512fecd6642b37980221b7a20ea9004",
+    "parent": "4c1d638782ef57cd60e615d9ce3e6d558e980766d1e8d70435e4f27321c84d38",
+    "timestamp": "2026-04-12T02:42:23.023Z",
+    "source": "profile:0001682852",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/eae423d4b53dcd194d645fae75c440079512fecd6642b37980221b7a20ea9004",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.023Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

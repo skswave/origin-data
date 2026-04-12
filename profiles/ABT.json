@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ABT",
+  "name": "ABBOTT LABORATORIES",
+  "cik": "0000001800",
+  "summary": "Abbott Laboratories, incorporated in Illinois in 1900, discovers, develops, manufactures, and sells a broad line of healthcare products across four segments: Established Pharmaceutical Products (branded generics sold in emerging markets), Diagnostic Products (laboratory, molecular, and point-of-care systems), Nutritional Products (infant and adult nutrition such as Similac and Ensure), and Medical Devices (cardiovascular devices, FreeStyle Libre CGM, and neuromodulation products).",
+  "products": [
+    {
+      "name": "FreeStyle Libre",
+      "type": "hardware",
+      "description": "Continuous glucose monitoring system with sensors, software, and accessories for diabetes management."
+    },
+    {
+      "name": "Alinity",
+      "type": "hardware",
+      "description": "Family of core laboratory instruments for immunoassay, clinical chemistry, hematology, and molecular diagnostics."
+    },
+    {
+      "name": "BinaxNOW",
+      "type": "hardware",
+      "description": "Rapid lateral flow testing platform for infectious diseases including SARS-CoV-2."
+    },
+    {
+      "name": "ID NOW",
+      "type": "hardware",
+      "description": "Rapid molecular point-of-care system for SARS-CoV-2, influenza A & B, RSV, and strep A."
+    },
+    {
+      "name": "MitraClip",
+      "type": "hardware",
+      "description": "Transcatheter edge-to-edge repair system for mitral valve treatment."
+    },
+    {
+      "name": "TriClip",
+      "type": "hardware",
+      "description": "Transcatheter edge-to-edge repair system for tricuspid valve treatment."
+    },
+    {
+      "name": "HeartMate",
+      "type": "hardware",
+      "description": "Left ventricular assist device family for heart failure treatment."
+    },
+    {
+      "name": "CardioMEMS HF System",
+      "type": "hardware",
+      "description": "Pulmonary artery sensor system for heart failure monitoring."
+    },
+    {
+      "name": "Aveir",
+      "type": "hardware",
+      "description": "Single-chamber and dual-chamber leadless pacemaker systems."
+    },
+    {
+      "name": "Volt Pulsed Field Ablation System",
+      "type": "hardware",
+      "description": "Electrophysiology ablation system for cardiac procedures."
+    },
+    {
+      "name": "Proclaim XR",
+      "type": "hardware",
+      "description": "Recharge-free implantable pulse generator for chronic pain management with BurstDR stimulation."
+    },
+    {
+      "name": "Infinity DBS",
+      "type": "hardware",
+      "description": "Non-rechargeable deep brain stimulation system with directional lead technology for movement disorders."
+    },
+    {
+      "name": "Liberta RC DBS",
+      "type": "hardware",
+      "description": "Rechargeable deep brain stimulation system with directional lead technology for movement disorders."
+    },
+    {
+      "name": "XIENCE",
+      "type": "hardware",
+      "description": "Drug-eluting coronary stent system developed on the Multi-Link Vision platform."
+    },
+    {
+      "name": "Navitor",
+      "type": "hardware",
+      "description": "Transcatheter aortic heart valve replacement system."
+    },
+    {
+      "name": "Tendyne",
+      "type": "hardware",
+      "description": "Transcatheter mitral valve replacement system."
+    },
+    {
+      "name": "Ensure",
+      "type": "service",
+      "description": "Adult nutritional supplement product line including Ensure Plus, Ensure Max Protein, and Ensure High Protein."
+    },
+    {
+      "name": "Similac",
+      "type": "service",
+      "description": "Infant and follow-on formula product line including multiple specialized formulations."
+    },
+    {
+      "name": "PediaSure",
+      "type": "service",
+      "description": "Pediatric nutritional supplement products including PediaSure Peptide."
+    },
+    {
+      "name": "Glucerna",
+      "type": "service",
+      "description": "Nutritional products for people with diabetes available in consumer and institutional forms."
+    },
+    {
+      "name": "Pedialyte",
+      "type": "service",
+      "description": "Oral electrolyte solution for hydration and rehydration."
+    },
+    {
+      "name": "Creon",
+      "type": "service",
+      "description": "Gastroenterology product for treatment of pancreatic exocrine insufficiency."
+    },
+    {
+      "name": "Synthroid",
+      "type": "service",
+      "description": "Cardiovascular and metabolic product for treatment of hypothyroidism."
+    },
+    {
+      "name": "i-STAT Alinity",
+      "type": "hardware",
+      "description": "Point-of-care system with cartridges for blood gas, chemistry, electrolytes, coagulation, and immunoassay testing."
+    },
+    {
+      "name": "Lingo CGM",
+      "type": "hardware",
+      "description": "Continuous glucose monitoring system with sensors and software for general health and wellness."
+    },
+    {
+      "name": "Esprit BTK",
+      "type": "hardware",
+      "description": "Everolimus eluting resorbable scaffold system for below-the-knee vascular treatment."
+    },
+    {
+      "name": "AlinIQ",
+      "type": "software",
+      "description": "Suite of informatics tools and professional services for laboratory automation solutions."
+    },
+    {
+      "name": "Diamondback 360",
+      "type": "hardware",
+      "description": "Coronary and peripheral orbital atherectomy systems for vascular treatment."
+    },
+    {
+      "name": "Amplatzer Amulet",
+      "type": "hardware",
+      "description": "Left atrial appendage occluder device for stroke risk reduction."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ABT/profile",
+  "origin": {
+    "leaf": "3d32486e127df94ddea5e27ee6028f5fd5da331eaa8bf3c3a759dcf04983976c",
+    "parent": "b2353bab101849c6996141b93f8f479ed58db635417b7d45613cac5a75a8333f",
+    "timestamp": "2026-04-12T02:42:23.015Z",
+    "source": "profile:0000001800",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3d32486e127df94ddea5e27ee6028f5fd5da331eaa8bf3c3a759dcf04983976c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.015Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "UNH",
+  "company": "UNITEDHEALTH GROUP INC",
+  "title": "UNH Q1 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 4542,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 35,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 30,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "UNH gross margin",
+      "predicate": "reported",
+      "object": "$5.8 percent",
+      "value": 5.8,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "UNH",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/UNH/transcripts",
+  "origin": {
+    "leaf": "765a8dc8cee60ad3871d66d4c14cb24fb8ecc2ba11fdc21397cc50d25ea5a252",
+    "parent": "f54598a062030fce18733fc6d0880f8435518ec0fc277ae1157794d399e7f06be67c68784eea8d1186a7691d99968dbc",
+    "timestamp": "2026-04-12T02:43:08.865Z",
+    "source": "transcript:UNH_UNH-Q1-2024-Release.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/765a8dc8cee60ad3871d66d4c14cb24fb8ecc2ba11fdc21397cc50d25ea5a252",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.865Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

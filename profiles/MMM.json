@@ -1,0 +1,107 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MMM",
+  "name": "3M CO",
+  "cik": "0000066740",
+  "summary": "3M Company is a diversified technology company operating in three segments: Safety and Industrial, Transportation and Electronics, and Consumer. Products include industrial abrasives, electrical materials, personal safety equipment, automotive solutions, semiconductor materials, display films, cleaning products, and consumer adhesives. Key brands include Scotch, Post-it, Nexcare, Command, Filtrete, and 3M Cubitron. Products are sold globally through wholesalers, retailers, distributors, and e-commerce channels.",
+  "products": [
+    {
+      "name": "3M Cubitron Abrasives",
+      "type": "hardware",
+      "description": "Industrial abrasives and finishing products for metalworking applications"
+    },
+    {
+      "name": "3M VHB Tape",
+      "type": "hardware",
+      "description": "Structural adhesives and tapes for industrial and construction use"
+    },
+    {
+      "name": "3M Scotchlite Reflective Materials",
+      "type": "hardware",
+      "description": "Reflective signage and materials for highway and vehicle safety"
+    },
+    {
+      "name": "Filtrete HVAC Filters",
+      "type": "hardware",
+      "description": "Consumer air quality and HVAC filtration products"
+    },
+    {
+      "name": "Command Adhesive Hooks",
+      "type": "hardware",
+      "description": "Consumer adhesive hanging solutions for home use"
+    },
+    {
+      "name": "Post-it Notes",
+      "type": "hardware",
+      "description": "Adhesive stationery and office products"
+    },
+    {
+      "name": "Nexcare Bandages",
+      "type": "hardware",
+      "description": "Consumer healthcare bandages, tapes, braces and supports"
+    },
+    {
+      "name": "3M Scott Self Contained Breathing Apparatus",
+      "type": "hardware",
+      "description": "Respiratory personal safety equipment for industrial use"
+    },
+    {
+      "name": "3M DBI-Sala Fall Protection",
+      "type": "hardware",
+      "description": "Fall protection solutions for worker safety"
+    },
+    {
+      "name": "3M Peltor Protection & Communication",
+      "type": "hardware",
+      "description": "Hearing and communication protection equipment"
+    },
+    {
+      "name": "3M Nextel Ceramic Fibers",
+      "type": "hardware",
+      "description": "Advanced ceramic fibers and textiles for industrial applications"
+    },
+    {
+      "name": "Thinsulate Acoustic Insulation",
+      "type": "hardware",
+      "description": "Automotive acoustic insulation products and components"
+    },
+    {
+      "name": "Electronic Display Enhancement Films",
+      "type": "hardware",
+      "description": "Light management films for electronic displays"
+    },
+    {
+      "name": "Scotch-Brite",
+      "type": "hardware",
+      "description": "Consumer and industrial cleaning sponges and abrasive products"
+    },
+    {
+      "name": "Scotchgard",
+      "type": "hardware",
+      "description": "Protective spray for consumer and shingle applications"
+    },
+    {
+      "name": "Meguiars",
+      "type": "hardware",
+      "description": "Automotive appearance and car wash products"
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MMM/profile",
+  "origin": {
+    "leaf": "a55fc18527c856ec6bfdeee8d831ccdbe24e55fd33cb11ff9f0c02ffb3e7cf9a",
+    "parent": "a5745279de66d35b6dca50c019c6dcb55ded474e6003e4ca5cc9ba6499ccdb5f",
+    "timestamp": "2026-04-12T02:42:23.025Z",
+    "source": "profile:0000066740",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a55fc18527c856ec6bfdeee8d831ccdbe24e55fd33cb11ff9f0c02ffb3e7cf9a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.025Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

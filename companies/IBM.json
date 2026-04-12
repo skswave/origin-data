@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "IBM",
+  "name": "INTERNATIONAL BUSINESS MACHINES CORP",
+  "cik": "0000051143",
+  "exchange": "NYSE",
+  "sic": "3570",
+  "sic_description": "Computer & office Equipment",
+  "state_of_incorporation": "NY",
+  "headquarters": "New York, New York",
+  "founded": "1911",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "International Business Machines Corporation (IBM) provides hybrid cloud and artificial intelligence (AI) technology solutions to enterprise clients. IBM operates through Software, Consulting, Infrastructure, and Financing segments. Its offerings include hybrid cloud platforms, AI tools, business consulting, systems integration, application development, mission-critical server and storage infrastructure, and client financing. IBM serves clients globally, helping them with digital transformation, workflow modernization, and operational efficiency.",
+  "tags": [
+    "hybrid-cloud",
+    "artificial-intelligence",
+    "business-consulting",
+    "it-infrastructure",
+    "software",
+    "business-process-outsourcing",
+    "client-financing"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/IBM",
+  "origin": {
+    "leaf": "f76f022db47580912b31309fcbe3bf9b5882f335ebc7e75ca93c0416ab3bf611",
+    "parent": "7e1b4d18ee10639febbba932b81ecaa83f5e558903b262865f2f5fd4b3ab9a31",
+    "timestamp": "2026-04-12T02:42:22.964Z",
+    "source": "0000051143-26-000010",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f76f022db47580912b31309fcbe3bf9b5882f335ebc7e75ca93c0416ab3bf611",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.964Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

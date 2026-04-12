@@ -1,0 +1,327 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "LOW",
+  "company": "LOWES COMPANIES INC",
+  "title": "LOW   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 11295,
+  "speakers": [
+    {
+      "name": "Peter",
+      "title": "Analyst  Christopher Horvers  JPMorgan Chase & Co - Analyst  Kate McShane  Goldman Sachs Group Inc - Analyst  Michael Lasser  UBS AG - Analyst  Jonathan Matuszewski  Jefferies LLC - Analyst  Brian Nagel  Oppenheimer & Co Inc - Analyst, Benedict  Robert W. Baird & Co Inc",
+      "firm": "Christopher Horvers  JPMorgan Chase &",
+      "speaker_type": "analyst",
+      "mention_count": 7
+    },
+    {
+      "name": "Kate Pearlman  Lowe's",
+      "title": "Vice President, Investor Relations & Treasurer.  Marvin Ellison  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer  William Boltz  Lowe's Companies Inc - Executive Vice President - Merchandising  Joseph Mcfarland  Lowe's Companies Inc - Executive Vice President - Stores  Brandon Sink  Lowe's Companies Inc - Chief Financial Officer, Executive Vice President, Companies Inc",
+      "firm": "Investor Relations & Treasurer.  Marvin Ellison  Lowe's Companies Inc - Chairman of the Board",
+      "speaker_type": "executive",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "LOW",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LOW",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LOW",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LOW",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LOW gross margin",
+      "predicate": "reported",
+      "object": "$12.1 percent",
+      "value": 12.1,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LOW gross margin",
+      "predicate": "reported",
+      "object": "$32.7 percent",
+      "value": 32.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LOW EPS",
+      "predicate": "reported",
+      "object": "$12.28",
+      "value": 12.28,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LOW EPS",
+      "predicate": "reported",
+      "object": "$1.78.",
+      "value": 1.78,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LOW EPS",
+      "predicate": "reported",
+      "object": "$1.98.",
+      "value": 1.98,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LOW EPS",
+      "predicate": "reported",
+      "object": "$11.75",
+      "value": 11.75,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "LOW",
+      "predicate": "guided",
+      "object": "expecting 2026 sales ranging from $92 billion",
+      "value": 92,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "LOW",
+      "predicate": "guided",
+      "object": "expect net interest expense of approximately $1.6 billion",
+      "value": 1.6,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "LOW",
+      "predicate": "guided",
+      "object": "expect capital expenditures of approximately $2.5 billion",
+      "value": 2.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "LOW",
+      "predicate": "guided",
+      "object": "expectation of $1 billion",
+      "value": 1,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "LOW",
+      "predicate": "stated",
+      "object": "we expect them to build on their leadership positions this year, leveraging a reputation for exceptional customer service while maintaining operational discipl",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "LOW",
+      "predicate": "stated",
+      "object": "We anticipate that ADG and FBM will contribute approximately $8 billion to sales",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "LOW",
+      "predicate": "stated",
+      "object": "We expect operating margin in a range of 11",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "LOW",
+      "predicate": "stated",
+      "object": "We expect gross margin to decline approximately 75 basis points compared to the prior year when we factor in the dilution related to the acquisitions",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "LOW",
+      "predicate": "stated",
+      "object": "we expect net interest expense of approximately $1",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "LOW",
+      "predicate": "stated",
+      "object": "We expect adjusted diluted earnings per share of approximately $12",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "LOW",
+      "predicate": "stated",
+      "object": "We believe it's a hallmark differentiator for us and expect that to continue here in 2026 as we focus on landing that number",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "LOW",
+      "predicate": "stated",
+      "object": "we expect to deliver for 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "LOW",
+      "predicate": "guided",
+      "object": "fiscal year 2025, we delivered sales of $86.3 billion",
+      "value": 86.3,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LOW",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LOW",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LOW",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LOW",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "LOW",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/LOW/transcripts",
+  "origin": {
+    "leaf": "29b0bb22e235362766d2c0c704b1f4d74ce7721016bd159e593210616e817d78",
+    "parent": "38379da34d20a5e20915e49ee9462f16337ea97168cb14b666bb6c7d8c133e330cf6feeeb9855ed04cf319c73bedf377",
+    "timestamp": "2026-04-12T02:43:08.740Z",
+    "source": "transcript:LOW_low-usq-transcript_2026-02-25.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/29b0bb22e235362766d2c0c704b1f4d74ce7721016bd159e593210616e817d78",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.740Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

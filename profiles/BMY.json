@@ -1,0 +1,80 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BMY",
+  "name": "BRISTOL MYERS SQUIBB CO",
+  "cik": "0000014272",
+  "summary": "Bristol Myers Squibb is a global biopharmaceutical company focused on discovering, developing, and delivering innovative medicines for serious diseases including cancer, cardiovascular conditions, immunology, and fibrosis. Key marketed products include Revlimid, Eliquis, Opdivo, Pomalyst, Orencia, Sprycel, Yervoy, Abraxane, and Empliciti. The company engages in extensive R&D, strategic alliances, licensing arrangements, and global manufacturing to bring therapies to patients worldwide.",
+  "products": [
+    {
+      "name": "Revlimid",
+      "type": "service",
+      "description": "Treatment for multiple myeloma and other hematological cancers."
+    },
+    {
+      "name": "Eliquis",
+      "type": "service",
+      "description": "Anticoagulant for stroke prevention and treatment of blood clots."
+    },
+    {
+      "name": "Opdivo",
+      "type": "service",
+      "description": "Immune checkpoint inhibitor for multiple oncology indications."
+    },
+    {
+      "name": "Pomalyst",
+      "type": "service",
+      "description": "Treatment for relapsed or refractory multiple myeloma."
+    },
+    {
+      "name": "Orencia",
+      "type": "service",
+      "description": "Biologic treatment for rheumatoid arthritis and psoriatic arthritis."
+    },
+    {
+      "name": "Sprycel",
+      "type": "service",
+      "description": "Targeted therapy for chronic myeloid leukemia."
+    },
+    {
+      "name": "Yervoy",
+      "type": "service",
+      "description": "Immunotherapy for melanoma and other cancers."
+    },
+    {
+      "name": "Abraxane",
+      "type": "service",
+      "description": "Chemotherapy for breast, lung, and pancreatic cancers."
+    },
+    {
+      "name": "Empliciti",
+      "type": "service",
+      "description": "Treatment for relapsed or refractory multiple myeloma."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Pfizer",
+      "partnership_type": "strategic",
+      "description": "Co-development and commercialization alliance for Eliquis.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BMY/profile",
+  "origin": {
+    "leaf": "1d4ceeb84fada0a6742068b492cbe14a6e4566f1ea8dcd08b9074d4d9c34c788",
+    "parent": "0e1f4e0320f68bd6e9b782a8ef84fc04cc0bff1f33163450560e4ca0a7b05462",
+    "timestamp": "2026-04-12T02:42:23.022Z",
+    "source": "profile:0000014272",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1d4ceeb84fada0a6742068b492cbe14a6e4566f1ea8dcd08b9074d4d9c34c788",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.022Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

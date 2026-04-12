@@ -1,0 +1,77 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "WFC",
+  "name": "WELLS FARGO & COMPANY/MN",
+  "cik": "0000072971",
+  "summary": "Wells Fargo & Company is a diversified financial services company offering consumer banking, consumer lending, commercial banking, wealth management, brokerage, asset and investment management, investment banking, insurance, and annuities. Products and services include auto finance, deposits, mortgage origination and servicing, credit and debit cards, payment processing, merchant services, digital banking, middle market banking, custody, trust, treasury services, and alternative investments such as real estate, hedge funds, private credit, and private equity.",
+  "products": [
+    {
+      "name": "Consumer Banking",
+      "type": "service",
+      "description": "Deposit accounts, digital banking, and payment processing for retail customers."
+    },
+    {
+      "name": "Mortgage Services",
+      "type": "service",
+      "description": "Originating and servicing residential mortgage loans."
+    },
+    {
+      "name": "Auto Finance",
+      "type": "service",
+      "description": "Auto lending and financing services."
+    },
+    {
+      "name": "Credit and Debit Cards",
+      "type": "service",
+      "description": "Issuing and servicing credit and debit card products."
+    },
+    {
+      "name": "Wealth and Brokerage Services",
+      "type": "service",
+      "description": "Wealth management, brokerage, and asset/investment management services."
+    },
+    {
+      "name": "Investment Banking",
+      "type": "service",
+      "description": "Advisory on mergers and acquisitions, underwriting, dealing in and making markets in securities."
+    },
+    {
+      "name": "Insurance and Annuities",
+      "type": "service",
+      "description": "Providing and issuing insurance products and annuities, including as agent or broker."
+    },
+    {
+      "name": "Commercial Banking",
+      "type": "service",
+      "description": "Middle market banking, treasury, lending, custody, and trust services for businesses."
+    },
+    {
+      "name": "Alternative Investments",
+      "type": "service",
+      "description": "Real estate, hedge funds, private credit, and private equity investment services."
+    },
+    {
+      "name": "Payment and Merchant Services",
+      "type": "service",
+      "description": "Payment servicing, processing, and merchant services."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/WFC/profile",
+  "origin": {
+    "leaf": "6a827621c01ab27553b0cc73c24aead297e930f99117501c47a0bc26677e8d4b",
+    "parent": "9fbcc1168fcc8f1c1fb70972f3d7e3e00ac67caf1374ad5b8ffcf7f6e86851a4",
+    "timestamp": "2026-04-12T02:42:22.999Z",
+    "source": "profile:0000072971",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6a827621c01ab27553b0cc73c24aead297e930f99117501c47a0bc26677e8d4b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.999Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AAPL",
+  "company": "Apple Inc.",
+  "title": "AAPL Q3 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 10740,
+  "speakers": [
+    {
+      "name": "PART I",
+      "title": "FINANCIAL INFORMATION Item 1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 12
+    },
+    {
+      "name": "PART II",
+      "title": "OTHER INFORMATION Item 1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 4
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAPL total revenue",
+      "predicate": "reported",
+      "object": "$12.2 billion",
+      "value": 12.2,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cloud"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "AAPL",
+      "predicate": "mentioned",
+      "object": "Apple",
+      "value": 52,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AAPL/transcripts",
+  "origin": {
+    "leaf": "1f8052f29a262d8f335b5bf4864bd56000f2a751fb7b0f7a1663ded875551050",
+    "parent": "0102a67cc1a31e5ec46f123ef0c25aa0b40f36508301225cd980e77dbfca61c1bb69cc0d3d26eb06665817113ce55a3e",
+    "timestamp": "2026-04-12T02:43:08.421Z",
+    "source": "transcript:AAPL__10-Q-Q3-2023-As-Filed.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1f8052f29a262d8f335b5bf4864bd56000f2a751fb7b0f7a1663ded875551050",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.421Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

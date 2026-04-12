@@ -1,0 +1,63 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "VZ",
+  "name": "VERIZON COMMUNICATIONS INC",
+  "cik": "0000732712",
+  "exchange": "NYSE",
+  "sic": "4813",
+  "sic_description": "Telephone Communications (No Radiotelephone)",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Verizon Communications Inc. is a holding company and one of the world's leading providers of communications, technology, information, and streaming products and services. Operating through two segments—Verizon Consumer Group and Verizon Business Group—it offers wireless services, fiber-optic and copper-based wireline broadband, FWA broadband via 5G/4G LTE, IoT connectivity, managed network services, security services, and video services to consumers, businesses, government entities, and carriers across the U.S. and in more than 180 countries.",
+  "tags": [
+    "consumer-wireless",
+    "consumer-wireline-broadband",
+    "consumer-video",
+    "enterprise-and-public-sector",
+    "small-and-medium-business",
+    "wholesale-telecommunications",
+    "government-and-public-safety",
+    "global-enterprise-connectivity",
+    "5g",
+    "4g-lte",
+    "fiber-optic-(100%-fiber)",
+    "open-ran-(oran)",
+    "vran-(virtualized-radio-access-network)",
+    "c-band-spectrum",
+    "millimeter-wave-spectrum",
+    "dsl-(digital-subscriber-line)",
+    "ip-routing",
+    "cloud-infrastructure"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/VZ",
+  "origin": {
+    "leaf": "f1f3468ece4373c6fa644fbf8aa6c91f55987f8dadcb6a8efea0e32b31eb114b",
+    "parent": "50cbcfb3691bb21260af78cedda3990f85c4d4a28292f417918b3ad2c292b05c",
+    "timestamp": "2026-04-12T02:42:22.956Z",
+    "source": "0000732712-26-000007",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f1f3468ece4373c6fa644fbf8aa6c91f55987f8dadcb6a8efea0e32b31eb114b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.956Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

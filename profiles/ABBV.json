@@ -1,0 +1,116 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "ABBV",
+  "name": "AbbVie Inc.",
+  "cik": "0001551152",
+  "summary": "AbbVie Inc. is a global, diversified research-based biopharmaceutical company focused on immunology, neuroscience, oncology, and aesthetics. Key products include Skyrizi (risankizumab) and Rinvoq (upadacitinib) for autoimmune diseases, Humira (adalimumab), Vraylar (cariprazine) for neurological conditions, Imbruvica (ibrutinib) and Venclexta (venetoclax) for blood cancers, and Botox Cosmetic and Botox Therapeutic for aesthetic and therapeutic applications. AbbVie develops, manufactures, and commercializes therapies addressing complex and serious diseases globally.",
+  "products": [
+    {
+      "name": "Skyrizi (risankizumab)",
+      "type": "service",
+      "description": "IL-23 inhibitor biologic approved for plaque psoriasis, psoriatic arthritis, Crohn's disease, and ulcerative colitis."
+    },
+    {
+      "name": "Rinvoq (upadacitinib)",
+      "type": "service",
+      "description": "Oral, once-daily selective JAK inhibitor approved for multiple inflammatory diseases including rheumatoid arthritis and atopic dermatitis."
+    },
+    {
+      "name": "Humira (adalimumab)",
+      "type": "service",
+      "description": "Biologic subcutaneous injection approved for numerous autoimmune diseases including rheumatoid arthritis and Crohn's disease."
+    },
+    {
+      "name": "Vraylar (cariprazine)",
+      "type": "service",
+      "description": "Dopamine D3/D2 receptor partial agonist indicated for schizophrenia, bipolar disorder, and major depressive disorder."
+    },
+    {
+      "name": "Botox Therapeutic (onabotulinumtoxinA)",
+      "type": "service",
+      "description": "Injectable neuromuscular blocking agent approved for chronic migraine, overactive bladder, spasticity, and other conditions."
+    },
+    {
+      "name": "Ubrelvy (ubrogepant)",
+      "type": "service",
+      "description": "CGRP receptor antagonist for acute treatment of migraine with or without aura in adults."
+    },
+    {
+      "name": "Qulipta (atogepant)",
+      "type": "service",
+      "description": "CGRP receptor antagonist for preventive treatment of episodic and chronic migraine in adults."
+    },
+    {
+      "name": "Vyalev (foscarbidopa and foslevodopa)",
+      "type": "service",
+      "description": "Subcutaneous 24-hour infusion therapy for motor fluctuations in adults with advanced Parkinson's disease."
+    },
+    {
+      "name": "Duodopa (carbidopa and levodopa)",
+      "type": "service",
+      "description": "Levodopa-carbidopa intestinal gel for treatment of advanced Parkinson's disease, marketed as Duopa in the United States."
+    },
+    {
+      "name": "Imbruvica (ibrutinib)",
+      "type": "service",
+      "description": "Oral BTK inhibitor approved for CLL, certain non-Hodgkin lymphomas, and chronic graft versus host disease."
+    },
+    {
+      "name": "Venclexta (venetoclax)",
+      "type": "service",
+      "description": "BCL-2 inhibitor approved for CLL, small lymphocytic lymphoma, and certain acute myeloid leukemia patients."
+    },
+    {
+      "name": "Elahere (mirvetuximab soravtansine-gynx)",
+      "type": "service",
+      "description": "Antibody-drug conjugate approved for FR-positive, platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal cancer."
+    },
+    {
+      "name": "Epkinly (epcoritamab)",
+      "type": "service",
+      "description": "Subcutaneous injection approved for relapsed/refractory diffuse large B-cell lymphoma and follicular lymphoma."
+    },
+    {
+      "name": "Emrelis",
+      "type": "service",
+      "description": "ADC for locally advanced or metastatic non-squamous non-small cell lung cancer with high c-Met protein overexpression."
+    },
+    {
+      "name": "Botox Cosmetic (onabotulinumtoxinA)",
+      "type": "service",
+      "description": "Neuromuscular blocking agent for temporary improvement of glabellar lines, crow's feet, and other facial areas."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "GSK",
+      "partnership_type": "licensing",
+      "description": "GSK markets Botox Therapeutic in Japan on behalf of AbbVie.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Abbott Laboratories",
+      "partnership_type": "strategic",
+      "description": "Abbott distributed 100% of AbbVie's outstanding common stock to Abbott shareholders on January 1, 2013, making AbbVie independent.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/ABBV/profile",
+  "origin": {
+    "leaf": "95ddc2aff1a7fd0e5f7b63c9043a5a9cee397097c1c8cd1be15657eb8fece3c2",
+    "parent": "4ff1db4faf9735f075747d74a15b9f8ef332853ce484e210ad19aef8290bdfe7",
+    "timestamp": "2026-04-12T02:42:22.994Z",
+    "source": "profile:0001551152",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/95ddc2aff1a7fd0e5f7b63c9043a5a9cee397097c1c8cd1be15657eb8fece3c2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.995Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

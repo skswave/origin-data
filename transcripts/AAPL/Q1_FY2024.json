@@ -1,0 +1,157 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AAPL",
+  "company": "Apple Inc.",
+  "title": "AAPL Q1 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 9955,
+  "speakers": [
+    {
+      "name": "PART I",
+      "title": "FINANCIAL INFORMATION Item 1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 12
+    },
+    {
+      "name": "PART II",
+      "title": "OTHER INFORMATION Item 1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 4
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAPL total revenue",
+      "predicate": "reported",
+      "object": "$12.5 billion",
+      "value": 12.5,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "AAPL",
+      "predicate": "mentioned",
+      "object": "Apple",
+      "value": 55,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cloud"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AAPL/transcripts",
+  "origin": {
+    "leaf": "bd2504da2267924921a741e5af4d7e4301107f191f4f950349ee4bba60b18b37",
+    "parent": "c715e687cdbd7368144e2cb0a2d03aeaadc838e7a406e6621f4b00b04dc56963f74487c9cc062920bc6c08d54ad30b63",
+    "timestamp": "2026-04-12T02:43:08.421Z",
+    "source": "transcript:AAPL__10-Q-Q1-2024-As-Filed.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bd2504da2267924921a741e5af4d7e4301107f191f4f950349ee4bba60b18b37",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.421Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DE",
+  "name": "DEERE & CO",
+  "cik": "0000315189",
+  "summary": "Deere & Company (John Deere), incorporated in Delaware in 1958, manufactures and finances agricultural, turf, and construction equipment. Products include row crop tractors, harvesters, cotton pickers, sugarcane equipment, tillage and seeding equipment, riding lawn equipment, excavators, crawler dozers, and forestry machinery. Its Financial Services segment provides retail notes, leases, revolving charge accounts, wholesale receivables, and extended warranties. The company operates through four segments: Production & Precision Agriculture, Small Agriculture & Turf, Construction & Forestry, and Financial Services.",
+  "products": [
+    {
+      "name": "4WD/Track and Row Crop Tractors",
+      "type": "hardware",
+      "description": "Large agricultural tractors for corn, soy, and other row crops."
+    },
+    {
+      "name": "Harvesters",
+      "type": "hardware",
+      "description": "Combines and specialty harvesters for grain, cotton, and sugarcane."
+    },
+    {
+      "name": "Cotton Pickers and Cotton Strippers",
+      "type": "hardware",
+      "description": "Specialized equipment for cotton harvesting operations."
+    },
+    {
+      "name": "Sugarcane Harvesters and Loaders",
+      "type": "hardware",
+      "description": "Equipment designed for sugarcane harvesting and loading."
+    },
+    {
+      "name": "Soil Preparation, Tillage, Seeding, Application, and Crop Care Equipment",
+      "type": "hardware",
+      "description": "Full range of field preparation and planting equipment."
+    },
+    {
+      "name": "Specialty, Utility, and Compact Tractors",
+      "type": "hardware",
+      "description": "Smaller tractors for high-value crops, small acreage, and livestock operations."
+    },
+    {
+      "name": "Self-Propelled Forage Harvesters and Attachments",
+      "type": "hardware",
+      "description": "Forage harvesting equipment for dairy and livestock operations."
+    },
+    {
+      "name": "Hay and Forage Equipment",
+      "type": "hardware",
+      "description": "Equipment for cutting, conditioning, and baling hay and forage."
+    },
+    {
+      "name": "Riding Lawn Equipment and Commercial Mowing Equipment",
+      "type": "hardware",
+      "description": "Residential and commercial mowing and turf maintenance machines."
+    },
+    {
+      "name": "Golf Course Equipment",
+      "type": "hardware",
+      "description": "Specialized turf maintenance equipment for golf course management."
+    },
+    {
+      "name": "Utility Vehicles and Rotary Mowers",
+      "type": "hardware",
+      "description": "Multi-purpose utility vehicles and rotary mowers for property maintenance."
+    },
+    {
+      "name": "Backhoe Loaders",
+      "type": "hardware",
+      "description": "Construction equipment for earthmoving and digging operations."
+    },
+    {
+      "name": "Crawler Dozers and Loaders",
+      "type": "hardware",
+      "description": "Track-driven construction machines for earthmoving."
+    },
+    {
+      "name": "Skid Steers",
+      "type": "hardware",
+      "description": "Compact construction loaders for tight-space earthmoving tasks."
+    },
+    {
+      "name": "Four-Wheel-Drive Loaders and Compact Wheel Loaders",
+      "type": "hardware",
+      "description": "Wheeled loaders for construction and material handling."
+    },
+    {
+      "name": "Excavators and Compact Excavators",
+      "type": "hardware",
+      "description": "Digging and earthmoving machines for construction projects."
+    },
+    {
+      "name": "Timber Harvesting Equipment",
+      "type": "hardware",
+      "description": "Forestry machines for cutting and processing timber."
+    },
+    {
+      "name": "Road Building and Road Rehabilitation Equipment",
+      "type": "hardware",
+      "description": "Machines including motor graders for road construction and repair."
+    },
+    {
+      "name": "Articulated Dump Trucks",
+      "type": "hardware",
+      "description": "Heavy-duty dump trucks for construction and earthmoving."
+    },
+    {
+      "name": "Retail Notes and Revolving Charge Accounts",
+      "type": "service",
+      "description": "Customer financing solutions provided by John Deere Financial."
+    },
+    {
+      "name": "Wholesale Receivables and Leases",
+      "type": "service",
+      "description": "Dealer and customer leasing and wholesale financing programs."
+    },
+    {
+      "name": "Extended Warranties",
+      "type": "service",
+      "description": "Extended warranty coverage for John Deere equipment."
+    },
+    {
+      "name": "Solutions as a Service (SaaS)",
+      "type": "platform",
+      "description": "Technology-enabled service solutions tied to equipment automation and digitalization."
+    },
+    {
+      "name": "Technology Stack",
+      "type": "platform",
+      "description": "Integrated hardware, embedded software, connectivity, data platforms, and applications for intelligent equipment solutions."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/DE/profile",
+  "origin": {
+    "leaf": "22c3ed635324a56328076d6c52b0b1990afef8027a7d48a17db17bd2413669a3",
+    "parent": "c5475870f82d88c482346c67219a2eabf7465a1025786b00e9fca959b99b78a2",
+    "timestamp": "2026-04-12T02:42:23.024Z",
+    "source": "profile:0000315189",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/22c3ed635324a56328076d6c52b0b1990afef8027a7d48a17db17bd2413669a3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.024Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "NOW",
+  "company": "ServiceNow, Inc.",
+  "title": "NOW Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 4169,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "NOW",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NOW",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NOW",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "NOW",
+      "predicate": "stated",
+      "object": "We believe the presentation of revenues   and corresponding growth rates adjusted for   constant currency by excluding effe   cts of foreign currency rate fluct",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "NOW",
+      "predicate": "stated",
+      "object": "We believe these adjustments provide useful supplemental information to inve   sto   rs and facilitates the analysis of our operating results and comparison  of",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "NOW",
+      "predicate": "stated",
+      "object": "We believe information regarding free cash flow and free cash flow  margin provides useful information to investors because it is an indicator of the strength a",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NOW",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NOW",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NOW",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NOW",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cloud"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NOW",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NOW",
+      "predicate": "discussed",
+      "object": "Autonomous Vehicles",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "autonomous"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NOW",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NOW",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NOW",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/NOW/transcripts",
+  "origin": {
+    "leaf": "eaa6144a7f9ec0a014247337b15d4b716a5546bf4b32b404e8c9a23db754b874",
+    "parent": "02d9f04492847e00356121dc8cda4f27a6466e621a356413136c7dd1c7bd4e213d39b97455bd61bd11c285e1139fa476",
+    "timestamp": "2026-04-12T02:43:08.779Z",
+    "source": "transcript:NOW_servicenow-q4-2025-investor-presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/eaa6144a7f9ec0a014247337b15d4b716a5546bf4b32b404e8c9a23db754b874",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.779Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

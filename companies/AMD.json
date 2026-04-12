@@ -1,0 +1,61 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "AMD",
+  "name": "ADVANCED MICRO DEVICES INC",
+  "cik": "0000002488",
+  "exchange": "Nasdaq",
+  "sic": "3674",
+  "sic_description": "Semiconductors & Related Devices",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1226",
+  "summary": "Advanced Micro Devices (AMD) designs high-performance and AI computing products including CPUs, GPUs, FPGAs, APUs, DPUs, AI NICs, and adaptive SoCs. AMD serves data center, client computing, gaming, and embedded markets. Key product lines include EPYC server processors, Instinct AI accelerators, Radeon GPUs, Ryzen AI client processors, and Xilinx-derived FPGA/adaptive SoC solutions. AMD also develops software stacks including the open ROCm AI platform and delivers full-stack rack-scale AI infrastructure solutions.",
+  "tags": [
+    "data-center",
+    "client-computing",
+    "gaming",
+    "embedded-systems",
+    "automotive",
+    "industrial",
+    "healthcare",
+    "storage-and-networking",
+    "cloud-and-ai-infrastructure",
+    "supercomputing",
+    "x86-architecture",
+    "cdna-architecture",
+    "chiplet-platform",
+    "amd-infinity-fabric",
+    "npu-(neural-processing-unit)",
+    "co-packaged-optics"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/AMD",
+  "origin": {
+    "leaf": "d2e5e44027da9e1e484ef234826302b4f808d8dda72c378b9776b8a910464f0e",
+    "parent": "bec0afffb0796baf38fc46f14125e04b26a7eb5139610c18b03326b4eb30f922",
+    "timestamp": "2026-04-12T02:42:22.963Z",
+    "source": "0000002488-26-000018",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d2e5e44027da9e1e484ef234826302b4f808d8dda72c378b9776b8a910464f0e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.963Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

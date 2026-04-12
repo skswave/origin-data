@@ -1,0 +1,90 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "INTU",
+  "name": "INTUIT INC.",
+  "cik": "0000896878",
+  "summary": "Intuit is a global financial technology platform serving approximately 100 million consumers, small and mid-market businesses, and accountants worldwide. Its key products include TurboTax (tax preparation), Credit Karma (personal finance), QuickBooks (business financial management), Mailchimp (marketing automation), and Intuit Enterprise Suite (mid-market business management). The company leverages AI and human intelligence to deliver financial, tax, payroll, payments, and marketing services across four segments: Global Business Solutions, Consumer, Credit Karma, and ProTax.",
+  "products": [
+    {
+      "name": "TurboTax",
+      "type": "software",
+      "description": "Do-it-yourself and assisted income tax preparation sold in the U.S. and Canada."
+    },
+    {
+      "name": "Credit Karma",
+      "type": "platform",
+      "description": "Personal finance platform offering credit monitoring, loan recommendations, savings/checking accounts, and credit building tools."
+    },
+    {
+      "name": "QuickBooks",
+      "type": "platform",
+      "description": "All-in-one business platform for financial management, payroll, payments, and bill pay for small and mid-market businesses."
+    },
+    {
+      "name": "Mailchimp",
+      "type": "platform",
+      "description": "Marketing automation and customer relationship management tools for businesses."
+    },
+    {
+      "name": "Intuit Enterprise Suite",
+      "type": "platform",
+      "description": "Configurable, AI-powered multi-entity financial management solution for more complex mid-market businesses."
+    },
+    {
+      "name": "Lacerte",
+      "type": "software",
+      "description": "Professional tax software for accountants in the U.S."
+    },
+    {
+      "name": "ProSeries",
+      "type": "software",
+      "description": "Professional tax software for accountants in the U.S."
+    },
+    {
+      "name": "ProConnect Tax Online",
+      "type": "software",
+      "description": "Online professional tax product for accountants in the U.S."
+    },
+    {
+      "name": "ProFile",
+      "type": "software",
+      "description": "Professional tax product for accountants in Canada."
+    },
+    {
+      "name": "ProTax Online",
+      "type": "software",
+      "description": "Online professional tax product for accountants in Canada."
+    },
+    {
+      "name": "GenOS",
+      "type": "platform",
+      "description": "Intuit's proprietary Generative AI Operating System built for internal developers to fuel AI innovation."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "FDIC-member bank partner",
+      "partnership_type": "strategic",
+      "description": "Provides checking and savings accounts to Credit Karma and QuickBooks customers through an FDIC-member bank partner.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/INTU/profile",
+  "origin": {
+    "leaf": "d0fa1345cff00b10680ad02ccad2506b9acd1416429e80599b34d5dac9fa12f5",
+    "parent": "8e679e5039cf2b56655325b166f0a0618134a3c1bea859e655f6c3984a7c3995",
+    "timestamp": "2026-04-12T02:42:23.011Z",
+    "source": "profile:0000896878",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d0fa1345cff00b10680ad02ccad2506b9acd1416429e80599b34d5dac9fa12f5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.011Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "GE",
+  "name": "GENERAL ELECTRIC CO",
+  "cik": "0000040545",
+  "exchange": "NYSE",
+  "sic": "3600",
+  "sic_description": "Electronic & Other Electrical Equipment (No Computer Equip)",
+  "state_of_incorporation": "NY",
+  "headquarters": "Evendale, Ohio",
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "General Electric Company is an industrial corporation headquartered in Evendale, Ohio. Based on the 10-K filing structure referencing business operations, properties, and financial disclosures, GE operates in industrial segments. The filing covers fiscal year ended December 31, 2025, and was signed by Chairman H. Lawrence Culp, Jr., with CFO Rahul Ghai and audited by Deloitte and Touche LLP.",
+  "tags": [],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/GE",
+  "origin": {
+    "leaf": "c18a8c6912f2bcb69db1f664e55f6c60613497a3b5abd6685317575294f06972",
+    "parent": "b681bdb6251f83f226554496e3d898b3796c703816432b6351702d80c71bd6ec",
+    "timestamp": "2026-04-12T02:42:22.956Z",
+    "source": "0000040545-26-000008",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c18a8c6912f2bcb69db1f664e55f6c60613497a3b5abd6685317575294f06972",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.956Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

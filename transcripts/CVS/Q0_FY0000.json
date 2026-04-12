@@ -1,0 +1,192 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CVS",
+  "company": "CVS HEALTH Corp",
+  "title": "CVS   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 1706,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CVS",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 18,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CVS",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CVS EPS",
+      "predicate": "reported",
+      "object": "$1.09",
+      "value": 1.09,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CVS EPS",
+      "predicate": "reported",
+      "object": "$2.30",
+      "value": 2.3,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CVS EPS",
+      "predicate": "reported",
+      "object": "$7.00",
+      "value": 7,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CVS EPS",
+      "predicate": "reported",
+      "object": "$5.94",
+      "value": 5.94,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CVS",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CVS",
+      "predicate": "guided",
+      "object": "guidance of at least $9.0 billion",
+      "value": 9,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CVS",
+      "predicate": "guided",
+      "object": "expectation  across 2025 and 2026 has increased  by over $1.5 billion",
+      "value": 1.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CVS",
+      "predicate": "guided",
+      "object": "guidance of   $3.58 billion",
+      "value": 3.58,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CVS",
+      "predicate": "guided",
+      "object": "guidance of   at least $7.25 billion",
+      "value": 7.25,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CVS",
+      "predicate": "guided",
+      "object": "guidance of   at least $6.09 billion",
+      "value": 6.09,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CVS",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CVS",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CVS",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CVS",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CVS/transcripts",
+  "origin": {
+    "leaf": "3b75559c0ed1c5a4b53ae389dd73b49181792c248eb6c34715aa95de23220986",
+    "parent": "7182b2fa997e64436be177a324317c66801528e123cc132be35894e3ebeca3c3406a37afdfb3b05cb17fe91cc4474461",
+    "timestamp": "2026-04-12T02:43:08.496Z",
+    "source": "transcript:CVS_4Q-2025-Earnings-Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3b75559c0ed1c5a4b53ae389dd73b49181792c248eb6c34715aa95de23220986",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.496Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

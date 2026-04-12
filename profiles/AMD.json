@@ -1,0 +1,122 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AMD",
+  "name": "ADVANCED MICRO DEVICES INC",
+  "cik": "0000002488",
+  "summary": "Advanced Micro Devices (AMD) designs high-performance and AI computing products including CPUs, GPUs, FPGAs, APUs, DPUs, AI NICs, and adaptive SoCs. AMD serves data center, client computing, gaming, and embedded markets. Key product lines include EPYC server processors, Instinct AI accelerators, Radeon GPUs, Ryzen AI client processors, and Xilinx-derived FPGA/adaptive SoC solutions. AMD also develops software stacks including the open ROCm AI platform and delivers full-stack rack-scale AI infrastructure solutions.",
+  "products": [
+    {
+      "name": "AMD EPYC Series",
+      "type": "hardware",
+      "description": "5th Gen x86 server CPUs for high-performance computing, enterprise IT, supercomputing, and AI data center workloads."
+    },
+    {
+      "name": "AMD Instinct MI200/MI300/MI325/MI350 Series",
+      "type": "hardware",
+      "description": "CDNA-architecture GPU accelerators for AI training, inference, and exascale scientific computing."
+    },
+    {
+      "name": "AMD Instinct MI355X",
+      "type": "hardware",
+      "description": "Next-generation GPU announced for large-scale AI deployments."
+    },
+    {
+      "name": "AMD Instinct MI450 Series",
+      "type": "hardware",
+      "description": "GPU products powering first gigawatt of capacity under the OpenAI product purchase agreement."
+    },
+    {
+      "name": "AMD Radeon PRO V Series",
+      "type": "hardware",
+      "description": "Visual cloud data center GPUs for remote visualization, Desktop-as-a-Service, and Cloud Gaming workloads."
+    },
+    {
+      "name": "Virtex, Kintex, Artix, Spartan FPGAs",
+      "type": "hardware",
+      "description": "FPGA product families for data center acceleration and adaptive computing."
+    },
+    {
+      "name": "Zynq and Versal Adaptive SoCs",
+      "type": "hardware",
+      "description": "Adaptive SoCs for data center and embedded applications with integrated processing capabilities."
+    },
+    {
+      "name": "Alveo Accelerator Cards",
+      "type": "hardware",
+      "description": "Data center acceleration cards providing a platform for accelerated computing workloads."
+    },
+    {
+      "name": "AMD Ryzen AI",
+      "type": "hardware",
+      "description": "Client CPUs/APUs with integrated NPU for AI PCs; first x86 SoC with dedicated NPU for AI workloads."
+    },
+    {
+      "name": "AMD ROCm Platform",
+      "type": "software",
+      "description": "Open AI software stack supporting frameworks, large and small language models, AI training and inference."
+    },
+    {
+      "name": "Helios AI Rack-Scale Platform",
+      "type": "platform",
+      "description": "Rack-scale solution integrating AMD CPUs, GPUs, and networking for AI supercomputer and ML workloads."
+    },
+    {
+      "name": "AMD Infinity Fabric Switch",
+      "type": "hardware",
+      "description": "Networking switch technology positioning AMD as a custom-design silicon provider for AI infrastructure."
+    },
+    {
+      "name": "Semi-custom SoCs",
+      "type": "hardware",
+      "description": "Custom System-on-Chip designs including game console SoCs and other customer-specific solutions."
+    },
+    {
+      "name": "AMD DPUs and AI NICs",
+      "type": "hardware",
+      "description": "Data processing units and AI Network Interface Cards for data center networking and AI workloads."
+    },
+    {
+      "name": "Embedded CPUs, APUs, FPGAs, SOMs",
+      "type": "hardware",
+      "description": "Embedded computing products for automotive, industrial, healthcare, storage, and networking markets."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "OpenAI",
+      "partnership_type": "strategic",
+      "description": "Multiyear product purchase agreement for 6 gigawatts of AMD GPU deployment, beginning with MI450 series.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Sanmina Corporation",
+      "partnership_type": "strategic",
+      "description": "AMD sold ZT Systems' data center infrastructure manufacturing business to Sanmina in October 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Hyperscale customers, OEMs and ODMs",
+      "partnership_type": "OEM",
+      "description": "Large hyperscale customers, OEMs, and ODMs deployed AMD Instinct MI350X Series GPUs for AI infrastructure.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AMD/profile",
+  "origin": {
+    "leaf": "2cc27946978c8099e82e2fd6f10f2b0b91844e0e1d1580f231f0f81f1b07cbc6",
+    "parent": "a91e6d39ed3f92935e2ff2700a3c44c3974d144ff2935be636ce10add25777e6",
+    "timestamp": "2026-04-12T02:42:23.002Z",
+    "source": "profile:0000002488",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2cc27946978c8099e82e2fd6f10f2b0b91844e0e1d1580f231f0f81f1b07cbc6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.002Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

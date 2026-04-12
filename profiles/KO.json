@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "KO",
+  "name": "COCA COLA CO",
+  "cik": "0000021344",
+  "summary": "The Coca-Cola Company (KO) is a global beverage company. Based on this Item 1 excerpt, the filing references ongoing operations and an IRS tax dispute, but specific product and service details are not included in the provided text. The company is widely known for carbonated soft drinks and other beverages, though these specifics are not explicitly stated in the extracted section.",
+  "live_api": "https://origin.rootz.global/api/company/KO/profile",
+  "origin": {
+    "leaf": "cda25d9e5506ba6ef688526d21e95b01f380f68ab8650a54a013c827a8034657",
+    "parent": "a457975c516bbada64cb8be10abef37c918a4f0b5521c5ad0e89f2fc2b2cb76c",
+    "timestamp": "2026-04-12T02:42:22.996Z",
+    "source": "profile:0000021344",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cda25d9e5506ba6ef688526d21e95b01f380f68ab8650a54a013c827a8034657",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.996Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

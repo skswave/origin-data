@@ -1,0 +1,468 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ZTS",
+  "company": "Zoetis Inc.",
+  "title": "ZTS   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 10599,
+  "speakers": [
+    {
+      "name": "Answer",
+      "title": "Kristin C",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 16
+    },
+    {
+      "name": "Michael",
+      "title": "Analyst  Erin Wilson Wright - Analyst  Chris Schott - Analyst  Brandon Vazquez - Analyst  David Westenberg - Analyst  Jonathan D. Block - Analyst  Glen Santangelo - Analyst  Andrea Alfonso - Analyst  Steven Dechert - Analyst  Daniel Clark - Analyst  Navann Ty - Analyst  Chris LoBianco - Analyst, Ryskin",
+      "firm": "Erin Wilson Wright - Analyst  Chris Schott - Analyst  Brandon Vazquez - Analyst  David Westenberg - Analyst  Jonathan D. Block - Analyst  Glen Santangelo - Analyst  Andrea Alfonso - Analyst  Steven Dechert - Analyst  Daniel Clark - Analyst  Navann Ty - Analyst  Chris LoBian",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Michael Ryskin  Question",
+      "title": "Michael Ryskin:   Great",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Erin Wilson Wright  Question",
+      "title": "Erin Wilson Wright:   Hi",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Thanks.  Answer",
+      "title": "Wetteny Joseph:   Sure, Erin",
+      "firm": "Erin",
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Chris Schott  Question",
+      "title": "Chris Schott:   Sorry",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Brandon Vazquez  Question",
+      "title": "Brandon Vazquez:   Hi, everyone",
+      "firm": "everyone",
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "David Westenberg  Question",
+      "title": "David Westenberg:   Hi",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Jonathan D. Block  Question",
+      "title": "Jonathan D",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Glen Santangelo  Question",
+      "title": "Glen Santangelo:   Yeah",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Andrea Alfonso  Question",
+      "title": "Andrea Alfonso:   Thanks",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Steven Dechert  Question",
+      "title": "Steven Dechert:   Hey, guys",
+      "firm": "guys",
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Daniel Clark  Question",
+      "title": "Daniel Clark:   Great",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Navann Ty  Question",
+      "title": "Navann Ty:   Hi",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Chris LoBianco  Question",
+      "title": "Chris LoBianco:   Hey, thank you for   fi tting us on",
+      "firm": "thank you for   fi tting us on",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZTS",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZTS",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ZTS total revenue",
+      "predicate": "reported",
+      "object": "$9.5 billion",
+      "value": 9.5,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ZTS total revenue",
+      "predicate": "reported",
+      "object": "$608 million",
+      "value": 608,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ZTS total revenue",
+      "predicate": "reported",
+      "object": "$9.825 billion",
+      "value": 9.825,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ZTS gross margin",
+      "predicate": "reported",
+      "object": "$71.9 percent",
+      "value": 71.9,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ZTS",
+      "predicate": "guided",
+      "object": "expected revenue of $9.825 billion",
+      "value": 9.825,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ZTS",
+      "predicate": "guided",
+      "object": "expected to be between $2.43 billion",
+      "value": 2.43,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ZTS",
+      "predicate": "guided",
+      "object": "expected to be between $715 million",
+      "value": 715,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ZTS",
+      "predicate": "guided",
+      "object": "expected to be approximately $200 million",
+      "value": 200,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ZTS",
+      "predicate": "guided",
+      "object": "expected to be in the range of $2.975 billion",
+      "value": 2.975,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "we believe will gradually improve as we move through 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "We expect this momentum to continue alongside the anticipated launch of our next-generation chemistry innovation in 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "we expect continued momentum",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "we expect to moderate as the year progresses",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "we expect they will continue to drive growth as we maintain a leading position in canine dermatology",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "We expect companion animal business to remain a key growth driver in 2026, supported by a di ff erentiated portfolio even as competition in parasiticides and c",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "We expect continued   fi eld force focus and disciplined execution to fuel mid-single digit organic operational growth in 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "we expect adjusted diluted EPS to be in the range of $7 to $7",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "we expected certain launches to take place, and there are certain launch-related promotions that we have seen in this space, and we expected those to occur",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "we believe is certainly prudent in terms of how we've positioned it",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "we expect competition to launch and the level of aggressive promotions that they will do within that window",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "we expect those to transpire over the coming year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "we expect the Simparica franchise to lead the way into this 3% to 5% growth that we have provided here",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "we anticipated, competitors launch products",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "we expect that to be the case as well within that 3% to 5%?  Answer   –   Wetteny Joseph:   Sure",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZTS",
+      "predicate": "stated",
+      "object": "We believe the guidance we're giving today, taking into consideration certain elements including competitive launches, which we fully expect to be very aggressi",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZTS",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZTS",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZTS",
+      "predicate": "discussed",
+      "object": "Quantum Computing",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "quantum"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZTS",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZTS",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZTS",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 1,
+  "live_api": "https://origin.rootz.global/api/company/ZTS/transcripts",
+  "origin": {
+    "leaf": "2d484f101ebad96a8b485554df1c90512dad76d89fa1d6cbddb31e675860c6da",
+    "parent": "aabd9db07856df63f8c05660e6dd8ce4a3fa6ba3d5905946b55bb13a6f7003da2c22baf53a03eb7fdefcf15bf6b1d2b1",
+    "timestamp": "2026-04-12T02:43:08.924Z",
+    "source": "transcript:ZTS_ZTS-Q4FY25-Earnings-Transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2d484f101ebad96a8b485554df1c90512dad76d89fa1d6cbddb31e675860c6da",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.924Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "SBUX",
+  "name": "STARBUCKS CORP",
+  "cik": "0000829224",
+  "exchange": "Nasdaq",
+  "sic": "5810",
+  "sic_description": "Retail-Eating & Drinking Places",
+  "state_of_incorporation": "WA",
+  "headquarters": null,
+  "founded": "1985",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "0928",
+  "summary": "Starbucks Corporation is the premier roaster, marketer, and retailer of specialty coffee, operating in 89 markets. The company sells handcrafted coffee, tea, and other beverages, high-quality food items, and licensed products through company-operated stores, licensed stores, and grocery and foodservice channels. Brands include Starbucks Coffee, Teavana, Ethos, and Starbucks Reserve. It also licenses trademarks through its Global Coffee Alliance with Nestlé.",
+  "tags": [
+    "specialty-coffee-retail",
+    "licensed-store-operations",
+    "grocery-and-foodservice",
+    "international-markets",
+    "north-america"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/SBUX",
+  "origin": {
+    "leaf": "8cf93d50989d9825c71a4d9a9f50162fb40f68198743b18df844597f608e4328",
+    "parent": "6793e64305d31444d0a3ece8c0ec08a02ca97a6c56230f7cd18336f2054961e9",
+    "timestamp": "2026-04-12T02:42:22.967Z",
+    "source": "0000829224-25-000114",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8cf93d50989d9825c71a4d9a9f50162fb40f68198743b18df844597f608e4328",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.967Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

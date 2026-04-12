@@ -1,0 +1,54 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "MRK",
+  "name": "Merck & Co., Inc.",
+  "cik": "0000310158",
+  "exchange": "NYSE",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "NJ",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Merck & Co., Inc. is a global health care company delivering innovative health solutions through prescription medicines, biologic therapies, vaccines, and animal health products. Key products include Keytruda (pembrolizumab) for oncology, Gardasil 9 for HPV prevention, Winrevair for pulmonary arterial hypertension, Januvia for type 2 diabetes, and a broad animal health portfolio covering livestock and companion animals.",
+  "tags": [
+    "oncology",
+    "vaccines",
+    "hospital-acute-care",
+    "cardiometabolic-and-respiratory",
+    "virology-/-hiv",
+    "neuroscience",
+    "diabetes",
+    "animal-health---livestock",
+    "animal-health---companion-animal"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/MRK",
+  "origin": {
+    "leaf": "b77999c39d990e82830603e0a8abb1829bf683bbc0566fe275b7ba96fd6e2e52",
+    "parent": "48d53908419b2b19c42a76995a423118b36f06b404f6f0cb88993b9b58235a96",
+    "timestamp": "2026-04-12T02:42:22.959Z",
+    "source": "0000310158-26-000063",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b77999c39d990e82830603e0a8abb1829bf683bbc0566fe275b7ba96fd6e2e52",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.959Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

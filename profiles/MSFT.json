@@ -1,0 +1,137 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MSFT",
+  "name": "MICROSOFT CORP",
+  "cik": "0000789019",
+  "summary": "Microsoft is a technology company founded in 1975 that develops and supports software, services, devices, and solutions. Key offerings include Microsoft 365, Windows, Azure cloud platform, LinkedIn, Dynamics 365, Xbox gaming, and AI-powered tools like Microsoft 365 Copilot. The company operates across three segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing, serving individuals, businesses, and governments globally.",
+  "products": [
+    {
+      "name": "Microsoft 365 Commercial",
+      "type": "platform",
+      "description": "AI-powered business productivity platform combining Office, Windows, Copilot, and Enterprise Mobility + Security for organizations."
+    },
+    {
+      "name": "Microsoft 365 Consumer",
+      "type": "software",
+      "description": "Personal productivity and creativity suite including Office apps, Outlook.com, and OneDrive storage services."
+    },
+    {
+      "name": "Microsoft Azure",
+      "type": "platform",
+      "description": "Cloud computing platform offering infrastructure, developer tools, data, AI, and hybrid cloud services."
+    },
+    {
+      "name": "LinkedIn",
+      "type": "platform",
+      "description": "Professional networking platform offering Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions."
+    },
+    {
+      "name": "Dynamics 365",
+      "type": "software",
+      "description": "Cloud-based intelligent business applications spanning ERP, CRM, Power Apps, and Power Automate."
+    },
+    {
+      "name": "Microsoft 365 Copilot",
+      "type": "service",
+      "description": "AI-powered productivity assistant integrated across Microsoft 365 applications for individuals and enterprises."
+    },
+    {
+      "name": "Windows",
+      "type": "software",
+      "description": "Operating system for PCs and devices, available in commercial and consumer editions, on-premises and cloud."
+    },
+    {
+      "name": "Xbox",
+      "type": "hardware",
+      "description": "Gaming and entertainment console platform including Xbox hardware, Game Pass subscription, and game content."
+    },
+    {
+      "name": "GitHub",
+      "type": "platform",
+      "description": "Developer collaboration and code hosting platform with AI-powered tools including GitHub Copilot."
+    },
+    {
+      "name": "Microsoft Security",
+      "type": "service",
+      "description": "Integrated end-to-end security, compliance, identity, and management solutions across clouds and platforms."
+    },
+    {
+      "name": "Microsoft Edge",
+      "type": "software",
+      "description": "Web browser integrated with Bing search and AI-powered features."
+    },
+    {
+      "name": "Bing",
+      "type": "service",
+      "description": "Search engine providing online search and advertising services with AI-powered features."
+    },
+    {
+      "name": "Surface",
+      "type": "hardware",
+      "description": "Microsoft-designed PCs and tablets for consumers and businesses."
+    },
+    {
+      "name": "HoloLens",
+      "type": "hardware",
+      "description": "Mixed reality headset device for enterprise and development use cases."
+    },
+    {
+      "name": "Power BI",
+      "type": "software",
+      "description": "Cloud-based business analytics and data visualization tool."
+    },
+    {
+      "name": "Azure OpenAI Service",
+      "type": "service",
+      "description": "Cloud service providing access to OpenAI large language models integrated within Microsoft Azure."
+    },
+    {
+      "name": "Microsoft Teams",
+      "type": "platform",
+      "description": "Collaboration and communication platform for chat, meetings, and file sharing across organizations."
+    },
+    {
+      "name": "OneDrive",
+      "type": "service",
+      "description": "Cloud storage service integrated with Microsoft 365 for individuals and businesses."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "OpenAI",
+      "partnership_type": "strategic",
+      "description": "Microsoft integrates OpenAI models into Azure OpenAI Service and across its product portfolio including Copilot.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Meta",
+      "partnership_type": "strategic",
+      "description": "Partnership supporting integration of Meta's Llama models within Microsoft's AI platform offerings.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Original equipment manufacturers (OEMs)",
+      "partnership_type": "OEM",
+      "description": "OEM partners pre-install Windows and other Microsoft software on PCs and devices sold to consumers and businesses.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MSFT/profile",
+  "origin": {
+    "leaf": "75057aa19c1e3d1a2d63f6c2f599aca4d1c73f39b0185625581e109f7a372b2b",
+    "parent": "c56dca6a4aec509c851cb287cf5e06475692401bc8c19d91a93f68c8d6573296",
+    "timestamp": "2026-04-12T02:42:22.980Z",
+    "source": "profile:0000789019",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/75057aa19c1e3d1a2d63f6c2f599aca4d1c73f39b0185625581e109f7a372b2b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.980Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,638 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "NVDA",
+  "company": "NVIDIA CORP",
+  "title": "NVDA Q4 FY2026 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2026",
+  "call_date": null,
+  "word_count": 11048,
+  "speakers": [
+    {
+      "name": "Jen Hsun Huang",
+      "title": "Co - Founder, President, Chief Executive   Officer & Director, NVIDIA Corp.",
+      "firm": "President",
+      "speaker_type": "executive",
+      "mention_count": 12
+    },
+    {
+      "name": "Toshiya",
+      "title": "Founder, President, Chief Executive   Officer & Director, NVIDIA Corp., Hari  Vice President, Investor Relations & Strategic Finance, NVIDIA Corp.  Colette M. Kress  Chief Financial Officer & Executive Vice President, NVIDIA Corp.  Jen Hsun Huang  Co",
+      "firm": "President",
+      "speaker_type": "executive",
+      "mention_count": 7
+    },
+    {
+      "name": "Toshiya Hari",
+      "title": "Vice President, Investor Relations & Strategic Finance, NVIDIA Corp.",
+      "firm": "Investor Relations & Strategic Finance",
+      "speaker_type": "executive",
+      "mention_count": 5
+    },
+    {
+      "name": "Colette M. Kress",
+      "title": "Chief Financial Officer & Executive Vice President, NVIDIA Corp.",
+      "firm": "NVIDIA",
+      "speaker_type": "executive",
+      "mention_count": 5
+    },
+    {
+      "name": "Vivek Arya",
+      "title": "Analyst, BofA Securities, Inc.",
+      "firm": "BofA Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Joe Moore",
+      "title": "Analyst, Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Harlan Sur",
+      "title": "Analyst, JPMorgan Securities LLC",
+      "firm": "JPMorgan Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "C.J. Muse",
+      "title": "Analyst, Cantor Fitzge rald & Co.",
+      "firm": "Cantor Fitzge rald &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Ben Reitzes",
+      "title": "Analyst, Melius Research LLC",
+      "firm": "Melius Research",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Aaron Rakers",
+      "title": "Analyst, Wells Fargo Securities LLC",
+      "firm": "Wells Fargo Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Antoine Chkaiban",
+      "title": "Analyst, New Street Research LLP",
+      "firm": "New Street Research",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    },
+    {
+      "name": "Mark Lipacis",
+      "title": "Analyst, Evercore Group LLC",
+      "firm": "Evercore Group",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    },
+    {
+      "name": "Timothy Arcuri",
+      "title": "Analyst, UBS Securities LLC",
+      "firm": "UBS Securities",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    },
+    {
+      "name": "James Edward Schneider",
+      "title": "Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    },
+    {
+      "name": "Stacy A. Rasgon",
+      "title": "Analyst, Bernstein Research  Atif Malik  Analyst, Citigroup Global Markets, Inc.",
+      "firm": "Bernstein Research  Atif Malik  Analyst",
+      "speaker_type": "analyst",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 81,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 43,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 37,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "GPU & Accelerators",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "gpu"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 66,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Robotics",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "robotics"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 28,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 59,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA total revenue",
+      "predicate": "reported",
+      "object": "$68 billion",
+      "value": 68,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA total revenue",
+      "predicate": "reported",
+      "object": "$194 billion",
+      "value": 194,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA total revenue",
+      "predicate": "reported",
+      "object": "$62 billion",
+      "value": 62,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA total revenue",
+      "predicate": "reported",
+      "object": "$3.7 billion",
+      "value": 3.7,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA total revenue",
+      "predicate": "reported",
+      "object": "$604 million",
+      "value": 604,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA data center revenue",
+      "predicate": "reported",
+      "object": "$62 billion",
+      "value": 62,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "data_center_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA gaming revenue",
+      "predicate": "reported",
+      "object": "$3.7 billion",
+      "value": 3.7,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "gaming_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA automotive revenue",
+      "predicate": "reported",
+      "object": "$604 million",
+      "value": 604,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "automotive_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA gross margin",
+      "predicate": "reported",
+      "object": "$75 percent",
+      "value": 75,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA gross margin",
+      "predicate": "reported",
+      "object": "$75.2 percent",
+      "value": 75.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA free cash flow",
+      "predicate": "reported",
+      "object": "$35 billion",
+      "value": 35,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Blackwell",
+      "value": 18,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Rubin",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Hopper",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Ampere",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Grace",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Vera Rubin",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "GB300",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "NVL72",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "GB200",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "H200",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "A100",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "CUDA",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Omniverse",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "TensorRT",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "ConnectX",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "BlueField",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "DPU",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "NVDA",
+      "predicate": "guided",
+      "object": "expect sequential revenue growth throughout calendar 2026, exceeding what was included in the $500 billion",
+      "value": 500,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "NVDA",
+      "predicate": "guided",
+      "object": "expectations for 2026 CapEx across the top five cloud providers and hyperscalers who collectively  account for little over 50% of our data center revenue, are up nearly $120 billion",
+      "value": 120,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "NVDA",
+      "predicate": "guided",
+      "object": "expected to be  $78 billion",
+      "value": 78,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "NVDA",
+      "predicate": "guided",
+      "object": "expected to be approximately $7.7 billion",
+      "value": 7.7,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "NVDA",
+      "predicate": "stated",
+      "object": "We believe we have inventory and   supply  commitments in place to address future demand, including shipments, extending into calendar 2027",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "NVDA",
+      "predicate": "stated",
+      "object": "We expect every cloud model builder to deploy  Ve ra Rubin",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "NVDA",
+      "predicate": "stated",
+      "object": "we expect tightness in   the supply for  our advanced architectures to persist, we remain confident in our ability to capitalize on the growth opportunity  ahe",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/NVDA/transcripts",
+  "origin": {
+    "leaf": "f79a45c4123988e1e44471bfaf6bb1aa68a9192f177b2d0a536f93c5c24ff6a6",
+    "parent": "d2991a3e4a0dc655b7252c86647397c9a97ff5e92c2ae1b57e83ec8b6e11c4cf341f0cbd232f8a72591638ef3228c0f5",
+    "timestamp": "2026-04-12T02:43:08.784Z",
+    "source": "transcript:NVDA_NVDA-Q4-2026-Earnings-Call-25-February-2026-5_00-PM-ET.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f79a45c4123988e1e44471bfaf6bb1aa68a9192f177b2d0a536f93c5c24ff6a6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.784Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

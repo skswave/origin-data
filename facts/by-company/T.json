@@ -1,0 +1,148 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "T",
+  "total_facts": 10,
+  "by_type": {
+    "topic_mention": 10
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "T",
+      "predicate": "discussed_in_filing",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "networking",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "T",
+      "predicate": "discussed_in_filing",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "networking",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "T",
+      "predicate": "discussed_in_filing",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.74,
+      "topic": "networking",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "T",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "T",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "T",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "T",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "T",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "T",
+      "predicate": "discussed_in_filing",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "T",
+      "predicate": "discussed_in_filing",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.72,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/T/transcripts",
+  "origin": {
+    "leaf": "251ab1d74d00d8494b181759943cc6ba3c0327888470eac88a71b8740441f09f",
+    "parent": "530e27ff5611299ca137b53af77d9fe9e3ceda3ea26b4a55f0a338ffc66ea45a",
+    "timestamp": "2026-04-12T02:43:09.714Z",
+    "source": "facts:T",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/251ab1d74d00d8494b181759943cc6ba3c0327888470eac88a71b8740441f09f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:09.714Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

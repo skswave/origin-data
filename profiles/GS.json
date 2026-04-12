@@ -1,0 +1,85 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GS",
+  "name": "GOLDMAN SACHS GROUP INC",
+  "cik": "0000886982",
+  "summary": "Goldman Sachs is a leading global financial institution providing investment banking, securities intermediation, asset management, and wealth management services to corporations, financial institutions, governments, and individuals. The firm operates through three segments: Global Banking & Markets (advisory, underwriting, FICC, equities), Asset & Wealth Management (management fees, private banking, investments), and Platform Solutions (credit cards, deposits). Its platform Marquee provides institutional investors with market intelligence and trade execution.",
+  "products": [
+    {
+      "name": "Marquee",
+      "type": "platform",
+      "description": "Digital platform providing institutional investors with market intelligence, risk analytics, proprietary datasets and trade execution across multiple asset classes."
+    },
+    {
+      "name": "Advisory Services",
+      "type": "service",
+      "description": "Strategic advisory for mergers and acquisitions, divestitures, corporate defense, restructurings and spin-offs."
+    },
+    {
+      "name": "Equity Underwriting",
+      "type": "service",
+      "description": "Underwriting of common stock, preferred stock, convertible and exchangeable securities including IPOs."
+    },
+    {
+      "name": "Debt Underwriting",
+      "type": "service",
+      "description": "Origination and underwriting of investment-grade, high-yield debt, bank loans, structured and emerging-market securities."
+    },
+    {
+      "name": "FICC Intermediation",
+      "type": "service",
+      "description": "Market-making in interest rate products, credit products, mortgages, currencies and commodities in cash and derivative instruments."
+    },
+    {
+      "name": "Equities Intermediation",
+      "type": "service",
+      "description": "Market-making and financing in equity products including cash equities, equity derivatives and prime brokerage."
+    },
+    {
+      "name": "Transaction Banking",
+      "type": "service",
+      "description": "Banking services for institutional clients including cash management and related transaction services."
+    },
+    {
+      "name": "Apple Card",
+      "type": "service",
+      "description": "Consumer credit card issued to Apple Card customers, reported under Platform Solutions segment."
+    },
+    {
+      "name": "Global Investment Research",
+      "type": "service",
+      "description": "Fundamental research covering approximately 3,000 companies worldwide and approximately 50 national economies, industries, currencies and commodities."
+    },
+    {
+      "name": "Asset & Wealth Management",
+      "type": "service",
+      "description": "Management fees, incentive fees, private banking, lending and investment services for institutional and individual clients."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Apple",
+      "partnership_type": "strategic",
+      "description": "Goldman Sachs issues Apple Card credit cards to Apple Card customers and raises deposits in connection with this program.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/GS/profile",
+  "origin": {
+    "leaf": "d321cb214db16d386bf397c6024f996007df051d9ed4a342079b6a392e48187a",
+    "parent": "4b76e4a37fa02bfe53c814efd7e3d5040e27c48dc4c1e935e4dfc2dead8e04f0",
+    "timestamp": "2026-04-12T02:42:22.997Z",
+    "source": "profile:0000886982",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d321cb214db16d386bf397c6024f996007df051d9ed4a342079b6a392e48187a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.997Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

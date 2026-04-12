@@ -1,0 +1,192 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "JPM",
+  "company": "JPMORGAN CHASE & CO",
+  "title": "JPM   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 12363,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 21,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "JPM total revenue",
+      "predicate": "reported",
+      "object": "$43.3 billion",
+      "value": 43.3,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "JPM total revenue",
+      "predicate": "reported",
+      "object": "$17 billion",
+      "value": 17,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "JPM total revenue",
+      "predicate": "reported",
+      "object": "$5.4 billion",
+      "value": 5.4,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "JPM gross margin",
+      "predicate": "reported",
+      "object": "$33 percent",
+      "value": 33,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "JPM EPS",
+      "predicate": "reported",
+      "object": "$4.37",
+      "value": 4.37,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "JPM",
+      "predicate": "guided",
+      "object": "outlook for adjusted expense is now about $91.5 billion",
+      "value": 91.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "JPM",
+      "predicate": "stated",
+      "object": "we expect overall growth to remain  muted in the near term as originations are offset by payoff activity",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "JPM",
+      "predicate": "stated",
+      "object": "we expect  results will be somewhat challenged as normalization continues, but we remain upbeat and focused on executing in order   to continue  delivering exc",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "JPM",
+      "predicate": "stated",
+      "object": "we expect CD balances to price   down with pretty  high betas and probably the CD mix actually peaking around now",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "JPM",
+      "predicate": "stated",
+      "object": "we believe  there's big opportunity to grow the rest of it and be on t rack at the type of average annual share growth of the order of 30 basis points or 40\n\n18",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "JPM",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/JPM/transcripts",
+  "origin": {
+    "leaf": "54208d069d04065b42a123ba6982117c504cc68cadd80b59aaef0ec329060bbf",
+    "parent": "d2c90b58eacdac8c7118a3a2fd7114a13b7f35a2eb7d04eed0a464c3564ba437ee0ea010d2647d33f225695647d26f2b",
+    "timestamp": "2026-04-12T02:43:08.723Z",
+    "source": "transcript:JPM_jpmc-third-quarter-2024-earnings-conference-call-transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/54208d069d04065b42a123ba6982117c504cc68cadd80b59aaef0ec329060bbf",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.723Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

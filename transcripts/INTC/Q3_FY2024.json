@@ -1,0 +1,152 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "INTC",
+  "company": "INTEL CORP",
+  "title": "INTC Q3 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 2359,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "INTC gross margin",
+      "predicate": "reported",
+      "object": "$15 percent",
+      "value": 15,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "INTC",
+      "predicate": "guided",
+      "object": "outlook  2   $3.0 billion",
+      "value": 3,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Autonomous Vehicles",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "autonomous"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "INTC",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "INTC",
+      "predicate": "mentioned",
+      "object": "Intel",
+      "value": 14,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/INTC/transcripts",
+  "origin": {
+    "leaf": "10039953e4dbd596db064fb9e2ad683e5c89a5b87b42a5c5b220e2d6a03673f6",
+    "parent": "414f5b8b09055bccbcede592041f5b58a74a062129f256b041f95b120adce844703dda6a39f9394f2cfdd72067721769",
+    "timestamp": "2026-04-12T02:43:08.565Z",
+    "source": "transcript:INTC_Q3+2024+Earnings+Deck+INTC.com.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/10039953e4dbd596db064fb9e2ad683e5c89a5b87b42a5c5b220e2d6a03673f6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.565Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

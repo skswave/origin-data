@@ -1,0 +1,47 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MU",
+  "name": "MICRON TECHNOLOGY INC",
+  "cik": "0000723125",
+  "summary": "Micron Technology, Inc. is a global semiconductor company that designs and manufactures memory and storage products. Its portfolio includes DRAM (including High-Bandwidth Memory), NAND-based solid state drives, and other memory solutions sold under the Micron and Crucial brands. Micron serves original equipment manufacturers and other customers across computing, AI, data center, mobile, and consumer markets. The company operates manufacturing facilities globally and invests heavily in R&D, including EUV lithography.",
+  "products": [
+    {
+      "name": "DRAM",
+      "type": "hardware",
+      "description": "Double data rate dynamic random-access memory including DDR variants for computing and enterprise applications."
+    },
+    {
+      "name": "High-Bandwidth Memory (HBM)",
+      "type": "hardware",
+      "description": "High-bandwidth memory products targeted at AI and high-performance computing workloads."
+    },
+    {
+      "name": "Solid State Drives (SSD)",
+      "type": "hardware",
+      "description": "NAND-based solid state drives for consumer and enterprise storage applications."
+    },
+    {
+      "name": "Crucial",
+      "type": "hardware",
+      "description": "Consumer-facing memory and storage brand offering DRAM modules and SSDs."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/MU/profile",
+  "origin": {
+    "leaf": "695cd0afd171288454b209f151ce6021464663ee2858c657bf6c1feb9eb0cb06",
+    "parent": "1fbf93bf127642154d17f957b5d9a0ef6ad58eeee4a63fbaa56d0481e774f104",
+    "timestamp": "2026-04-12T02:42:23.006Z",
+    "source": "profile:0000723125",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/695cd0afd171288454b209f151ce6021464663ee2858c657bf6c1feb9eb0cb06",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.006Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AAPL",
+  "company": "Apple Inc.",
+  "title": "AAPL   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 309,
+  "speakers": [],
+  "facts": [],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AAPL/transcripts",
+  "origin": {
+    "leaf": "963a838f31605f8119b381d116721b92e6980df658c3acc598c554bc21b077e2",
+    "parent": "5b8acf41d5148e55bad7ef0530497ee46e619611d8760ae9dbff608555294c047af138a524e7b4bc6d60c03faf3448d9",
+    "timestamp": "2026-04-12T02:43:08.421Z",
+    "source": "transcript:AAPL_Q1-26-Return-of-Capital-Timeline.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/963a838f31605f8119b381d116721b92e6980df658c3acc598c554bc21b077e2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.421Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

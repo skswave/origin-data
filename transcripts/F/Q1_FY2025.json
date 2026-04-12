@@ -1,0 +1,192 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "F",
+  "company": "FORD MOTOR CO",
+  "title": "F Q1 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 9315,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 18,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 62,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 54,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expectations of how certain details will resolve around tariffs, we've estimated the gross impact of  tariffs for full - year total company EBIT of $2.5 billion",
+      "value": 2.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "guidance range of 7 billion to $8.5 billion",
+      "value": 8.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expected performance  to the tune of about $1 billion",
+      "value": 1,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe  our footprint advantage offers us added flexibility to the changing market dynamic",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expected and the advanced electric  architectures allow us to deliver software to the vehicles and customers in a more efficient way",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Robotics",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "robotics"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Autonomous Vehicles",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "autonomous"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai_compute"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/F/transcripts",
+  "origin": {
+    "leaf": "b3c9c0c9cd7cbea44b8ed5e6645123b11d99be7594026c7fb0a46ba147163e5a",
+    "parent": "07272d7f697fc12468452483b28f9900f184ef355103352784abca8948d99d20007d8e39c9d287ea1ded1a31712ee750",
+    "timestamp": "2026-04-12T02:43:08.545Z",
+    "source": "transcript:F_Ford-Q1-2025-Earnings-Call-Transcript-5-5-25.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b3c9c0c9cd7cbea44b8ed5e6645123b11d99be7594026c7fb0a46ba147163e5a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.545Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

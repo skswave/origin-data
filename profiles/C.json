@@ -1,0 +1,70 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "C",
+  "name": "CITIGROUP INC",
+  "cik": "0000831001",
+  "summary": "Citigroup Inc. is a global financial services company providing a wide range of banking and financial products and services. Its businesses include Services (Treasury and Trade Solutions, Securities Services), Markets (fixed income, equities, derivatives), Banking (investment banking, corporate lending), Wealth management, and US Personal Banking (credit cards, retail banking). Citi operates across North America and internationally, serving consumers, corporations, governments, and institutions.",
+  "products": [
+    {
+      "name": "Treasury and Trade Solutions",
+      "type": "service",
+      "description": "Cash management and trade finance services for corporate and institutional clients."
+    },
+    {
+      "name": "Securities Services",
+      "type": "service",
+      "description": "Custody, clearing, and fund administration services for institutional clients."
+    },
+    {
+      "name": "Markets",
+      "type": "service",
+      "description": "Fixed income, equities, foreign exchange, and derivatives trading and market-making."
+    },
+    {
+      "name": "Investment Banking",
+      "type": "service",
+      "description": "Advisory, underwriting, and capital markets services for corporate clients."
+    },
+    {
+      "name": "Wealth Management",
+      "type": "service",
+      "description": "Financial planning, investment, and banking services for high-net-worth individuals."
+    },
+    {
+      "name": "US Personal Banking",
+      "type": "service",
+      "description": "Credit cards, retail banking, and consumer lending products for US individuals."
+    },
+    {
+      "name": "Capital Accumulation Program Awards",
+      "type": "service",
+      "description": "Deferred compensation awards for highly compensated employees as part of annual incentives."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Visa",
+      "partnership_type": "strategic",
+      "description": "Equity contract arrangement referenced in connection with trading or financial instrument activities.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/C/profile",
+  "origin": {
+    "leaf": "6c45b525610e96dbfd49691addba4d3c569cff4409d067c899e3e716226bf70c",
+    "parent": "2654e438cdd65adc59114641331935afa9388945982bc81179edda619161b905",
+    "timestamp": "2026-04-12T02:42:22.998Z",
+    "source": "profile:0000831001",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6c45b525610e96dbfd49691addba4d3c569cff4409d067c899e3e716226bf70c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.998Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

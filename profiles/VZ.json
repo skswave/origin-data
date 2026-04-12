@@ -1,0 +1,128 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "VZ",
+  "name": "VERIZON COMMUNICATIONS INC",
+  "cik": "0000732712",
+  "summary": "Verizon Communications Inc. is a holding company and one of the world's leading providers of communications, technology, information, and streaming products and services. Operating through two segments—Verizon Consumer Group and Verizon Business Group—it offers wireless services, fiber-optic and copper-based wireline broadband, FWA broadband via 5G/4G LTE, IoT connectivity, managed network services, security services, and video services to consumers, businesses, government entities, and carriers across the U.S. and in more than 180 countries.",
+  "products": [
+    {
+      "name": "Postpaid Wireless Service",
+      "type": "service",
+      "description": "Monthly wireless access plans for Consumer and Business customers billed one month in advance."
+    },
+    {
+      "name": "Prepaid Wireless Service",
+      "type": "service",
+      "description": "Wireless service for Consumer customers without credit verification, paid in advance."
+    },
+    {
+      "name": "Fixed Wireless Access (FWA) Broadband",
+      "type": "service",
+      "description": "Fixed broadband internet access via 5G or 4G LTE networks for home and business customers."
+    },
+    {
+      "name": "Fios Internet",
+      "type": "service",
+      "description": "Residential and business fiber-optic broadband internet service offered over 100% fiber-optic network."
+    },
+    {
+      "name": "Fios Video",
+      "type": "service",
+      "description": "Residential video service including content, streaming options, VOD, and DVR capabilities."
+    },
+    {
+      "name": "Wireline Voice Services",
+      "type": "service",
+      "description": "Local and long distance voice services for residential, business, and wholesale customers."
+    },
+    {
+      "name": "IoT Connectivity Solutions",
+      "type": "platform",
+      "description": "Internet of Things connectivity services for Business segment customers."
+    },
+    {
+      "name": "Managed Network Services",
+      "type": "service",
+      "description": "Security and managed network services offered to enterprise and public sector customers."
+    },
+    {
+      "name": "Corporate Networking Solutions",
+      "type": "service",
+      "description": "Advanced communication and corporate networking products for Business customers."
+    },
+    {
+      "name": "Device Protection",
+      "type": "service",
+      "description": "Non-connectivity consumer service offering device protection for wireless customers."
+    },
+    {
+      "name": "Cloud Storage",
+      "type": "service",
+      "description": "Non-connectivity consumer service offering cloud storage solutions."
+    },
+    {
+      "name": "Smartphones and Handsets",
+      "type": "hardware",
+      "description": "Various smartphones and other handsets sold to Consumer and Business customers."
+    },
+    {
+      "name": "Wireless-Enabled Internet Devices",
+      "type": "hardware",
+      "description": "Tablets and other wireless-enabled connected devices including smart watches sold to customers."
+    },
+    {
+      "name": "vRAN Infrastructure",
+      "type": "platform",
+      "description": "Industry-leading virtualized radio access network infrastructure leveraging Open RAN solutions."
+    },
+    {
+      "name": "Private Networks",
+      "type": "service",
+      "description": "Private network solutions offered as part of advanced network services portfolio."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Satellite providers",
+      "partnership_type": "strategic",
+      "description": "Partnerships to enhance off-grid emergency and text messaging services via satellite coverage extension.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Mobile Virtual Network Operators (MVNOs)",
+      "partnership_type": "strategic",
+      "description": "Wholesale network access agreements allowing MVNOs to resell wireless service under their own brands.",
+      "start_date": null
+    },
+    {
+      "partner_name": "National retailers",
+      "partnership_type": "strategic",
+      "description": "Relationships with high-profile national retailers to sell Verizon wireless and wireline products and services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "System integrators and resellers",
+      "partnership_type": "strategic",
+      "description": "Business segment distribution partnerships for integrated mobility services and business solution fulfillment.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/VZ/profile",
+  "origin": {
+    "leaf": "f5c11cde6a053f5538511f186b18e8b3e8b9affd511ac1ca481da3fe82fcfb3f",
+    "parent": "5781abcd687ccdcd55ede7c999dd095de6f1cf53e2a0f2dbec7d40af482cc3a3",
+    "timestamp": "2026-04-12T02:42:22.986Z",
+    "source": "profile:0000732712",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f5c11cde6a053f5538511f186b18e8b3e8b9affd511ac1ca481da3fe82fcfb3f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.986Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "KLAC",
+  "name": "KLA CORP",
+  "cik": "0000319201",
+  "summary": "KLA Corporation (KLAC) is a semiconductor capital equipment company that designs and manufactures process control and yield management solutions. The company provides inspection, metrology, and data analytics systems used in semiconductor manufacturing. KLA's products help chipmakers detect defects, measure critical dimensions, and optimize fabrication processes across advanced technology nodes and new materials.",
+  "products": [
+    {
+      "name": "Process Control Systems",
+      "type": "hardware",
+      "description": "Inspection and metrology equipment used in semiconductor fabrication to detect defects and measure critical dimensions."
+    },
+    {
+      "name": "Yield Management Solutions",
+      "type": "platform",
+      "description": "Data analytics and software platforms that help semiconductor manufacturers optimize yield and fabrication processes."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/KLAC/profile",
+  "origin": {
+    "leaf": "0fe4beb868d13e71813364104e9f3f167f3b24f9732777c85dcfee6dd813481f",
+    "parent": "d0592582d4b0a8fdd9b1432bdd49b057a06b4e7c36ae0e7fa27ca50974ec2d85",
+    "timestamp": "2026-04-12T02:42:23.008Z",
+    "source": "profile:0000319201",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0fe4beb868d13e71813364104e9f3f167f3b24f9732777c85dcfee6dd813481f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.008Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

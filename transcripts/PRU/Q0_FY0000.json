@@ -1,0 +1,147 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "PRU",
+  "company": "PRUDENTIAL FINANCIAL INC",
+  "title": "PRU   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 5118,
+  "speakers": [
+    {
+      "name": "SALES",
+      "title": "CURRENCY   MIX (2)  Strong International Presence with Market Leadership in Japan INTERNATIONAL BUSINESSES   I  (1)   Based on pre - tax adjusted operating income excluding Corporate & Other operations",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 16
+    },
+    {
+      "name": "Asset Liability Management",
+      "title": "High allocation to government  securities (mostly U",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "PRU",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PRU",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "PRU",
+      "predicate": "guided",
+      "object": "expected quarterly run - rate loss is ~$415 million",
+      "value": 415,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "PRU",
+      "predicate": "stated",
+      "object": "We believe that our use of these non - GAAP measures helps investors understand and evaluate the Company’s performance and financi al position",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "PRU",
+      "predicate": "stated",
+      "object": "we believe enhances the understanding of underlying performance trends",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "PRU",
+      "predicate": "stated",
+      "object": "we believe that the presentation of adjusted operating income   as   we measure it for management purposes  enhances the understanding of our results of operati",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PRU",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PRU",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PRU",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "PRU",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/PRU/transcripts",
+  "origin": {
+    "leaf": "cb0c1124b830ac9e7da911fa0ef7dc1b85e9adfbbfdfcd0b403b88c481e020a2",
+    "parent": "f2abd234b46c5a2a1ac72a9a3baa71bd38882a8ef46d15dfed3137a2cdc8807fac56da7549fc68dcf63fd0e93795c3a8",
+    "timestamp": "2026-04-12T02:43:08.805Z",
+    "source": "transcript:PRU_508_4Q25-Earnings-Call-Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cb0c1124b830ac9e7da911fa0ef7dc1b85e9adfbbfdfcd0b403b88c481e020a2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.805Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

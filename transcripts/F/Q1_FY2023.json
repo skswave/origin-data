@@ -1,0 +1,403 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "F",
+  "company": "FORD MOTOR CO",
+  "title": "F Q1 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 11576,
+  "speakers": [
+    {
+      "name": "John T. Lawler",
+      "title": "Chief Financial Officer and   Interim Chief Supply Chain Officer, Ford  Motor Co.",
+      "firm": "Ford  Motor",
+      "speaker_type": "executive",
+      "mention_count": 11
+    },
+    {
+      "name": "James D. Farley",
+      "title": "President, Chief Executive Officer, Director & President - Model E, Ford  Motor Co.",
+      "firm": "Chief Executive Officer",
+      "speaker_type": "executive",
+      "mention_count": 10
+    },
+    {
+      "name": "James Albert Picariello",
+      "title": "Analyst, BNP Paribas Exane  Dan Levy  Analyst, Barclays Capital, Inc.",
+      "firm": "BNP Paribas Exane  Dan Levy  Analyst",
+      "speaker_type": "analyst",
+      "mention_count": 6
+    },
+    {
+      "name": "Rod Lache",
+      "title": "Analyst, Wolfe Research LLC",
+      "firm": "Wolfe Research",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "John Murphy",
+      "title": "Analyst, BofA Securities, Inc.",
+      "firm": "BofA Securities",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Tom Narayan",
+      "title": "Analyst, RBC Cap ital Markets LLC",
+      "firm": "RBC Cap ital Markets",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Emmanuel Rosner",
+      "title": "Analyst, Deutsche Bank Securities, Inc.",
+      "firm": "Deutsche Bank Securities",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Lynn Antipas Tyson",
+      "title": "Executive Director of Investor Relations, Ford Motor Co.",
+      "firm": "Ford Motor",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "Adam Michael Jonas",
+      "title": "Analyst, Morgan Stanley & C o. LLC",
+      "firm": "Morgan Stanley & C o.",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Marion B. Harris",
+      "title": "President and Chief Executive Officer, Ford Motor Credit Company, Ford  Motor Co.",
+      "firm": "Ford Motor Credit Company",
+      "speaker_type": "executive",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 15,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 68,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F gross margin",
+      "predicate": "reported",
+      "object": "$8.1 percent",
+      "value": 8.1,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "F gross margin",
+      "predicate": "reported",
+      "object": "$10.3 percent",
+      "value": 10.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "outlook , we continue to expect full year 2023 total company adjusted EBIT of $9 billion",
+      "value": 9,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expecting $1 billion",
+      "value": 1,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expect our total cost to come down and cost of goods sold  to come down about $2   billion",
+      "value": 2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe will be invaluable to our  commercial customers, and this will unlock tremendous loyalty and profitable growth",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe that will result in long - term gain for our customers, and yes, the company",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe this is the only  way to ensure we drive appropriate return on capital over time",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe will be a very saturated market, we believe Model e can be  highly differentiated in markets where we know the customer well, like the three - row ut",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "We expect Ford Model e EBIT margin to improve to around negative 20% in the second half of this year reflecting  stronger per unit contribution margin and sign",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect Model e contributi on  margin to approach break even this year and we continue to target positive EBIT margin for our first generation  vehicles by t",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe that 8% margin is  totally realistic despite all the pricing pressure that we will absolutely get because everyone wants to grow",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect our total cost to come down and cost of goods sold  to come down about $2   billion versus the $2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect that to   continue",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect profits in Pro to double this year  versus last year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect that mix to come off",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe that not only is  it the biggest EV market in the world but customers digitally are ahead of the rest of the world, and so it's a really  important m",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we expect pricing for us to be neutral",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe there will be pricing strength throughout the year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "We expect to be about, up about 6 - ish percent for the full year overall, so I think  you can look at that and those are the three areas that have basically c",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe   to be reliable but is not guaranteed by us and does not purport to be a complete or error   - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "F",
+      "predicate": "mentioned",
+      "object": "Tesla",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "F",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/F/transcripts",
+  "origin": {
+    "leaf": "53dc726075c82535bb0c2d1db2820de9763a5a96cbbd9428a46006e69bdc9b42",
+    "parent": "8891e16f8cf44d1c76179567a90fadaa204295e8bc1a01f76c269013681979661a34e14d72a5c7efa817c6ac7c05d06c",
+    "timestamp": "2026-04-12T02:43:08.537Z",
+    "source": "transcript:F_CORRECTED-TRANSCRIPT_-Ford-Motor-Co-F-US-Q1-2023-Earnings-Call.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/53dc726075c82535bb0c2d1db2820de9763a5a96cbbd9428a46006e69bdc9b42",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.537Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

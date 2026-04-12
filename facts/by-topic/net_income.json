@@ -1,0 +1,75 @@
+{
+  "schema": "rootz.ai/topic-facts/v1",
+  "topic": "net_income",
+  "label": "Net Income",
+  "companies": 8,
+  "total_mentions": 104,
+  "results": [
+    {
+      "ticker": "AMD",
+      "company": "ADVANCED MICRO DEVICES INC",
+      "mentions": 47,
+      "quarters": []
+    },
+    {
+      "ticker": "WFC",
+      "company": "WELLS FARGO & COMPANY/MN",
+      "mentions": 22,
+      "quarters": []
+    },
+    {
+      "ticker": "AMZN",
+      "company": "AMAZON COM INC",
+      "mentions": 16,
+      "quarters": []
+    },
+    {
+      "ticker": "DE",
+      "company": "DEERE & CO",
+      "mentions": 5,
+      "quarters": []
+    },
+    {
+      "ticker": "LOW",
+      "company": "LOWES COMPANIES INC",
+      "mentions": 4,
+      "quarters": []
+    },
+    {
+      "ticker": "ZTS",
+      "company": "Zoetis Inc.",
+      "mentions": 4,
+      "quarters": []
+    },
+    {
+      "ticker": "KLAC",
+      "company": "KLA CORP",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "XOM",
+      "company": "EXXON MOBIL CORP",
+      "mentions": 3,
+      "quarters": []
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/search/transcripts?topic=net_income",
+  "origin": {
+    "leaf": "2680138ec155f77f6c04eed480e31b74f8dafb135793eb19e60a76c42c655890",
+    "parent": "fc5a99f893e6fc53b8aefd16b71b519e0ce16854cb09d49f2fa8760a6fa83eff",
+    "timestamp": "2026-04-12T02:43:09.165Z",
+    "source": "topic:net_income",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2680138ec155f77f6c04eed480e31b74f8dafb135793eb19e60a76c42c655890",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:09.165Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

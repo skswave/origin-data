@@ -1,0 +1,131 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "AAPL",
+  "name": "Apple Inc.",
+  "cik": "0000320193",
+  "summary": "Apple Inc. designs, manufactures, and markets smartphones (iPhone), personal computers (Mac), tablets (iPad), wearables (Apple Watch, AirPods, Apple Vision Pro), and accessories. The company also offers a broad range of services including the App Store, Apple Music, Apple TV+, Apple Arcade, Apple Fitness+, Apple News+, Apple Pay, Apple Card, AppleCare, iCloud, and advertising platforms. Products are sold through retail stores, online channels, and indirect partners like cellular carriers.",
+  "products": [
+    {
+      "name": "iPhone",
+      "type": "hardware",
+      "description": "Line of smartphones based on iOS, including iPhone 17 Pro, iPhone Air, iPhone 17, iPhone 16, and iPhone 16e."
+    },
+    {
+      "name": "Mac",
+      "type": "hardware",
+      "description": "Line of personal computers based on macOS, including MacBook Air, MacBook Pro, iMac, Mac mini, Mac Studio, and Mac Pro."
+    },
+    {
+      "name": "iPad",
+      "type": "hardware",
+      "description": "Line of multipurpose tablets based on iPadOS, including iPad Pro, iPad Air, iPad, and iPad mini."
+    },
+    {
+      "name": "Apple Watch",
+      "type": "hardware",
+      "description": "Line of smartwatches based on watchOS, including Apple Watch Series 11, Apple Watch SE 3, and Apple Watch Ultra 3."
+    },
+    {
+      "name": "AirPods",
+      "type": "hardware",
+      "description": "Line of wireless headphones including AirPods, AirPods Pro, AirPods Max, and Beats products."
+    },
+    {
+      "name": "Apple Vision Pro",
+      "type": "hardware",
+      "description": "Spatial computer based on the visionOS operating system."
+    },
+    {
+      "name": "Apple TV 4K",
+      "type": "hardware",
+      "description": "Media streaming and gaming device based on tvOS operating system."
+    },
+    {
+      "name": "HomePod",
+      "type": "hardware",
+      "description": "High-fidelity wireless smart speakers including HomePod and HomePod mini."
+    },
+    {
+      "name": "App Store",
+      "type": "platform",
+      "description": "Platform allowing customers to discover and download applications and digital content."
+    },
+    {
+      "name": "Apple Arcade",
+      "type": "service",
+      "description": "Subscription-based game service."
+    },
+    {
+      "name": "Apple Fitness+",
+      "type": "service",
+      "description": "Subscription-based personalized fitness service."
+    },
+    {
+      "name": "Apple Music",
+      "type": "service",
+      "description": "Subscription-based curated listening experience with on-demand radio stations."
+    },
+    {
+      "name": "Apple News+",
+      "type": "service",
+      "description": "Subscription-based news and magazine service."
+    },
+    {
+      "name": "Apple TV+",
+      "type": "service",
+      "description": "Subscription service offering exclusive original content and live sports."
+    },
+    {
+      "name": "Apple Pay",
+      "type": "service",
+      "description": "Cashless payment service."
+    },
+    {
+      "name": "Apple Card",
+      "type": "service",
+      "description": "Co-branded credit card payment service."
+    },
+    {
+      "name": "AppleCare",
+      "type": "service",
+      "description": "Fee-based service and support products offering technical support, repair, and accidental damage coverage."
+    },
+    {
+      "name": "iCloud",
+      "type": "service",
+      "description": "Cloud services that store and sync customer content across Apple devices and Windows PCs."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Third-party cellular network carriers",
+      "partnership_type": "strategic",
+      "description": "Indirect distribution channel for the sale of Apple products and certain services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Third-party resellers",
+      "partnership_type": "strategic",
+      "description": "Indirect distribution channel used alongside direct retail and online stores.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/AAPL/profile",
+  "origin": {
+    "leaf": "739f35e32e5865fffa5605a4432dec8ee780ff299d333fb78569519557705f47",
+    "parent": "f5b563ff5bb73810b245dc661d37e931d984660a0405504db7e6800bc57049d9",
+    "timestamp": "2026-04-12T02:42:22.978Z",
+    "source": "profile:0000320193",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/739f35e32e5865fffa5605a4432dec8ee780ff299d333fb78569519557705f47",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.978Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "MRVL",
+  "company": "Marvell Technology, Inc.",
+  "title": "MRVL Q2 FY2018 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2018",
+  "call_date": null,
+  "word_count": 2747,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "MRVL",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "MRVL",
+      "predicate": "stated",
+      "object": "We believe that the presentation of non-GAAP financial measures provides important supplemental information to management and investors regarding financial and ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MRVL",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MRVL",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MRVL",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "MRVL",
+      "predicate": "mentioned",
+      "object": "Marvell",
+      "value": 30,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MRVL",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MRVL",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/MRVL/transcripts",
+  "origin": {
+    "leaf": "2c4ee90ce4af2b214234095d0c438cc5342f46c2028ee9326f0db3e7c531e7d3",
+    "parent": "b42f94289d7dcdc7abdfd2f2bfb9f87366af72bd289da311faaa2b7314ccfa80091cdec2a4baf848b88d2457fdf68ce1",
+    "timestamp": "2026-04-12T02:43:08.773Z",
+    "source": "transcript:MRVL_Q2_FY_2018_Additional_Information_-_Final.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2c4ee90ce4af2b214234095d0c438cc5342f46c2028ee9326f0db3e7c531e7d3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.773Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

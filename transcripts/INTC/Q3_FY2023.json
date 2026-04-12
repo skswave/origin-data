@@ -1,0 +1,31 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "INTC",
+  "company": "INTEL CORP",
+  "title": "INTC Q3 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 0,
+  "speakers": [],
+  "facts": [],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/INTC/transcripts",
+  "origin": {
+    "leaf": "2f7db97fb1c5e826ab65023abf5c4c124ce5ee1da8fc5775be5672385125df98",
+    "parent": "b88322049e64036df47be1fb13be4585a3035f4eb15d8ecf2a9540e797bf3c7841302eb186b0949b689024632b85145d",
+    "timestamp": "2026-04-12T02:43:08.564Z",
+    "source": "transcript:INTC_Q3%272023+Earnings+Deck.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2f7db97fb1c5e826ab65023abf5c4c124ce5ee1da8fc5775be5672385125df98",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.564Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

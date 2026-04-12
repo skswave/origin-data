@@ -1,0 +1,140 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "WFC",
+  "company": "WELLS FARGO & COMPANY/MN",
+  "title": "WFC   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 6929,
+  "speakers": [
+    {
+      "name": "Trust",
+      "title": "Real   estate   investment   banking   business  –   Asset   Management  –   Corporate   Trust   Services  –   Canadian   Direct   Equipment   Finance  –   Student   Lending   portfolio  –   Norwest   Equity   Partners   and   Mezzanine   Partners   funds  –   Non-agency   commercial   mortgage   servicing  •   Announced   sale   of   rail   car   leasing   business  •   Exited   direct   auto   lending   and   international   wealth  management  •   Simplification   of   Home   Lending   including   exiting  correspondent   channel  Business   Sales,   Exits   and   Reductions   Key   Investments  CBL   Investments   in   bankers   and   marketing,   expanded  Credit   Card   offerings,   refurbishment   of   branch  network,   and   new   mobile   app  WIM   Investments   in   advisors   and   the   advisor   experience,  banking   and   investment   products,   and   technology  CIB   Investments   in   talent   and   technology   across  Markets,   Investment   Banking,   and   Global   Payments  and   Liquidity  CB   Investments   in   lending   systems,   digital   client  experiences,   and   payment   infrastructure;   expanded  talent   across   key   markets   and   industries\n\n2019   2024  Card fees  Investment Banking fees  Markets revenue  WIM fee income  Residential Mortgage Banking fees  $4",
+      "firm": "Exits   and   Reductions   Key   Investments  CBL   Investments   in   bankers   and   marketing",
+      "speaker_type": "other",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "WFC",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 25,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "WFC",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "WFC total revenue",
+      "predicate": "reported",
+      "object": "$21.4 billion",
+      "value": 21.4,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "WFC",
+      "predicate": "guided",
+      "object": "Outlook  Net   Interest  Income  Noninterest  Expense  Expect   2025   net   interest   income   (NII)   to   be   roughly   in   line   with   2024   NII   of  $47.7   billion",
+      "value": 47.7,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "WFC",
+      "predicate": "guided",
+      "object": "Expect   2025   noninterest   expense   to   be   ~$54.6   billion",
+      "value": 54.6,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "WFC",
+      "predicate": "guided",
+      "object": "guidance   of  ~$54.2   billion",
+      "value": 54.2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "WFC",
+      "predicate": "guided",
+      "object": "Expect   4Q25   noninterest   expense   to   be   ~$13.5   billion",
+      "value": 13.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WFC",
+      "predicate": "stated",
+      "object": "We believe we have additional opportunities to improve our returns and are targeting an ROTCE of 17 – 18% over the medium-term, driven by:  –   Realizing return",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "WFC",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "WFC",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "semiconductor"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/WFC/transcripts",
+  "origin": {
+    "leaf": "5e1044b02e6c0b73efe11a1b77520503680868390c0bccca32e1a1053b5cb65a",
+    "parent": "e2346b2ea8c3118f3be2e889351b56e92d93da6d8dc01d059b3a5187e36182d27022277af6f8226305e52ae1b3c096d4",
+    "timestamp": "2026-04-12T02:43:08.908Z",
+    "source": "transcript:WFC_third-quarter-2025-presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5e1044b02e6c0b73efe11a1b77520503680868390c0bccca32e1a1053b5cb65a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.908Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

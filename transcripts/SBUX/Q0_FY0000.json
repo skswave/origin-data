@@ -1,0 +1,502 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "SBUX",
+  "company": "STARBUCKS CORP",
+  "title": "SBUX   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 29577,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "SBUX",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SBUX",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SBUX",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 13,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SBUX",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 23,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SBUX",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SBUX",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 18,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SBUX gross margin",
+      "predicate": "reported",
+      "object": "$13 percent",
+      "value": 13,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SBUX gross margin",
+      "predicate": "reported",
+      "object": "$13.5 percent",
+      "value": 13.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SBUX EPS",
+      "predicate": "reported",
+      "object": "$3.35",
+      "value": 3.35,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect our   U plifts   to add more than 25,000  additional seats across our   U",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we believe we have the ability to consistently deliver both global  and US comp growth of at least 3% over the next three years",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we anticipate this will result in operating  margins between 13",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we believe is achievable when we operate with discipline,  invest in our partners, deliver exceptional experiences for   customers, continue to strengthen our  ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we believe there's room to create a true second peak",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we believe  it has the power to deliver up to a point of comp contribution for the US company - operated  business",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we believe  customers will want to keep coming back",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect to ramp up to build 400 net new coffeehouses across our U",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect those margins to increase to the high teens",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect to climb to the high teens",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we anticipate margins will continue to rise and the bulk of new  coffee house expansion will occur in licensed markets, which generally have a more favorable  marg",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we believe our international operating  margin could exceed 20% by   fiscal   20 28",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect international to grow new coffee h ouses at double  the rate of North America",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect will come from our current licensing partners who  are truly world - class operators",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect global  comparable sales to grow 3% or better, underpinned by a 3% or better sales   comp in our   US  company - operated business",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "We expect consolidated operating margins to improve slightly year - over - year with improvement  beginning in the back half as we lap our Green Apron   S ervi",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect net revenue growth of 5% or more",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "We expect new stores to ramp through fiscal   2026   and   2027   and to contribute approximately 2  to 3 points of growth to consolidated net revenues by fisc",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we believe this approach will  allow us to deliver new stores yielding a three - year cash on cash payback in the coming years",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect  our US company - operated business to ramp to approximately 400 net new coffee houses and our  US licensed business to build to 150 to 200 net new c",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect international net new openings will be at least 1 , 500 stores in fiscal 2028, far  outpacing North America",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect to be in fiscal 2028",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect to achieve our 2028 o perating margin guidance of 13",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect some targeted pricing, mostly to offset inflation",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect the improvement to come from equal parts  sales leverage and cost savings",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect half of our savings to come from product and distribution costs and the  other half to come from OpEx",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect our China JV structure to be   accretive   to consolidated operating margins by  about 40 basis points on an annualized basis when compared to our 20",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "We expect our CAPEX to be at a rate of about 5% on a consolidated net revenue basis over the  next several years",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "We believe we've got the plans in place whe re we get the cost side of  things",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we anticipate that it 'd be about $0",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we believe in it",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SBUX",
+      "predicate": "stated",
+      "object": "we expect of Starbucks, which is great craft, great connection",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "SBUX",
+      "predicate": "guided",
+      "object": "fiscal year 2025,   R ewards drove nearly 60% of US company - operated revenue ,  equating to more than $13 billion",
+      "value": 13,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SBUX",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SBUX",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SBUX",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SBUX",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SBUX",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/SBUX/transcripts",
+  "origin": {
+    "leaf": "aef6f0e3f93cbf3b3251d516a081442d59fd0c97443e4ca3154338d4735c4308",
+    "parent": "3a6055f2221487d4b7bdb462db33d7db10b22a47aded89554c071b96ce86b37d4b6cbcc27e32b12ca4a3e237e105af6d",
+    "timestamp": "2026-04-12T02:43:08.837Z",
+    "source": "transcript:SBUX_Starbucks-Investor-Day-2026-Corrected-Transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/aef6f0e3f93cbf3b3251d516a081442d59fd0c97443e4ca3154338d4735c4308",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.837Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

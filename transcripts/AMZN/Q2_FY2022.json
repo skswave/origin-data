@@ -1,0 +1,222 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AMZN",
+  "company": "AMAZON COM INC",
+  "title": "AMZN Q2 FY2022 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2022",
+  "call_date": null,
+  "word_count": 9667,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 33,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Robotics",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "robotics"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "AMZN",
+      "predicate": "guided",
+      "object": "Guidance •   Net sales are expected to be between $125.0 billion",
+      "value": 125,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "AMZN",
+      "predicate": "guided",
+      "object": "expected to be between $0 and $3.5 billion",
+      "value": 3.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "cloud"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "AMZN",
+      "predicate": "mentioned",
+      "object": "Amazon",
+      "value": 156,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "GPU & Accelerators",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gpu"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Autonomous Vehicles",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "autonomous"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMZN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AMZN/transcripts",
+  "origin": {
+    "leaf": "7219ab92ad051b08406d59609f7c75e586730dd3c10fbba37948511704ed96e1",
+    "parent": "80e7e70c215b4db2a870215af362f0b99c52f925a356a1fa1294fc63b49f84ea9804888c3675058fb69f83637786659f",
+    "timestamp": "2026-04-12T02:43:08.454Z",
+    "source": "transcript:AMZN_Q2-2022-Amazon-Earnings-Release.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7219ab92ad051b08406d59609f7c75e586730dd3c10fbba37948511704ed96e1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.454Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

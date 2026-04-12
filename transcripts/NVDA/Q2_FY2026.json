@@ -1,0 +1,587 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "NVDA",
+  "company": "NVIDIA CORP",
+  "title": "NVDA Q2 FY2026 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2026",
+  "call_date": null,
+  "word_count": 9151,
+  "speakers": [
+    {
+      "name": "Jen Hsun Huang",
+      "title": "Co - founder, President, Chief Executive   Officer & Director, NVIDIA Corp.",
+      "firm": "President",
+      "speaker_type": "executive",
+      "mention_count": 8
+    },
+    {
+      "name": "InfiniBand",
+      "title": "Quantum InfiniBand is the unambiguous  choice",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 8
+    },
+    {
+      "name": "Colette M. Kress",
+      "title": "Chief Financial Officer & Executive Vice President, NVIDIA Corp.",
+      "firm": "NVIDIA",
+      "speaker_type": "executive",
+      "mention_count": 4
+    },
+    {
+      "name": "Toshiya Hari",
+      "title": "Vice President - Investor Relations & Strategic Finance, NVIDIA Corp.",
+      "firm": "NVIDIA",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "CJ Muse",
+      "title": "Analyst, Cantor Fitzgerald & Co.",
+      "firm": "Cantor Fitzgerald &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Vivek Arya",
+      "title": "Analyst, BofA Securities, Inc.",
+      "firm": "BofA Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Ben Reitzes",
+      "title": "Analyst, Melius Research LLC",
+      "firm": "Melius Research",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Joe Moore",
+      "title": "Analyst, Morgan Stanley & Co . LLC",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Aaron Rakers",
+      "title": "Analyst, Wells Fargo Securities LLC",
+      "firm": "Wells Fargo Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Timothy Arcuri",
+      "title": "Analyst, UBS Securities LLC",
+      "firm": "UBS Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Stacy A. Rasgon",
+      "title": "Analyst, Bernstein Research  James Edward Schneider  Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    },
+    {
+      "name": "Toshiya Hari  Vice President -",
+      "title": "founder, President, Chief Executive   Officer & Director, NVIDIA Corp., Investor Relations & Strategic Finance, NVIDIA Corp.  Colette M. Kress  Chief Financial Officer & Executive Vice President, NVIDIA Corp.  Jen Hsun Huang  Co",
+      "firm": "President",
+      "speaker_type": "executive",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 103,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 31,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "GPU & Accelerators",
+      "value": 19,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "gpu"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 83,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Robotics",
+      "value": 28,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "robotics"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 15,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 22,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 35,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA total revenue",
+      "predicate": "reported",
+      "object": "$7.3 billion",
+      "value": 7.3,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA gross margin",
+      "predicate": "reported",
+      "object": "$72.4 percent",
+      "value": 72.4,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "NVDA gross margin",
+      "predicate": "reported",
+      "object": "$72.7 percent",
+      "value": 72.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Blackwell",
+      "value": 32,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Hopper",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Rubin",
+      "value": 21,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Grace",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "GB300",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "GB200",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "NVL72",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "H100",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "H200",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "HGX",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_product"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "CUDA",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "TensorRT",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Omniverse",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Quantum Computing",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "quantum"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "NVDA",
+      "predicate": "guided",
+      "object": "expected to be $54 billion",
+      "value": 54,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "NVDA",
+      "predicate": "guided",
+      "object": "expected to be approximately $5.9 billion",
+      "value": 5.9,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "NVDA",
+      "predicate": "guided",
+      "object": "expected to be an income of approximately $500 million",
+      "value": 500,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "NVDA",
+      "predicate": "stated",
+      "object": "We expect widespread market availability in the second half of the year as CoreWeave prepares to bring their  GB300 instance to market as they are already seei",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "NVDA",
+      "predicate": "stated",
+      "object": "we expect operating expenses to grow in the high - 30s range year - over - year, up  from our prior expectations of the mid - 30s",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "NVDA",
+      "predicate": "stated",
+      "object": "we expect to have a much more mature and  fully scaled up supply chain",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "NVDA",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not   purport to be a complete or error - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "cloud"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "OpenAI",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Meta",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "NVDA",
+      "predicate": "mentioned",
+      "object": "Google",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Autonomous Vehicles",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "autonomous"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "NVDA",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/NVDA/transcripts",
+  "origin": {
+    "leaf": "f676f27a0b2cfc2f980b4898da9ddf6cf636fa79b6a195ce92e9c612fd077973",
+    "parent": "1df5542788ec0b5bbb97600458c1c7ee74f2b536a7a63bfe9fb51e81a39b53c87fa2e198c6ecf77ac20295695df9698e",
+    "timestamp": "2026-04-12T02:43:08.783Z",
+    "source": "transcript:NVDA_NVDA-Q2-2026-Earnings-Call-27-August-2025-5_00-PM-ET.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f676f27a0b2cfc2f980b4898da9ddf6cf636fa79b6a195ce92e9c612fd077973",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.783Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

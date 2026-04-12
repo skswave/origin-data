@@ -1,0 +1,458 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "WMT",
+  "company": "Walmart Inc.",
+  "title": "WMT Q4 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 12755,
+  "speakers": [
+    {
+      "name": "C. Douglas McMillon",
+      "title": "President, Chief Executive Officer & Director, Walmart, Inc.",
+      "firm": "Chief Executive Officer & Director",
+      "speaker_type": "executive",
+      "mention_count": 11
+    },
+    {
+      "name": "John David Rainey",
+      "title": "Chief Financial Officer &   Executive Vice President, Walmart, Inc.",
+      "firm": "Walmart",
+      "speaker_type": "executive",
+      "mention_count": 7
+    },
+    {
+      "name": "John R. Furner",
+      "title": "President & Chief Executive Officer - Walmart US, Walmart, Inc.",
+      "firm": "Walmart",
+      "speaker_type": "executive",
+      "mention_count": 7
+    },
+    {
+      "name": "Chris Nicholas",
+      "title": "President & Chief Executive Offi cer, Sam's Club",
+      "firm": "Sam's Club",
+      "speaker_type": "executive",
+      "mention_count": 4
+    },
+    {
+      "name": "Kathryn J. McLay",
+      "title": "President & Chief Executive Officer, Walmart International, Walmart,  Inc.",
+      "firm": "Walmart International",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "Krisztina Katai",
+      "title": "Analyst, Deutsche Bank Securities, Inc.",
+      "firm": "Deutsche Bank Securities",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Rupesh Parikh",
+      "title": "Analyst, Oppen heimer & Co., Inc.",
+      "firm": "Oppen heimer &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Kelly Bania",
+      "title": "Analyst, BMO Capital Markets Corp.",
+      "firm": "BMO Capital Markets",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Corey Tarlowe",
+      "title": "Analyst, Jefferies LLC",
+      "firm": "Jefferies",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Paul Lejuez",
+      "title": "Analyst, Citigroup Global Markets, Inc.",
+      "firm": "Citigroup Global Markets",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Seth Sigman",
+      "title": "Analyst, Barclays Capital, Inc.",
+      "firm": "Barclays Capital",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Stephanie Schiller Wissink",
+      "title": "Senior Vice President & Head - Investor Relations, Walmart, Inc.",
+      "firm": "Walmart",
+      "speaker_type": "executive",
+      "mention_count": 2
+    },
+    {
+      "name": "Michael Lasser",
+      "title": "Analyst, UBS Securities LLC",
+      "firm": "UBS Securities",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    },
+    {
+      "name": "Simeon Ari Gutman",
+      "title": "Analyst, Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    },
+    {
+      "name": "Robert F. Ohmes",
+      "title": "Analyst, BofA Securities, Inc.",
+      "firm": "BofA Securities",
+      "speaker_type": "analyst",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "WMT",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "WMT",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 24,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "WMT",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "WMT EPS",
+      "predicate": "reported",
+      "object": "$1.80",
+      "value": 1.8,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we expect to see a  similar relationship",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "We believe in our plan and we're  looking for ways in addition to our 401(k) and the match that goes along with it, to help our associates build well  and   do ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we believe will  deliver top -   and bottom - line growth within the framework we've discussed and improve ROI over time",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we expect the deal to be slightly dilutive to EPS in the near - term",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we believe the transaction would be IRR accretive, delivering  returns ahead of our expected ROI",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we believe will drive improved incremental margins in the years  ahead, even as we stay customer and top - line focused, deliver value for them, and invest in o",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "We believe global advertising and membership alone will represen t 20% of  annual operating income in FY 2025",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "We expect to begin  se eing the enterprise financial benefits of upstream automation and cost to fulfill, inventory efficiency, store  productivity and wage le",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we expect relative weakn ess to persist in FY 2025, although are hopeful to see  directional improvement in the second - half as comparisons ease",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we expect n et sales on a constant currency basis to grow between 3% and 4% and for operating  income to grow 4% to 6%",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "We expect Walmart US and Sam's Club US net sales growth to fall in - line with the  enterprise and for international growth to be above enterprise growt h",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "We expect all three segments to contribute  to operating income growth led by Walmart US, Walmart International, and then Sam's US",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we expect sales to grow faster than operating income in the first half, due primarily to the  timing of technology s pend",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we expect operating income growth to exceed our sales growth",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we expect operating income growth to exceed sales growth by 150 basis points at the  midpoint",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "We expect FY 2025  EPS in a range of $6",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we expect CapEx   to range between 3% to 3",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we expect sales growth of 4% to 5% and operating income growth   of 3% to 4",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "We expect Q1 E PS in  the range of $1",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we expect some level of improvement in gross profit, but I  want to decompose that further because there's t wo elements to that",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we expect to see continued improvements  there",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we believe we can grow",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "WMT",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a com plete or error - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "WMT",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "WMT",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "WMT",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "WMT",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "WMT",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/WMT/transcripts",
+  "origin": {
+    "leaf": "ac27868b7222d42a94ea8831888611180b8cc7ce9948ca7e93fcae0b3f026344",
+    "parent": "1da7dbbfb2292fdb9938b7e64c26cf507e3480391cf2783a5e0cdf7b9a2b46dbc8a7d16b1d9ded9781fefcfdc10ca290",
+    "timestamp": "2026-04-12T02:43:08.921Z",
+    "source": "transcript:WMT_Q4+2024+Earnings+Call.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ac27868b7222d42a94ea8831888611180b8cc7ce9948ca7e93fcae0b3f026344",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.921Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

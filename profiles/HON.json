@@ -1,0 +1,103 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "HON",
+  "name": "HONEYWELL INTERNATIONAL INC",
+  "cik": "0000773840",
+  "summary": "Honeywell International Inc is a diversified industrial technology company operating across four segments: Aerospace Technologies (avionics, propulsion, defense systems), Industrial Automation (sensing, process solutions, warehouse automation), Building Automation (building products and solutions), and Energy and Sustainability Solutions (UOP refining/petrochemical technologies). The company serves commercial aviation, defense, industrial, and energy markets globally, offering both hardware products and software-enabled services.",
+  "products": [
+    {
+      "name": "Commercial Aviation OEM Systems",
+      "type": "hardware",
+      "description": "Original equipment avionics and aerospace systems for commercial aircraft manufacturers"
+    },
+    {
+      "name": "Commercial Aviation Aftermarket",
+      "type": "service",
+      "description": "Aftermarket parts, repairs, and upgrades for commercial aviation customers"
+    },
+    {
+      "name": "Defense Services",
+      "type": "service",
+      "description": "Defense systems and services for military and government customers"
+    },
+    {
+      "name": "Sensing and Safety Technologies",
+      "type": "hardware",
+      "description": "Sensors and safety devices for industrial automation applications"
+    },
+    {
+      "name": "Productivity Products",
+      "type": "hardware",
+      "description": "Productivity-enhancing devices and tools for industrial and warehouse environments"
+    },
+    {
+      "name": "Process Solutions",
+      "type": "platform",
+      "description": "Automation and control solutions for industrial process industries"
+    },
+    {
+      "name": "Warehouse and Workflow Solutions",
+      "type": "platform",
+      "description": "Warehouse automation and workflow optimization systems"
+    },
+    {
+      "name": "Building Products",
+      "type": "hardware",
+      "description": "HVAC, fire, security, and building control products"
+    },
+    {
+      "name": "Building Solutions",
+      "type": "service",
+      "description": "Building automation installation, maintenance, and energy management services"
+    },
+    {
+      "name": "UOP",
+      "type": "platform",
+      "description": "Refining, petrochemical, and gas processing technologies and catalysts"
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Resideo",
+      "partnership_type": "strategic",
+      "description": "Honeywell has environmental liability arrangements with Resideo following prior spin-off",
+      "start_date": null
+    },
+    {
+      "partner_name": "Air Products",
+      "partnership_type": "strategic",
+      "description": "Acquired Air Products' Liquified Natural Gas Process Technology and Equipment Business in September 2024",
+      "start_date": null
+    },
+    {
+      "partner_name": "Carrier Global Corporation",
+      "partnership_type": "strategic",
+      "description": "Acquired Carrier's Global Access Solutions Business in June 2024",
+      "start_date": null
+    },
+    {
+      "partner_name": "Johnson Matthey",
+      "partnership_type": "strategic",
+      "description": "Acquired Johnson Matthey's Catalyst Technologies Business Segment in June 2025",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/HON/profile",
+  "origin": {
+    "leaf": "50ebf3eff0a5838adff613abcb07b4550891e4c54a79da75cc7e9546fe458f4c",
+    "parent": "97aade4268c7310646e445391b4c16d8b310d8caa2ca5bc9c31a748c76d87237",
+    "timestamp": "2026-04-12T02:42:23.024Z",
+    "source": "profile:0000773840",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/50ebf3eff0a5838adff613abcb07b4550891e4c54a79da75cc7e9546fe458f4c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.024Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

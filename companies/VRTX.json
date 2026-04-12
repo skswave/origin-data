@@ -1,0 +1,60 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "VRTX",
+  "name": "VERTEX PHARMACEUTICALS INC / MA",
+  "cik": "0000875320",
+  "exchange": "Nasdaq",
+  "sic": "2834",
+  "sic_description": "Pharmaceutical Preparations",
+  "state_of_incorporation": "MA",
+  "headquarters": null,
+  "founded": null,
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "Vertex Pharmaceuticals is a global biotechnology company focused on transformative medicines for serious diseases. It markets TRIKAFTA/KAFTRIO, ALYFTREK, SYMDEKO/SYMKEVI, ORKAMBI, and KALYDECO for cystic fibrosis; CASGEVY (gene-editing therapy) for sickle cell disease and transfusion-dependent beta thalassemia; and JOURNAVX (suzetrigine) for acute pain. The company also has a mid- and late-stage pipeline targeting IgA nephropathy, APOL1-mediated kidney disease, neuropathic pain, type 1 diabetes, primary membranous nephropathy, and other serious diseases.",
+  "tags": [
+    "cystic-fibrosis",
+    "sickle-cell-disease",
+    "transfusion-dependent-beta-thalassemia",
+    "acute-pain",
+    "iga-nephropathy",
+    "apol1-mediated-kidney-disease",
+    "peripheral-neuropathic-pain",
+    "type-1-diabetes",
+    "primary-membranous-nephropathy",
+    "autosomal-dominant-polycystic-kidney-disease",
+    "myotonic-dystrophy-type-1",
+    "crispr/cas9-gene-editing",
+    "cftr-modulation",
+    "nav1.8-selective-inhibition",
+    "allogeneic-stem-cell-derived-islet-cell-therapy"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/VRTX",
+  "origin": {
+    "leaf": "0c7245d7665465707446cdfe288c87db8159e55d1bae8e3b5907c5333aa53343",
+    "parent": "02615b2cb576c950f9498a2ac245bd5f2068c4115ebfe03902781a0e17574b06",
+    "timestamp": "2026-04-12T02:42:22.971Z",
+    "source": "0000875320-26-000056",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0c7245d7665465707446cdfe288c87db8159e55d1bae8e3b5907c5333aa53343",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.971Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

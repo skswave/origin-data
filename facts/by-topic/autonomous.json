@@ -1,0 +1,236 @@
+{
+  "schema": "rootz.ai/topic-facts/v1",
+  "topic": "autonomous",
+  "label": "Autonomous",
+  "companies": 27,
+  "total_mentions": 185,
+  "results": [
+    {
+      "ticker": "JPM",
+      "company": "JPMORGAN CHASE & CO",
+      "mentions": 29,
+      "quarters": []
+    },
+    {
+      "ticker": "F",
+      "company": "FORD MOTOR CO",
+      "mentions": 24,
+      "quarters": [
+        "Q2_FY2018",
+        "Q1_FY2022",
+        "Q2_FY2019",
+        "Q1_FY2019",
+        "Q1_FY2025",
+        "Q2_FY2024",
+        "Q2_FY2025",
+        "Q3_FY2022",
+        "Q4_FY2025",
+        "Q4_FY2023",
+        "Q1_FY2018"
+      ]
+    },
+    {
+      "ticker": "QCOM",
+      "company": "QUALCOMM INC/DE",
+      "mentions": 18,
+      "quarters": []
+    },
+    {
+      "ticker": "AMZN",
+      "company": "AMAZON COM INC",
+      "mentions": 16,
+      "quarters": [
+        "Q1_FY2021",
+        "Q4_FY2020",
+        "Q1_FY2024",
+        "Q1_FY2025",
+        "Q2_FY2024",
+        "Q3_FY2020",
+        "Q3_FY2025",
+        "Q4_FY2025",
+        "Q1_FY2023",
+        "Q2_FY2022",
+        "Q3_FY2022"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "company": "ADVANCED MICRO DEVICES INC",
+      "mentions": 13,
+      "quarters": []
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA CORP",
+      "mentions": 13,
+      "quarters": [
+        "Q1_FY2026",
+        "Q2_FY2026",
+        "Q3_FY2026",
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "SNPS",
+      "company": "SYNOPSYS INC",
+      "mentions": 8,
+      "quarters": [
+        "Q4_FY2022"
+      ]
+    },
+    {
+      "ticker": "DE",
+      "company": "DEERE & CO",
+      "mentions": 7,
+      "quarters": [
+        "Q1_FY2025",
+        "Q2_FY2025",
+        "Q3_FY2025",
+        "Q4_FY2024"
+      ]
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow, Inc.",
+      "mentions": 7,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "INTU",
+      "company": "INTUIT INC.",
+      "mentions": 6,
+      "quarters": []
+    },
+    {
+      "ticker": "INTC",
+      "company": "INTEL CORP",
+      "mentions": 5,
+      "quarters": [
+        "Q2_FY3124",
+        "Q3_FY2024"
+      ]
+    },
+    {
+      "ticker": "UBER",
+      "company": "Uber Technologies, Inc",
+      "mentions": 5,
+      "quarters": []
+    },
+    {
+      "ticker": "BAC",
+      "company": "BANK OF AMERICA CORP /DE/",
+      "mentions": 4,
+      "quarters": []
+    },
+    {
+      "ticker": "CAT",
+      "company": "CATERPILLAR INC",
+      "mentions": 4,
+      "quarters": []
+    },
+    {
+      "ticker": "AMAT",
+      "company": "APPLIED MATERIALS INC /DE",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "C",
+      "company": "CITIGROUP INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CDNS",
+      "company": "CADENCE DESIGN SYSTEMS INC",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "LMT",
+      "company": "LOCKHEED MARTIN CORP",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "PYPL",
+      "company": "PayPal Holdings, Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q2_FY2025"
+      ]
+    },
+    {
+      "ticker": "BMY",
+      "company": "BRISTOL MYERS SQUIBB CO",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "KO",
+      "company": "COCA COLA CO",
+      "mentions": 1,
+      "quarters": [
+        "Q1_FY2024"
+      ]
+    },
+    {
+      "ticker": "MCK",
+      "company": "MCKESSON CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ORCL",
+      "company": "ORACLE CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "PFE",
+      "company": "PFIZER INC",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/search/transcripts?topic=autonomous",
+  "origin": {
+    "leaf": "4b84f588bef1f8c9c68d5be07439d12d4ab1eb5ccc72df85cde78058e6a70453",
+    "parent": "db00a95101f3b096d77e9bcea6a2a6a6745db86b84ca7c70a1257779dcc34209",
+    "timestamp": "2026-04-12T02:43:09.023Z",
+    "source": "topic:autonomous",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4b84f588bef1f8c9c68d5be07439d12d4ab1eb5ccc72df85cde78058e6a70453",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:09.023Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

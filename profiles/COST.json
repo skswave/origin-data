@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "COST",
+  "name": "COSTCO WHOLESALE CORP /NEW",
+  "cik": "0000909832",
+  "summary": "Costco Wholesale Corp operates membership-based warehouse clubs offering a curated selection of merchandise at low prices. Products include groceries, electronics, appliances, clothing, and sundries, sold in bulk or large quantities. Costco also offers ancillary services such as gasoline, pharmacies, optical, food courts, and travel services. Revenue is generated through merchandise sales and membership fees from individual and business members.",
+  "products": [
+    {
+      "name": "Warehouse Club Merchandise",
+      "type": "service",
+      "description": "Bulk and large-quantity retail goods including groceries, electronics, appliances, and clothing sold at low prices."
+    },
+    {
+      "name": "Gasoline",
+      "type": "service",
+      "description": "Fuel sales offered at Costco warehouse locations as an ancillary service."
+    },
+    {
+      "name": "Pharmacy",
+      "type": "service",
+      "description": "Prescription and health-related pharmacy services available at warehouse locations."
+    },
+    {
+      "name": "Optical",
+      "type": "service",
+      "description": "Vision care and optical products offered as an ancillary service at warehouses."
+    },
+    {
+      "name": "Food Court",
+      "type": "service",
+      "description": "In-store food court providing prepared food and beverages to members and guests."
+    },
+    {
+      "name": "Travel Services",
+      "type": "service",
+      "description": "Travel-related services offered to Costco members."
+    },
+    {
+      "name": "Membership",
+      "type": "service",
+      "description": "Individual and business membership programs generating fee-based revenue for warehouse access."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/COST/profile",
+  "origin": {
+    "leaf": "98902c61c4fae438e4b3ecf7188a5e237369f8f067a3fadd0c2bec3df4795105",
+    "parent": "94068f5f5283f640642c88cec70415e5468e1acedf804b4bfc7e754316b9441f",
+    "timestamp": "2026-04-12T02:42:22.984Z",
+    "source": "profile:0000909832",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/98902c61c4fae438e4b3ecf7188a5e237369f8f067a3fadd0c2bec3df4795105",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.984Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

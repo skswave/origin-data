@@ -1,0 +1,32 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "BAC",
+  "name": "BANK OF AMERICA CORP /DE/",
+  "cik": "0000070858",
+  "summary": "Bank of America Corporation is a Delaware-incorporated financial institution headquartered in Charlotte, North Carolina. This filing pertains to the Fifth Amendment of the Bank of America Deferred Compensation Plan (formerly the Bank of America 401(k) Restoration Plan), a benefit plan sponsored by the company for eligible employees and affiliated company employees, modifying beneficiary designation rules and claims adjudication jurisdiction effective January 1, 2025.",
+  "products": [
+    {
+      "name": "Bank of America Deferred Compensation Plan",
+      "type": "service",
+      "description": "Employee deferred compensation plan (formerly 401(k) Restoration Plan) for eligible employees and affiliated company employees."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BAC/profile",
+  "origin": {
+    "leaf": "59c8f7466b385faa26ee106c20f3409b840df99c3cf385e9df48ca3c1724e2f5",
+    "parent": "a57f60bedba49ef058841bbe04b1d49b7f0a111ae717acdd90f8058ebe79d14a",
+    "timestamp": "2026-04-12T02:42:22.999Z",
+    "source": "profile:0000070858",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/59c8f7466b385faa26ee106c20f3409b840df99c3cf385e9df48ca3c1724e2f5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.999Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

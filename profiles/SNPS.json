@@ -1,0 +1,82 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SNPS",
+  "name": "SYNOPSYS INC",
+  "cik": "0000883241",
+  "summary": "Synopsys, Inc. is a global leader in electronic design automation (EDA) software, semiconductor IP, and simulation and analysis (S&A) solutions. The company provides tools for IC design, verification, and manufacturing, including cloud-based design flows, logic libraries, embedded memories, interface IP, and security IP. Following its acquisition of ANSYS, Inc., Synopsys also offers engineering simulation and analysis software used across aerospace, automotive, healthcare, and other industries to accelerate product development.",
+  "products": [
+    {
+      "name": "EDA Suite",
+      "type": "software",
+      "description": "Tools for IC design steps including RTL design, synthesis, verification, place and route, and physical verification."
+    },
+    {
+      "name": "Ansys Simulation and Analysis Software",
+      "type": "software",
+      "description": "Engineering simulation and analysis tools used across industries for product design, testing, validation and deployment."
+    },
+    {
+      "name": "Logic Libraries",
+      "type": "hardware",
+      "description": "Pre-designed silicon-proven logic library IP components for chip designs."
+    },
+    {
+      "name": "Embedded Memories IP",
+      "type": "hardware",
+      "description": "Pre-designed embedded memory circuits used as components in larger chip designs."
+    },
+    {
+      "name": "Wired Interface IP",
+      "type": "hardware",
+      "description": "Silicon-proven wired interface intellectual property for chip integration."
+    },
+    {
+      "name": "Memory Interface IP",
+      "type": "hardware",
+      "description": "Pre-designed memory interface circuits to reduce development risk and speed time to market."
+    },
+    {
+      "name": "Security IP",
+      "type": "hardware",
+      "description": "Pre-designed security intellectual property components for semiconductor chip designs."
+    },
+    {
+      "name": "Embedded Processors IP",
+      "type": "hardware",
+      "description": "Pre-designed embedded processor IP solutions for SoC chip designs."
+    },
+    {
+      "name": "Cloud-Based Digital and Analog Design Flow",
+      "type": "platform",
+      "description": "Cloud-based EDA platform to boost chip-design development productivity."
+    },
+    {
+      "name": "IP Accelerated Initiative",
+      "type": "service",
+      "description": "Architecture design expertise, customized IP subsystems, hardening, and signal and power integrity analysis services."
+    },
+    {
+      "name": "Technical Services and Support",
+      "type": "service",
+      "description": "Global expert technical support and design assistance for customers developing advanced chips and electronic systems."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/SNPS/profile",
+  "origin": {
+    "leaf": "3d074e384513da75ab9511f3bcb3f5d5f57b1817f260fdef42c3eb901fc8b46c",
+    "parent": "a1a7b085bf31e57cd4507bfeab6a15d15e95f362af432e8d1b646600898a369b",
+    "timestamp": "2026-04-12T02:42:23.009Z",
+    "source": "profile:0000883241",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3d074e384513da75ab9511f3bcb3f5d5f57b1817f260fdef42c3eb901fc8b46c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.009Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

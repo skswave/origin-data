@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "KO",
+  "company": "COCA COLA CO",
+  "title": "KO   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 1916,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "outlook",
+      "subject": "KO",
+      "predicate": "stated",
+      "object": "we believe do not reflect the  Company's underlying liquidity",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "KO",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/KO/transcripts",
+  "origin": {
+    "leaf": "c1820ec84a2b49eaab1879a3b896105f9f991141dc3431339c78c4721c0e9fbb",
+    "parent": "81c247880b5c49b7a3fa7b3f5aa9dd15981125bb82c5290128269d3457989bac7a504189a89a41f8f4f7ef7082119d6a",
+    "timestamp": "2026-04-12T02:43:08.737Z",
+    "source": "transcript:KO_Q4+Earnings+Call+GNG.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c1820ec84a2b49eaab1879a3b896105f9f991141dc3431339c78c4721c0e9fbb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.737Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "CAH",
+  "name": "CARDINAL HEALTH INC",
+  "cik": "0000721371",
+  "summary": "Cardinal Health, Inc. is a global healthcare services and products company founded in 1979 in Ohio. It distributes branded, generic, and specialty pharmaceuticals, and manufactures and distributes medical, surgical, and laboratory products. The company serves hospitals, healthcare systems, pharmacies, ambulatory surgery centers, clinical laboratories, and physician offices. It operates through two main segments: Pharmaceutical and Specialty Solutions and Global Medical Products and Distribution, plus nuclear pharmacies, at-home medical supplies, and logistics services.",
+  "products": [
+    {
+      "name": "Pharmaceutical Distribution",
+      "type": "service",
+      "description": "Distribution of branded, generic, specialty pharmaceuticals, and OTC healthcare products in the United States."
+    },
+    {
+      "name": "Cardinal Health Brand Medical Products",
+      "type": "hardware",
+      "description": "Manufactured and sourced medical, surgical, and laboratory products sold globally."
+    },
+    {
+      "name": "Nuclear and Precision Health Solutions",
+      "type": "service",
+      "description": "Manufactures, prepares, and delivers radiopharmaceuticals for nuclear imaging, theranostics, and other procedures."
+    },
+    {
+      "name": "Xofigo",
+      "type": "service",
+      "description": "Contract-manufactured radiopharmaceutical treatment produced by Cardinal Health."
+    },
+    {
+      "name": "Lymphoseek",
+      "type": "hardware",
+      "description": "Radiopharmaceutical diagnostic imaging agent; Cardinal Health holds North American manufacturing and distribution rights."
+    },
+    {
+      "name": "at-Home Solutions (Edgepark/ADS)",
+      "type": "service",
+      "description": "Provides medical supplies directly to patients with chronic conditions in the home, including diabetes therapies."
+    },
+    {
+      "name": "OptiFreight Logistics",
+      "type": "platform",
+      "description": "Shipping and logistics optimization for healthcare providers through integrated technology solutions."
+    },
+    {
+      "name": "Navista",
+      "type": "platform",
+      "description": "Managed services organization enhancing efficiency and profitability for independent community oncologists."
+    },
+    {
+      "name": "The Specialty Alliance (GIA/Urology America)",
+      "type": "service",
+      "description": "MSO platform serving gastroenterologists and urologists across hundreds of practice locations in multiple states."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "OptumRx",
+      "partnership_type": "strategic",
+      "description": "Distribution contracts that expired during fiscal 2025, previously contributing significant Pharma segment revenue.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/CAH/profile",
+  "origin": {
+    "leaf": "793b798bd11065bcac20601fbb529b9551c3a90ea204fe0db89450672363a93b",
+    "parent": "44fef4ffee4beb6b84c61543e6263aebf53492369bea6fa7feafb6a6456f10e3",
+    "timestamp": "2026-04-12T02:42:22.983Z",
+    "source": "profile:0000721371",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/793b798bd11065bcac20601fbb529b9551c3a90ea204fe0db89450672363a93b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.983Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

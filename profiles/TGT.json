@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TGT",
+  "name": "TARGET CORP",
+  "cik": "0000027419",
+  "summary": "Target Corporation, incorporated in Minnesota in 1902, operates as a single-segment retailer offering fashionable merchandise and everyday essentials at discounted prices. Products span six core categories including general merchandise and groceries, sold through physical stores and digital channels. Approximately 30% of merchandise sales come from owned and exclusive brands. Stores fulfill over 97% of total merchandise sales and serve as fulfillment hubs for digital orders.",
+  "products": [
+    {
+      "name": "Owned Brands (e.g., Good & Gather, Cat & Jack, All in Motion)",
+      "type": "service",
+      "description": "Proprietary merchandise brands spanning food, apparel, home, and more, comprising ~30% of merchandise sales."
+    },
+    {
+      "name": "Target Circle",
+      "type": "platform",
+      "description": "Customer loyalty program offering free membership, instant discounts, and Target Circle Rewards redeemable on future purchases."
+    },
+    {
+      "name": "Target Circle Card",
+      "type": "service",
+      "description": "Debit, credit, and Mastercard offerings providing 5% discount on purchases, free shipping, and extended returns."
+    },
+    {
+      "name": "Target Circle 360",
+      "type": "service",
+      "description": "Paid membership providing unlimited same-day delivery, free shipping, and exclusive member deals."
+    },
+    {
+      "name": "Target Plus",
+      "type": "platform",
+      "description": "Third-party digital marketplace selling complementary assortment from external sellers alongside Target's own merchandise."
+    },
+    {
+      "name": "Roundel",
+      "type": "platform",
+      "description": "Advertising services platform serving vendors, third parties, and marketplace sellers."
+    },
+    {
+      "name": "Order Pickup / Drive Up / Same-Day Delivery",
+      "type": "service",
+      "description": "Suite of same-day fulfillment options fulfilled primarily from Target stores."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Apple",
+      "partnership_type": "strategic",
+      "description": "Shop-in-shop experience offering Apple products within Target stores.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Levi's",
+      "partnership_type": "strategic",
+      "description": "Shop-in-shop experience offering Levi's merchandise within Target stores.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Ulta Beauty",
+      "partnership_type": "strategic",
+      "description": "Shop-in-shop operating agreement; mutual agreement reached in 2025 to terminate when it expires in August 2026.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Starbucks",
+      "partnership_type": "strategic",
+      "description": "In-store amenity generating revenue from Starbucks locations within Target stores.",
+      "start_date": null
+    },
+    {
+      "partner_name": "CVS Pharmacy, Inc.",
+      "partnership_type": "strategic",
+      "description": "Operates pharmacies and clinics in Target stores under a perpetual operating agreement generating annual occupancy income.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Hearth & Hand with Magnolia",
+      "partnership_type": "strategic",
+      "description": "Exclusive owned brand developed in partnership with Magnolia, sold in Target stores and digital channels.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TGT/profile",
+  "origin": {
+    "leaf": "9ab8ce3056bc4ccc054ecf106c1f5d098851ae2d31d6a1fc8cda732b20f58a72",
+    "parent": "522db3246811fa6c03dcd2fa3cab192deac7ada6bd2470fbf2a38264e2f05e61",
+    "timestamp": "2026-04-12T02:42:23.003Z",
+    "source": "profile:0000027419",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9ab8ce3056bc4ccc054ecf106c1f5d098851ae2d31d6a1fc8cda732b20f58a72",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.003Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

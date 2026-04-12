@@ -1,0 +1,67 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "TXN",
+  "name": "TEXAS INSTRUMENTS INC",
+  "cik": "0000097476",
+  "summary": "Texas Instruments designs and manufactures semiconductors sold to electronics designers and manufacturers worldwide. Its two main segments are Analog (power management, signal chain products) and Embedded Processing (microcontrollers, processors, wireless connectivity, radar). With over 80,000 products, TI serves industrial, automotive, data center, personal electronics, and communications equipment markets. In 2025, TI generated $17.68 billion in revenue, with Analog accounting for 79% and Embedded Processing 15%.",
+  "products": [
+    {
+      "name": "Power Products",
+      "type": "hardware",
+      "description": "Battery-management solutions, DC/DC switching regulators, AC/DC regulators, power switches, linear regulators, voltage references for power management."
+    },
+    {
+      "name": "Signal Chain Products",
+      "type": "hardware",
+      "description": "Amplifiers, data converters, interface products, motor drives, clocks, logic and sensing products for real-world signal processing."
+    },
+    {
+      "name": "Microcontrollers",
+      "type": "hardware",
+      "description": "Self-contained systems with processor core, memory and peripherals designed to control specific tasks, often with integrated analog functionality."
+    },
+    {
+      "name": "Processors",
+      "type": "hardware",
+      "description": "Embedded processors designed for specific computing activity in embedded applications, including radar and vision processing."
+    },
+    {
+      "name": "Wireless Connectivity Products",
+      "type": "hardware",
+      "description": "Wireless connectivity semiconductors used primarily in industrial and automotive embedded processing applications."
+    },
+    {
+      "name": "DLP Products",
+      "type": "hardware",
+      "description": "Digital light processing products primarily used to project high-definition images, reported under the Other segment."
+    },
+    {
+      "name": "Calculators",
+      "type": "hardware",
+      "description": "Calculator products representing approximately 1% of TI revenue, reported under the Other segment."
+    },
+    {
+      "name": "ASICs",
+      "type": "hardware",
+      "description": "Application-specific integrated circuits, custom semiconductors reported under the Other segment."
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/TXN/profile",
+  "origin": {
+    "leaf": "45cc60f9dfc15353c16b5b93eff8a79b35e349b998ea29852792b78eefec8b3c",
+    "parent": "e44bb71022995f9f8a76344d09f51fedc60767f893fe1c56082eb218cd5dcc5c",
+    "timestamp": "2026-04-12T02:42:23.006Z",
+    "source": "profile:0000097476",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/45cc60f9dfc15353c16b5b93eff8a79b35e349b998ea29852792b78eefec8b3c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:23.006Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

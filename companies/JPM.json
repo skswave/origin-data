@@ -1,0 +1,55 @@
+{
+  "schema": "rootz.ai/sec-company/v1",
+  "ticker": "JPM",
+  "name": "JPMORGAN CHASE & CO",
+  "cik": "0000019617",
+  "exchange": "NYSE",
+  "sic": "6021",
+  "sic_description": "National Commercial Banks",
+  "state_of_incorporation": "DE",
+  "headquarters": null,
+  "founded": "1968",
+  "ipo_date": null,
+  "status": "active",
+  "fiscal_year_end": "1231",
+  "summary": "JPMorgan Chase & Co. is a leading U.S.-based financial services firm with $4.4 trillion in assets and $362.4 billion in stockholders equity as of December 31, 2025. Operating under J.P. Morgan and Chase brands, it provides investment banking, consumer and small business financial services, commercial banking, financial transaction processing, and asset management to millions of customers and prominent corporate, institutional, and government clients globally.",
+  "tags": [
+    "consumer-banking",
+    "small-business-banking",
+    "commercial-banking",
+    "investment-banking",
+    "asset-management",
+    "wealth-management",
+    "financial-transaction-processing",
+    "u.s.-retail-banking",
+    "global-institutional-and-corporate-banking",
+    "basel-iii-capital-framework"
+  ],
+  "peak_metrics": {
+    "market_cap_usd": null,
+    "market_cap_date": null,
+    "employees": null,
+    "employees_date": null,
+    "rd_spend_usd": null,
+    "rd_spend_year": null
+  },
+  "last_filing_date": null,
+  "live_api": "https://origin.rootz.global/api/company/JPM",
+  "origin": {
+    "leaf": "d69ce70140d9f290816bd219fce7d15f603e3c79483e4da3a05e1e2f48ada420",
+    "parent": "8088692800049fa4e15a71953345db3e59bfbaa1a9355f5263c360ec3d7fe15c",
+    "timestamp": "2026-04-12T02:42:22.955Z",
+    "source": "0001628280-26-008131",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d69ce70140d9f290816bd219fce7d15f603e3c79483e4da3a05e1e2f48ada420",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.955Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

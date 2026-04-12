@@ -1,0 +1,97 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "T",
+  "name": "AT&T INC.",
+  "cik": "0000732717",
+  "summary": "AT&T Inc. is a leading global telecommunications and technology services holding company. It provides wireless services (4G LTE and 5G), fiber broadband, fixed wireless access (AT&T Internet Air), and wireline telecom to consumers and businesses. Key offerings include Mobility (postpaid, prepaid, reseller), Consumer Wireline (AT&T Fiber), Business Wireline (ethernet, IP Voice, managed services), and wireless services in Mexico under the Latin America segment. AT&T also operates FirstNet, a broadband network dedicated to public safety.",
+  "products": [
+    {
+      "name": "AT&T 5G Wireless Service",
+      "type": "service",
+      "description": "Nationwide 5G wireless voice and data service covering over 322 million people in the U.S."
+    },
+    {
+      "name": "AT&T Fiber",
+      "type": "service",
+      "description": "Fiber-based broadband service offering multi-gig speeds to residential customers; 10.4 million customers as of Dec 31, 2025."
+    },
+    {
+      "name": "AT&T Internet Air (AIA)",
+      "type": "service",
+      "description": "Fixed wireless access internet service delivered over the 5G wireless network; 1.5 million connections as of Dec 31, 2025."
+    },
+    {
+      "name": "FirstNet",
+      "type": "service",
+      "description": "Nationwide wireless broadband network dedicated to public safety customers."
+    },
+    {
+      "name": "Cricket Wireless",
+      "type": "service",
+      "description": "Prepaid wireless service brand offering monthly prepaid voice and data plans."
+    },
+    {
+      "name": "AT&T PREPAID",
+      "type": "service",
+      "description": "Prepaid wireless voice and data service brand offered by AT&T Mobility."
+    },
+    {
+      "name": "Business Wireline Services",
+      "type": "service",
+      "description": "Advanced ethernet-based fiber, fixed wireless, IP Voice, and managed professional services for business customers."
+    },
+    {
+      "name": "AT&T Mexico Wireless",
+      "type": "service",
+      "description": "Wireless service and equipment provided in Mexico under the Latin America segment."
+    },
+    {
+      "name": "Wireless Handsets and Devices",
+      "type": "hardware",
+      "description": "Handsets, wireless data cards, computing devices, and accessories sold via stores, agents, and online."
+    },
+    {
+      "name": "Software Defined Network (SDN)/NFV Platform",
+      "type": "platform",
+      "description": "Virtualized, software-based network infrastructure supporting 5G and broadband next-generation applications."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "TPG Capital",
+      "partnership_type": "strategic",
+      "description": "Formed DIRECTV Entertainment Holdings, LLC joint venture in July 2021; AT&T sold remaining interest to TPG in July 2025.",
+      "start_date": null
+    },
+    {
+      "partner_name": "EchoStar Corporation",
+      "partnership_type": "strategic",
+      "description": "Pending spectrum acquisition transaction to expand wireless network capacity for fixed wireless and 5G services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Lumen Technologies",
+      "partnership_type": "strategic",
+      "description": "Pending acquisition of substantially all of Lumen's Mass Markets fiber business to accelerate fiber expansion.",
+      "start_date": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/T/profile",
+  "origin": {
+    "leaf": "8d53d6eee144013a7f98f57db875f96b6c65ccffd79e725feff56868a12f0517",
+    "parent": "0b8bc443823266ab0fb4bca377acafdd03fd1a960c113de67db0ef630af6881b",
+    "timestamp": "2026-04-12T02:42:22.986Z",
+    "source": "profile:0000732717",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8d53d6eee144013a7f98f57db875f96b6c65ccffd79e725feff56868a12f0517",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.986Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

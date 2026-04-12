@@ -1,0 +1,171 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AAPL",
+  "company": "Apple Inc.",
+  "title": "AAPL Q1 FY2026 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2026",
+  "call_date": null,
+  "word_count": 9989,
+  "speakers": [
+    {
+      "name": "PART I",
+      "title": "FINANCIAL INFORMATION  Item 1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 14
+    },
+    {
+      "name": "PART II",
+      "title": "OTHER INFORMATION  Item 1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 6
+    },
+    {
+      "name": "Income Statement",
+      "title": "Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses   (“ASU 2024-03”) and in January 2025, the FASB issued ASU No",
+      "firm": "the FASB issued ASU No",
+      "speaker_type": "other",
+      "mention_count": 4
+    },
+    {
+      "name": "Intangibles",
+      "title": "Goodwill   and   Other—Internal-Use   Software   (Subtopic   350-40):   Targeted   Improvements   to   the Accounting for Internal-Use Software   (“ASU 2025-06”), which modernizes the accounting for internal-use software",
+      "firm": "which modernizes the accounting for internal-use software",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 19,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAPL total revenue",
+      "predicate": "reported",
+      "object": "$14.3 billion",
+      "value": 14.3,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "AAPL",
+      "predicate": "mentioned",
+      "object": "Apple",
+      "value": 45,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAPL",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cloud"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AAPL/transcripts",
+  "origin": {
+    "leaf": "dfed689992166ed7c095bd2556d295e6763f76acd6f05f948ab52e1a5aa38a70",
+    "parent": "f11e4d910c505bab37a6e8023388b7a61a67179cfd15a2cb50fa21b1f593ad84941b9ac630715fbd25fe4ea2d52dd740",
+    "timestamp": "2026-04-12T02:43:08.420Z",
+    "source": "transcript:AAPL_10Q-Q1-2026-as-filed.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/dfed689992166ed7c095bd2556d295e6763f76acd6f05f948ab52e1a5aa38a70",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.421Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

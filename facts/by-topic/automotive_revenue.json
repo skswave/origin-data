@@ -1,0 +1,35 @@
+{
+  "schema": "rootz.ai/topic-facts/v1",
+  "topic": "automotive_revenue",
+  "label": "Automotive Revenue",
+  "companies": 1,
+  "total_mentions": 2,
+  "results": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA CORP",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/search/transcripts?topic=automotive_revenue",
+  "origin": {
+    "leaf": "db688e48a13da854a937ad6fd3d1cbe590d46f0de0f1ae71f95fa0b42d7efab6",
+    "parent": "10dece3a3199ecbf9bb08abe1757f2a9c5fc4dc42f79404a7056408149a723d8",
+    "timestamp": "2026-04-12T02:43:09.021Z",
+    "source": "topic:automotive_revenue",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/db688e48a13da854a937ad6fd3d1cbe590d46f0de0f1ae71f95fa0b42d7efab6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:09.021Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "PEP",
+  "name": "PEPSICO INC",
+  "cik": "0000077476",
+  "summary": "PepsiCo Inc. is a global food and beverage company that manufactures, markets, distributes, and sells a wide range of beverages, foods, and snacks. The company operates through multiple segments offering products including carbonated soft drinks, juices, sports drinks, water, chips, and other snack foods. PepsiCo operates globally with a diverse portfolio of brands sold across retail, foodservice, and other channels worldwide.",
+  "live_api": "https://origin.rootz.global/api/company/PEP/profile",
+  "origin": {
+    "leaf": "0e7fd42ce831ab6edb917c0b89461b8925acc7fe0f9621b7425f90fe766837a7",
+    "parent": "09356abba3f371577f68a5bb06701aeb047656c7b52819fd6a70c1c84638d8c7",
+    "timestamp": "2026-04-12T02:42:22.996Z",
+    "source": "profile:0000077476",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0e7fd42ce831ab6edb917c0b89461b8925acc7fe0f9621b7425f90fe766837a7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:42:22.996Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

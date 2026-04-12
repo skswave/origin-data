@@ -1,0 +1,112 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "DHR",
+  "company": "DANAHER CORP /DE/",
+  "title": "DHR Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 1119,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "DHR",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "DHR gross margin",
+      "predicate": "reported",
+      "object": "$28.3 percent",
+      "value": 28.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "DHR EPS",
+      "predicate": "reported",
+      "object": "$2.23",
+      "value": 2.23,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DHR",
+      "predicate": "stated",
+      "object": "we believe or anticipate will or may occur in the future are \"forward-looking\" statements within the meaning of the federal securities laws",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DHR",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DHR",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DHR",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DHR",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/DHR/transcripts",
+  "origin": {
+    "leaf": "d87bf897e9cf5d6194d066dfdb0adc84e1e2b4be3f0a3a3cc70684131074ecd3",
+    "parent": "150bb6198f1dd86ec7c77fe335aceba01f81ca1a5904778a407cefdc37950b4644d2014f3b1c0ec512cd954490c498d9",
+    "timestamp": "2026-04-12T02:43:08.518Z",
+    "source": "transcript:DHR_Q4+2025+Earnings+Supplement.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d87bf897e9cf5d6194d066dfdb0adc84e1e2b4be3f0a3a3cc70684131074ecd3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.518Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

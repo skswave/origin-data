@@ -1,0 +1,142 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CVS",
+  "company": "CVS HEALTH Corp",
+  "title": "CVS Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 9176,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CVS",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 76,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CVS",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 74,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CVS",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CVS",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CVS EPS",
+      "predicate": "reported",
+      "object": "$2.30",
+      "value": 2.3,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CVS EPS",
+      "predicate": "reported",
+      "object": "$1.09",
+      "value": 1.09,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CVS EPS",
+      "predicate": "reported",
+      "object": "$1.39",
+      "value": 1.39,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CVS EPS",
+      "predicate": "reported",
+      "object": "$6.75",
+      "value": 6.75,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CVS",
+      "predicate": "guided",
+      "object": "guidance   to   at   least   $9.0   billion",
+      "value": 9,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CVS",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CVS",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CVS/transcripts",
+  "origin": {
+    "leaf": "ee4c3f94cff955df04f4db1300bedb1ff01063518dfc97fd8d1eb0528938d2ea",
+    "parent": "16559e43bcc96d318db877ab5f4c33d10c1f215ce41973a0ad90c12c533a1d6c0ef48bb4143f6658e9335995a1cd8b53",
+    "timestamp": "2026-04-12T02:43:08.497Z",
+    "source": "transcript:CVS_Q4-2025-Earnings-Release.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ee4c3f94cff955df04f4db1300bedb1ff01063518dfc97fd8d1eb0528938d2ea",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-12T02:43:08.497Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}
