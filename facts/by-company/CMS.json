@@ -1,10 +1,10 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "CMS",
-  "total_facts": 8,
+  "total_facts": 7,
   "by_type": {
     "metric": 1,
-    "topic_mention": 7
+    "topic_mention": 6
   },
   "facts": [
     {
@@ -90,33 +90,21 @@
       "topic": "automotive",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "CMS",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/CMS/transcripts",
   "origin": {
-    "leaf": "66ba65923f8059b6533b51ad533d78971f1728053e417df10e43ecb29bb8c9e4",
+    "leaf": "38bf25beae0a166577f5f44f0e62fa01c51798563b793a2a553719ccb4a2981c",
     "parent": "8e5e6e152dfc739b97ba7f479318e114eb853d37353709fb0cf7d50c4b35b738",
-    "timestamp": "2026-04-12T03:13:14.325Z",
+    "timestamp": "2026-04-13T06:15:14.077Z",
     "source": "facts:CMS",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/66ba65923f8059b6533b51ad533d78971f1728053e417df10e43ecb29bb8c9e4",
+    "verify": "https://origin.rootz.global/api/verify/38bf25beae0a166577f5f44f0e62fa01c51798563b793a2a553719ccb4a2981c",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:14.325Z",
+    "exported_at": "2026-04-13T06:15:14.077Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -3,10 +3,10 @@
   "ticker": "F",
   "total_facts": 200,
   "by_type": {
-    "topic_mention": 88,
+    "topic_mention": 82,
     "metric": 67,
-    "guidance": 9,
-    "outlook": 36
+    "guidance": 13,
+    "outlook": 38
   },
   "facts": [
     {
@@ -680,78 +680,6 @@
       "topic": "platform",
       "fiscal_quarter": "Q1",
       "fiscal_year": "FY2018"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "F",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 33,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "F",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 27,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "F",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 33,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "F",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 27,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "F",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 33,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "F",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 27,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     },
     {
       "fact_type": "topic_mention",
@@ -2408,21 +2336,93 @@
       "topic": "guidance",
       "fiscal_quarter": "Q1",
       "fiscal_year": "FY2023"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe   to be reliable but is not guaranteed by us and does not purport to be a complete or error   - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2023"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expect to earn between $11.5 billion",
+      "value": 11.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2022"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expect commodity headwinds of about $4 billion",
+      "value": 4,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2022"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "expected to be $1.5 billion",
+      "value": 1.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2022"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "F",
+      "predicate": "guided",
+      "object": "guidance, it's $11.5 billion",
+      "value": 11.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2022"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "F",
+      "predicate": "stated",
+      "object": "we believe will not only be competitive but superior to a solely direct model",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2022"
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/F/transcripts",
   "origin": {
-    "leaf": "573c561eb035bb310b22643eab408d78d830c1c6953dd0fdaeb07ef87f37ac59",
+    "leaf": "4ed09bc094602747e1c2fa58800864164aeb1e29fe57211e421756e8b0f666aa",
     "parent": "dfda80b9dc73812bd05f0d9f5bd3022fe0d9bfc61e60b66e3955c57edfd54d18",
-    "timestamp": "2026-04-12T02:43:09.668Z",
+    "timestamp": "2026-04-13T06:15:12.769Z",
     "source": "facts:F",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/573c561eb035bb310b22643eab408d78d830c1c6953dd0fdaeb07ef87f37ac59",
+    "verify": "https://origin.rootz.global/api/verify/4ed09bc094602747e1c2fa58800864164aeb1e29fe57211e421756e8b0f666aa",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.668Z",
+    "exported_at": "2026-04-13T06:15:12.770Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

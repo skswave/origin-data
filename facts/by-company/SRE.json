@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "SRE",
-  "total_facts": 23,
+  "total_facts": 21,
   "by_type": {
-    "topic_mention": 16,
+    "topic_mention": 14,
     "metric": 7
   },
   "facts": [
@@ -258,45 +258,21 @@
       "topic": "blockchain",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "SRE",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "SRE",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/SRE/transcripts",
   "origin": {
-    "leaf": "56262d1e5fff222035f29490a1b889e7d686fcc4133bf1458f717b5e4e67770b",
+    "leaf": "ce8a0096b607053679db251217bc2a1d1e97145ff4713b64bfa177aaaf67e3a7",
     "parent": "60271b43badc89e70b4a4cc6f348cf40d1300b1ba7c3dc353611e7471115a0d5",
-    "timestamp": "2026-04-12T03:13:07.805Z",
+    "timestamp": "2026-04-13T06:15:13.409Z",
     "source": "facts:SRE",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/56262d1e5fff222035f29490a1b889e7d686fcc4133bf1458f717b5e4e67770b",
+    "verify": "https://origin.rootz.global/api/verify/ce8a0096b607053679db251217bc2a1d1e97145ff4713b64bfa177aaaf67e3a7",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:07.805Z",
+    "exported_at": "2026-04-13T06:15:13.409Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

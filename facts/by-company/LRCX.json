@@ -3,8 +3,8 @@
   "ticker": "LRCX",
   "total_facts": 200,
   "by_type": {
-    "topic_mention": 16,
-    "metric": 184
+    "topic_mention": 13,
+    "metric": 187
   },
   "facts": [
     {
@@ -30,42 +30,6 @@
       "topic": "semiconductor",
       "fiscal_quarter": "Q3",
       "fiscal_year": "FY2021"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LRCX",
-      "predicate": "discussed_in_filing",
-      "object": "Semiconductor",
-      "value": 39,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "semiconductor",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LRCX",
-      "predicate": "discussed_in_filing",
-      "object": "Semiconductor",
-      "value": 39,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "semiconductor",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LRCX",
-      "predicate": "discussed_in_filing",
-      "object": "Semiconductor",
-      "value": 39,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "semiconductor",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     },
     {
       "fact_type": "topic_mention",
@@ -2406,21 +2370,57 @@
       "topic": "gross_margin",
       "fiscal_quarter": "Q4",
       "fiscal_year": "FY2025"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX EPS",
+      "predicate": "reported",
+      "object": "$1.35",
+      "value": 1.35,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps",
+      "fiscal_quarter": "Q4",
+      "fiscal_year": "FY2025"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX EPS",
+      "predicate": "reported",
+      "object": "$1.33",
+      "value": 1.33,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps",
+      "fiscal_quarter": "Q4",
+      "fiscal_year": "FY2025"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "LRCX total revenue",
+      "predicate": "reported",
+      "object": "$3.87 billion",
+      "value": 3.87,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue",
+      "fiscal_quarter": "Q4",
+      "fiscal_year": "FY2024"
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/LRCX/transcripts",
   "origin": {
-    "leaf": "36d3c29996924c646a2bcb4d4e04c88c0a0fc77085610b2e43d04dea0ba2391f",
+    "leaf": "b327796a70694f4d3acdcb9d1becc479483d7058c8cd965d665dcf9c88186487",
     "parent": "a2ce73d618cb5f7358ac5b6c8720eb090ae33b1d1984f18a77e9b3755393d365",
-    "timestamp": "2026-04-12T02:43:10.643Z",
+    "timestamp": "2026-04-13T06:15:12.860Z",
     "source": "facts:LRCX",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/36d3c29996924c646a2bcb4d4e04c88c0a0fc77085610b2e43d04dea0ba2391f",
+    "verify": "https://origin.rootz.global/api/verify/b327796a70694f4d3acdcb9d1becc479483d7058c8cd965d665dcf9c88186487",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:10.643Z",
+    "exported_at": "2026-04-13T06:15:12.860Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

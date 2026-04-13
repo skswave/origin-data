@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "BX",
-  "total_facts": 41,
+  "total_facts": 38,
   "by_type": {
-    "topic_mention": 23,
+    "topic_mention": 20,
     "guidance": 2,
     "outlook": 16
   },
@@ -383,42 +383,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "BX",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BX",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BX",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BX",
       "predicate": "discussed",
       "object": "Blockchain & Crypto",
       "value": 1,
@@ -503,17 +467,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/company/BX/transcripts",
   "origin": {
-    "leaf": "bfe5b889091f400bae32467b20a9b39c9ea8d1d4c41c212a01df87188580018d",
+    "leaf": "12803d83afd54ac8d7e70dd42d42fb92f198288d8e347c62122419c01d522e12",
     "parent": "7840e9d5f62a0d4ac93080ed7d9d5b176681f68a7a05f3222077d8b38093b00d",
-    "timestamp": "2026-04-12T03:13:04.260Z",
+    "timestamp": "2026-04-13T06:15:12.995Z",
     "source": "facts:BX",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/bfe5b889091f400bae32467b20a9b39c9ea8d1d4c41c212a01df87188580018d",
+    "verify": "https://origin.rootz.global/api/verify/12803d83afd54ac8d7e70dd42d42fb92f198288d8e347c62122419c01d522e12",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:04.260Z",
+    "exported_at": "2026-04-13T06:15:12.995Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

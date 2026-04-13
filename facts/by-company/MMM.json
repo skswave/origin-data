@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "MMM",
-  "total_facts": 95,
+  "total_facts": 83,
   "by_type": {
-    "topic_mention": 47,
+    "topic_mention": 35,
     "metric": 23,
     "guidance": 5,
     "outlook": 20
@@ -68,42 +68,6 @@
       "topic": "regulation",
       "fiscal_quarter": "Q4",
       "fiscal_year": "FY2025"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MMM",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 13,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MMM",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 13,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MMM",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 13,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     },
     {
       "fact_type": "topic_mention",
@@ -392,42 +356,6 @@
       "topic": "eps",
       "fiscal_quarter": "Q4",
       "fiscal_year": "FY2025"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MMM",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 10,
-      "unit": "mentions",
-      "confidence": 0.8999999999999999,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MMM",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 10,
-      "unit": "mentions",
-      "confidence": 0.8999999999999999,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MMM",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 10,
-      "unit": "mentions",
-      "confidence": 0.8999999999999999,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     },
     {
       "fact_type": "topic_mention",
@@ -876,42 +804,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "MMM",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MMM",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MMM",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MMM",
       "predicate": "discussed",
       "object": "Data Center",
       "value": 1,
@@ -1112,57 +1004,21 @@
       "topic": "platform",
       "fiscal_quarter": "Q4",
       "fiscal_year": "FY2025"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MMM",
-      "predicate": "discussed_in_filing",
-      "object": "Semiconductor",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "semiconductor",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MMM",
-      "predicate": "discussed_in_filing",
-      "object": "Semiconductor",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "semiconductor",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MMM",
-      "predicate": "discussed_in_filing",
-      "object": "Semiconductor",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "semiconductor",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/MMM/transcripts",
   "origin": {
-    "leaf": "d651c9e795ede7d1198ed47b2c9b2d314195a647a0d9480f2777476641b318c2",
+    "leaf": "40c15c9d6e71067139d0f0fa142a8362a13abb4a8d746b79912b9697a4edb778",
     "parent": "e3bbb8c1075d2ec34d4f655d2644954ee5060d2972aadef7f78991be934d114f",
-    "timestamp": "2026-04-12T02:43:11.440Z",
+    "timestamp": "2026-04-13T06:15:13.283Z",
     "source": "facts:MMM",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/d651c9e795ede7d1198ed47b2c9b2d314195a647a0d9480f2777476641b318c2",
+    "verify": "https://origin.rootz.global/api/verify/40c15c9d6e71067139d0f0fa142a8362a13abb4a8d746b79912b9697a4edb778",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:11.440Z",
+    "exported_at": "2026-04-13T06:15:13.283Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

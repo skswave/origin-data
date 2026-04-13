@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "MSTR",
+  "name": "Strategy Inc",
+  "cik": "0001050446",
+  "summary": ", Item 1A. Risk Factors, and Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations and located elsewhere herein concerning our plans, objectives, goals, beliefs, business strategies, future events, business conditions, results of operations, financial position, business outlook, business trends and other information, may be forward-looking statements. Without limiting the foregoing, words such as might, will, may, should, estimates, expects, continues, cont...",
+  "live_api": "https://origin.rootz.global/api/company/MSTR/profile",
+  "origin": {
+    "leaf": "db33b0b4288c836249e559530d8d4398a37e6ec54b2f7ac3177432a4dee0f014",
+    "parent": "018111a5e2e26374de29db7237e26b21cb6940cd159320c1be1e58f32bf0f6e4",
+    "timestamp": "2026-04-13T06:15:05.922Z",
+    "source": "profile:0001050446",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/db33b0b4288c836249e559530d8d4398a37e6ec54b2f7ac3177432a4dee0f014",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-13T06:15:05.922Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

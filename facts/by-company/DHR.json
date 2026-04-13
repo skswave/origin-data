@@ -3,10 +3,10 @@
   "ticker": "DHR",
   "total_facts": 200,
   "by_type": {
-    "topic_mention": 58,
+    "topic_mention": 56,
     "metric": 22,
-    "outlook": 118,
-    "guidance": 2
+    "outlook": 119,
+    "guidance": 3
   },
   "facts": [
     {
@@ -440,42 +440,6 @@
       "topic": "regulation",
       "fiscal_quarter": "Q4",
       "fiscal_year": "FY2025"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "DHR",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 48,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "DHR",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 48,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "DHR",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 48,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     },
     {
       "fact_type": "topic_mention",
@@ -2408,21 +2372,57 @@
       "topic": "guidance",
       "fiscal_quarter": "Q3",
       "fiscal_year": "FY2024"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "DHR",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "regulation",
+      "fiscal_quarter": "Q3",
+      "fiscal_year": "FY2024"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "DHR",
+      "predicate": "guided",
+      "object": "forecasted core sales growth, adjusted operating profit margin and adjusted diluted net earnings per common share to their respective, comparable GAAP measures (except for estimated amortization of ac",
+      "value": 1.7,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": "Q3",
+      "fiscal_year": "FY2025"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DHR",
+      "predicate": "stated",
+      "object": "we believe or anticipate will or may occur in the future are \"forward- looking\" statements within the meaning of the federal securities laws",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": "Q3",
+      "fiscal_year": "FY2025"
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/DHR/transcripts",
   "origin": {
-    "leaf": "54753c7722f70b3c844a59b057e51244b9bfb782befd57fa09fa35e2ae4dcc15",
+    "leaf": "f38537ccacd06b863509f5803395a18b2d24ab3dc9826732166dd21d52f283ea",
     "parent": "c20e8e272f0accdf1efbd19baa6bd11510f7dedd17f5debfda6eed773ac8b495",
-    "timestamp": "2026-04-12T02:43:11.053Z",
+    "timestamp": "2026-04-13T06:15:13.017Z",
     "source": "facts:DHR",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/54753c7722f70b3c844a59b057e51244b9bfb782befd57fa09fa35e2ae4dcc15",
+    "verify": "https://origin.rootz.global/api/verify/f38537ccacd06b863509f5803395a18b2d24ab3dc9826732166dd21d52f283ea",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:11.053Z",
+    "exported_at": "2026-04-13T06:15:13.017Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

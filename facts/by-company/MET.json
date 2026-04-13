@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "MET",
-  "total_facts": 31,
+  "total_facts": 25,
   "by_type": {
-    "topic_mention": 21,
+    "topic_mention": 15,
     "guidance": 6,
     "outlook": 4
   },
@@ -287,42 +287,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "MET",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MET",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MET",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MET",
       "predicate": "discussed",
       "object": "Sovereign & Government",
       "value": 1,
@@ -343,57 +307,21 @@
       "topic": "regulation",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MET",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MET",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MET",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/MET/transcripts",
   "origin": {
-    "leaf": "abd95d17967dd60661d5b9886b06bb5ca433f5a400e790de48d42ef2f13f95ff",
+    "leaf": "02549b1c0aabb5e44b912b06a200663129973d90c07d72f34c52387e706ec380",
     "parent": "2dd8ce3887e79923bd902c9cc0455e9cddb4cf3ad98d286493838897157ba153",
-    "timestamp": "2026-04-12T02:43:10.322Z",
+    "timestamp": "2026-04-13T06:15:13.569Z",
     "source": "facts:MET",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/abd95d17967dd60661d5b9886b06bb5ca433f5a400e790de48d42ef2f13f95ff",
+    "verify": "https://origin.rootz.global/api/verify/02549b1c0aabb5e44b912b06a200663129973d90c07d72f34c52387e706ec380",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:10.323Z",
+    "exported_at": "2026-04-13T06:15:13.569Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "ALGM",
-  "total_facts": 6,
+  "total_facts": 3,
   "by_type": {
-    "topic_mention": 6
+    "topic_mention": 3
   },
   "facts": [
     {
@@ -41,57 +41,21 @@
       "topic": "data_center",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ALGM",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ALGM",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ALGM",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/ALGM/transcripts",
   "origin": {
-    "leaf": "b638b9dd223eaaf38f00054b900734ec30eb3560d0eb5575cc54c09c18366993",
+    "leaf": "19ecf5d40b7e5ebb188e6f8eb3b06e387ddcd60843fe1392d8d8141cdb302444",
     "parent": "fbaf1bbdbc1c952f059c2cdcc650a99b2856452dc57fe8f7cf802f3e87c97872",
-    "timestamp": "2026-04-12T03:13:30.804Z",
+    "timestamp": "2026-04-13T06:15:15.772Z",
     "source": "facts:ALGM",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/b638b9dd223eaaf38f00054b900734ec30eb3560d0eb5575cc54c09c18366993",
+    "verify": "https://origin.rootz.global/api/verify/19ecf5d40b7e5ebb188e6f8eb3b06e387ddcd60843fe1392d8d8141cdb302444",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:30.804Z",
+    "exported_at": "2026-04-13T06:15:15.772Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

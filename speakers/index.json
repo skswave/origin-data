@@ -1,6 +1,6 @@
 {
   "schema": "rootz.ai/speaker-index/v1",
-  "total_speakers": 71,
+  "total_speakers": 72,
   "note": "Speakers who appear across multiple companies (analysts, advisors)",
   "speakers": [
     {
@@ -460,6 +460,17 @@
       ]
     },
     {
+      "name": "Operating Expenses",
+      "firm": "except percentages  Note: Figures may not recalculate exactly due to rounding",
+      "type": "other",
+      "companies": 2,
+      "appearances": 4,
+      "tickers": [
+        "V",
+        "AMAT"
+      ]
+    },
+    {
       "name": "Timothy E. Chiodo",
       "firm": "UBS S ecurities",
       "type": "analyst",
@@ -814,17 +825,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/speakers",
   "origin": {
-    "leaf": "26b04b8c4fa0c48b7f41b4e62d321fedf341e25243f872c3e12da2c470de811b",
+    "leaf": "24a8728071818389756fd98b0f9e24548e7ecdc30d48fc7c39309c5fcbbbdc68",
     "parent": "3d0600d9c22fae459f15aee534edd14ca7d8df9b74bd29231eae3f8eeb1f17e8",
-    "timestamp": "2026-04-12T03:16:04.349Z",
+    "timestamp": "2026-04-13T06:15:31.689Z",
     "source": "speaker-index",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/26b04b8c4fa0c48b7f41b4e62d321fedf341e25243f872c3e12da2c470de811b",
+    "verify": "https://origin.rootz.global/api/verify/24a8728071818389756fd98b0f9e24548e7ecdc30d48fc7c39309c5fcbbbdc68",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:16:04.349Z",
+    "exported_at": "2026-04-13T06:15:31.689Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

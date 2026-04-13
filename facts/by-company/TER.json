@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "TER",
-  "total_facts": 59,
+  "total_facts": 56,
   "by_type": {
-    "topic_mention": 30,
+    "topic_mention": 27,
     "metric": 7,
     "outlook": 22
   },
@@ -679,57 +679,21 @@
       "topic": "automotive",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "TER",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "TER",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "TER",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/TER/transcripts",
   "origin": {
-    "leaf": "29d82678153f017cf9f314b22c674e47cbaf616b0d9fba1a2801eed0586960cf",
+    "leaf": "2beb03e980b462b7e0ebb65358201fc8bd37463c95d21e7ccd1bd2bf18dbc365",
     "parent": "1c3da346feb8269f258e679016ce1f2856133acb99b5949bbe598f723826e874",
-    "timestamp": "2026-04-12T03:13:09.414Z",
+    "timestamp": "2026-04-13T06:15:13.574Z",
     "source": "facts:TER",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/29d82678153f017cf9f314b22c674e47cbaf616b0d9fba1a2801eed0586960cf",
+    "verify": "https://origin.rootz.global/api/verify/2beb03e980b462b7e0ebb65358201fc8bd37463c95d21e7ccd1bd2bf18dbc365",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:09.414Z",
+    "exported_at": "2026-04-13T06:15:13.574Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

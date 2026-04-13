@@ -1,47 +1,11 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "T",
-  "total_facts": 10,
+  "total_facts": 1,
   "by_type": {
-    "topic_mention": 10
+    "topic_mention": 1
   },
   "facts": [
-    {
-      "fact_type": "topic_mention",
-      "subject": "T",
-      "predicate": "discussed_in_filing",
-      "object": "Networking",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "networking",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "T",
-      "predicate": "discussed_in_filing",
-      "object": "Networking",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "networking",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "T",
-      "predicate": "discussed_in_filing",
-      "object": "Networking",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "networking",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
     {
       "fact_type": "topic_mention",
       "subject": "T",
@@ -53,93 +17,21 @@
       "topic": "ai",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "T",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "T",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "T",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "T",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "T",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "T",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/T/transcripts",
   "origin": {
-    "leaf": "251ab1d74d00d8494b181759943cc6ba3c0327888470eac88a71b8740441f09f",
+    "leaf": "269a0e85aefa744ab2538636a22565dba70b2760e8a785579ecd45c384a7c3ee",
     "parent": "530e27ff5611299ca137b53af77d9fe9e3ceda3ea26b4a55f0a338ffc66ea45a",
-    "timestamp": "2026-04-12T02:43:09.714Z",
+    "timestamp": "2026-04-13T06:15:12.898Z",
     "source": "facts:T",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/251ab1d74d00d8494b181759943cc6ba3c0327888470eac88a71b8740441f09f",
+    "verify": "https://origin.rootz.global/api/verify/269a0e85aefa744ab2538636a22565dba70b2760e8a785579ecd45c384a7c3ee",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.714Z",
+    "exported_at": "2026-04-13T06:15:12.898Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

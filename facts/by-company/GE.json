@@ -1,83 +1,11 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "GE",
-  "total_facts": 8,
+  "total_facts": 2,
   "by_type": {
-    "topic_mention": 8
+    "topic_mention": 2
   },
   "facts": [
-    {
-      "fact_type": "topic_mention",
-      "subject": "GE",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 53,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "GE",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 53,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "GE",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 53,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "GE",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 6,
-      "unit": "mentions",
-      "confidence": 0.82,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "GE",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 6,
-      "unit": "mentions",
-      "confidence": 0.82,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "GE",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 6,
-      "unit": "mentions",
-      "confidence": 0.82,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
     {
       "fact_type": "topic_mention",
       "subject": "GE",
@@ -105,17 +33,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/company/GE/transcripts",
   "origin": {
-    "leaf": "fb76e3493799c2c7c5812de9eb275e4eb5ba60cba1f203d1b0c21b91be41868f",
+    "leaf": "147fafb59fb512475c76ed3b386af1020e2a28061a1258615ed50abad7886243",
     "parent": "81e1cb69964fe9a873716a8377772708ef49fb60342abf26c9c538194dc7b806",
-    "timestamp": "2026-04-12T02:43:09.780Z",
+    "timestamp": "2026-04-13T06:15:12.843Z",
     "source": "facts:GE",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/fb76e3493799c2c7c5812de9eb275e4eb5ba60cba1f203d1b0c21b91be41868f",
+    "verify": "https://origin.rootz.global/api/verify/147fafb59fb512475c76ed3b386af1020e2a28061a1258615ed50abad7886243",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.780Z",
+    "exported_at": "2026-04-13T06:15:12.843Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

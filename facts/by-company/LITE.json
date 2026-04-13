@@ -1,48 +1,12 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "LITE",
-  "total_facts": 39,
+  "total_facts": 22,
   "by_type": {
-    "topic_mention": 28,
-    "metric": 11
+    "metric": 11,
+    "topic_mention": 11
   },
   "facts": [
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 20,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 20,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 20,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
     {
       "fact_type": "metric",
       "subject": "LITE revenue",
@@ -178,54 +142,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Artificial Intelligence",
-      "value": 6,
-      "unit": "mentions",
-      "confidence": 0.82,
-      "topic": "ai",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Semiconductor",
-      "value": 6,
-      "unit": "mentions",
-      "confidence": 0.82,
-      "topic": "semiconductor",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Artificial Intelligence",
-      "value": 6,
-      "unit": "mentions",
-      "confidence": 0.82,
-      "topic": "ai",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Semiconductor",
-      "value": 6,
-      "unit": "mentions",
-      "confidence": 0.82,
-      "topic": "semiconductor",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
       "predicate": "discussed",
       "object": "Artificial Intelligence",
       "value": 3,
@@ -244,30 +160,6 @@
       "unit": "mentions",
       "confidence": 0.7899999999999999,
       "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Data Center",
-      "value": 4,
-      "unit": "mentions",
-      "confidence": 0.7799999999999999,
-      "topic": "data_center",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Data Center",
-      "value": 4,
-      "unit": "mentions",
-      "confidence": 0.7799999999999999,
-      "topic": "data_center",
       "fiscal_quarter": null,
       "fiscal_year": null
     },
@@ -316,30 +208,6 @@
       "unit": "mentions",
       "confidence": 0.76,
       "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Networking",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "networking",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Networking",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "networking",
       "fiscal_quarter": null,
       "fiscal_year": null
     },
@@ -402,93 +270,21 @@
       "topic": "supply_chain",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LITE",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/LITE/transcripts",
   "origin": {
-    "leaf": "eb88ee5889bec23c1cc792cefbd1a55dee82a6809e21c6ab91649c508498d3be",
+    "leaf": "4cfbccbfd5f48d70cf296991fa11d38f5c5784e5b0645b37b7427b6e815653ed",
     "parent": "86e366d8b3376afa85c85e76a14bb073801212f2b4f00dedd0426486a8116b97",
-    "timestamp": "2026-04-12T03:13:08.901Z",
+    "timestamp": "2026-04-13T06:15:13.519Z",
     "source": "facts:LITE",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/eb88ee5889bec23c1cc792cefbd1a55dee82a6809e21c6ab91649c508498d3be",
+    "verify": "https://origin.rootz.global/api/verify/4cfbccbfd5f48d70cf296991fa11d38f5c5784e5b0645b37b7427b6e815653ed",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:08.901Z",
+    "exported_at": "2026-04-13T06:15:13.519Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "LHX",
-  "total_facts": 79,
+  "total_facts": 64,
   "by_type": {
-    "topic_mention": 40,
+    "topic_mention": 25,
     "metric": 31,
     "outlook": 2,
     "guidance": 5,
@@ -81,42 +81,6 @@
       "topic": "sovereign",
       "fiscal_quarter": "Q4",
       "fiscal_year": "FY2025"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 59,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 59,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 59,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     },
     {
       "fact_type": "topic_mention",
@@ -527,42 +491,6 @@
       "fiscal_year": "FY2025"
     },
     {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 8,
-      "unit": "mentions",
-      "confidence": 0.86,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 8,
-      "unit": "mentions",
-      "confidence": 0.86,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 8,
-      "unit": "mentions",
-      "confidence": 0.86,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
       "fact_type": "outlook",
       "subject": "LHX",
       "predicate": "stated",
@@ -755,42 +683,6 @@
       "fiscal_year": "FY2025"
     },
     {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Autonomous Vehicles",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "autonomous",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Autonomous Vehicles",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "autonomous",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Autonomous Vehicles",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "autonomous",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
       "fact_type": "company_mention",
       "subject": "LHX",
       "predicate": "mentioned",
@@ -885,93 +777,21 @@
       "topic": "ai_compute",
       "fiscal_quarter": "Q4",
       "fiscal_year": "FY2025"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LHX",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/LHX/transcripts",
   "origin": {
-    "leaf": "86493f79626492f24fab4e2fbdb4c5144d5de6190b70aff21e64168711cca343",
+    "leaf": "85ce2ed6f537907d3f692b24da278707425bcf603e630cd9889690d583b6904a",
     "parent": "b4ec126e1d1f8db4905a650c34849377cf7f40719ab46de5ab8271279f81518f",
-    "timestamp": "2026-04-12T03:13:07.760Z",
+    "timestamp": "2026-04-13T06:15:13.404Z",
     "source": "facts:LHX",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/86493f79626492f24fab4e2fbdb4c5144d5de6190b70aff21e64168711cca343",
+    "verify": "https://origin.rootz.global/api/verify/85ce2ed6f537907d3f692b24da278707425bcf603e630cd9889690d583b6904a",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:07.760Z",
+    "exported_at": "2026-04-13T06:15:13.404Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

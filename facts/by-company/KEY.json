@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "KEY",
-  "total_facts": 183,
+  "total_facts": 174,
   "by_type": {
-    "topic_mention": 114,
+    "topic_mention": 105,
     "metric": 32,
     "guidance": 24,
     "outlook": 13
@@ -1452,42 +1452,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "KEY",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 5,
-      "unit": "mentions",
-      "confidence": 0.7999999999999999,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "KEY",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 5,
-      "unit": "mentions",
-      "confidence": 0.7999999999999999,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "KEY",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 5,
-      "unit": "mentions",
-      "confidence": 0.7999999999999999,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "KEY",
       "predicate": "discussed",
       "object": "Regulation",
       "value": 3,
@@ -1578,42 +1542,6 @@
       "unit": "mentions",
       "confidence": 0.7899999999999999,
       "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "KEY",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 4,
-      "unit": "mentions",
-      "confidence": 0.7799999999999999,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "KEY",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 4,
-      "unit": "mentions",
-      "confidence": 0.7799999999999999,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "KEY",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 4,
-      "unit": "mentions",
-      "confidence": 0.7799999999999999,
-      "topic": "blockchain",
       "fiscal_quarter": null,
       "fiscal_year": null
     },
@@ -2166,59 +2094,23 @@
       "unit": "mentions",
       "confidence": 0.73,
       "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "KEY",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "KEY",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "KEY",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "sovereign",
       "fiscal_quarter": null,
       "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/KEY/transcripts",
   "origin": {
-    "leaf": "d858fc0f53e7b0cbb0e0a953b4fa0280959266d597e4c7ffb085b6fcbf385bf7",
+    "leaf": "5699e2d64e8ef4851a889c33a2c709f6cec99cdb0c8de9d7355cb9ab8989b0b5",
     "parent": "1b28ca9a11a91f575cd4feec45d5997e24292def300f408e86049c1d426ed043",
-    "timestamp": "2026-04-12T03:13:15.031Z",
+    "timestamp": "2026-04-13T06:15:14.153Z",
     "source": "facts:KEY",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/d858fc0f53e7b0cbb0e0a953b4fa0280959266d597e4c7ffb085b6fcbf385bf7",
+    "verify": "https://origin.rootz.global/api/verify/5699e2d64e8ef4851a889c33a2c709f6cec99cdb0c8de9d7355cb9ab8989b0b5",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:15.031Z",
+    "exported_at": "2026-04-13T06:15:14.153Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -3,11 +3,11 @@
   "ticker": "ADBE",
   "total_facts": 200,
   "by_type": {
-    "topic_mention": 45,
+    "topic_mention": 38,
     "metric": 134,
     "product_mention": 1,
-    "outlook": 17,
-    "guidance": 3
+    "outlook": 22,
+    "guidance": 5
   },
   "facts": [
     {
@@ -369,78 +369,6 @@
       "topic": "platform",
       "fiscal_quarter": "Q4",
       "fiscal_year": "FY2024"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ADBE",
-      "predicate": "discussed_in_filing",
-      "object": "Artificial Intelligence",
-      "value": 61,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "ai",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ADBE",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 28,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ADBE",
-      "predicate": "discussed_in_filing",
-      "object": "Artificial Intelligence",
-      "value": 61,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "ai",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ADBE",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 28,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ADBE",
-      "predicate": "discussed_in_filing",
-      "object": "Artificial Intelligence",
-      "value": 61,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "ai",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ADBE",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 28,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     },
     {
       "fact_type": "topic_mention",
@@ -2111,42 +2039,6 @@
       "fiscal_year": null
     },
     {
-      "fact_type": "topic_mention",
-      "subject": "ADBE",
-      "predicate": "discussed_in_filing",
-      "object": "Enterprise",
-      "value": 9,
-      "unit": "mentions",
-      "confidence": 0.8799999999999999,
-      "topic": "enterprise",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ADBE",
-      "predicate": "discussed_in_filing",
-      "object": "Enterprise",
-      "value": 9,
-      "unit": "mentions",
-      "confidence": 0.8799999999999999,
-      "topic": "enterprise",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ADBE",
-      "predicate": "discussed_in_filing",
-      "object": "Enterprise",
-      "value": 9,
-      "unit": "mentions",
-      "confidence": 0.8799999999999999,
-      "topic": "enterprise",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
       "fact_type": "outlook",
       "subject": "ADBE",
       "predicate": "stated",
@@ -2409,21 +2301,129 @@
       "topic": "guidance",
       "fiscal_quarter": null,
       "fiscal_year": null
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ADBE",
+      "predicate": "guided",
+      "object": "FY 2025, we are now targeting: total   Adobe revenue of $23.50 billion",
+      "value": 23.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "cybersecurity",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADBE",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ADBE",
+      "predicate": "stated",
+      "object": "we expect it   to continue to rise as a percent of our business",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ADBE",
+      "predicate": "stated",
+      "object": "we expect non - GAAP operating margin of approximately 45",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ADBE",
+      "predicate": "stated",
+      "object": "we believe we'll see a tailwind there   as well",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ADBE",
+      "predicate": "stated",
+      "object": "we believe that enterprises will ultimately build their own agents  and have multiple ways of using agents",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ADBE",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a   complete or error - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ADBE",
+      "predicate": "guided",
+      "object": "FY 2025, we are  targeting: total Adobe revenue of $6.075 billion",
+      "value": 6.075,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/ADBE/transcripts",
   "origin": {
-    "leaf": "38a3c111d45bc6de0bc4e28dd03a044b14338156103d3e4b09e3929f8bd86ffd",
+    "leaf": "3e265560c0f18ce8b6b9d6ed942c3ae765564a5928d545afbd194770fa72fff8",
     "parent": "6f306ce6b7e8cee2db446bea1baa5f701128ea7495aa11f3a9d20c850049fdcd",
-    "timestamp": "2026-04-12T02:43:10.759Z",
+    "timestamp": "2026-04-13T06:15:13.136Z",
     "source": "facts:ADBE",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/38a3c111d45bc6de0bc4e28dd03a044b14338156103d3e4b09e3929f8bd86ffd",
+    "verify": "https://origin.rootz.global/api/verify/3e265560c0f18ce8b6b9d6ed942c3ae765564a5928d545afbd194770fa72fff8",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:10.760Z",
+    "exported_at": "2026-04-13T06:15:13.136Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

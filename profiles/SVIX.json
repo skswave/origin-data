@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "SVIX",
+  "name": "VS Trust",
+  "cik": "0001793497",
+  "summary": ". Summary VS Trust (the Trust) is a Delaware statutory trust formed on October 24, 2019 and is currently organized into separate series (each, a Fund and collectively, the Funds). As of September 30, 2022, the following two series of the Trust have commenced investment operations: -1x Short VIX Futures ETF (SVIX) and 2x Long VIX Futures ETF (UVIX). Each of the Funds listed above issues common units of beneficial interest (Shares), which represent units of fractional undivided beneficial interest...",
+  "live_api": "https://origin.rootz.global/api/company/SVIX/profile",
+  "origin": {
+    "leaf": "7eaf8d349e5c09d6b5a5e521a3d216286edecc95a41adcf3b2112faf5a5fff6f",
+    "parent": "a026d770e7ca4df22c80b721bb85e97082bade5cb7796284a11adc9df4d1f91e",
+    "timestamp": "2026-04-13T06:15:10.938Z",
+    "source": "profile:0001793497",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7eaf8d349e5c09d6b5a5e521a3d216286edecc95a41adcf3b2112faf5a5fff6f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-13T06:15:10.938Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

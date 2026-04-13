@@ -2,9 +2,15 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "guidance",
   "label": "Guidance",
-  "companies": 116,
-  "total_mentions": 6718,
+  "companies": 118,
+  "total_mentions": 8313,
   "results": [
+    {
+      "ticker": "MAR",
+      "company": "MARRIOTT INTERNATIONAL INC /MD/",
+      "mentions": 1212,
+      "quarters": []
+    },
     {
       "ticker": "JPM",
       "company": "JPMORGAN CHASE & CO",
@@ -46,6 +52,12 @@
         "Q4_FY2025",
         "Q1_FY2018"
       ]
+    },
+    {
+      "ticker": "AMAT",
+      "company": "APPLIED MATERIALS INC /DE",
+      "mentions": 383,
+      "quarters": []
     },
     {
       "ticker": "DAL",
@@ -996,17 +1008,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=guidance",
   "origin": {
-    "leaf": "6c0188d5ac31ed1c4ba72fb6e87fc7b3eb95050798eb2b48dfa89c30ac2a0df3",
+    "leaf": "7ea8a451320ddc79ea054a1ffe70c0b429665286d1b16f274217c1018c33dd39",
     "parent": "75223343d7f1861f2114cb58059ac0e7035b38d6e4034f47e89fe28246eca0c1",
-    "timestamp": "2026-04-12T03:13:01.523Z",
+    "timestamp": "2026-04-13T06:15:12.675Z",
     "source": "topic:guidance",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/6c0188d5ac31ed1c4ba72fb6e87fc7b3eb95050798eb2b48dfa89c30ac2a0df3",
+    "verify": "https://origin.rootz.global/api/verify/7ea8a451320ddc79ea054a1ffe70c0b429665286d1b16f274217c1018c33dd39",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:01.523Z",
+    "exported_at": "2026-04-13T06:15:12.675Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "ONTO",
-  "total_facts": 47,
+  "total_facts": 44,
   "by_type": {
-    "topic_mention": 10,
+    "topic_mention": 7,
     "metric": 37
   },
   "facts": [
@@ -534,57 +534,21 @@
       "topic": "capex",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ONTO",
-      "predicate": "discussed_in_filing",
-      "object": "Semiconductor",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "semiconductor",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ONTO",
-      "predicate": "discussed_in_filing",
-      "object": "Semiconductor",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "semiconductor",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "ONTO",
-      "predicate": "discussed_in_filing",
-      "object": "Semiconductor",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "semiconductor",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/ONTO/transcripts",
   "origin": {
-    "leaf": "afae60a510288e58c45dd0c7f159d674e6c9eb7f59849f50851faa73a5b083fe",
+    "leaf": "227a91d3ae001450b0f086a7b3f6d4078701129ef0b49db56259057ffc12d970",
     "parent": "5d6223b03cb5a5fc0e6ffe59b48205b6bd29b6d97b9e17a1f93da4d0e9617632",
-    "timestamp": "2026-04-12T03:13:23.068Z",
+    "timestamp": "2026-04-13T06:15:14.973Z",
     "source": "facts:ONTO",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/afae60a510288e58c45dd0c7f159d674e6c9eb7f59849f50851faa73a5b083fe",
+    "verify": "https://origin.rootz.global/api/verify/227a91d3ae001450b0f086a7b3f6d4078701129ef0b49db56259057ffc12d970",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:23.068Z",
+    "exported_at": "2026-04-13T06:15:14.973Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

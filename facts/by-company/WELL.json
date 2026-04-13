@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "WELL",
-  "total_facts": 5,
+  "total_facts": 3,
   "by_type": {
-    "topic_mention": 5
+    "topic_mention": 3
   },
   "facts": [
     {
@@ -41,45 +41,21 @@
       "topic": "enterprise",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "WELL",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "WELL",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/WELL/transcripts",
   "origin": {
-    "leaf": "1a2c9b072f11d1064be2b8742092ba457f4e986f61da68bce61d68002fae4eb3",
+    "leaf": "af1dd0e27bb84e512a289f837ca7d10e3f4fa1e9034cf4fbf57ce1147b2e5e70",
     "parent": "ebe164ae55077c94331a33ba5bd18df23a96586090fb57e35bfdeb5d6e706fda",
-    "timestamp": "2026-04-12T03:13:04.327Z",
+    "timestamp": "2026-04-13T06:15:13.003Z",
     "source": "facts:WELL",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/1a2c9b072f11d1064be2b8742092ba457f4e986f61da68bce61d68002fae4eb3",
+    "verify": "https://origin.rootz.global/api/verify/af1dd0e27bb84e512a289f837ca7d10e3f4fa1e9034cf4fbf57ce1147b2e5e70",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:04.327Z",
+    "exported_at": "2026-04-13T06:15:13.003Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "BMY",
-  "total_facts": 43,
+  "total_facts": 37,
   "by_type": {
-    "topic_mention": 33,
+    "topic_mention": 27,
     "metric": 8,
     "guidance": 1,
     "company_mention": 1
@@ -372,42 +372,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "BMY",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BMY",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BMY",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BMY",
       "predicate": "discussed",
       "object": "Artificial Intelligence",
       "value": 1,
@@ -488,57 +452,21 @@
       "topic": "platform",
       "fiscal_quarter": "Q4",
       "fiscal_year": "FY2025"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BMY",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BMY",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BMY",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/BMY/transcripts",
   "origin": {
-    "leaf": "7cfacfc1227a0cea3af6bab074453b8d1122d7e1ada7390944dcc4577da727e6",
+    "leaf": "3f752ebbc5ed54dcacf02422d7f22d922e110dbce9187433211e0756b2fbdaa5",
     "parent": "cbb8052b2b8c5c5bea99939ae716b4b4b37a95417a85dc6a0ba6cc194f122331",
-    "timestamp": "2026-04-12T02:43:11.325Z",
+    "timestamp": "2026-04-13T06:15:13.054Z",
     "source": "facts:BMY",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/7cfacfc1227a0cea3af6bab074453b8d1122d7e1ada7390944dcc4577da727e6",
+    "verify": "https://origin.rootz.global/api/verify/3f752ebbc5ed54dcacf02422d7f22d922e110dbce9187433211e0756b2fbdaa5",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:11.326Z",
+    "exported_at": "2026-04-13T06:15:13.054Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

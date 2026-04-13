@@ -1,83 +1,11 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "LMT",
-  "total_facts": 20,
+  "total_facts": 11,
   "by_type": {
-    "topic_mention": 20
+    "topic_mention": 11
   },
   "facts": [
-    {
-      "fact_type": "topic_mention",
-      "subject": "LMT",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 48,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LMT",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 48,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LMT",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 48,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LMT",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 11,
-      "unit": "mentions",
-      "confidence": 0.9199999999999999,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LMT",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 11,
-      "unit": "mentions",
-      "confidence": 0.9199999999999999,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LMT",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 11,
-      "unit": "mentions",
-      "confidence": 0.9199999999999999,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
     {
       "fact_type": "topic_mention",
       "subject": "LMT",
@@ -111,42 +39,6 @@
       "unit": "mentions",
       "confidence": 0.7899999999999999,
       "topic": "autonomous",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LMT",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LMT",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "LMT",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "automotive",
       "fiscal_quarter": null,
       "fiscal_year": null
     },
@@ -249,17 +141,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/company/LMT/transcripts",
   "origin": {
-    "leaf": "6c70e5bc8aa4e36ddde4084c62edd28c75e0c2720bd2f5ca1bef8facae5e2642",
+    "leaf": "fe7f05a08265d824aab0637833c2032dbfc0b8b88bcccf0eb489da5c8db305f7",
     "parent": "43780e73b1b566a74c385eeff2aa2f16fec9121015dd9adbe8edc7e6b920bf4f",
-    "timestamp": "2026-04-12T02:43:09.915Z",
+    "timestamp": "2026-04-13T06:15:12.998Z",
     "source": "facts:LMT",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/6c70e5bc8aa4e36ddde4084c62edd28c75e0c2720bd2f5ca1bef8facae5e2642",
+    "verify": "https://origin.rootz.global/api/verify/fe7f05a08265d824aab0637833c2032dbfc0b8b88bcccf0eb489da5c8db305f7",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.915Z",
+    "exported_at": "2026-04-13T06:15:12.998Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

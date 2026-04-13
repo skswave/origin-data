@@ -3,8 +3,8 @@
   "ticker": "INTC",
   "total_facts": 200,
   "by_type": {
-    "topic_mention": 90,
-    "metric": 104,
+    "topic_mention": 88,
+    "metric": 106,
     "product_mention": 6
   },
   "facts": [
@@ -671,18 +671,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "INTC",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 14,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "INTC",
       "predicate": "discussed",
       "object": "Capital Expenditure",
       "value": 8,
@@ -842,18 +830,6 @@
       "predicate": "discussed",
       "object": "Data Center",
       "value": 8,
-      "unit": "mentions",
-      "confidence": 0.94,
-      "topic": "data_center",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "INTC",
-      "predicate": "discussed_in_filing",
-      "object": "Data Center",
-      "value": 12,
       "unit": "mentions",
       "confidence": 0.94,
       "topic": "data_center",
@@ -2407,21 +2383,45 @@
       "topic": "gross_margin",
       "fiscal_quarter": null,
       "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTC gross margin",
+      "predicate": "reported",
+      "object": "$33.8 percent",
+      "value": 33.8,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTC gross margin",
+      "predicate": "reported",
+      "object": "$9.6 percent",
+      "value": 9.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin",
+      "fiscal_quarter": null,
+      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/INTC/transcripts",
   "origin": {
-    "leaf": "2cf383db528bf7b0f40d74b9870be5cd22dcbf64c70cc70d834de47335841a93",
+    "leaf": "0335cd50091d3dc2239121e90f47322b9a9405f90158f0142aee2df55eef34cd",
     "parent": "198b737f2a4102730ff93034ec1be428a00901685499351324004bf4fa8d98be",
-    "timestamp": "2026-04-12T02:43:09.961Z",
+    "timestamp": "2026-04-13T06:15:12.717Z",
     "source": "facts:INTC",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/2cf383db528bf7b0f40d74b9870be5cd22dcbf64c70cc70d834de47335841a93",
+    "verify": "https://origin.rootz.global/api/verify/0335cd50091d3dc2239121e90f47322b9a9405f90158f0142aee2df55eef34cd",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.961Z",
+    "exported_at": "2026-04-13T06:15:12.717Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

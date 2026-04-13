@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "C",
-  "total_facts": 116,
+  "total_facts": 110,
   "by_type": {
-    "topic_mention": 67,
+    "topic_mention": 61,
     "metric": 14,
     "guidance": 8,
     "outlook": 26,
@@ -211,42 +211,6 @@
       "unit": "mentions",
       "confidence": 0.95,
       "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "C",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 55,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "C",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 55,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "C",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 55,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
       "fiscal_quarter": null,
       "fiscal_year": null
     },
@@ -1365,57 +1329,21 @@
       "topic": "sovereign",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "C",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "C",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "C",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/C/transcripts",
   "origin": {
-    "leaf": "e11f1b8e2943f97b50865ead585b0a7da91123d7db941cb790a34ac5d7f05e0b",
+    "leaf": "1570810f2f857d4f1e5a1b69b79708525a3c210d0befa60d1d91bc88dbd97d12",
     "parent": "9cded78b9c0a8213f27a509d1cc162956a1e844efb887dacf4f93b689ff957ff",
-    "timestamp": "2026-04-12T02:43:10.232Z",
+    "timestamp": "2026-04-13T06:15:12.901Z",
     "source": "facts:C",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/e11f1b8e2943f97b50865ead585b0a7da91123d7db941cb790a34ac5d7f05e0b",
+    "verify": "https://origin.rootz.global/api/verify/1570810f2f857d4f1e5a1b69b79708525a3c210d0befa60d1d91bc88dbd97d12",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:10.232Z",
+    "exported_at": "2026-04-13T06:15:12.901Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -3,9 +3,9 @@
   "ticker": "SPGI",
   "total_facts": 200,
   "by_type": {
-    "topic_mention": 61,
+    "topic_mention": 58,
     "metric": 93,
-    "guidance": 44,
+    "guidance": 47,
     "outlook": 2
   },
   "facts": [
@@ -534,42 +534,6 @@
       "unit": "mentions",
       "confidence": 0.94,
       "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "SPGI",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 11,
-      "unit": "mentions",
-      "confidence": 0.9199999999999999,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "SPGI",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 11,
-      "unit": "mentions",
-      "confidence": 0.9199999999999999,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "SPGI",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 11,
-      "unit": "mentions",
-      "confidence": 0.9199999999999999,
-      "topic": "blockchain",
       "fiscal_quarter": null,
       "fiscal_year": null
     },
@@ -2408,21 +2372,57 @@
       "topic": "guidance",
       "fiscal_quarter": null,
       "fiscal_year": null
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "SPGI",
+      "predicate": "guided",
+      "object": "guidance in the range of $270 - $280 million",
+      "value": 280,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "SPGI",
+      "predicate": "guided",
+      "object": "Guidance and Increases Adjusted Guidance Merger with IHS Markit Continues to Move Forward  New York, NY, October 26, 2021 – S&P Global (NYSE: SPGI) today reported third quarter 2021 results with reven",
+      "value": 2087,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "SPGI",
+      "predicate": "guided",
+      "object": "Guidance for free cash flow excluding certain items has also been increased to a new range of $3.6 billion",
+      "value": 3.6,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/SPGI/transcripts",
   "origin": {
-    "leaf": "c3733fdeb77fd9f1ed412743b5e424d9e2106cd8cc59e80e240f1a2c39e910ab",
+    "leaf": "c1f6206a7e1b314d7214ef38958347b5c795232d3b7bf3aacb2447fa5b7b0963",
     "parent": "f512b4b1165fc7a0af7714e2a8034d7edfeb6c893eab5f0bbbe89dd36e2d8eb9",
-    "timestamp": "2026-04-12T03:13:04.576Z",
+    "timestamp": "2026-04-13T06:15:13.034Z",
     "source": "facts:SPGI",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/c3733fdeb77fd9f1ed412743b5e424d9e2106cd8cc59e80e240f1a2c39e910ab",
+    "verify": "https://origin.rootz.global/api/verify/c1f6206a7e1b314d7214ef38958347b5c795232d3b7bf3aacb2447fa5b7b0963",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:04.576Z",
+    "exported_at": "2026-04-13T06:15:13.035Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "XOM",
-  "total_facts": 70,
+  "total_facts": 64,
   "by_type": {
-    "topic_mention": 56,
+    "topic_mention": 50,
     "metric": 6,
     "guidance": 2,
     "outlook": 6
@@ -504,42 +504,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "XOM",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 6,
-      "unit": "mentions",
-      "confidence": 0.82,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "XOM",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 6,
-      "unit": "mentions",
-      "confidence": 0.82,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "XOM",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 6,
-      "unit": "mentions",
-      "confidence": 0.82,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "XOM",
       "predicate": "discussed",
       "object": "Capital Expenditure",
       "value": 3,
@@ -630,42 +594,6 @@
       "unit": "mentions",
       "confidence": 0.76,
       "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "XOM",
-      "predicate": "discussed_in_filing",
-      "object": "Data Center",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "data_center",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "XOM",
-      "predicate": "discussed_in_filing",
-      "object": "Data Center",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "data_center",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "XOM",
-      "predicate": "discussed_in_filing",
-      "object": "Data Center",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "data_center",
       "fiscal_quarter": null,
       "fiscal_year": null
     },
@@ -852,17 +780,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/company/XOM/transcripts",
   "origin": {
-    "leaf": "f2abc0bd8a1684421ee80d54dda381892f7094d23b7a7bee156a5c3c39a03d25",
+    "leaf": "c34fdcf50ec51429a14ee2a89ea9c3d182520c3faf3af232ff733f3e5352b431",
     "parent": "f51aebcff81f47268dbe928cb30dab0ff40be184f5e96b88e5dfa9acd1b36763",
-    "timestamp": "2026-04-12T02:43:09.577Z",
+    "timestamp": "2026-04-13T06:15:12.785Z",
     "source": "facts:XOM",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/f2abc0bd8a1684421ee80d54dda381892f7094d23b7a7bee156a5c3c39a03d25",
+    "verify": "https://origin.rootz.global/api/verify/c34fdcf50ec51429a14ee2a89ea9c3d182520c3faf3af232ff733f3e5352b431",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.577Z",
+    "exported_at": "2026-04-13T06:15:12.785Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

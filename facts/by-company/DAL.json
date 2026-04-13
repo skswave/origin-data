@@ -3,11 +3,11 @@
   "ticker": "DAL",
   "total_facts": 200,
   "by_type": {
-    "topic_mention": 58,
+    "topic_mention": 55,
     "metric": 79,
     "product_mention": 20,
     "guidance": 12,
-    "outlook": 31
+    "outlook": 34
   },
   "facts": [
     {
@@ -465,42 +465,6 @@
       "topic": "ai_compute",
       "fiscal_quarter": "Q2",
       "fiscal_year": "FY2022"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "DAL",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 36,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "DAL",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 36,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "DAL",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 36,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     },
     {
       "fact_type": "topic_mention",
@@ -2409,21 +2373,57 @@
       "topic": "guidance",
       "fiscal_quarter": "Q1",
       "fiscal_year": "FY2022"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "we expect revenue recovery versus 2019, as Ed mentioned, to improve to 93% to 97% on  84% capacity r estoration",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2022"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect April yields to be up double - digits  compared to 2019 with further strengtheni ng as we approach June, positioning us to successfully recapture a  ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2022"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "DAL",
+      "predicate": "stated",
+      "object": "We expect a very strong summer in the  transatlantic based on demand trends; and, in the Pacific, we are encouraged by the opening of Australia, South  Korea, ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2022"
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/DAL/transcripts",
   "origin": {
-    "leaf": "44179270c7665f2c1f5407f8263b80df0c687ad10733f3aa6deac097e99514f0",
+    "leaf": "3912983223cf57429157a36f1b826d49099036bcd41a9164cf356f0d0e5f19cd",
     "parent": "3de3719cc34a7693e8ea9affe1a908db26dbf706cb012e493574fe802e82b5c2",
-    "timestamp": "2026-04-12T03:13:09.742Z",
+    "timestamp": "2026-04-13T06:15:13.610Z",
     "source": "facts:DAL",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/44179270c7665f2c1f5407f8263b80df0c687ad10733f3aa6deac097e99514f0",
+    "verify": "https://origin.rootz.global/api/verify/3912983223cf57429157a36f1b826d49099036bcd41a9164cf356f0d0e5f19cd",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:09.742Z",
+    "exported_at": "2026-04-13T06:15:13.610Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

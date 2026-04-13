@@ -1,47 +1,11 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "MDB",
-  "total_facts": 11,
+  "total_facts": 2,
   "by_type": {
-    "topic_mention": 11
+    "topic_mention": 2
   },
   "facts": [
-    {
-      "fact_type": "topic_mention",
-      "subject": "MDB",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 21,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MDB",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 21,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MDB",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 21,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
     {
       "fact_type": "topic_mention",
       "subject": "MDB",
@@ -51,78 +15,6 @@
       "unit": "mentions",
       "confidence": 0.9099999999999999,
       "topic": "ai",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MDB",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 6,
-      "unit": "mentions",
-      "confidence": 0.82,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MDB",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 6,
-      "unit": "mentions",
-      "confidence": 0.82,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MDB",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 6,
-      "unit": "mentions",
-      "confidence": 0.82,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MDB",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MDB",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "MDB",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "sovereign",
       "fiscal_quarter": null,
       "fiscal_year": null
     },
@@ -141,17 +33,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/company/MDB/transcripts",
   "origin": {
-    "leaf": "8483a8c6447b945e296b47cf3ce868a549fa025d847e2a32f27501f4584467a1",
+    "leaf": "605146def72ed5564522d29363b554096503e0f587a789cfbc7048238603a46f",
     "parent": "933deafc8a767f960e7c93091d85a2416d00a62331894e5d4bc8a781b797d8eb",
-    "timestamp": "2026-04-12T03:13:15.753Z",
+    "timestamp": "2026-04-13T06:15:14.229Z",
     "source": "facts:MDB",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/8483a8c6447b945e296b47cf3ce868a549fa025d847e2a32f27501f4584467a1",
+    "verify": "https://origin.rootz.global/api/verify/605146def72ed5564522d29363b554096503e0f587a789cfbc7048238603a46f",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:15.753Z",
+    "exported_at": "2026-04-13T06:15:14.229Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

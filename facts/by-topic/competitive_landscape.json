@@ -2,14 +2,33 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "competitive_landscape",
   "label": "Competitive Landscape",
-  "companies": 44,
-  "total_mentions": 358,
+  "companies": 46,
+  "total_mentions": 392,
   "results": [
     {
       "ticker": "QCOM",
       "company": "QUALCOMM INC/DE",
       "mentions": 71,
       "quarters": []
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology, Inc.",
+      "mentions": 54,
+      "quarters": [
+        "Q1_FY2017",
+        "Q4_FY2018",
+        "Q2_FY2017",
+        "Q3_FY2017",
+        "Q4_FY2017",
+        "Q1_FY2018",
+        "Q1_FY2019",
+        "Q2_FY2018",
+        "Q3_FY2018",
+        "Q1_FY2722",
+        "Q4_FY2722",
+        "Q3_FY2722"
+      ]
     },
     {
       "ticker": "AMZN",
@@ -85,22 +104,6 @@
       "quarters": [
         "Q3_FY2024",
         "Q4_FY2024"
-      ]
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell Technology, Inc.",
-      "mentions": 24,
-      "quarters": [
-        "Q1_FY2017",
-        "Q4_FY2018",
-        "Q2_FY2017",
-        "Q3_FY2017",
-        "Q4_FY2017",
-        "Q1_FY2018",
-        "Q1_FY2019",
-        "Q2_FY2018",
-        "Q3_FY2018"
       ]
     },
     {
@@ -194,6 +197,12 @@
       ]
     },
     {
+      "ticker": "MAR",
+      "company": "MARRIOTT INTERNATIONAL INC /MD/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "NEE",
       "company": "NEXTERA ENERGY INC",
       "mentions": 3,
@@ -252,6 +261,12 @@
       "ticker": "WMT",
       "company": "Walmart Inc.",
       "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "AMAT",
+      "company": "APPLIED MATERIALS INC /DE",
+      "mentions": 1,
       "quarters": []
     },
     {
@@ -371,17 +386,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=competitive_landscape",
   "origin": {
-    "leaf": "9de176414530782ec2011eedff5edca77c13c1c161786a7bf8664d26933ddd87",
+    "leaf": "df482a48978ed26f45e8f249caa8b60c7a7e1a29d8dead6b373b23cb81df75e4",
     "parent": "b0d691b89934245936be886835d5708a50f2bc585da7f071a1b7f184b063674e",
-    "timestamp": "2026-04-12T03:13:01.448Z",
+    "timestamp": "2026-04-13T06:15:12.658Z",
     "source": "topic:competitive_landscape",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/9de176414530782ec2011eedff5edca77c13c1c161786a7bf8664d26933ddd87",
+    "verify": "https://origin.rootz.global/api/verify/df482a48978ed26f45e8f249caa8b60c7a7e1a29d8dead6b373b23cb81df75e4",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:01.448Z",
+    "exported_at": "2026-04-13T06:15:12.659Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

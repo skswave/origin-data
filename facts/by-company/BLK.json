@@ -1,10 +1,10 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "BLK",
-  "total_facts": 30,
+  "total_facts": 21,
   "by_type": {
     "metric": 7,
-    "topic_mention": 23
+    "topic_mention": 14
   },
   "facts": [
     {
@@ -106,42 +106,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "BLK",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 5,
-      "unit": "mentions",
-      "confidence": 0.7999999999999999,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BLK",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 5,
-      "unit": "mentions",
-      "confidence": 0.7999999999999999,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BLK",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 5,
-      "unit": "mentions",
-      "confidence": 0.7999999999999999,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BLK",
       "predicate": "discussed",
       "object": "Regulation",
       "value": 3,
@@ -226,42 +190,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "BLK",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BLK",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BLK",
-      "predicate": "discussed_in_filing",
-      "object": "Automotive",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "automotive",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BLK",
       "predicate": "discussed",
       "object": "Artificial Intelligence",
       "value": 1,
@@ -328,59 +256,23 @@
       "unit": "mentions",
       "confidence": 0.73,
       "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BLK",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BLK",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BLK",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "blockchain",
       "fiscal_quarter": null,
       "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/BLK/transcripts",
   "origin": {
-    "leaf": "8332c4019d919387d5d7928a668a5b3c61e97f8828af393bdf51aa09817c4f8c",
+    "leaf": "fc53f710326655caa386c9509a060e3cf3f6ab3faaf1c2e805bf93a4835685ee",
     "parent": "9e6e1681f10c740dfa12fc595bfaa70c560ae6056caf7f440a0a60b2825b6027",
-    "timestamp": "2026-04-12T03:13:04.121Z",
+    "timestamp": "2026-04-13T06:15:12.980Z",
     "source": "facts:BLK",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/8332c4019d919387d5d7928a668a5b3c61e97f8828af393bdf51aa09817c4f8c",
+    "verify": "https://origin.rootz.global/api/verify/fc53f710326655caa386c9509a060e3cf3f6ab3faaf1c2e805bf93a4835685ee",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:04.121Z",
+    "exported_at": "2026-04-13T06:15:12.980Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

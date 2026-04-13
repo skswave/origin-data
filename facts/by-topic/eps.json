@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "eps",
   "label": "Eps",
-  "companies": 95,
-  "total_mentions": 1603,
+  "companies": 94,
+  "total_mentions": 1617,
   "results": [
     {
       "ticker": "JPM",
@@ -73,7 +73,7 @@
     {
       "ticker": "MA",
       "company": "Mastercard Inc",
-      "mentions": 86,
+      "mentions": 83,
       "quarters": []
     },
     {
@@ -196,6 +196,12 @@
       ]
     },
     {
+      "ticker": "AMAT",
+      "company": "APPLIED MATERIALS INC /DE",
+      "mentions": 17,
+      "quarters": []
+    },
+    {
       "ticker": "HPQ",
       "company": "HP INC",
       "mentions": 17,
@@ -262,6 +268,12 @@
       "ticker": "PYPL",
       "company": "PayPal Holdings, Inc.",
       "mentions": 14,
+      "quarters": []
+    },
+    {
+      "ticker": "MAR",
+      "company": "MARRIOTT INTERNATIONAL INC /MD/",
+      "mentions": 12,
       "quarters": []
     },
     {
@@ -481,12 +493,6 @@
       "quarters": []
     },
     {
-      "ticker": "BMBN",
-      "company": "BENCHMARK BANKSHARES INC",
-      "mentions": 6,
-      "quarters": []
-    },
-    {
       "ticker": "C",
       "company": "CITIGROUP INC",
       "mentions": 6,
@@ -594,18 +600,6 @@
     {
       "ticker": "A",
       "company": "AGILENT TECHNOLOGIES, INC.",
-      "mentions": 3,
-      "quarters": []
-    },
-    {
-      "ticker": "ACLS",
-      "company": "AXCELIS TECHNOLOGIES INC",
-      "mentions": 3,
-      "quarters": []
-    },
-    {
-      "ticker": "CLAR",
-      "company": "Clarus Corp",
       "mentions": 3,
       "quarters": []
     },
@@ -784,17 +778,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=eps",
   "origin": {
-    "leaf": "845b011e2906299997278fe97d17c37af43711f3be0bd0c150cab5b9f600d0f3",
+    "leaf": "a16694deca179b3658e116445ee5f5b5055d0ec95b0cbd3375986e4cccb354d7",
     "parent": "0d3c1b5a0a5c6556cfa92ec0bf6e75068606e4b0efac5347f8aebd38be6c7c5b",
-    "timestamp": "2026-04-12T03:13:01.511Z",
+    "timestamp": "2026-04-13T06:15:12.666Z",
     "source": "topic:eps",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/845b011e2906299997278fe97d17c37af43711f3be0bd0c150cab5b9f600d0f3",
+    "verify": "https://origin.rootz.global/api/verify/a16694deca179b3658e116445ee5f5b5055d0ec95b0cbd3375986e4cccb354d7",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:01.512Z",
+    "exported_at": "2026-04-13T06:15:12.666Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

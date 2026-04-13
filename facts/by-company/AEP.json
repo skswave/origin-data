@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "AEP",
-  "total_facts": 46,
+  "total_facts": 37,
   "by_type": {
-    "topic_mention": 30,
+    "topic_mention": 21,
     "metric": 15,
     "outlook": 1
   },
@@ -237,42 +237,6 @@
       "fiscal_year": null
     },
     {
-      "fact_type": "topic_mention",
-      "subject": "AEP",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 8,
-      "unit": "mentions",
-      "confidence": 0.86,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AEP",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 8,
-      "unit": "mentions",
-      "confidence": 0.86,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AEP",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 8,
-      "unit": "mentions",
-      "confidence": 0.86,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
       "fact_type": "outlook",
       "subject": "AEP",
       "predicate": "stated",
@@ -487,93 +451,21 @@
       "topic": "healthcare",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AEP",
-      "predicate": "discussed_in_filing",
-      "object": "Data Center",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "data_center",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AEP",
-      "predicate": "discussed_in_filing",
-      "object": "Networking",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "networking",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AEP",
-      "predicate": "discussed_in_filing",
-      "object": "Data Center",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "data_center",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AEP",
-      "predicate": "discussed_in_filing",
-      "object": "Networking",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "networking",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AEP",
-      "predicate": "discussed_in_filing",
-      "object": "Data Center",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "data_center",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AEP",
-      "predicate": "discussed_in_filing",
-      "object": "Networking",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "networking",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/AEP/transcripts",
   "origin": {
-    "leaf": "7b3d72543455da728551341213cb5c79daa5d8cd60240927b27d045a35cc0de2",
+    "leaf": "088e2ef4074a4591f4c99d6280f2e1d3dbc95559b03103fef0d2df9fc29b1751",
     "parent": "377503dbb66a326a048d198fc65ef19d8a586af890aa8d9f8e55e7c392968523",
-    "timestamp": "2026-04-12T03:13:07.182Z",
+    "timestamp": "2026-04-13T06:15:13.344Z",
     "source": "facts:AEP",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/7b3d72543455da728551341213cb5c79daa5d8cd60240927b27d045a35cc0de2",
+    "verify": "https://origin.rootz.global/api/verify/088e2ef4074a4591f4c99d6280f2e1d3dbc95559b03103fef0d2df9fc29b1751",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:07.183Z",
+    "exported_at": "2026-04-13T06:15:13.344Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

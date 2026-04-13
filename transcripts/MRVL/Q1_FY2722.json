@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "MRVL",
+  "company": "Marvell Technology, Inc.",
+  "title": "MRVL Q1 FY2722 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2722",
+  "call_date": null,
+  "word_count": 2777,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "MRVL",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MRVL",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "MRVL",
+      "predicate": "mentioned",
+      "object": "Marvell",
+      "value": 37,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/MRVL/transcripts",
+  "origin": {
+    "leaf": "eb45736d91db2b5173c27c09c7cc8dc2641461b225f8a491b0156c2bcf0c92f5",
+    "parent": "20f83681261036f0aa4dcea4b2b9fa8c5aed3ee29e4955d8be7e510fa84dfb423edf3cb255dde228fc92c9cec9970567",
+    "timestamp": "2026-04-13T06:15:12.377Z",
+    "source": "transcript:MRVL_MRVL%2BQ1%252722%2BAdditional%2BInformation%2BFINAL.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/eb45736d91db2b5173c27c09c7cc8dc2641461b225f8a491b0156c2bcf0c92f5",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-13T06:15:12.377Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

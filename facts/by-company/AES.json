@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "AES",
-  "total_facts": 5,
+  "total_facts": 2,
   "by_type": {
-    "topic_mention": 5
+    "topic_mention": 2
   },
   "facts": [
     {
@@ -29,57 +29,21 @@
       "topic": "ai",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AES",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AES",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AES",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/AES/transcripts",
   "origin": {
-    "leaf": "83939b523adf87e7237502123cdbfbcd786b7b2eb2e841f06f1692181e28b0b5",
+    "leaf": "9d9e3529a58d450264c74bab9962065856aae39ad5b185d57fbfc193bafe0e0c",
     "parent": "b04769b1b7c170f97bab8abc3e2e2b4798a87c559abde3843e0844e9fbcd68b4",
-    "timestamp": "2026-04-12T03:13:23.182Z",
+    "timestamp": "2026-04-13T06:15:14.985Z",
     "source": "facts:AES",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/83939b523adf87e7237502123cdbfbcd786b7b2eb2e841f06f1692181e28b0b5",
+    "verify": "https://origin.rootz.global/api/verify/9d9e3529a58d450264c74bab9962065856aae39ad5b185d57fbfc193bafe0e0c",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:23.182Z",
+    "exported_at": "2026-04-13T06:15:14.985Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

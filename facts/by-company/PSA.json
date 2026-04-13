@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "PSA",
-  "total_facts": 107,
+  "total_facts": 104,
   "by_type": {
-    "topic_mention": 26,
+    "topic_mention": 23,
     "metric": 1,
     "guidance": 9,
     "outlook": 70,
@@ -1235,42 +1235,6 @@
       "fiscal_year": null
     },
     {
-      "fact_type": "topic_mention",
-      "subject": "PSA",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "PSA",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "PSA",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
       "fact_type": "company_mention",
       "subject": "PSA",
       "predicate": "mentioned",
@@ -1297,17 +1261,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/company/PSA/transcripts",
   "origin": {
-    "leaf": "982df54410d9efac4092973fe08bb6b1c99f50fdf32b85dc49a1ad2aaf19e32b",
+    "leaf": "f9effee0a6912a781cb96c7b29e3b17458c9b5df58b4cc589a5f0a95e6f98510",
     "parent": "50ffcf46d351c05f36718257c2dd5d9b70c3b642bdac39d4073d24969efbf664",
-    "timestamp": "2026-04-12T03:13:09.238Z",
+    "timestamp": "2026-04-13T06:15:13.555Z",
     "source": "facts:PSA",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/982df54410d9efac4092973fe08bb6b1c99f50fdf32b85dc49a1ad2aaf19e32b",
+    "verify": "https://origin.rootz.global/api/verify/f9effee0a6912a781cb96c7b29e3b17458c9b5df58b4cc589a5f0a95e6f98510",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:09.238Z",
+    "exported_at": "2026-04-13T06:15:13.555Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

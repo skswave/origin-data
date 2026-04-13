@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "YUM",
-  "total_facts": 18,
+  "total_facts": 15,
   "by_type": {
-    "topic_mention": 10,
+    "topic_mention": 7,
     "metric": 5,
     "outlook": 3
   },
@@ -155,42 +155,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "YUM",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "YUM",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "YUM",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "YUM",
       "predicate": "discussed",
       "object": "Artificial Intelligence",
       "value": 1,
@@ -227,17 +191,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/company/YUM/transcripts",
   "origin": {
-    "leaf": "a3b20ae76c231806d482504df4998bcf264bb78b40baec033602b7a3d2f522ee",
+    "leaf": "9875ceea12adfe0c18308cfbdb706a3b33ca8c8c620fa701e3d6c652fd527276",
     "parent": "d43ea35dc49490d99298d201273cd579075978d04e6b04d61b89368de3e776a9",
-    "timestamp": "2026-04-12T02:43:10.963Z",
+    "timestamp": "2026-04-13T06:15:13.615Z",
     "source": "facts:YUM",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/a3b20ae76c231806d482504df4998bcf264bb78b40baec033602b7a3d2f522ee",
+    "verify": "https://origin.rootz.global/api/verify/9875ceea12adfe0c18308cfbdb706a3b33ca8c8c620fa701e3d6c652fd527276",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:10.963Z",
+    "exported_at": "2026-04-13T06:15:13.615Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

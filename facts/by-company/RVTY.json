@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "RVTY",
-  "total_facts": 52,
+  "total_facts": 49,
   "by_type": {
-    "topic_mention": 23,
+    "topic_mention": 20,
     "metric": 5,
     "guidance": 3,
     "outlook": 21
@@ -516,42 +516,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "RVTY",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "RVTY",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "RVTY",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "RVTY",
       "predicate": "discussed",
       "object": "Artificial Intelligence",
       "value": 1,
@@ -636,17 +600,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/company/RVTY/transcripts",
   "origin": {
-    "leaf": "81bcd121086951372081dbb7923ec829c12eb41fdea6943d1329b1209dd00bc2",
+    "leaf": "2dc4f46049dab986fb60ff3d791d5bae82dc22ada213a73e3ae88f4153413987",
     "parent": "1ce5384a3f5fa8132fac6a2646e6d43070fd907bdc2f6512aed04685a06b3a99",
-    "timestamp": "2026-04-12T03:13:23.601Z",
+    "timestamp": "2026-04-13T06:15:15.031Z",
     "source": "facts:RVTY",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/81bcd121086951372081dbb7923ec829c12eb41fdea6943d1329b1209dd00bc2",
+    "verify": "https://origin.rootz.global/api/verify/2dc4f46049dab986fb60ff3d791d5bae82dc22ada213a73e3ae88f4153413987",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:23.601Z",
+    "exported_at": "2026-04-13T06:15:15.031Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

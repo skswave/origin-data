@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "CAT",
-  "total_facts": 71,
+  "total_facts": 65,
   "by_type": {
-    "topic_mention": 18,
+    "topic_mention": 12,
     "metric": 6,
     "guidance": 6,
     "outlook": 41
@@ -42,42 +42,6 @@
       "unit": "mentions",
       "confidence": 0.95,
       "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "CAT",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 12,
-      "unit": "mentions",
-      "confidence": 0.94,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "CAT",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 12,
-      "unit": "mentions",
-      "confidence": 0.94,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "CAT",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 12,
-      "unit": "mentions",
-      "confidence": 0.94,
-      "topic": "blockchain",
       "fiscal_quarter": null,
       "fiscal_year": null
     },
@@ -824,57 +788,21 @@
       "topic": "networking",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "CAT",
-      "predicate": "discussed_in_filing",
-      "object": "Autonomous Vehicles",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "autonomous",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "CAT",
-      "predicate": "discussed_in_filing",
-      "object": "Autonomous Vehicles",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "autonomous",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "CAT",
-      "predicate": "discussed_in_filing",
-      "object": "Autonomous Vehicles",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "autonomous",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/CAT/transcripts",
   "origin": {
-    "leaf": "1b0cb1d183500eedf31eebfd3708d37d4d72cab1e0b73a16a65fbb7129a13c1a",
+    "leaf": "af262ec55bf1d78874d486f90758c1b3877b4c2e85dd20c4fe76d048ac7c9212",
     "parent": "6c924bf5ffd909d460b882d40401c43f7333f9979a39d2e89be40bfa304c6d13",
-    "timestamp": "2026-04-12T02:43:11.371Z",
+    "timestamp": "2026-04-13T06:15:12.825Z",
     "source": "facts:CAT",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/1b0cb1d183500eedf31eebfd3708d37d4d72cab1e0b73a16a65fbb7129a13c1a",
+    "verify": "https://origin.rootz.global/api/verify/af262ec55bf1d78874d486f90758c1b3877b4c2e85dd20c4fe76d048ac7c9212",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:11.371Z",
+    "exported_at": "2026-04-13T06:15:12.825Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

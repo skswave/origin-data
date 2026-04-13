@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "AEE",
-  "total_facts": 46,
+  "total_facts": 42,
   "by_type": {
-    "topic_mention": 21,
+    "topic_mention": 17,
     "guidance": 7,
     "outlook": 18
   },
@@ -511,69 +511,21 @@
       "topic": "supply_chain",
       "fiscal_quarter": "Q4",
       "fiscal_year": "FY2025"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AEE",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AEE",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AEE",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "AEE",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/AEE/transcripts",
   "origin": {
-    "leaf": "da9340512951c69762d5f33c50e8346f7e020c30a9883b055286bbc9a7acfe70",
+    "leaf": "c816eb3b2fc9c675eba58d6c7f0489ae54b1470a96e06bbb6a9cac97160e1bbf",
     "parent": "8b9858a3041790ce752690f86db4623db85f7cf2ca49b6dc8d76f4310f4caec1",
-    "timestamp": "2026-04-12T03:13:12.446Z",
+    "timestamp": "2026-04-13T06:15:13.879Z",
     "source": "facts:AEE",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/da9340512951c69762d5f33c50e8346f7e020c30a9883b055286bbc9a7acfe70",
+    "verify": "https://origin.rootz.global/api/verify/c816eb3b2fc9c675eba58d6c7f0489ae54b1470a96e06bbb6a9cac97160e1bbf",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:12.446Z",
+    "exported_at": "2026-04-13T06:15:13.879Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

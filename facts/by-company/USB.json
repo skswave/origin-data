@@ -3,8 +3,8 @@
   "ticker": "USB",
   "total_facts": 200,
   "by_type": {
-    "topic_mention": 73,
-    "metric": 127
+    "topic_mention": 70,
+    "metric": 130
   },
   "facts": [
     {
@@ -798,42 +798,6 @@
       "topic": "automotive",
       "fiscal_quarter": "Q4",
       "fiscal_year": "FY2023"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "USB",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 28,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "USB",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 28,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "USB",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 28,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     },
     {
       "fact_type": "topic_mention",
@@ -2406,21 +2370,57 @@
       "topic": "gross_margin",
       "fiscal_quarter": null,
       "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "USB gross margin",
+      "predicate": "reported",
+      "object": "$2.47 percent",
+      "value": 2.47,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "USB gross margin",
+      "predicate": "reported",
+      "object": "$2.62 percent",
+      "value": 2.62,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "USB total revenue",
+      "predicate": "reported",
+      "object": "$7,032 million",
+      "value": 7032,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue",
+      "fiscal_quarter": null,
+      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/USB/transcripts",
   "origin": {
-    "leaf": "105cfff1eb8dc4efff5070b29815a41fae0efcb8adc864f6a699cfc770cd67b4",
+    "leaf": "c18a231bcf34b14a960d56ce8c23714a0826ad0489007f1b8d9726f74c3525b9",
     "parent": "c8422b4f577528ce04d62f7c8ace6e76a0f57cf2ead1542b5af30a605c564015",
-    "timestamp": "2026-04-12T03:13:06.449Z",
+    "timestamp": "2026-04-13T06:15:13.243Z",
     "source": "facts:USB",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/105cfff1eb8dc4efff5070b29815a41fae0efcb8adc864f6a699cfc770cd67b4",
+    "verify": "https://origin.rootz.global/api/verify/c18a231bcf34b14a960d56ce8c23714a0826ad0489007f1b8d9726f74c3525b9",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:06.450Z",
+    "exported_at": "2026-04-13T06:15:13.243Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

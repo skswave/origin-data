@@ -3,8 +3,8 @@
   "ticker": "INTU",
   "total_facts": 200,
   "by_type": {
-    "topic_mention": 55,
-    "metric": 145
+    "topic_mention": 49,
+    "metric": 151
   },
   "facts": [
     {
@@ -517,78 +517,6 @@
       "predicate": "discussed",
       "object": "Platform & Ecosystem",
       "value": 30,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "INTU",
-      "predicate": "discussed_in_filing",
-      "object": "Artificial Intelligence",
-      "value": 32,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "ai",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "INTU",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 21,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "INTU",
-      "predicate": "discussed_in_filing",
-      "object": "Artificial Intelligence",
-      "value": 32,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "ai",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "INTU",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 21,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "INTU",
-      "predicate": "discussed_in_filing",
-      "object": "Artificial Intelligence",
-      "value": 32,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "ai",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "INTU",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 21,
       "unit": "mentions",
       "confidence": 0.95,
       "topic": "platform",
@@ -2406,21 +2334,93 @@
       "topic": "eps",
       "fiscal_quarter": "Q2",
       "fiscal_year": "FY2026"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTU EPS",
+      "predicate": "reported",
+      "object": "$15.49",
+      "value": 15.49,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps",
+      "fiscal_quarter": "Q2",
+      "fiscal_year": "FY2026"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTU EPS",
+      "predicate": "reported",
+      "object": "$22.98",
+      "value": 22.98,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps",
+      "fiscal_quarter": "Q2",
+      "fiscal_year": "FY2026"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTU EPS",
+      "predicate": "reported",
+      "object": "$10.56",
+      "value": 10.56,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps",
+      "fiscal_quarter": "Q2",
+      "fiscal_year": "FY2026"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTU EPS",
+      "predicate": "reported",
+      "object": "$12.45",
+      "value": 12.45,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps",
+      "fiscal_quarter": "Q2",
+      "fiscal_year": "FY2026"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTU total revenue",
+      "predicate": "reported",
+      "object": "$7.8 billion",
+      "value": 7.8,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "INTU total revenue",
+      "predicate": "reported",
+      "object": "$4.0 billion",
+      "value": 4,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue",
+      "fiscal_quarter": null,
+      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/INTU/transcripts",
   "origin": {
-    "leaf": "97f3d47219615a3e4d3bdd2b12d692d612683b10f162a2cc75ea5d90048be038",
+    "leaf": "f77a350259d21548372635cda20c3debc37eb326b145aabbbff93bf49e2cb73c",
     "parent": "2abc10ef114533dd8a65d1e19b416aaf02b9619e945f31be8f47fe7298153a16",
-    "timestamp": "2026-04-12T02:43:10.807Z",
+    "timestamp": "2026-04-13T06:15:13.067Z",
     "source": "facts:INTU",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/97f3d47219615a3e4d3bdd2b12d692d612683b10f162a2cc75ea5d90048be038",
+    "verify": "https://origin.rootz.global/api/verify/f77a350259d21548372635cda20c3debc37eb326b145aabbbff93bf49e2cb73c",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:10.807Z",
+    "exported_at": "2026-04-13T06:15:13.067Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

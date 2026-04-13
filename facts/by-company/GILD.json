@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "GILD",
-  "total_facts": 177,
+  "total_facts": 174,
   "by_type": {
-    "topic_mention": 74,
+    "topic_mention": 71,
     "metric": 34,
     "outlook": 63,
     "guidance": 6
@@ -1884,42 +1884,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "GILD",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "GILD",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "GILD",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 3,
-      "unit": "mentions",
-      "confidence": 0.76,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "GILD",
       "predicate": "discussed",
       "object": "Cybersecurity",
       "value": 1,
@@ -2136,17 +2100,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/company/GILD/transcripts",
   "origin": {
-    "leaf": "4f5efb2482f3500f9cbf87e2defb9aa218ff5476bf3d952724b679a060ff168b",
+    "leaf": "62021f5ec9849c5e4f9f9fd342659550aa3ec8ff60a2e7a2dab003fc53e02887",
     "parent": "bba51838d861a1e521eeb66ca90c6efd82d503a367afa35cc112bee715bd2ec8",
-    "timestamp": "2026-04-12T02:43:11.213Z",
+    "timestamp": "2026-04-13T06:15:12.935Z",
     "source": "facts:GILD",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/4f5efb2482f3500f9cbf87e2defb9aa218ff5476bf3d952724b679a060ff168b",
+    "verify": "https://origin.rootz.global/api/verify/62021f5ec9849c5e4f9f9fd342659550aa3ec8ff60a2e7a2dab003fc53e02887",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:11.213Z",
+    "exported_at": "2026-04-13T06:15:12.935Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

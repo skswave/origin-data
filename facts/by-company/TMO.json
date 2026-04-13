@@ -3,10 +3,10 @@
   "ticker": "TMO",
   "total_facts": 200,
   "by_type": {
-    "topic_mention": 80,
+    "topic_mention": 77,
     "metric": 89,
-    "outlook": 18,
-    "guidance": 13
+    "outlook": 20,
+    "guidance": 14
   },
   "facts": [
     {
@@ -726,42 +726,6 @@
       "unit": "mentions",
       "confidence": 0.95,
       "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "TMO",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 13,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "TMO",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 13,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "healthcare",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "TMO",
-      "predicate": "discussed_in_filing",
-      "object": "Healthcare & Bio",
-      "value": 13,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "healthcare",
       "fiscal_quarter": null,
       "fiscal_year": null
     },
@@ -2408,21 +2372,57 @@
       "topic": "guidance",
       "fiscal_quarter": null,
       "fiscal_year": null
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "TMO",
+      "predicate": "stated",
+      "object": "we believe that the costs related to restructuring activities are not indicative of our normal operating costs",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "TMO",
+      "predicate": "stated",
+      "object": "we believe are material to our investors are discussed in the company’s   Annual Report on Form 10-K for the year ended December 31, 2021 under the caption “Ris",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "TMO",
+      "predicate": "guided",
+      "object": "expects to make fixed lease payments aggregating to $0.56 billion",
+      "value": 0.56,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/TMO/transcripts",
   "origin": {
-    "leaf": "87a52db2a4672aa113e194b9e69dd31f519b55c5c0b8ecf86ed8e7c253fb4c16",
+    "leaf": "4b3233f89c9309cc2c6b88499bca7ef9cd1183edf084a30558fbe770519eb46e",
     "parent": "714ebc8f75eac54a1ebd7bca5d5c59dcb158924250696d6ddd5e4551146eeef9",
-    "timestamp": "2026-04-12T02:43:11.029Z",
+    "timestamp": "2026-04-13T06:15:12.922Z",
     "source": "facts:TMO",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/87a52db2a4672aa113e194b9e69dd31f519b55c5c0b8ecf86ed8e7c253fb4c16",
+    "verify": "https://origin.rootz.global/api/verify/4b3233f89c9309cc2c6b88499bca7ef9cd1183edf084a30558fbe770519eb46e",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:11.030Z",
+    "exported_at": "2026-04-13T06:15:12.922Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

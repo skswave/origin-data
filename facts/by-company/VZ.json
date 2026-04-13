@@ -1,47 +1,11 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "VZ",
-  "total_facts": 22,
+  "total_facts": 10,
   "by_type": {
-    "topic_mention": 22
+    "topic_mention": 10
   },
   "facts": [
-    {
-      "fact_type": "topic_mention",
-      "subject": "VZ",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 15,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "VZ",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 15,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "VZ",
-      "predicate": "discussed_in_filing",
-      "object": "Blockchain & Crypto",
-      "value": 15,
-      "unit": "mentions",
-      "confidence": 0.95,
-      "topic": "blockchain",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
     {
       "fact_type": "topic_mention",
       "subject": "VZ",
@@ -87,42 +51,6 @@
       "unit": "mentions",
       "confidence": 0.7899999999999999,
       "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "VZ",
-      "predicate": "discussed_in_filing",
-      "object": "Networking",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "networking",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "VZ",
-      "predicate": "discussed_in_filing",
-      "object": "Networking",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "networking",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "VZ",
-      "predicate": "discussed_in_filing",
-      "object": "Networking",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "networking",
       "fiscal_quarter": null,
       "fiscal_year": null
     },
@@ -197,93 +125,21 @@
       "topic": "enterprise",
       "fiscal_quarter": null,
       "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "VZ",
-      "predicate": "discussed_in_filing",
-      "object": "Enterprise",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "enterprise",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "VZ",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "VZ",
-      "predicate": "discussed_in_filing",
-      "object": "Enterprise",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "enterprise",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "VZ",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "VZ",
-      "predicate": "discussed_in_filing",
-      "object": "Enterprise",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "enterprise",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "VZ",
-      "predicate": "discussed_in_filing",
-      "object": "Sovereign & Government",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "sovereign",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/VZ/transcripts",
   "origin": {
-    "leaf": "5e95c218317b9268c61290ed2ffdaa9669c18235aff57f06a7fe433aed34e77a",
+    "leaf": "6df731c053bfa972fa0e2bffaf2ece43c4ac84e329ff8f47a3ef537305cf3a05",
     "parent": "2a6ce9bac29317aa4a9eac05301179a3cdd41c6057085ec1b3f1846a55a05c8d",
-    "timestamp": "2026-04-12T02:43:09.735Z",
+    "timestamp": "2026-04-13T06:15:12.893Z",
     "source": "facts:VZ",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/5e95c218317b9268c61290ed2ffdaa9669c18235aff57f06a7fe433aed34e77a",
+    "verify": "https://origin.rootz.global/api/verify/6df731c053bfa972fa0e2bffaf2ece43c4ac84e329ff8f47a3ef537305cf3a05",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:09.735Z",
+    "exported_at": "2026-04-13T06:15:12.893Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

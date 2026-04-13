@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "DUK",
-  "total_facts": 33,
+  "total_facts": 30,
   "by_type": {
-    "topic_mention": 25,
+    "topic_mention": 22,
     "metric": 4,
     "guidance": 4
   },
@@ -367,57 +367,21 @@
       "topic": "data_center",
       "fiscal_quarter": "Q4",
       "fiscal_year": "FY2025"
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "DUK",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "DUK",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "DUK",
-      "predicate": "discussed_in_filing",
-      "object": "Regulation",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "regulation",
-      "fiscal_quarter": null,
-      "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/DUK/transcripts",
   "origin": {
-    "leaf": "2e1dd97f3fda1197d3f7b00789f5ffd4b83f0d61f8770b99f3e9f2f69a22c6f8",
+    "leaf": "7783830425f14c5a98afb1228bbda7cf4d84fc81c313410b06299f088664e4f7",
     "parent": "daaf7ec481d38be680207862b1bb583af36ae8c40bdd6642297d28d2ad0f3d7a",
-    "timestamp": "2026-04-12T03:13:05.390Z",
+    "timestamp": "2026-04-13T06:15:13.126Z",
     "source": "facts:DUK",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/2e1dd97f3fda1197d3f7b00789f5ffd4b83f0d61f8770b99f3e9f2f69a22c6f8",
+    "verify": "https://origin.rootz.global/api/verify/7783830425f14c5a98afb1228bbda7cf4d84fc81c313410b06299f088664e4f7",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:05.390Z",
+    "exported_at": "2026-04-13T06:15:13.126Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

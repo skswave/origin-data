@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "free_cash_flow",
   "label": "Free Cash Flow",
-  "companies": 33,
-  "total_mentions": 144,
+  "companies": 34,
+  "total_mentions": 149,
   "results": [
     {
       "ticker": "DAL",
@@ -95,6 +95,12 @@
         "Q4_FY2025",
         "Q2_FY2025"
       ]
+    },
+    {
+      "ticker": "AMAT",
+      "company": "APPLIED MATERIALS INC /DE",
+      "mentions": 5,
+      "quarters": []
     },
     {
       "ticker": "MSI",
@@ -266,17 +272,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=free_cash_flow",
   "origin": {
-    "leaf": "8dce0255508a95951bd8150385840cc0262f6ff463a4555efa77ee2e22f30084",
+    "leaf": "787c8594537ef590c36456284c097f59f10690033f17a30c681784bfc96cdd49",
     "parent": "cb31c9d249e8b75789b0fd713e11329fa038d1fd75b909861cccce376f169ea1",
-    "timestamp": "2026-04-12T03:13:01.512Z",
+    "timestamp": "2026-04-13T06:15:12.667Z",
     "source": "topic:free_cash_flow",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/8dce0255508a95951bd8150385840cc0262f6ff463a4555efa77ee2e22f30084",
+    "verify": "https://origin.rootz.global/api/verify/787c8594537ef590c36456284c097f59f10690033f17a30c681784bfc96cdd49",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:01.512Z",
+    "exported_at": "2026-04-13T06:15:12.667Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "gross_margin",
   "label": "Gross Margin",
-  "companies": 86,
-  "total_mentions": 2186,
+  "companies": 88,
+  "total_mentions": 2379,
   "results": [
     {
       "ticker": "JPM",
@@ -28,6 +28,12 @@
       "ticker": "MCO",
       "company": "MOODYS CORP /DE/",
       "mentions": 243,
+      "quarters": []
+    },
+    {
+      "ticker": "AMAT",
+      "company": "APPLIED MATERIALS INC /DE",
+      "mentions": 190,
       "quarters": []
     },
     {
@@ -608,6 +614,12 @@
       "quarters": []
     },
     {
+      "ticker": "MAR",
+      "company": "MARRIOTT INTERNATIONAL INC /MD/",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "NET",
       "company": "Cloudflare, Inc.",
       "mentions": 3,
@@ -749,17 +761,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=gross_margin",
   "origin": {
-    "leaf": "9ef3fce778aad686e01b54084f5babe0e90fb574fe81703b1cdddd45b660a031",
+    "leaf": "f094b4c91a079e50f13fb37a2e0da701985988b8947d7f1e77dd870f92198568",
     "parent": "9af002a2d5be936f0c648222084b51118cc5bba630181879b2c847a0b4b1ae9a",
-    "timestamp": "2026-04-12T03:13:01.519Z",
+    "timestamp": "2026-04-13T06:15:12.670Z",
     "source": "topic:gross_margin",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/9ef3fce778aad686e01b54084f5babe0e90fb574fe81703b1cdddd45b660a031",
+    "verify": "https://origin.rootz.global/api/verify/f094b4c91a079e50f13fb37a2e0da701985988b8947d7f1e77dd870f92198568",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:01.519Z",
+    "exported_at": "2026-04-13T06:15:12.670Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

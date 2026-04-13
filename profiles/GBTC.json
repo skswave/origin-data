@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "GBTC",
+  "name": "Grayscale Bitcoin Trust ETF",
+  "cik": "0001588489",
+  "summary": "PART I Overview of the Trust and the Shares Grayscale Bitcoin Trust ETF (formerly known as Grayscale Bitcoin Trust (BTC)) (the Trust) is a Delaware Statutory Trust that was formed on September 13, 2013 by the filing of the Certificate of Trust with the Delaware Secretary of State in accordance with the provisions of the Delaware Statutory Trust Act. The Trusts purpose is to hold Bitcoin tokens (Bitcoin), which are digital assets that are created and transmitted through the operations of the peer...",
+  "live_api": "https://origin.rootz.global/api/company/GBTC/profile",
+  "origin": {
+    "leaf": "414ca2e1c5869753b93ab2861af5342bc52a141b4fdbe2f87b1fd2875555e820",
+    "parent": "54ba88c761bca961f09c3a4dd81fd4c1415f11054f635fc083927e42fbd584dc",
+    "timestamp": "2026-04-13T06:15:05.939Z",
+    "source": "profile:0001588489",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/414ca2e1c5869753b93ab2861af5342bc52a141b4fdbe2f87b1fd2875555e820",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-13T06:15:05.939Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

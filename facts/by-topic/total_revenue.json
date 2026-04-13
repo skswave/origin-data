@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "total_revenue",
   "label": "Total Revenue",
-  "companies": 55,
-  "total_mentions": 1522,
+  "companies": 57,
+  "total_mentions": 1544,
   "results": [
     {
       "ticker": "JPM",
@@ -158,6 +158,12 @@
         "Q3_FY2026",
         "Q4_FY2026"
       ]
+    },
+    {
+      "ticker": "AMAT",
+      "company": "APPLIED MATERIALS INC /DE",
+      "mentions": 20,
+      "quarters": []
     },
     {
       "ticker": "WMT",
@@ -388,6 +394,12 @@
       ]
     },
     {
+      "ticker": "MAR",
+      "company": "MARRIOTT INTERNATIONAL INC /MD/",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "RVTY",
       "company": "REVVITY, INC.",
       "mentions": 2,
@@ -471,17 +483,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=total_revenue",
   "origin": {
-    "leaf": "ba6f4dad51a32695bdcf91308f26520a897464d4bcab8c2e9b94c508ced3fb59",
+    "leaf": "50023f9f5977551b38c5c37276fe850389c81747ecc349d111dd5bc68b2029ee",
     "parent": "3add50edbab222e72dda6fa006567d9f3c995305243cb573c58095b7dded79b7",
-    "timestamp": "2026-04-12T03:13:01.676Z",
+    "timestamp": "2026-04-13T06:15:12.693Z",
     "source": "topic:total_revenue",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/ba6f4dad51a32695bdcf91308f26520a897464d4bcab8c2e9b94c508ced3fb59",
+    "verify": "https://origin.rootz.global/api/verify/50023f9f5977551b38c5c37276fe850389c81747ecc349d111dd5bc68b2029ee",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:01.676Z",
+    "exported_at": "2026-04-13T06:15:12.693Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -1,0 +1,92 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "MRVL",
+  "company": "Marvell Technology, Inc.",
+  "title": "MRVL Q3 FY2722 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2722",
+  "call_date": null,
+  "word_count": 2623,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "MRVL",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MRVL",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MRVL",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MRVL",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "MRVL",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "MRVL",
+      "predicate": "mentioned",
+      "object": "Marvell",
+      "value": 35,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/MRVL/transcripts",
+  "origin": {
+    "leaf": "7dcc08152436a7038fa68a34b0e7c7a2f1d63ac30060941dec1e14f49f836cf6",
+    "parent": "62f1d866e7c754b30e0f171f7e09ba4b2fb04a5f1498b21ec20119c9ac514d98123fce941a8bfc51d9bb0fbfe6ac4e09",
+    "timestamp": "2026-04-13T06:15:12.385Z",
+    "source": "transcript:MRVL_MRVL_Q3%252722_Additional_Information_FINAL.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7dcc08152436a7038fa68a34b0e7c7a2f1d63ac30060941dec1e14f49f836cf6",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-13T06:15:12.385Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

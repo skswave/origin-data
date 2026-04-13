@@ -1,0 +1,25 @@
+{
+  "schema": "rootz.ai/sec-profile/v1",
+  "ticker": "DAVE",
+  "name": "Dave Inc./DE",
+  "cik": "0001841408",
+  "summary": "\" and \"Item 1A. Risk Factors\" for additional information. Macroeconomic Conditions 58 Our business is sensitive to macroeconomic conditions. Interest rate changes directly impact funding costs and Members' settlement capacity. Unemployment affects Members' ability to repay ExtraCash. Consumer spending patterns and inflation influence cash flow and credit demand. Our real-time underwriting adapts to changing conditions through continuous transaction-level analysis. However, severe macroeconomic d...",
+  "live_api": "https://origin.rootz.global/api/company/DAVE/profile",
+  "origin": {
+    "leaf": "00c71a4d73dbbfd7d53429b29df8de210302c5b989ca95e48036c3fe1e60e9b2",
+    "parent": "e5715cb32434223e83b04ab131d37a94d8fa23c1c0c5e450f9aa15930f1e3dbf",
+    "timestamp": "2026-04-13T06:15:06.698Z",
+    "source": "profile:0001841408",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/00c71a4d73dbbfd7d53429b29df8de210302c5b989ca95e48036c3fe1e60e9b2",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-13T06:15:06.698Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

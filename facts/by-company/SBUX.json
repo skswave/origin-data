@@ -1,9 +1,9 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "SBUX",
-  "total_facts": 111,
+  "total_facts": 108,
   "by_type": {
-    "topic_mention": 36,
+    "topic_mention": 33,
     "metric": 11,
     "outlook": 63,
     "guidance": 1
@@ -1200,42 +1200,6 @@
     {
       "fact_type": "topic_mention",
       "subject": "SBUX",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "SBUX",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "SBUX",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 2,
-      "unit": "mentions",
-      "confidence": 0.74,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "SBUX",
       "predicate": "discussed",
       "object": "Artificial Intelligence",
       "value": 1,
@@ -1344,17 +1308,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/company/SBUX/transcripts",
   "origin": {
-    "leaf": "287b0fd50558018ce2714f3f0cfa2adca4c2e988c5cbe6de07340ab26e04f25e",
+    "leaf": "573a1b4a2c7320aff80d6b48fa8351e0c518f6a3c884a79ea500f49c0795aa68",
     "parent": "e22eae1cd67a1690e588c4e7e33ff78ab4e4bc74009efd6f2af9c33e7aa30644",
-    "timestamp": "2026-04-12T02:43:10.897Z",
+    "timestamp": "2026-04-13T06:15:13.123Z",
     "source": "facts:SBUX",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/287b0fd50558018ce2714f3f0cfa2adca4c2e988c5cbe6de07340ab26e04f25e",
+    "verify": "https://origin.rootz.global/api/verify/573a1b4a2c7320aff80d6b48fa8351e0c518f6a3c884a79ea500f49c0795aa68",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:43:10.897Z",
+    "exported_at": "2026-04-13T06:15:13.123Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",
