@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "robotics",
   "label": "Robotics",
-  "companies": 31,
-  "total_mentions": 133,
+  "companies": 47,
+  "total_mentions": 164,
   "results": [
     {
       "ticker": "JPM",
@@ -33,6 +33,17 @@
         "Q3_FY2021",
         "Q3_FY2022",
         "Q4_FY2022"
+      ]
+    },
+    {
+      "ticker": "BB",
+      "company": "BLACKBERRY Ltd",
+      "mentions": 12,
+      "quarters": [
+        "Q3_FY2026",
+        "Q2_FY2023",
+        "Q3_FY2023",
+        "Q4_FY7064"
       ]
     },
     {
@@ -104,6 +115,15 @@
       "quarters": []
     },
     {
+      "ticker": "AIZ",
+      "company": "ASSURANT, INC.",
+      "mentions": 3,
+      "quarters": [
+        "Q2_FY2025",
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "SYK",
       "company": "STRYKER CORP",
       "mentions": 3,
@@ -120,6 +140,22 @@
       "company": "ADOBE INC.",
       "mentions": 2,
       "quarters": []
+    },
+    {
+      "ticker": "AMPX",
+      "company": "Amprius Technologies, Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "AMS",
+      "company": "AMERICAN SHARED HOSPITAL SERVICES",
+      "mentions": 2,
+      "quarters": [
+        "Q3_FY2025"
+      ]
     },
     {
       "ticker": "FDX",
@@ -158,14 +194,80 @@
       "quarters": []
     },
     {
+      "ticker": "APTV",
+      "company": "Aptiv PLC",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ATR",
+      "company": "APTARGROUP, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "AXON",
+      "company": "AXON ENTERPRISE, INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BDC",
+      "company": "BELDEN INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BOC",
+      "company": "BOSTON OMAHA Corp",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "BSX",
       "company": "BOSTON SCIENTIFIC CORP",
       "mentions": 1,
       "quarters": []
     },
     {
+      "ticker": "BTGO",
+      "company": "BITGO HOLDINGS, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CLF",
+      "company": "CLEVELAND-CLIFFS INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CNH",
+      "company": "CNH Industrial N.V.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CRH",
+      "company": "CRH PUBLIC LTD CO",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "DE",
       "company": "DEERE & CO",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
       "mentions": 1,
       "quarters": []
     },
@@ -214,6 +316,18 @@
       "quarters": []
     },
     {
+      "ticker": "MSCI",
+      "company": "MSCI Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks Inc",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "STX",
       "company": "Seagate Technology Holdings plc",
       "mentions": 1,
@@ -238,17 +352,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=robotics",
   "origin": {
-    "leaf": "e69612f4b75c885bf0ffb31ddd2c32d971fac28c1085514f961e71718165c3a0",
+    "leaf": "3224e3b0cb96b267c41de4caa8efc06b1af2d4dc4bf188328b43c8c7bc9d285c",
     "parent": "af7cb56b787dac99a12618399b7d2b6330bd82370dae799bbcb4f195dd5df8e4",
-    "timestamp": "2026-04-13T06:15:12.685Z",
+    "timestamp": "2026-04-14T06:15:12.763Z",
     "source": "topic:robotics",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/e69612f4b75c885bf0ffb31ddd2c32d971fac28c1085514f961e71718165c3a0",
+    "verify": "https://origin.rootz.global/api/verify/3224e3b0cb96b267c41de4caa8efc06b1af2d4dc4bf188328b43c8c7bc9d285c",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-13T06:15:12.685Z",
+    "exported_at": "2026-04-14T06:15:12.763Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

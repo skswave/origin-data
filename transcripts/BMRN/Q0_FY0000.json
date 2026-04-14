@@ -1,0 +1,112 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BMRN",
+  "company": "BIOMARIN PHARMACEUTICAL INC",
+  "title": "BMRN   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 2972,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMRN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BMRN gross margin",
+      "predicate": "reported",
+      "object": "$12.7 percent",
+      "value": 12.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BMRN EPS",
+      "predicate": "reported",
+      "object": "$1.80",
+      "value": 1.8,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMRN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMRN",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMRN",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMRN",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BMRN",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BMRN/transcripts",
+  "origin": {
+    "leaf": "9a9f590f1fc2f11f1cfae0e6b33b71835569c623b39b397292a2bf420dc2200e",
+    "parent": "f8bec31693e39e5cd95a7252a7b5e26e0f6e737759e6b729ed0cb523633d3ddaf10e9b3ba8a9fd72a61ffc4466383b38",
+    "timestamp": "2026-04-14T06:15:11.737Z",
+    "source": "transcript:BMRN_BioMarin-Q4-25-Earnings-Presentation-FINAL.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/9a9f590f1fc2f11f1cfae0e6b33b71835569c623b39b397292a2bf420dc2200e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.737Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

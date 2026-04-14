@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "trusted_computing",
   "label": "Trusted Computing",
-  "companies": 13,
-  "total_mentions": 21,
+  "companies": 23,
+  "total_mentions": 31,
   "results": [
     {
       "ticker": "JPM",
@@ -28,12 +28,60 @@
       "quarters": []
     },
     {
+      "ticker": "APLE",
+      "company": "Apple Hospitality REIT, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ASIC",
+      "company": "Ategrity Specialty Insurance Co Holdings",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ATR",
+      "company": "APTARGROUP, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BLZE",
+      "company": "Backblaze, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BOC",
+      "company": "BOSTON OMAHA Corp",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CF",
+      "company": "CF Industries Holdings, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "CI",
       "company": "Cigna Group",
       "mentions": 1,
       "quarters": [
         "Q4_FY2025"
       ]
+    },
+    {
+      "ticker": "CRH",
+      "company": "CRH PUBLIC LTD CO",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "mentions": 1,
+      "quarters": []
     },
     {
       "ticker": "GILD",
@@ -88,25 +136,37 @@
       "quarters": []
     },
     {
+      "ticker": "VRSK",
+      "company": "Verisk Analytics, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "WBD",
       "company": "Warner Bros. Discovery, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "WRB",
+      "company": "BERKLEY W R CORP",
       "mentions": 1,
       "quarters": []
     }
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=trusted_computing",
   "origin": {
-    "leaf": "8055648c1f4708b870f409f900765ede2fc4281aca83cef9fa504e7d86da491a",
+    "leaf": "bab391ad53fab2b60b70d65c43e76c3283981e56acf26d0c9c8435f82736e408",
     "parent": "1586a1cbbb1cf84ef3ae1edef80cabc8221ffe0d3b32b7dc181cfdaf274c6a66",
-    "timestamp": "2026-04-13T06:15:12.693Z",
+    "timestamp": "2026-04-14T06:15:12.770Z",
     "source": "topic:trusted_computing",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/8055648c1f4708b870f409f900765ede2fc4281aca83cef9fa504e7d86da491a",
+    "verify": "https://origin.rootz.global/api/verify/bab391ad53fab2b60b70d65c43e76c3283981e56acf26d0c9c8435f82736e408",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-13T06:15:12.693Z",
+    "exported_at": "2026-04-14T06:15:12.771Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

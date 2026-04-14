@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "gpu_product",
   "label": "Gpu Product",
-  "companies": 10,
-  "total_mentions": 130,
+  "companies": 13,
+  "total_mentions": 190,
   "results": [
     {
       "ticker": "NVDA",
@@ -20,6 +20,18 @@
       "ticker": "SMCI",
       "company": "Super Micro Computer, Inc.",
       "mentions": 33,
+      "quarters": []
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "mentions": 29,
+      "quarters": []
+    },
+    {
+      "ticker": "AAL",
+      "company": "American Airlines Group Inc.",
+      "mentions": 26,
       "quarters": []
     },
     {
@@ -61,6 +73,14 @@
       ]
     },
     {
+      "ticker": "SCHW",
+      "company": "SCHWAB CHARLES CORP",
+      "mentions": 5,
+      "quarters": [
+        "Q2_FY2024"
+      ]
+    },
+    {
       "ticker": "AMZN",
       "company": "AMAZON COM INC",
       "mentions": 3,
@@ -91,17 +111,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=gpu_product",
   "origin": {
-    "leaf": "7710303bbf13ff06981376e939fc8cea4534bfc6e86bafcef31ffb70df8195f6",
+    "leaf": "48a89be9530027b1de31d0f7aae5438a4138af1f867f361f8df9e05944c18192",
     "parent": "85462694c0e54d736de6433ed85cb2b5a50198968ec91f2bb99d06e9ef6b4c18",
-    "timestamp": "2026-04-12T03:13:01.517Z",
+    "timestamp": "2026-04-14T06:15:12.740Z",
     "source": "topic:gpu_product",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/7710303bbf13ff06981376e939fc8cea4534bfc6e86bafcef31ffb70df8195f6",
+    "verify": "https://origin.rootz.global/api/verify/48a89be9530027b1de31d0f7aae5438a4138af1f867f361f8df9e05944c18192",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:01.517Z",
+    "exported_at": "2026-04-14T06:15:12.740Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -1,0 +1,112 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "XAIR",
+  "company": "Beyond Air, Inc.",
+  "title": "XAIR Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 2090,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "XAIR gross margin",
+      "predicate": "reported",
+      "object": "$24.6 percent",
+      "value": 24.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "XAIR",
+      "predicate": "guided",
+      "object": "FY 2025\n\nFY 2025 Financial Results  $1,044.6 Million",
+      "value": 1044.6,
+      "unit": "Million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "XAIR",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "XAIR",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "XAIR",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "XAIR",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "XAIR",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "XAIR",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/XAIR/transcripts",
+  "origin": {
+    "leaf": "5c245f4184bae4b44a2b4fcce7ee9a14ddfd4a91e4189e1877732dae8a288773",
+    "parent": "049022ea4212844b73e23cc45de1e7bfe215c96b9e0cc52757f5729c23d55a30d4eec9ee9c4574b8f7c2baf7eb990308",
+    "timestamp": "2026-04-14T06:15:12.678Z",
+    "source": "transcript:XAIR_Q4-2025-Earnings-Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5c245f4184bae4b44a2b4fcce7ee9a14ddfd4a91e4189e1877732dae8a288773",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:12.678Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

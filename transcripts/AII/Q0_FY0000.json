@@ -1,0 +1,122 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AII",
+  "company": "American Integrity Insurance Group, Inc.",
+  "title": "AII   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 6297,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AII",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AII",
+      "predicate": "stated",
+      "object": "we believe positions us for further success as we execute our growth initiatives focused on our entry into the Tri-county region of Florida, our expansion into ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AII",
+      "predicate": "stated",
+      "object": "we believe will fuel our expansion in the years to come and create substantial value for our stockholders",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AII",
+      "predicate": "stated",
+      "object": "we believe it gives us and users of our financial information useful insight into our results of operations and our underlying business performance excluding th",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AII",
+      "predicate": "stated",
+      "object": "We believe it is useful for investors to evaluate these components both separately and in the aggregate when reviewing our performance",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AII",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AII",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AII",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AII",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AII/transcripts",
+  "origin": {
+    "leaf": "7bde4e88cd3edc48825aa595b2c8834c650483a0c89769bbc5c4b110dce42976",
+    "parent": "d23ca5bbaa1d8af44c8635b8edbd76de75847bfe11bb336143be00bad35e0bb5acd1749e1a81c2cfbe1f7c437624ed55",
+    "timestamp": "2026-04-14T06:15:11.595Z",
+    "source": "transcript:AII_AII-Earnings-Release-4Q25.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/7bde4e88cd3edc48825aa595b2c8834c650483a0c89769bbc5c4b110dce42976",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.595Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "gaming",
   "label": "Gaming",
-  "companies": 46,
-  "total_mentions": 317,
+  "companies": 64,
+  "total_mentions": 397,
   "results": [
     {
       "ticker": "AMD",
@@ -80,9 +80,21 @@
       ]
     },
     {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "mentions": 25,
+      "quarters": []
+    },
+    {
       "ticker": "DIS",
       "company": "Walt Disney Co",
       "mentions": 22,
+      "quarters": []
+    },
+    {
+      "ticker": "AAL",
+      "company": "American Airlines Group Inc.",
+      "mentions": 17,
       "quarters": []
     },
     {
@@ -157,6 +169,12 @@
       ]
     },
     {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks Inc",
+      "mentions": 9,
+      "quarters": []
+    },
+    {
       "ticker": "DAL",
       "company": "DELTA AIR LINES, INC.",
       "mentions": 8,
@@ -195,6 +213,18 @@
       ]
     },
     {
+      "ticker": "REGN",
+      "company": "REGENERON PHARMACEUTICALS, INC.",
+      "mentions": 6,
+      "quarters": []
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "mentions": 6,
+      "quarters": []
+    },
+    {
       "ticker": "ADBE",
       "company": "ADOBE INC.",
       "mentions": 5,
@@ -202,6 +232,12 @@
         "Q2_FY2024",
         "Q3_FY2024"
       ]
+    },
+    {
+      "ticker": "SLB",
+      "company": "SLB LIMITED/NV",
+      "mentions": 5,
+      "quarters": []
     },
     {
       "ticker": "PYPL",
@@ -284,6 +320,12 @@
       ]
     },
     {
+      "ticker": "AGO",
+      "company": "ASSURED GUARANTY LTD",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "ALNT",
       "company": "ALLIENT INC",
       "mentions": 1,
@@ -292,6 +334,44 @@
     {
       "ticker": "AMAT",
       "company": "APPLIED MATERIALS INC /DE",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ATEN",
+      "company": "A10 Networks, Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "AXON",
+      "company": "AXON ENTERPRISE, INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BB",
+      "company": "BLACKBERRY Ltd",
+      "mentions": 1,
+      "quarters": [
+        "Q2_FY2023"
+      ]
+    },
+    {
+      "ticker": "BBSI",
+      "company": "BARRETT BUSINESS SERVICES INC",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BBY",
+      "company": "BEST BUY CO INC",
       "mentions": 1,
       "quarters": []
     },
@@ -310,6 +390,26 @@
     {
       "ticker": "CAH",
       "company": "CARDINAL HEALTH INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CARR",
+      "company": "CARRIER GLOBAL Corp",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CLF",
+      "company": "CLEVELAND-CLIFFS INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "CNH",
+      "company": "CNH Industrial N.V.",
       "mentions": 1,
       "quarters": []
     },
@@ -394,6 +494,12 @@
       "quarters": []
     },
     {
+      "ticker": "SCHW",
+      "company": "SCHWAB CHARLES CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "SNOW",
       "company": "Snowflake Inc.",
       "mentions": 1,
@@ -406,21 +512,37 @@
       "company": "Uber Technologies, Inc",
       "mentions": 1,
       "quarters": []
+    },
+    {
+      "ticker": "VRSK",
+      "company": "Verisk Analytics, Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "WRB",
+      "company": "BERKLEY W R CORP",
+      "mentions": 1,
+      "quarters": [
+        "Q2_FY2026"
+      ]
     }
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=gaming",
   "origin": {
-    "leaf": "ef7b6d4726f58fa1d297da30998529b6c5bd549623a600623812a21576fdcdde",
+    "leaf": "f441c5f19140b610cde4be4a28bd12a886519d619e550ede891352807a6665aa",
     "parent": "e81e3efb3108c6320f98d2ca1c9baf6fe6f9dc3378957b7a9dee513d77ca2b73",
-    "timestamp": "2026-04-13T06:15:12.667Z",
+    "timestamp": "2026-04-14T06:15:12.738Z",
     "source": "topic:gaming",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/ef7b6d4726f58fa1d297da30998529b6c5bd549623a600623812a21576fdcdde",
+    "verify": "https://origin.rootz.global/api/verify/f441c5f19140b610cde4be4a28bd12a886519d619e550ede891352807a6665aa",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-13T06:15:12.667Z",
+    "exported_at": "2026-04-14T06:15:12.738Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

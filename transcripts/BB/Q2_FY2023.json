@@ -1,0 +1,403 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BB",
+  "company": "BLACKBERRY Ltd",
+  "title": "BB Q2 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 7184,
+  "speakers": [
+    {
+      "name": "BlackBerry   Limited",
+      "title": "Second   Quarter Fiscal Year 202 3   Results Conference Call,   September 27,   202 2  C O R P O R A T E   P A R T I C I P A N T S  John Chen ,   Executive Chairman and Chief Executive Officer  Steve   Rai ,   Chief   Financial Officer  Tim Foote ,   Investor Relations  C O N F E R E N C E   C A L L   P A R T I C I P A N T S  Mike Walkley ,   Canaccord   Genui ty  Luke Junk ,   RW Baird & Co  Paul Treiber , RBC   Capital Markets  Todd Coupland ,   CIBC   Capital Markets  Trip Chowdhry , Global Equities Research  P R E S E N T   A T I O N  Operator  Good afternoon and welcome to the BlackBerry Second Quarter Fiscal Year 2023 Results Conference Call",
+      "firm": "P R E S E N T   A T I O N  Operator  Good afternoon and welcome to the BlackBerry Second Quarter Fiscal Year 2023 Results Conference Call",
+      "speaker_type": "operator",
+      "mention_count": 15
+    },
+    {
+      "name": "Mike Walkley",
+      "title": "Canaccord Genuity  Yeah",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 9
+    },
+    {
+      "name": "Paul Treiber",
+      "title": "RBC Capital Markets  And then, just if I can just squeeze in one more just in regards to the patent portfolio",
+      "firm": "just if I can just squeeze in one more just in regards to the patent portfolio",
+      "speaker_type": "other",
+      "mention_count": 7
+    },
+    {
+      "name": "Todd Coupland",
+      "title": "CIBC   Capital   Markets  Where you commented on ARR growth expe cted over the next   –   early next year",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 7
+    },
+    {
+      "name": "Luke Junk",
+      "title": "R W   Baird & Co  Okay",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 6
+    },
+    {
+      "name": "Mike.  Mike Walkley",
+      "title": "Canaccord Genuity  Hey, guys",
+      "firm": "guys",
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Paul.  Paul Treiber",
+      "title": "RBC Capital Markets  Hi, John",
+      "firm": "John",
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "John Chen  Yeah.  Paul Treiber",
+      "title": "RBC Capital Markets",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Todd.  Todd Coupland",
+      "title": "CIBC   Capital   Markets  Hey there, John",
+      "firm": "John",
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Trip.  Trip Chowdhry",
+      "title": "Global   Equities Research  Thank you",
+      "firm": "Thank you",
+      "speaker_type": "analyst",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 18,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 18,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BB gross margin",
+      "predicate": "reported",
+      "object": "$55 percent",
+      "value": 55,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BB gross margin",
+      "predicate": "reported",
+      "object": "$64 percent",
+      "value": 64,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BB",
+      "predicate": "guided",
+      "object": "expect fiscal year 23 revenue for the IoT business unit  to still be in the   range of   $200   -   $210 million",
+      "value": 210,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BB",
+      "predicate": "guided",
+      "object": "expectation s at  $111 million",
+      "value": 111,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "We expect fiscal year 23 revenue for the IoT business unit  to still be in the   range of   $200   -   $210 million , as previously stated",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "we expect our next product release in December, and we remain focused on IVY design  wins, which we currently expect to secure in calendar year 2023",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "we expect to see more traction as these new hires fully  ramp up",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "we believe the turmoil in the financial markets created unexpected challenges for their  original financing syndicate",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "we believe that therefore my statement about the revenue   being   relatively flat ,   in line with the  last fiscal year is the proper statement, and then ther",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "we expected to either get or renew and ones that are being attacked, especially the mid - market  stake",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "We believe that the major part of our headw ind is behind us   –   will be behind us after Q4, sorry",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "we expect ARR to have a year - over - year incr ease and we  should continue that trend going forward",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BB",
+      "predicate": "guided",
+      "object": "fiscal year 23 revenue for the IoT business unit  to still be in the   range of   $200   -   $210 million",
+      "value": 210,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BB",
+      "predicate": "guided",
+      "object": "Fiscal Year 202 3   Results Conference Call,   September 27,   202 2  Moving onto the Cybersecurity business unit, revenue for the quarter was in line with expectation s at  $111 million",
+      "value": 111,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Autonomous Vehicles",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "autonomous"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Robotics",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "robotics"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "BB",
+      "predicate": "mentioned",
+      "object": "Microsoft",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "BB",
+      "predicate": "mentioned",
+      "object": "Qualcomm",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "BB",
+      "predicate": "mentioned",
+      "object": "Google",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BB/transcripts",
+  "origin": {
+    "leaf": "c2bb8225e4e24d4da158dfcddde1aa9c451c36165dcabbe05fbcc0352ef9db42",
+    "parent": "435291479cf56e42601c4a9261a2be7c45f08a2c083586a7a689246153cfdbcc924840d04a00fd7172622ff13889a955",
+    "timestamp": "2026-04-14T06:15:11.716Z",
+    "source": "transcript:BB_blackberry-limited-q2-fiscal-year-2023-results-conference-call-transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c2bb8225e4e24d4da158dfcddde1aa9c451c36165dcabbe05fbcc0352ef9db42",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.716Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

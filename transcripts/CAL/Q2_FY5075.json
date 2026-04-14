@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CAL",
+  "company": "CALERES INC",
+  "title": "CAL Q2 FY5075 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY5075",
+  "call_date": null,
+  "word_count": 5926,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAL",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAL",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 29,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL gross margin",
+      "predicate": "reported",
+      "object": "$43.4 percent",
+      "value": 43.4,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL gross margin",
+      "predicate": "reported",
+      "object": "$40.3 percent",
+      "value": 40.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL gross margin",
+      "predicate": "reported",
+      "object": "$43.7 percent",
+      "value": 43.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL gross margin",
+      "predicate": "reported",
+      "object": "$2.4 percent",
+      "value": 2.4,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL gross margin",
+      "predicate": "reported",
+      "object": "$3.1 percent",
+      "value": 3.1,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL EPS",
+      "predicate": "reported",
+      "object": "$0.35.",
+      "value": 0.35,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we expect immediate expense savings in areas such as distribution, logistics and media buying, with further structural actions to follow",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we expect continued pressure on Brand Portfolio gross margin in the second half",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we expect Brand Portfolio 3Q gross margin, excluding Stuart Weitzman, to be down a similar amount to 2Q, with improvement in the trend in 4Q, as we realize mor",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we expect a modest increase in 3Q versus last year, with more of the benefit in 4Q from the restructuring we just completed",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we expect to complete by the end of January, and then we said that those\n\n8  ViaVid has made considerable efforts to provide an accurate transcription",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we expect that overall gross margins of the Brand Portfolio to be down similar to what they were in Q2, which was down that 240 basis points",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CAL/transcripts",
+  "origin": {
+    "leaf": "973deb4eb01a72545a8c1dbc380739e861fef808a9e5cee9da0b43d5a6d47f22",
+    "parent": "2062f3f4f5f502ec865af66726118a287f561c52232411134b2597a05db9ac6affc94d35e3abf708736583dbd658e2b0",
+    "timestamp": "2026-04-14T06:15:11.765Z",
+    "source": "transcript:CAL_FINAL-090425-Caleres-Inc-Q2-2025-Earnings-Call-13755075.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/973deb4eb01a72545a8c1dbc380739e861fef808a9e5cee9da0b43d5a6d47f22",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.765Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

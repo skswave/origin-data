@@ -1,0 +1,142 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AGO",
+  "company": "ASSURED GUARANTY LTD",
+  "title": "AGO   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 3730,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "outlook",
+      "subject": "AGO",
+      "predicate": "stated",
+      "object": "We believe we are well positioned for growth in 2026 and beyond",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AGO",
+      "predicate": "stated",
+      "object": "We believe we have  significant short - term and long - term opportunities for growth across our financial guaranty  markets",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AGO",
+      "predicate": "stated",
+      "object": "we believe provide the most attractive returns",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AGO",
+      "predicate": "stated",
+      "object": "we expect to add another   source of earnings separate  from our financial guaranty business",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AGO",
+      "predicate": "stated",
+      "object": "we believe that that's going to  continue",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AGO",
+      "predicate": "stated",
+      "object": "we believe that any pain that probably has been  experienced in the market to date, for many of the names that have been in there, we've  experienced",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AGO",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AGO",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AGO",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AGO",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AGO",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AGO/transcripts",
+  "origin": {
+    "leaf": "cd329e60f74366e37a37c5ca5715dcbe44b209e1af0c38d3bd97a6fbf4d7d790",
+    "parent": "579515ca7ea2623d97fe49ec66fb8d5ce976a47090d19f2e86668b66470bf7c08562bf57e11f318425ef4df6b2194395",
+    "timestamp": "2026-04-14T06:15:11.594Z",
+    "source": "transcript:AGO_4Q25_Earnings_Call_Full_Transcript_.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cd329e60f74366e37a37c5ca5715dcbe44b209e1af0c38d3bd97a6fbf4d7d790",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.594Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

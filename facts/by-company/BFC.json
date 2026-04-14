@@ -1,61 +1,37 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "BFC",
-  "total_facts": 3,
+  "total_facts": 1,
   "by_type": {
-    "topic_mention": 3
+    "topic_mention": 1
   },
   "facts": [
     {
       "fact_type": "topic_mention",
       "subject": "BFC",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
       "value": 1,
       "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BFC",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "platform",
-      "fiscal_quarter": null,
-      "fiscal_year": null
-    },
-    {
-      "fact_type": "topic_mention",
-      "subject": "BFC",
-      "predicate": "discussed_in_filing",
-      "object": "Platform & Ecosystem",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "platform",
+      "confidence": 0.73,
+      "topic": "sovereign",
       "fiscal_quarter": null,
       "fiscal_year": null
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/BFC/transcripts",
   "origin": {
-    "leaf": "debbfceb095cd869005df5a5bc03c8a7446eb711ff1ebe997ab5fbc15baf1683",
+    "leaf": "51f2f128dc5e1cf5dbd7d86275dac9330f536b01aff3dc99dfb0710d38dcd931",
     "parent": "7b7ebad946e13ec5193d8d8c0d0e7c5ad87e24904c43fabcdebf30660f5e7ac3",
-    "timestamp": "2026-04-12T03:13:54.349Z",
+    "timestamp": "2026-04-14T06:15:32.831Z",
     "source": "facts:BFC",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/debbfceb095cd869005df5a5bc03c8a7446eb711ff1ebe997ab5fbc15baf1683",
+    "verify": "https://origin.rootz.global/api/verify/51f2f128dc5e1cf5dbd7d86275dac9330f536b01aff3dc99dfb0710d38dcd931",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:54.349Z",
+    "exported_at": "2026-04-14T06:15:32.831Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

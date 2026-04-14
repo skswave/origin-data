@@ -1,0 +1,142 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AWI",
+  "company": "ARMSTRONG WORLD INDUSTRIES INC",
+  "title": "AWI Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 4665,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AWI",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 15,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AWI",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AWI gross margin",
+      "predicate": "reported",
+      "object": "$23.7 percent",
+      "value": 23.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AWI gross margin",
+      "predicate": "reported",
+      "object": "$32.0 percent",
+      "value": 32,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AWI EPS",
+      "predicate": "reported",
+      "object": "$1.51",
+      "value": 1.51,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AWI EPS",
+      "predicate": "reported",
+      "object": "$1.61",
+      "value": 1.61,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AWI EPS",
+      "predicate": "reported",
+      "object": "$7.84",
+      "value": 7.84,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AWI",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AWI",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AWI",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AWI",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AWI/transcripts",
+  "origin": {
+    "leaf": "2e0968565829eacf43d64fea3ee29bc5573374fbe8fc12299cfeee2bc11bbb57",
+    "parent": "77696a40ac58172a400ad52f5def4c21d0a4936c360ce230a41ed63210474617d5cfcfe64ca7ef613fb90c6ba7508879",
+    "timestamp": "2026-04-14T06:15:11.692Z",
+    "source": "transcript:AWI_AWI-Q4-2025-Earnings-Call-Presentation_v7.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2e0968565829eacf43d64fea3ee29bc5573374fbe8fc12299cfeee2bc11bbb57",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.692Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

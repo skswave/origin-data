@@ -1,0 +1,52 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BBY",
+  "company": "BEST BUY CO INC",
+  "title": "BBY   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 889,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BBY",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BBY",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BBY/transcripts",
+  "origin": {
+    "leaf": "65eb7a81ad385a44d8ba88fe6d31a0daac319f4ab1c4f00ff87dba890ed39b9a",
+    "parent": "72ecb6f346998a02ddc28d7dc4bbe232f3df5dac068d34308afc1f8faba48c3b5ca40ac88eb6fd99a0ae320d4da1515e",
+    "timestamp": "2026-04-14T06:15:11.729Z",
+    "source": "transcript:BBY_Non-GAAP-Reconciliation-Q4.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/65eb7a81ad385a44d8ba88fe6d31a0daac319f4ab1c4f00ff87dba890ed39b9a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.729Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

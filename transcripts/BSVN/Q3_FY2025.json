@@ -1,0 +1,127 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BSVN",
+  "company": "Bank7 Corp.",
+  "title": "BSVN Q3 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 5649,
+  "speakers": [
+    {
+      "name": "BSVN",
+      "title": "Corporate Overview Consistently ranked by S & P Global Market Intelligence as one of the Top Performing Community Banks in the United States  ■   Consistently produce top tier earnings and ROATCE   (3)  ■   Proven ability to maintain a healthy net interest margin through various interest rate cycles  ■   Abundant liquidity and a properly matched balance sheet  ■   Disciplined credit culture that adheres to our comprehensive risk management practices  ■   High level of capital provides comfort and flexibility  ■   EPS: Strong performance not driven by share buybacks  ■   Dividend Payout Ratio: 21",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 20
+    },
+    {
+      "name": "I   Energy  Loan Portfolio Trends",
+      "title": "Selected Categories  Dollars in millions (1)   No single loan category within 'Other' exceeds 10% of the total loan portfolio CAGR Since 2020: 13",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BSVN gross margin",
+      "predicate": "reported",
+      "object": "$3.34 percent",
+      "value": 3.34,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BSVN gross margin",
+      "predicate": "reported",
+      "object": "$5.07 percent",
+      "value": 5.07,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BSVN EPS",
+      "predicate": "reported",
+      "object": "$2.05",
+      "value": 2.05,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BSVN",
+      "predicate": "guided",
+      "object": "guidance of any kind (1)   DFAST = Dodd-Frank Act Stress Test (2)   Excess capital to target ratio expressed in % is the difference between the actual ratio and regulatory minimum divided by the regul",
+      "value": 58,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BSVN",
+      "predicate": "stated",
+      "object": "We believe that these sources and estimates are reliable, but have not independently verified them",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BSVN/transcripts",
+  "origin": {
+    "leaf": "c5552b46df4b7fbb51cbfa38e6ca95b7f9c076cf50faf546ffd861c8fbb1d2db",
+    "parent": "f45e37e9fed51ea29dabab691d58017fcb7a3a787f22986916a7ed616aca1de0013a83e743a75fb2610290fb802a32ec",
+    "timestamp": "2026-04-14T06:15:11.746Z",
+    "source": "transcript:BSVN_Bank7Corp+Q3+2025+Earnings+Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c5552b46df4b7fbb51cbfa38e6ca95b7f9c076cf50faf546ffd861c8fbb1d2db",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.746Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

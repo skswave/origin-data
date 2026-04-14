@@ -1,0 +1,140 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "SCHW",
+  "company": "SCHWAB CHARLES CORP",
+  "title": "SCHW Q1 FY2020 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2020",
+  "call_date": null,
+  "word_count": 4895,
+  "speakers": [
+    {
+      "name": "Part II",
+      "title": "Item 8 – Note 25 of our 2019 Annual Report on Form 10-K",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "SCHW total revenue",
+      "predicate": "reported",
+      "object": "$1.6 billion",
+      "value": 1.6,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SCHW gross margin",
+      "predicate": "reported",
+      "object": "$40.0 percent",
+      "value": 40,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SCHW EPS",
+      "predicate": "reported",
+      "object": "$.58",
+      "value": 0.58,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/SCHW/transcripts",
+  "origin": {
+    "leaf": "1aaa96ce63d790a6b12dc4f5dcd01c42f94d691dda4a894d124c58aa4bad4b6a",
+    "parent": "b9d91b2f4991e27559fd7c8fb1b88d646e7d7414f1ed094b7c0f9ca5c453cc0d2774925b80ddbac3eeb1ea1094c0921c",
+    "timestamp": "2026-04-14T06:15:12.466Z",
+    "source": "transcript:SCHW_schw_q1_2020_earnings_release.PDF",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1aaa96ce63d790a6b12dc4f5dcd01c42f94d691dda4a894d124c58aa4bad4b6a",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:12.466Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

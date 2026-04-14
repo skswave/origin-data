@@ -1,0 +1,491 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CARR",
+  "company": "CARRIER GLOBAL Corp",
+  "title": "CARR Q4 FY2026 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2026",
+  "call_date": null,
+  "word_count": 12882,
+  "speakers": [
+    {
+      "name": "Patrick P. Goris",
+      "title": "Executive Vice President & Chief   Financial and Strategy Officer, Carrier  Global Corp.",
+      "firm": "Carrier  Global",
+      "speaker_type": "executive",
+      "mention_count": 22
+    },
+    {
+      "name": "C. Stephen Tusa",
+      "title": "Analyst, JPMorgan Securities LLC",
+      "firm": "JPMorgan Securities",
+      "speaker_type": "analyst",
+      "mention_count": 8
+    },
+    {
+      "name": "Tommy Moll",
+      "title": "Analyst, Stephens, Inc.",
+      "firm": "Stephens",
+      "speaker_type": "analyst",
+      "mention_count": 8
+    },
+    {
+      "name": "Deane Dray",
+      "title": "Analyst, RBC Capital Markets LLC",
+      "firm": "RBC Capital Markets",
+      "speaker_type": "analyst",
+      "mention_count": 7
+    },
+    {
+      "name": "Nigel Coe",
+      "title": "Analyst, Wolfe Research LLC",
+      "firm": "Wolfe Research",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Julian Mitchell",
+      "title": "Analyst, Barclays Capital, Inc.",
+      "firm": "Barclays Capital",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Scott Reed Davis",
+      "title": "Analyst, Melius Research LLC",
+      "firm": "Melius Research",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Andrew Kaplowitz",
+      "title": "Analyst, Citigroup Global Markets, Inc.",
+      "firm": "Citigroup Global Markets",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Amit Mehrotra",
+      "title": "Analyst,   UBS Securities LLC",
+      "firm": "UBS Securities",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Chris Snyder",
+      "title": "Analyst, Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Joseph O'Dea",
+      "title": "Analyst, Wells Fargo Securities LLC",
+      "firm": "Wells Fargo Securities",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Carrier Global Corp.   A  We",
+      "title": "Steve, we announced a price increase of up to, I think 5% or 6% effective in March and we think we'll  realize in that low - single digit range",
+      "firm": "we announced a price increase of up to",
+      "speaker_type": "other",
+      "mention_count": 4
+    },
+    {
+      "name": "Michael S. Rednor",
+      "title": "Vice President - Investor Relations, Carrier Global Corp.",
+      "firm": "Carrier Global",
+      "speaker_type": "executive",
+      "mention_count": 3
+    },
+    {
+      "name": "Joe Ritchi e",
+      "title": "Analyst, Goldman Sachs & Co.",
+      "firm": "Goldman Sachs &",
+      "speaker_type": "analyst",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CARR",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 13,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CARR",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CARR",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 123,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CARR EPS",
+      "predicate": "reported",
+      "object": "$0.34.",
+      "value": 0.34,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "CARR",
+      "predicate": "mentioned",
+      "object": "Vera Rubin",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "CARR",
+      "predicate": "mentioned",
+      "object": "Blackwell",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CARR",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CARR",
+      "predicate": "guided",
+      "object": "outlook, the   cost actions that we execute into 2025 will deliver over $100 million",
+      "value": 100,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CARR",
+      "predicate": "guided",
+      "object": "expect flat to low - mid single digit organic  growth and reported sales of approximately $22 billion",
+      "value": 22,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CARR",
+      "predicate": "guided",
+      "object": "expected to be about  $3.4 billion",
+      "value": 3.4,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CARR",
+      "predicate": "guided",
+      "object": "expect free cash flow to be approximately $2 billion",
+      "value": 2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "we expected in the second half of the year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "We expect continued softness in total heating units in 2026,  resulting in expected flat sales, with our growth initiatives being offset by lower industry volu",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "we expect  that about 40% of our portfolio, commercial HVAC and aftermarket will continue to grow double digits",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "We expect flat to low - mid single digit organic  growth and reported sales of approximately $22 billion",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "we expect CSA and CSE to be up low - single digit, while CSAME and CST are expected to be about  flat ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "we expect a very difficult first half, followed by growth in the second half as we  benefit from the absence of destocking",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "We expect free cash flow to be approximately $2 billion, which will be second half weighted,  reflecting our normal seasonality",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "We expect adjusted EPS of approx imately $2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "We anticipate total company Q1 revenues to be about $5 billion, with organic  revenue down high - single digits, including CSA Resi down over 20%",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "We expect Q1 company operating   margin  to be about 10%, largely reflecting the sales and manufacturing volume pressure in our higher margin short - cycle  bu",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "we expect sales and EPS to be pretty well balanced between the first and second half of the year in  abso lute terms, the year - on - year growth in sales and ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "We expect them to be close to about 15% in  Q1",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "we expect them   –   we expect Resi sales in Q1 in the  Americas to be down about 20% t o 25%",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "we believe that the dist ributor inventory destocking that occurred in the  second half of last year is substantially behind us",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "we expect our sales and our volume to be down high - single digits year - over - year, with  o ur sales including about a low - single digit benefit from prici",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "We expect China to be down about high - single digits",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "we expect margins to improve in that mid - 20s  range, as you mentioned for CSA",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "we expect to have high  incrementals",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "we expect to hold steady at that number, if not  increase",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CARR",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error   - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CARR",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CARR",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CARR",
+      "predicate": "discussed",
+      "object": "Quantum Computing",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "quantum"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CARR",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CARR",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CARR/transcripts",
+  "origin": {
+    "leaf": "ddab28d88730b08783c150940676fa74a3276f48b8cb755590d323ff91f26c08",
+    "parent": "e6c16eaddac7f078a5e2ce647c5c832a42a65fd6bc77962d8c85f28ca05bd7d42b13341aa8db89ee602b65596ecb4671",
+    "timestamp": "2026-04-14T06:15:11.765Z",
+    "source": "transcript:CARR_Carrier-Global-Corp-CARR-US-Q4-2025-Earnings-Call-5-February-2026-7_30-AM-ET_CORRECTED-TRANSCRIPT.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ddab28d88730b08783c150940676fa74a3276f48b8cb755590d323ff91f26c08",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.765Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

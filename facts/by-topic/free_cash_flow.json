@@ -2,9 +2,15 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "free_cash_flow",
   "label": "Free Cash Flow",
-  "companies": 34,
-  "total_mentions": 149,
+  "companies": 53,
+  "total_mentions": 238,
   "results": [
+    {
+      "ticker": "SLB",
+      "company": "SLB LIMITED/NV",
+      "mentions": 34,
+      "quarters": []
+    },
     {
       "ticker": "DAL",
       "company": "DELTA AIR LINES, INC.",
@@ -44,6 +50,18 @@
         "Q3_FY2018",
         "Q4_FY2017"
       ]
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks Inc",
+      "mentions": 13,
+      "quarters": []
+    },
+    {
+      "ticker": "AAL",
+      "company": "American Airlines Group Inc.",
+      "mentions": 11,
+      "quarters": []
     },
     {
       "ticker": "WMT",
@@ -111,6 +129,21 @@
       ]
     },
     {
+      "ticker": "BKR",
+      "company": "Baker Hughes Co",
+      "mentions": 4,
+      "quarters": [
+        "Q2_FY2025",
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "DDOG",
+      "company": "Datadog, Inc.",
+      "mentions": 4,
+      "quarters": []
+    },
+    {
       "ticker": "MMM",
       "company": "3M CO",
       "mentions": 4,
@@ -119,10 +152,38 @@
       ]
     },
     {
+      "ticker": "AMRZ",
+      "company": "Amrize Ltd",
+      "mentions": 3,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "COTY",
+      "company": "COTY INC.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "SMCI",
       "company": "Super Micro Computer, Inc.",
       "mentions": 3,
       "quarters": []
+    },
+    {
+      "ticker": "ALB",
+      "company": "ALBEMARLE CORP",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "AMZN",
@@ -131,6 +192,21 @@
       "quarters": [
         "Q3_FY2025",
         "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BB",
+      "company": "BLACKBERRY Ltd",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "GTLS",
+      "company": "CHART INDUSTRIES INC",
+      "mentions": 2,
+      "quarters": [
+        "Q2_FY2024",
+        "Q4_FY2022"
       ]
     },
     {
@@ -194,6 +270,50 @@
       "quarters": []
     },
     {
+      "ticker": "AMTM",
+      "company": "Amentum Holdings, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ARDT",
+      "company": "Ardent Health, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "AXON",
+      "company": "AXON ENTERPRISE, INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BALL",
+      "company": "BALL Corp",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BLND",
+      "company": "Blend Labs, Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "CARR",
+      "company": "CARRIER GLOBAL Corp",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "CAT",
       "company": "CATERPILLAR INC",
       "mentions": 1,
@@ -254,6 +374,12 @@
       "quarters": []
     },
     {
+      "ticker": "ONC",
+      "company": "BeOne Medicines Ltd.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "RVTY",
       "company": "REVVITY, INC.",
       "mentions": 1,
@@ -268,21 +394,27 @@
       "quarters": [
         "Q4_FY2025"
       ]
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "mentions": 1,
+      "quarters": []
     }
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=free_cash_flow",
   "origin": {
-    "leaf": "787c8594537ef590c36456284c097f59f10690033f17a30c681784bfc96cdd49",
+    "leaf": "078cc676138ab1c9a0c5ae98febbee6c49ef563572e3b003b30443de06af5d00",
     "parent": "cb31c9d249e8b75789b0fd713e11329fa038d1fd75b909861cccce376f169ea1",
-    "timestamp": "2026-04-13T06:15:12.667Z",
+    "timestamp": "2026-04-14T06:15:12.738Z",
     "source": "topic:free_cash_flow",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/787c8594537ef590c36456284c097f59f10690033f17a30c681784bfc96cdd49",
+    "verify": "https://origin.rootz.global/api/verify/078cc676138ab1c9a0c5ae98febbee6c49ef563572e3b003b30443de06af5d00",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-13T06:15:12.667Z",
+    "exported_at": "2026-04-14T06:15:12.738Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

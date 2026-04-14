@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CLF",
+  "company": "CLEVELAND-CLIFFS INC.",
+  "title": "CLF Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 6467,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CLF",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 40,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CLF",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CLF",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CLF",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CLF",
+      "predicate": "guided",
+      "object": "expectation of the $425 million",
+      "value": 425,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CLF",
+      "predicate": "guided",
+      "object": "expect to see the beginning of this around $500 million",
+      "value": 500,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CLF",
+      "predicate": "stated",
+      "object": "we anticipate continued demand for our domestically produced slabs",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CLF",
+      "predicate": "stated",
+      "object": "we expect unit cost to decline again for a fourth straight year, down another $10 per ton in 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CLF",
+      "predicate": "stated",
+      "object": "we expect to see the beginning of this around $500 million improvement in EBITDA? Already in Q1, or is it more Q2?  Lourenco Goncalves  Yeah",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CLF",
+      "predicate": "stated",
+      "object": "We believe that we would be able to provide to POSCO the ability to meet U",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CLF",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CLF",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CLF",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CLF",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai_compute"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CLF/transcripts",
+  "origin": {
+    "leaf": "5a64ed95188c71348eb9aafe2269303c86192b27e6ee63657fb16bab33a8b5aa",
+    "parent": "8e5ea1bfbe7b000a129171fbf16c31238a6a2e5a5babbdddf525f75942fde78b6bb4775dcd8953ab613773eb32074d9e",
+    "timestamp": "2026-04-14T06:15:11.774Z",
+    "source": "transcript:CLF_Q4+and+Full-Year+2025+Earnings+Call+Transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/5a64ed95188c71348eb9aafe2269303c86192b27e6ee63657fb16bab33a8b5aa",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.774Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

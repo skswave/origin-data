@@ -1,0 +1,170 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "GTLS",
+  "company": "CHART INDUSTRIES INC",
+  "title": "GTLS Q1 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 4743,
+  "speakers": [
+    {
+      "name": "Freightos  US",
+      "title": "Carbon Steel – Hot Rolled Coil   US – Stainless Steel 304 – Hot Rolled Coil  LME Aluminum   Global Container Freight Index 3Y (USD)\n\n© 2024 Chart Industries, Inc",
+      "firm": "",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 15,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 15,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "GTLS gross margin",
+      "predicate": "reported",
+      "object": "$31.8 percent",
+      "value": 31.8,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "GTLS EPS",
+      "predicate": "reported",
+      "object": "$0.14",
+      "value": 0.14,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "GTLS",
+      "predicate": "guided",
+      "object": "expected in Q2 2024  •   Higher sequential earnings  •   Lower and final sequential capital expenditures related to Theodore Alabama 2 (“Teddy2”)  •   No $79 million",
+      "value": 79,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "GTLS",
+      "predicate": "stated",
+      "object": "we anticipate could or would shift because of interest rates  •   Traditional energy is anticipated to be higher in 2024 than 2023; historically has been a more cy",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/GTLS/transcripts",
+  "origin": {
+    "leaf": "c1d355925e3afacd542970db08754db34bcc52f32e8dfd61e8e7a85ffb8b8720",
+    "parent": "fb872cdab5d7efb5bec6e58c1df35465ff5ba6aa65936474699c8162f031a817db92a708c02f1b7304cefb77df4923b8",
+    "timestamp": "2026-04-14T06:15:11.945Z",
+    "source": "transcript:GTLS_Chart-Industries-Q1-2024-Earnings-Deck-05-03-24.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c1d355925e3afacd542970db08754db34bcc52f32e8dfd61e8e7a85ffb8b8720",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.945Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

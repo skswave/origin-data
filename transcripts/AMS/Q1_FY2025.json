@@ -1,0 +1,120 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AMS",
+  "company": "AMERICAN SHARED HOSPITAL SERVICES",
+  "title": "AMS Q1 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 2134,
+  "speakers": [
+    {
+      "name": "Outstanding OSRAM Licht AG",
+      "title": "Put Options   570  Available Liquidity   3)   1,234  EURm, IFRS values as of March 2025  40   10  760  825  100  370  542  2025   2026   2027   2028   2029   2030   2031   2032  25  2033  110  1,195  567  SSD / Promissory Notes  Bank Facilities  2027 EUR CB (2",
+      "firm": "234  EURm",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AMS/transcripts",
+  "origin": {
+    "leaf": "07d9e39b165c0b12f87de8963d20be04abe89cfb13cf971c95e428e7ccfb0a77",
+    "parent": "92a282340b702ba0af35bf413f7eebc71dfe6cbdc7ad894dc1e1ea8304e8fe201bbb8514b4e4ff202c76e08dc1fbca75",
+    "timestamp": "2026-04-14T06:15:11.658Z",
+    "source": "transcript:AMS_earnings-call-presentation-ams-osram-q1-2025.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/07d9e39b165c0b12f87de8963d20be04abe89cfb13cf971c95e428e7ccfb0a77",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.658Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

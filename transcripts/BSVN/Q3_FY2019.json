@@ -1,0 +1,90 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BSVN",
+  "company": "Bank7 Corp.",
+  "title": "BSVN Q3 FY2019 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2019",
+  "call_date": null,
+  "word_count": 4245,
+  "speakers": [
+    {
+      "name": "Assets",
+      "title": "Pre-tax   1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 37
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "BSVN gross margin",
+      "predicate": "reported",
+      "object": "$5.45 percent",
+      "value": 5.45,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BSVN EPS",
+      "predicate": "reported",
+      "object": "$3.7",
+      "value": 3.7,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BSVN/transcripts",
+  "origin": {
+    "leaf": "fc1c612dbcaba34a2c654ed454efd3a6c7b954bdb314ad0077ae8ab844286d03",
+    "parent": "65a0588ae602796279dbce3e6edebd08de4a4c43d0abcd60f7ce392a3d61e6bbfe7269f392b480392c0374a33efbc6b2",
+    "timestamp": "2026-04-14T06:15:11.747Z",
+    "source": "transcript:BSVN_Q3+Earnings+Presentation+2019.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fc1c612dbcaba34a2c654ed454efd3a6c7b954bdb314ad0077ae8ab844286d03",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.747Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

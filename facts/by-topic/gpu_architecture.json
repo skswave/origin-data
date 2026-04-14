@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "gpu_architecture",
   "label": "Gpu Architecture",
-  "companies": 8,
-  "total_mentions": 66,
+  "companies": 14,
+  "total_mentions": 90,
   "results": [
     {
       "ticker": "NVDA",
@@ -15,6 +15,12 @@
         "Q3_FY2026",
         "Q4_FY2026"
       ]
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "mentions": 13,
+      "quarters": []
     },
     {
       "ticker": "SMCI",
@@ -41,9 +47,43 @@
       "quarters": []
     },
     {
+      "ticker": "CARR",
+      "company": "CARRIER GLOBAL Corp",
+      "mentions": 4,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
       "ticker": "JPM",
       "company": "JPMORGAN CHASE & CO",
       "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
+      "ticker": "ALB",
+      "company": "ALBEMARLE CORP",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BBY",
+      "company": "BEST BUY CO INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BRX",
+      "company": "Brixmor Property Group Inc.",
+      "mentions": 1,
       "quarters": []
     },
     {
@@ -69,17 +109,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=gpu_architecture",
   "origin": {
-    "leaf": "4d14bca5a34d46f521ead6fb68913588405e7a31e61b1a81d91b21c102276e8e",
+    "leaf": "48ae583484df2459481a96827ea8e6fc06b6039b8eaaf5ca4080a7812d0f0847",
     "parent": "5b110dd903161ae6438bf15b3ee07b779a17d65991d5bc02c64445b865f61804",
-    "timestamp": "2026-04-12T03:13:01.516Z",
+    "timestamp": "2026-04-14T06:15:12.740Z",
     "source": "topic:gpu_architecture",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/4d14bca5a34d46f521ead6fb68913588405e7a31e61b1a81d91b21c102276e8e",
+    "verify": "https://origin.rootz.global/api/verify/48ae583484df2459481a96827ea8e6fc06b6039b8eaaf5ca4080a7812d0f0847",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:01.516Z",
+    "exported_at": "2026-04-14T06:15:12.740Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

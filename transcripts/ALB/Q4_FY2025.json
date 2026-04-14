@@ -1,0 +1,192 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ALB",
+  "company": "ALBEMARLE CORP",
+  "title": "ALB Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 6513,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALB",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALB",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ALB free cash flow",
+      "predicate": "reported",
+      "object": "$692 million",
+      "value": 692,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "product_mention",
+      "subject": "ALB",
+      "predicate": "mentioned",
+      "object": "Grace",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.9,
+      "topic": "gpu_architecture"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALB",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALB",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ALB",
+      "predicate": "guided",
+      "object": "expects its 2026 capital expenditures to be roughly flat compared to 2025, in the range of $550 million",
+      "value": 550,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ALB",
+      "predicate": "guided",
+      "object": "outlook and decreased by $1.1 billion",
+      "value": 1.1,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ALB",
+      "predicate": "guided",
+      "object": "FY 2026E  Capital expenditures   $550 - $600 million",
+      "value": 600,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALB",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALB",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALB",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALB",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALB",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALB",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALB",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ALB/transcripts",
+  "origin": {
+    "leaf": "bb4cdf821c8a25fcfa0dc6180622c73fbf3f1134ba0182ce610152337675fd07",
+    "parent": "ac69d2d6bedb93c087da609512c3e4b42c9f1fed58ee6c9a7bba9152e3542a90a4fd5fba493d39c4b67aa49a7c8a44c1",
+    "timestamp": "2026-04-14T06:15:11.596Z",
+    "source": "transcript:ALB_Q42025_pressrelease.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/bb4cdf821c8a25fcfa0dc6180622c73fbf3f1134ba0182ce610152337675fd07",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.596Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

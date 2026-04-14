@@ -1,0 +1,120 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BSVN",
+  "company": "Bank7 Corp.",
+  "title": "BSVN Q4 FY2020 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2020",
+  "call_date": null,
+  "word_count": 5844,
+  "speakers": [
+    {
+      "name": "BSVN",
+      "title": "A Strong Value Proposition  Company Highlights Company Highlights •   Positioned in a dynamic market, with a commercial banking emphasis that delivers services via a branch-lite model",
+      "firm": "with a commercial banking emphasis that delivers services via a branch-lite model",
+      "speaker_type": "other",
+      "mention_count": 13
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "BSVN gross margin",
+      "predicate": "reported",
+      "object": "$3.60 percent",
+      "value": 3.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BSVN gross margin",
+      "predicate": "reported",
+      "object": "$5.01 percent",
+      "value": 5.01,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BSVN EPS",
+      "predicate": "reported",
+      "object": "$2.05",
+      "value": 2.05,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BSVN",
+      "predicate": "stated",
+      "object": "We believe that these sources and estimates are reliable, but have not independently verified them",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BSVN/transcripts",
+  "origin": {
+    "leaf": "862b00c7163b06d6854443dd59280e36dc1a16919b5cbbec43e9aea9cab0ae9b",
+    "parent": "0ffc7c75a82a09b579ce98ceb476804f79989ab1f70b16179de2ebbbdd59a84983e75a7556046954f702dc623c4b0bbb",
+    "timestamp": "2026-04-14T06:15:11.745Z",
+    "source": "transcript:BSVN_Bank7+Corp.+Q4+2020+Earnings+Slide+Deck.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/862b00c7163b06d6854443dd59280e36dc1a16919b5cbbec43e9aea9cab0ae9b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.745Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

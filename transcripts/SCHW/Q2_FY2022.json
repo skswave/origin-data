@@ -1,0 +1,140 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "SCHW",
+  "company": "SCHWAB CHARLES CORP",
+  "title": "SCHW Q2 FY2022 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2022",
+  "call_date": null,
+  "word_count": 6255,
+  "speakers": [
+    {
+      "name": "Part I",
+      "title": "Item 1 – Note 4 of our Quarterly Report on Form 10-Q for the quarter ended March 31, 2022",
+      "firm": "2022",
+      "speaker_type": "other",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "SCHW total revenue",
+      "predicate": "reported",
+      "object": "$5.1 billion",
+      "value": 5.1,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SCHW gross margin",
+      "predicate": "reported",
+      "object": "$44.6 percent",
+      "value": 44.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "We believe the combination of our diversified revenue mix with disciplined expense prioritization helps keep us positioned to deliver healthy financial performa",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "We believe these non-GAAP financial measures provide useful supplemental information about the financial performance of the Company, and facilitate meaningful c",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we believe doing so provides additional transparency of Schwab’s ongoing operations, and is useful in both evaluating the operating performance of the business ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "We believe return on tangible common equity may be useful to investors as a supplemental measure to facilitate assessing capital efficiency and returns relative",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/SCHW/transcripts",
+  "origin": {
+    "leaf": "69cb653fa60b0d9a062f344b8712c562aefbaff82771094f4481f72781988e51",
+    "parent": "124f9fdaea932ce4246c0d5f5996a124dd63a1c12f7d70900433d1ccf7101bcf1204d8f09d1241c199937d5ea021689b",
+    "timestamp": "2026-04-14T06:15:12.467Z",
+    "source": "transcript:SCHW_schw_q2_2022_earnings_release.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/69cb653fa60b0d9a062f344b8712c562aefbaff82771094f4481f72781988e51",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:12.467Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

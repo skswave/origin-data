@@ -1,0 +1,102 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CMLS",
+  "company": "CUMULUS MEDIA INC",
+  "title": "CMLS   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 2182,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "CMLS total revenue",
+      "predicate": "reported",
+      "object": "$188.1 million",
+      "value": 188.1,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CMLS total revenue",
+      "predicate": "reported",
+      "object": "$741.7 million",
+      "value": 741.7,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMLS",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMLS",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMLS",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMLS",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMLS",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CMLS/transcripts",
+  "origin": {
+    "leaf": "86086cb292b3a95cde11a561afae6ff4e3100e0f58954b0f67666735b707573e",
+    "parent": "b375bd3abdb68b9f28b1f6f444b08876da2c41321a0a474f9b92c98cb0f22ba49914edf918a066937c92d0062762b1d5",
+    "timestamp": "2026-04-14T06:15:11.776Z",
+    "source": "transcript:CMLS_CMLS-12.31.2025-Earnings-Release-4.8.2026-kweoe9jfHFW0sjzU5.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/86086cb292b3a95cde11a561afae6ff4e3100e0f58954b0f67666735b707573e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.776Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

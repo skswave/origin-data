@@ -1,0 +1,152 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BLND",
+  "company": "Blend Labs, Inc.",
+  "title": "BLND Q3 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 4775,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLND",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 19,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BLND gross margin",
+      "predicate": "reported",
+      "object": "$14 percent",
+      "value": 14,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BLND",
+      "predicate": "guided",
+      "object": "expect total revenue between $31.0 million",
+      "value": 31,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BLND",
+      "predicate": "guided",
+      "object": "expected to be between $2.5 million",
+      "value": 2.5,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BLND",
+      "predicate": "stated",
+      "object": "We expect total revenue between $31",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BLND",
+      "predicate": "stated",
+      "object": "we expect mortgage suite revenue to decline slightly compared to the same period in the prior year and consumer banking suite revenue growth to decelerate sequ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BLND",
+      "predicate": "stated",
+      "object": "We expect evPFL for the mortgage suite to be approximately $83-84",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BLND",
+      "predicate": "stated",
+      "object": "we expect a sequential volume decline, in line with normal seasonal patterns",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLND",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLND",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLND",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLND",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BLND/transcripts",
+  "origin": {
+    "leaf": "aa25ade252323f68e9e039c61962b9919d6412c981088b8b987d7bddf37f7e7f",
+    "parent": "1441cf8856e701d2b8f04502ff8a6e23e2aafd1f706a435d88900c0b5bd831ceb3dc8e7c7c8c008a8a7f07a14c1efb2f",
+    "timestamp": "2026-04-14T06:15:11.735Z",
+    "source": "transcript:BLND_Q3-2025-Supplemental-Slides.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/aa25ade252323f68e9e039c61962b9919d6412c981088b8b987d7bddf37f7e7f",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.735Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

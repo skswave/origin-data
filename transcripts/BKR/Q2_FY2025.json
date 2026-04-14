@@ -1,0 +1,474 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BKR",
+  "company": "Baker Hughes Co",
+  "title": "BKR Q2 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 6038,
+  "speakers": [
+    {
+      "name": "Lorenzo Simonelli   Baker Hughes",
+      "title": "Chairman & CEO  Thank you, Chase",
+      "firm": "Chase",
+      "speaker_type": "executive",
+      "mention_count": 2
+    },
+    {
+      "name": "Chase Mulvehill   Baker Hughes",
+      "title": "VP of Investor Relations  Operator, we can now open for questions",
+      "firm": "we can now open for questions",
+      "speaker_type": "operator",
+      "mention_count": 2
+    },
+    {
+      "name": "Ahmed Moghal   Baker Hughes",
+      "title": "CFO  Slide   10",
+      "firm": null,
+      "speaker_type": "executive",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BKR total revenue",
+      "predicate": "reported",
+      "object": "$3.81 billion",
+      "value": 3.81,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BKR total revenue",
+      "predicate": "reported",
+      "object": "$27.25 billion",
+      "value": 27.25,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BKR total revenue",
+      "predicate": "reported",
+      "object": "$13.5 billion",
+      "value": 13.5,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BKR gross margin",
+      "predicate": "reported",
+      "object": "$18.3 percent",
+      "value": 18.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BKR free cash flow",
+      "predicate": "reported",
+      "object": "$1.3 billion",
+      "value": 1.3,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BKR free cash flow",
+      "predicate": "reported",
+      "object": "$2.7 billion",
+      "value": 2.7,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BKR free cash flow",
+      "predicate": "reported",
+      "object": "$1.34 billion",
+      "value": 1.34,
+      "unit": "billion",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BKR EPS",
+      "predicate": "reported",
+      "object": "$2.60",
+      "value": 2.6,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BKR",
+      "predicate": "guided",
+      "object": "guidance range and contributing to  a record full - year Adjusted EBITDA of $4.83 billion",
+      "value": 4.83,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BKR",
+      "predicate": "guided",
+      "object": "expect to book approximately $3 billion",
+      "value": 3,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BKR",
+      "predicate": "guided",
+      "object": "guidance , we anticipate company revenue of $27.25 billion",
+      "value": 27.25,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BKR",
+      "predicate": "guided",
+      "object": "expect full - year IET revenue of $13.5 billion",
+      "value": 13.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BKR",
+      "predicate": "guided",
+      "object": "outlook, we expect $13.75 billion",
+      "value": 13.75,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BKR",
+      "predicate": "guided",
+      "object": "expect IET EBITDA of $600 million",
+      "value": 600,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BKR",
+      "predicate": "guided",
+      "object": "expected to be   $540  million",
+      "value": 540,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we expect similar levels of LNG  awards, including material orders outside of the U",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we expect to  convert into a firm order in 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we anticipate modestly stronger year -  over - year GDP growth in 2026, supported by continued investment   in generative AI, easing inflation, and a  more support",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we expect global natural  gas demand growth of approximately 20%",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we expect to represent an increasing share of our $40+  billion IET order target during Horizon Two",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we expect to exceed our 2024 – 2026 LNG FID  outlook of 100 MTPA after reaching FID on 83 MTPA of projects over the last two years",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "We believe further reduction in idled OPEC+ supply, alongside more constructive oil supply - and - demand  balances, is required before a broad inflection in oi",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we expect low single - digit declines in global upstream spending  in 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "We believe that global power demand is  entering a multi - year cycle",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we anticipate company revenue of $27",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we expect full - year IET revenue of $13",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we project EBITDA of $2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we anticipate revenue to be slightly lower year - over - year, but flat on an organic basis",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "We anticipate total company revenues of $6",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we expect results to demonstrate strong year - over - year EBITDA growth, led by Gas Technology",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we expect IET EBITDA of $600 million",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we anticipate results to reflect typical seasonality",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BKR",
+      "predicate": "stated",
+      "object": "we expect   organic Adjusted EBITDA to grow in the mid - single  digit range, led by another year of solid margin expansion",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BKR/transcripts",
+  "origin": {
+    "leaf": "382d82b4ea9de6caab9f9fe3880b5d6110ea7058f9d547d6a70031e3660ba6e9",
+    "parent": "cdb45bbb375551d8bbc0b2e617835c84d0e58bd97be6fbeb342b66722abe38c2cd5773d77571c993905f7e241b3dab04",
+    "timestamp": "2026-04-14T06:15:11.731Z",
+    "source": "transcript:BKR_Baker-Hughes-4Q25-Earnings-Call-Prepared-Remarks-1-25-2025.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/382d82b4ea9de6caab9f9fe3880b5d6110ea7058f9d547d6a70031e3660ba6e9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.731Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

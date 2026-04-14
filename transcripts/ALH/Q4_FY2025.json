@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ALH",
+  "company": "Alliance Laundry Holdings Inc.",
+  "title": "ALH Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 2370,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALH",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALH",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALH",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALH",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ALH/transcripts",
+  "origin": {
+    "leaf": "65e520fc6582a84bca5ba03869294a7646191a709164af83ae9c1057bff17980",
+    "parent": "bb60c2477bfcad5007148543479ffef3e5348f2a103755b4b9ce82b79a9714593d86ad005ab4cba868d0236a32da25d1",
+    "timestamp": "2026-04-14T06:15:11.596Z",
+    "source": "transcript:ALH_Q4_2025_Earnings_Deck_Live.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/65e520fc6582a84bca5ba03869294a7646191a709164af83ae9c1057bff17980",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.596Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

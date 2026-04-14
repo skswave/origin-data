@@ -1,0 +1,160 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AMGN",
+  "company": "AMGEN INC",
+  "title": "AMGN   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 8379,
+  "speakers": [
+    {
+      "name": "MariTide .",
+      "title": "The second year of   MariTide   treatment was very well tolerated, including at quarterly doses, with a very low incidence of  nausea and vomiting and no new safety signals observed",
+      "firm": "including at quarterly doses",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMGN",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMGN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMGN",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AMGN EPS",
+      "predicate": "reported",
+      "object": "$5.29",
+      "value": 5.29,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AMGN EPS",
+      "predicate": "reported",
+      "object": "$21.84",
+      "value": 21.84,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMGN",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AMGN",
+      "predicate": "stated",
+      "object": "we expect  accelerated sales erosion driven by  increased competition, as multiple  biosimilars have launched globally",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AMGN",
+      "predicate": "stated",
+      "object": "we expect  accelerated sales erosion driven  by increased competition, as  multiple biosimilars have  launched globally",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMGN",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMGN",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMGN",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMGN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AMGN/transcripts",
+  "origin": {
+    "leaf": "e9bd42b0daff9eb5edb5030db936a517c68338b17e213ec90cf71c8a968294bd",
+    "parent": "10b0f5b99e46c70752942a3519ca12005bd2ec4ea5c706dc2b4a46f205d95ca3631aeeabb9743989f698a0a6e5285769",
+    "timestamp": "2026-04-14T06:15:11.654Z",
+    "source": "transcript:AMGN_1bad9687-cd7f-4ee0-b80b-4b5d1e6bfbfd.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e9bd42b0daff9eb5edb5030db936a517c68338b17e213ec90cf71c8a968294bd",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.654Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

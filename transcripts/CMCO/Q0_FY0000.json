@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CMCO",
+  "company": "COLUMBUS MCKINNON CORP",
+  "title": "CMCO   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 5238,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMCO",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 18,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMCO",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CMCO gross margin",
+      "predicate": "reported",
+      "object": "$34.5 percent",
+      "value": 34.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CMCO gross margin",
+      "predicate": "reported",
+      "object": "$6.3 percent",
+      "value": 6.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CMCO gross margin",
+      "predicate": "reported",
+      "object": "$2.3 percent",
+      "value": 2.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CMCO gross margin",
+      "predicate": "reported",
+      "object": "$34.0 percent",
+      "value": 34,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CMCO gross margin",
+      "predicate": "reported",
+      "object": "$4.5 percent",
+      "value": 4.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CMCO gross margin",
+      "predicate": "reported",
+      "object": "$35.1 percent",
+      "value": 35.1,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CMCO gross margin",
+      "predicate": "reported",
+      "object": "$9.5 percent",
+      "value": 9.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMCO",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CMCO",
+      "predicate": "stated",
+      "object": "We expect significant cashflow generation from the combined business leading to a Net Leverage Ratio 5  below 4",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMCO",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMCO",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CMCO",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CMCO/transcripts",
+  "origin": {
+    "leaf": "98b6df3703d6f7392807c5af4367b81f6ea5302c3d16e6cc42e82cd82e7bfc06",
+    "parent": "a1ec7338db83d8fdd6b7a1efe3c2523027366658c9c92e11bb25a92067f375b6e3452ee3b709cfd512e1b1e6e6fd7c1e",
+    "timestamp": "2026-04-14T06:15:11.775Z",
+    "source": "transcript:CMCO_CMCO-Q3-FY26-Earnings-Release-vF-02-09-26.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/98b6df3703d6f7392807c5af4367b81f6ea5302c3d16e6cc42e82cd82e7bfc06",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.775Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

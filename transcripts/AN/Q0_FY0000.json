@@ -1,0 +1,62 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AN",
+  "company": "AUTONATION, INC.",
+  "title": "AN   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 1267,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AN",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AN",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AN/transcripts",
+  "origin": {
+    "leaf": "21ce295a3b622da5225b30086bc4385b83542e42dea3652f08bd7a099efe463d",
+    "parent": "2c8b49e015fc6faeeb560832c5fdc73d6bcc6b18ac7dcad5958f5954256030a2416adb6955206e0220bc295a2eadc4b1",
+    "timestamp": "2026-04-14T06:15:11.667Z",
+    "source": "transcript:AN_Non-GAAP-Reconciliation-Q425.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/21ce295a3b622da5225b30086bc4385b83542e42dea3652f08bd7a099efe463d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.667Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

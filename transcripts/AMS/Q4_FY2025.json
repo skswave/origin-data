@@ -1,0 +1,131 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AMS",
+  "company": "AMERICAN SHARED HOSPITAL SERVICES",
+  "title": "AMS Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 2937,
+  "speakers": [
+    {
+      "name": "Cost",
+      "title": "Speed – Agility –\n\n13  Generating well above EUR 500 m proceeds from portfolio actions  −   ‘RtB’ savings target of ~€ 220 m achieved  −   ‘Simplify’ program w/ € 200 m target launched for addressing stranded cost & further overall efficiency transformation  Sale of Kulim-2 facility / solution to SLB  Update of Balance-Sheet Deleveraging Strategy  Targeting net debt / adj",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 20
+    },
+    {
+      "name": "OSRAM Licht AG",
+      "title": "Put Options   (outstand",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 4
+    },
+    {
+      "name": "Outstanding OSRAM Licht AG",
+      "title": "Put Options   505  Available Liquidity   3)   2,155  €m, IFRS values as of December 2025  100  560  638  545  10   40  2026   2027   2028  1",
+      "firm": "155  €m",
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Gold Cost Impact",
+      "title": "Content Reduction Program Launched  Price surges of precious metals are significantly affecting Cost of Goods sold for LED products  Gold prices have increased much faster than expected by analysts   Impact & Mitigation  COGS Impact:  −   2025:   approx",
+      "firm": null,
+      "speaker_type": "analyst",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AMS",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "data_center"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AMS/transcripts",
+  "origin": {
+    "leaf": "212ae6c7d02ff14eaa1bcb4d5bf81bf73d4d745b15d8b013e3c8215938cce39e",
+    "parent": "13e25e6225160765de192b801f9a2ffb0f60c8251b53c5b20b202f99f1bb70772d7e06f69a3e3064ae7aa162d1e34126",
+    "timestamp": "2026-04-14T06:15:11.659Z",
+    "source": "transcript:AMS_earnings-call-presentation-ams-osram-q4-2025.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/212ae6c7d02ff14eaa1bcb4d5bf81bf73d4d745b15d8b013e3c8215938cce39e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.660Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

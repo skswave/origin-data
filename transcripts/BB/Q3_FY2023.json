@@ -1,0 +1,326 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BB",
+  "company": "BLACKBERRY Ltd",
+  "title": "BB Q3 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 6465,
+  "speakers": [
+    {
+      "name": "BlackBerry Limited",
+      "title": "Third   Quarter Fiscal Year 202 3   Results Conference Call,   December 20 , 202 2  C O R P O R A T E   P A R T I C I P A N T S  John Chen ,   Executive Chairman and Chief Executive Officer  Steve   Rai ,   Chief   Financial Officer  Tim Foote ,   Investor Relations  C O N F E R E N C E   C A L L   P A R T I C I P A N T S  Luke Junk ,   R",
+      "firm": "December 20",
+      "speaker_type": "executive",
+      "mention_count": 15
+    },
+    {
+      "name": "Todd Coupland",
+      "title": "CIBC   Ca p ital   Markets  I see",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 9
+    },
+    {
+      "name": "Trip Chowdhry",
+      "title": "Global Equities Research  Hello",
+      "firm": "Hello",
+      "speaker_type": "analyst",
+      "mention_count": 7
+    },
+    {
+      "name": "Mike Walkley",
+      "title": "Canaccord Genuity  Thanks",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 6
+    },
+    {
+      "name": "Mike.  Mike Walkley",
+      "title": "Canaccord Genuity  Hey, John",
+      "firm": "John",
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Todd.  Todd Coupland",
+      "title": "CIBC   Ca p ital   Markets  Hey there, John",
+      "firm": "John",
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "John Chen  Yeah.  Todd Coupland",
+      "title": "CIBC   Ca p ital   Markets  All right",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "QNX.  Trip Chowdhry",
+      "title": "Global Equities Research  Very good",
+      "firm": "Very good",
+      "speaker_type": "analyst",
+      "mention_count": 1
+    },
+    {
+      "name": "Paul.  Paul Treiber",
+      "title": "RBC Capital Markets  Hi there, John",
+      "firm": "John",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 20,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 26,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BB gross margin",
+      "predicate": "reported",
+      "object": "$80 percent",
+      "value": 80,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BB gross margin",
+      "predicate": "reported",
+      "object": "$57 percent",
+      "value": 57,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BB gross margin",
+      "predicate": "reported",
+      "object": "$67 percent",
+      "value": 67,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Autonomous Vehicles",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "autonomous"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BB",
+      "predicate": "guided",
+      "object": "expecting our full - year revenue outlook to be  in the range of $205 million",
+      "value": 205,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BB",
+      "predicate": "guided",
+      "object": "expected at $12 million",
+      "value": 12,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "We believe that  we’re in a strong position to convert these opportunities into wins given our recent success rate, our  very strong reputation in the market, a",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "We expect to provide more details on the general availability at CES",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "we expect revenue to come in at the high end of  the range we provided previously",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "we expect to see improvements in both customer churn and new logo acquisition  continuing next quarter",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "we expect   to  deliver sequential billings growth in the quarter",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "we expect, what, 85 million cars being built this year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BB",
+      "predicate": "stated",
+      "object": "we expect it to be flattish for six months and then pick up again, and that’s really a lot  more macro - driven rather than us having do some special things",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "BB",
+      "predicate": "mentioned",
+      "object": "Amazon",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Robotics",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "robotics"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BB",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BB/transcripts",
+  "origin": {
+    "leaf": "ca0415fea6207e7074e46ddd6ae3981cee21e02c54e1e684eacd3e81ae1eda5d",
+    "parent": "153d827240d2e376960b8680d2bcf2e82a6f2921d90fd55d3bc842a174d5e701d1d37893d7240b099ba039d2d245a3ba",
+    "timestamp": "2026-04-14T06:15:11.717Z",
+    "source": "transcript:BB_BlackBerry-Limited-Q3-Fiscal-Year-2023-Results-Conference-Call-Transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ca0415fea6207e7074e46ddd6ae3981cee21e02c54e1e684eacd3e81ae1eda5d",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.717Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "WRB",
+  "company": "BERKLEY W R CORP",
+  "title": "WRB   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 187,
+  "speakers": [],
+  "facts": [],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/WRB/transcripts",
+  "origin": {
+    "leaf": "2f08286dce225a00a6d7340a218bdd938941432fbff0cc9b2fd15941f88d97d7",
+    "parent": "fab6cb532fb805d78d659c9e0390c181e5186c1c612947e3c34d0b37e040ee2027337906bfa9a1bc5ed48c4beab0528a",
+    "timestamp": "2026-04-14T06:15:12.677Z",
+    "source": "transcript:WRB_W--R--Berkley-Corporation-to-Announce-First-Quarter-2026-Earnings-on-April-21-2026-2026.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2f08286dce225a00a6d7340a218bdd938941432fbff0cc9b2fd15941f88d97d7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:12.677Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

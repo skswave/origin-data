@@ -1,0 +1,315 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CRUS",
+  "company": "CIRRUS LOGIC, INC.",
+  "title": "CRUS   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 6202,
+  "speakers": [
+    {
+      "name": "John Forsyth",
+      "title": "President, Chief Executive Officer & Director, Cirrus Logic, Inc.",
+      "firm": "Chief Executive Officer & Director",
+      "speaker_type": "executive",
+      "mention_count": 9
+    },
+    {
+      "name": "Jeff Woolard",
+      "title": "Executive Vice President & Chief   Financial Officer, Cirrus Logic, Inc.",
+      "firm": "Cirrus Logic",
+      "speaker_type": "executive",
+      "mention_count": 8
+    },
+    {
+      "name": "Chelsea Heffernan",
+      "title": "Vice President - Investor Relations, Cirrus Logic, Inc.",
+      "firm": "Cirrus Logic",
+      "speaker_type": "executive",
+      "mention_count": 6
+    },
+    {
+      "name": "Dylan Ollivier",
+      "title": "Analyst, Susquehanna Financial Group LLLP",
+      "firm": "Susquehanna Financial Group L",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Tore Egil Svanberg",
+      "title": "Analyst, Stifel, Nicolaus & Co., Inc.",
+      "firm": "Stifel",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "David Michael Williams",
+      "title": "Analyst, StoneX Gro up Inc.",
+      "firm": "StoneX Gro up",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CRUS",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CRUS",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CRUS total revenue",
+      "predicate": "reported",
+      "object": "$580.6 million",
+      "value": 580.6,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CRUS gross margin",
+      "predicate": "reported",
+      "object": "$53.1 percent",
+      "value": 53.1,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CRUS gross margin",
+      "predicate": "reported",
+      "object": "$49 percent",
+      "value": 49,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CRUS gross margin",
+      "predicate": "reported",
+      "object": "$31 percent",
+      "value": 31,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CRUS",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CRUS",
+      "predicate": "guided",
+      "object": "expect revenue in the rang e of $410 million",
+      "value": 410,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CRUS",
+      "predicate": "guided",
+      "object": "expected to range from  $124 million",
+      "value": 124,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CRUS",
+      "predicate": "stated",
+      "object": "we believe there is both opportunity to enhance existing content a nd grow content further",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CRUS",
+      "predicate": "stated",
+      "object": "we believe this represents an important growth opportunity for Cirrus Logic",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CRUS",
+      "predicate": "stated",
+      "object": "we expect revenue in the rang e of $410 million to $470 million",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CRUS",
+      "predicate": "stated",
+      "object": "we expect the company to start seeing revenues for   –   from a technology like that?  Thanks",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CRUS",
+      "predicate": "stated",
+      "object": "we expected PC revenue in fiscal 2026 to roughly double fro m the low -  tens of millions that we saw in fiscal 2025",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CRUS",
+      "predicate": "stated",
+      "object": "we expect that our   –   the revenue driven by mainstream platforms wi ll roughly double for us",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CRUS",
+      "predicate": "stated",
+      "object": "we expect that to be c loser to 50%, and that will continue to increase",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CRUS",
+      "predicate": "stated",
+      "object": "we believe we can innovate and really bring some highly  differentiated solutions to market",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CRUS",
+      "predicate": "stated",
+      "object": "we anticipate we'll see further   pricing adjustments to our products",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CRUS",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is not   guaranteed by us and does not purport to be a complete or error - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CRUS",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CRUS",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CRUS",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CRUS",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CRUS",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CRUS/transcripts",
+  "origin": {
+    "leaf": "c5de611a9d85087a1ab5a889d8df65ad226217c0f32ebf2eaf4701df4c216f1e",
+    "parent": "5d884feb1dcbc002b0b02db4f6a23c6775036020e0475555d3ab13f3a2fa3df4195127f42e46ac7a5e16116d782cfd4e",
+    "timestamp": "2026-04-14T06:15:11.797Z",
+    "source": "transcript:CRUS_Q3-FY26-Earnings-Call-Transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c5de611a9d85087a1ab5a889d8df65ad226217c0f32ebf2eaf4701df4c216f1e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.797Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

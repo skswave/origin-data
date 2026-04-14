@@ -1,0 +1,200 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AAON",
+  "company": "AAON, INC.",
+  "title": "AAON   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 2584,
+  "speakers": [
+    {
+      "name": "Highlights",
+      "title": "Net sales increase of 42",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 7
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAON",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 17,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAON gross margin",
+      "predicate": "reported",
+      "object": "$27.3 percent",
+      "value": 27.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAON gross margin",
+      "predicate": "reported",
+      "object": "$25 percent",
+      "value": 25,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAON gross margin",
+      "predicate": "reported",
+      "object": "$21.3 percent",
+      "value": 21.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAON gross margin",
+      "predicate": "reported",
+      "object": "$26.1 percent",
+      "value": 26.1,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAON gross margin",
+      "predicate": "reported",
+      "object": "$15.8 percent",
+      "value": 15.8,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAON gross margin",
+      "predicate": "reported",
+      "object": "$30.7 percent",
+      "value": 30.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAON gross margin",
+      "predicate": "reported",
+      "object": "$16.1 percent",
+      "value": 16.1,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAON gross margin",
+      "predicate": "reported",
+      "object": "$18.8 percent",
+      "value": 18.8,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAON gross margin",
+      "predicate": "reported",
+      "object": "$29 percent",
+      "value": 29,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAON gross margin",
+      "predicate": "reported",
+      "object": "$27.5 percent",
+      "value": 27.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AAON gross margin",
+      "predicate": "reported",
+      "object": "$15.2 percent",
+      "value": 15.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "AAON",
+      "predicate": "guided",
+      "object": "Expect capex of approximately $190 million",
+      "value": 190,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAON",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAON",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AAON",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "ai_compute"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AAON/transcripts",
+  "origin": {
+    "leaf": "6d925bf89c52cb04aa819b05f572f5687ce125b48a76318d7550f2834fd73548",
+    "parent": "376c131d96f95af3bd21a357f954780e67140a6d34affcd1fc6c7725cbe9066cb757c7fd364fe8e717530c7162f28b12",
+    "timestamp": "2026-04-14T06:15:11.578Z",
+    "source": "transcript:AAON_LIVE%20Earnings%20Call%20Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6d925bf89c52cb04aa819b05f572f5687ce125b48a76318d7550f2834fd73548",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.578Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

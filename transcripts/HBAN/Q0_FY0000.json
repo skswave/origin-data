@@ -1,0 +1,170 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "HBAN",
+  "company": "HUNTINGTON BANCSHARES INC /MD/",
+  "title": "HBAN   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 15282,
+  "speakers": [
+    {
+      "name": "Ohio",
+      "title": "Huntington Bancshares Incorporated (Nasdaq: HBAN) reported net income for the 2025 fourth quarter of $519 million, or $0",
+      "firm": "or $0",
+      "speaker_type": "other",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "HBAN",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 16,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HBAN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 27,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HBAN",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HBAN gross margin",
+      "predicate": "reported",
+      "object": "$3.15 percent",
+      "value": 3.15,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "HBAN gross margin",
+      "predicate": "reported",
+      "object": "$3.13 percent",
+      "value": 3.13,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HBAN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HBAN",
+      "predicate": "stated",
+      "object": "we expect Cadence to close February 1",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "HBAN",
+      "predicate": "stated",
+      "object": "we believe are important to understanding corporate performance and trends (see Basis of Presentation)",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HBAN",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HBAN",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HBAN",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HBAN",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "HBAN",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai_compute"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/HBAN/transcripts",
+  "origin": {
+    "leaf": "00713283e01b4126bfc65d835c0b4fe3c2f211e4a0c8a09d5a8fc17b4e14cdc3",
+    "parent": "0c01d85bdf566523da3f78056677404881d645176d328a4beca5083c71497cc881b925aabd6b6659e17dd9d21fd6065a",
+    "timestamp": "2026-04-14T06:15:11.947Z",
+    "source": "transcript:HBAN_4Q25+EPR+and+Supplemental+vF.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/00713283e01b4126bfc65d835c0b4fe3c2f211e4a0c8a09d5a8fc17b4e14cdc3",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.947Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

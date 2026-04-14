@@ -1,0 +1,92 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "SCHW",
+  "company": "SCHWAB CHARLES CORP",
+  "title": "SCHW Q3 FY2019 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2019",
+  "call_date": null,
+  "word_count": 4635,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "SCHW gross margin",
+      "predicate": "reported",
+      "object": "$45.6 percent",
+      "value": 45.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "SCHW EPS",
+      "predicate": "reported",
+      "object": "$.70",
+      "value": 0.7,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/SCHW/transcripts",
+  "origin": {
+    "leaf": "2cdbb345d1b25ae6837c1eb58d4e48a6937b341d4b691447f8b0803e641bf988",
+    "parent": "7b685790413d1ee7a2a0b3cf55a48ff9a99547c55bae079b5b7ea728947dfa19cf68c493469c17d13a32fa2fd0ddcbe2",
+    "timestamp": "2026-04-14T06:15:12.467Z",
+    "source": "transcript:SCHW_schw_q3_2019_earnings_release.PDF",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/2cdbb345d1b25ae6837c1eb58d4e48a6937b341d4b691447f8b0803e641bf988",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:12.467Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

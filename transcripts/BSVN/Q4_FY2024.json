@@ -1,0 +1,117 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BSVN",
+  "company": "Bank7 Corp.",
+  "title": "BSVN Q4 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 5963,
+  "speakers": [
+    {
+      "name": "Full Year  BSVN",
+      "title": "Corporate Overview  Consistently ranked by S & P Global Market Intelligence as one  of the Top Performing Community Banks in the United States  ■   Consistently produce top tier earnings and ROATCE   (3)  ■   Proven ability to maintain a healthy net interest margin  through various interest rate cycles  ■   Abundant liquidity and a properly matched balance sheet  ■   Disciplined credit culture that adheres to our  comprehensive risk management practices  ■   Experienced and talented bankers focused on high - touch  personalized service, targeting entrepreneurs and their  commercial banking needs  ■   Positioned in dynamic markets with a commercial banking  emphasis delivering services via a branch - lite model  ■   Shareholder alignment due to 56% insider ownership  Dollars in thousands, all data as of December 31, 2024, unless indicated otherwise  (1)   Pre - provision, pre - tax earnings (“PPE”) is a non - GAAP financial measure",
+      "firm": "targeting entrepreneurs and their  commercial banking needs  ■   Positioned in dynamic markets with a commercial banking  emphasis delivering services via a branch - lite model  ■   Shareholder alignment due to 56% insider ownership  Dollars in thousands",
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "I   Energy  Loan Portfolio Trends",
+      "title": "Selected Categories  Dollars are in millions  CAGR Since 2020:   8",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "BSVN gross margin",
+      "predicate": "reported",
+      "object": "$3.44 percent",
+      "value": 3.44,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BSVN gross margin",
+      "predicate": "reported",
+      "object": "$5.12 percent",
+      "value": 5.12,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BSVN EPS",
+      "predicate": "reported",
+      "object": "$4.84",
+      "value": 4.84,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BSVN",
+      "predicate": "stated",
+      "object": "We believe that these sources and estimates are reliable, but have not independently verified them",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BSVN/transcripts",
+  "origin": {
+    "leaf": "b0a99be1434a85f5197d104bcb7e194f6af026d69460736326be283b86649b0b",
+    "parent": "b7e763d69c8e2e59e21c2019db95546d32aec6399db32b2112b17ed741fade48993172df540bb0ba335e10749c187b84",
+    "timestamp": "2026-04-14T06:15:11.746Z",
+    "source": "transcript:BSVN_Bank7Corp+Q4+2024+Earnings+Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b0a99be1434a85f5197d104bcb7e194f6af026d69460736326be283b86649b0b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.746Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

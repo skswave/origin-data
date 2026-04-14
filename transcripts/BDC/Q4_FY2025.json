@@ -1,0 +1,144 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BDC",
+  "company": "BELDEN INC.",
+  "title": "BDC Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 3003,
+  "speakers": [
+    {
+      "name": "Ashish",
+      "title": "President & CEO  Jeremy Parks   Belden Inc.   –   EVP &   CFO  Aaron Reddington   Belden Inc.   –   VP Investor Relations, Chand   Belden Inc.",
+      "firm": "Chand   Belden",
+      "speaker_type": "executive",
+      "mention_count": 10
+    },
+    {
+      "name": "Belden Inc.",
+      "title": "President & CEO  Thank you Aaron, and good morning everyone",
+      "firm": "and good morning everyone",
+      "speaker_type": "executive",
+      "mention_count": 7
+    },
+    {
+      "name": "CFO  Aaron Reddington   Belden Inc.",
+      "title": "VP Investor Relations  PRESENTATION  Aaron Reddington, Belden Inc",
+      "firm": "Belden",
+      "speaker_type": "executive",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "BDC total revenue",
+      "predicate": "reported",
+      "object": "$720 million",
+      "value": 720,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BDC EPS",
+      "predicate": "reported",
+      "object": "$7",
+      "value": 7,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BDC",
+      "predicate": "guided",
+      "object": "expected to be between $675 million",
+      "value": 675,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BDC",
+      "predicate": "stated",
+      "object": "we anticipate stabilization and a rebound in 2026, driven by the adoption of  new fiber products and the acceleration of DOCSIS deploymen ts among our major MSO cu",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BDC",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BDC",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BDC",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BDC",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BDC",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BDC/transcripts",
+  "origin": {
+    "leaf": "1b6fa309e2677e8e24b6729ace1ae88bec97332c1fb1e89949a952625c351934",
+    "parent": "a893ea70cdb343d7c617fc645a93058861e3aa162124bcf7f7896887f72fc9550d06906280219e0c06e393a1ce25e02e",
+    "timestamp": "2026-04-14T06:15:11.730Z",
+    "source": "transcript:BDC_Belden-Q4-2025-Earnings-Transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1b6fa309e2677e8e24b6729ace1ae88bec97332c1fb1e89949a952625c351934",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.730Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "data_center",
   "label": "Data Center",
-  "companies": 67,
-  "total_mentions": 473,
+  "companies": 109,
+  "total_mentions": 642,
   "results": [
     {
       "ticker": "AMD",
@@ -42,6 +42,12 @@
       ]
     },
     {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "mentions": 37,
+      "quarters": []
+    },
+    {
       "ticker": "AMZN",
       "company": "AMAZON COM INC",
       "mentions": 35,
@@ -70,6 +76,18 @@
         "Q3_FY2022",
         "Q4_FY2022"
       ]
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "mentions": 31,
+      "quarters": []
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks Inc",
+      "mentions": 31,
+      "quarters": []
     },
     {
       "ticker": "CSCO",
@@ -134,6 +152,12 @@
         "Q3_FY2025",
         "Q4_FY2025"
       ]
+    },
+    {
+      "ticker": "SLB",
+      "company": "SLB LIMITED/NV",
+      "mentions": 12,
+      "quarters": []
     },
     {
       "ticker": "SNPS",
@@ -204,6 +228,15 @@
       ]
     },
     {
+      "ticker": "CARR",
+      "company": "CARRIER GLOBAL Corp",
+      "mentions": 5,
+      "quarters": [
+        "Q4_FY2026",
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "NTAP",
       "company": "NetApp, Inc.",
       "mentions": 5,
@@ -226,12 +259,35 @@
       "quarters": []
     },
     {
+      "ticker": "DDOG",
+      "company": "Datadog, Inc.",
+      "mentions": 4,
+      "quarters": []
+    },
+    {
+      "ticker": "GTLS",
+      "company": "CHART INDUSTRIES INC",
+      "mentions": 4,
+      "quarters": [
+        "Q1_FY2024",
+        "Q2_FY2024",
+        "Q1_FY2025",
+        "Q4_FY2024"
+      ]
+    },
+    {
       "ticker": "LOW",
       "company": "LOWES COMPANIES INC",
       "mentions": 4,
       "quarters": [
         "Q4_FY2025"
       ]
+    },
+    {
+      "ticker": "MSCI",
+      "company": "MSCI Inc.",
+      "mentions": 4,
+      "quarters": []
     },
     {
       "ticker": "PLD",
@@ -249,6 +305,24 @@
         "Q4_FY2024",
         "Q4_FY2025",
         "Q4_FY2023"
+      ]
+    },
+    {
+      "ticker": "BKR",
+      "company": "Baker Hughes Co",
+      "mentions": 3,
+      "quarters": [
+        "Q2_FY2025",
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "CBRE",
+      "company": "CBRE GROUP, INC.",
+      "mentions": 3,
+      "quarters": [
+        "Q4_FY2026",
+        "Q4_FY2025"
       ]
     },
     {
@@ -305,6 +379,14 @@
       "mentions": 2,
       "quarters": [
         "Q4_FY2026",
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "AMRZ",
+      "company": "Amrize Ltd",
+      "mentions": 2,
+      "quarters": [
         "Q4_FY2025"
       ]
     },
@@ -381,10 +463,26 @@
       "quarters": []
     },
     {
+      "ticker": "OBDC",
+      "company": "Blue Owl Capital Corp",
+      "mentions": 2,
+      "quarters": [
+        "Q2_FY0205"
+      ]
+    },
+    {
       "ticker": "ORCL",
       "company": "ORACLE CORP",
       "mentions": 2,
       "quarters": []
+    },
+    {
+      "ticker": "OWL",
+      "company": "BLUE OWL CAPITAL INC.",
+      "mentions": 2,
+      "quarters": [
+        "Q2_FY0205"
+      ]
     },
     {
       "ticker": "SPGI",
@@ -417,6 +515,46 @@
       "quarters": []
     },
     {
+      "ticker": "AAON",
+      "company": "AAON, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ABTC",
+      "company": "American Bitcoin Corp.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "ACIW",
+      "company": "ACI WORLDWIDE, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ADTN",
+      "company": "ADTRAN Holdings, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "AGO",
+      "company": "ASSURED GUARANTY LTD",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ALB",
+      "company": "ALBEMARLE CORP",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "ALGM",
       "company": "ALLEGRO MICROSYSTEMS, INC.",
       "mentions": 1,
@@ -429,8 +567,128 @@
       "quarters": []
     },
     {
+      "ticker": "AMPX",
+      "company": "Amprius Technologies, Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "AMS",
+      "company": "AMERICAN SHARED HOSPITAL SERVICES",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "AMTM",
+      "company": "Amentum Holdings, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "AROW",
+      "company": "ARROW FINANCIAL CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ARW",
+      "company": "ARROW ELECTRONICS, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ASGN",
+      "company": "ASGN Inc",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ASTE",
+      "company": "ASTEC INDUSTRIES INC",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ATEN",
+      "company": "A10 Networks, Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ATKR",
+      "company": "Atkore Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q1_FY2026"
+      ]
+    },
+    {
+      "ticker": "ATR",
+      "company": "APTARGROUP, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "AVPT",
+      "company": "AvePoint, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BDC",
+      "company": "BELDEN INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BE",
+      "company": "Bloom Energy Corp",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BLND",
+      "company": "Blend Labs, Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BSTT",
+      "company": "Blackstone Real Estate Income Trust, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BTGO",
+      "company": "BITGO HOLDINGS, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "BX",
       "company": "Blackstone Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BXSL",
+      "company": "Blackstone Secured Lending Fund",
       "mentions": 1,
       "quarters": []
     },
@@ -455,6 +713,30 @@
       ]
     },
     {
+      "ticker": "CLSK",
+      "company": "CLEANSPARK, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CMI",
+      "company": "CUMMINS INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CRH",
+      "company": "CRH PUBLIC LTD CO",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CRWD",
+      "company": "CrowdStrike Holdings, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "F",
       "company": "FORD MOTOR CO",
       "mentions": 1,
@@ -467,6 +749,14 @@
       "company": "INTUIT INC.",
       "mentions": 1,
       "quarters": []
+    },
+    {
+      "ticker": "LNT",
+      "company": "ALLIANT ENERGY CORP",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "LYFT",
@@ -527,21 +817,27 @@
       "company": "Uber Technologies, Inc",
       "mentions": 1,
       "quarters": []
+    },
+    {
+      "ticker": "VRSK",
+      "company": "Verisk Analytics, Inc.",
+      "mentions": 1,
+      "quarters": []
     }
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=data_center",
   "origin": {
-    "leaf": "ba1474e062684013c6fcd5cd24e5f6462aa9ea04192db7ecfce0df48fa3ada5c",
+    "leaf": "3cbd588ed7ac61cddcd0966ea9cd60f9a6fd4e67c31e027d6ba3ce3e79b0e8f6",
     "parent": "3fd52d6557f29858de9c6f3fecae094ae9e304f66766cdf0d511f5578828bbe9",
-    "timestamp": "2026-04-13T06:15:12.662Z",
+    "timestamp": "2026-04-14T06:15:12.732Z",
     "source": "topic:data_center",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/ba1474e062684013c6fcd5cd24e5f6462aa9ea04192db7ecfce0df48fa3ada5c",
+    "verify": "https://origin.rootz.global/api/verify/3cbd588ed7ac61cddcd0966ea9cd60f9a6fd4e67c31e027d6ba3ce3e79b0e8f6",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-13T06:15:12.662Z",
+    "exported_at": "2026-04-14T06:15:12.732Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

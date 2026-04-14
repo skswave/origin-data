@@ -2,14 +2,25 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "autonomous",
   "label": "Autonomous",
-  "companies": 41,
-  "total_mentions": 189,
+  "companies": 65,
+  "total_mentions": 269,
   "results": [
     {
       "ticker": "JPM",
       "company": "JPMORGAN CHASE & CO",
       "mentions": 29,
       "quarters": []
+    },
+    {
+      "ticker": "BB",
+      "company": "BLACKBERRY Ltd",
+      "mentions": 21,
+      "quarters": [
+        "Q3_FY2026",
+        "Q1_FY2023",
+        "Q2_FY2023",
+        "Q3_FY2023"
+      ]
     },
     {
       "ticker": "F",
@@ -48,6 +59,12 @@
       ]
     },
     {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks Inc",
+      "mentions": 16,
+      "quarters": []
+    },
+    {
       "ticker": "QCOM",
       "company": "QUALCOMM INC/DE",
       "mentions": 15,
@@ -56,6 +73,12 @@
     {
       "ticker": "AMD",
       "company": "ADVANCED MICRO DEVICES INC",
+      "mentions": 13,
+      "quarters": []
+    },
+    {
+      "ticker": "SLB",
+      "company": "SLB LIMITED/NV",
       "mentions": 13,
       "quarters": []
     },
@@ -123,6 +146,12 @@
       "quarters": []
     },
     {
+      "ticker": "LLY",
+      "company": "ELI LILLY & Co",
+      "mentions": 4,
+      "quarters": []
+    },
+    {
       "ticker": "NOW",
       "company": "ServiceNow, Inc.",
       "mentions": 4,
@@ -155,8 +184,52 @@
       "quarters": []
     },
     {
+      "ticker": "ALV",
+      "company": "AUTOLIV INC",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "AMPX",
+      "company": "Amprius Technologies, Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "AMS",
+      "company": "AMERICAN SHARED HOSPITAL SERVICES",
+      "mentions": 2,
+      "quarters": [
+        "Q3_FY2025"
+      ]
+    },
+    {
+      "ticker": "BKSY",
+      "company": "BlackSky Technology Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q3_FY2025"
+      ]
+    },
+    {
       "ticker": "CRM",
       "company": "Salesforce, Inc.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "DDOG",
+      "company": "Datadog, Inc.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
       "mentions": 2,
       "quarters": []
     },
@@ -193,8 +266,48 @@
       "quarters": []
     },
     {
+      "ticker": "AMRZ",
+      "company": "Amrize Ltd",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "APTV",
+      "company": "Aptiv PLC",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ATRO",
+      "company": "ASTRONICS CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BBY",
+      "company": "BEST BUY CO INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "BMY",
       "company": "BRISTOL MYERS SQUIBB CO",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BRZE",
+      "company": "Braze, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BSTT",
+      "company": "Blackstone Real Estate Income Trust, Inc.",
       "mentions": 1,
       "quarters": []
     },
@@ -205,8 +318,26 @@
       "quarters": []
     },
     {
+      "ticker": "BXSL",
+      "company": "Blackstone Secured Lending Fund",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "CAT",
       "company": "CATERPILLAR INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CEIN",
+      "company": "CAMBER ENERGY, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CNH",
+      "company": "CNH Industrial N.V.",
       "mentions": 1,
       "quarters": []
     },
@@ -257,6 +388,14 @@
       "quarters": []
     },
     {
+      "ticker": "OBDC",
+      "company": "Blue Owl Capital Corp",
+      "mentions": 1,
+      "quarters": [
+        "Q2_FY0205"
+      ]
+    },
+    {
       "ticker": "OKTA",
       "company": "Okta, Inc.",
       "mentions": 1,
@@ -267,6 +406,14 @@
       "company": "ORACLE CORP",
       "mentions": 1,
       "quarters": []
+    },
+    {
+      "ticker": "OWL",
+      "company": "BLUE OWL CAPITAL INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q2_FY0205"
+      ]
     },
     {
       "ticker": "PFE",
@@ -301,21 +448,43 @@
       "quarters": [
         "Q4_FY2025"
       ]
+    },
+    {
+      "ticker": "VRSK",
+      "company": "Verisk Analytics, Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "WRB",
+      "company": "BERKLEY W R CORP",
+      "mentions": 1,
+      "quarters": [
+        "Q2_FY2026"
+      ]
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "mentions": 1,
+      "quarters": []
     }
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=autonomous",
   "origin": {
-    "leaf": "138afeb233396097401f8da02e0dcecf648f67f7645b6c73ff3a5f93bc1c07a5",
+    "leaf": "c95cba2a579f925935a44b4e5e3a4ca5bcc0c5a37aad2cfd9443fd1c7a7b0d0e",
     "parent": "db00a95101f3b096d77e9bcea6a2a6a6745db86b84ca7c70a1257779dcc34209",
-    "timestamp": "2026-04-13T06:15:12.652Z",
+    "timestamp": "2026-04-14T06:15:12.722Z",
     "source": "topic:autonomous",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/138afeb233396097401f8da02e0dcecf648f67f7645b6c73ff3a5f93bc1c07a5",
+    "verify": "https://origin.rootz.global/api/verify/c95cba2a579f925935a44b4e5e3a4ca5bcc0c5a37aad2cfd9443fd1c7a7b0d0e",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-13T06:15:12.652Z",
+    "exported_at": "2026-04-14T06:15:12.722Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

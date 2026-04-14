@@ -1,0 +1,80 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CNC",
+  "company": "CENTENE CORP",
+  "title": "CNC   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 728,
+  "speakers": [
+    {
+      "name": "PHARMACY SERVICES",
+      "title": "DRUG THERAPY MANAGEMENT WITH OPIOID STEWARDSHIP  NATIONAL COMMITTEE FOR QUALITY ASSURANCE ACCREDITATIONS (NCQA):  HEALTH PLAN, LTSS DISTINCTION, HEALTH OUTCOMES, COMMUNITY-FOCUSED CARE, CREDENTIALS VERIFICATION ORGANIZATION, UTILIZATION MANAGEMENT, PHYSICIAN QUALITY, MANAGED BEHAVIORAL HEALTHCARE ORGANIZATION, DENTAL – UTILIZATION MANAGEMENT, VISION - UTILIZATION MANAGEMENT, PHARMACY – UTILIZATION MANAGEMENT  For more information on our programs, partnerships, accreditations, awards, or finances, visit   centene",
+      "firm": "LTSS DISTINCTION",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CNC",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CNC",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 17,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CNC",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CNC",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "semiconductor"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CNC/transcripts",
+  "origin": {
+    "leaf": "f2056915821294d7f56d1064654460cfdb16f461769c16c4cd86d3c1cdb6f62c",
+    "parent": "8f173f93f5eb8fdb3ba0dd77fb4080db14f6dcaf73c580d29331c368d81fc79c4e580b3f435b3b7e336e367d4cc40c98",
+    "timestamp": "2026-04-14T06:15:11.776Z",
+    "source": "transcript:CNC_CNC-FactSheet-2025-Q4.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f2056915821294d7f56d1064654460cfdb16f461769c16c4cd86d3c1cdb6f62c",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.776Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AROC",
+  "company": "Archrock, Inc.",
+  "title": "AROC Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 1547,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AROC",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AROC",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AROC",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AROC",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AROC/transcripts",
+  "origin": {
+    "leaf": "f6661fcc73b097c35f9c11c0a76f7d4e8fc4fa001ca868d1304990dfbebeeec7",
+    "parent": "390af1caa981c07fe63c942cdcdf9ef111b21f6c5c3b35f3e4c8283a40dbd39272b650d377bd693467e70aea918627ab",
+    "timestamp": "2026-04-14T06:15:11.675Z",
+    "source": "transcript:AROC_Q4-2025-Earnings-SupplementvFINAL.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/f6661fcc73b097c35f9c11c0a76f7d4e8fc4fa001ca868d1304990dfbebeeec7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.675Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

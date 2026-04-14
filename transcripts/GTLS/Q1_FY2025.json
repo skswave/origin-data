@@ -1,0 +1,122 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "GTLS",
+  "company": "CHART INDUSTRIES INC",
+  "title": "GTLS Q1 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 3682,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "GTLS gross margin",
+      "predicate": "reported",
+      "object": "$11.5 percent",
+      "value": 11.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "GTLS gross margin",
+      "predicate": "reported",
+      "object": "$8.8 percent",
+      "value": 8.8,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "GTLS EPS",
+      "predicate": "reported",
+      "object": "$0.99",
+      "value": 0.99,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "GTLS",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/GTLS/transcripts",
+  "origin": {
+    "leaf": "ad8a696adf4f5769adedf8239f17c5dc3e37cbea892e0448bc9c4535db1f5dbb",
+    "parent": "99d0b30bfd69c94e70d9ea21fc6f7e200090fda668d788c42ce491f2587b9580ba783c9209e6e3164884a29078a79a81",
+    "timestamp": "2026-04-14T06:15:11.946Z",
+    "source": "transcript:GTLS_GTLS-Q1-2025-Earnings-Presentation-Slides-FINAL.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/ad8a696adf4f5769adedf8239f17c5dc3e37cbea892e0448bc9c4535db1f5dbb",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.946Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "healthcare",
   "label": "Healthcare",
-  "companies": 79,
-  "total_mentions": 437,
+  "companies": 133,
+  "total_mentions": 612,
   "results": [
     {
       "ticker": "JPM",
@@ -71,6 +71,12 @@
       ]
     },
     {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "mentions": 27,
+      "quarters": []
+    },
+    {
       "ticker": "UNH",
       "company": "UNITEDHEALTH GROUP INC",
       "mentions": 23,
@@ -115,6 +121,23 @@
       ]
     },
     {
+      "ticker": "BB",
+      "company": "BLACKBERRY Ltd",
+      "mentions": 16,
+      "quarters": [
+        "Q3_FY2026",
+        "Q1_FY2023",
+        "Q2_FY2023",
+        "Q3_FY2023"
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "company": "ELI LILLY & Co",
+      "mentions": 16,
+      "quarters": []
+    },
+    {
       "ticker": "TMO",
       "company": "THERMO FISHER SCIENTIFIC INC.",
       "mentions": 15,
@@ -131,6 +154,18 @@
       "quarters": [
         "Q1_FY2025"
       ]
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks Inc",
+      "mentions": 13,
+      "quarters": []
+    },
+    {
+      "ticker": "REGN",
+      "company": "REGENERON PHARMACEUTICALS, INC.",
+      "mentions": 12,
+      "quarters": []
     },
     {
       "ticker": "USB",
@@ -178,6 +213,23 @@
       ]
     },
     {
+      "ticker": "AGO",
+      "company": "ASSURED GUARANTY LTD",
+      "mentions": 7,
+      "quarters": []
+    },
+    {
+      "ticker": "AMS",
+      "company": "AMERICAN SHARED HOSPITAL SERVICES",
+      "mentions": 7,
+      "quarters": [
+        "Q1_FY2025",
+        "Q2_FY2025",
+        "Q3_FY2025",
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "MRNA",
       "company": "Moderna, Inc.",
       "mentions": 7,
@@ -185,6 +237,12 @@
         "Q1_FY3025",
         "Q4_FY2025"
       ]
+    },
+    {
+      "ticker": "AAL",
+      "company": "American Airlines Group Inc.",
+      "mentions": 6,
+      "quarters": []
     },
     {
       "ticker": "PFE",
@@ -252,6 +310,14 @@
       "quarters": []
     },
     {
+      "ticker": "AVY",
+      "company": "Avery Dennison Corp",
+      "mentions": 4,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "BMY",
       "company": "BRISTOL MYERS SQUIBB CO",
       "mentions": 4,
@@ -272,6 +338,12 @@
       "quarters": [
         "Q4_FY2025"
       ]
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "mentions": 4,
+      "quarters": []
     },
     {
       "ticker": "JNJ",
@@ -312,6 +384,14 @@
       "company": "Arista Networks, Inc.",
       "mentions": 3,
       "quarters": []
+    },
+    {
+      "ticker": "ASGN",
+      "company": "ASGN Inc",
+      "mentions": 3,
+      "quarters": [
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "CAH",
@@ -377,6 +457,87 @@
       "quarters": []
     },
     {
+      "ticker": "SCHW",
+      "company": "SCHWAB CHARLES CORP",
+      "mentions": 3,
+      "quarters": [
+        "Q1_FY2020",
+        "Q1_FY2022",
+        "Q4_FY2022"
+      ]
+    },
+    {
+      "ticker": "ADC",
+      "company": "AGREE REALTY CORP",
+      "mentions": 2,
+      "quarters": [
+        "Q3_FY2025",
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "AHR",
+      "company": "American Healthcare REIT, Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ALB",
+      "company": "ALBEMARLE CORP",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ALNY",
+      "company": "ALNYLAM PHARMACEUTICALS, INC.",
+      "mentions": 2,
+      "quarters": [
+        "Q3_FY2025",
+        "Q4_FY2024"
+      ]
+    },
+    {
+      "ticker": "ALTG",
+      "company": "ALTA EQUIPMENT GROUP INC.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ARQ",
+      "company": "Arq, Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q3_FY2025",
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ASTH",
+      "company": "Astrana Health, Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "AZTA",
+      "company": "Azenta, Inc.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "BRKR",
+      "company": "BRUKER CORP",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "BX",
       "company": "Blackstone Inc.",
       "mentions": 2,
@@ -387,6 +548,15 @@
       "company": "CITIGROUP INC",
       "mentions": 2,
       "quarters": []
+    },
+    {
+      "ticker": "CBRE",
+      "company": "CBRE GROUP, INC.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2026",
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "CRM",
@@ -413,6 +583,14 @@
       "quarters": []
     },
     {
+      "ticker": "ONC",
+      "company": "BeOne Medicines Ltd.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "SNPS",
       "company": "SYNOPSYS INC",
       "mentions": 2,
@@ -434,8 +612,44 @@
       "quarters": []
     },
     {
+      "ticker": "TXG",
+      "company": "10x Genomics, Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "VRSK",
+      "company": "Verisk Analytics, Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "VRTX",
+      "company": "VERTEX PHARMACEUTICALS INC / MA",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "WRB",
+      "company": "BERKLEY W R CORP",
+      "mentions": 2,
+      "quarters": [
+        "Q2_FY2026"
+      ]
+    },
+    {
       "ticker": "AEP",
       "company": "AMERICAN ELECTRIC POWER CO INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "AFL",
+      "company": "AFLAC INC",
       "mentions": 1,
       "quarters": []
     },
@@ -446,8 +660,126 @@
       "quarters": []
     },
     {
+      "ticker": "AMGN",
+      "company": "AMGEN INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "APLE",
+      "company": "Apple Hospitality REIT, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ARDT",
+      "company": "Ardent Health, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ARE",
+      "company": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "AROW",
+      "company": "ARROW FINANCIAL CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ARW",
+      "company": "ARROW ELECTRONICS, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ASIC",
+      "company": "Ategrity Specialty Insurance Co Holdings",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ATR",
+      "company": "APTARGROUP, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "AXON",
+      "company": "AXON ENTERPRISE, INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "BAC",
       "company": "BANK OF AMERICA CORP /DE/",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BDC",
+      "company": "BELDEN INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BMRN",
+      "company": "BIOMARIN PHARMACEUTICAL INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BOC",
+      "company": "BOSTON OMAHA Corp",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BOKF",
+      "company": "BOK FINANCIAL CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BRX",
+      "company": "Brixmor Property Group Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BSTT",
+      "company": "Blackstone Real Estate Income Trust, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BWXT",
+      "company": "BWX Technologies, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BXSL",
+      "company": "Blackstone Secured Lending Fund",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CAL",
+      "company": "CALERES INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CF",
+      "company": "CF Industries Holdings, Inc.",
       "mentions": 1,
       "quarters": []
     },
@@ -460,8 +792,28 @@
       ]
     },
     {
+      "ticker": "CLVT",
+      "company": "CLARIVATE PLC",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "CNC",
+      "company": "CENTENE CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "COST",
       "company": "COSTCO WHOLESALE CORP /NEW",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CRH",
+      "company": "CRH PUBLIC LTD CO",
       "mentions": 1,
       "quarters": []
     },
@@ -492,6 +844,12 @@
       "quarters": []
     },
     {
+      "ticker": "HBAN",
+      "company": "HUNTINGTON BANCSHARES INC /MD/",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "INTC",
       "company": "INTEL CORP",
       "mentions": 1,
@@ -512,6 +870,12 @@
       "quarters": [
         "Q1_FY2025"
       ]
+    },
+    {
+      "ticker": "MSCI",
+      "company": "MSCI Inc.",
+      "mentions": 1,
+      "quarters": []
     },
     {
       "ticker": "MSI",
@@ -536,6 +900,18 @@
     {
       "ticker": "NTAP",
       "company": "NetApp, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "OBDC",
+      "company": "Blue Owl Capital Corp",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "OWL",
+      "company": "BLUE OWL CAPITAL INC.",
       "mentions": 1,
       "quarters": []
     },
@@ -628,17 +1004,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=healthcare",
   "origin": {
-    "leaf": "869424d6cd1285ec12a9b71f91c10d43e3b47df90c336bc1639bf87985363de2",
+    "leaf": "e583eb4c7dcaf353ca80679bb18ae95fe84d51650cf99d0fd34a81f4af48a5a7",
     "parent": "464af74c511eb9586b1f9e146f7a78144e51f302c18b853ee181d347af4e0254",
-    "timestamp": "2026-04-13T06:15:12.676Z",
+    "timestamp": "2026-04-14T06:15:12.754Z",
     "source": "topic:healthcare",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/869424d6cd1285ec12a9b71f91c10d43e3b47df90c336bc1639bf87985363de2",
+    "verify": "https://origin.rootz.global/api/verify/e583eb4c7dcaf353ca80679bb18ae95fe84d51650cf99d0fd34a81f4af48a5a7",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-13T06:15:12.676Z",
+    "exported_at": "2026-04-14T06:15:12.754Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

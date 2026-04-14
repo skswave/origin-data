@@ -2,9 +2,15 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "quantum",
   "label": "Quantum",
-  "companies": 13,
-  "total_mentions": 36,
+  "companies": 18,
+  "total_mentions": 52,
   "results": [
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks Inc",
+      "mentions": 10,
+      "quarters": []
+    },
     {
       "ticker": "JPM",
       "company": "JPMORGAN CHASE & CO",
@@ -29,6 +35,15 @@
         "Q1_FY2025",
         "Q3_FY2020",
         "Q3_FY2022"
+      ]
+    },
+    {
+      "ticker": "CARR",
+      "company": "CARRIER GLOBAL Corp",
+      "mentions": 3,
+      "quarters": [
+        "Q4_FY2026",
+        "Q4_FY2025"
       ]
     },
     {
@@ -78,8 +93,26 @@
       "quarters": []
     },
     {
+      "ticker": "BSTT",
+      "company": "Blackstone Real Estate Income Trust, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "BX",
       "company": "Blackstone Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BXSL",
+      "company": "Blackstone Secured Lending Fund",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CRH",
+      "company": "CRH PUBLIC LTD CO",
       "mentions": 1,
       "quarters": []
     },
@@ -98,17 +131,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=quantum",
   "origin": {
-    "leaf": "fcce1baaa99e6c87a002699a3e16ac3ecccec3560c2f97e4844c342028e3fabd",
+    "leaf": "e55ddf62743a3d82054e8a7b592922b1bb4f71fd5d5a0469ced14ca868a98f69",
     "parent": "6c4dc7ced18f5e0e87bb80dcfe67bf75f525e5f9ee9b61e009bb29824b62d698",
-    "timestamp": "2026-04-13T06:15:12.681Z",
+    "timestamp": "2026-04-14T06:15:12.759Z",
     "source": "topic:quantum",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/fcce1baaa99e6c87a002699a3e16ac3ecccec3560c2f97e4844c342028e3fabd",
+    "verify": "https://origin.rootz.global/api/verify/e55ddf62743a3d82054e8a7b592922b1bb4f71fd5d5a0469ced14ca868a98f69",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-13T06:15:12.681Z",
+    "exported_at": "2026-04-14T06:15:12.759Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

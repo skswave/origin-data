@@ -1,0 +1,110 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AEBI",
+  "company": "Aebi Schmidt Holding AG",
+  "title": "AEBI   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 5620,
+  "speakers": [
+    {
+      "name": "Successful Aebi",
+      "title": "Shyft Integration  New firm operative  since day 1  Set - up for growth  Successful go - live of  new products and  locations to fuel  growth  FY 2025 highlights  March 19, 2026  Q4 and FY 2025 Earnings Call | Aebi Schmidt Group   23  Outperforming on  synergies  ≥$40m expected  synergies vs pre -  merger target of  $25m to $30m\n\npublic  A significantly amplified quarterly seasonality is expected in 2026, given the  market and geopolitical conditions  24  March 19, 2026  Q4 and FY 2025 Earnings Call | Aebi Schmidt Group  Slow Start in Q1  ▪   Strong   Walk - in - Van   orders and  backlog converting into revenue  beyond the quarter  ▪   Early recovery signals in  commercial , not yet compensating  for an overall soft market  ▪   Geopolitical   developments driving  uncertainty  Strong year end in Q4  ▪   Seasonally the strongest quarter,  supported by strong   market  demand  ▪   Solid Q4 performance, particularly  in   Europe and RoW , driven by the  winter business  Order conversion in Q2  ▪   Conversion of   Walk - in - Van  backlog into revenue  ▪   Chicago super center   fully  operational and utilized  ▪   Other new locations ramping up  production   and   upfitting   output  Market and synergies improving in Q3  ▪   Realization of merger   procurement  synergies  ▪   Expected   Commercial   and   Fleet  market recovery  ~45% of Net Sales and ~40% of Profitability in H1/2026   ~55% of Net Sales and ~60% of Profitability in H2/2026\n\npublic  2026 focus is to sustain the positive momentum achieved in 2025, reflected  in market guidance of Net Sales, Adj",
+      "firm": "2026  Q4 and FY 2025 Earnings Call | Aebi Schmidt Group   23  Outperforming on  synergies  ≥$40m expected  synergies vs pre -  merger target of  $25m to $30m\n\npublic  A significantly amplified quarterly seasonality is expected in 2026",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AEBI",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 18,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AEBI",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 19,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AEBI gross margin",
+      "predicate": "reported",
+      "object": "$8.7 percent",
+      "value": 8.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AEBI gross margin",
+      "predicate": "reported",
+      "object": "$7.4 percent",
+      "value": 7.4,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AEBI",
+      "predicate": "stated",
+      "object": "we expect   or   anticipate will occur in the future, statements relating to volume  changes, share of sales and earnings per share changes, anticipated cost s",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AEBI",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AEBI",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AEBI/transcripts",
+  "origin": {
+    "leaf": "fcd32d028d04b40ca3d25e9d173a5c5143ff88ac9b38f4b3da9419032401b543",
+    "parent": "538ca16991396413353e748f19da863f808a4f641223e7a79e12e2181810777d597373d7a76c9c56e06b932f2294ca36",
+    "timestamp": "2026-04-14T06:15:11.588Z",
+    "source": "transcript:AEBI_2026-03-19_AebiSchmidtGroup_4Q-FY-2025_EarningsCall_Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/fcd32d028d04b40ca3d25e9d173a5c5143ff88ac9b38f4b3da9419032401b543",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.588Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

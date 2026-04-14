@@ -1,0 +1,208 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CBRE",
+  "company": "CBRE GROUP, INC.",
+  "title": "CBRE Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 4397,
+  "speakers": [
+    {
+      "name": "Segment Operating Profit",
+      "title": "Revenue growth of 15% was tempered by lower growth in pass - through costs, which grew 11%",
+      "firm": "which grew 11%",
+      "speaker_type": "other",
+      "mention_count": 10
+    },
+    {
+      "name": "Net Leverage",
+      "title": "We generated nearly $1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 8
+    },
+    {
+      "name": "Core EPS.",
+      "title": "In terms of seasonality, we expect Q1 to comprise  approximately 15% of our full year Core   EPS   at the midpoint",
+      "firm": "we expect Q1 to comprise  approximately 15% of our full year Core   EPS   at the midpoint",
+      "speaker_type": "other",
+      "mention_count": 2
+    },
+    {
+      "name": "Industrial.",
+      "title": "In Capital Markets, both sales and commercial mortgage origination grew at high - teens rates",
+      "firm": "both sales and commercial mortgage origination grew at high - teens rates",
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "CMBS.",
+      "title": "SOP growth of 1 4 % , outpaced revenue growth",
+      "firm": "outpaced revenue growth",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CBRE EPS",
+      "predicate": "reported",
+      "object": "$1.3",
+      "value": 1.3,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CBRE EPS",
+      "predicate": "reported",
+      "object": "$2.73",
+      "value": 2.73,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CBRE",
+      "predicate": "stated",
+      "object": "we believe are the most directly comparable GAAP measures, which are included in the appendix",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CBRE",
+      "predicate": "stated",
+      "object": "we expect Q1 to comprise  approximately 15% of our full year Core   EPS   at the midpoint ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CBRE",
+      "predicate": "stated",
+      "object": "We expect to provide revised historical financials  reflecting these changes well in advance of the first  quarter earnings call",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CBRE",
+      "predicate": "stated",
+      "object": "We expect the variability of these items to have a potentially unpredictable, and a potential ly  significant, impact on our future GAAP financial results",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CBRE",
+      "predicate": "stated",
+      "object": "We expect the  variability of these items to have a potentially unpredictable, and a potentially significant, impact on our future GAAP fina nci al results",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CBRE/transcripts",
+  "origin": {
+    "leaf": "c6237ea0b6e8de7210fc9b638e28c2926274e64d462b739e2d7370b6765b02df",
+    "parent": "3a64c65960f8ba918d8a94fdf6fd1429e25ff535d567f88d90ece91d251aee0f113a34def9568d6adfbc2efc13cd234a",
+    "timestamp": "2026-04-14T06:15:11.767Z",
+    "source": "transcript:CBRE_Q4+2025+Earnings+Slides+vFinal.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c6237ea0b6e8de7210fc9b638e28c2926274e64d462b739e2d7370b6765b02df",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.767Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

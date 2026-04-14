@@ -1,0 +1,152 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BKR",
+  "company": "Baker Hughes Co",
+  "title": "BKR   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 5603,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BKR gross margin",
+      "predicate": "reported",
+      "object": "$17.4 percent",
+      "value": 17.4,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BKR gross margin",
+      "predicate": "reported",
+      "object": "$18.1 percent",
+      "value": 18.1,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BKR gross margin",
+      "predicate": "reported",
+      "object": "$20.0 percent",
+      "value": 20,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BKR",
+      "predicate": "guided",
+      "object": "guidance midpoint, driven by strong  IET performance and resulting in record FY’25 Adjusted EBITDA 1  IET order momentum remains strong  Power systems, LNG, and New Energy awards supported robust IET ",
+      "value": 4,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BKR",
+      "predicate": "guided",
+      "object": "expect IET orders of >$40 billion",
+      "value": 40,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKR",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BKR/transcripts",
+  "origin": {
+    "leaf": "c0b284692d10e5ae2a22f871d55ffd3737bf7474ddbd5aaa0d208558a36a8843",
+    "parent": "a007af32a0d6cc3cb9f309106f90fcc159b6851c999e0fce564f31d9108325b95bf492a71a398a9d09195b5a1504f3df",
+    "timestamp": "2026-04-14T06:15:11.731Z",
+    "source": "transcript:BKR_Fourth-Quarter-2025_Earnings-Conference-Call-Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/c0b284692d10e5ae2a22f871d55ffd3737bf7474ddbd5aaa0d208558a36a8843",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.731Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

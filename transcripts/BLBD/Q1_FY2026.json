@@ -1,0 +1,120 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BLBD",
+  "company": "Blue Bird Corp",
+  "title": "BLBD Q1 FY2026 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2026",
+  "call_date": null,
+  "word_count": 2265,
+  "speakers": [
+    {
+      "name": "Guidance Updated",
+      "title": "Raised to $225M and 15%  13  Solid FY26 - H1 at ~14% Margin, with profitable growth expected to accelerate in FY26 - H2  FY26 - Q1  Actual  FY26 - Q2   FY26 - Q3   FY26 - Q4   FY26 Total  $M  $333   $1,450   -   $1,550 Rev",
+      "firm": "with profitable growth expected to accelerate in FY26 - H2  FY26 - Q1  Actual  FY26 - Q2   FY26 - Q3   FY26 - Q4   FY26 Total  $M  $333   $1",
+      "speaker_type": "other",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLBD",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BLBD gross margin",
+      "predicate": "reported",
+      "object": "$21.4 percent",
+      "value": 21.4,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BLBD gross margin",
+      "predicate": "reported",
+      "object": "$15 percent",
+      "value": 15,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLBD",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BLBD",
+      "predicate": "guided",
+      "object": "Guidance  Units\n\n16  OUTLOOK  John Wyskiel  President & CEO\n\nStrong Industry and Blue Bird Outlook  EBITDA Margins of   15% in 2026   and   16%+ Longer - Term  17  Flat = 15%  1%+ = $1.5 Billion",
+      "value": 1.5,
+      "unit": "Billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BLBD",
+      "predicate": "stated",
+      "object": "We believe these expenses are not considered an indicator of ongoing company performanc e",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLBD",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLBD",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "regulation"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BLBD/transcripts",
+  "origin": {
+    "leaf": "106481cf8d08fd73b3a65e620c1d73900016a9e86783ffbcb604d6e5d9dbf3d4",
+    "parent": "ff76f6fb4a6c954a4fd39b4ee4fbab313ceb4d9168c579f659b676b044d093e94afd2071ead2dfa832bfea0cbef1c1c6",
+    "timestamp": "2026-04-14T06:15:11.734Z",
+    "source": "transcript:BLBD_BLBD-Q1-2026-Earnings-Deck-vF.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/106481cf8d08fd73b3a65e620c1d73900016a9e86783ffbcb604d6e5d9dbf3d4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.734Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

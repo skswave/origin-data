@@ -1,14 +1,14 @@
 {
   "schema": "rootz.ai/speaker-index/v1",
-  "total_speakers": 72,
+  "total_speakers": 133,
   "note": "Speakers who appear across multiple companies (analysts, advisors)",
   "speakers": [
     {
       "name": "Internal Control",
       "firm": "2024 expressed an unqualified opinion thereon",
       "type": "other",
-      "companies": 9,
-      "appearances": 20,
+      "companies": 14,
+      "appearances": 26,
       "tickers": [
         "AAPL",
         "GILD",
@@ -18,48 +18,153 @@
         "PSA",
         "SNPS",
         "SYK",
-        "WBD"
+        "WBD",
+        "VRSK",
+        "ATR",
+        "APLE",
+        "CF",
+        "CRH"
       ]
     },
     {
       "name": "Income Statement",
       "firm": "the FASB issued ASU No",
       "type": "other",
-      "companies": 5,
-      "appearances": 12,
+      "companies": 9,
+      "appearances": 25,
       "tickers": [
         "AAPL",
         "GILD",
         "NKE",
         "PYPL",
-        "SNPS"
+        "SNPS",
+        "LLY",
+        "VRSK",
+        "BOOT",
+        "CF"
       ]
     },
     {
       "name": "Calif.",
       "firm": "2014   —   Adobe (Nasdaq:ADBE) today reported financial results for its second quarter of fiscal year 2014 ended May 30",
       "type": "other",
-      "companies": 5,
-      "appearances": 9,
+      "companies": 6,
+      "appearances": 10,
       "tickers": [
         "ADBE",
         "DIS",
         "GOOGL",
         "HPQ",
-        "NTAP"
+        "NTAP",
+        "ONC"
+      ]
+    },
+    {
+      "name": "Risk Factors",
+      "firm": "we and our vendors are subject to cyberattacks or other privacy or data security incidents",
+      "type": "other",
+      "companies": 6,
+      "appearances": 6,
+      "tickers": [
+        "CI",
+        "PSA",
+        "WBD",
+        "AMH",
+        "ASIC",
+        "WRB"
       ]
     },
     {
       "name": "Christopher",
       "firm": "Zachary Fadem  Wells Fargo Securities",
       "type": "analyst",
-      "companies": 4,
-      "appearances": 5,
+      "companies": 5,
+      "appearances": 6,
       "tickers": [
         "LOW",
         "MRK",
         "PFE",
-        "QCOM"
+        "QCOM",
+        "BRZE"
+      ]
+    },
+    {
+      "name": "Corporate Governance",
+      "firm": "“Compensation Discussion and Analysis”",
+      "type": "executive",
+      "companies": 5,
+      "appearances": 5,
+      "tickers": [
+        "LOW",
+        "NKE",
+        "SYK",
+        "WBD",
+        "CF"
+      ]
+    },
+    {
+      "name": "PART II",
+      "firm": null,
+      "type": "other",
+      "companies": 4,
+      "appearances": 41,
+      "tickers": [
+        "AAPL",
+        "JPM",
+        "SYK",
+        "SCHW"
+      ]
+    },
+    {
+      "name": "Andrew",
+      "firm": "Investor Relations & Corporate Modeling  Martin Lyons  Ameren Services Co. ;   chairman",
+      "type": "executive",
+      "companies": 4,
+      "appearances": 25,
+      "tickers": [
+        "AEE",
+        "AAL",
+        "PANW",
+        "ZS"
+      ]
+    },
+    {
+      "name": "PART I",
+      "firm": null,
+      "type": "other",
+      "companies": 4,
+      "appearances": 15,
+      "tickers": [
+        "AAPL",
+        "SYK",
+        "SCHW",
+        "CLF"
+      ]
+    },
+    {
+      "name": "Inc.",
+      "firm": "November 4th",
+      "type": "executive",
+      "companies": 4,
+      "appearances": 8,
+      "tickers": [
+        "SMCI",
+        "SYK",
+        "REGN",
+        "ADTN"
+      ]
+    },
+    {
+      "name": "Answer",
+      "firm": null,
+      "type": "other",
+      "companies": 4,
+      "appearances": 4,
+      "tickers": [
+        "ZTS",
+        "ARE",
+        "BTGO",
+        "COTY"
       ]
     },
     {
@@ -76,28 +181,88 @@
       ]
     },
     {
-      "name": "Corporate Governance",
-      "firm": "“Compensation Discussion and Analysis”",
-      "type": "executive",
+      "name": "Business",
+      "firm": null,
+      "type": "other",
       "companies": 4,
       "appearances": 4,
       "tickers": [
-        "LOW",
-        "NKE",
-        "SYK",
-        "WBD"
+        "CI",
+        "WBD",
+        "ASIC",
+        "CF"
       ]
     },
     {
-      "name": "PART II",
-      "firm": null,
+      "name": "Brad Zelnick",
+      "firm": "Deutsche Bank Securities",
+      "type": "analyst",
+      "companies": 3,
+      "appearances": 15,
+      "tickers": [
+        "ADBE",
+        "SNOW",
+        "PANW"
+      ]
+    },
+    {
+      "name": "Brent Thill",
+      "firm": "Jefferies",
+      "type": "analyst",
+      "companies": 3,
+      "appearances": 13,
+      "tickers": [
+        "ADBE",
+        "SNOW",
+        "PANW"
+      ]
+    },
+    {
+      "name": "Gross Margin",
+      "firm": "gross margin as a percentage of sales increased 34 basis points compared to 2024",
       "type": "other",
       "companies": 3,
-      "appearances": 38,
+      "appearances": 12,
       "tickers": [
-        "AAPL",
-        "JPM",
-        "SYK"
+        "LOW",
+        "LLY",
+        "AAP"
+      ]
+    },
+    {
+      "name": "David",
+      "firm": "Cantor Fitzgerald &",
+      "type": "analyst",
+      "companies": 3,
+      "appearances": 8,
+      "tickers": [
+        "GPN",
+        "AAL",
+        "SLB"
+      ]
+    },
+    {
+      "name": "Jeff",
+      "firm": "Scott Davis  Melius Research",
+      "type": "analyst",
+      "companies": 3,
+      "appearances": 8,
+      "tickers": [
+        "MMM",
+        "DELL",
+        "AIZ"
+      ]
+    },
+    {
+      "name": "Operating Margin",
+      "firm": "please review the earni ngs  press release and Item 2",
+      "type": "other",
+      "companies": 3,
+      "appearances": 8,
+      "tickers": [
+        "SNPS",
+        "V",
+        "BWA"
       ]
     },
     {
@@ -113,6 +278,18 @@
       ]
     },
     {
+      "name": "Intangibles",
+      "firm": "which modernizes the accounting for internal-use software",
+      "type": "other",
+      "companies": 3,
+      "appearances": 7,
+      "tickers": [
+        "AAPL",
+        "PYPL",
+        "CRH"
+      ]
+    },
+    {
       "name": "Dan Dolev",
       "firm": "M izuho Securities USA",
       "type": "analyst",
@@ -122,6 +299,18 @@
         "GPN",
         "PYPL",
         "V"
+      ]
+    },
+    {
+      "name": "Financial Services",
+      "firm": "flat q/q CC   2   2 %   y/y CC   2  Operating profit   3  $102   million  11",
+      "type": "other",
+      "companies": 3,
+      "appearances": 6,
+      "tickers": [
+        "HPE",
+        "WFC",
+        "BOC"
       ]
     },
     {
@@ -161,15 +350,171 @@
       ]
     },
     {
-      "name": "Risk Factors",
-      "firm": "we and our vendors are subject to cyberattacks or other privacy or data security incidents",
+      "name": "Peter",
+      "firm": "Christopher Horvers  JPMorgan Chase &",
+      "type": "analyst",
+      "companies": 3,
+      "appearances": 4,
+      "tickers": [
+        "LOW",
+        "MRK",
+        "ADTN"
+      ]
+    },
+    {
+      "name": "BREP",
+      "firm": "BREDS   –   Blackstone Real Estate Debt Strategies",
       "type": "other",
       "companies": 3,
       "appearances": 3,
       "tickers": [
-        "CI",
-        "PSA",
-        "WBD"
+        "BX",
+        "BSTT",
+        "BXSL"
+      ]
+    },
+    {
+      "name": "CAPITAL METRICS",
+      "firm": "Growth",
+      "type": "other",
+      "companies": 3,
+      "appearances": 3,
+      "tickers": [
+        "BX",
+        "BSTT",
+        "BXSL"
+      ]
+    },
+    {
+      "name": "ECRED.",
+      "firm": null,
+      "type": "other",
+      "companies": 3,
+      "appearances": 3,
+      "tickers": [
+        "BX",
+        "BSTT",
+        "BXSL"
+      ]
+    },
+    {
+      "name": "Fee Relate d  Performance Compensation.",
+      "firm": "and (b) not dependent on realization events from the underlying investments",
+      "type": "other",
+      "companies": 3,
+      "appearances": 3,
+      "tickers": [
+        "BX",
+        "BSTT",
+        "BXSL"
+      ]
+    },
+    {
+      "name": "Highlights",
+      "firm": null,
+      "type": "other",
+      "companies": 3,
+      "appearances": 3,
+      "tickers": [
+        "COST",
+        "MSCI",
+        "AAON"
+      ]
+    },
+    {
+      "name": "Matt",
+      "firm": "Miksic  Barclays Services",
+      "type": "analyst",
+      "companies": 3,
+      "appearances": 3,
+      "tickers": [
+        "JNJ",
+        "QCOM",
+        "ZS"
+      ]
+    },
+    {
+      "name": "Michael",
+      "firm": "Inc. - Analyst",
+      "type": "analyst",
+      "companies": 3,
+      "appearances": 3,
+      "tickers": [
+        "ADBE",
+        "ZTS",
+        "AAL"
+      ]
+    },
+    {
+      "name": "NET ACCRUED PERFORMANCE REVENUES",
+      "firm": "if any",
+      "type": "other",
+      "companies": 3,
+      "appearances": 3,
+      "tickers": [
+        "BX",
+        "BSTT",
+        "BXSL"
+      ]
+    },
+    {
+      "name": "Performance Allocations Compensation.",
+      "firm": "pursuant to an ongoing compensation program",
+      "type": "other",
+      "companies": 3,
+      "appearances": 3,
+      "tickers": [
+        "BX",
+        "BSTT",
+        "BXSL"
+      ]
+    },
+    {
+      "name": "Private Equity  BXGP",
+      "firm": "309",
+      "type": "other",
+      "companies": 3,
+      "appearances": 3,
+      "tickers": [
+        "BX",
+        "BSTT",
+        "BXSL"
+      ]
+    },
+    {
+      "name": "Question",
+      "firm": null,
+      "type": "other",
+      "companies": 3,
+      "appearances": 3,
+      "tickers": [
+        "ARE",
+        "BTGO",
+        "COTY"
+      ]
+    },
+    {
+      "name": "SMAs.",
+      "firm": null,
+      "type": "other",
+      "companies": 3,
+      "appearances": 3,
+      "tickers": [
+        "BX",
+        "BSTT",
+        "BXSL"
+      ]
+    },
+    {
+      "name": "Steve",
+      "firm": "Scala  TD Cowen",
+      "type": "analyst",
+      "companies": 3,
+      "appearances": 3,
+      "tickers": [
+        "MRK",
+        "PFE",
+        "AAL"
       ]
     },
     {
@@ -185,6 +530,29 @@
       ]
     },
     {
+      "name": "Taxes.",
+      "firm": "less Realized Performanc e  Compensation (which refers to Realized Performance Compensation excluding Fee Related Performance Compensation and Equity - Based  Performance Compensation)",
+      "type": "other",
+      "companies": 3,
+      "appearances": 3,
+      "tickers": [
+        "BX",
+        "BSTT",
+        "BXSL"
+      ]
+    },
+    {
+      "name": "Saket Kalia",
+      "firm": "Barclays Capital",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 31,
+      "tickers": [
+        "ADBE",
+        "PANW"
+      ]
+    },
+    {
       "name": "Sales",
       "firm": null,
       "type": "other",
@@ -196,6 +564,39 @@
       ]
     },
     {
+      "name": "Auto",
+      "firm": null,
+      "type": "other",
+      "companies": 2,
+      "appearances": 20,
+      "tickers": [
+        "JPM",
+        "HBAN"
+      ]
+    },
+    {
+      "name": "All Other",
+      "firm": "which were previously presented within Other operating expenses",
+      "type": "other",
+      "companies": 2,
+      "appearances": 18,
+      "tickers": [
+        "C",
+        "MSCI"
+      ]
+    },
+    {
+      "name": "Daniel",
+      "firm": "JPMorgan Securities",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 18,
+      "tickers": [
+        "V",
+        "AAL"
+      ]
+    },
+    {
       "name": "Financial Instruments",
       "firm": null,
       "type": "other",
@@ -204,6 +605,28 @@
       "tickers": [
         "JPM",
         "WFC"
+      ]
+    },
+    {
+      "name": "Matthew Hedberg",
+      "firm": "RBC Capital Markets",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 17,
+      "tickers": [
+        "SNOW",
+        "PANW"
+      ]
+    },
+    {
+      "name": "Forward-Looking Statements",
+      "firm": null,
+      "type": "other",
+      "companies": 2,
+      "appearances": 16,
+      "tickers": [
+        "MSCI",
+        "CRH"
       ]
     },
     {
@@ -229,14 +652,58 @@
       ]
     },
     {
-      "name": "PART I",
-      "firm": null,
+      "name": "Jonathan Ho",
+      "firm": "BMO Capital Markets",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 13,
+      "tickers": [
+        "PANW",
+        "AXON"
+      ]
+    },
+    {
+      "name": "Gregg Moskowitz",
+      "firm": "Mizuho Securities USA",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 11,
+      "tickers": [
+        "ADBE",
+        "PANW"
+      ]
+    },
+    {
+      "name": "Assets",
+      "firm": "717   260   (66)   1",
       "type": "other",
       "companies": 2,
       "appearances": 9,
       "tickers": [
-        "AAPL",
-        "SYK"
+        "NEE",
+        "BSVN"
+      ]
+    },
+    {
+      "name": "Keith Bachman",
+      "firm": "BMO Capital Markets",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 9,
+      "tickers": [
+        "ADBE",
+        "PANW"
+      ]
+    },
+    {
+      "name": "Revenue",
+      "firm": "except percentages  Note: Figures may not recalculate exactly due to rounding",
+      "type": "other",
+      "companies": 2,
+      "appearances": 9,
+      "tickers": [
+        "V",
+        "APTV"
       ]
     },
     {
@@ -262,6 +729,17 @@
       ]
     },
     {
+      "name": "Keith Weiss",
+      "firm": "Morgan Stanley &",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 8,
+      "tickers": [
+        "ADBE",
+        "PANW"
+      ]
+    },
+    {
       "name": "Michael Lasser",
       "firm": "UBS Securities",
       "type": "analyst",
@@ -273,14 +751,36 @@
       ]
     },
     {
-      "name": "Operating Margin",
-      "firm": "please review the earni ngs  press release and Item 2",
-      "type": "other",
+      "name": "Ryan",
+      "firm": "President",
+      "type": "executive",
+      "companies": 2,
+      "appearances": 8,
+      "tickers": [
+        "REGN",
+        "BRZE"
+      ]
+    },
+    {
+      "name": "David Raso",
+      "firm": "Oppenheimer &",
+      "type": "analyst",
       "companies": 2,
       "appearances": 7,
       "tickers": [
-        "SNPS",
-        "V"
+        "DE",
+        "CNH"
+      ]
+    },
+    {
+      "name": "Investor Relations",
+      "firm": null,
+      "type": "executive",
+      "companies": 2,
+      "appearances": 7,
+      "tickers": [
+        "MCO",
+        "ZS"
       ]
     },
     {
@@ -295,6 +795,17 @@
       ]
     },
     {
+      "name": "Akash",
+      "firm": "Palkhiwala  QUALCOMM Incorporated",
+      "type": "executive",
+      "companies": 2,
+      "appearances": 6,
+      "tickers": [
+        "QCOM",
+        "REGN"
+      ]
+    },
+    {
       "name": "Alex Zukin",
       "firm": "Wolfe Research",
       "type": "analyst",
@@ -306,14 +817,14 @@
       ]
     },
     {
-      "name": "Brent Thill",
-      "firm": "Jefferies",
+      "name": "Ben Bollin",
+      "firm": "Cleveland Research",
       "type": "analyst",
       "companies": 2,
       "appearances": 6,
       "tickers": [
-        "ADBE",
-        "SNOW"
+        "MSI",
+        "PANW"
       ]
     },
     {
@@ -328,28 +839,6 @@
       ]
     },
     {
-      "name": "Inc.",
-      "firm": "November 4th",
-      "type": "executive",
-      "companies": 2,
-      "appearances": 6,
-      "tickers": [
-        "SMCI",
-        "SYK"
-      ]
-    },
-    {
-      "name": "Intangibles",
-      "firm": "which modernizes the accounting for internal-use software",
-      "type": "other",
-      "companies": 2,
-      "appearances": 6,
-      "tickers": [
-        "AAPL",
-        "PYPL"
-      ]
-    },
-    {
       "name": "Outlook",
       "firm": "N",
       "type": "other",
@@ -358,6 +847,17 @@
       "tickers": [
         "LOW",
         "NVDA"
+      ]
+    },
+    {
+      "name": "Research Division",
+      "firm": "and welcome to the Fiscal Year 2020 Fourth Quarter and Year - end Financial Results  Conference Call for Dell Technologies",
+      "type": "operator",
+      "companies": 2,
+      "appearances": 6,
+      "tickers": [
+        "DELL",
+        "REGN"
       ]
     },
     {
@@ -372,6 +872,17 @@
       ]
     },
     {
+      "name": "Colin Langan",
+      "firm": "Wells Fargo Securities",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 5,
+      "tickers": [
+        "F",
+        "ALV"
+      ]
+    },
+    {
       "name": "Commercial Banking",
       "firm": null,
       "type": "other",
@@ -383,14 +894,36 @@
       ]
     },
     {
-      "name": "Financial Services",
-      "firm": "flat q/q CC   2   2 %   y/y CC   2  Operating profit   3  $102   million  11",
-      "type": "other",
+      "name": "Emmanuel Rosner",
+      "firm": "Deutsche Bank Securities",
+      "type": "analyst",
       "companies": 2,
       "appearances": 5,
       "tickers": [
-        "HPE",
-        "WFC"
+        "F",
+        "ALV"
+      ]
+    },
+    {
+      "name": "Inc.   -",
+      "firm": "President",
+      "type": "executive",
+      "companies": 2,
+      "appearances": 5,
+      "tickers": [
+        "REGN",
+        "ZS"
+      ]
+    },
+    {
+      "name": "Jairam Nathan",
+      "firm": "Daiwa Capital Markets America",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 5,
+      "tickers": [
+        "DE",
+        "ALV"
       ]
     },
     {
@@ -438,14 +971,14 @@
       ]
     },
     {
-      "name": "Brad Zelnick",
-      "firm": "Deutsche Bank Securities",
-      "type": "analyst",
+      "name": "CASH EQUIVALENTS AND RESTRICTED CASH",
+      "firm": "050   897",
+      "type": "other",
       "companies": 2,
       "appearances": 4,
       "tickers": [
-        "ADBE",
-        "SNOW"
+        "ANET",
+        "COTY"
       ]
     },
     {
@@ -457,6 +990,17 @@
       "tickers": [
         "NVDA",
         "STX"
+      ]
+    },
+    {
+      "name": "John",
+      "firm": "sorry",
+      "type": "other",
+      "companies": 2,
+      "appearances": 4,
+      "tickers": [
+        "JPM",
+        "BB"
       ]
     },
     {
@@ -515,14 +1059,14 @@
       ]
     },
     {
-      "name": "Peter",
-      "firm": "Christopher Horvers  JPMorgan Chase &",
+      "name": "Tom Narayan",
+      "firm": "RBC Cap ital Markets",
       "type": "analyst",
       "companies": 2,
       "appearances": 3,
       "tickers": [
-        "LOW",
-        "MRK"
+        "F",
+        "ALV"
       ]
     },
     {
@@ -559,6 +1103,50 @@
       ]
     },
     {
+      "name": "Adjusted EBITDA",
+      "firm": "2026 | Aptiv  ($ millions)   4Q 2025   4Q 2024   2025   2024  Net income attributable to Aptiv   138   268   165   1",
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "APTV",
+        "ASTH"
+      ]
+    },
+    {
+      "name": "Adjusted EPS",
+      "firm": null,
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "CMS",
+        "ASTH"
+      ]
+    },
+    {
+      "name": "Alex",
+      "firm": "Kapper  Caterpillar",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "CAT",
+        "ZS"
+      ]
+    },
+    {
+      "name": "Alex Kramm",
+      "firm": "UBS Securities",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "ICE",
+        "CBRE"
+      ]
+    },
+    {
       "name": "Asiya Merchant",
       "firm": "Citigroup Global Markets Canada",
       "type": "analyst",
@@ -570,14 +1158,14 @@
       ]
     },
     {
-      "name": "Business",
+      "name": "Compensation",
       "firm": null,
       "type": "other",
       "companies": 2,
       "appearances": 2,
       "tickers": [
-        "CI",
-        "WBD"
+        "VRSK",
+        "ASIC"
       ]
     },
     {
@@ -592,6 +1180,28 @@
       ]
     },
     {
+      "name": "Dallas",
+      "firm": "Texas; Detroit",
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "AMZN",
+        "CBRE"
+      ]
+    },
+    {
+      "name": "Dan Levy",
+      "firm": "Credit Suisse Sec urities (USA)",
+      "type": "analyst",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "F",
+        "ALV"
+      ]
+    },
+    {
       "name": "Daniel R. Perlin",
       "firm": "RBC Capital Markets",
       "type": "analyst",
@@ -600,6 +1210,39 @@
       "tickers": [
         "PYPL",
         "V"
+      ]
+    },
+    {
+      "name": "Darren",
+      "firm": "Chief Executive Officer  Joseph Wolk  Johnson & Johnson - Chief Financial Officer",
+      "type": "executive",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "JNJ",
+        "ABTC"
+      ]
+    },
+    {
+      "name": "Diluted EPS",
+      "firm": "2026",
+      "type": "executive",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "PNC",
+        "BWA"
+      ]
+    },
+    {
+      "name": "Earnings Call",
+      "firm": "202 6  -   2   -  Operator  Good morning",
+      "type": "operator",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "OWL",
+        "OBDC"
       ]
     },
     {
@@ -658,6 +1301,17 @@
       ]
     },
     {
+      "name": "Free Cash Flow",
+      "firm": "2026 | Aptiv  ($ millions)   New Aptiv  2026 1  Versigent  2026   1  Net cash provided by operating activities   1",
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "APTV",
+        "CBRE"
+      ]
+    },
+    {
       "name": "George Hill",
       "firm": "Deutsche Bank Securities",
       "type": "analyst",
@@ -669,6 +1323,17 @@
       ]
     },
     {
+      "name": "Investments",
+      "firm": "ASC 715 Compensation – Retirement Benefits",
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "PNC",
+        "ASIC"
+      ]
+    },
+    {
       "name": "James E. Faucette",
       "firm": "Morgan Stanley &",
       "type": "analyst",
@@ -677,6 +1342,17 @@
       "tickers": [
         "PYPL",
         "V"
+      ]
+    },
+    {
+      "name": "Julie",
+      "firm": "Delta Air Lines  Edward Herman Bastian  Chief Executive Officer & Director",
+      "type": "executive",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "DAL",
+        "AAL"
       ]
     },
     {
@@ -702,6 +1378,17 @@
       ]
     },
     {
+      "name": "Kate Walsh   Archer-Daniels-Midland",
+      "firm": "Investor Relations  •   Juan Luciano   Archer-Daniels-Midland Co - Chairman of the Board",
+      "type": "executive",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "ADMT",
+        "ADM"
+      ]
+    },
+    {
       "name": "Krish Sankar",
       "firm": "Morgan Stanley &",
       "type": "analyst",
@@ -710,6 +1397,17 @@
       "tickers": [
         "HPQ",
         "STX"
+      ]
+    },
+    {
+      "name": "Liquidity",
+      "firm": null,
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "XEL",
+        "CBRE"
       ]
     },
     {
@@ -735,28 +1433,6 @@
       ]
     },
     {
-      "name": "Matt",
-      "firm": "Miksic  Barclays Services",
-      "type": "analyst",
-      "companies": 2,
-      "appearances": 2,
-      "tickers": [
-        "JNJ",
-        "QCOM"
-      ]
-    },
-    {
-      "name": "Michael",
-      "firm": "Inc. - Analyst",
-      "type": "analyst",
-      "companies": 2,
-      "appearances": 2,
-      "tickers": [
-        "ADBE",
-        "ZTS"
-      ]
-    },
-    {
       "name": "Michael Cherny",
       "firm": "Leerink Partners",
       "type": "analyst",
@@ -779,14 +1455,36 @@
       ]
     },
     {
-      "name": "Steve",
-      "firm": "Scala  TD Cowen",
+      "name": "Response",
+      "firm": "their families",
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "KLAC",
+        "MSCI"
+      ]
+    },
+    {
+      "name": "Robert",
+      "firm": "President",
       "type": "analyst",
       "companies": 2,
       "appearances": 2,
       "tickers": [
         "MRK",
-        "PFE"
+        "DELL"
+      ]
+    },
+    {
+      "name": "Thanks.  Answer",
+      "firm": "Erin",
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "ZTS",
+        "ARE"
       ]
     },
     {
@@ -798,6 +1496,28 @@
       "tickers": [
         "PYPL",
         "V"
+      ]
+    },
+    {
+      "name": "Unaudited",
+      "firm": "except share and per share data)  11",
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "PSA",
+        "AFL"
+      ]
+    },
+    {
+      "name": "What",
+      "firm": "please",
+      "type": "other",
+      "companies": 2,
+      "appearances": 2,
+      "tickers": [
+        "DE",
+        "PANW"
       ]
     },
     {
@@ -825,17 +1545,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/speakers",
   "origin": {
-    "leaf": "24a8728071818389756fd98b0f9e24548e7ecdc30d48fc7c39309c5fcbbbdc68",
+    "leaf": "3dd4ae078a152ff476b87d85dbc7f24c7a4f370a3c105d0170e9c1bde15822a5",
     "parent": "3d0600d9c22fae459f15aee534edd14ca7d8df9b74bd29231eae3f8eeb1f17e8",
-    "timestamp": "2026-04-13T06:15:31.689Z",
+    "timestamp": "2026-04-14T06:16:27.348Z",
     "source": "speaker-index",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/24a8728071818389756fd98b0f9e24548e7ecdc30d48fc7c39309c5fcbbbdc68",
+    "verify": "https://origin.rootz.global/api/verify/3dd4ae078a152ff476b87d85dbc7f24c7a4f370a3c105d0170e9c1bde15822a5",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-13T06:15:31.689Z",
+    "exported_at": "2026-04-14T06:16:27.348Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

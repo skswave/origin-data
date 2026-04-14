@@ -1,0 +1,117 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ALNY",
+  "company": "ALNYLAM PHARMACEUTICALS, INC.",
+  "title": "ALNY Q4 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 3352,
+  "speakers": [
+    {
+      "name": "Commercial Portfolio",
+      "title": "Continued Strong Performance in Q4 2024  1   With FX impact",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Late Mar",
+      "title": "Dec’25)  Optimizing access pathways   at ~170  priority health systems (label contingent)  Bolstering a broad ecosystem   of  alternative sites of care  Scaled up field teams   across commercial  and medical  Securing   health systems formulary approval  Finalizing VBAs   for ATTR - CM  Disciplined and compliant go - to - market  execution   upon approval\n\n14  Communicating Progress  Q3’25  Earnings  PDUFA,  US Launch  Q2’25  Earnings Q1’25  Earnings  Final Label  & Launch  Readiness  Indicators  Initial  Customer  Feedback  Early Launch  Indicators  Customer  Utilization  2025 Guidance  $1,600 to  $1,725 Million  Total TTR Net  Product  Revenues\n\n15  Rare Franchise Update: Q4 2024  1   CER = constant exchange rate, which is a non - GAAP financial measure that represents growth calculated as if exchange rates had   remained unchanged from those used during 2023   –   see the Financial Summary slide for more information",
+      "firm": "US Launch  Q2’25  Earnings Q1’25  Earnings  Final Label  & Launch  Readiness  Indicators  Initial  Customer  Feedback  Early Launch  Indicators  Customer  Utilization  2025 Guidance  $1",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALNY",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALNY",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALNY",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ALNY",
+      "predicate": "guided",
+      "object": "Guidance\n\n12  Disrupting an Expanding Growth Market  1   Information based on Alnylam modeling data  Significant Unmet Patient Need  ~80%  ATTR - CM patients  undiagnosed   globally 1  RAPID KNOCKDOWN",
+      "value": 1725,
+      "unit": "Million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALNY",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALNY",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ALNY",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ALNY/transcripts",
+  "origin": {
+    "leaf": "4a5bc54e76f0269d6586a5538b4fe47fefe4aaa1f490b3ecfddbcb99fa02ef4e",
+    "parent": "684c19fa55c507e0db5228187756920c3de9524c12e3600ee9625ad817f4194125962dc527de2d7cc8bf2bec9f2d2588",
+    "timestamp": "2026-04-14T06:15:11.597Z",
+    "source": "transcript:ALNY_alnylam-q4-2024-earnings-presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4a5bc54e76f0269d6586a5538b4fe47fefe4aaa1f490b3ecfddbcb99fa02ef4e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.597Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

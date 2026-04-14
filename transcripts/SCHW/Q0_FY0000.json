@@ -1,0 +1,202 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "SCHW",
+  "company": "SCHWAB CHARLES CORP",
+  "title": "SCHW   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 14701,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we believe is the no trade-o ff s concept",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we expected and then we saw the bene fi t of the transfers",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we expected to start the year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we expect to have another step up in CapEx in 2019",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we expected the sorting to stop",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we believe, particularly when we look at the pipelines, which are quite robust, we really do believe that the two factors I mentioned were the principal drivers",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we expect it will start to normalize",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we expect to see continuing pricing pressure across all areas of investment management, again, di ff erentiated from investment advisory",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we expected would be some tax-related out fl ows from the balance sheet in April and potentially, the continuation of some of the sorting",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we believe are the key drivers of our long-term success, the long-term growth and long-term performance of the business",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 1,
+  "live_api": "https://origin.rootz.global/api/company/SCHW/transcripts",
+  "origin": {
+    "leaf": "393c4f47a1155985b2196373a4ad046b57a7adffc59e4a16f1173fff3e1324ce",
+    "parent": "835e22dfd7107c1b298527ef77a0a8abb691aa456cf35bbe5092c682d78c80feeb55a855695b376e10c2027c277d5efc",
+    "timestamp": "2026-04-14T06:15:12.465Z",
+    "source": "transcript:SCHW_schwab_spring_business_update_transcript_04152019.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/393c4f47a1155985b2196373a4ad046b57a7adffc59e4a16f1173fff3e1324ce",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:12.465Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "SCHW",
+  "company": "SCHWAB CHARLES CORP",
+  "title": "SCHW Q4 FY2021 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2021",
+  "call_date": null,
+  "word_count": 6775,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "SCHW gross margin",
+      "predicate": "reported",
+      "object": "$43.0 percent",
+      "value": 43,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "SCHW",
+      "predicate": "guided",
+      "object": "guidance throughout 2021 – assets enrolled in one of our advisory offerings rose to $559.2 billion",
+      "value": 559.2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "We believe these non-GAAP financial measures provide useful supplemental information about the financial performance of the Company, and facilitate meaningful c",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we believe doing so provides additional transparency of Schwab’s ongoing operations, and is useful in both evaluating the operating performance of the business ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "We believe return on tangible common equity may be useful to investors as a supplemental measure to facilitate assessing capital efficiency and returns relative",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/SCHW/transcripts",
+  "origin": {
+    "leaf": "8d1c18e6dc49d732151c69240d80165faf89bf411b78ce2beacf328b24c50954",
+    "parent": "f0142b7c6efdbc6a8c2b16b22917864b8a43909f45fcf2a4b6d20bfb233803f5e5395fbcca04284425c5d42b1bd7fd42",
+    "timestamp": "2026-04-14T06:15:12.468Z",
+    "source": "transcript:SCHW_schw_q4_2021_earnings_release.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/8d1c18e6dc49d732151c69240d80165faf89bf411b78ce2beacf328b24c50954",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:12.468Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

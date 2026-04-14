@@ -1,0 +1,172 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ARQ",
+  "company": "Arq, Inc.",
+  "title": "ARQ Q3 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 4791,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ARQ",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ARQ",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ARQ total revenue",
+      "predicate": "reported",
+      "object": "$35 million",
+      "value": 35,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ARQ total revenue",
+      "predicate": "reported",
+      "object": "$35.1 million",
+      "value": 35.1,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ARQ",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ARQ",
+      "predicate": "guided",
+      "object": "forecast for full year 2025 remain in line with previous guidance of $8   -   $12 million",
+      "value": 12,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARQ",
+      "predicate": "stated",
+      "object": "We believe that the EBITDA and Adjusted EBITDA measures are less susceptible to variances that affect our operating  performance",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARQ",
+      "predicate": "stated",
+      "object": "We believe the non - GAAP  measures provide useful information to both management and users of the financial statements by excluding certain expenses,  gains, a",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARQ",
+      "predicate": "stated",
+      "object": "We believe that TTM Adjusted EBITDA  is a useful measure of our operating performance over time",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARQ",
+      "predicate": "stated",
+      "object": "We believe this measure assists both management and  users of the financial statements in understanding progress toward sustained profitability and operational ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ARQ",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ARQ",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ARQ",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ARQ",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ARQ/transcripts",
+  "origin": {
+    "leaf": "4fc75797a2ee67688ec45aad9134de576c882def804d9ba2da3671e92fe77623",
+    "parent": "aba9a2fac5b4df1d710dae356af484366bca1a8de1e6c3a6516c7331bb4f83acf4eb1ac16bd419766f0f8e6f1e8cce47",
+    "timestamp": "2026-04-14T06:15:11.676Z",
+    "source": "transcript:ARQ_Arq_Q3_2025_Earnings_Release_vF.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/4fc75797a2ee67688ec45aad9134de576c882def804d9ba2da3671e92fe77623",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.676Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

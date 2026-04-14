@@ -1,0 +1,180 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ADC",
+  "company": "AGREE REALTY CORP",
+  "title": "ADC Q3 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 9097,
+  "speakers": [
+    {
+      "name": "Reuben",
+      "title": "Senior Director of Corporate Finance  Joey Agree  Agree Realty Corporation; President, Chief Executive Officer  Peter Coughenour  Agree Realty Corporation; Chief Financial Officer  PARTICIPANTS:  Nicholas Joseph  Citi; Analyst  Michael Goldsmith  UBS; Analyst  Jana Galan  BofA; Analyst  James Kammert  Evercore; Analyst  Linda Tsai  Jefferies; Analyst  Omotayo Okusanya  Deutsche Bank; Analyst  John Kilichowski  Wells Fargo; Analyst  Robert Stevenson  Janney Montgomery; Analyst  Spenser Glimcher  Green Street; Analyst  Upal Rana  KeyBanc Capital Markets; Analyst  Eric Borden  BMO Capital Markets; Analyst  Brad Heffern  RBC Capital Markets; Analyst  Wesley Golladay  Baird; Analyst  R.J. Milligan  Raymond James; Analyst  Richard Hightower  Barclays; Analyst  Ronald Kamdem  Morgan Stanley; Analyst, Treatman  Agree Realty Corporation",
+      "firm": "Treatman  Agree Realty Corporation",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADC",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 37,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADC",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ADC",
+      "predicate": "guided",
+      "object": "guidance to a new range of $1.5 billion",
+      "value": 1.5,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ADC",
+      "predicate": "guided",
+      "object": "Guidance for this year is about $1.6 billion",
+      "value": 1.6,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ADC",
+      "predicate": "stated",
+      "object": "we anticipate total costs for the two projects will  be approximately $18 million",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ADC",
+      "predicate": "stated",
+      "object": "We anticipate closing later this quarter and have entered into $350 million of forward starting  swaps to fix so for (inaudible) maturity",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ADC",
+      "predicate": "stated",
+      "object": "we anticipate breaking ground at over $100 million in projects in the second half  of this year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ADC",
+      "predicate": "guided",
+      "object": "next year of over $125 million",
+      "value": 125,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADC",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADC",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADC",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADC",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADC",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ADC",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ADC/transcripts",
+  "origin": {
+    "leaf": "67d2b709d4630fe430279423df5fcac9539a183822cffc2feb017a41657af449",
+    "parent": "de2a07745e62935ec720154943dca465e6402ef136778879751233000f34b49f8acc4483152954bf7ee231b244529f63",
+    "timestamp": "2026-04-14T06:15:11.587Z",
+    "source": "transcript:ADC_Q3-2025-Earnings-Call-Transcript-10-22-2025-vF.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/67d2b709d4630fe430279423df5fcac9539a183822cffc2feb017a41657af449",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.587Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

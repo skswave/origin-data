@@ -1,0 +1,101 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "BV",
+  "total_facts": 6,
+  "by_type": {
+    "topic_mention": 5,
+    "outlook": 1
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BV",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "regulation",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2026"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BV",
+      "predicate": "stated",
+      "object": "we believe there is a reasonable basis for them",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2026"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BV",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2026"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BV",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2026"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BV",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2026"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BV",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive",
+      "fiscal_quarter": "Q1",
+      "fiscal_year": "FY2026"
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BV/transcripts",
+  "origin": {
+    "leaf": "0522a96434e53bd894af02ee6afd54075756481a901cc2823ef422d3258ca222",
+    "parent": "ddb88f9ac7f5236fee7e4581e13457d23ab8e532742f18dfa553e9ff432e65fe",
+    "timestamp": "2026-04-14T06:15:34.995Z",
+    "source": "facts:BV",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/0522a96434e53bd894af02ee6afd54075756481a901cc2823ef422d3258ca222",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:34.995Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ARE",
+  "company": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+  "title": "ARE   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 10207,
+  "speakers": [
+    {
+      "name": "Question",
+      "title": "Farrell Granath:   Thank you for the color on that",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 77
+    },
+    {
+      "name": "Answer",
+      "title": "Joel S",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 57
+    },
+    {
+      "name": "Farrell",
+      "title": "Analyst  Ronald Kamdem - Analyst  John P. Kim - Analyst  Vikram Malhotra - Analyst  James Kammert - Analyst  Ray Zhong - Analyst  Richard Anderson - Analyst  Nicholas Joseph - Analyst  Omotayo Okusanya - Analyst  Michael Carroll - Analyst  Mason Guell - Analyst, Granath",
+      "firm": "Granath",
+      "speaker_type": "analyst",
+      "mention_count": 11
+    },
+    {
+      "name": "Thanks.  Answer",
+      "title": "Joel S",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 4
+    },
+    {
+      "name": "Farrell Granath  Question",
+      "title": "Farrell Granath:   Hello",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Ronald Kamdem  Question",
+      "title": "Ronald Kamdem:   Hey",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "John P. Kim  Question",
+      "title": "John P",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Vikram Malhotra  Question",
+      "title": "Vikram Malhotra:   Morning",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Ray Zhong  Question",
+      "title": "Ray Zhong:   Hi",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Richard Anderson  Question",
+      "title": "Richard Anderson:   Hey",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Nicholas Joseph  Question",
+      "title": "Nicholas Joseph:   Thanks",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Omotayo Okusanya  Question",
+      "title": "Omotayo Okusanya:   Hi",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Michael Carroll  Question",
+      "title": "Michael Carroll:   Yeah",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    },
+    {
+      "name": "Mason Guell  Question",
+      "title": "Mason Guell:   Hi, everyone",
+      "firm": "everyone",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ARE",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 10,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ARE total revenue",
+      "predicate": "reported",
+      "object": "$52 million",
+      "value": 52,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ARE total revenue",
+      "predicate": "reported",
+      "object": "$11.4 million",
+      "value": 11.4,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ARE gross margin",
+      "predicate": "reported",
+      "object": "$70 percent",
+      "value": 70,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ARE",
+      "predicate": "guided",
+      "object": "expected to commence in the third quarter of 2026 on average upon completion of construction, and will generate incremental annual rental revenue of $52 million",
+      "value": 52,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ARE",
+      "predicate": "guided",
+      "object": "guidance assumes a reduction of rent of approximately $6 million",
+      "value": 6,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ARE",
+      "predicate": "guided",
+      "object": "guidance for capitalized interest for 2026 of $250 million",
+      "value": 250,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ARE",
+      "predicate": "guided",
+      "object": "guidance range for realized investment gains of $60 million",
+      "value": 60,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ARE",
+      "predicate": "guided",
+      "object": "expect non-core assets and land to comprise around 65% to 75% of the $2.9 billion",
+      "value": 2.9,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ARE",
+      "predicate": "guided",
+      "object": "guidance page, we did indicate that we've got about $180 million",
+      "value": 180,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ARE",
+      "predicate": "guided",
+      "object": "expect that out of the $2.9 billion",
+      "value": 2.9,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ARE",
+      "predicate": "guided",
+      "object": "guidance, you talked a little bit about $6 million",
+      "value": 6,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "we expect occupancy to dip in the   fi rst quarter of 2026, and we expect occupancy growth in the second half of 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "We expect same property NOI performance to be weaker in the   fi rst half of 2026, driven by lower occupancy and stronger performance in the back half of 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "we expect to impact same property performance",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "we expect those annual savings in 2026 relative to 2024 to be cut roughly in half, given the temporary nature of some of the 2025 savings",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "we expect a decline in capitalized interest headed into the   fi rst quarter of 2026, and we have a number of projects under construction where we are evaluati",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "we expect leverage in the   fi rst quarter of 2026 measured on a quarterly annualized basis, to temporarily increase by 1 times to 1",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "We expect 1Q 2026 leverage to signi fi cantly improve over the balance of 2026 as we make progress on our dispositions and sales of partial interest",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "We expect to sell two redevelopment projects in 2026, and we pivoted to o ffi ce on one project in the Fenway",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "we expect that ratio to continue to decline by the end of 2026",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "we expect to complete the sale of 88 Bluxome Street, our only asset located in SoMa, over the next few quarters",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "we expect non-core assets and land to comprise around 65% to 75% of the $2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "We expect most of our dispositions and partial interest sales to close in the second, third and fourth quarters, with a weighted average closing date in the th",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "We expect the bulk of the closings to occur over 2Q, 3Q, 4Q",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "we expect to close in the near term",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "we anticipate that will continue this year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ARE",
+      "predicate": "stated",
+      "object": "we expect that out of the $2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ARE",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ARE",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ARE",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ARE",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ARE",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    }
+  ],
+  "qa_count": 5,
+  "live_api": "https://origin.rootz.global/api/company/ARE/transcripts",
+  "origin": {
+    "leaf": "e1380766d370b3261d8948bb2eea5b3342cf904614186120c15c63d85f6de666",
+    "parent": "4d826b666b17ea3f770db48a6ce1912709491cd99c6b4a1e3a4f968ef41f51e621ccfcc29078d941f8a5944dcc0179e9",
+    "timestamp": "2026-04-14T06:15:11.674Z",
+    "source": "transcript:ARE_1-27-26-ARE-4Q25-Earn-Call-Transcript-AlphaSense.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/e1380766d370b3261d8948bb2eea5b3342cf904614186120c15c63d85f6de666",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.674Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

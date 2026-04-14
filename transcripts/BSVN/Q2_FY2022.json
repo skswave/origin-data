@@ -1,0 +1,120 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BSVN",
+  "company": "Bank7 Corp.",
+  "title": "BSVN Q2 FY2022 Earnings Call Transcript",
+  "fiscal_quarter": "Q2",
+  "fiscal_year": "FY2022",
+  "call_date": null,
+  "word_count": 4525,
+  "speakers": [
+    {
+      "name": "BSVN",
+      "title": "Corporate Overview  All data as of June 30, 2022, unless indicated otherwise",
+      "firm": "2022",
+      "speaker_type": "other",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "BSVN gross margin",
+      "predicate": "reported",
+      "object": "$4.47 percent",
+      "value": 4.47,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BSVN EPS",
+      "predicate": "reported",
+      "object": "$0.76",
+      "value": 0.76,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BSVN",
+      "predicate": "stated",
+      "object": "we anticipate a return to our historical ranges as we move forward  4  38",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BSVN",
+      "predicate": "stated",
+      "object": "We believe that these sources and estimates are reliable, but have not independently verified them",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BSVN/transcripts",
+  "origin": {
+    "leaf": "3ea1d137e6f83cb256ccb0fe7d9e8db3517c2e37ccbbe9e4b826bc56a57ce204",
+    "parent": "4334b73c40fb7da28c0aaeff7864e91aa77091a4da7a6043412685ef3d3a0a69e4011b735a167ae88f0bd5ab48dcfeba",
+    "timestamp": "2026-04-14T06:15:11.744Z",
+    "source": "transcript:BSVN_Bank7+Corp+Q2+2022+Earnings+Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3ea1d137e6f83cb256ccb0fe7d9e8db3517c2e37ccbbe9e4b826bc56a57ce204",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.744Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

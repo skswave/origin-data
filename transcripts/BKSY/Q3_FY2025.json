@@ -1,0 +1,102 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BKSY",
+  "company": "BlackSky Technology Inc.",
+  "title": "BKSY Q3 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 2934,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKSY",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BKSY total revenue",
+      "predicate": "reported",
+      "object": "$19.6 million",
+      "value": 19.6,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKSY",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKSY",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKSY",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKSY",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BKSY",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BKSY/transcripts",
+  "origin": {
+    "leaf": "6303ff577bad5189d4ea82a247898430b66af30b887f3fdf574f24d568fdaba7",
+    "parent": "6905f192d9c5c06a274917ab0b696546ca349f339e2c6b9922e15ed7e291b0bb15b560a554bd92ce8c5734e9745f8e69",
+    "timestamp": "2026-04-14T06:15:11.732Z",
+    "source": "transcript:BKSY_BlackSky-Q3-2025-Earnings-Release-Final-v2.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/6303ff577bad5189d4ea82a247898430b66af30b887f3fdf574f24d568fdaba7",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.732Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

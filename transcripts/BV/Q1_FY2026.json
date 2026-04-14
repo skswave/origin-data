@@ -1,0 +1,92 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BV",
+  "company": "BrightView Holdings, Inc.",
+  "title": "BV Q1 FY2026 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2026",
+  "call_date": null,
+  "word_count": 2408,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BV",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BV",
+      "predicate": "stated",
+      "object": "we believe there is a reasonable basis for them",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BV",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BV",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BV",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BV",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BV/transcripts",
+  "origin": {
+    "leaf": "68f2a32852debb226bf2be4156a44622b6d02c300657ce1e8bb9f673bf3bda0e",
+    "parent": "6dc8a53bfb3ec6f3a40e8452fc003c4b0b2ea938a31c5ad8391d055619898f05b922270e7c5f7ddde08e173c71a98832",
+    "timestamp": "2026-04-14T06:15:11.748Z",
+    "source": "transcript:BV_BV_Q1-2026-Earnings-Call-Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/68f2a32852debb226bf2be4156a44622b6d02c300657ce1e8bb9f673bf3bda0e",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.748Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

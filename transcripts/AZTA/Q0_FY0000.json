@@ -1,0 +1,150 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AZTA",
+  "company": "Azenta, Inc.",
+  "title": "AZTA   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 4936,
+  "speakers": [
+    {
+      "name": "Regulation G",
+      "title": "Use of Non-GAAP financial Measures  The Company supplements its GAAP financial measures with certain non-GAAP financial measures to provide investors a better perspective on the results of business operations, which the Company believes is more comparable to the similar analyses provided by its peers",
+      "firm": "which the Company believes is more comparable to the similar analyses provided by its peers",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AZTA",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AZTA",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AZTA gross margin",
+      "predicate": "reported",
+      "object": "$42.9 percent",
+      "value": 42.9,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AZTA gross margin",
+      "predicate": "reported",
+      "object": "$0.4 percent",
+      "value": 0.4,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AZTA gross margin",
+      "predicate": "reported",
+      "object": "$44.1 percent",
+      "value": 44.1,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AZTA gross margin",
+      "predicate": "reported",
+      "object": "$8.5 percent",
+      "value": 8.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AZTA EPS",
+      "predicate": "reported",
+      "object": "$0.09",
+      "value": 0.09,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AZTA",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AZTA",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AZTA",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AZTA",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "regulation"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AZTA/transcripts",
+  "origin": {
+    "leaf": "3cc508ce9a89a3db1f66505f3374e21329ec0409599927aa63d4708ed2503aa1",
+    "parent": "0ff66f4cb8a015506810ccd977c8723e0b16179d2d1811f44a4ffca5725cda6f2e3aace6d7ed80bb77d166ce34b3cad5",
+    "timestamp": "2026-04-14T06:15:11.695Z",
+    "source": "transcript:AZTA_AZTA_Q1-26_Earnings_Release_final_02.03.26.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/3cc508ce9a89a3db1f66505f3374e21329ec0409599927aa63d4708ed2503aa1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.695Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

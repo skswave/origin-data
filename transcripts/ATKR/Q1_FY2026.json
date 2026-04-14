@@ -1,0 +1,150 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ATKR",
+  "company": "Atkore Inc.",
+  "title": "ATKR Q1 FY2026 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2026",
+  "call_date": null,
+  "word_count": 2937,
+  "speakers": [
+    {
+      "name": "Strategic Focus",
+      "title": "Today and Tomorrow  Atkore provides comprehensive solutions to deploy, isolate, and protect critical electrical infrastructure for the long-term  Drive operational excellence with the Atkore Business  System  Meet  secular  demand for expected growth in core electrical end markets  Maintain  strong  financial profile  focusing on shareholder  returns  Prioritize  portfolio of domestically manufactured  electrical infrastructure products\n\n11 © Atkore  Appendix  © Atkore\n\n12 © Atkore  Segment Information  Three months ended  December 26, 2025   December 27, 2024  (in thousands)   Net sales  Adjusted EBITDA  Adjusted EBITDA Margin   Net sales  Adjusted EBITDA  Adjusted EBITDA Margin  Electrical   $   469,554   $   55,102   11",
+      "firm": "isolate",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "ATKR gross margin",
+      "predicate": "reported",
+      "object": "$11.7 percent",
+      "value": 11.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ATKR gross margin",
+      "predicate": "reported",
+      "object": "$16.2 percent",
+      "value": 16.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ATKR",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ATKR",
+      "predicate": "stated",
+      "object": "we believe to be reasonable, but you are cautioned not to give undue weight to such estimates",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ATKR",
+      "predicate": "stated",
+      "object": "we believe that these sources are reliable, we cannot guarantee the accuracy or completeness of this information, and we have not independently verified this in",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ATKR",
+      "predicate": "stated",
+      "object": "we believe the estimated market position, market opportunity and market size information included in this presentation are generally reliable, such information,",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ATKR",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ATKR",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ATKR",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ATKR",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ATKR",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai_compute"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ATKR/transcripts",
+  "origin": {
+    "leaf": "a17203543d57d424ae796ef71b761e360feb23e100131620625d9a62ed94c537",
+    "parent": "6974473a156bb48f1c175819e159fdd5e4a36212fa5c1ebeb67134590c9473ecc8bcbb165d03a1173ed404336ab8c8a3",
+    "timestamp": "2026-04-14T06:15:11.686Z",
+    "source": "transcript:ATKR_Q1-2026-Earnings-Deck-Final.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a17203543d57d424ae796ef71b761e360feb23e100131620625d9a62ed94c537",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.686Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

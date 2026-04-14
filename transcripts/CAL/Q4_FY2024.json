@@ -1,0 +1,382 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CAL",
+  "company": "CALERES INC",
+  "title": "CAL Q4 FY2024 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2024",
+  "call_date": null,
+  "word_count": 8783,
+  "speakers": [
+    {
+      "name": "John W. Schmidt",
+      "title": "President, Chief Executive Officer & Director, Caleres, Inc.",
+      "firm": "Chief Executive Officer & Director",
+      "speaker_type": "executive",
+      "mention_count": 13
+    },
+    {
+      "name": "Jack P. Calandra",
+      "title": "Senior Vice President &   Chief Financial Officer, Caleres, Inc.",
+      "firm": "Caleres",
+      "speaker_type": "executive",
+      "mention_count": 11
+    },
+    {
+      "name": "Mitch Kummetz",
+      "title": "Analyst, Seaport Research Partn ers  Abbie Zvejnieks  Analyst, Piper Sandler & Co.",
+      "firm": "Piper Sandler &",
+      "speaker_type": "analyst",
+      "mention_count": 8
+    },
+    {
+      "name": "Ashley Owens",
+      "title": "Analyst, KeyBanc Capital Markets, Inc.",
+      "firm": "KeyBanc Capital Markets",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    },
+    {
+      "name": "Laura Allyson Champine",
+      "title": "Analyst, Loop Capital Markets LLC",
+      "firm": "Loop Capital Markets",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Dana Lauren Telsey",
+      "title": "Analyst, Telsey Advisory Group LLC",
+      "firm": "Telsey Advisory Group",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Lizabeth Dunn",
+      "title": "Senior Vice President - Corporate Development & Strategic  Communications, Caleres, Inc.",
+      "firm": "Caleres",
+      "speaker_type": "executive",
+      "mention_count": 2
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAL",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAL",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL gross margin",
+      "predicate": "reported",
+      "object": "$43.9 percent",
+      "value": 43.9,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL gross margin",
+      "predicate": "reported",
+      "object": "$42.6 percent",
+      "value": 42.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL gross margin",
+      "predicate": "reported",
+      "object": "$42.9 percent",
+      "value": 42.9,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL gross margin",
+      "predicate": "reported",
+      "object": "$44.8 percent",
+      "value": 44.8,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL gross margin",
+      "predicate": "reported",
+      "object": "$4.7 percent",
+      "value": 4.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL gross margin",
+      "predicate": "reported",
+      "object": "$11.9 percent",
+      "value": 11.9,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL gross margin",
+      "predicate": "reported",
+      "object": "$11.7 percent",
+      "value": 11.7,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL gross margin",
+      "predicate": "reported",
+      "object": "$7.3 percent",
+      "value": 7.3,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL EPS",
+      "predicate": "reported",
+      "object": "$4.18",
+      "value": 4.18,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CAL EPS",
+      "predicate": "reported",
+      "object": "$0.86",
+      "value": 0.86,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "CAL",
+      "predicate": "guided",
+      "object": "expect borrowings to be less than $100 million",
+      "value": 100,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "We expect the 20th anniversary marketing plans and events,  international expansion wit h our joint venture partner in Asia and the relaunch of the Sam and Lib",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "We believe there is tremendous op portunity for the brand moving  forward",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we believe Famous Footwear is exceptionally well - positioned to compete  and solidify its leadership position in the family channel",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we expect that penetration to grow well - above 20%  moving forward",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we believe Famous is well - positioned to return to growth and drive greater market share in the family  channel",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we expect borrowings to be less than $100 million and less than half a turn of EBITDA",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we expect sales to be flat to up 2%, which  includes the impact of the 53rd week in 2023",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we expect sales to be up 1% to 3% and  earnings per diluted share of $4",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "We anticipate earnings to be up more   in the first - half than the  second - half",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we expect EPS down in Q1 and up in Q2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "We expect c onsolidated net sales to be flat to up 1% and earnings  per diluted share in - line with Q4 2023 on an adjusted basis",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we expect the promotional activity in Famous to be broadly in - line with 2023",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CAL",
+      "predicate": "stated",
+      "object": "we believe to be reliable but is   not guaranteed by us and does not purport to be a complete or error - free statement or summary of the available data",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAL",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAL",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAL",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CAL",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CAL/transcripts",
+  "origin": {
+    "leaf": "56a1fd0bfc8db6b8354c445a101e5cd914a8b14f8191c7392dedddc2338eb3db",
+    "parent": "7ba67d5d39bcb69ae56c1d96e938da43458018bee3d08aa1fc091cadadfb733d44ac33785b5693e1acffdf418e40b4ca",
+    "timestamp": "2026-04-14T06:15:11.764Z",
+    "source": "transcript:CAL_corrected-transcript_-caleres-inc-cal-us-q4-2023-earnings-call-19-march-2024-10_00-am-et-1.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/56a1fd0bfc8db6b8354c445a101e5cd914a8b14f8191c7392dedddc2338eb3db",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.764Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

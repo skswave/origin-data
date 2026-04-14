@@ -2,9 +2,15 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "networking",
   "label": "Networking",
-  "companies": 63,
-  "total_mentions": 493,
+  "companies": 109,
+  "total_mentions": 737,
   "results": [
+    {
+      "ticker": "MSCI",
+      "company": "MSCI Inc.",
+      "mentions": 53,
+      "quarters": []
+    },
     {
       "ticker": "MRVL",
       "company": "Marvell Technology, Inc.",
@@ -23,6 +29,12 @@
         "Q4_FY2722",
         "Q3_FY2722"
       ]
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "mentions": 39,
+      "quarters": []
     },
     {
       "ticker": "JPM",
@@ -48,6 +60,12 @@
       "quarters": []
     },
     {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "mentions": 30,
+      "quarters": []
+    },
+    {
       "ticker": "AMAT",
       "company": "APPLIED MATERIALS INC /DE",
       "mentions": 28,
@@ -66,6 +84,12 @@
       "quarters": [
         "Q1_FY2025"
       ]
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks Inc",
+      "mentions": 25,
+      "quarters": []
     },
     {
       "ticker": "MAR",
@@ -194,6 +218,24 @@
       "quarters": []
     },
     {
+      "ticker": "REGN",
+      "company": "REGENERON PHARMACEUTICALS, INC.",
+      "mentions": 10,
+      "quarters": []
+    },
+    {
+      "ticker": "AAL",
+      "company": "American Airlines Group Inc.",
+      "mentions": 9,
+      "quarters": []
+    },
+    {
+      "ticker": "BB",
+      "company": "BLACKBERRY Ltd",
+      "mentions": 8,
+      "quarters": []
+    },
+    {
       "ticker": "WMT",
       "company": "Walmart Inc.",
       "mentions": 8,
@@ -238,12 +280,24 @@
       ]
     },
     {
+      "ticker": "AGO",
+      "company": "ASSURED GUARANTY LTD",
+      "mentions": 6,
+      "quarters": []
+    },
+    {
       "ticker": "GILD",
       "company": "GILEAD SCIENCES, INC.",
       "mentions": 6,
       "quarters": [
         "Q4_FY2026"
       ]
+    },
+    {
+      "ticker": "SLB",
+      "company": "SLB LIMITED/NV",
+      "mentions": 6,
+      "quarters": []
     },
     {
       "ticker": "ANET",
@@ -269,6 +323,15 @@
       "quarters": []
     },
     {
+      "ticker": "ALV",
+      "company": "AUTOLIV INC",
+      "mentions": 4,
+      "quarters": [
+        "Q4_FY2025",
+        "Q3_FY2025"
+      ]
+    },
+    {
       "ticker": "BAC",
       "company": "BANK OF AMERICA CORP /DE/",
       "mentions": 4,
@@ -292,6 +355,22 @@
       ]
     },
     {
+      "ticker": "AMS",
+      "company": "AMERICAN SHARED HOSPITAL SERVICES",
+      "mentions": 3,
+      "quarters": [
+        "Q1_FY2025",
+        "Q2_FY2025",
+        "Q3_FY2025"
+      ]
+    },
+    {
+      "ticker": "BRX",
+      "company": "Brixmor Property Group Inc.",
+      "mentions": 3,
+      "quarters": []
+    },
+    {
       "ticker": "INTU",
       "company": "INTUIT INC.",
       "mentions": 3,
@@ -309,10 +388,33 @@
       ]
     },
     {
+      "ticker": "SCHW",
+      "company": "SCHWAB CHARLES CORP",
+      "mentions": 3,
+      "quarters": [
+        "Q1_FY2022",
+        "Q3_FY2021"
+      ]
+    },
+    {
+      "ticker": "ACIW",
+      "company": "ACI WORLDWIDE, INC.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "ADBE",
       "company": "ADOBE INC.",
       "mentions": 2,
       "quarters": []
+    },
+    {
+      "ticker": "ADTN",
+      "company": "ADTRAN Holdings, Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "AEE",
@@ -324,8 +426,57 @@
       ]
     },
     {
+      "ticker": "AIZ",
+      "company": "ASSURANT, INC.",
+      "mentions": 2,
+      "quarters": [
+        "Q2_FY2025"
+      ]
+    },
+    {
+      "ticker": "ALTG",
+      "company": "ALTA EQUIPMENT GROUP INC.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "AROW",
+      "company": "ARROW FINANCIAL CORP",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "ARQ",
+      "company": "Arq, Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q3_FY2025",
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ARW",
+      "company": "ARROW ELECTRONICS, INC.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "BATL",
+      "company": "BATTALION OIL CORP",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "C",
       "company": "CITIGROUP INC",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "CARR",
+      "company": "CARRIER GLOBAL Corp",
       "mentions": 2,
       "quarters": []
     },
@@ -362,6 +513,12 @@
       ]
     },
     {
+      "ticker": "LLY",
+      "company": "ELI LILLY & Co",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "MMM",
       "company": "3M CO",
       "mentions": 2,
@@ -380,10 +537,68 @@
       "quarters": []
     },
     {
+      "ticker": "VRSK",
+      "company": "Verisk Analytics, Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "VRTX",
+      "company": "VERTEX PHARMACEUTICALS INC / MA",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "ADC",
+      "company": "AGREE REALTY CORP",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
       "ticker": "AEP",
       "company": "AMERICAN ELECTRIC POWER CO INC",
       "mentions": 1,
       "quarters": []
+    },
+    {
+      "ticker": "APLE",
+      "company": "Apple Hospitality REIT, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "APTV",
+      "company": "Aptiv PLC",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ASIC",
+      "company": "Ategrity Specialty Insurance Co Holdings",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "ATEN",
+      "company": "A10 Networks, Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "AXON",
+      "company": "AXON ENTERPRISE, INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "BA",
@@ -392,8 +607,56 @@
       "quarters": []
     },
     {
+      "ticker": "BBY",
+      "company": "BEST BUY CO INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BDC",
+      "company": "BELDEN INC.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BE",
+      "company": "Bloom Energy Corp",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BKR",
+      "company": "Baker Hughes Co",
+      "mentions": 1,
+      "quarters": [
+        "Q2_FY2025"
+      ]
+    },
+    {
+      "ticker": "BRZE",
+      "company": "Braze, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "BSX",
       "company": "BOSTON SCIENTIFIC CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BTGO",
+      "company": "BITGO HOLDINGS, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CAL",
+      "company": "CALERES INC",
       "mentions": 1,
       "quarters": []
     },
@@ -412,12 +675,50 @@
       ]
     },
     {
+      "ticker": "CLSK",
+      "company": "CLEANSPARK, INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CLVT",
+      "company": "CLARIVATE PLC",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "CNH",
+      "company": "CNH Industrial N.V.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "COTY",
+      "company": "COTY INC.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "CSWC",
+      "company": "CAPITAL SOUTHWEST CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "CVS",
       "company": "CVS HEALTH Corp",
       "mentions": 1,
       "quarters": [
         "Q4_FY2025"
       ]
+    },
+    {
+      "ticker": "DDOG",
+      "company": "Datadog, Inc.",
+      "mentions": 1,
+      "quarters": []
     },
     {
       "ticker": "EXPE",
@@ -484,6 +785,12 @@
       "quarters": []
     },
     {
+      "ticker": "ONC",
+      "company": "BeOne Medicines Ltd.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "SBUX",
       "company": "STARBUCKS CORP",
       "mentions": 1,
@@ -526,6 +833,12 @@
       ]
     },
     {
+      "ticker": "WRB",
+      "company": "BERKLEY W R CORP",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "ZTS",
       "company": "Zoetis Inc.",
       "mentions": 1,
@@ -534,17 +847,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=networking",
   "origin": {
-    "leaf": "b50585f9971a81c9f08ad8169d5f45e6cb22a869992140c033b0edd1aded177f",
+    "leaf": "bc2832f87ba74539830c65e846c565960e452fac961c6b5e727fecff7256cd64",
     "parent": "756e8171d23ab949efa2e086ed4c9759f156fffeb785ee37d05909f596e7613c",
-    "timestamp": "2026-04-13T06:15:12.679Z",
+    "timestamp": "2026-04-14T06:15:12.756Z",
     "source": "topic:networking",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/b50585f9971a81c9f08ad8169d5f45e6cb22a869992140c033b0edd1aded177f",
+    "verify": "https://origin.rootz.global/api/verify/bc2832f87ba74539830c65e846c565960e452fac961c6b5e727fecff7256cd64",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-13T06:15:12.679Z",
+    "exported_at": "2026-04-14T06:15:12.756Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

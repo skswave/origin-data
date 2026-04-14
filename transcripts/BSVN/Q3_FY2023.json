@@ -1,0 +1,127 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BSVN",
+  "company": "Bank7 Corp.",
+  "title": "BSVN Q3 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q3",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 5855,
+  "speakers": [
+    {
+      "name": "BSVN",
+      "title": "Corporate Overview Consistently ranked by S & P Global Market Intelligence as one of the Top Performing Community Banks in the United States  ■   Consistent earnings growth, well capitalized, and sufficient liquidity  ■   Stable deposits, excellent liquidity, and a properly matched balance sheet  ■   Disciplined credit culture that adheres to a robust risk management framework resulting in excellent credit quality and a history of low loan losses  ■   Experienced and talented bankers focused on high-touch personalized service, targeting entrepreneurs and their commercial banking needs  ■   Positioned in dynamic markets, with a commercial banking emphasis delivering services via a branch-lite model  ■   Shareholder alignment due to 58% insider ownership  Dollars in thousands, all data as of September 30, 2023, unless indicated otherwise (1)   For impact of certain Q3 2023 items, see slide 3",
+      "firm": "well capitalized",
+      "speaker_type": "other",
+      "mention_count": 10
+    },
+    {
+      "name": "I   Energy  Loan Portfolio Trends",
+      "title": "Selected Categories  Dollars are in millions CAGR Since 2018: 19",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "BSVN gross margin",
+      "predicate": "reported",
+      "object": "$3.67 percent",
+      "value": 3.67,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BSVN gross margin",
+      "predicate": "reported",
+      "object": "$4.87 percent",
+      "value": 4.87,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BSVN",
+      "predicate": "guided",
+      "object": "guidance of any kind (1)   DFAST = Dodd-Frank Act Stress Test (2)   Excess capital to target ratio expressed in % is the difference between the actual ratio and regulatory minimum divided by the regul",
+      "value": 54.3,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BSVN",
+      "predicate": "stated",
+      "object": "we anticipate either an additional significant entry to our ACL or an actual write-down  Sep 30, 2023   Adjustments Adjusted Sep 30, 2023  (Dollars in tho usands, ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BSVN",
+      "predicate": "stated",
+      "object": "We believe that these sources and estimates are reliable, but have not independently verified them",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BSVN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BSVN/transcripts",
+  "origin": {
+    "leaf": "517c383d3df89e46c97c9561862c6a5bd8c74ab0063a1dd9cd8da0e69164dd51",
+    "parent": "2846910208dfca5a0b348a7afbc15215f3b4643f9664fb13669d2381b8b0d4919938faa7ac6a4b144b4d2a3ab8e2c9e4",
+    "timestamp": "2026-04-14T06:15:11.745Z",
+    "source": "transcript:BSVN_Bank7+Corp+Q3+2023+Earnings+Presentation.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/517c383d3df89e46c97c9561862c6a5bd8c74ab0063a1dd9cd8da0e69164dd51",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.745Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

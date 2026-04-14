@@ -1,0 +1,202 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ASGN",
+  "company": "ASGN Inc",
+  "title": "ASGN Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 4271,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASGN",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 34,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASGN",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASGN",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 13,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASGN",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASGN",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASGN",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASGN",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ASGN",
+      "predicate": "guided",
+      "object": "expected to generate low to mid - teens revenue growth  in 2026 over 2025 revenues of   approximately   $100 million",
+      "value": 100,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ASGN",
+      "predicate": "stated",
+      "object": "we anticipated  on last quarter's call, the Financial Services industry returned to sequential growth on a Billable Day - adjusted basis, picking up low  single - ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ASGN",
+      "predicate": "stated",
+      "object": "we anticipate our net lever age  ra tio will be approximately 2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ASGN",
+      "predicate": "stated",
+      "object": "We anticipate nine months of Quinnox's 2026 revenues will be  incor porated into our full year financials",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASGN",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASGN",
+      "predicate": "discussed",
+      "object": "GPU & Accelerators",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "gpu"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASGN",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cloud"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASGN",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASGN",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ASGN",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ASGN/transcripts",
+  "origin": {
+    "leaf": "b58264d27f9328a1a5893b57a014595a88bfcbf70e517cc58779638292acc5ad",
+    "parent": "71e8e0529a98c9a9b76f8bcae0977f105a4fcdc17916939282a65edd902b650769a7888c2ba68ab15bc109fcb49fa4ab",
+    "timestamp": "2026-04-14T06:15:11.683Z",
+    "source": "transcript:ASGN_Q4-and-FY-2025-Prepared-Remarks-ASGN-Incorporated-Final.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/b58264d27f9328a1a5893b57a014595a88bfcbf70e517cc58779638292acc5ad",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.683Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

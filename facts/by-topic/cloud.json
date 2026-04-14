@@ -2,9 +2,21 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "cloud",
   "label": "Cloud",
-  "companies": 39,
-  "total_mentions": 182,
+  "companies": 59,
+  "total_mentions": 323,
   "results": [
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks Inc",
+      "mentions": 38,
+      "quarters": []
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "mentions": 37,
+      "quarters": []
+    },
     {
       "ticker": "AMZN",
       "company": "AMAZON COM INC",
@@ -39,6 +51,18 @@
       "ticker": "CRM",
       "company": "Salesforce, Inc.",
       "mentions": 24,
+      "quarters": []
+    },
+    {
+      "ticker": "SLB",
+      "company": "SLB LIMITED/NV",
+      "mentions": 22,
+      "quarters": []
+    },
+    {
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "mentions": 21,
       "quarters": []
     },
     {
@@ -157,6 +181,44 @@
       "quarters": []
     },
     {
+      "ticker": "ACIW",
+      "company": "ACI WORLDWIDE, INC.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "AROW",
+      "company": "ARROW FINANCIAL CORP",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "ARW",
+      "company": "ARROW ELECTRONICS, INC.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "AXON",
+      "company": "AXON ENTERPRISE, INC.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BB",
+      "company": "BLACKBERRY Ltd",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
+      "ticker": "DDOG",
+      "company": "Datadog, Inc.",
+      "mentions": 2,
+      "quarters": []
+    },
+    {
       "ticker": "DE",
       "company": "DEERE & CO",
       "mentions": 2,
@@ -209,8 +271,58 @@
       ]
     },
     {
+      "ticker": "VRSK",
+      "company": "Verisk Analytics, Inc.",
+      "mentions": 2,
+      "quarters": [
+        "Q4_FY2026"
+      ]
+    },
+    {
       "ticker": "ALNT",
       "company": "ALLIENT INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "APTV",
+      "company": "Aptiv PLC",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ASGN",
+      "company": "ASGN Inc",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "ASIC",
+      "company": "Ategrity Specialty Insurance Co Holdings",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "AVPT",
+      "company": "AvePoint, Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "BLND",
+      "company": "Blend Labs, Inc.",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "BLZE",
+      "company": "Backblaze, Inc.",
       "mentions": 1,
       "quarters": []
     },
@@ -227,6 +339,12 @@
       "quarters": []
     },
     {
+      "ticker": "CHGG",
+      "company": "CHEGG, INC",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "GPN",
       "company": "GLOBAL PAYMENTS INC",
       "mentions": 1,
@@ -235,8 +353,22 @@
       ]
     },
     {
+      "ticker": "GTLS",
+      "company": "CHART INDUSTRIES INC",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2022"
+      ]
+    },
+    {
       "ticker": "LITE",
       "company": "Lumentum Holdings Inc.",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
+      "ticker": "MSCI",
+      "company": "MSCI Inc.",
       "mentions": 1,
       "quarters": []
     },
@@ -307,17 +439,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=cloud",
   "origin": {
-    "leaf": "53a706dc7c9fbfb65f957321cdeace4adb32f50cecf3943a7850ff8fad7623d2",
+    "leaf": "a78a8d96f354363709eb1deb13100ca7a89c28c96b0c19ed0a35fc221534fa8d",
     "parent": "8b3c70aef3d429674c828393ed0a6e7b4569c6e2cef5a6242c6576ca043bc053",
-    "timestamp": "2026-04-13T06:15:12.658Z",
+    "timestamp": "2026-04-14T06:15:12.728Z",
     "source": "topic:cloud",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/53a706dc7c9fbfb65f957321cdeace4adb32f50cecf3943a7850ff8fad7623d2",
+    "verify": "https://origin.rootz.global/api/verify/a78a8d96f354363709eb1deb13100ca7a89c28c96b0c19ed0a35fc221534fa8d",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-13T06:15:12.658Z",
+    "exported_at": "2026-04-14T06:15:12.728Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

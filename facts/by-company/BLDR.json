@@ -1,49 +1,110 @@
 {
   "schema": "rootz.ai/company-facts/v1",
   "ticker": "BLDR",
-  "total_facts": 2,
+  "total_facts": 7,
   "by_type": {
-    "topic_mention": 2
+    "metric": 1,
+    "topic_mention": 6
   },
   "facts": [
     {
-      "fact_type": "topic_mention",
-      "subject": "BLDR",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
-      "value": 1,
-      "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
+      "fact_type": "metric",
+      "subject": "BLDR gross margin",
+      "predicate": "reported",
+      "object": "$59.6 percent",
+      "value": 59.6,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin",
+      "fiscal_quarter": "Q4",
+      "fiscal_year": "FY2025"
     },
     {
       "fact_type": "topic_mention",
       "subject": "BLDR",
-      "predicate": "discussed_in_filing",
-      "object": "Cybersecurity",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "blockchain",
+      "fiscal_quarter": "Q4",
+      "fiscal_year": "FY2025"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLDR",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "capex",
+      "fiscal_quarter": "Q4",
+      "fiscal_year": "FY2025"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLDR",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "platform",
+      "fiscal_quarter": "Q4",
+      "fiscal_year": "FY2025"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLDR",
+      "predicate": "discussed",
+      "object": "Supply Chain",
       "value": 1,
       "unit": "mentions",
-      "confidence": 0.72,
-      "topic": "cybersecurity",
-      "fiscal_quarter": null,
-      "fiscal_year": null
+      "confidence": 0.73,
+      "topic": "supply_chain",
+      "fiscal_quarter": "Q4",
+      "fiscal_year": "FY2025"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLDR",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "regulation",
+      "fiscal_quarter": "Q4",
+      "fiscal_year": "FY2025"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BLDR",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive",
+      "fiscal_quarter": "Q4",
+      "fiscal_year": "FY2025"
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/BLDR/transcripts",
   "origin": {
-    "leaf": "c281585bb8eb93eeb7f36f10e1139525a5a4774a298c54e5644dccb74149a7cf",
+    "leaf": "698b2bdaa9855f3bc2ed0e9ef823ff5718b2965be87d46fdad078644b2f38da7",
     "parent": "6c83b10bb3bb143d5c8e082c10ee01ca7e6ec49a62c97bcdccac1f5a5e6bb64b",
-    "timestamp": "2026-04-12T03:13:24.504Z",
+    "timestamp": "2026-04-14T06:15:21.516Z",
     "source": "facts:BLDR",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/c281585bb8eb93eeb7f36f10e1139525a5a4774a298c54e5644dccb74149a7cf",
+    "verify": "https://origin.rootz.global/api/verify/698b2bdaa9855f3bc2ed0e9ef823ff5718b2965be87d46fdad078644b2f38da7",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:13:24.504Z",
+    "exported_at": "2026-04-14T06:15:21.516Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

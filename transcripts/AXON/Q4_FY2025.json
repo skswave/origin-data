@@ -1,0 +1,516 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "AXON",
+  "company": "AXON ENTERPRISE, INC.",
+  "title": "AXON Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 18572,
+  "speakers": [
+    {
+      "name": "Joshua Isner",
+      "title": "President ,  Axon Enterprise, Inc.",
+      "firm": "Axon Enterprise",
+      "speaker_type": "executive",
+      "mention_count": 27
+    },
+    {
+      "name": "Erik Lapinski",
+      "title": "Vice President, Investor  Relations, Axon Enterprise, Inc.",
+      "firm": "Investor  Relations",
+      "speaker_type": "executive",
+      "mention_count": 19
+    },
+    {
+      "name": "Patrick W. Smith",
+      "title": "Chief Executive Officer &  Founder, Axon Enterprise, Inc.",
+      "firm": "Axon Enterprise",
+      "speaker_type": "executive",
+      "mention_count": 14
+    },
+    {
+      "name": "Brittany Bagley",
+      "title": "Chief Operating Officer &  Chief Financial Officer, Axon Enterprise, Inc.",
+      "firm": "Axon Enterprise",
+      "speaker_type": "executive",
+      "mention_count": 11
+    },
+    {
+      "name": "Jeff Kunins",
+      "title": "Chief Product Officer & Chief  Technology Officer, Axon Enterprise, Inc.",
+      "firm": "Axon Enterprise",
+      "speaker_type": "other",
+      "mention_count": 5
+    },
+    {
+      "name": "Mike Ng",
+      "title": "Analyst , Goldman Sachs   Will Power   Analyst, Robert W. Baird & Co.,  Inc.",
+      "firm": "Robert W. Baird &",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Jonathan Ho",
+      "title": "Analyst, William Blair   Andrew Sherman   Analyst, TD Cowen  Mike Latimore   Analyst, Northland Capital Markets  David Paige   Analyst, RBC Capital Markets  Jordan Lyonnais   Analyst, Bank of America   Keith Housum   Analyst, Northcoast Securities  Meta Marshall   Analyst,   Morgan Stanley & Co.",
+      "firm": "Morgan Stanley &",
+      "speaker_type": "analyst",
+      "mention_count": 5
+    },
+    {
+      "name": "Geoge Notter",
+      "title": "Analyst, Wolfe Research  James Fish   Analyst, Piper Sandler   Tim Long   Analyst, Barclays  Joe Cardoso   Analyst, J.P. Morgan   Trevor Walsh   Analyst, Citizens   Securities  Josh Reilly   Analyst, Needham & Co., LLC",
+      "firm": "Needham &",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    },
+    {
+      "name": "Jeremy Hamblin",
+      "title": "Analyst, Craig - Hallum  Capital Group, LLC",
+      "firm": "Craig - Hallum  Capital Group",
+      "speaker_type": "analyst",
+      "mention_count": 3
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 73,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 9,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 128,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 32,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 27,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AXON total revenue",
+      "predicate": "reported",
+      "object": "$454 million",
+      "value": 454,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AXON total revenue",
+      "predicate": "reported",
+      "object": "$264 million",
+      "value": 264,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AXON total revenue",
+      "predicate": "reported",
+      "object": "$109 million",
+      "value": 109,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AXON total revenue",
+      "predicate": "reported",
+      "object": "$81 million",
+      "value": 81,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "total_revenue"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AXON gross margin",
+      "predicate": "reported",
+      "object": "$25.9 percent",
+      "value": 25.9,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AXON gross margin",
+      "predicate": "reported",
+      "object": "$25.5 percent",
+      "value": 25.5,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "AXON free cash flow",
+      "predicate": "reported",
+      "object": "$217 million",
+      "value": 217,
+      "unit": "million",
+      "confidence": 0.9,
+      "topic": "free_cash_flow"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Supply Chain",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "supply_chain"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we expect that to continue to grow",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we believe it's a tailwind for Axon",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we believe Axon is positioned very well",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "We expect to   see quarter-to-quarter volatility from product mix, but over time we will see the benefits of our software mix flow through to gross margins",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we expect to catch up on in the coming quarters",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "We expect both dynamics again as we head into Q1",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we expect to ramp into our average adjusted EBITDA margins as we scale revenue through the year, which may result in lower adjusted EBITDA margins than our ann",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we expect to average annual conversion of approximately 60% over the longer term and I expect to get back close to that level next year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "We believe 2025 conversion will be a low point as we look ahead and maintain our conversion target of approximately 60%",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we expect to continue our strategy of tuck in deals to expand our ecosystem and bring the best talent to Axon going forward",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we expect software growth to be faster than hardware",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we believe is the most widely deployed VR trading platform in the US public safety sector and are well-positioned to layer in AI capabilities just as we are acr",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "We believe our devices can be the primary connected, AI-powered assistant across many different use cases and industries",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we believe will define the next generation of public safety technology",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we believe very few organizations in   the world are positioned to deliver",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we believe that potential has only begun to be realized",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we believe it will",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we believe Prepared is ahead and Carbyne is ahead in next gen call handling",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "AXON",
+      "predicate": "stated",
+      "object": "we believe we will",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "cloud"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "AXON",
+      "predicate": "mentioned",
+      "object": "Meta",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "AXON",
+      "predicate": "discussed",
+      "object": "Robotics",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "robotics"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/AXON/transcripts",
+  "origin": {
+    "leaf": "a4552dacce228a29d88e10b00c1251a5fd8b106ad1b1d617210e2094655b7665",
+    "parent": "8aec681858dafa19a70b8125f0da6ac0258c4d35351f8218dde87d15ff9a2c1ebb4410879008e787e936d8c1a4377a84",
+    "timestamp": "2026-04-14T06:15:11.692Z",
+    "source": "transcript:AXON_Axon_Q4_2025_Earnings_Call_Transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a4552dacce228a29d88e10b00c1251a5fd8b106ad1b1d617210e2094655b7665",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.692Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

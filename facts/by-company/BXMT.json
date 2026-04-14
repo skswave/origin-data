@@ -1,0 +1,102 @@
+{
+  "schema": "rootz.ai/company-facts/v1",
+  "ticker": "BXMT",
+  "total_facts": 6,
+  "by_type": {
+    "topic_mention": 3,
+    "metric": 2,
+    "outlook": 1
+  },
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BXMT",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "blockchain",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BXMT",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "automotive",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BXMT EPS",
+      "predicate": "reported",
+      "object": "$0.24",
+      "value": 0.24,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "metric",
+      "subject": "BXMT EPS",
+      "predicate": "reported",
+      "object": "$0.64",
+      "value": 0.64,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BXMT",
+      "predicate": "stated",
+      "object": "We believe t he global scale of our platform continues to uniquely position BXMT to capture attractive opportunities and deliver for our  investors",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BXMT",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform",
+      "fiscal_quarter": null,
+      "fiscal_year": null
+    }
+  ],
+  "live_api": "https://origin.rootz.global/api/company/BXMT/transcripts",
+  "origin": {
+    "leaf": "1523bd676ca1b4f56aa045a1c6245e25df25f946c3292eb5c4fcba6452418a78",
+    "parent": "72349313cca01ff17c3ff323ea72a6aa38680ec295ddf1eb5bde6f75062510a1",
+    "timestamp": "2026-04-14T06:15:27.673Z",
+    "source": "facts:BXMT",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/1523bd676ca1b4f56aa045a1c6245e25df25f946c3292eb5c4fcba6452418a78",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:27.674Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

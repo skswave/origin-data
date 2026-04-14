@@ -1,0 +1,367 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ZS",
+  "company": "Zscaler, Inc.",
+  "title": "ZS   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 10227,
+  "speakers": [
+    {
+      "name": "Ashwin",
+      "title": "Vice President, Investor Relations & Strategic Finance  Jay Chaudhry  Zscaler Inc - Co-Founder, President, Chief Executive Officer & Chairman of the Board  Remo Canessa  Zscaler Inc - Chief Financial Officer, Kesireddy  Zscaler Inc",
+      "firm": "Investor Relations & Strategic Finance  Jay Chaudhry  Zscaler Inc - Co-Founder",
+      "speaker_type": "executive",
+      "mention_count": 5
+    },
+    {
+      "name": "Saket",
+      "title": "Analyst  Brad Zelnick  Deutsche Bank - Analyst  Mike Cikos  Needham & Company, LLC - Analyst  Shrenik Kothari  Robert W. Baird & Co., Inc. - Analyst  Roger Boyd  UBS Equities - Analyst  Brian Essex  JPMorgan - Analyst  Gregg Moskowitz  Mizuho Securities USA - Analyst  Fatima Boolani  Citi - Analyst  Joseph Gallo  Jefferies - Analyst  Matthew Hedberg  RBC Capital Markets - Analyst  Joshua Tilton  Wolfe Research - Analyst  Gray Powell  BTIG - Analyst  Tal Liani  BofA Global Research - Analyst  Peter Weed  Bernstein - Analyst  Keith Bachman  BMO Capital Markets - Analyst, Kalia  Barclays",
+      "firm": "Shrenik Kothari  Robert W. Baird &",
+      "speaker_type": "analyst",
+      "mention_count": 4
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 46,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 82,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 13,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 12,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 26,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ZS gross margin",
+      "predicate": "reported",
+      "object": "$80.4 percent",
+      "value": 80.4,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "ZS gross margin",
+      "predicate": "reported",
+      "object": "$22 percent",
+      "value": 22,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ZS",
+      "predicate": "guided",
+      "object": "expect us to achieve $3 billion",
+      "value": 3,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ZS",
+      "predicate": "guided",
+      "object": "expect revenue in the range of $665 million",
+      "value": 665,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ZS",
+      "predicate": "guided",
+      "object": "expect billions in the range of $3.153 billion",
+      "value": 3.153,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZS",
+      "predicate": "stated",
+      "object": "We expect this module adoption to continue to grow",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZS",
+      "predicate": "stated",
+      "object": "we expect revenue in the range of $665 million to $667 million, reflecting year over year growth of 20% to 21%",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZS",
+      "predicate": "stated",
+      "object": "we expect billions in the range of $3",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZS",
+      "predicate": "stated",
+      "object": "we expect billions growth to continue to improve and encourage modeling 200 basis points to 260 basis points of sequential billings growth",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZS",
+      "predicate": "stated",
+      "object": "We expect our free cash flow margin to be approximately 24",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZS",
+      "predicate": "stated",
+      "object": "we expected 7% in the first half and 23% in the second half",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZS",
+      "predicate": "stated",
+      "object": "we expected over 65% upsell this year",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZS",
+      "predicate": "stated",
+      "object": "we expect limited direct impact from tariffs to our business",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZS",
+      "predicate": "stated",
+      "object": "We expect our pricing to evolve as agents",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZS",
+      "predicate": "stated",
+      "object": "we expected sales productivity to increase, throughout the year, and we did see that in in Q2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "ZS",
+      "predicate": "stated",
+      "object": "we believe is the combination",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "Cloud Computing",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "cloud"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "Networking",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "networking"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "ai_compute"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "ZS",
+      "predicate": "mentioned",
+      "object": "Microsoft",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "company_mention",
+      "subject": "ZS",
+      "predicate": "mentioned",
+      "object": "DeepSeek",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.75,
+      "topic": "competitive_landscape"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "Semiconductor",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "semiconductor"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ZS",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "healthcare"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ZS/transcripts",
+  "origin": {
+    "leaf": "d2534431de4bdd41b06e7c0222bb34d4526852996b0e057baf75a2a2067c941b",
+    "parent": "993a1ea62a30d2c985727c2f62c96cc60e2601778e48da451637fe8fa2f0ae08ee8a34dacf6d019c39befedb71fd7932",
+    "timestamp": "2026-04-14T06:15:12.707Z",
+    "source": "transcript:ZS_fbdeb760-129f-4513-a243-841f3b014ec0.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/d2534431de4bdd41b06e7c0222bb34d4526852996b0e057baf75a2a2067c941b",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:12.707Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

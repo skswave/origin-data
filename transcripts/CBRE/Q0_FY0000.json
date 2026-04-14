@@ -1,0 +1,228 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "CBRE",
+  "company": "CBRE GROUP, INC.",
+  "title": "CBRE   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 6439,
+  "speakers": [
+    {
+      "name": "Free Cash Flow",
+      "title": "For full-year 2025, free cash flow totaled nearly $1",
+      "firm": "free cash flow totaled nearly $1",
+      "speaker_type": "other",
+      "mention_count": 11
+    },
+    {
+      "name": "Leverage",
+      "title": "CBRE’s net leverage ratio (net debt   (9)   to trailing twelve-month core EBITDA) was 1",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 9
+    },
+    {
+      "name": "Dallas",
+      "title": "February 12, 2026   — CBRE Group, Inc",
+      "firm": "2026   — CBRE Group",
+      "speaker_type": "other",
+      "mention_count": 2
+    },
+    {
+      "name": "Liquidity",
+      "title": "At the end of the fourth quarter, the company had approximately $5",
+      "firm": "the company had approximately $5",
+      "speaker_type": "other",
+      "mention_count": 2
+    },
+    {
+      "name": "Stock Repurchase Program",
+      "title": "The company repurchased more than 7",
+      "firm": null,
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 11,
+      "unit": "mentions",
+      "confidence": 0.95,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 8,
+      "unit": "mentions",
+      "confidence": 0.94,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CBRE EPS",
+      "predicate": "reported",
+      "object": "$1.39",
+      "value": 1.39,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CBRE EPS",
+      "predicate": "reported",
+      "object": "$2.73",
+      "value": 2.73,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CBRE EPS",
+      "predicate": "reported",
+      "object": "$3.85",
+      "value": 3.85,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CBRE EPS",
+      "predicate": "reported",
+      "object": "$6.38",
+      "value": 6.38,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "metric",
+      "subject": "CBRE EPS",
+      "predicate": "reported",
+      "object": "$7.30",
+      "value": 7.3,
+      "unit": null,
+      "confidence": 0.9,
+      "topic": "eps"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "capex"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Data Center",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "data_center"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "CBRE",
+      "predicate": "stated",
+      "object": "We expect the variability of these items to have a potentially unpredictable, and a potentially significant, impact on our future GAAP financial results",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Sovereign & Government",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "sovereign"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Enterprise",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "enterprise"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Cybersecurity",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "cybersecurity"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "CBRE",
+      "predicate": "discussed",
+      "object": "AI Compute",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "ai_compute"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/CBRE/transcripts",
+  "origin": {
+    "leaf": "a4fb14449c34e87ba95c9c5d047d825ab577e97745a63346ff47caf5b14ff6f1",
+    "parent": "d6a656ff95da0ed7fe6de27f3eab4c8c938b71494c59b2c49b4a4f6c19c50bb89431713d05707f59f9decfefe48353d1",
+    "timestamp": "2026-04-14T06:15:11.766Z",
+    "source": "transcript:CBRE_2025+Q4+Press+Release+Final.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/a4fb14449c34e87ba95c9c5d047d825ab577e97745a63346ff47caf5b14ff6f1",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.766Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

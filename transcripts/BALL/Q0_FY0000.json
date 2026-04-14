@@ -1,0 +1,42 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BALL",
+  "company": "BALL Corp",
+  "title": "BALL   Earnings Call Transcript",
+  "fiscal_quarter": null,
+  "fiscal_year": null,
+  "call_date": null,
+  "word_count": 220,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BALL",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BALL/transcripts",
+  "origin": {
+    "leaf": "31ccfcde67123d9744b04a841ebbd19653275041b68f74bcaa3d3f14825629e4",
+    "parent": "808f37fcfdf6cd1af5f27773225284e3b3d61ce3c7ecd7c8ac663ed7d38a48370efdbd1c9c6630e96623c7d79d4c3a1c",
+    "timestamp": "2026-04-14T06:15:11.711Z",
+    "source": "transcript:BALL_2026-04-07_Ball_to_Announce_First_Quarter_Earnings_on_May_5_721.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/31ccfcde67123d9744b04a841ebbd19653275041b68f74bcaa3d3f14825629e4",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.711Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

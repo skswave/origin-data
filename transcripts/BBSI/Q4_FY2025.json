@@ -1,0 +1,192 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "BBSI",
+  "company": "BARRETT BUSINESS SERVICES INC",
+  "title": "BBSI Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 5669,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "BBSI",
+      "predicate": "discussed",
+      "object": "Artificial Intelligence",
+      "value": 7,
+      "unit": "mentions",
+      "confidence": 0.9099999999999999,
+      "topic": "ai"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BBSI",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "automotive"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "BBSI",
+      "predicate": "guided",
+      "object": "expecting much change from the  last two years? I think it was about   $18 million",
+      "value": 18,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BBSI",
+      "predicate": "stated",
+      "object": "We anticipate that we  will convert three additional locations to traditional branches   this year, and we will continue to  invest in the development of additiona",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BBSI",
+      "predicate": "stated",
+      "object": "we expect our  clients to continue growing at a rate below historical norms due to broad macroeconomic  headwinds",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BBSI",
+      "predicate": "stated",
+      "object": "we believe our strong value proposition and integrated model uniquely position us  to capitalize on these emerging market trends",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BBSI",
+      "predicate": "stated",
+      "object": "we expect these trends to continue, and we anticipate that both average  balances and yields will remain lower",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BBSI",
+      "predicate": "stated",
+      "object": "we expect to continue these investments and will launch additional IT enhancements and  initiatives that will improve our product and make our internal operati",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BBSI",
+      "predicate": "stated",
+      "object": "we expect to  continue to generate excess available cash and to continue these capital allocation strategies",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BBSI",
+      "predicate": "stated",
+      "object": "we expect gross billings to increase between 3% and 5%  and average WSEs to increase between 2% and 4%",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BBSI",
+      "predicate": "stated",
+      "object": "we expect gross margin to range between 2",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BBSI",
+      "predicate": "stated",
+      "object": "we believe it appropriately balances our str ategy of driving sustainable  top line growth with a disciplined commitment to protecting margin",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "BBSI",
+      "predicate": "stated",
+      "object": "we anticipated modest positive growth, which  is really the trend we saw coming out of 2024",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BBSI",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BBSI",
+      "predicate": "discussed",
+      "object": "Gaming",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "gaming"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "BBSI",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "platform"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/BBSI/transcripts",
+  "origin": {
+    "leaf": "05f3d7e2f14ade891fa5704ab4c37d59a0e9a6281033425b0f1dc5971c498e99",
+    "parent": "9f01a79317fd500a7ea4d9aa6f41dd65b327f9c400ff443e8ba0fc46929206f547e0242fe090e25df76e20a3ec1bf6cd",
+    "timestamp": "2026-04-14T06:15:11.728Z",
+    "source": "transcript:BBSI_BBSI+Earnings+Call+Transcript+Q4+2025.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/05f3d7e2f14ade891fa5704ab4c37d59a0e9a6281033425b0f1dc5971c498e99",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:11.728Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

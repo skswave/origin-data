@@ -1,0 +1,122 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "SCHW",
+  "company": "SCHWAB CHARLES CORP",
+  "title": "SCHW Q1 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q1",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 5953,
+  "speakers": [],
+  "facts": [
+    {
+      "fact_type": "metric",
+      "subject": "SCHW gross margin",
+      "predicate": "reported",
+      "object": "$41.2 percent",
+      "value": 41.2,
+      "unit": "percent",
+      "confidence": 0.9,
+      "topic": "gross_margin"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Platform & Ecosystem",
+      "value": 6,
+      "unit": "mentions",
+      "confidence": 0.8799999999999999,
+      "topic": "platform"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we believe the current headwinds will prove transitory and we remain well positioned to deliver long-term value to our stockholders",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "We believe these non-GAAP financial measures provide useful supplemental information about the financial performance of the Company, and facilitate meaningful c",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "we believe doing so provides additional transparency of Schwab’s ongoing operations, and is useful in both evaluating the operating performance of the business ",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "outlook",
+      "subject": "SCHW",
+      "predicate": "stated",
+      "object": "We believe return on tangible common equity may be useful to investors as a supplemental measure to facilitate assessing capital efficiency and returns relative",
+      "value": null,
+      "unit": null,
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 4,
+      "unit": "mentions",
+      "confidence": 0.82,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Blockchain & Crypto",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "blockchain"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "SCHW",
+      "predicate": "discussed",
+      "object": "Capital Expenditure",
+      "value": 1,
+      "unit": "mentions",
+      "confidence": 0.73,
+      "topic": "capex"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/SCHW/transcripts",
+  "origin": {
+    "leaf": "778461b8656093efe8e4e561aa791177a610bd523d17629aadfcfdedbaf220b9",
+    "parent": "9b5f18c029d1dfe84a86ae31a4c3b92d8f89bfdefa65e197cf1672d36162b45b9baeec7c768c1a4390f74e812fd39ff7",
+    "timestamp": "2026-04-14T06:15:12.466Z",
+    "source": "transcript:SCHW_schw_q1_2023_earnings_release.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/778461b8656093efe8e4e561aa791177a610bd523d17629aadfcfdedbaf220b9",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:12.466Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "ONC",
+  "company": "BeOne Medicines Ltd.",
+  "title": "ONC Q4 FY2025 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2025",
+  "call_date": null,
+  "word_count": 4491,
+  "speakers": [
+    {
+      "name": "Calif.",
+      "title": "February 26, 2026 –   BeOne Medicines Ltd",
+      "firm": "2026 –   BeOne Medicines Ltd",
+      "speaker_type": "other",
+      "mention_count": 1
+    }
+  ],
+  "facts": [
+    {
+      "fact_type": "topic_mention",
+      "subject": "ONC",
+      "predicate": "discussed",
+      "object": "Regulation",
+      "value": 5,
+      "unit": "mentions",
+      "confidence": 0.85,
+      "topic": "regulation"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ONC",
+      "predicate": "guided",
+      "object": "guidance of $6.2 billion",
+      "value": 6.2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ONC",
+      "predicate": "guided",
+      "object": "guidance for full year 2026 of $6.2 billion",
+      "value": 6.2,
+      "unit": "billion",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "guidance",
+      "subject": "ONC",
+      "predicate": "guided",
+      "object": "guidance on items impacting net income and earnings per ADS:  •   Other income (expense) : estimated range of $25 million",
+      "value": 25,
+      "unit": "million",
+      "confidence": 0.85,
+      "topic": "guidance"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ONC",
+      "predicate": "discussed",
+      "object": "Healthcare & Bio",
+      "value": 3,
+      "unit": "mentions",
+      "confidence": 0.7899999999999999,
+      "topic": "healthcare"
+    },
+    {
+      "fact_type": "topic_mention",
+      "subject": "ONC",
+      "predicate": "discussed",
+      "object": "Automotive",
+      "value": 2,
+      "unit": "mentions",
+      "confidence": 0.76,
+      "topic": "automotive"
+    }
+  ],
+  "qa_count": 0,
+  "live_api": "https://origin.rootz.global/api/company/ONC/transcripts",
+  "origin": {
+    "leaf": "25d00ab998e335fb39f1036840e1fc7dbeb823b1f7449fa5308eaeeb6ba768d0",
+    "parent": "9e74f4d71013034788d82d9551172de43b4b56ead203382bf6ac5cced0ceb7017a0bf1d34c1cca196ecaac5f72cf96e6",
+    "timestamp": "2026-04-14T06:15:12.378Z",
+    "source": "transcript:ONC_BeOne_Q4FY_2025_Earnings_Release_Final.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/25d00ab998e335fb39f1036840e1fc7dbeb823b1f7449fa5308eaeeb6ba768d0",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-14T06:15:12.378Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}
