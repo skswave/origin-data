@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "enterprise",
   "label": "Enterprise",
-  "companies": 157,
-  "total_mentions": 1005,
+  "companies": 158,
+  "total_mentions": 1006,
   "results": [
     {
       "ticker": "AMD",
@@ -1084,6 +1084,12 @@
       "quarters": []
     },
     {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "NEE",
       "company": "NEXTERA ENERGY INC",
       "mentions": 1,
@@ -1204,17 +1210,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=enterprise",
   "origin": {
-    "leaf": "7c0cc893201e399dd0f30507b183dc134c03621523c87a53a2246c12734a3c03",
+    "leaf": "b7c567f51c22516c1461073ff3ef6bce06304f20b1f448a5062a7d90e0d0998a",
     "parent": "2c77362b4cb512dd52400d85c4553f4129dfa5d955039dafe34d3352a33ad0d4",
-    "timestamp": "2026-04-14T06:15:12.734Z",
+    "timestamp": "2026-04-17T06:15:12.882Z",
     "source": "topic:enterprise",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/7c0cc893201e399dd0f30507b183dc134c03621523c87a53a2246c12734a3c03",
+    "verify": "https://origin.rootz.global/api/verify/b7c567f51c22516c1461073ff3ef6bce06304f20b1f448a5062a7d90e0d0998a",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-14T06:15:12.734Z",
+    "exported_at": "2026-04-17T06:15:12.882Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

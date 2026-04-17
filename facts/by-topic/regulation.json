@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "regulation",
   "label": "Regulation",
-  "companies": 253,
-  "total_mentions": 1810,
+  "companies": 254,
+  "total_mentions": 1811,
   "results": [
     {
       "ticker": "JPM",
@@ -1962,6 +1962,12 @@
       "quarters": []
     },
     {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "NFLX",
       "company": "NETFLIX INC",
       "mentions": 1,
@@ -2034,17 +2040,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=regulation",
   "origin": {
-    "leaf": "76e40b7da3f2c217fd08442ba6ad137e58260e10ed1bf758409b2fee545052fd",
+    "leaf": "1d5cc41f12e676e3542d77fd7a9f680c330793c95e520bd180515c1e675a5ae4",
     "parent": "710e5deead09cbc5aadb607c051d70195281abd7402de3bea2d4685c8fd8ab1d",
-    "timestamp": "2026-04-14T06:15:12.762Z",
+    "timestamp": "2026-04-17T06:15:12.909Z",
     "source": "topic:regulation",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/76e40b7da3f2c217fd08442ba6ad137e58260e10ed1bf758409b2fee545052fd",
+    "verify": "https://origin.rootz.global/api/verify/1d5cc41f12e676e3542d77fd7a9f680c330793c95e520bd180515c1e675a5ae4",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-14T06:15:12.762Z",
+    "exported_at": "2026-04-17T06:15:12.909Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

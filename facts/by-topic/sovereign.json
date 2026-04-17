@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "sovereign",
   "label": "Sovereign",
-  "companies": 178,
-  "total_mentions": 1418,
+  "companies": 179,
+  "total_mentions": 1419,
   "results": [
     {
       "ticker": "JPM",
@@ -1377,6 +1377,12 @@
       "quarters": []
     },
     {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "NET",
       "company": "Cloudflare, Inc.",
       "mentions": 1,
@@ -1445,17 +1451,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=sovereign",
   "origin": {
-    "leaf": "dfaf93fefc503606a39fc1e5c6f663841086096ee3af87187316d4434a6492d7",
+    "leaf": "ff5c7cb22482408999c7a1dba896066320d282d409521a1bd5ecd0dda17444fa",
     "parent": "24de994e7d8a7a0d94f4b1753daa3088dd645a221afea80e31ec61eb4c3ae0a1",
-    "timestamp": "2026-04-14T06:15:12.766Z",
+    "timestamp": "2026-04-17T06:15:12.913Z",
     "source": "topic:sovereign",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/dfaf93fefc503606a39fc1e5c6f663841086096ee3af87187316d4434a6492d7",
+    "verify": "https://origin.rootz.global/api/verify/ff5c7cb22482408999c7a1dba896066320d282d409521a1bd5ecd0dda17444fa",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-14T06:15:12.766Z",
+    "exported_at": "2026-04-17T06:15:12.913Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

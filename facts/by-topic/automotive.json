@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "automotive",
   "label": "Automotive",
-  "companies": 230,
-  "total_mentions": 1796,
+  "companies": 231,
+  "total_mentions": 1797,
   "results": [
     {
       "ticker": "JPM",
@@ -1742,6 +1742,12 @@
       "quarters": []
     },
     {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 1,
+      "quarters": []
+    },
+    {
       "ticker": "NET",
       "company": "Cloudflare, Inc.",
       "mentions": 1,
@@ -1828,17 +1834,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=automotive",
   "origin": {
-    "leaf": "d48738fd5d146465431237e93e29a2d2b1d952ad9d02574d77f1ec78204a90a0",
+    "leaf": "7ab9c55b88a6dd2ba7116c19794b99d90d198b0cc2b96fc34c676a71910ef153",
     "parent": "69a4d05d022a0d21d870da9e2f9142a5c0d6ed6cdd37b5a9f21832fe39514538",
-    "timestamp": "2026-04-14T06:15:12.721Z",
+    "timestamp": "2026-04-17T06:15:12.869Z",
     "source": "topic:automotive",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/d48738fd5d146465431237e93e29a2d2b1d952ad9d02574d77f1ec78204a90a0",
+    "verify": "https://origin.rootz.global/api/verify/7ab9c55b88a6dd2ba7116c19794b99d90d198b0cc2b96fc34c676a71910ef153",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-14T06:15:12.721Z",
+    "exported_at": "2026-04-17T06:15:12.869Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",
