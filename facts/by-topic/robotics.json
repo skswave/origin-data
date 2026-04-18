@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "robotics",
   "label": "Robotics",
-  "companies": 47,
-  "total_mentions": 164,
+  "companies": 48,
+  "total_mentions": 165,
   "results": [
     {
       "ticker": "JPM",
@@ -322,6 +322,14 @@
       "quarters": []
     },
     {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "PANW",
       "company": "Palo Alto Networks Inc",
       "mentions": 1,
@@ -352,17 +360,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=robotics",
   "origin": {
-    "leaf": "3224e3b0cb96b267c41de4caa8efc06b1af2d4dc4bf188328b43c8c7bc9d285c",
+    "leaf": "47a703b87f01a3abe2780b13b0968aba434caa11a4629a4b4a440e9214dc291b",
     "parent": "af7cb56b787dac99a12618399b7d2b6330bd82370dae799bbcb4f195dd5df8e4",
-    "timestamp": "2026-04-14T06:15:12.763Z",
+    "timestamp": "2026-04-18T06:15:12.520Z",
     "source": "topic:robotics",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/3224e3b0cb96b267c41de4caa8efc06b1af2d4dc4bf188328b43c8c7bc9d285c",
+    "verify": "https://origin.rootz.global/api/verify/47a703b87f01a3abe2780b13b0968aba434caa11a4629a4b4a440e9214dc291b",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-14T06:15:12.763Z",
+    "exported_at": "2026-04-18T06:15:12.520Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

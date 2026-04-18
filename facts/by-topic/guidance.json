@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "guidance",
   "label": "Guidance",
-  "companies": 234,
-  "total_mentions": 14060,
+  "companies": 235,
+  "total_mentions": 14069,
   "results": [
     {
       "ticker": "MAR",
@@ -1351,6 +1351,16 @@
       "quarters": []
     },
     {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 9,
+      "quarters": [
+        "Q2_FY2025",
+        "Q3_FY2025",
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "PG",
       "company": "PROCTER & GAMBLE Co",
       "mentions": 9,
@@ -1881,17 +1891,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=guidance",
   "origin": {
-    "leaf": "1352bc124846a121b7ce2557754f30de1014b958a5d7e7960a2e5fa7ab9bc99d",
+    "leaf": "ff497d5e6552184503160cabddc2870cce11f2a7b72c4580f8b62482c8698623",
     "parent": "75223343d7f1861f2114cb58059ac0e7035b38d6e4034f47e89fe28246eca0c1",
-    "timestamp": "2026-04-14T06:15:12.752Z",
+    "timestamp": "2026-04-18T06:15:12.508Z",
     "source": "topic:guidance",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/1352bc124846a121b7ce2557754f30de1014b958a5d7e7960a2e5fa7ab9bc99d",
+    "verify": "https://origin.rootz.global/api/verify/ff497d5e6552184503160cabddc2870cce11f2a7b72c4580f8b62482c8698623",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-14T06:15:12.752Z",
+    "exported_at": "2026-04-18T06:15:12.508Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -3,7 +3,7 @@
   "topic": "cybersecurity",
   "label": "Cybersecurity",
   "companies": 201,
-  "total_mentions": 1292,
+  "total_mentions": 1299,
   "results": [
     {
       "ticker": "JPM",
@@ -439,6 +439,20 @@
       "mentions": 8,
       "quarters": [
         "Q1_FY2026",
+        "Q4_FY2025"
+      ]
+    },
+    {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 8,
+      "quarters": [
+        "Q1_FY2025",
+        "Q2_FY2025",
+        "Q3_FY2023",
+        "Q3_FY2024",
+        "Q3_FY2025",
+        "Q4_FY2024",
         "Q4_FY2025"
       ]
     },
@@ -1426,12 +1440,6 @@
       "quarters": []
     },
     {
-      "ticker": "MSTR",
-      "company": "Strategy Inc",
-      "mentions": 1,
-      "quarters": []
-    },
-    {
       "ticker": "NEE",
       "company": "NEXTERA ENERGY INC",
       "mentions": 1,
@@ -1554,17 +1562,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=cybersecurity",
   "origin": {
-    "leaf": "7b99300ac1dbe907a12ac18997e598d8a483b3e50f298c44455880bafda5134a",
+    "leaf": "4d1a132b95783e00d74aef7feb4d65d73ca9bfe661780c5aa6da27b871e964f1",
     "parent": "dfab51b5537313b22f4e55fda4235c3bc1bb276015d644f1b28cf50c9b2638b4",
-    "timestamp": "2026-04-17T06:15:12.879Z",
+    "timestamp": "2026-04-18T06:15:12.487Z",
     "source": "topic:cybersecurity",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/7b99300ac1dbe907a12ac18997e598d8a483b3e50f298c44455880bafda5134a",
+    "verify": "https://origin.rootz.global/api/verify/4d1a132b95783e00d74aef7feb4d65d73ca9bfe661780c5aa6da27b871e964f1",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-17T06:15:12.879Z",
+    "exported_at": "2026-04-18T06:15:12.487Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

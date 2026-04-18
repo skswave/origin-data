@@ -3,7 +3,7 @@
   "topic": "enterprise",
   "label": "Enterprise",
   "companies": 158,
-  "total_mentions": 1006,
+  "total_mentions": 1013,
   "results": [
     {
       "ticker": "AMD",
@@ -341,6 +341,20 @@
       "company": "MARRIOTT INTERNATIONAL INC /MD/",
       "mentions": 8,
       "quarters": []
+    },
+    {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 8,
+      "quarters": [
+        "Q1_FY2024",
+        "Q1_FY2025",
+        "Q2_FY2025",
+        "Q3_FY2023",
+        "Q3_FY2025",
+        "Q4_FY2023",
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "SNPS",
@@ -1084,12 +1098,6 @@
       "quarters": []
     },
     {
-      "ticker": "MSTR",
-      "company": "Strategy Inc",
-      "mentions": 1,
-      "quarters": []
-    },
-    {
       "ticker": "NEE",
       "company": "NEXTERA ENERGY INC",
       "mentions": 1,
@@ -1210,17 +1218,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=enterprise",
   "origin": {
-    "leaf": "b7c567f51c22516c1461073ff3ef6bce06304f20b1f448a5062a7d90e0d0998a",
+    "leaf": "1a7387530624def937f2942108354b09d9c1d739a1655828d771f2dc8ae03000",
     "parent": "2c77362b4cb512dd52400d85c4553f4129dfa5d955039dafe34d3352a33ad0d4",
-    "timestamp": "2026-04-17T06:15:12.882Z",
+    "timestamp": "2026-04-18T06:15:12.490Z",
     "source": "topic:enterprise",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/b7c567f51c22516c1461073ff3ef6bce06304f20b1f448a5062a7d90e0d0998a",
+    "verify": "https://origin.rootz.global/api/verify/1a7387530624def937f2942108354b09d9c1d739a1655828d771f2dc8ae03000",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-17T06:15:12.882Z",
+    "exported_at": "2026-04-18T06:15:12.490Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

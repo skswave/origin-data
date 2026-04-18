@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "competitive_landscape",
   "label": "Competitive Landscape",
-  "companies": 65,
-  "total_mentions": 487,
+  "companies": 66,
+  "total_mentions": 507,
   "results": [
     {
       "ticker": "QCOM",
@@ -111,6 +111,19 @@
       "company": "Zscaler, Inc.",
       "mentions": 21,
       "quarters": []
+    },
+    {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 20,
+      "quarters": [
+        "Q1_FY2024",
+        "Q1_FY2025",
+        "Q2_FY2025",
+        "Q3_FY2024",
+        "Q3_FY2025",
+        "Q4_FY2024"
+      ]
     },
     {
       "ticker": "PANW",
@@ -510,17 +523,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=competitive_landscape",
   "origin": {
-    "leaf": "3383ecaf401435d210c4cadbcc4ef9072eabb9f8bad69aa2fd7ed4724eea9272",
+    "leaf": "b6cd8100c5bad098164d992f6f8895931e0dc927b244275d16f70cacaf18cce1",
     "parent": "b0d691b89934245936be886835d5708a50f2bc585da7f071a1b7f184b063674e",
-    "timestamp": "2026-04-14T06:15:12.729Z",
+    "timestamp": "2026-04-18T06:15:12.485Z",
     "source": "topic:competitive_landscape",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/3383ecaf401435d210c4cadbcc4ef9072eabb9f8bad69aa2fd7ed4724eea9272",
+    "verify": "https://origin.rootz.global/api/verify/b6cd8100c5bad098164d992f6f8895931e0dc927b244275d16f70cacaf18cce1",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-14T06:15:12.729Z",
+    "exported_at": "2026-04-18T06:15:12.485Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

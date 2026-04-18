@@ -3,7 +3,7 @@
   "topic": "blockchain",
   "label": "Blockchain",
   "companies": 249,
-  "total_mentions": 1857,
+  "total_mentions": 1867,
   "results": [
     {
       "ticker": "JPM",
@@ -495,6 +495,23 @@
         "Q2_FY2026",
         "Q3_FY2026",
         "Q4_FY2026"
+      ]
+    },
+    {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 11,
+      "quarters": [
+        "Q1_FY2024",
+        "Q1_FY2025",
+        "Q2_FY2024",
+        "Q2_FY2025",
+        "Q3_FY2023",
+        "Q3_FY2024",
+        "Q3_FY2025",
+        "Q4_FY2023",
+        "Q4_FY2024",
+        "Q4_FY2025"
       ]
     },
     {
@@ -1860,12 +1877,6 @@
       ]
     },
     {
-      "ticker": "MSTR",
-      "company": "Strategy Inc",
-      "mentions": 1,
-      "quarters": []
-    },
-    {
       "ticker": "NFLX",
       "company": "NETFLIX INC",
       "mentions": 1,
@@ -1968,17 +1979,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=blockchain",
   "origin": {
-    "leaf": "d1edece2527c4598efa5b1b8cc72ef3ff0393e2940b988db6fb7a2d269afb8ad",
+    "leaf": "4003bd32255edcd869518a14a24f06d7df307009016968360b2b0af63cb93e80",
     "parent": "ba196f5f127998579af0f8d811024672eafeb248836f345fb18bd32ea97adb5d",
-    "timestamp": "2026-04-17T06:15:12.874Z",
+    "timestamp": "2026-04-18T06:15:12.480Z",
     "source": "topic:blockchain",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/d1edece2527c4598efa5b1b8cc72ef3ff0393e2940b988db6fb7a2d269afb8ad",
+    "verify": "https://origin.rootz.global/api/verify/4003bd32255edcd869518a14a24f06d7df307009016968360b2b0af63cb93e80",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-17T06:15:12.874Z",
+    "exported_at": "2026-04-18T06:15:12.480Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

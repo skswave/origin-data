@@ -3,7 +3,7 @@
   "topic": "sovereign",
   "label": "Sovereign",
   "companies": 179,
-  "total_mentions": 1419,
+  "total_mentions": 1423,
   "results": [
     {
       "ticker": "JPM",
@@ -576,6 +576,17 @@
       "company": "Medtronic plc",
       "mentions": 5,
       "quarters": []
+    },
+    {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 5,
+      "quarters": [
+        "Q1_FY2025",
+        "Q2_FY2025",
+        "Q3_FY2025",
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "PFE",
@@ -1377,12 +1388,6 @@
       "quarters": []
     },
     {
-      "ticker": "MSTR",
-      "company": "Strategy Inc",
-      "mentions": 1,
-      "quarters": []
-    },
-    {
       "ticker": "NET",
       "company": "Cloudflare, Inc.",
       "mentions": 1,
@@ -1451,17 +1456,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=sovereign",
   "origin": {
-    "leaf": "ff5c7cb22482408999c7a1dba896066320d282d409521a1bd5ecd0dda17444fa",
+    "leaf": "450da6f94108338f0157050e350a2295117ffd217f70dde012a3e1ee0e172c30",
     "parent": "24de994e7d8a7a0d94f4b1753daa3088dd645a221afea80e31ec61eb4c3ae0a1",
-    "timestamp": "2026-04-17T06:15:12.913Z",
+    "timestamp": "2026-04-18T06:15:12.523Z",
     "source": "topic:sovereign",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/ff5c7cb22482408999c7a1dba896066320d282d409521a1bd5ecd0dda17444fa",
+    "verify": "https://origin.rootz.global/api/verify/450da6f94108338f0157050e350a2295117ffd217f70dde012a3e1ee0e172c30",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-17T06:15:12.913Z",
+    "exported_at": "2026-04-18T06:15:12.523Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

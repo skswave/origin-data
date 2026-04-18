@@ -3,7 +3,7 @@
   "topic": "platform",
   "label": "Platform",
   "companies": 192,
-  "total_mentions": 1368,
+  "total_mentions": 1372,
   "results": [
     {
       "ticker": "JPM",
@@ -593,6 +593,17 @@
       "company": "KEYCORP /NEW/",
       "mentions": 5,
       "quarters": []
+    },
+    {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 5,
+      "quarters": [
+        "Q1_FY2024",
+        "Q2_FY2024",
+        "Q4_FY2023",
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "SYK",
@@ -1443,12 +1454,6 @@
       ]
     },
     {
-      "ticker": "MSTR",
-      "company": "Strategy Inc",
-      "mentions": 1,
-      "quarters": []
-    },
-    {
       "ticker": "NET",
       "company": "Cloudflare, Inc.",
       "mentions": 1,
@@ -1559,17 +1564,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=platform",
   "origin": {
-    "leaf": "2f0fb19afd7ab4b96e8c3b98c286132a715dad84693b41d0b790b6958420c14c",
+    "leaf": "256d6dd83dac4ae4beb655e88a5de03c6ca2f0f2d318d09185a24a60ef2c17a5",
     "parent": "dc21c349579969094041190654c2bb9cc6b8dbaf4c012b8ac525179b00fa244c",
-    "timestamp": "2026-04-17T06:15:12.905Z",
+    "timestamp": "2026-04-18T06:15:12.514Z",
     "source": "topic:platform",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/2f0fb19afd7ab4b96e8c3b98c286132a715dad84693b41d0b790b6958420c14c",
+    "verify": "https://origin.rootz.global/api/verify/256d6dd83dac4ae4beb655e88a5de03c6ca2f0f2d318d09185a24a60ef2c17a5",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-17T06:15:12.905Z",
+    "exported_at": "2026-04-18T06:15:12.514Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

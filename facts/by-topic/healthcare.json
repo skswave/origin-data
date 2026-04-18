@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "healthcare",
   "label": "Healthcare",
-  "companies": 133,
-  "total_mentions": 612,
+  "companies": 134,
+  "total_mentions": 613,
   "results": [
     {
       "ticker": "JPM",
@@ -886,6 +886,14 @@
       ]
     },
     {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 1,
+      "quarters": [
+        "Q3_FY2024"
+      ]
+    },
+    {
       "ticker": "NET",
       "company": "Cloudflare, Inc.",
       "mentions": 1,
@@ -1004,17 +1012,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=healthcare",
   "origin": {
-    "leaf": "e583eb4c7dcaf353ca80679bb18ae95fe84d51650cf99d0fd34a81f4af48a5a7",
+    "leaf": "db7ccdfbd29659266fc4cbc389957dcdc644fe6b3e56952c162242701083db7b",
     "parent": "464af74c511eb9586b1f9e146f7a78144e51f302c18b853ee181d347af4e0254",
-    "timestamp": "2026-04-14T06:15:12.754Z",
+    "timestamp": "2026-04-18T06:15:12.510Z",
     "source": "topic:healthcare",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/e583eb4c7dcaf353ca80679bb18ae95fe84d51650cf99d0fd34a81f4af48a5a7",
+    "verify": "https://origin.rootz.global/api/verify/db7ccdfbd29659266fc4cbc389957dcdc644fe6b3e56952c162242701083db7b",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-14T06:15:12.754Z",
+    "exported_at": "2026-04-18T06:15:12.510Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -1,0 +1,31 @@
+{
+  "schema": "rootz.ai/sec-transcript/v1",
+  "ticker": "MSTR",
+  "company": "Strategy Inc",
+  "title": "MSTR Q4 FY2023 Earnings Call Transcript",
+  "fiscal_quarter": "Q4",
+  "fiscal_year": "FY2023",
+  "call_date": null,
+  "word_count": 2676,
+  "speakers": [],
+  "facts": [],
+  "qa_count": null,
+  "live_api": "https://origin.rootz.global/api/company/MSTR/transcripts",
+  "origin": {
+    "leaf": "cc8436ee2ac98cbdc63611fa01da69e43cf9c75abd77e948e4c7925953243898",
+    "parent": "492d729a54228cac459f966fe09172f7f057fc9cf53a2577fc6b6a9cd7d4388062ff4d1bf0e716c21e23e1622e9754cf",
+    "timestamp": "2026-04-18T06:15:12.072Z",
+    "source": "transcript:MSTR_Q4_2023_transcript.pdf",
+    "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
+    "registry": "origin.rootz.global",
+    "verify": "https://origin.rootz.global/api/verify/cc8436ee2ac98cbdc63611fa01da69e43cf9c75abd77e948e4c7925953243898",
+    "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
+  },
+  "_sync": {
+    "exported_at": "2026-04-18T06:15:12.072Z",
+    "server_version": "origin.rootz.global",
+    "mirror": "github.com/skswave/origin-data",
+    "live_api": "https://origin.rootz.global",
+    "note": "This is a daily snapshot. For real-time data, search, and MCP tools, use the live API."
+  }
+}

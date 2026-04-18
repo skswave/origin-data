@@ -3,7 +3,7 @@
   "topic": "ai",
   "label": "Ai",
   "companies": 205,
-  "total_mentions": 1172,
+  "total_mentions": 1182,
   "results": [
     {
       "ticker": "AMD",
@@ -332,6 +332,23 @@
       "company": "Marvell Technology, Inc.",
       "mentions": 11,
       "quarters": []
+    },
+    {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 11,
+      "quarters": [
+        "Q1_FY2024",
+        "Q1_FY2025",
+        "Q2_FY2024",
+        "Q2_FY2025",
+        "Q3_FY2023",
+        "Q3_FY2024",
+        "Q3_FY2025",
+        "Q4_FY2023",
+        "Q4_FY2024",
+        "Q4_FY2025"
+      ]
     },
     {
       "ticker": "ADBE",
@@ -1391,12 +1408,6 @@
       "quarters": []
     },
     {
-      "ticker": "MSTR",
-      "company": "Strategy Inc",
-      "mentions": 1,
-      "quarters": []
-    },
-    {
       "ticker": "NET",
       "company": "Cloudflare, Inc.",
       "mentions": 1,
@@ -1543,17 +1554,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=ai",
   "origin": {
-    "leaf": "2dfd2c176d8ccf9cb00b529ebf9f23d24a630603c3b910697f82fdabe1dfaee7",
+    "leaf": "3cdc8b24dd830d04f8774ac06ac7315ea33c73b9bfbe415c919327d7719d063d",
     "parent": "30291d16be95c2e5b2a2d3c95f5b4be34aa80f49ceaabc1712863827de2b89e6",
-    "timestamp": "2026-04-17T06:15:12.864Z",
+    "timestamp": "2026-04-18T06:15:12.469Z",
     "source": "topic:ai",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/2dfd2c176d8ccf9cb00b529ebf9f23d24a630603c3b910697f82fdabe1dfaee7",
+    "verify": "https://origin.rootz.global/api/verify/3cdc8b24dd830d04f8774ac06ac7315ea33c73b9bfbe415c919327d7719d063d",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-17T06:15:12.864Z",
+    "exported_at": "2026-04-18T06:15:12.469Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

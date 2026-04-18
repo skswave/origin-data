@@ -2,8 +2,8 @@
   "schema": "rootz.ai/topic-facts/v1",
   "topic": "quantum",
   "label": "Quantum",
-  "companies": 18,
-  "total_mentions": 52,
+  "companies": 19,
+  "total_mentions": 53,
   "results": [
     {
       "ticker": "PANW",
@@ -123,6 +123,14 @@
       "quarters": []
     },
     {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "mentions": 1,
+      "quarters": [
+        "Q4_FY2025"
+      ]
+    },
+    {
       "ticker": "ZTS",
       "company": "Zoetis Inc.",
       "mentions": 1,
@@ -131,17 +139,17 @@
   ],
   "live_api": "https://origin.rootz.global/api/search/transcripts?topic=quantum",
   "origin": {
-    "leaf": "e55ddf62743a3d82054e8a7b592922b1bb4f71fd5d5a0469ced14ca868a98f69",
+    "leaf": "325809d0cdacbeec5763d7f7be9e9efb6ebbc2826b5cfdc9d56cc4531aace826",
     "parent": "6c4dc7ced18f5e0e87bb80dcfe67bf75f525e5f9ee9b61e009bb29824b62d698",
-    "timestamp": "2026-04-14T06:15:12.759Z",
+    "timestamp": "2026-04-18T06:15:12.516Z",
     "source": "topic:quantum",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/e55ddf62743a3d82054e8a7b592922b1bb4f71fd5d5a0469ced14ca868a98f69",
+    "verify": "https://origin.rootz.global/api/verify/325809d0cdacbeec5763d7f7be9e9efb6ebbc2826b5cfdc9d56cc4531aace826",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-14T06:15:12.759Z",
+    "exported_at": "2026-04-18T06:15:12.516Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",
