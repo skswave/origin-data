@@ -12,8 +12,13 @@
   "ipo_date": null,
   "status": "active",
   "fiscal_year_end": "1231",
-  "summary": "Public Storage (PSA) is a real estate investment trust (REIT) that operates self-storage facilities. Based on the provided SEC 10-K filing excerpt, the section shown is an exhibit containing a Rule 13a-14(a) certification by CEO Joseph D. Russell, Jr., and does not contain detailed business description information about specific products, services, or operations.",
-  "tags": [],
+  "summary": "Public Storage (PSA) is a real estate investment trust (REIT) that owns, operates, acquires, and develops self-storage facilities across the United States. The company also operates a tenant reinsurance business, manages self-storage facilities for third-party owners for a fee, and holds an ownership stake in Shurgard, a publicly traded self-storage operator in Europe.",
+  "tags": [
+    "self-storage-real-estate",
+    "tenant-insurance/reinsurance",
+    "european-self-storage-(via-shurgard)",
+    "third-party-property-management"
+  ],
   "peak_metrics": {
     "market_cap_usd": null,
     "market_cap_date": null,
@@ -25,17 +30,17 @@
   "last_filing_date": null,
   "live_api": "https://origin.rootz.global/api/company/PSA",
   "origin": {
-    "leaf": "170d6c6e63c047902629fd9bbb00200d78533d2bacb7cee8b2e12bbee5d0e18d",
+    "leaf": "2448503ccd32a51a8ccc49d69ed15174b8fa9e6455aa027abb3b302ef332fc27",
     "parent": "691a43c6bda0fefc152e49560878cd557ecd95db84793b52bef4b21fc880237c",
-    "timestamp": "2026-04-12T03:12:50.348Z",
+    "timestamp": "2026-04-28T06:15:01.440Z",
     "source": "0001628280-26-007696",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/170d6c6e63c047902629fd9bbb00200d78533d2bacb7cee8b2e12bbee5d0e18d",
+    "verify": "https://origin.rootz.global/api/verify/2448503ccd32a51a8ccc49d69ed15174b8fa9e6455aa027abb3b302ef332fc27",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:12:50.348Z",
+    "exported_at": "2026-04-28T06:15:01.440Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -12,8 +12,13 @@
   "ipo_date": null,
   "status": "active",
   "fiscal_year_end": "1231",
-  "summary": "CSX Corp is the parent company of CSX Transportation, Inc., a Virginia corporation and its primary significant subsidiary. The filing indicates CSX is a registered holding company with consolidated subsidiaries. Based on the filing, CSX Transportation operates as the core business entity, though specific services, products, or operational details are not described in this excerpt.",
-  "tags": [],
+  "summary": "CSX Corporation, through its subsidiary CSXT, operates as a Class I freight railroad providing rail-based transportation services across its network. The company transports a variety of commodities and products, including hazardous materials, as a common carrier by rail. CSX also faces competition from motor carriers, barges, ships, and pipelines across its service area.",
+  "tags": [
+    "freight-transportation",
+    "hazardous-materials-transport",
+    "import-and-export-logistics",
+    "intermodal-transportation"
+  ],
   "peak_metrics": {
     "market_cap_usd": null,
     "market_cap_date": null,
@@ -25,17 +30,17 @@
   "last_filing_date": null,
   "live_api": "https://origin.rootz.global/api/company/CSX",
   "origin": {
-    "leaf": "1cf2283c3ab2b62c82585116a0a3b5ec490738579868ae940564483a32e5a18c",
+    "leaf": "5cbd7336140dfe5257d2831674792cfcc32e4645df25dd29e92e7757d847bc46",
     "parent": "f7411a051409527a79788f841f9ccb85417cd03ee3e1c81f4f26de8b4804b107",
-    "timestamp": "2026-04-12T03:12:50.325Z",
+    "timestamp": "2026-04-28T06:15:01.371Z",
     "source": "0000277948-26-000006",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/1cf2283c3ab2b62c82585116a0a3b5ec490738579868ae940564483a32e5a18c",
+    "verify": "https://origin.rootz.global/api/verify/5cbd7336140dfe5257d2831674792cfcc32e4645df25dd29e92e7757d847bc46",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:12:50.325Z",
+    "exported_at": "2026-04-28T06:15:01.371Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

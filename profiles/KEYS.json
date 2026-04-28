@@ -3,20 +3,87 @@
   "ticker": "KEYS",
   "name": "Keysight Technologies, Inc.",
   "cik": "0001601046",
-  "summary": "Keysight Technologies, Inc. is a technology company with significant subsidiaries operating across the Netherlands, Luxembourg, Singapore, Delaware, the United Kingdom, and through Spirent Communications Plc. The filing excerpt lists subsidiary entities but does not detail specific products or services within this section. Keysight is known for electronic test and measurement equipment, software, and services.",
+  "summary": "Keysight Technologies, Inc. is a global provider of design and test solutions for the computing, communications, and electronics markets. The company offers hardware instruments (spectrum analyzers, oscilloscopes, network analyzers, signal generators, power supplies), software, and services that enable customers to design, validate, manufacture, deploy, and optimize electronic products. Revenue is primarily derived from R&D applications, serving over 40,000 end customers annually across communications, aerospace, defense, automotive, energy, semiconductor, and other industries in over 100 countries.",
+  "products": [
+    {
+      "name": "Spectrum and Signal Analyzers",
+      "type": "hardware",
+      "description": "Analysis of complex communications and radar signals across RF, microwave, and optical frequencies."
+    },
+    {
+      "name": "Network Analyzers",
+      "type": "hardware",
+      "description": "Characterization of electronic components and subsystems behavior under a range of input signals."
+    },
+    {
+      "name": "Power Analyzers",
+      "type": "hardware",
+      "description": "Measurement of voltage, current, and power characteristics of electronic devices or systems."
+    },
+    {
+      "name": "Protocol Analyzers",
+      "type": "hardware",
+      "description": "Debug, validation, and optimization of electronic systems using protocols such as PCIe and USB."
+    },
+    {
+      "name": "Oscilloscopes",
+      "type": "hardware",
+      "description": "Precise visualization, debug, and characterization of time domain signals across wide operating conditions."
+    },
+    {
+      "name": "Digital Multimeters",
+      "type": "hardware",
+      "description": "Accurate measurement of basic electrical parameters in a variety of form factors."
+    },
+    {
+      "name": "Signal Generators",
+      "type": "hardware",
+      "description": "Precise generation of a broad variety of signals used to stimulate electronic devices and systems under test."
+    },
+    {
+      "name": "Power Supplies",
+      "type": "hardware",
+      "description": "Precise control of power delivery to electrical and electronic systems under test."
+    },
+    {
+      "name": "Network Test Products",
+      "type": "hardware",
+      "description": "Debug, validation, and characterization of communication networks and components across operating conditions."
+    },
+    {
+      "name": "Network Visibility Products",
+      "type": "hardware",
+      "description": "Portfolio delivering data insight on network traffic, applications, and users to ensure connectivity and security."
+    },
+    {
+      "name": "Design Engineering Software",
+      "type": "software",
+      "description": "Software solutions for design and data management, including computer-aided engineering capabilities."
+    },
+    {
+      "name": "Enterprise Software Solutions",
+      "type": "software",
+      "description": "Software delivered via dedicated enterprise sales force to drive recurring revenue and cross-selling."
+    },
+    {
+      "name": "Keysight Services Portfolio",
+      "type": "service",
+      "description": "Broad services extending solution lifecycle value for customers worldwide."
+    }
+  ],
   "live_api": "https://origin.rootz.global/api/company/KEYS/profile",
   "origin": {
-    "leaf": "72556b55304c114f7a1e1e8f763264579034ead9a17519f9dbc6298edede892c",
+    "leaf": "a548d6e5ed24dcda4d67a2d9450bb59340f59ae530685407339f5df726ed742a",
     "parent": "12e0e5dea11837f27903ca6a095be1dbc213754a07d125152b35116266223ed8",
-    "timestamp": "2026-04-12T03:12:54.789Z",
+    "timestamp": "2026-04-28T06:15:09.444Z",
     "source": "profile:0001601046",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/72556b55304c114f7a1e1e8f763264579034ead9a17519f9dbc6298edede892c",
+    "verify": "https://origin.rootz.global/api/verify/a548d6e5ed24dcda4d67a2d9450bb59340f59ae530685407339f5df726ed742a",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:12:54.789Z",
+    "exported_at": "2026-04-28T06:15:09.444Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -3,20 +3,45 @@
   "ticker": "PSA",
   "name": "Public Storage",
   "cik": "0001393311",
-  "summary": "Public Storage (PSA) is a real estate investment trust (REIT) that operates self-storage facilities. Based on the provided SEC 10-K filing excerpt, the section shown is an exhibit containing a Rule 13a-14(a) certification by CEO Joseph D. Russell, Jr., and does not contain detailed business description information about specific products, services, or operations.",
+  "summary": "Public Storage (PSA) is a real estate investment trust (REIT) that owns, operates, acquires, and develops self-storage facilities across the United States. The company also operates a tenant reinsurance business, manages self-storage facilities for third-party owners for a fee, and holds an ownership stake in Shurgard, a publicly traded self-storage operator in Europe.",
+  "products": [
+    {
+      "name": "Self-Storage Facilities",
+      "type": "service",
+      "description": "Rental of self-storage units to individual and business customers across the United States."
+    },
+    {
+      "name": "Tenant Reinsurance",
+      "type": "service",
+      "description": "Insurance reinsurance product offered to tenants to cover potential loss or damage to stored property."
+    },
+    {
+      "name": "Third-Party Property Management",
+      "type": "service",
+      "description": "Fee-based management of self-storage facilities owned by third parties, including properties in lease-up/stabilization phase."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Shurgard",
+      "partnership_type": "strategic",
+      "description": "Public Storage holds an ownership stake in Shurgard, a publicly traded self-storage owner, operator, and developer in Europe.",
+      "start_date": null
+    }
+  ],
   "live_api": "https://origin.rootz.global/api/company/PSA/profile",
   "origin": {
-    "leaf": "c09ff8f6736d299be725ce710fadbfa5767b53a88fa3802dcf9f7c729b1cebea",
+    "leaf": "ba4fb776ad032f8215b697700bc2d05e1053b1ad555476ecdaafe43bcc4ce749",
     "parent": "c65d54011af76cef468eca158f067081140ce04bcec4f381a8a99ff678a1f9e5",
-    "timestamp": "2026-04-12T03:12:54.790Z",
+    "timestamp": "2026-04-28T06:15:09.446Z",
     "source": "profile:0001393311",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/c09ff8f6736d299be725ce710fadbfa5767b53a88fa3802dcf9f7c729b1cebea",
+    "verify": "https://origin.rootz.global/api/verify/ba4fb776ad032f8215b697700bc2d05e1053b1ad555476ecdaafe43bcc4ce749",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T03:12:54.790Z",
+    "exported_at": "2026-04-28T06:15:09.446Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -3,20 +3,78 @@
   "ticker": "QCOM",
   "name": "QUALCOMM INC/DE",
   "cik": "0000804328",
-  "summary": "QUALCOMM Incorporated is a semiconductor and telecommunications company focused on the development and commercialization of wireless technology. The company operates through its QCT (semiconductor) and QTL (technology licensing) segments, developing and supplying integrated circuits and system software for mobile devices, automotive, IoT, and computing applications, while licensing its extensive intellectual property portfolio related to wireless communications standards including CDMA and OFDMA technologies.",
+  "summary": "Qualcomm is a global technology company that develops and commercializes foundational technologies including on-device AI, high-performance computing, and advanced wireless connectivity. It derives revenue from sales of integrated circuit products (Snapdragon and Qualcomm Dragonwing families) and licensing of intellectual property. Its platforms serve handsets, automotive (Snapdragon Digital Chassis), and IoT markets including PCs, XR devices, edge networking, and industrial applications. It operates three reportable segments: QCT (semiconductors), QTL (technology licensing), and QSI (strategic investments).",
+  "products": [
+    {
+      "name": "Snapdragon",
+      "type": "platform",
+      "description": "Highly-integrated system-based semiconductor platforms for mobile devices, automotive, and IoT applications."
+    },
+    {
+      "name": "Qualcomm Dragonwing",
+      "type": "platform",
+      "description": "Family of highly-integrated system-based solutions alongside Snapdragon for various device categories."
+    },
+    {
+      "name": "Snapdragon Digital Chassis",
+      "type": "platform",
+      "description": "Automotive platform covering connectivity, digital cockpit, and ADAS/AD solutions."
+    },
+    {
+      "name": "Snapdragon X Series",
+      "type": "platform",
+      "description": "AI-focused PC platform enabling on-device AI processing at low power for enhanced productivity."
+    },
+    {
+      "name": "QCT Integrated Circuit Platforms",
+      "type": "hardware",
+      "description": "Semiconductor chips and modules with advanced connectivity and high-performance, low-power computing for mobile, automotive, and IoT."
+    },
+    {
+      "name": "QTL Licensing Programs",
+      "type": "service",
+      "description": "Licensing of Qualcomm intellectual property portfolio including essential patents for wireless products."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Manufacturers",
+      "partnership_type": "OEM",
+      "description": "Collaboration with device manufacturers to enable next-generation digital transformation across ecosystems.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Mobile Operators",
+      "partnership_type": "development",
+      "description": "Collaboration to develop and deploy 5G networks and services.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Industry Standards Organizations",
+      "partnership_type": "development",
+      "description": "Collaboration on industry standards including 5G, Wi-Fi, UWB, and other wireless technologies.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Cloud Providers",
+      "partnership_type": "development",
+      "description": "Collaboration to enable hybrid on-device and cloud AI workloads and services.",
+      "start_date": null
+    }
+  ],
   "live_api": "https://origin.rootz.global/api/company/QCOM/profile",
   "origin": {
-    "leaf": "ee7c23bedd55eb076cd1d219b3c86e6ff1ac85bd763323685f599165923c53bc",
+    "leaf": "b4aaf0ffe3c2ee2103dab5f36ed76f489fa1079cabded190bb5e7105a8eddce6",
     "parent": "d25df15097763a519824552a96c16c2f5e7f2f751435ddd20ca22b66647f0851",
-    "timestamp": "2026-04-12T02:42:23.005Z",
+    "timestamp": "2026-04-28T06:15:09.287Z",
     "source": "profile:0000804328",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/ee7c23bedd55eb076cd1d219b3c86e6ff1ac85bd763323685f599165923c53bc",
+    "verify": "https://origin.rootz.global/api/verify/b4aaf0ffe3c2ee2103dab5f36ed76f489fa1079cabded190bb5e7105a8eddce6",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:42:23.005Z",
+    "exported_at": "2026-04-28T06:15:09.287Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

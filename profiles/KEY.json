@@ -3,27 +3,77 @@
   "ticker": "KEY",
   "name": "KEYCORP /NEW/",
   "cik": "0000091576",
-  "summary": "PART I Overview KeyCorp, organized in 1958 under the laws of the State of Ohio, is headquartered in Cleveland, Ohio. We are a BHC under the BHCA and one of the nations largest bank-based financial services companies, with consolidated total assets of approximately $184.4 billion at December31, 2025. KeyCorp is the parent holding company for KeyBank National Association, its principal subsidiary, through which most of our banking services are provided. Through KeyBank and certain other subsidiari...",
+  "summary": "KeyCorp, headquartered in Cleveland, Ohio, is a bank holding company and one of the largest bank-based financial services companies in the U.S., with approximately $184.4 billion in total assets as of December 31, 2025. Through KeyBank National Association and other subsidiaries, it offers retail and commercial banking, commercial leasing, investment management, consumer finance, student loan refinancing, commercial mortgage servicing, investment banking, and capital markets products to individual, corporate, and institutional clients across 15 states.",
   "products": [
     {
       "name": "Restricted Stock Unit Award",
       "type": "service",
       "description": "Equity compensation awards granting contingent rights to receive KeyCorp Common Shares upon vesting under the 2019 Equity Compensation Plan."
+    },
+    {
+      "name": "Retail Banking",
+      "type": "service",
+      "description": "Deposit and lending products offered through 940 full-service branches across 15 states."
+    },
+    {
+      "name": "Commercial Banking",
+      "type": "service",
+      "description": "Borrowing, cash management, and capital markets services for middle market and large corporate clients."
+    },
+    {
+      "name": "Investment Management",
+      "type": "service",
+      "description": "Portfolio management for retirement plans, foundations, endowments, and high-net-worth individuals."
+    },
+    {
+      "name": "Commercial Mortgage Servicing",
+      "type": "service",
+      "description": "Third-party master and special servicing of commercial mortgage loans nationally."
+    },
+    {
+      "name": "Student Loan Refinancing",
+      "type": "service",
+      "description": "Student loan refinancing products offered through Consumer Bank and digital brand."
+    },
+    {
+      "name": "KBCM Capital Markets Platform",
+      "type": "platform",
+      "description": "Syndicated finance, debt/equity underwriting, sales and trading, derivatives, FX, M&A advisory, and public finance."
+    },
+    {
+      "name": "Treasury Services",
+      "type": "service",
+      "description": "Cash management and treasury services for individuals and businesses."
+    },
+    {
+      "name": "Wealth Management",
+      "type": "service",
+      "description": "Banking, trust, portfolio management, and charitable giving services for non-profit and high-net-worth clients."
+    },
+    {
+      "name": "Merchant Services",
+      "type": "service",
+      "description": "Payment and merchant processing services offered to businesses."
+    },
+    {
+      "name": "Community Development Financing",
+      "type": "service",
+      "description": "Community development financing provided through nonbank subsidiaries."
     }
   ],
   "live_api": "https://origin.rootz.global/api/company/KEY/profile",
   "origin": {
-    "leaf": "8a72a6676811787ef296756f407eae561809b7911a00ffe7916b88fccb11be88",
+    "leaf": "f7906cac20873961759b4abfd800693b19d706312baba40b69925f0f85bfaea3",
     "parent": "a902e2363edd9e27ecad3ac9f71778816913d2b3c8cdf27701ad21f180208a8d",
-    "timestamp": "2026-04-13T06:15:06.009Z",
+    "timestamp": "2026-04-28T06:15:09.629Z",
     "source": "profile:0000091576",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/8a72a6676811787ef296756f407eae561809b7911a00ffe7916b88fccb11be88",
+    "verify": "https://origin.rootz.global/api/verify/f7906cac20873961759b4abfd800693b19d706312baba40b69925f0f85bfaea3",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-13T06:15:06.009Z",
+    "exported_at": "2026-04-28T06:15:09.629Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

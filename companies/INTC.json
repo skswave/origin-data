@@ -12,8 +12,14 @@
   "ipo_date": null,
   "status": "active",
   "fiscal_year_end": "1227",
-  "summary": "Intel Corporation is a semiconductor company that designs and manufactures processors, chipsets, and related technologies. The company develops products including CPUs, GPUs, FPGAs, and networking solutions for data centers, personal computers, and embedded applications. Intel also operates a foundry services business. Its CEO is Lip-Bu Tan and its principal financial officer is David Zinsner.",
-  "tags": [],
+  "summary": "Intel Corporation is a technology company that designs and manufactures semiconductor products including microprocessors, chipsets, and related computing components. Intel serves data center, cloud, PC, mobile, and embedded markets. The company operates as both a chip designer and manufacturer (IDM model), offering products under segments including client computing and data center solutions.",
+  "tags": [
+    "data-center",
+    "cloud-computing",
+    "pc/client-computing",
+    "mobile",
+    "embedded-systems"
+  ],
   "peak_metrics": {
     "market_cap_usd": null,
     "market_cap_date": null,
@@ -25,17 +31,17 @@
   "last_filing_date": null,
   "live_api": "https://origin.rootz.global/api/company/INTC",
   "origin": {
-    "leaf": "501fdd7b49ea3875b87d35683e7d6d70234643152e40e18f90b8a88a0061bfd3",
+    "leaf": "575d37062098d94a0b46a6a4d653edd9f6d246e6ad94dc3577a24a1ba4ebe23e",
     "parent": "e51e2afd59c6ceae01d1511a416097a98a7c6eeff29e1e2cb618b268c56cd553",
-    "timestamp": "2026-04-12T02:42:22.959Z",
+    "timestamp": "2026-04-28T06:15:01.233Z",
     "source": "0000050863-26-000011",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/501fdd7b49ea3875b87d35683e7d6d70234643152e40e18f90b8a88a0061bfd3",
+    "verify": "https://origin.rootz.global/api/verify/575d37062098d94a0b46a6a4d653edd9f6d246e6ad94dc3577a24a1ba4ebe23e",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:42:22.959Z",
+    "exported_at": "2026-04-28T06:15:01.233Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

@@ -3,20 +3,125 @@
   "ticker": "AMGN",
   "name": "AMGEN INC",
   "cik": "0000318154",
-  "summary": "PART I Amgen Inc. (including its subsidiaries, referred to as Amgen, the Company, we, our or us) discovers, develops, manufactures and delivers innovative medicines to fight some of the worlds toughest diseases. We focus on areas of high unmet medical need and leverage our expertise to strive for solutions that dramatically improve peoples lives, while also reducing the social and economic burden of disease. We helped launch the biotechnology industry more than 45 years ago and have grown to be ...",
+  "summary": "Amgen Inc. is a leading independent biotechnology company that discovers, develops, manufactures, and delivers innovative human therapeutics. Founded in 1980, it operates in approximately 100 countries and focuses on areas of high unmet medical need. Key products include Prolia, XGEVA, Repatha, Otezla, TEZSPIRE, TEPEZZA, KRYSTEXXA, UPLIZNA, IMDELLTRA, and MariTide, targeting cardiovascular disease, osteoporosis, inflammation, oncology, and rare diseases.",
+  "products": [
+    {
+      "name": "Prolia",
+      "type": "service",
+      "description": "RANKL antibody for treatment of osteoporosis in postmenopausal women and men at high risk of fracture."
+    },
+    {
+      "name": "XGEVA",
+      "type": "service",
+      "description": "Same active ingredient as Prolia but approved for different oncology-related bone indications."
+    },
+    {
+      "name": "Repatha",
+      "type": "service",
+      "description": "PCSK9 inhibitor indicated to reduce major adverse cardiovascular events and LDL-C in adults."
+    },
+    {
+      "name": "Otezla",
+      "type": "service",
+      "description": "Oral PDE4 inhibitor approved for plaque psoriasis, psoriatic arthritis, Behçet's disease oral ulcers."
+    },
+    {
+      "name": "TEZSPIRE",
+      "type": "service",
+      "description": "Biologic approved as add-on maintenance for severe asthma and chronic rhinosinusitis with nasal polyps."
+    },
+    {
+      "name": "TEPEZZA",
+      "type": "service",
+      "description": "Treatment for moderate-to-severe thyroid eye disease; acquired via Horizon acquisition in 2023."
+    },
+    {
+      "name": "KRYSTEXXA",
+      "type": "service",
+      "description": "Treatment product acquired through Horizon acquisition in October 2023."
+    },
+    {
+      "name": "UPLIZNA",
+      "type": "service",
+      "description": "First and only FDA-approved treatment for IgG4-RD; also approved for generalized myasthenia gravis in adults."
+    },
+    {
+      "name": "IMDELLTRA/IMDYLLTRA",
+      "type": "service",
+      "description": "Bispecific T-cell engager fully approved for extensive-stage small cell lung cancer after platinum-based chemotherapy."
+    },
+    {
+      "name": "TAVNEOS",
+      "type": "service",
+      "description": "Adjunctive treatment for severe active ANCA-associated vasculitis; subject to FDA voluntary withdrawal request in 2026."
+    },
+    {
+      "name": "MariTide (maridebart cafraglutide)",
+      "type": "service",
+      "description": "Antibody-peptide conjugate activating GLP-1 and antagonizing GIPR; in Phase 3 for chronic weight management and related conditions."
+    },
+    {
+      "name": "Bemarituzumab",
+      "type": "service",
+      "description": "Investigated in Phase 3 for first-line gastric cancer; company decided not to pursue regulatory approval in 2026."
+    },
+    {
+      "name": "Rocatinlimab",
+      "type": "service",
+      "description": "Collaboration with Kyowa Kirin; control transitioned to Kyowa Kirin in early 2026."
+    }
+  ],
+  "partnerships": [
+    {
+      "partner_name": "Astellas Pharma Inc.",
+      "partnership_type": "strategic",
+      "description": "Partnership to sell products in the Asia Pacific region.",
+      "start_date": null
+    },
+    {
+      "partner_name": "BeOne",
+      "partnership_type": "strategic",
+      "description": "Partnership to sell products in the Asia Pacific region.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Mitsubishi Tanabe Pharma Corporation",
+      "partnership_type": "strategic",
+      "description": "Partnership to sell products in the Asia Pacific region.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Takeda Pharmaceutical Co., Ltd.",
+      "partnership_type": "strategic",
+      "description": "Partnership to sell products in the Asia Pacific region.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Kyowa Kirin",
+      "partnership_type": "strategic",
+      "description": "Asia Pacific product sales partner; also assumed global control of rocatinlimab development and commercialization in 2026.",
+      "start_date": null
+    },
+    {
+      "partner_name": "Bristol Myers Squibb Company",
+      "partnership_type": "licensing",
+      "description": "Amgen acquired Otezla from BMS in November 2019 following BMS's acquisition of Celgene.",
+      "start_date": null
+    }
+  ],
   "live_api": "https://origin.rootz.global/api/company/AMGN/profile",
   "origin": {
-    "leaf": "378ff9adc85b9c2e22c75a0dedb7ad680bd19daa9919fad86ab435ee1a548d25",
+    "leaf": "057c4ada2903e162fbfec1b9e0971cf3fb75307e557f5f2acbf7cf293c52616e",
     "parent": "b70bc92d739f161846d353ab31688c46e931710cea4ab61dbc767e3b8daf9b32",
-    "timestamp": "2026-04-12T02:42:23.020Z",
+    "timestamp": "2026-04-28T06:15:09.261Z",
     "source": "profile:0000318154",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/378ff9adc85b9c2e22c75a0dedb7ad680bd19daa9919fad86ab435ee1a548d25",
+    "verify": "https://origin.rootz.global/api/verify/057c4ada2903e162fbfec1b9e0971cf3fb75307e557f5f2acbf7cf293c52616e",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:42:23.020Z",
+    "exported_at": "2026-04-28T06:15:09.261Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",
