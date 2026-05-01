@@ -164,19 +164,28 @@
       "start_date": null
     }
   ],
+  "people": [
+    {
+      "name": "Matt",
+      "role": "Analyst, Miksic  Barclays Services Corp",
+      "role_type": "analyst",
+      "period_start": null,
+      "period_end": null
+    }
+  ],
   "live_api": "https://origin.rootz.global/api/company/JNJ/profile",
   "origin": {
-    "leaf": "ec12f641a947a0c22e79a39866eb22b5edc9e4f5572a7680df851f93599f4f8b",
+    "leaf": "913193cf3b966e17a39c132a7f7da8b93c22a88cd266043d9bcb6f205bec84ce",
     "parent": "d13ebf88329976823804771429812bbef48919b19a4e2e209c6ab62bc7c0a722",
-    "timestamp": "2026-04-12T02:42:22.992Z",
+    "timestamp": "2026-05-01T06:15:09.503Z",
     "source": "profile:0000200406",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/ec12f641a947a0c22e79a39866eb22b5edc9e4f5572a7680df851f93599f4f8b",
+    "verify": "https://origin.rootz.global/api/verify/913193cf3b966e17a39c132a7f7da8b93c22a88cd266043d9bcb6f205bec84ce",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:42:22.993Z",
+    "exported_at": "2026-05-01T06:15:09.503Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

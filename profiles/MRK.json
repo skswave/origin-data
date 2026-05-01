@@ -116,19 +116,35 @@
       "start_date": null
     }
   ],
+  "people": [
+    {
+      "name": "Christopher",
+      "role": "Analyst, Schott  JPMorgan Chase & Co",
+      "role_type": "analyst",
+      "period_start": null,
+      "period_end": null
+    },
+    {
+      "name": "Steve",
+      "role": "Analyst  Michael Nedelcovych  TD Cowen - Analyst, Scala  TD Cowen",
+      "role_type": "analyst",
+      "period_start": null,
+      "period_end": null
+    }
+  ],
   "live_api": "https://origin.rootz.global/api/company/MRK/profile",
   "origin": {
-    "leaf": "3d6fbbb91cbc1818491882bd515f4f573c8a334b19c6dc3a533fdfb89bbf71ee",
+    "leaf": "7217b4318684928328d948ef8e677c1beb2e59f2381320b05741da695767e08d",
     "parent": "f2b427ad4b01cb33ecf7e126a534a629ae3a4abcb277ce0cd0740311006a8935",
-    "timestamp": "2026-04-12T02:42:22.993Z",
+    "timestamp": "2026-05-01T06:15:09.517Z",
     "source": "profile:0000310158",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/3d6fbbb91cbc1818491882bd515f4f573c8a334b19c6dc3a533fdfb89bbf71ee",
+    "verify": "https://origin.rootz.global/api/verify/7217b4318684928328d948ef8e677c1beb2e59f2381320b05741da695767e08d",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:42:22.994Z",
+    "exported_at": "2026-05-01T06:15:09.517Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",

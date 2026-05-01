@@ -116,19 +116,35 @@
       "start_date": null
     }
   ],
+  "people": [
+    {
+      "name": "Steve",
+      "role": "Analyst, Scala  TD Cowen",
+      "role_type": "analyst",
+      "period_start": null,
+      "period_end": null
+    },
+    {
+      "name": "Albert",
+      "role": "Chairman of the Board, Chief Executive Officer, Bourla  Pfizer Inc",
+      "role_type": "board",
+      "period_start": null,
+      "period_end": null
+    }
+  ],
   "live_api": "https://origin.rootz.global/api/company/PFE/profile",
   "origin": {
-    "leaf": "1f1c200fb78c3543115dd1ce3d37fe6449c141c34004a3130cfd60475b54d7e9",
+    "leaf": "9c25e2c369957b94c4a7f6736f6fef4ed30cbd4303b17ceaaf8d5c99affbfe8c",
     "parent": "25d91c33a84ac879063a15213ae9a3e78a10c9bfbb008818aff1cfcf968cc154",
-    "timestamp": "2026-04-12T02:42:22.994Z",
+    "timestamp": "2026-05-01T06:15:09.545Z",
     "source": "profile:0000078003",
     "chain": "SEC.gov PEM → origin.rootz.global extraction → GitHub mirror",
     "registry": "origin.rootz.global",
-    "verify": "https://origin.rootz.global/api/verify/1f1c200fb78c3543115dd1ce3d37fe6449c141c34004a3130cfd60475b54d7e9",
+    "verify": "https://origin.rootz.global/api/verify/9c25e2c369957b94c4a7f6736f6fef4ed30cbd4303b17ceaaf8d5c99affbfe8c",
     "keep_alive": "Include this leaf as parent when citing this data. Verify freshness at the verify URL."
   },
   "_sync": {
-    "exported_at": "2026-04-12T02:42:22.994Z",
+    "exported_at": "2026-05-01T06:15:09.545Z",
     "server_version": "origin.rootz.global",
     "mirror": "github.com/skswave/origin-data",
     "live_api": "https://origin.rootz.global",
